@@ -1,0 +1,103 @@
+{
+  "article_id": "japantoday:2026-06-06:japan-seeks-to-replace-up-to-5-nuclear-r",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T21:58:43+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "The current cost of building a nuclear reactor is very high. Building a new large-scale nuclear reactor in Japan is exceptionally expensive, costing roughly $7 billion (approx. ¥1 trillion) for a 1 GW unit. This is three to four times higher than costs in other nations, driven by stringent seismic standards and expensive anti-terror measures.",
+      "translation_ja": "現在、原子炉を建設するコストは非常に高い。日本で新しい大規模原子炉を建てるのは特に高く、1ギガワット級でおよそ70億ドル（約1兆円）かかる。これは他国のコストの3〜4倍で、厳しい耐震基準と高額なテロ対策が理由だ。",
+      "notes_ja": [
+        "論調は冷静な事実説明。ニュース記事や解説コメントに近い標準的な英語。",
+        "driven by は「〜によって押し上げられている／起因している」という因果関係の表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227701,
+      "author": "wallace",
+      "rating": 7,
+      "posted_at": "2026-06-06T08:24:47+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "High-level radioactive waste is stored underground. Where is that then? In a seismically active country such as Japan there is no adequate safe storage.",
+      "translation_ja": "高レベル放射性廃棄物は地下に保管されている、と言う。じゃあそれはどこにあるの？日本のような地震が多い国には、十分に安全な保管場所はない。",
+      "notes_ja": [
+        "Where is that then? は前文を受けた反論の修辞疑問。「then」は「だから／それで」という含み。",
+        "there is no adequate safe storage は口語的だが文法的には問題ない。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227653,
+      "author": "kurisupisu",
+      "rating": 6,
+      "posted_at": "2026-06-06T08:02:46+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "I still have no idea why Japan hasn’t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations, tons of concrete (Japan loves concrete) jobs, I can’t help but think there is a “I’ll rub your back if you rub my back” going on.",
+      "translation_ja": "なぜ日本はもっと太陽光（日の出の国なのに）や海上の風力発電を増やさないのか、今でもさっぱりわからない。放射性物質を監視したり、埋めたり、保管したり、心配したりする必要もない。長期的には原子力発電所より、太陽光や風力のほうが雇用を支えられるかもしれない。空港のために海上に巨大な人工島を作っているのに、なぜ太陽光・風力ステーションのためにやらないの？大量のコンクリート（日本はコンクリート大好き）と雇用があるのに。どうしても「お互いの背中を流し合う」関係が働いているように思えてならない。",
+      "notes_ja": [
+        "being the land of the rising sun は括弧内の皮肉・皮肉めいた補足。「日の出の国なのに」という含み。",
+        "I can't help but think は「どうしても〜と思ってしまう」。文末の going on は「そういう状況が起きている／関係がある」。"
+      ],
+      "standard_en": "I still have no idea why Japan hasn't built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations? There would be tons of concrete—and Japan loves concrete—and jobs. I can't help but think there is a \"I'll scratch your back if you scratch mine\" situation going on.",
+      "marked_terms": [
+        {
+          "term": "I'll rub your back if you rub my back",
+          "symbol": "◇",
+          "note_ja": "口語イディオム。正しくは scratch your back が多い。利害の交換・癒着・裏取引をほのめかす表現。"
+        }
+      ],
+      "comment_id": 5227786,
+      "author": "Abe234",
+      "rating": 6,
+      "posted_at": "2026-06-06T09:01:53+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Nuclear power is only a good option if it is safe. This means updating the facilities. Let’s hope the contracts go to the right people.",
+      "translation_ja": "原子力は安全であって初めて良い選択肢だ。つまり施設の更新が必要ということ。契約が適切な人たちに行くことを願おう。",
+      "notes_ja": [
+        "the right people は文字通り「正しい人」だが、ここでは「信頼できる業者／適切な受注先」という含意。",
+        "短く穏やかなコメント。皮肉は弱いが、契約先への不信もうっすら読める。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227774,
+      "author": "obladi",
+      "rating": 5,
+      "posted_at": "2026-06-06T08:59:28+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "It surprises me that nuclear power accounts for so little energy production in Japan. It's seems a LOT of money and expense for a result of only 20% , Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 The disappointing output we get from it and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the JP govt in directing tbh. Why is there so little effort put into renewable energies in Japan? ( Little brown bags are the most likely answer).",
+      "translation_ja": "日本で原子力発電が占める割合がこれほど小さいのは驚く。わずか20%という結果のために、莫大なお金と費用がかかっているように思える。日本は2040年度までに電力の20%を原子力で賄う目標を掲げている。得られる出力はがっかりだし、うまくいかないときは本当にひどいことになる。このことから、日本政府の方針の効率さを疑わずにはいられない、正直に言って。なぜ日本では再生可能エネルギーへの取り組みがこれほど少ないのか？（一番ありそうな答えは、小さな茶色い袋だ）。",
+      "notes_ja": [
+        "It's seems は誤りで It's / It seems のどちらかが正しい。when it goes bad は「うまくいかないとき／事故ると」という口語。",
+        "tbh = to be honest（正直に言うと）のネットスラング。Little brown bags は賄賂・不正の婉曲表現。"
+      ],
+      "standard_en": "It surprises me that nuclear power accounts for so little energy production in Japan. It seems like a lot of money and expense for a result of only 20%. Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040. The disappointing output we get from it, and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the Japanese government in directing policy, to be honest. Why is there so little effort put into renewable energies in Japan? (Little brown bags are the most likely answer.)",
+      "marked_terms": [
+        {
+          "term": "tbh",
+          "symbol": "◇",
+          "note_ja": "to be honest の略。SNS・掲示板でよく使うカジュアルな略語。"
+        },
+        {
+          "term": "Little brown bags",
+          "symbol": "◇",
+          "note_ja": "茶封筒や紙袋に入れた現金＝賄賂・裏金をほのめかす婉曲表現。政治・建設業界の不正を暗示。"
+        }
+      ],
+      "comment_id": 5227922,
+      "author": "IMadeAnAccountJustForThis",
+      "rating": 5,
+      "posted_at": "2026-06-06T10:16:00+09:00"
+    }
+  ]
+}

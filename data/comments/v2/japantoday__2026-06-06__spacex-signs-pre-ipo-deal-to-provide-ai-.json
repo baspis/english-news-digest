@@ -1,0 +1,98 @@
+{
+  "article_id": "japantoday:2026-06-06:spacex-signs-pre-ipo-deal-to-provide-ai-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T21:57:53+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "It's called business. What's the big deal? It illustrates how much Grok is falling behind that it can't even nearly meet projections, that Musk even has to sell compute capacity to hated competition (one of which he called \"misanthropic and evil\") \"From 20 million to 8 million in 3 months: Elon Musk’s Grok chatbot falls behind in the AI race\" https://www.firstpost.com/tech/from-20-million-to-8-million-in-3-months-elon-musks-grok-chatbot-falls-behind-in-the-ai-race-14010198.html Elon Musk’s AI chatbot Grok is losing momentum after an early surge fuelled by controversy and viral features. New data, culled by analytics firm AppMagic, shows downloads and paid adoption have flattened sharply, while competitors such as ChatGPT, Claude and Gemini continue to grow rapidly across both consumer and enterprise markets worldwide. The contrast is striking. Musk once described Grok as a “maximally truth-seeking” alternative to what he considered overly restricted or “woke” AI systems. Yet two years after launch, Grok’s biggest bursts of attention appear increasingly tied to controversy rather than sustained growth. xAI's future main business may be providing compute capacity to competition, instead of to its own. That would be a dramatic shift in its business plan",
+      "translation_ja": "それがビジネスってもんだ。何が大げさなの？　Grokがどれだけ後れを取っているかがよくわかる。予測にほぼ届かないどころか、マスクが憎むライバル（そのうちの一社を「人間嫌いで邪悪だ」と呼んだ相手）にまで計算能力を売らなければならないほどだ。「3か月で2000万から800万へ：イーロン・マスクのGrokチャットボット、AI競争で後退」という記事のとおり、Grokは初期の物議とバイラル機能で伸びたあと、勢いを失いつつある。AppMagicのデータではダウンロード数と有料利用が急に横ばいになり、ChatGPT、Claude、Geminiは個人・企業の両方で世界的に伸び続けている。対比は鮮明だ。マスクはかつてGrokを、制限がきつすぎる「ウォーク」なAIへの「最大限真実を求める」代替と位置づけた。だがローンチから2年、注目の波は持続的成長より物議に結びついている。xAIの将来の主力事業は自社向けではなく、競合への計算能力提供になるかもしれない。事業計画としては劇的な転換だ。",
+      "notes_ja": [
+        "「What's the big deal?」は「大したことないでしょ？」という軽い反論・呆れの口調。",
+        "「that ... that ...」が続くのは口語的な重ね。書き言葉なら \"how much Grok is falling behind is illustrated by the fact that...\" のように整理される。"
+      ],
+      "standard_en": "It's called business. What's the big deal? It shows how far behind Grok is falling: it can barely meet projections, and Musk even has to sell compute capacity to rivals he hates (one of which he called \"misanthropic and evil\").",
+      "marked_terms": [
+        {
+          "term": "woke",
+          "symbol": "◇",
+          "note_ja": "政治・文化をめぐるネットスラング。文脈によっては批判的・嘲弄的な響きがあり、フォーマルな場では避けるのが無難。"
+        }
+      ],
+      "comment_id": 5230561,
+      "author": "lostrune2",
+      "rating": 1,
+      "posted_at": "2026-06-09T01:34:47+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Is this because Grok is a dumpster fire of use to no one?",
+      "translation_ja": "これって、誰の役にも立たないクソみたいなゴミの山だからなの？",
+      "notes_ja": [
+        "「dumpster fire of use to no one」は文法的にやや不自然で、おそらく \"a dumpster fire, useless to everyone\"（誰にも使えない大失敗）の意味。",
+        "疑問文だが、原因を皮肉っぽく当てはめている口調。"
+      ],
+      "standard_en": "Is this because Grok is a complete disaster that is useless to everyone?",
+      "marked_terms": [
+        {
+          "term": "dumpster fire",
+          "symbol": "◇",
+          "note_ja": "「完全な大失敗・めちゃくちゃな状態」を表す俗語。カジュアルな批判でよく使うが、丁寧な場では避ける。"
+        }
+      ],
+      "comment_id": 5227571,
+      "author": "TaiwanIsNotChina",
+      "rating": 0,
+      "posted_at": "2026-06-06T07:25:52+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "The facilities were originally built to power Musk's rival AI venture, xAI. This is the reason for it. Musk built these data centers for Grok, but Grok isn't being used much compared to its competitors. So these data centers have extra compute capacity that's not getting used, idle not making money but costing money to maintain. So Musk has no choice but to let competitors use for a fee to help pay for the costs \"Musk's Grok lags behind in AI race as SpaceX outsources computing power to Anthropic\" Elon Musk's xAI (soon to be SpaceXAI) AI model Grok continues to lag behind competitors, and the company has started to rent computing power to Anthropic for Claude. The Wall Street Journal reports this, citing analysts and sources familiar with the deal. According to the WSJ, in early May, SpaceX entered into an agreement with Anthropic to lease all available computing capacity at one of Musk's data centres. It is Colossus 1 in Memphis, Tennessee. Anthropic and OpenAI are actively buying up GPUs and data centres due to the rapid growth in demand for AI models and the lack of computing resources. At the same time, Grok's popularity has started to slow down. According to AppMagic, the number of app downloads dropped from more than 20 million in January to about 8.3 million in April 2026. Recon Analytics reported in a study of more than 260 thousand AI users in the US that only 0.174% of respondents pay for Grok subscriptions. For ChatGPT, this figure exceeds 6%. Grok is also losing out to competitors in the corporate segment. According to Enterprise Technology Research, in March 2026, only 7% of companies surveyed said they were using Grok and planned to continue using it. The figure was 48% for Claude and 40% for Gemini. The WSJ notes that the deal between SpaceX and Anthropic was a marked change in Musk's position on Anthropic. In February 2026, he called the company \"misanthropic and evil\".",
+      "translation_ja": "施設はもともとマスクのライバルAI事業xAI向けに建てられた。それが理由だ。マスクはGrok用にこのデータセンターを建てたが、競合と比べるとGrokはあまり使われていない。だから余った計算能力が遊んでおり、稼げないまま維持費だけかかっている。だからマスクは競合に有料で使わせざるを得ず、コストを賄うしかない。「マスクのGrok、AI競争で遅れ、SpaceXがAnthropicに計算能力を外注」という報道どおり、xAI（まもなくSpaceXAI）のGrokは競合に後れを取り続け、同社はClaude向けにAnthropicへ計算能力を貸し出し始めた。ウォール・ストリート・ジャーナルが関係者の話として伝えている。WSJによれば5月初旬、SpaceXはマスクのデータセンターのうち1施設の全利用可能な計算能力をAnthropicにリースする契約を結んだ。テネシー州メンフィスのColossus 1だ。AnthropicとOpenAIはAI需要の急増と計算資源不足でGPUとデータセンターを積極的に買い占めている。一方Grokの人気は鈍化し始めた。AppMagicによると、アプリのダウンロード数は1月の2000万超から2026年4月の約830万へ減少した。Recon Analyticsの米国26万人超のAIユーザー調査では、Grok有料購読者は回答者のわずか0.174%。ChatGPTは6%超だ。企業向けでもGrokは競合に負けている。Enterprise Technology Researchによれば2026年3月、調査企業のうちGrokを使い続ける予定と答えたのは7%のみ。Claudeは48%、Geminiは40%だった。WSJは、SpaceXとAnthropicの取引がマスクのAnthropicに対する立場の大きな変化だったと指摘する。2026年2月、彼は同社を「人間嫌いで邪悪」と呼んでいた。",
+      "notes_ja": [
+        "「idle not making money」は \"idle, not making money\" のように読点でつなぐ口語的な省略。",
+        "「let competitors use for a fee」は \"let competitors use them/it for a fee\" の目的語省略。"
+      ],
+      "standard_en": "So Musk has no choice but to let competitors use the capacity for a fee to help pay for the costs.",
+      "marked_terms": [],
+      "comment_id": 5228419,
+      "author": "lostrune2",
+      "rating": 0,
+      "posted_at": "2026-06-06T17:59:51+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "GROK is excellent. Elon is great. I'd like to get some SpaceX stock after the IPO. Emotionsisnotintelligence",
+      "translation_ja": "GROKは最高だ。イーロンはすごい。IPOのあとSpaceXの株を買いたい。感情は知性じゃない。",
+      "notes_ja": [
+        "「Emotionsisnotintelligence」はハッシュタグ風に単語をつなげた表記（Emotions is not intelligence）。",
+        "短文を並べるだけの熱心な擁護口調。反論相手への皮肉も含むことが多い。"
+      ],
+      "standard_en": "Emotions is not intelligence.",
+      "marked_terms": [],
+      "comment_id": 5227649,
+      "author": "FizzBit",
+      "rating": -2,
+      "posted_at": "2026-06-06T07:55:24+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "GROK will be the LLM that runs the many Tesla Optimus Robots, that will soon be part of SpaceX and its these robots that will construct the Space based data centers, solar panels, the Moon manufacturing facilities etc. Musk has a plan, always has and his ambitions and success are at this point unquestionable, as he's making serious history by making humans multi-planetary, as Musk has little use for collecting 'trinkets' on earth, but rather he's chasing the Cosmos itself!",
+      "translation_ja": "GROKは多数のテスラOptimusロボットを動かすLLMになる。それらはまもなくSpaceXの一部となり、このロボットたちが宇宙ベースのデータセンター、ソーラーパネル、月の製造施設などを建設する。マスクには計画があり、いつもそうだった。彼の野心と成功はこの時点で疑いようがない。人類を多惑星種にし、本気で歴史を作っている。マスクは地球上で「小物」を集めることには興味がなく、むしろ宇宙そのものを追いかけている！",
+      "notes_ja": [
+        "「its these robots」は \"it's these robots\"（それがこのロボットたちだ）の誤りと思われる。its/it's の取り違え。",
+        "「always has」は \"always has had\" の省略。カンマで文をつなぐ熱烈な応援・信仰口調。"
+      ],
+      "standard_en": "GROK will be the LLM that runs the many Tesla Optimus robots that will soon be part of SpaceX, and it's these robots that will construct the space-based data centers, solar panels, the Moon manufacturing facilities, etc.",
+      "marked_terms": [],
+      "comment_id": 5228498,
+      "author": "HopeSpringsEternal",
+      "rating": -2,
+      "posted_at": "2026-06-06T19:40:51+09:00"
+    }
+  ]
+}

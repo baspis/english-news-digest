@@ -1,0 +1,527 @@
+{
+  "summary_ja": "スペースXは金曜日、Googleが月額9億2,000万ドルで大規模なAIチップへアクセスするためのクラウド計算契約を結んだと、IPO申請書類で明らかになった。契約は2029年6月まで続き、総額は約300億ドルにのぼる見込みで、GoogleやAnthropicとの大型取引は6月12日予定の史上最大級のIPO直前に発表された。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "SpaceX on Friday signed a blockbuster cloud computing agreement under which Google will pay the Elon Musk-founded rocket company $920 million per month for access to a massive cluster of AI chips, according to a disclosure in its initial public offering filing.",
+      "translation_ja": "スペースXは金曜日、Googleがイーロン・マスクが設立したロケット会社に月額9億2,000万ドルで大規模なAIチップ群へのアクセスを得るための大型クラウド計算契約を結んだ。これは同社の新規株式公開（IPO）申請書類の開示によるものだ。",
+      "grammar_ja": "過去形 signed と未来形 will pay が混在。under which は関係代名詞句で「その契約の下で」。according to は情報源を示すビジネス記事の定番表現。",
+      "chunks": [
+        {
+          "text": "SpaceX on Friday",
+          "role_ja": "主語＋時",
+          "literal_ja": "スペースXが金曜日に",
+          "note_ja": "on Friday は特定の金曜日を指す。ニュースでは直近の金曜を示すことが多い"
+        },
+        {
+          "text": "signed a blockbuster cloud computing agreement",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "大型のクラウド計算契約を結んだ",
+          "note_ja": "blockbuster は映画の大ヒットから転じて「超大規模な」"
+        },
+        {
+          "text": "under which Google will pay",
+          "role_ja": "関係節（条件）",
+          "literal_ja": "その下でGoogleが支払う",
+          "note_ja": "under which = under this agreement. フォーマルな契約文の言い方"
+        },
+        {
+          "text": "the Elon Musk-founded rocket company",
+          "role_ja": "間接目的語の修飾",
+          "literal_ja": "イーロン・マスクが設立したロケット会社",
+          "note_ja": "名詞＋過去分詞（founded）で「〜によって設立された」"
+        },
+        {
+          "text": "$920 million per month",
+          "role_ja": "金額の副詞句",
+          "literal_ja": "月あたり9億2,000万ドル",
+          "note_ja": "per month = 毎月。per は「〜あたり」"
+        },
+        {
+          "text": "for access to a massive cluster of AI chips",
+          "role_ja": "目的の副詞句",
+          "literal_ja": "大規模なAIチップ群へのアクセスのために",
+          "note_ja": "cluster は単体ではなくまとまり・クラスターを指すIT用語"
+        },
+        {
+          "text": "according to a disclosure in its initial public offering filing",
+          "role_ja": "出典の副詞句",
+          "literal_ja": "IPO申請書類の開示によれば",
+          "note_ja": "its は SpaceX を指す。filing は公式提出書類"
+        }
+      ],
+      "deep_dive_ja": "一文に契約内容・金額・情報源が詰まった典型的なビジネスリード文。under which は B2 では難しめだが、which = the agreement と置き換えると理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The deal, which will bolster SpaceX's finances ahead of its IPO on June 12, covers a computing infrastructure of approximately 110,000 Nvidia GPUs -- the crucial hardware needed to power Google's Gemini AI models.",
+      "translation_ja": "この契約は6月12日のIPO前にスペースXの財務を強化するもので、約11万台のNvidia GPUからなる計算インフラを対象とする。これらはGoogleのGemini AIモデルを動かすために不可欠なハードウェアだ。",
+      "grammar_ja": "挿入の関係代名詞節 which will bolster...。ダッシュ（--）の後は同格説明。needed to power は過去分詞＋不定詞の修飾。",
+      "chunks": [
+        {
+          "text": "The deal",
+          "role_ja": "主語",
+          "literal_ja": "その契約は",
+          "note_ja": "前段落の agreement を受ける"
+        },
+        {
+          "text": "which will bolster SpaceX's finances ahead of its IPO on June 12",
+          "role_ja": "非制限用法の関係代名詞節",
+          "literal_ja": "それは6月12日のIPO前にスペースXの財務を強化する",
+          "note_ja": "bolster = 支える・強化する。ahead of = 〜の前に"
+        },
+        {
+          "text": "covers a computing infrastructure of approximately 110,000 Nvidia GPUs",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "約11万台のNvidia GPUの計算インフラをカバーする",
+          "note_ja": "cover はここで「対象とする・含む」。approximately = およそ"
+        },
+        {
+          "text": "the crucial hardware",
+          "role_ja": "同格名詞",
+          "literal_ja": "その重要なハードウェア",
+          "note_ja": "ダッシュ後で GPUs を言い換える"
+        },
+        {
+          "text": "needed to power Google's Gemini AI models",
+          "role_ja": "過去分詞の形容詞句",
+          "literal_ja": "GoogleのGemini AIモデルを動かすために必要な",
+          "note_ja": "power は動詞で「（システムを）動かす・駆動する」"
+        }
+      ],
+      "deep_dive_ja": "コンマで挟んだ which 節は文の核心を壊さず付加情報を足す非制限用法。GPU や AI models は tech ニュースの頻出語。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The filing says Google will begin paying the full monthly rate in October 2026, with a reduced fee applying during a ramp-up period until then.",
+      "translation_ja": "申請書類によると、Googleは2026年10月から満額の月額料金の支払いを開始する。それまでは立ち上げ期間として割引料金が適用される。",
+      "grammar_ja": "間接話法 says + 節。with ＋ 名詞 ＋ -ing（独立分詞構文）で付帯状況を表す。until then は「それまでの間」。",
+      "chunks": [
+        {
+          "text": "The filing says",
+          "role_ja": "主語＋述語",
+          "literal_ja": "申請書類は述べている",
+          "note_ja": "書類が主語で「〜と記されている」"
+        },
+        {
+          "text": "Google will begin paying the full monthly rate",
+          "role_ja": "間接話法の内容節",
+          "literal_ja": "Googleは満額の月額料金の支払いを始める",
+          "note_ja": "begin paying = begin to pay。動名詞をよく使う"
+        },
+        {
+          "text": "in October 2026",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2026年10月に",
+          "note_ja": "将来の具体日時"
+        },
+        {
+          "text": "with a reduced fee applying",
+          "role_ja": "付帯状況",
+          "literal_ja": "割引料金が適用されることとともに",
+          "note_ja": "with + O + -ing で「〜が〜している状態で」"
+        },
+        {
+          "text": "during a ramp-up period until then",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "それまでの立ち上げ期間の間",
+          "note_ja": "ramp-up = 段階的に増やす立ち上げ。then は October 2026 を指す"
+        }
+      ],
+      "deep_dive_ja": "ramp-up period はビジネス英語で「本格稼働前の段階的拡大期間」。with ... applying は with 節の典型パターン。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The agreement runs through June 2029, implying total payments of roughly $30 billion over the life of the contract.",
+      "translation_ja": "契約は2029年6月まで続き、契約期間全体で総支払額はおよそ300億ドルになると示唆されている。",
+      "grammar_ja": "現在形 runs で契約期間を表す。現在分詞 implying は結果・含意を付加。over the life of the contract = 契約存続期間を通じて。",
+      "chunks": [
+        {
+          "text": "The agreement runs through June 2029",
+          "role_ja": "主節",
+          "literal_ja": "契約は2029年6月まで続く",
+          "note_ja": "run through = 〜まで続く（期間の終わりを示す）"
+        },
+        {
+          "text": "implying total payments of roughly $30 billion",
+          "role_ja": "付帯の現在分詞句",
+          "literal_ja": "総支払額がおよそ300億ドルであることを示唆して",
+          "note_ja": "主語 the agreement が imply する内容を続ける"
+        },
+        {
+          "text": "over the life of the contract",
+          "role_ja": "期間の副詞句",
+          "literal_ja": "契約の存続期間にわたって",
+          "note_ja": "life はここで「存続期間・有効期間」"
+        }
+      ],
+      "deep_dive_ja": "契約記事では run / run through が expire より自然。implying で計算結果をさりげなく示すのがニュース文体。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The deal resembles one struck with AI giant Anthropic, in which SpaceX leased compute capacity at its Colossus data centers in Memphis, Tennessee for $1.25 billion a month.",
+      "translation_ja": "この契約は、AI大手Anthropicと結んだ取引に似ている。そちらではスペースXがテネシー州メンフィスのColossusデータセンターで計算能力を月額12億5,000万ドルで貸し出していた。",
+      "grammar_ja": "resemble + 名詞。過去分詞 struck は one を後置修飾。in which は関係代名詞で場所・状況を示す。",
+      "chunks": [
+        {
+          "text": "The deal resembles one struck with AI giant Anthropic",
+          "role_ja": "主節",
+          "literal_ja": "その契約はAI大手Anthropicと結ばれたものに似ている",
+          "note_ja": "one = a deal。struck は strike（結ぶ）の過去分詞"
+        },
+        {
+          "text": "in which",
+          "role_ja": "関係副詞相当",
+          "literal_ja": "その中で",
+          "note_ja": "which = the deal / one の関係代名詞"
+        },
+        {
+          "text": "SpaceX leased compute capacity",
+          "role_ja": "関係節の主述",
+          "literal_ja": "スペースXは計算能力を貸し出した",
+          "note_ja": "lease は動詞で「貸す・リースする」"
+        },
+        {
+          "text": "at its Colossus data centers in Memphis, Tennessee",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "テネシー州メンフィスのColossusデータセンターで",
+          "note_ja": "its は SpaceX を指す"
+        },
+        {
+          "text": "for $1.25 billion a month",
+          "role_ja": "金額",
+          "literal_ja": "月12億5,000万ドルで",
+          "note_ja": "a month = per month と同義"
+        }
+      ],
+      "deep_dive_ja": "resemble は look like よりフォーマル。compute capacity は computing power とほぼ同義のITビジネス表現。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The facilities were originally built to power Musk's rival AI venture, xAI.",
+      "translation_ja": "これらの施設はもともと、マスクのライバルとなるAI事業であるxAIを支えるために建設された。",
+      "grammar_ja": "受動態 were built。不定詞 to power は目的。rival は名詞修飾で「競合の」。",
+      "chunks": [
+        {
+          "text": "The facilities",
+          "role_ja": "主語",
+          "literal_ja": "それらの施設は",
+          "note_ja": "前の data centers / facilities を受ける"
+        },
+        {
+          "text": "were originally built",
+          "role_ja": "受動態の述語",
+          "literal_ja": "もともと建設された",
+          "note_ja": "originally で当初の目的を強調"
+        },
+        {
+          "text": "to power Musk's rival AI venture, xAI",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "マスクの競合AI事業xAIを動かすために",
+          "note_ja": "power は再び「稼働させる・支える」。xAI は同格"
+        }
+      ],
+      "deep_dive_ja": "rival AI venture は「マスク本人の別会社だがGoogle側から見ると関連事業」というニュースの含みを持つ短い文。",
+      "difficulty": "easy",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "SpaceX's IPO filing revealed that xAI last year posted an operating loss of $6.4 billion on total revenue of $3.2 billion.",
+      "translation_ja": "スペースXのIPO申請書類は、xAIが昨年、総収益32億ドルに対して64億ドルの営業損失を計上したことを明らかにした。",
+      "grammar_ja": "reveal that + 節。post a loss / post revenue は会計ニュースのコロケーション。on revenue は「収益に対して（損失が）」の対比。",
+      "chunks": [
+        {
+          "text": "SpaceX's IPO filing revealed that",
+          "role_ja": "主語＋述語",
+          "literal_ja": "スペースXのIPO申請書類は〜を明らかにした",
+          "note_ja": "reveal = 公表・開示する"
+        },
+        {
+          "text": "xAI last year posted an operating loss of $6.4 billion",
+          "role_ja": "that節の内容",
+          "literal_ja": "xAIは昨年64億ドルの営業損失を計上した",
+          "note_ja": "post = 計上する（会計）。operating loss = 営業損失"
+        },
+        {
+          "text": "on total revenue of $3.2 billion",
+          "role_ja": "対比の前置詞句",
+          "literal_ja": "総収益32億ドルに対して",
+          "note_ja": "on は「〜を背景に」損失と収益を対比"
+        }
+      ],
+      "deep_dive_ja": "posted a loss on revenue は決算記事の定型表現。日本語では「〜に対し」で損失の大きさを際立たせる。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "\"This is a short-term, timely agreement to ensure we have bridge capacity to meet surging customer demand for our agent platform, Gemini Enterprise, which has been even higher than we expected,\" a Google Cloud spokesperson said in an email to AFP.",
+      "translation_ja": "「これは短期的かつタイムリーな契約で、エージェント基盤であるGemini Enterpriseに対する急増する顧客需要——想定以上に高い——に対応するためのつなぎの計算能力を確保するものだ」と、Google Cloudの広報担当者はAFPへのメールで述べた。",
+      "grammar_ja": "直接話法＋said の語順。to ensure + 節。which has been higher は需要の高さを指す関係代名詞。surging / bridge capacity はビジネス・IT語。",
+      "chunks": [
+        {
+          "text": "This is a short-term, timely agreement",
+          "role_ja": "引用文の主節",
+          "literal_ja": "これは短期的でタイムリーな契約だ",
+          "note_ja": "timely = 時宜を得た"
+        },
+        {
+          "text": "to ensure we have bridge capacity",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "つなぎの計算能力を確保するために",
+          "note_ja": "bridge capacity = 恒久対応までの一時的な余力"
+        },
+        {
+          "text": "to meet surging customer demand",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "急増する顧客需要を満たすために",
+          "note_ja": "meet demand = 需要に応える"
+        },
+        {
+          "text": "for our agent platform, Gemini Enterprise",
+          "role_ja": "対象の前置詞句",
+          "literal_ja": "私たちのエージェント基盤Gemini Enterpriseに対する",
+          "note_ja": "同格で製品名を説明"
+        },
+        {
+          "text": "which has been even higher than we expected",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それは私たちの予想以上に高い",
+          "note_ja": "which は demand を指す"
+        },
+        {
+          "text": "a Google Cloud spokesperson said in an email to AFP",
+          "role_ja": "主節（引用の枠）",
+          "literal_ja": "Google Cloudの広報担当者はAFPへのメールで述べた",
+          "note_ja": "英語は引用を先に置く語順"
+        }
+      ],
+      "deep_dive_ja": "引用が長いので最後に話者を置く構造に注意。bridge は「橋渡し・暫定」という比喩で、恒久投資前の一時対応を意味する。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "The filing adds that after December 31, \"the agreement may be terminated by either party upon 90 days' notice.\"",
+      "translation_ja": "申請書類はさらに、12月31日以降は「どちらの当事者も90日前の通知により契約を終了できる」と付記している。",
+      "grammar_ja": "add that + 節。受動態 may be terminated。upon 90 days' notice は「90日前の通知をもって」。either party = どちらの当事者も。",
+      "chunks": [
+        {
+          "text": "The filing adds that",
+          "role_ja": "主節",
+          "literal_ja": "申請書類はさらに付け加える",
+          "note_ja": "add は disclose より「追記する」ニュアンス"
+        },
+        {
+          "text": "after December 31",
+          "role_ja": "時の副詞句",
+          "literal_ja": "12月31日以降",
+          "note_ja": "年は文脈から補う"
+        },
+        {
+          "text": "the agreement may be terminated",
+          "role_ja": "受動態",
+          "literal_ja": "契約は終了され得る",
+          "note_ja": "may = 〜してよい（権利・可能性）"
+        },
+        {
+          "text": "by either party",
+          "role_ja": "行為者（受動）",
+          "literal_ja": "どちらの当事者によっても",
+          "note_ja": "either party は契約の双方"
+        },
+        {
+          "text": "upon 90 days' notice",
+          "role_ja": "条件",
+          "literal_ja": "90日前の通知をもって",
+          "note_ja": "upon = on（フォーマル）。days' は所有格"
+        }
+      ],
+      "deep_dive_ja": "契約英語では terminate / notice がセットで出る。upon はビジネス文書で「〜を条件に」という硬い表現。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "The deals with Google and Anthropic come just days ahead of SpaceX's IPO, which will be the biggest in history, valuing the company at $1.8 trillion.",
+      "translation_ja": "GoogleおよびAnthropicとの契約は、史上最大となるスペースXのIPOのわずか数日前に発表された。これにより同社の評価額は1兆8,000億ドルとなる。",
+      "grammar_ja": "come ahead of = 〜の直前に来る・起きる。which 節＋現在分詞 valuing で評価額を付加説明。",
+      "chunks": [
+        {
+          "text": "The deals with Google and Anthropic",
+          "role_ja": "主語",
+          "literal_ja": "GoogleとAnthropicとの契約は",
+          "note_ja": "deals は複数の大型契約"
+        },
+        {
+          "text": "come just days ahead of SpaceX's IPO",
+          "role_ja": "述語＋副詞句",
+          "literal_ja": "スペースXのIPOのほんの数日前に来る",
+          "note_ja": "just days ahead of = ほんの数日先の直前に"
+        },
+        {
+          "text": "which will be the biggest in history",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それは史上最大になる",
+          "note_ja": "which = the IPO"
+        },
+        {
+          "text": "valuing the company at $1.8 trillion",
+          "role_ja": "付帯の現在分詞句",
+          "literal_ja": "会社を1兆8,000億ドルと評価して",
+          "note_ja": "value at = 〜の価値と評価する"
+        }
+      ],
+      "deep_dive_ja": "IPO記事では come days ahead of でタイミングの近さを強調する。trillion は米国では1兆を指す。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "That valuation is largely based on faith that Musk can deliver on his ambitions to vastly expand his Starlink satellite business, put data centers into space using SpaceX rockets, as well as begin colonizing Mars.",
+      "translation_ja": "その評価額は主に、マスクがStarlink衛星事業の大幅拡大、スペースXのロケットでデータセンターを宇宙に送り込むこと、さらに火星の植民地化を始めるという野心を実現できるかどうかへの信頼に基づいている。",
+      "grammar_ja": "be based on faith that...。deliver on ambitions = 野心を果たす。to expand / put / begin が並列。as well as で第三の項目を追加。",
+      "chunks": [
+        {
+          "text": "That valuation is largely based on faith",
+          "role_ja": "主節",
+          "literal_ja": "その評価額は主に信頼に基づいている",
+          "note_ja": "faith は宗教ではなく「（実現への）信頼」"
+        },
+        {
+          "text": "that Musk can deliver on his ambitions",
+          "role_ja": "同格that節",
+          "literal_ja": "マスクがその野心を実現できるという",
+          "note_ja": "deliver on = 約束・計画を果たす"
+        },
+        {
+          "text": "to vastly expand his Starlink satellite business",
+          "role_ja": "不定詞（並列1）",
+          "literal_ja": "Starlink衛星事業を大きく拡大すること",
+          "note_ja": "vastly = 大幅に"
+        },
+        {
+          "text": "put data centers into space using SpaceX rockets",
+          "role_ja": "不定詞（並列2）",
+          "literal_ja": "スペースXのロケットを使いデータセンターを宇宙に置くこと",
+          "note_ja": "using ... は手段を示す分詞構文"
+        },
+        {
+          "text": "as well as begin colonizing Mars",
+          "role_ja": "不定詞（並列3）",
+          "literal_ja": "火星の植民地化を始めることも",
+          "note_ja": "as well as = 〜に加えて。colonizing Mars"
+        }
+      ],
+      "deep_dive_ja": "deliver on は deliver 単体より「約束したことをやり遂げる」意味。一文の終わりに並列不定詞が続くため、読み飛ばさず構造を整理すると理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "blockbuster",
+      "pronunciation": "/ˈblɑːkˌbʌstər/",
+      "meaning_ja": "超大規模な、記録的な（契約・成功など）",
+      "example": "a blockbuster cloud computing agreement",
+      "example_ja": "超大規模なクラウド計算契約",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "bolster",
+      "pronunciation": "/ˈboʊlstər/",
+      "meaning_ja": "強化する、支える、後押しする",
+      "example": "The deal will bolster SpaceX's finances.",
+      "example_ja": "その契約はスペースXの財務を強化するだろう。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "ramp-up period",
+      "pronunciation": "/ræmp ʌp ˈpɪriəd/",
+      "meaning_ja": "立ち上げ期間、段階的に本格稼働へ移行する期間",
+      "example": "a reduced fee applying during a ramp-up period",
+      "example_ja": "立ち上げ期間中は割引料金が適用される",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "compute capacity",
+      "pronunciation": "/kəmˈpjuːt kəˈpæsəti/",
+      "meaning_ja": "計算能力、コンピューティング処理の供給量",
+      "example": "SpaceX leased compute capacity at its data centers.",
+      "example_ja": "スペースXは自社データセンターで計算能力を貸し出した。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "operating loss",
+      "pronunciation": "/ˈɒpəreɪtɪŋ lɒs/",
+      "meaning_ja": "営業損失（本業の赤字）",
+      "example": "xAI posted an operating loss of $6.4 billion.",
+      "example_ja": "xAIは64億ドルの営業損失を計上した。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "bridge capacity",
+      "pronunciation": "/brɪdʒ kəˈpæsəti/",
+      "meaning_ja": "つなぎの処理能力、恒久対応までの一時的な余力",
+      "example": "ensure we have bridge capacity to meet surging demand",
+      "example_ja": "急増する需要に対応するつなぎの計算能力を確保する",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "terminate",
+      "pronunciation": "/ˈtɜːrmɪneɪt/",
+      "meaning_ja": "（契約などを）終了する",
+      "example": "the agreement may be terminated upon 90 days' notice",
+      "example_ja": "契約は90日前の通知で終了できる",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "deliver on",
+      "pronunciation": "/dɪˈlɪvər ɒn/",
+      "meaning_ja": "（約束・野心などを）果たす、実現する",
+      "example": "Musk can deliver on his ambitions.",
+      "example_ja": "マスクは自身の野心を実現できる。",
+      "source_sentence_id": "s011"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "under-which-relative",
+      "title": "under which (formal relative clause)",
+      "rule": "Use 'under which' to refer back to an agreement or condition in formal/legal contexts.",
+      "example": "an agreement under which Google will pay $920 million per month",
+      "meaning_ja": "which は agreement を指し、under は「その契約の条件の下で」という意味。契約・規則の文脈で使うフォーマルな関係代名詞表現。"
+    },
+    {
+      "id": "with-participle-phrase",
+      "title": "with + noun + -ing (accompanying circumstance)",
+      "rule": "Use 'with + object + present participle' to show an accompanying situation or condition.",
+      "example": "with a reduced fee applying during a ramp-up period",
+      "meaning_ja": "「〜が適用されている状態で」という付帯状況を表す。理由や背景を簡潔に添えるビジネス英語の構文。"
+    },
+    {
+      "id": "post-a-loss-on-revenue",
+      "title": "post a loss on revenue",
+      "rule": "In financial news, 'post' means to report/record figures; 'on' compares loss against revenue.",
+      "example": "posted an operating loss of $6.4 billion on total revenue of $3.2 billion",
+      "meaning_ja": "post は会計上「計上する」。on total revenue は「総収益に対して」という対比で、赤字の規模を示す決算記事の型。"
+    },
+    {
+      "id": "deliver-on-ambitions",
+      "title": "deliver on + noun",
+      "rule": "Use 'deliver on' (not just 'deliver') to mean fulfill promises, plans, or ambitions.",
+      "example": "faith that Musk can deliver on his ambitions",
+      "meaning_ja": "deliver 単体は「届ける」だが、deliver on は「約束や計画を果たす」。投資・評価の文脈でよく使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:56:52+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:spacex-signs-pre-ipo-deal-to-provide-ai-"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "japantoday:2026-06-06:man-son-fall-to-their-deaths-from-apartm",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T21:58:01+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "That poor kid. 100% guaranteed he was scared out of his mind and just wanted to live. RIP to the murdered mom too. This story sucks.",
+      "translation_ja": "かわいそうな子だ。間違いなく怖くてたまらなかったはずだし、ただ生きたかっただけだろう。殺されたお母さんにも安らかに。本当にひどい話だ。",
+      "notes_ja": [
+        "「100% guaranteed」は口語で「間違いなく〜だ」と強く言い切る表現。",
+        "「RIP」は Rest in Peace（安らかに眠れ）の略で、ネットでは故人への哀悼に使われる。"
+      ],
+      "standard_en": "That poor kid. I am 100% sure he was terrified and just wanted to live. Rest in peace to the murdered mother too. This story is awful.",
+      "marked_terms": [
+        {
+          "term": "sucks",
+          "symbol": "◇",
+          "note_ja": "くだけた口語。「ひどい／最悪だ」のニュアンス。丁寧な場では使わない。"
+        }
+      ],
+      "comment_id": 5228457,
+      "author": "Speed",
+      "rating": 11,
+      "posted_at": "2026-06-06T18:44:01+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I am pretty sure the 10-year old boy did not want to be part of this. Disgusting.",
+      "translation_ja": "10歳の男の子は、こんなことに巻き込まれたくなかったに違いない。胸が悪くなる。",
+      "notes_ja": [
+        "最後の「Disgusting.」は文が省略された感嘆句で、状況全体への嫌悪を表す。",
+        "「be part of this」は「こういう事態に関わること」という意味。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228609,
+      "author": "Zaphod",
+      "rating": 1,
+      "posted_at": "2026-06-07T01:13:22+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "police are investigating the deaths as a murder-suicide ikigai (生きがい), raison d'etre, call it what you will, but we all need a reason to live...",
+      "translation_ja": "警察は死亡を殺人・自殺として調査している。生きがい、存在理由、なんと呼んでもいいが、私たち皆、生きる理由が必要なんだ…",
+      "notes_ja": [
+        "文頭の「police」が小文字なのはネット投稿でよくあるくだけた書き方。",
+        "「call it what you will」は「なんと呼ぼうが（本質は同じだ）」という慣用表現。末尾の「...」は余韻・ため息のニュアンス。"
+      ],
+      "standard_en": "Police are investigating the deaths as a murder-suicide. Ikigai, raison d'être—call it what you will—but we all need a reason to live.",
+      "marked_terms": [],
+      "comment_id": 5228672,
+      "author": "Michael Corleone",
+      "rating": 1,
+      "posted_at": "2026-06-07T06:52:17+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "You would think that for a country considered a first world, the government have social nets to help those struggling. Either support for nursing the elderly so much so if the one taking care of the senior parents is also on their senior ages. Or family support if the whole family is struggling with their livelihood or mental and physical support for mothers raising their children alone if all the father does is bring in the money and is too tired or doesn’t care to help in household chores. Poor children, too young to understand the minds of these parents.",
+      "translation_ja": "先進国とされる国なら、困っている人を助ける社会保障があると思うものだ。高齢の親の介護支援——介護する側の人自身も高齢ならなおさら。家族全体が生活に苦しんでいるなら家族支援を。父親が稼ぐだけで家事を手伝わない、あるいは疲れすぎている、気にかけない——そういう状況で一人で子育てする母親への心身の支援も。かわいそうな子どもたち。親の心なんて理解できる年齢じゃないのに。",
+      "notes_ja": [
+        "「the government have」は口語ではよくあるが、教科書的には government has が正しい。",
+        "「Either … Or …」で始まる長い文が続き、接続がやや不自然な箇所がある（書き言葉としては整理した方が読みやすい）。"
+      ],
+      "standard_en": "You would think that for a country considered first-world, the government would have social safety nets to help those who are struggling: support for nursing the elderly, especially when the caregiver is also elderly; family support when the whole family is struggling with their livelihood; or mental and physical support for mothers raising children alone when the father only brings in money and is too tired or doesn't care to help with household chores.",
+      "marked_terms": [],
+      "comment_id": 5228463,
+      "author": "dmhondz",
+      "rating": 0,
+      "posted_at": "2026-06-06T19:00:06+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Next time one of these jackasses decide on murder/suicide, do the suicide first.",
+      "translation_ja": "次にこういう馬鹿どもが殺人・自殺を決めたら、先に自殺しろよ。",
+      "notes_ja": [
+        "「decide」は one of these jackasses に合わせて decides が文法的には正しいが、口語では単数扱いに見えることもある。",
+        "暗い皮肉・怒りの表現で、被害者を先に殺すなという非難。"
+      ],
+      "standard_en": "Next time one of these jackasses decides on murder-suicide, do the suicide first.",
+      "marked_terms": [
+        {
+          "term": "jackasses",
+          "symbol": "※",
+          "note_ja": "強い侮辱語（ばか／クソども）。丁寧な場や公式な文脈では絶対に使わない。"
+        }
+      ],
+      "comment_id": 5228526,
+      "author": "Eugene",
+      "rating": 0,
+      "posted_at": "2026-06-06T20:30:05+09:00"
+    }
+  ]
+}

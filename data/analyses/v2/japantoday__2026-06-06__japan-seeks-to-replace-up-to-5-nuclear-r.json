@@ -1,0 +1,497 @@
+{
+  "summary_ja": "経済産業省は、老朽化した原子炉を2040年代までに2〜5基、2050年代までに合計11〜14基に置き換える目標を初めて示した。AI普及による電力需要増を背景に、原発依存を高める方針へ転換しているが、建設費高騰で実現は不透明だ。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's industry ministry on Friday proposed replacing two to five aging nuclear reactors by the 2040s, and a total of 11 to 14 by the 2050s, setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster.",
+      "translation_ja": "日本の経済産業省は金曜日、老朽化した原子炉を2040年代までに2〜5基、2050年代までに合計11〜14基に置き換える案を示し、2011年の福島原発事故以来初めてこうした数値目標を設定した。",
+      "grammar_ja": "proposed + 動名詞（replacing）で「〜することを提案した」。by the 2040s は「2040年代までに」。現在分詞 setting は結果・付随状況を表す。",
+      "chunks": [
+        {
+          "text": "Japan's industry ministry",
+          "role_ja": "主語",
+          "literal_ja": "日本の経済産業省が",
+          "note_ja": "industry ministry は経済産業省のこと。所有格 's で所属を示す。"
+        },
+        {
+          "text": "on Friday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "金曜日に",
+          "note_ja": "ニュースでは具体的な曜日で時制を補うことが多い。"
+        },
+        {
+          "text": "proposed replacing two to five aging nuclear reactors",
+          "role_ja": "述語（動詞＋目的語）",
+          "literal_ja": "老朽化した原子炉2〜5基の置き換えを提案した",
+          "note_ja": "propose + -ing は「〜することを提案する」の定番構文。aging は「老朽化した」。"
+        },
+        {
+          "text": "by the 2040s",
+          "role_ja": "期限を表す副詞句",
+          "literal_ja": "2040年代までに",
+          "note_ja": "the 2040s = 2040年代。by + 時期 で期限。"
+        },
+        {
+          "text": "a total of 11 to 14 by the 2050s",
+          "role_ja": "並列の目的語句",
+          "literal_ja": "2050年代までに合計11〜14基を",
+          "note_ja": "前の replacing の目的語が省略されている（置き換え）。"
+        },
+        {
+          "text": "setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster",
+          "role_ja": "付随状況（現在分詞句）",
+          "literal_ja": "2011年の福島原発事故以来初めてそのような数値目標を設定して",
+          "note_ja": "for the first time since ... で「〜以来初めて」。such a は「そのような」。"
+        }
+      ],
+      "deep_dive_ja": "見出しの seeks to replace は「置き換えを目指す」だが、本文は proposed（提案した）とやや弱い表現。two to five / 11 to 14 のように幅を持たせるのは政策記事で不確実性を示す典型手法。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The Ministry of Economy, Trade and Industry presented the targets at a ministry panel meeting, aiming to encourage investment and secure personnel in the nuclear industry.",
+      "translation_ja": "経済産業省は省の有識者会議でこの目標を示し、原発産業への投資を促し、人材を確保することを目指している。",
+      "grammar_ja": "presented ... aiming to ... で「示した。その目的は〜することだ」。encourage A and secure B は並列の不定詞目的語。",
+      "chunks": [
+        {
+          "text": "The Ministry of Economy, Trade and Industry",
+          "role_ja": "主語",
+          "literal_ja": "経済産業省は",
+          "note_ja": "省名の正式英語表記。略称 METI と呼ばれることもある。"
+        },
+        {
+          "text": "presented the targets",
+          "role_ja": "述語",
+          "literal_ja": "目標を示した",
+          "note_ja": "present は会議・場で「提示する・発表する」の意味。"
+        },
+        {
+          "text": "at a ministry panel meeting",
+          "role_ja": "場所・状況を表す副詞句",
+          "literal_ja": "省の有識者会議で",
+          "note_ja": "panel meeting は審議会・有識者会議。"
+        },
+        {
+          "text": "aiming to encourage investment",
+          "role_ja": "目的を表す分詞句",
+          "literal_ja": "投資を促すことを目指して",
+          "note_ja": "aim to + 動詞原形。主語の意図を補足する。"
+        },
+        {
+          "text": "and secure personnel in the nuclear industry",
+          "role_ja": "並列の不定詞句",
+          "literal_ja": "原発産業の人材を確保することを",
+          "note_ja": "secure は「安全な」以外に「確保する」のビジネス用法。"
+        }
+      ],
+      "deep_dive_ja": "encourage investment と secure personnel は政策目的の定番コロケーション。personnel は「人員・人材」で不可算名詞。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The plan comes as Japan expects electricity demand to grow with the spread of artificial intelligence.",
+      "translation_ja": "この計画は、人工知能の普及に伴い電力需要の増加が見込まれる日本の状況を背景に出てきた。",
+      "grammar_ja": "come as ... は「〜という状況の中で出てくる／行われる」。expect A to grow は「Aが増えると予想する」。with the spread of ... は原因・背景。",
+      "chunks": [
+        {
+          "text": "The plan comes",
+          "role_ja": "主語＋述語",
+          "literal_ja": "この計画は出てくる",
+          "note_ja": "come はここで「生じる・提示される」のニュアンス。"
+        },
+        {
+          "text": "as Japan expects electricity demand to grow",
+          "role_ja": "時・状況を表す従属節",
+          "literal_ja": "日本が電力需要の増加を予想しているという状況で",
+          "note_ja": "expect + 名詞 + to不定詞。"
+        },
+        {
+          "text": "with the spread of artificial intelligence",
+          "role_ja": "原因・背景を表す前置詞句",
+          "literal_ja": "人工知能の普及とともに",
+          "note_ja": "the spread of は「〜の普及・拡大」。"
+        }
+      ],
+      "deep_dive_ja": "come as はニュースで「〜という局面で（政策が）出された」と訳すと自然。artificial intelligence は文脈上 AI データセンター需要を暗示。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "But with nuclear plant construction costs soaring globally, it remains uncertain whether replacements will proceed as the government hopes.",
+      "translation_ja": "しかし原発建設費が世界的に急騰する中、置き換えが政府の期待どおり進むかどうかは依然として不透明だ。",
+      "grammar_ja": "with + 名詞 + -ing で「〜という状況で」。it remains uncertain whether ... は形式主語 it。as the government hopes は「政府が望むように」。",
+      "chunks": [
+        {
+          "text": "But with nuclear plant construction costs soaring globally",
+          "role_ja": "逆接＋付帯状況",
+          "literal_ja": "しかし原発建設費が世界的に急騰する状況で",
+          "note_ja": "with + O + V-ing は背景・原因を簡潔に示す。"
+        },
+        {
+          "text": "it remains uncertain",
+          "role_ja": "主語＋述語",
+          "literal_ja": "それは依然として不透明である",
+          "note_ja": "remain + 形容詞 で状態の継続。"
+        },
+        {
+          "text": "whether replacements will proceed",
+          "role_ja": "名詞節（真偽不明）",
+          "literal_ja": "置き換えが進むかどうか",
+          "note_ja": "whether は yes/no の疑問を名詞化。"
+        },
+        {
+          "text": "as the government hopes",
+          "role_ja": "様態を表す従属節",
+          "literal_ja": "政府が望むように",
+          "note_ja": "as = in the way that。hope はここで自動詞的に「望む」。"
+        }
+      ],
+      "deep_dive_ja": "soaring globally はコスト上昇のスコープを強調。proceed as ... hopes は政策記事で「計画どおり進むか」の定番表現。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Japan's nuclear policy has already shifted from reducing reliance on nuclear power in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011 to making maximum use of it.",
+      "translation_ja": "日本の原発政策は、2011年3月の津波が引き起こした福島第一原発事故を受けて原発依存を減らす方針から、最大限活用する方針へとすでに転換している。",
+      "grammar_ja": "shift from A to B で方針転換。in the wake of は「〜を受けて」。tsunami-triggered は過去分詞の合成形容詞。making maximum use of it の it は nuclear power を受ける。",
+      "chunks": [
+        {
+          "text": "Japan's nuclear policy",
+          "role_ja": "主語",
+          "literal_ja": "日本の原発政策は",
+          "note_ja": "reliance on = 〜への依存。"
+        },
+        {
+          "text": "has already shifted",
+          "role_ja": "述語（現在完了）",
+          "literal_ja": "すでに転換した",
+          "note_ja": "現在完了は過去から現在への変化・結果を示す。"
+        },
+        {
+          "text": "from reducing reliance on nuclear power",
+          "role_ja": "起点（from句）",
+          "literal_ja": "原発依存を減らすことから",
+          "note_ja": "reduce reliance on は政策用語。"
+        },
+        {
+          "text": "in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011",
+          "role_ja": "時間・原因を表す副詞句",
+          "literal_ja": "2011年3月の津波が引き起こした福島第一原発事故を受けて",
+          "note_ja": "in the wake of = 〜の余波で・〜を受けて。tsunami-triggered は「津波が引き起こした」。"
+        },
+        {
+          "text": "to making maximum use of it",
+          "role_ja": "到達点（to句）",
+          "literal_ja": "それを最大限活用することへ",
+          "note_ja": "make use of = 〜を活用する。maximum はここで名詞的用法。"
+        }
+      ],
+      "deep_dive_ja": "from ... to ... が長いので、日本語では一度区切って訳すと読みやすい。Fukushima Daiichi は福島第一原子力発電所。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Under the government's basic energy plan revised in 2025, Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 to help meet energy needs.",
+      "translation_ja": "2025年に改定された政府の基本エネルギー計画のもと、日本は2040年度までに電力の20％を原発で賄うことを目指しており、エネルギー需要の充足を図っている。",
+      "grammar_ja": "Under ... plan は「〜のもとで」。revised in 2025 は過去分詞の後置修飾。aim to source ... from ... で供給源を示す。to help meet は目的の不定詞。",
+      "chunks": [
+        {
+          "text": "Under the government's basic energy plan revised in 2025",
+          "role_ja": "状況・根拠を表す前置詞句",
+          "literal_ja": "2025年に改定された政府の基本エネルギー計画のもとで",
+          "note_ja": "revised は plan を後ろから修飾。"
+        },
+        {
+          "text": "Japan is aiming to source 20 percent of its electricity from nuclear power",
+          "role_ja": "主語＋述語＋不定詞",
+          "literal_ja": "日本は電力の20％を原発から調達することを目指している",
+          "note_ja": "source は動詞で「調達する・賄う」。"
+        },
+        {
+          "text": "in fiscal 2040",
+          "role_ja": "時期を表す副詞句",
+          "literal_ja": "2040年度に",
+          "note_ja": "fiscal year は会計年度。日本は4月始まり。"
+        },
+        {
+          "text": "to help meet energy needs",
+          "role_ja": "目的を表す不定詞",
+          "literal_ja": "エネルギー需要を満たすのに役立つように",
+          "note_ja": "help (to) meet は help の後に to 省略可。"
+        }
+      ],
+      "deep_dive_ja": "source は名詞「供給源」以外に動詞「調達する」がある。fiscal 2040 は「2040年度中」ではなく年度末時点の目標を指すことが多い。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Achieving the goal, however, however, would require replacing existing plants as restarting existing reactors alone would not be enough to meet the target.",
+      "translation_ja": "しかしこの目標を達成するには、既存の原発を再稼働させるだけでは足りず、既存施設の置き換えが必要になる。",
+      "grammar_ja": "動名詞 Achieving the goal が主語。however は文頭・文中で逆接。would require + -ing。as は理由「〜なので」。alone は「それだけでは」。",
+      "chunks": [
+        {
+          "text": "Achieving the goal, however,",
+          "role_ja": "主語（動名詞句）＋接続副詞",
+          "literal_ja": "しかしその目標を達成することは",
+          "note_ja": "however はカンマで挟むと読みやすい。"
+        },
+        {
+          "text": "would require replacing existing plants",
+          "role_ja": "述語",
+          "literal_ja": "既存施設の置き換えを必要とするだろう",
+          "note_ja": "would は仮定的・推量の未来。"
+        },
+        {
+          "text": "as restarting existing reactors alone would not be enough",
+          "role_ja": "理由を表す従属節",
+          "literal_ja": "既存炉の再稼働だけでは十分でないので",
+          "note_ja": "restart reactors = 再稼働させる。alone = 単独では。"
+        },
+        {
+          "text": "to meet the target",
+          "role_ja": "目的を表す不定詞",
+          "literal_ja": "目標を達成するには",
+          "note_ja": "enough to do で「〜するには十分」。"
+        }
+      ],
+      "deep_dive_ja": "一文に仮定・理由・不足が詰まっている。plants と reactors の使い分けに注意（施設全体 vs 炉）。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "Friday's proposed numbers likely reflect electric power industry estimates that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power, roughly equivalent to the amount generated by five reactors.",
+      "translation_ja": "金曜日に示された数値は、2040年代までに日本で550万キロワットの電力不足が生じ、おおよそ5基の原子炉の発電量に相当するという電力業界の試算を反映している可能性が高い。",
+      "grammar_ja": "likely reflect は「おそらく反映している」。that 節内の by the 2040s は未来の時点。equivalent to は「〜に相当する」。",
+      "chunks": [
+        {
+          "text": "Friday's proposed numbers",
+          "role_ja": "主語",
+          "literal_ja": "金曜日に提案された数値は",
+          "note_ja": "所有格で「金曜の提案」を修飾。"
+        },
+        {
+          "text": "likely reflect electric power industry estimates",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "電力業界の試算をおそらく反映している",
+          "note_ja": "likely は動詞の前で「おそらく」。"
+        },
+        {
+          "text": "that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power",
+          "role_ja": "同格の that 節",
+          "literal_ja": "2040年代までに日本が550万キロワットの電力不足を見るという",
+          "note_ja": "see a shortfall = 不足が生じる。kilowatts は電力の単位。"
+        },
+        {
+          "text": "roughly equivalent to the amount generated by five reactors",
+          "role_ja": "補足説明",
+          "literal_ja": "5基の原子炉が発電する量におよそ相当する",
+          "note_ja": "equivalent to = 〜に相当する。generated by は過去分詞の後置修飾。"
+        }
+      ],
+      "deep_dive_ja": "million kilowatts は日本語では「550万キロワット」と読む。roughly equivalent to で規模感を読者に伝える典型構文。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Reactor operating lifespans are capped at 60 years and some plants in Japan have already been running for around 50 years.",
+      "translation_ja": "原子炉の運転期間は60年が上限とされており、日本の一部の原発はすでに約50年間稼働している。",
+      "grammar_ja": "be capped at で上限設定。have been running は現在完了進行形で継続を強調。for around 50 years は期間。",
+      "chunks": [
+        {
+          "text": "Reactor operating lifespans",
+          "role_ja": "主語",
+          "literal_ja": "原子炉の運転期間は",
+          "note_ja": "lifespan = 寿命・使用年数。"
+        },
+        {
+          "text": "are capped at 60 years",
+          "role_ja": "述語",
+          "literal_ja": "60年が上限とされている",
+          "note_ja": "cap A at B = Aの上限をBに設定する。"
+        },
+        {
+          "text": "some plants in Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本の一部の原発は",
+          "note_ja": "plant は発電所全体を指す。"
+        },
+        {
+          "text": "have already been running for around 50 years",
+          "role_ja": "述語（現在完了進行）",
+          "literal_ja": "すでに約50年間稼働してきた",
+          "note_ja": "run は機械・施設が「稼働する」。"
+        }
+      ],
+      "deep_dive_ja": "reactor（炉）と plant（発電所）の語彙差を意識。be capped at は規制・上限のニュースで頻出。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "There are now 24 reactors undergoing decommissioning work at 11 nuclear power stations.",
+      "translation_ja": "現在、11の原子力発電所で24基の原子炉が廃炉作業中である。",
+      "grammar_ja": "There are 構文。undergoing は「〜を受けている・進行中」。decommissioning work は廃炉作業。",
+      "chunks": [
+        {
+          "text": "There are now 24 reactors",
+          "role_ja": "存在構文の主部",
+          "literal_ja": "現在24基の原子炉がある",
+          "note_ja": "There is/are で存在・状況を導入。"
+        },
+        {
+          "text": "undergoing decommissioning work",
+          "role_ja": "後置修飾（現在分詞）",
+          "literal_ja": "廃炉作業を進行中の",
+          "note_ja": "undergo = 〜を受ける・経験する。"
+        },
+        {
+          "text": "at 11 nuclear power stations",
+          "role_ja": "場所を表す副詞句",
+          "literal_ja": "11の原子力発電所で",
+          "note_ja": "nuclear power station = 原子力発電所。"
+        }
+      ],
+      "deep_dive_ja": "undergoing は進行中の作業を簡潔に示す。decommission は原発・インフラ記事のキーワード。",
+      "difficulty": "easy",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Some of the replacement reactors could be built at the Mihama power station in Fukui Prefecture and the Sendai complex in Kagoshima Prefecture.",
+      "translation_ja": "置き換え炉の一部は、福井県の美浜発電所や鹿児島県の川内原子力発電所に建設される可能性がある。",
+      "grammar_ja": "could be built は可能性のある受動態。Some of the ... は「〜の一部」。and で2地点を並列。",
+      "chunks": [
+        {
+          "text": "Some of the replacement reactors",
+          "role_ja": "主語",
+          "literal_ja": "置き換え炉の一部は",
+          "note_ja": "replacement reactors = 新設・更新炉。"
+        },
+        {
+          "text": "could be built",
+          "role_ja": "述語（受動・可能）",
+          "literal_ja": "建設される可能性がある",
+          "note_ja": "could は不確実性・可能性を示す。"
+        },
+        {
+          "text": "at the Mihama power station in Fukui Prefecture",
+          "role_ja": "場所（並列1）",
+          "literal_ja": "福井県の美浜発電所に",
+          "note_ja": "Prefecture は日本の「県」。"
+        },
+        {
+          "text": "and the Sendai complex in Kagoshima Prefecture",
+          "role_ja": "場所（並列2）",
+          "literal_ja": "鹿児島県の川内（複合施設）に",
+          "note_ja": "complex は複数炉を含む施設群。"
+        }
+      ],
+      "deep_dive_ja": "could be built は断定を避ける報道表現。Sendai complex は川内原子力発電所を指す（仙台市ではない）。",
+      "difficulty": "easy",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "aging",
+      "pronunciation": "/ˈeɪdʒɪŋ/",
+      "meaning_ja": "老朽化した、年を取った",
+      "example": "aging nuclear reactors",
+      "example_ja": "老朽化した原子炉",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "reliance",
+      "pronunciation": "/rɪˈlaɪəns/",
+      "meaning_ja": "依存、頼り",
+      "example": "reducing reliance on nuclear power",
+      "example_ja": "原発への依存を減らすこと",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "shortfall",
+      "pronunciation": "/ˈʃɔːtfɔːl/",
+      "meaning_ja": "不足（量）",
+      "example": "a shortfall of 5.5 million kilowatts",
+      "example_ja": "550万キロワットの不足",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "decommissioning",
+      "pronunciation": "/ˌdiːkəˈmɪʃənɪŋ/",
+      "meaning_ja": "廃炉、退役",
+      "example": "reactors undergoing decommissioning work",
+      "example_ja": "廃炉作業中の原子炉",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "soaring",
+      "pronunciation": "/ˈsɔːrɪŋ/",
+      "meaning_ja": "急騰する、急上昇する",
+      "example": "construction costs soaring globally",
+      "example_ja": "世界的に急騰する建設費",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "proceed",
+      "pronunciation": "/prəˈsiːd/",
+      "meaning_ja": "進む、（計画が）実行される",
+      "example": "whether replacements will proceed",
+      "example_ja": "置き換えが進むかどうか",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "equivalent",
+      "pronunciation": "/ɪˈkwɪvələnt/",
+      "meaning_ja": "相当する、同等の",
+      "example": "roughly equivalent to five reactors",
+      "example_ja": "5基の原子炉におよそ相当する",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "secure",
+      "pronunciation": "/sɪˈkjʊr/",
+      "meaning_ja": "（人材・資源を）確保する",
+      "example": "secure personnel in the nuclear industry",
+      "example_ja": "原発産業の人材を確保する",
+      "source_sentence_id": "s002"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "propose-gerund",
+      "title": "propose + gerund (-ing)",
+      "rule": "Use propose + V-ing to introduce a suggested action.",
+      "example": "The ministry proposed replacing two to five aging nuclear reactors.",
+      "meaning_ja": "propose の後は to不定詞ではなく動名詞（-ing）を続けるのが一般的。政策・公式提案の文でよく使われる。"
+    },
+    {
+      "id": "with-participle-background",
+      "title": "with + noun + present participle",
+      "rule": "Shows background circumstances while the main clause happens.",
+      "example": "With construction costs soaring globally, it remains uncertain whether replacements will proceed.",
+      "meaning_ja": "「〜という状況の中で」と背景を簡潔に示す構文。原因や同時進行の状況を表す。"
+    },
+    {
+      "id": "shift-from-to",
+      "title": "shift from A to B",
+      "rule": "Describes a change from one state or policy to another.",
+      "example": "Policy has shifted from reducing reliance on nuclear power to making maximum use of it.",
+      "meaning_ja": "方針・態度の転換を表す。from と to の後は名詞でも動名詞でもよい。"
+    },
+    {
+      "id": "it-remains-adj-whether",
+      "title": "it remains + adjective + whether clause",
+      "rule": "Formal pattern to express ongoing uncertainty about an outcome.",
+      "example": "It remains uncertain whether replacements will proceed as the government hopes.",
+      "meaning_ja": "形式主語 it + remain + 形容詞 + whether節で「〜かどうかは依然として〜だ」と不確実性を述べる。ニュースや公式文書で多い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:57:54+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:japan-seeks-to-replace-up-to-5-nuclear-r"
+}

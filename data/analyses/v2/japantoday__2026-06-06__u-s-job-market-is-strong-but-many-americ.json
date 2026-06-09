@@ -1,0 +1,1439 @@
+{
+  "summary_ja": "米国の雇用市場は5月に予想の約2倍となる17万2000人の雇用増加を記録し、失業率も4.3%と低水準を維持した。一方で物価上昇への不満は強く、賃金上昇は控えめなうえ、雇用好調が利上げ観測を高めている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The American job market continues to show surprising strength — good news for President Donald Trump who has taken a beating in the polls over the surging gasoline prices that followed U.S. and Israeli attacks on Iran.",
+      "translation_ja": "米国の雇用市場は引き続き驚くほどの強さを示しており、これはドナルド・トランプ大統領にとって朗報だ。彼は米国とイスラエルによるイラン攻撃のあと急騰したガソリン価格をめぐり、世論調査で大きな打撃を受けていた。",
+      "grammar_ja": "continues to show（現在進行の継続）、who節（関係代名詞）、that節（先行詞pricesを修飾）。ダッシュ（—）で補足説明を挿入するニュース文体。",
+      "chunks": [
+        {
+          "text": "The American job market",
+          "role_ja": "主語",
+          "literal_ja": "米国の雇用市場は",
+          "note_ja": "job market = 雇用市場。the American は国全体の市場を指す。"
+        },
+        {
+          "text": "continues to show surprising strength",
+          "role_ja": "述語",
+          "literal_ja": "驚くべき強さを示し続けている",
+          "note_ja": "continue to + 動詞原形で「〜し続ける」。surprising は予想外の良さを含意。"
+        },
+        {
+          "text": "good news for President Donald Trump",
+          "role_ja": "補足説明",
+          "literal_ja": "ドナルド・トランプ大統領にとって朗報",
+          "note_ja": "ダッシュ後の同格説明。good news for ~ = 〜にとって良い知らせ。"
+        },
+        {
+          "text": "who has taken a beating in the polls",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "世論調査で大きな打撃を受けてきた（彼は）",
+          "note_ja": "take a beating = 批判・打撃を受ける。in the polls = 世論調査で。"
+        },
+        {
+          "text": "over the surging gasoline prices",
+          "role_ja": "前置詞句",
+          "literal_ja": "急騰するガソリン価格をめぐって",
+          "note_ja": "over = 〜に関して。surging = 急上昇している。"
+        },
+        {
+          "text": "that followed U.S. and Israeli attacks on Iran",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "米国とイスラエルのイラン攻撃のあとに続いた",
+          "note_ja": "follow = 〜のあとに起きる。that は prices を修飾。"
+        }
+      ],
+      "deep_dive_ja": "政治と経済を結びつける導入文。take a beating は口語的だが報道でもよく使われる。surging は gradual rise より勢いがある。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Employers added 172,000 jobs in May – roughly double what forecasters had expected – and the unemployment rate remained at a low 4.3%, the Labor Department reported Friday.",
+      "translation_ja": "雇用主は5月に17万2000人分の雇用を増やした。これはアナリストの予想のおよそ2倍で、失業率は4.3%という低水準を維持したと、労働省が金曜日に発表した。",
+      "grammar_ja": "過去形 added / remained。what forecasters had expected は名詞節（予想内容）。ダッシュで挿入句。末尾の報道源表現（the Labor Department reported Friday）。",
+      "chunks": [
+        {
+          "text": "Employers added 172,000 jobs in May",
+          "role_ja": "主文",
+          "literal_ja": "雇用主は5月に17万2000の仕事を追加した",
+          "note_ja": "add jobs = 雇用を増やす。employer は雇用主・企業。"
+        },
+        {
+          "text": "roughly double what forecasters had expected",
+          "role_ja": "挿入句",
+          "literal_ja": "予想者が予想していたことのおよそ2倍",
+          "note_ja": "roughly = およそ。what節は「〜した内容」。"
+        },
+        {
+          "text": "the unemployment rate remained at a low 4.3%",
+          "role_ja": "並列節",
+          "literal_ja": "失業率は低い4.3%で推移した",
+          "note_ja": "remain at = 〜の水準を維持する。"
+        },
+        {
+          "text": "the Labor Department reported Friday",
+          "role_ja": "付加説明",
+          "literal_ja": "労働省が金曜日に報告した",
+          "note_ja": "報道文の典型：主語＋動詞を文末に置く倒置的構造。"
+        }
+      ],
+      "deep_dive_ja": "数字の並列は経済記事の基本形。had expected は発表時点より前の予想を示す過去完了。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Job growth was down slightly last month from a revised 179,000 in April.",
+      "translation_ja": "雇用増は先月、4月の改定値17万9000人からわずかに減少した。",
+      "grammar_ja": "be down from = 〜から減少。revised は統計の改定値を示す経済用語。",
+      "chunks": [
+        {
+          "text": "Job growth",
+          "role_ja": "主語",
+          "literal_ja": "雇用の伸びは",
+          "note_ja": "job growth = 雇用増加。"
+        },
+        {
+          "text": "was down slightly last month",
+          "role_ja": "述語",
+          "literal_ja": "先月わずかに減少した",
+          "note_ja": "be down = 減少している。slightly で程度を限定。"
+        },
+        {
+          "text": "from a revised 179,000 in April",
+          "role_ja": "比較基準",
+          "literal_ja": "4月の改定値17万9000人から",
+          "note_ja": "revised figure = 後から修正された統計値。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Hiring has bounced back this year from a miserable 2025, showing resilience in the face of economic uncertainty and painfully high energy prices since the Iran war started in late February.",
+      "translation_ja": "雇用は惨憺たる2025年から今年にかけて回復し、経済の不確実性と痛みを伴う高いエネルギー価格という状況下でも、2月下旬のイラン戦争開始以降、強さを示している。",
+      "grammar_ja": "現在完了 has bounced back（回復の結果）。分詞構文 showing resilience。in the face of = 〜にもかかわらず。since + 過去形。",
+      "chunks": [
+        {
+          "text": "Hiring has bounced back this year",
+          "role_ja": "主文",
+          "literal_ja": "雇用は今年回復した",
+          "note_ja": "bounce back = 反発する・回復する。"
+        },
+        {
+          "text": "from a miserable 2025",
+          "role_ja": "起点",
+          "literal_ja": "惨憺たる2025年から",
+          "note_ja": "年全体を形容詞で表す報道表現。"
+        },
+        {
+          "text": "showing resilience",
+          "role_ja": "分詞構文",
+          "literal_ja": "強さを示しながら",
+          "note_ja": "主語 hiring の結果を補足。"
+        },
+        {
+          "text": "in the face of economic uncertainty and painfully high energy prices",
+          "role_ja": "状況",
+          "literal_ja": "経済の不確実性と痛みを伴う高エネルギー価格という状況の中で",
+          "note_ja": "in the face of = 〜にもかかわらず。"
+        },
+        {
+          "text": "since the Iran war started in late February",
+          "role_ja": "時制",
+          "literal_ja": "2月下旬にイラン戦争が始まって以来",
+          "note_ja": "since + 過去形で「それ以来ずっと」。"
+        }
+      ],
+      "deep_dive_ja": "miserable と painfully は感情語で読者の印象を強める。resilience は経済記事の頻出語。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The job gains are broad-based.",
+      "translation_ja": "雇用増は幅広い業種にわたっている。",
+      "grammar_ja": "broad-based は形容詞で「幅広い」。be動詞 + 形容詞のSVC構文。",
+      "chunks": [
+        {
+          "text": "The job gains",
+          "role_ja": "主語",
+          "literal_ja": "雇用の増加は",
+          "note_ja": "job gains = 雇用の伸び。"
+        },
+        {
+          "text": "are broad-based",
+          "role_ja": "述語",
+          "literal_ja": "幅広い基盤を持つ／多業種にわたる",
+          "note_ja": "特定業種に偏らないことを示す経済用語。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Local governments added 55,000 workers, restaurants and bars 48,000, healthcare companies 35,000.",
+      "translation_ja": "地方自治体が5万5000人、飲食店が4万8000人、医療関連企業が3万5000人の雇用を増やした。",
+      "grammar_ja": "並列構造で added を省略（ellipsis）。数字列挙の簡潔な報道文体。",
+      "chunks": [
+        {
+          "text": "Local governments added 55,000 workers",
+          "role_ja": "第1項",
+          "literal_ja": "地方自治体は5万5000人の労働者を追加した",
+          "note_ja": "完全な文。"
+        },
+        {
+          "text": "restaurants and bars 48,000",
+          "role_ja": "第2項（省略）",
+          "literal_ja": "飲食店は4万8000",
+          "note_ja": "added workers が省略されている。"
+        },
+        {
+          "text": "healthcare companies 35,000",
+          "role_ja": "第3項（省略）",
+          "literal_ja": "医療企業は3万5000",
+          "note_ja": "同じ構造の繰り返し。"
+        }
+      ],
+      "deep_dive_ja": "英語の経済記事では動詞を繰り返さず数字だけ並べる省略がよくある。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "In another sign of job market strength, Labor Department revisions added a combined 93,000 jobs in March and April.",
+      "translation_ja": "雇用市場の強さを示す別の兆候として、労働省の改定により3月と4月の雇用が合計9万3000人分上方修正された。",
+      "grammar_ja": "In another sign of ~ で導入。revisions = 統計改定。combined = 合計の。",
+      "chunks": [
+        {
+          "text": "In another sign of job market strength",
+          "role_ja": "導入句",
+          "literal_ja": "雇用市場の強さの別の兆候として",
+          "note_ja": "sign of = 〜の兆候。"
+        },
+        {
+          "text": "Labor Department revisions",
+          "role_ja": "主語",
+          "literal_ja": "労働省の改定は",
+          "note_ja": "revision = 過去データの修正。"
+        },
+        {
+          "text": "added a combined 93,000 jobs",
+          "role_ja": "述語",
+          "literal_ja": "合計9万3000の雇用を加えた",
+          "note_ja": "改定で数字が増える場合の表現。"
+        },
+        {
+          "text": "in March and April",
+          "role_ja": "時点",
+          "literal_ja": "3月と4月に",
+          "note_ja": "対象期間。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Job growth averaged 188,000 a month from March through May, marking the best three months of hiring since early 2024.",
+      "translation_ja": "3月から5月にかけての雇用増は月平均18万8000人となり、2024年初頭以来最高の3か月間の雇用を記録した。",
+      "grammar_ja": "averaged = 平均した。分詞 marking で結果を補足。since early 2024 = その時以来。",
+      "chunks": [
+        {
+          "text": "Job growth averaged 188,000 a month",
+          "role_ja": "主文",
+          "literal_ja": "雇用増は月18万8000を平均した",
+          "note_ja": "average を動詞で使う。"
+        },
+        {
+          "text": "from March through May",
+          "role_ja": "期間",
+          "literal_ja": "3月から5月まで",
+          "note_ja": "through = 〜まで含めて。"
+        },
+        {
+          "text": "marking the best three months of hiring since early 2024",
+          "role_ja": "分詞構文",
+          "literal_ja": "2024年初頭以来最高の3か月の雇用であることを示し",
+          "note_ja": "mark = 〜を示す・記録する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The hiring recession is over.",
+      "translation_ja": "「雇用の不況は終わった。」",
+      "grammar_ja": "直接話法の一部。hiring recession = 雇用減少期。is over = 終わった。",
+      "chunks": [
+        {
+          "text": "The hiring recession",
+          "role_ja": "主語",
+          "literal_ja": "雇用の不況は",
+          "note_ja": "景気後退ほど深刻でない雇用の弱さを指す。"
+        },
+        {
+          "text": "is over",
+          "role_ja": "述語",
+          "literal_ja": "終わった",
+          "note_ja": "be over = 終了した。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "American firms are hiring again,'' said Heather Long, chief economist at Navy Federal Credit Union.",
+      "translation_ja": "「米国企業は再び雇用を増やしている」と、ネイビー・フェデラル・クレジット・ユニオンの最高経済責任者、ヘザー・ロングは述べた。",
+      "grammar_ja": "直接話法＋said + 話者名 + 肩書き。are hiring = 現在進行で進行中の傾向。",
+      "chunks": [
+        {
+          "text": "American firms are hiring again",
+          "role_ja": "引用文",
+          "literal_ja": "米国企業は再び雇っている",
+          "note_ja": "hire = 雇う・採用する。"
+        },
+        {
+          "text": "said Heather Long",
+          "role_ja": "述語",
+          "literal_ja": "ヘザー・ロングは言った",
+          "note_ja": "引用動詞は引用文の後に置く。"
+        },
+        {
+          "text": "chief economist at Navy Federal Credit Union",
+          "role_ja": "同格",
+          "literal_ja": "ネイビー・フェデラル・クレジット・ユニオンの最高経済責任者",
+          "note_ja": "肩書きはカンマで挿入。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The job rebound is happening in almost every industry ...",
+      "translation_ja": "「雇用の回復はほぼすべての業種で起きている…」",
+      "grammar_ja": "現在進行 is happening。rebound = 回復。in almost every industry = ほぼ全業種で。",
+      "chunks": [
+        {
+          "text": "The job rebound",
+          "role_ja": "主語",
+          "literal_ja": "雇用の回復は",
+          "note_ja": "rebound = 反発・回復。"
+        },
+        {
+          "text": "is happening",
+          "role_ja": "述語",
+          "literal_ja": "起きている",
+          "note_ja": "進行形で進行中の変化。"
+        },
+        {
+          "text": "in almost every industry",
+          "role_ja": "場所",
+          "literal_ja": "ほぼすべての業種で",
+          "note_ja": "industry = 業種・産業。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "This is encouraging news for job seekers and for the U.S. economy.",
+      "translation_ja": "これは求職者と米国経済にとって心強い知らせだ。",
+      "grammar_ja": "encouraging = 人を励ます。for A and for B の並列。",
+      "chunks": [
+        {
+          "text": "This",
+          "role_ja": "主語",
+          "literal_ja": "これは",
+          "note_ja": "前の内容を受ける。"
+        },
+        {
+          "text": "is encouraging news",
+          "role_ja": "述語",
+          "literal_ja": "励みになる知らせだ",
+          "note_ja": "encouraging = 心強い・励みになる。"
+        },
+        {
+          "text": "for job seekers and for the U.S. economy",
+          "role_ja": "対象",
+          "literal_ja": "求職者と米国経済にとって",
+          "note_ja": "for ~ = 〜にとって。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The labor market has stabilized and is showing early signs of a genuine rebound.''",
+      "translation_ja": "「労働市場は安定し、本格的な回復の初期の兆候を見せ始めている。」",
+      "grammar_ja": "現在完了 has stabilized。is showing early signs of = 〜の初期兆候を示す。genuine = 本物の。",
+      "chunks": [
+        {
+          "text": "The labor market has stabilized",
+          "role_ja": "述語1",
+          "literal_ja": "労働市場は安定した",
+          "note_ja": "stabilize = 安定する。"
+        },
+        {
+          "text": "is showing early signs of a genuine rebound",
+          "role_ja": "述語2",
+          "literal_ja": "本当の回復の初期の兆候を示している",
+          "note_ja": "early signs of = 〜の初期兆候。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "With just five months to go before consequential midterm elections in the U.S., Americans have grown increasingly frustrated by rising costs, and it's unclear if the strong job numbers this year will change their gloomy view of the economy.",
+      "translation_ja": "米国の重要な中間選挙まであと5か月しかないなか、米国人は物価上昇にますます不満を募らせており、今年の好調な雇用数字が経済への暗い見方を変えるかどうかは不明だ。",
+      "grammar_ja": "With + 名詞句で状況設定。have grown frustrated = 次第に不満が強まった。it's unclear if = 〜かどうか不明。",
+      "chunks": [
+        {
+          "text": "With just five months to go before consequential midterm elections in the U.S.",
+          "role_ja": "状況",
+          "literal_ja": "米国の重要な中間選挙まであとわずか5か月という状況で",
+          "note_ja": "with ~ to go = あと〜残っている。"
+        },
+        {
+          "text": "Americans have grown increasingly frustrated by rising costs",
+          "role_ja": "主文1",
+          "literal_ja": "米国人は上昇するコストにますます不満を感じるようになった",
+          "note_ja": "grow frustrated = だんだん不満になる。"
+        },
+        {
+          "text": "it's unclear if the strong job numbers this year will change their gloomy view of the economy",
+          "role_ja": "主文2",
+          "literal_ja": "今年の強い雇用数字が彼らの暗い経済観を変えるかは不明だ",
+          "note_ja": "gloomy view = 悲観的な見方。"
+        }
+      ],
+      "deep_dive_ja": "consequential は「影響が大きい」という政治文脈の語。if節は「〜かどうか」の間接疑問。",
+      "difficulty": "hard",
+      "sentence_id": "s014"
+    },
+    {
+      "text": "Inflation data last week showed that in addition to gasoline, prices for groceries, clothing and electricity are also on the rise, indicating that inflation may be growing more entrenched.",
+      "translation_ja": "先週のインフレデータは、ガソリンに加えて食料品・衣類・電気代の価格も上昇していることを示し、インフレがより根深くなりつつある可能性を示唆した。",
+      "grammar_ja": "showed that節。in addition to = 〜に加えて。on the rise = 上昇中。分詞 indicating、entrenched = 根深い。",
+      "chunks": [
+        {
+          "text": "Inflation data last week showed that",
+          "role_ja": "主文",
+          "literal_ja": "先週のインフレデータは〜を示した",
+          "note_ja": "data は複数扱いも単数扱いもある。"
+        },
+        {
+          "text": "in addition to gasoline",
+          "role_ja": "追加",
+          "literal_ja": "ガソリンに加えて",
+          "note_ja": "in addition to = 〜に加えて。"
+        },
+        {
+          "text": "prices for groceries, clothing and electricity are also on the rise",
+          "role_ja": "that節",
+          "literal_ja": "食料品・衣類・電気の価格も上昇している",
+          "note_ja": "on the rise = 上昇傾向にある。"
+        },
+        {
+          "text": "indicating that inflation may be growing more entrenched",
+          "role_ja": "分詞構文",
+          "literal_ja": "インフレがより根深くなっているかもしれないことを示し",
+          "note_ja": "entrenched = 固定化・根深い。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Polls show that Trump's approval rating on the economy is falling sharply after being reelected largely on the promise of taming inflation.",
+      "translation_ja": "世論調査によると、トランプ氏の経済に対する支持率は、主にインフレ抑制を公約に再選されたあと、急激に低下している。",
+      "grammar_ja": "approval rating = 支持率。after being reelected = 再選された後（受動の動名詞）。on the promise of = 〜を公約に。",
+      "chunks": [
+        {
+          "text": "Polls show that",
+          "role_ja": "主文",
+          "literal_ja": "世論調査は〜を示す",
+          "note_ja": "poll = 世論調査。"
+        },
+        {
+          "text": "Trump's approval rating on the economy is falling sharply",
+          "role_ja": "that節",
+          "literal_ja": "トランプの経済に対する支持率は急激に下がっている",
+          "note_ja": "approval rating on ~ = 〜に対する評価。"
+        },
+        {
+          "text": "after being reelected largely on the promise of taming inflation",
+          "role_ja": "時制",
+          "literal_ja": "主にインフレ抑制の約束で再選された後",
+          "note_ja": "tame inflation = インフレを抑える。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "And despite the pickup in hiring, wage gains were modest.",
+      "translation_ja": "そして雇用の回復にもかかわらず、賃金の伸びは控えめだった。",
+      "grammar_ja": "despite + 名詞。pickup = 回復・増加。modest = 控えめな。",
+      "chunks": [
+        {
+          "text": "despite the pickup in hiring",
+          "role_ja": "譲歩",
+          "literal_ja": "雇用の回復にもかかわらず",
+          "note_ja": "pickup = 持ち直し。"
+        },
+        {
+          "text": "wage gains were modest",
+          "role_ja": "主文",
+          "literal_ja": "賃金の増加は控えめだった",
+          "note_ja": "wage gains = 賃金上昇。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Average hourly wages rose 0.3% from April and 3.4% from May 2025.",
+      "translation_ja": "平均時給は4月比0.3%、2025年5月比で3.4%上昇した。",
+      "grammar_ja": "rose = 上昇した（riseの過去形）。from April / from May 2025 で基準月を示す。",
+      "chunks": [
+        {
+          "text": "Average hourly wages",
+          "role_ja": "主語",
+          "literal_ja": "平均時給は",
+          "note_ja": "hourly wages = 時間あたりの賃金。"
+        },
+        {
+          "text": "rose 0.3% from April",
+          "role_ja": "述語1",
+          "literal_ja": "4月から0.3%上昇した",
+          "note_ja": "前月比の表現。"
+        },
+        {
+          "text": "and 3.4% from May 2025",
+          "role_ja": "述語2",
+          "literal_ja": "2025年5月から3.4%",
+          "note_ja": "前年同月比。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Many young people are still finding it tough to catch a break on a job, and workers who have been laid off have struggled to find another.",
+      "translation_ja": "多くの若者は依然として就職に恵まれにくく、解雇された労働者も次の仕事を見つけるのに苦労している。",
+      "grammar_ja": "find it tough to ~（it仮目的語）。catch a break = 好機をつかむ。who have been laid off（関係代名詞・受動）。",
+      "chunks": [
+        {
+          "text": "Many young people are still finding it tough to catch a break on a job",
+          "role_ja": "主文1",
+          "literal_ja": "多くの若者は仕事でチャンスをつかむのが依然難しいと感じている",
+          "note_ja": "catch a break = 運が開く・好機を得る。"
+        },
+        {
+          "text": "workers who have been laid off",
+          "role_ja": "主語",
+          "literal_ja": "解雇された労働者は",
+          "note_ja": "lay off = 解雇する。"
+        },
+        {
+          "text": "have struggled to find another",
+          "role_ja": "述語",
+          "literal_ja": "別の（仕事）を見つけるのに苦労してきた",
+          "note_ja": "another = another job と省略。"
+        }
+      ],
+      "deep_dive_ja": "catch a break は口語的イディオム。find it + 形容詞 + to不定詞はB2重要構文。",
+      "difficulty": "medium",
+      "sentence_id": "s019"
+    },
+    {
+      "text": "Nearly 28% of the unemployed in April had been jobless for more than six months, the largest share since December 2021.",
+      "translation_ja": "4月の失業者の約28%は6か月以上無職であり、2021年12月以来最大の割合だった。",
+      "grammar_ja": "過去完了 had been jobless（無職状態の継続）。the largest share since = 〜以来最大の割合。",
+      "chunks": [
+        {
+          "text": "Nearly 28% of the unemployed in April",
+          "role_ja": "主語",
+          "literal_ja": "4月の失業者の約28%は",
+          "note_ja": "the unemployed = 失業者（名詞化）。"
+        },
+        {
+          "text": "had been jobless for more than six months",
+          "role_ja": "述語",
+          "literal_ja": "6か月以上無職であった",
+          "note_ja": "長期失業を示す。"
+        },
+        {
+          "text": "the largest share since December 2021",
+          "role_ja": "同格",
+          "literal_ja": "2021年12月以来最大の割合",
+          "note_ja": "share = 割合・シェア。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But the labor market is clearly improving.",
+      "translation_ja": "しかし労働市場は明らかに改善している。",
+      "grammar_ja": "But で逆接。現在進行 is improving。clearly で確信を強調。",
+      "chunks": [
+        {
+          "text": "the labor market",
+          "role_ja": "主語",
+          "literal_ja": "労働市場は",
+          "note_ja": "labor market = 雇用市場。"
+        },
+        {
+          "text": "is clearly improving",
+          "role_ja": "述語",
+          "literal_ja": "明らかに改善している",
+          "note_ja": "進行形で変化の途中を示す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Last year, employers added just 9,700 jobs a month, the fewest outside of a recession since 2002.",
+      "translation_ja": "昨年、雇用主が月に増やした雇用はわずか9700人で、2002年以来リセッション以外では最少だった。",
+      "grammar_ja": "the fewest = 最少（最上級）。outside of a recession = 不況期を除けば。",
+      "chunks": [
+        {
+          "text": "Last year, employers added just 9,700 jobs a month",
+          "role_ja": "主文",
+          "literal_ja": "昨年雇用主は月わずか9700の仕事を追加した",
+          "note_ja": "just で「たった」を強調。"
+        },
+        {
+          "text": "the fewest outside of a recession since 2002",
+          "role_ja": "同格",
+          "literal_ja": "2002年以来不況以外で最少",
+          "note_ja": "比較の基準を限定する表現。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Hiring has rebounded, averaging 114,000 new jobs a month so far this year.",
+      "translation_ja": "雇用は回復し、今年に入ってからは月平均11万4000人の新規雇用となっている。",
+      "grammar_ja": "現在完了 has rebounded。分詞 averaging。so far this year = 今年初めて現在まで。",
+      "chunks": [
+        {
+          "text": "Hiring has rebounded",
+          "role_ja": "主文",
+          "literal_ja": "雇用は回復した",
+          "note_ja": "rebound = 回復する。"
+        },
+        {
+          "text": "averaging 114,000 new jobs a month",
+          "role_ja": "分詞構文",
+          "literal_ja": "月11万4000の新規雇用を平均して",
+          "note_ja": "付随する平均値。"
+        },
+        {
+          "text": "so far this year",
+          "role_ja": "時制",
+          "literal_ja": "今年これまで",
+          "note_ja": "年初から現在まで。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Friday's report \"really is a positive surprise, particularly given the headwinds from the Iran conflict, which clearly led to much higher energy prices and which are going to act to slow economic activity to some degree,'' said Ryan Nunn, research director at Yale University's Budget Lab.",
+      "translation_ja": "「金曜日の報告は、特にイラン紛争という逆風を考えれば、本当に良いサプライズだ。紛争は明らかにもっと高いエネルギー価格につながり、ある程度は経済活動を鈍らせるだろう」と、イェール大学バジェット・ラボの研究責任者ライアン・ナンは述べた。",
+      "grammar_ja": "given = 〜を考慮すると。headwinds = 逆風。関係代名詞 which の並列。act to slow = 〜を遅らせる作用をする。",
+      "chunks": [
+        {
+          "text": "Friday's report really is a positive surprise",
+          "role_ja": "引用文",
+          "literal_ja": "金曜の報告は本当に良い驚きだ",
+          "note_ja": "positive surprise = 予想以上の好結果。"
+        },
+        {
+          "text": "particularly given the headwinds from the Iran conflict",
+          "role_ja": "譲歩",
+          "literal_ja": "特にイラン紛争からの逆風を考えると",
+          "note_ja": "headwinds = 向かい風・障害。"
+        },
+        {
+          "text": "which clearly led to much higher energy prices",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それは明らかにもっと高いエネルギー価格につながった",
+          "note_ja": "conflict を先行詞とする。"
+        },
+        {
+          "text": "which are going to act to slow economic activity to some degree",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それらはある程度経済活動を遅らせるだろう",
+          "note_ja": "act to = 〜する働きをする。energy prices が主語。"
+        },
+        {
+          "text": "said Ryan Nunn, research director at Yale University's Budget Lab",
+          "role_ja": "述語",
+          "literal_ja": "ライアン・ナンは述べた",
+          "note_ja": "肩書き付きの引用形式。"
+        }
+      ],
+      "deep_dive_ja": "headwinds は経済記事の比喩表現。which が2つ続くので先行詞の確認が重要。",
+      "difficulty": "hard",
+      "sentence_id": "s024"
+    },
+    {
+      "text": "The economy, Nunn said, has been boosted by a surge in investment in artificial intelligence.",
+      "translation_ja": "ナン氏によると、経済は人工知能への投資急増によって押し上げられている。",
+      "grammar_ja": "挿入句 Nunn said。受動 has been boosted。a surge in = 〜の急増。",
+      "chunks": [
+        {
+          "text": "The economy",
+          "role_ja": "主語",
+          "literal_ja": "経済は",
+          "note_ja": "文の主語。"
+        },
+        {
+          "text": "Nunn said",
+          "role_ja": "挿入句",
+          "literal_ja": "ナンは言った",
+          "note_ja": "話者を文中に挿入。"
+        },
+        {
+          "text": "has been boosted by a surge in investment in artificial intelligence",
+          "role_ja": "述語",
+          "literal_ja": "人工知能への投資の急増によって押し上げられてきた",
+          "note_ja": "boost = 押し上げる。a surge in = 急増。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Also helping are lower tariff rates since President Donald Trump has effectively lowered the massive import taxes he imposed last year – and the Supreme Court in February struck down his most sweeping levies, setting the stage for businesses to get back money they'd paid.",
+      "translation_ja": "また、ドナルド・トランプ大統領が昨年課した巨額の輸入税を実質的に引き下げたこと、そして最高裁が2月に最も包括的な関税を無効としたことも助けになっている。これにより企業が支払った金額の返還への道が開かれた。",
+      "grammar_ja": "倒置 Also helping are ~。since節。he imposed（関係代名詞の省略）。setting the stage for = 〜の土台を整える。",
+      "chunks": [
+        {
+          "text": "Also helping are lower tariff rates",
+          "role_ja": "主文（倒置）",
+          "literal_ja": "また助けになっているのはより低い関税率だ",
+          "note_ja": "tariff rates = 関税率。"
+        },
+        {
+          "text": "since President Donald Trump has effectively lowered the massive import taxes he imposed last year",
+          "role_ja": "理由節",
+          "literal_ja": "トランプ大統領が昨年課した巨額の輸入税を実質的に下げたから",
+          "note_ja": "effectively = 実質的に。"
+        },
+        {
+          "text": "the Supreme Court in February struck down his most sweeping levies",
+          "role_ja": "並列節",
+          "literal_ja": "最高裁は2月に最も包括的な課税を打ち破った",
+          "note_ja": "strike down = 無効にする。levies = 課税。"
+        },
+        {
+          "text": "setting the stage for businesses to get back money they'd paid",
+          "role_ja": "分詞構文",
+          "literal_ja": "企業が支払った金を取り戻す段階を整え",
+          "note_ja": "set the stage for = 〜の準備をする。"
+        }
+      ],
+      "deep_dive_ja": "倒置文は書き出しに変化をつける報道技法。sweeping = 広範囲に及ぶ。",
+      "difficulty": "hard",
+      "sentence_id": "s026"
+    },
+    {
+      "text": "Big tax refunds — the product of Trump's 2025 tax cuts — have given the economy a lift, offsetting the impact of higher energy prices.",
+      "translation_ja": "トランプ氏の2025年減税の結果である大きな税金還付が経済を押し上げ、高いエネルギー価格の影響を相殺している。",
+      "grammar_ja": "ダッシュで同格説明。give ~ a lift = 〜を押し上げる。分詞 offsetting。",
+      "chunks": [
+        {
+          "text": "Big tax refunds",
+          "role_ja": "主語",
+          "literal_ja": "大きな税金還付は",
+          "note_ja": "tax refund = 還付金。"
+        },
+        {
+          "text": "the product of Trump's 2025 tax cuts",
+          "role_ja": "同格",
+          "literal_ja": "トランプの2025年減税の産物",
+          "note_ja": "product of = 〜の結果。"
+        },
+        {
+          "text": "have given the economy a lift",
+          "role_ja": "述語",
+          "literal_ja": "経済に押し上げを与えた",
+          "note_ja": "give a lift = 後押しする。"
+        },
+        {
+          "text": "offsetting the impact of higher energy prices",
+          "role_ja": "分詞構文",
+          "literal_ja": "より高いエネルギー価格の影響を相殺しながら",
+          "note_ja": "offset = 相殺する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But the refunds have mostly been pocketed, and gasoline prices have remained above $4 per gallon since March.",
+      "translation_ja": "しかし還付金の多くは使わずに手元に残され、ガソリン価格は3月以来ガロンあたり4ドルを超えたままだ。",
+      "grammar_ja": "be pocketed = 手元に置かれた（使われずに）。remain above = 〜を超えたまま。",
+      "chunks": [
+        {
+          "text": "the refunds have mostly been pocketed",
+          "role_ja": "主文1",
+          "literal_ja": "還付金は主にポケットに入れられた（貯められた）",
+          "note_ja": "pocket を動詞で「蓄える」。"
+        },
+        {
+          "text": "gasoline prices have remained above $4 per gallon since March",
+          "role_ja": "主文2",
+          "literal_ja": "ガソリン価格は3月以来ガロン4ドル超えのまま",
+          "note_ja": "per gallon = ガロンあたり。"
+        }
+      ],
+      "deep_dive_ja": "be pocketed は報道では「消費されずに貯蓄された」意味。",
+      "difficulty": "medium",
+      "sentence_id": "s028"
+    },
+    {
+      "text": "U.S. financial markets retreated after the jobs data was released Friday.",
+      "translation_ja": "雇用統計が金曜日に発表されたあと、米国の金融市場は下落した。",
+      "grammar_ja": "retreat = 後退・下落。after + 過去形。was released（受動）。",
+      "chunks": [
+        {
+          "text": "U.S. financial markets retreated",
+          "role_ja": "主文",
+          "literal_ja": "米国の金融市場は後退した",
+          "note_ja": "retreat = 値下がりする。"
+        },
+        {
+          "text": "after the jobs data was released Friday",
+          "role_ja": "時制",
+          "literal_ja": "雇用データが金曜に発表された後",
+          "note_ja": "release = 公表する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s029",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Healthy hiring has raised the odds that the Fed's next move will be an interest rate increase, a sharp change from the start of the year when central bank officials had still penciled in two rate cuts for 2026.",
+      "translation_ja": "好調な雇用は、連邦準備制度理事会（FRB）の次の動きが利上げになる可能性を高めた。これは年初に中央銀行当局者が2026年に2回の利下げを予定していたことから大きく変わった。",
+      "grammar_ja": "raise the odds that = 〜の可能性を高める。pencil in = 暫定予定する。when節で時点を特定。",
+      "chunks": [
+        {
+          "text": "Healthy hiring has raised the odds",
+          "role_ja": "主文",
+          "literal_ja": "健全な雇用は可能性を高めた",
+          "note_ja": "odds = 見込み・確率。"
+        },
+        {
+          "text": "that the Fed's next move will be an interest rate increase",
+          "role_ja": "that節",
+          "literal_ja": "FRBの次の動きが利上げになるという",
+          "note_ja": "the Fed = 米連邦準備制度。"
+        },
+        {
+          "text": "a sharp change from the start of the year",
+          "role_ja": "同格",
+          "literal_ja": "年初からの急激な変化",
+          "note_ja": "a change from = 〜からの変化。"
+        },
+        {
+          "text": "when central bank officials had still penciled in two rate cuts for 2026",
+          "role_ja": "関係副詞節",
+          "literal_ja": "中央銀行当局者がまだ2026年に2回の利下げを予定していた時",
+          "note_ja": "pencil in = メモ程度に予定する。"
+        }
+      ],
+      "deep_dive_ja": "pencil in は金融記事の慣用表現。odds that節は「〜という見込み」。",
+      "difficulty": "hard",
+      "sentence_id": "s030"
+    },
+    {
+      "text": "Wall Street now expects a rate hike in December, which would be sharply at odds with Trump's repeated demands for a cut.",
+      "translation_ja": "ウォール街は現在、12月の利上げを予想しており、それはトランプ氏が繰り返し求めている利下げと大きく矛盾するだろう。",
+      "grammar_ja": "rate hike = 利上げ。which 非限定用法。at odds with = 〜と矛盾して。",
+      "chunks": [
+        {
+          "text": "Wall Street now expects a rate hike in December",
+          "role_ja": "主文",
+          "literal_ja": "ウォール街は今12月の利上げを予想している",
+          "note_ja": "Wall Street = 金融市場全体。"
+        },
+        {
+          "text": "which would be sharply at odds with Trump's repeated demands for a cut",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それはトランプの繰り返される利下げ要求と鋭く矛盾するだろう",
+          "note_ja": "at odds with = 〜と対立・矛盾。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s031",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "An increase by the Fed could lead, over time, to higher borrowing costs for mortgages, auto loans, and business loans.",
+      "translation_ja": "FRBによる利上げは、時間をかけて住宅ローン、自動車ローン、事業ローンの借入コストを高める可能性がある。",
+      "grammar_ja": "could lead to = 〜につながる可能性。over time = 時間をかけて。borrowing costs = 借入コスト。",
+      "chunks": [
+        {
+          "text": "An increase by the Fed",
+          "role_ja": "主語",
+          "literal_ja": "FRBによる引き上げは",
+          "note_ja": "金利引き上げを指す。"
+        },
+        {
+          "text": "could lead, over time, to higher borrowing costs",
+          "role_ja": "述語",
+          "literal_ja": "時間をかけてより高い借入コストにつながるかもしれない",
+          "note_ja": "lead to = 〜につながる。"
+        },
+        {
+          "text": "for mortgages, auto loans, and business loans",
+          "role_ja": "対象",
+          "literal_ja": "住宅ローン・自動車ローン・事業ローンに対して",
+          "note_ja": "loan types の列挙。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s032",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Higher rates are coming, particularly when inflation is above target and clearly moving in the wrong direction,\" said Dario Perkins, an economist at TS Lombard. \"The only question is when.\"",
+      "translation_ja": "「金利上昇は来る。特にインフレが目標を上回り、明らかに悪い方向に動いているときには」と、TSロンバードの経済学者ダリオ・パーキンスは言った。「問題はいつか、だけだ。」",
+      "grammar_ja": "when節で条件。above target = 目標を上回って。The only question is when = 疑問詞を補語に。",
+      "chunks": [
+        {
+          "text": "Higher rates are coming",
+          "role_ja": "引用文1",
+          "literal_ja": "より高い金利が来ている",
+          "note_ja": "進行形で近い将来を示す。"
+        },
+        {
+          "text": "particularly when inflation is above target and clearly moving in the wrong direction",
+          "role_ja": "条件",
+          "literal_ja": "特にインフレが目標以上で明らかに悪い方向に動いているとき",
+          "note_ja": "above target = 中央銀行の目標超え。"
+        },
+        {
+          "text": "The only question is when",
+          "role_ja": "引用文2",
+          "literal_ja": "唯一の問題はいつかだ",
+          "note_ja": "when を名詞的に使う。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s033",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Uncle Giuseppe's Marketplace, which operates 12 grocery stores across New York and New Jersey, is on a hiring spree.",
+      "translation_ja": "ニューヨークとニュージャージーに12店舗の食料品店を展開するアンクル・ジュゼッペズ・マーケットプレイスは、積極採用の最中だ。",
+      "grammar_ja": "関係代名詞 which。be on a spree = 〜に夢中・殺到している。",
+      "chunks": [
+        {
+          "text": "Uncle Giuseppe's Marketplace",
+          "role_ja": "主語",
+          "literal_ja": "アンクル・ジュゼッペズ・マーケットプレイスは",
+          "note_ja": "固有名詞の店名。"
+        },
+        {
+          "text": "which operates 12 grocery stores across New York and New Jersey",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "ニューヨークとニュージャージーで12の食料品店を運営する",
+          "note_ja": "across = 〜各地に。"
+        },
+        {
+          "text": "is on a hiring spree",
+          "role_ja": "述語",
+          "literal_ja": "採用ラッシュの最中だ",
+          "note_ja": "on a spree = 夢中になって〜する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s034",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "President Mike Nelson announced last fall that he wanted to add 1,000 workers over the next year, pushing the company's payroll over 3,500.",
+      "translation_ja": "マイク・ネルソン社長は昨秋、今後1年で1000人の従業員を増やし、会社の給与支払い対象者を3500人超にしたいと発表した。",
+      "grammar_ja": "announced that節。over the next year = 今後1年で。分詞 pushing で結果。payroll = 給与支払い対象者。",
+      "chunks": [
+        {
+          "text": "President Mike Nelson announced last fall that",
+          "role_ja": "主文",
+          "literal_ja": "マイク・ネルソン社長は昨秋〜と発表した",
+          "note_ja": "last fall = 昨秋。"
+        },
+        {
+          "text": "he wanted to add 1,000 workers over the next year",
+          "role_ja": "that節",
+          "literal_ja": "彼は今後1年で1000人の労働者を追加したかった",
+          "note_ja": "add workers = 雇用を増やす。"
+        },
+        {
+          "text": "pushing the company's payroll over 3,500",
+          "role_ja": "分詞構文",
+          "literal_ja": "会社の従業員数を3500人超に押し上げ",
+          "note_ja": "payroll = 給与リスト上の従業員数。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s035",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nelson says his problem is finding skilled workers.",
+      "translation_ja": "ネルソン氏は、自分の問題は熟練労働者を見つけることだと言う。",
+      "grammar_ja": "his problem is finding ~（動名詞補語）。skilled workers = 熟練労働者。",
+      "chunks": [
+        {
+          "text": "Nelson says",
+          "role_ja": "主文",
+          "literal_ja": "ネルソンは言う",
+          "note_ja": "現在形で発言を紹介。"
+        },
+        {
+          "text": "his problem is finding skilled workers",
+          "role_ja": "that節",
+          "literal_ja": "彼の問題は熟練労働者を見つけることだ",
+          "note_ja": "finding = 見つけること。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s036",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We're looking for a butcher who can cut meat in the store and engage with our customers and give them cooking ideas and speak to them about what makes the product special,\" he said. \"You don't find that everywhere now.\"",
+      "translation_ja": "「店で肉を切り、客と接し、料理のアイデアを出し、商品の魅力を説明できる肉屋を探している」と彼は言った。「今はどこにでもいる人材ではない。」",
+      "grammar_ja": "who節で並列動詞（can cut, engage, give, speak）。engage with = 〜と関わる。what makes ~ special = 名詞節。",
+      "chunks": [
+        {
+          "text": "We're looking for a butcher who can cut meat in the store",
+          "role_ja": "引用文",
+          "literal_ja": "店で肉を切れる肉屋を探している",
+          "note_ja": "butcher = 肉屋・精肉担当。"
+        },
+        {
+          "text": "engage with our customers",
+          "role_ja": "並列",
+          "literal_ja": "顧客と関わる",
+          "note_ja": "engage with = 積極的に接する。"
+        },
+        {
+          "text": "give them cooking ideas and speak to them about what makes the product special",
+          "role_ja": "並列",
+          "literal_ja": "料理のアイデアを与え、商品の特別な点について話す",
+          "note_ja": "what節が speak about の目的語。"
+        },
+        {
+          "text": "You don't find that everywhere now",
+          "role_ja": "引用文2",
+          "literal_ja": "今はどこでもそれは見つからない",
+          "note_ja": "that = そのような人材。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s037",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Like other grocery stores, Uncle Giuseppe's has benefited as Americans cut back on dinners out as the cost of living marches higher.",
+      "translation_ja": "他の食料品店と同様、アンクル・ジュゼッペズも、生活費がどんどん上がるなかで米国人が外食を控えるようになったことで恩恵を受けている。",
+      "grammar_ja": "Like ~ で比較。as節が2つ（理由・同時）。cut back on = 〜を控える。march higher = 着実に上昇する。",
+      "chunks": [
+        {
+          "text": "Like other grocery stores",
+          "role_ja": "比較",
+          "literal_ja": "他の食料品店のように",
+          "note_ja": "Like = 〜と同様に。"
+        },
+        {
+          "text": "Uncle Giuseppe's has benefited",
+          "role_ja": "主文",
+          "literal_ja": "アンクル・ジュゼッペズは恩恵を受けた",
+          "note_ja": "benefit = 利益を得る。"
+        },
+        {
+          "text": "as Americans cut back on dinners out",
+          "role_ja": "理由",
+          "literal_ja": "米国人が外食を控えるにつれ",
+          "note_ja": "cut back on = 〜を減らす。"
+        },
+        {
+          "text": "as the cost of living marches higher",
+          "role_ja": "状況",
+          "literal_ja": "生活費が着実に上がるにつれ",
+          "note_ja": "march higher = 段階的に上昇する比喩。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s038",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The company is marketing specials to lure inflation-scarred shoppers, like a $39.99 chicken Parmesan and pasta meal for a family of four that includes a loaf of bread and a salad.",
+      "translation_ja": "同社はインフレで慎重になった買い物客を引きつけるため、4人家族向けの39.99ドルのチキン・パルメザンとパスタのセット（パン1斤とサラダ付き）などの特売を打ち出している。",
+      "grammar_ja": "market specials = 特売を宣伝。lure = 誘い込む。inflation-scarred = インフレで傷ついた。that includes（関係代名詞）。",
+      "chunks": [
+        {
+          "text": "The company is marketing specials",
+          "role_ja": "主文",
+          "literal_ja": "会社は特売を宣伝している",
+          "note_ja": "market を動詞で使う。"
+        },
+        {
+          "text": "to lure inflation-scarred shoppers",
+          "role_ja": "目的",
+          "literal_ja": "インフレで傷ついた買い物客を引きつけるために",
+          "note_ja": "scarred = 心理的ダメージを受けた。"
+        },
+        {
+          "text": "like a $39.99 chicken Parmesan and pasta meal for a family of four",
+          "role_ja": "例示",
+          "literal_ja": "4人家族向け39.99ドルのチキンパルメザンとパスタの食事のような",
+          "note_ja": "具体例で読者にイメージさせる。"
+        },
+        {
+          "text": "that includes a loaf of bread and a salad",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "パン1斤とサラダを含む",
+          "note_ja": "a loaf of bread = パン1斤。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s039",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Michael Wieder, the co-founder of the baby products maker Lalo, is also hiring a few new workers.",
+      "translation_ja": "ベビー用品メーカー・ラロの共同創業者、マイケル・ウィーダーも、新たに数名を雇い入れている。",
+      "grammar_ja": "同格 the co-founder of ~。is hiring = 現在進行で採用活動中。",
+      "chunks": [
+        {
+          "text": "Michael Wieder",
+          "role_ja": "主語",
+          "literal_ja": "マイケル・ウィーダーは",
+          "note_ja": "人名。"
+        },
+        {
+          "text": "the co-founder of the baby products maker Lalo",
+          "role_ja": "同格",
+          "literal_ja": "ベビー用品メーカー・ラロの共同創業者",
+          "note_ja": "co-founder = 共同創業者。"
+        },
+        {
+          "text": "is also hiring a few new workers",
+          "role_ja": "述語",
+          "literal_ja": "また数名の新しい労働者を雇っている",
+          "note_ja": "a few = 少数。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s040",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Wieder is feeling optimistic because he expects $2 million in tariff refunds after the trade policies of President Trump were shot down by the courts.",
+      "translation_ja": "ウィーダーは楽観的だ。裁判所がトランプ大統領の貿易政策を退けたあと、200万ドルの関税還付を見込んでいるからだ。",
+      "grammar_ja": "because節。expect ~ in refunds。be shot down = 却下される（受動）。",
+      "chunks": [
+        {
+          "text": "Wieder is feeling optimistic",
+          "role_ja": "主文",
+          "literal_ja": "ウィーダーは楽観的だ",
+          "note_ja": "feel optimistic = 楽観視する。"
+        },
+        {
+          "text": "because he expects $2 million in tariff refunds",
+          "role_ja": "理由",
+          "literal_ja": "彼は200万ドルの関税還付を期待しているから",
+          "note_ja": "expect = 見込む。"
+        },
+        {
+          "text": "after the trade policies of President Trump were shot down by the courts",
+          "role_ja": "時制",
+          "literal_ja": "トランプ大統領の貿易政策が裁判所に退けられた後",
+          "note_ja": "shoot down = 撃墜する→却下する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s041",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He is planning to use that money for hiring, but gotten less than $50,000 back to date.",
+      "translation_ja": "彼はその金を採用に使う予定だが、これまでに返還されたのは5万ドル未満にとどまっている。",
+      "grammar_ja": "plan to use ~ for hiring。but gotten は口語的省略（has gotten の意）。to date = これまでのところ。",
+      "chunks": [
+        {
+          "text": "He is planning to use that money for hiring",
+          "role_ja": "主文1",
+          "literal_ja": "彼はその金を採用のために使う予定だ",
+          "note_ja": "use for = 〜に使う。"
+        },
+        {
+          "text": "but gotten less than $50,000 back to date",
+          "role_ja": "主文2",
+          "literal_ja": "しかし今までに5万ドル未満しか戻っていない",
+          "note_ja": "get back = 取り戻す。文法的には has gotten が自然。"
+        }
+      ],
+      "deep_dive_ja": "gotten は has gotten の省略と見なせるが、厳密には文法的に不完全。報道引用では口語をそのまま載せることがある。",
+      "difficulty": "medium",
+      "sentence_id": "s042"
+    },
+    {
+      "text": "He has roughly 20 employees who work in marketing, operations, customer service and other areas for his New York company.",
+      "translation_ja": "彼のニューヨークの会社には、マーケティング、業務、カスタマーサービスなどで働く従業員がおおよそ20人いる。",
+      "grammar_ja": "who work in ~（関係代名詞）。roughly = およそ。",
+      "chunks": [
+        {
+          "text": "He has roughly 20 employees",
+          "role_ja": "主文",
+          "literal_ja": "彼はおよそ20人の従業員を抱えている",
+          "note_ja": "have employees = 従業員がいる。"
+        },
+        {
+          "text": "who work in marketing, operations, customer service and other areas",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "マーケティング・業務・顧客サービスなどで働く",
+          "note_ja": "部門名の列挙。"
+        },
+        {
+          "text": "for his New York company",
+          "role_ja": "所属",
+          "literal_ja": "彼のニューヨークの会社で",
+          "note_ja": "for = 〜のために働く。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s043",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He said he's looking for applicants that will embrace artificial intelligence.",
+      "translation_ja": "彼は人工知能を積極的に取り入れる応募者を探していると述べた。",
+      "grammar_ja": "applicants that will embrace ~。embrace = 受け入れる・積極的に採用する。",
+      "chunks": [
+        {
+          "text": "He said he's looking for applicants",
+          "role_ja": "主文",
+          "literal_ja": "彼は応募者を探していると言った",
+          "note_ja": "applicant = 応募者。"
+        },
+        {
+          "text": "that will embrace artificial intelligence",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "人工知能を受け入れる",
+          "note_ja": "embrace = 積極的に取り入れる。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s044",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Lalo has already been using AI tools in areas like marketing and plans to launch an AI tool on Monday that helps parents potty train their children.",
+      "translation_ja": "ラロはすでにマーケティングなどの分野でAIツールを使っており、月曜日には子どものトイレトレーニングを手伝うAIツールの発売を予定している。",
+      "grammar_ja": "現在完了進行 has been using。plans to launch。that helps parents potty train（関係代名詞）。potty train = トイレトレーニングする。",
+      "chunks": [
+        {
+          "text": "Lalo has already been using AI tools in areas like marketing",
+          "role_ja": "主文1",
+          "literal_ja": "ラロはすでにマーケティングなどの分野でAIツールを使っている",
+          "note_ja": "has been using = 使い続けている。"
+        },
+        {
+          "text": "plans to launch an AI tool on Monday",
+          "role_ja": "主文2",
+          "literal_ja": "月曜にAIツールを発売する予定だ",
+          "note_ja": "launch = 発売・公開する。"
+        },
+        {
+          "text": "that helps parents potty train their children",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "親が子どものトイレトレーニングをするのを助ける",
+          "note_ja": "potty train = オムツ卒業を促す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s045",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We're evaluating the type of people we hire in this rapidly changing environment,\" he said.",
+      "translation_ja": "「この急速に変化する環境で、どんな人を雇うかを見直している」と彼は言った。",
+      "grammar_ja": "evaluate = 評価・見直す。the type of people we hire（関係代名詞省略）。rapidly changing = 急速に変化する。",
+      "chunks": [
+        {
+          "text": "We're evaluating the type of people we hire",
+          "role_ja": "引用文",
+          "literal_ja": "私たちは雇う人のタイプを評価している",
+          "note_ja": "evaluate = 見直す・検討する。"
+        },
+        {
+          "text": "in this rapidly changing environment",
+          "role_ja": "状況",
+          "literal_ja": "この急速に変化する環境で",
+          "note_ja": "rapidly changing = 急速に変わる。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s046",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "AP Economics Writer Christopher Rugaber contributed to this report.",
+      "translation_ja": "AP経済担当記者のクリストファー・ルガバーが本報道に寄稿した。",
+      "grammar_ja": "contribute to a report = 報道に寄稿・協力する。肩書き＋氏名の語順。",
+      "chunks": [
+        {
+          "text": "AP Economics Writer Christopher Rugaber",
+          "role_ja": "主語",
+          "literal_ja": "AP経済記者クリストファー・ルガバーが",
+          "note_ja": "報道のクレジット表記。"
+        },
+        {
+          "text": "contributed to this report",
+          "role_ja": "述語",
+          "literal_ja": "この報道に寄稿した",
+          "note_ja": "contribute to = 〜に貢献する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s047",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "bounce back",
+      "pronunciation": "/baʊns bæk/",
+      "meaning_ja": "回復する、立ち直る",
+      "example": "Hiring has bounced back this year from a miserable 2025.",
+      "example_ja": "雇用は惨憺たる2025年から今年にかけて回復した。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "broad-based",
+      "pronunciation": "/brɔːd beɪst/",
+      "meaning_ja": "幅広い（業種・層にわたる）",
+      "example": "The job gains are broad-based.",
+      "example_ja": "雇用増は幅広い業種にわたっている。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "headwinds",
+      "pronunciation": "/ˈhedwɪndz/",
+      "meaning_ja": "逆風、障害（経済・ビジネスの比喩）",
+      "example": "particularly given the headwinds from the Iran conflict",
+      "example_ja": "特にイラン紛争という逆風を考えれば",
+      "source_sentence_id": "s024"
+    },
+    {
+      "word": "entrenched",
+      "pronunciation": "/ɪnˈtrentʃt/",
+      "meaning_ja": "根深い、固定化した",
+      "example": "inflation may be growing more entrenched",
+      "example_ja": "インフレがより根深くなりつつある可能性がある",
+      "source_sentence_id": "s015"
+    },
+    {
+      "word": "catch a break",
+      "pronunciation": "/kætʃ ə breɪk/",
+      "meaning_ja": "好機をつかむ、運が開く",
+      "example": "Many young people are still finding it tough to catch a break on a job.",
+      "example_ja": "多くの若者は依然として就職に恵まれにくい。",
+      "source_sentence_id": "s019"
+    },
+    {
+      "word": "pencil in",
+      "pronunciation": "/ˈpensl ɪn/",
+      "meaning_ja": "（暫定的に）予定に入れる",
+      "example": "officials had still penciled in two rate cuts for 2026",
+      "example_ja": "当局者は2026年に2回の利下げを予定していた",
+      "source_sentence_id": "s030"
+    },
+    {
+      "word": "at odds with",
+      "pronunciation": "/æt ɒdz wɪð/",
+      "meaning_ja": "〜と矛盾している、対立している",
+      "example": "which would be sharply at odds with Trump's repeated demands for a cut",
+      "example_ja": "それはトランプ氏の利下げ要求と大きく矛盾するだろう",
+      "source_sentence_id": "s031"
+    },
+    {
+      "word": "cut back on",
+      "pronunciation": "/kʌt bæk ɒn/",
+      "meaning_ja": "〜を控える、削減する",
+      "example": "Americans cut back on dinners out",
+      "example_ja": "米国人が外食を控える",
+      "source_sentence_id": "s038"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-result",
+      "title": "Participial phrases for results",
+      "rule": "Use -ing/-ed phrases after a main clause to add a result or extra detail (e.g., showing..., marking..., offsetting...).",
+      "example": "Hiring has bounced back this year, showing resilience in the face of economic uncertainty.",
+      "meaning_ja": "主節のあとに分詞構文を置き、結果や付加情報を簡潔に足す報道文体。日本語の「〜して／〜しながら」に相当する。"
+    },
+    {
+      "id": "reporting-inversion",
+      "title": "Reporting clause placement",
+      "rule": "In news writing, the source (e.g., the Labor Department said / said Ryan Nunn) often comes at the end, or the speaker is inserted mid-sentence.",
+      "example": "Employers added 172,000 jobs in May, the Labor Department reported Friday.",
+      "meaning_ja": "引用元や情報源を文末や文中に置くことで、まず事実を伝え、出所は後から示す英語のニュース構文。"
+    },
+    {
+      "id": "contrast-despite",
+      "title": "Contrast with despite / but",
+      "rule": "Use despite + noun/gerund or but to contrast two ideas (strong jobs vs. frustration, hiring vs. modest wages).",
+      "example": "And despite the pickup in hiring, wage gains were modest.",
+      "meaning_ja": "despite + 名詞／動名詞で「〜にもかかわらず」と逆接の対比を作る。記事全体の「好調な雇用 vs 国民の不満」構造の要。"
+    },
+    {
+      "id": "relative-clause-chain",
+      "title": "Relative clauses (who/which/that)",
+      "rule": "Use who/which/that to add information about people, policies, or economic factors in long news sentences.",
+      "example": "President Donald Trump who has taken a beating in the polls over the surging gasoline prices that followed U.S. and Israeli attacks on Iran.",
+      "meaning_ja": "関係代名詞で人物・物・政策に説明を重ねる。経済記事では背景説明が長くなるため、先行詞と節の対応を意識する必要がある。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 47,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:00:30+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:u-s-job-market-is-strong-but-many-americ"
+}

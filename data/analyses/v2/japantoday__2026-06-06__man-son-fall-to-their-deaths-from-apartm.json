@@ -1,0 +1,429 @@
+{
+  "summary_ja": "大阪府富田林市のアパート敷地で、47歳の男性と10歳の息子の遺体が発見された。自宅では妻が刺されて死亡しており、血のついたナイフが近くにあった。警察は殺人・自殺（殺人後自殺）の可能性を含めて調査している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The bodies of a 47-year-old man and his 10-year-old son were found on the grounds of an apartment building in Tondabayashi City, Osaka Prefecture, on Friday.",
+      "translation_ja": "金曜日、大阪府富田林市のアパートの敷地内で、47歳の男性とその10歳の息子の遺体が発見された。",
+      "grammar_ja": "受動態（were found）で事件報道の定番表現。年齢は「数字-year-old + 名詞」の前置修飾。on the grounds of は「〜の敷地内で」。",
+      "chunks": [
+        {
+          "text": "The bodies of a 47-year-old man and his 10-year-old son",
+          "role_ja": "主語",
+          "literal_ja": "47歳の男性とその10歳の息子の遺体",
+          "note_ja": "bodies of ... で「〜の遺体」。his は息子を指す所有格。"
+        },
+        {
+          "text": "were found",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "発見された",
+          "note_ja": "find の受動態。誰が見つけたかは文脈上は不明でも、報道ではよく使われる。"
+        },
+        {
+          "text": "on the grounds of an apartment building",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "アパートの敷地内で",
+          "note_ja": "grounds は建物の周囲の土地・敷地。"
+        },
+        {
+          "text": "in Tondabayashi City, Osaka Prefecture",
+          "role_ja": "場所の修飾",
+          "literal_ja": "大阪府富田林市で",
+          "note_ja": "小さい地名→大きい地名の順。日本の住所表記に近い。"
+        },
+        {
+          "text": "on Friday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "金曜日に",
+          "note_ja": "特定の曜日には on を使う。"
+        }
+      ],
+      "deep_dive_ja": "犯罪・事故報道では最初の文が「誰が・どこで・いつ・何が起きたか」をまとめるのが典型。遺体発見は were found がほぼ定型。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Police said they did not live in the apartment building, NTV reported.",
+      "translation_ja": "警察によると、二人はそのアパートには住んでいなかった。日本テレビが報じた。",
+      "grammar_ja": "間接話法（Police said ...）と報道ソース（NTV reported）の二重構造。live in は「〜に住む」。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節の述語",
+          "literal_ja": "警察は言った",
+          "note_ja": "said の後に that 省略の内容節が続く。"
+        },
+        {
+          "text": "they did not live in the apartment building",
+          "role_ja": "内容節（間接話法）",
+          "literal_ja": "彼らはそのアパートに住んでいなかった",
+          "note_ja": "they は前の文の男性と息子を指す。did not live は過去形の否定。"
+        },
+        {
+          "text": "NTV reported",
+          "role_ja": "付加情報（挿入句）",
+          "literal_ja": "日本テレビが報じた",
+          "note_ja": "文末に情報源を置く報道英語の型。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では「〜と発表した」が一続きに見えるが、英語では Police said ... と NTV reported が分かれていることがある。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Police identified the bodies as Junji Okuda and his son Ibuki.",
+      "translation_ja": "警察は遺体の身元を奥田順次とその息子の息吹と確認した。",
+      "grammar_ja": "identify A as B「AをBと特定する」の定型。the bodies は前出の遺体を受ける。",
+      "chunks": [
+        {
+          "text": "Police identified the bodies",
+          "role_ja": "主語＋述語",
+          "literal_ja": "警察は遺体を特定した",
+          "note_ja": "identify は身元確認のニュース語。"
+        },
+        {
+          "text": "as Junji Okuda and his son Ibuki",
+          "role_ja": "補語",
+          "literal_ja": "奥田順次とその息子息吹として",
+          "note_ja": "identify ... as ... で「〜であると確認する」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Later, Okuda's 47-year-old wife, Aiko, was found dead at their home after having been stabbed.",
+      "translation_ja": "その後、奥田の47歳の妻・愛子が、刺された後に自宅で死亡した状態で発見された。",
+      "grammar_ja": "was found dead は「死亡した状態で見つかった」。after having been stabbed は完了形の受動態で「刺された後に」。同格（Aiko）で名前を補足。",
+      "chunks": [
+        {
+          "text": "Later",
+          "role_ja": "時の副詞",
+          "literal_ja": "その後",
+          "note_ja": "事件の時系列を進める接続副詞。"
+        },
+        {
+          "text": "Okuda's 47-year-old wife, Aiko",
+          "role_ja": "主語",
+          "literal_ja": "奥田の47歳の妻・愛子",
+          "note_ja": "カンマで挟んだ Aiko は同格（＝妻の名前）。"
+        },
+        {
+          "text": "was found dead",
+          "role_ja": "述語",
+          "literal_ja": "死亡した状態で発見された",
+          "note_ja": "found + 形容詞で状態を表す。found dead は報道で頻出。"
+        },
+        {
+          "text": "at their home",
+          "role_ja": "場所",
+          "literal_ja": "自宅で",
+          "note_ja": "their は奥田夫妻の家。"
+        },
+        {
+          "text": "after having been stabbed",
+          "role_ja": "時・理由の従属節",
+          "literal_ja": "刺された後に",
+          "note_ja": "having been + 過去分詞で、前に起きた受動作を示す。"
+        }
+      ],
+      "deep_dive_ja": "after being stabbed でも意味は同じだが、having been は「刺されたという出来事が先に完了していた」ことをやや強調する。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "A blood-stained knife was near her body.",
+      "translation_ja": "血のついたナイフが遺体の近くにあった。",
+      "grammar_ja": "blood-stained は複合形容詞「血のついた」。near は前置詞で「〜の近くに」。",
+      "chunks": [
+        {
+          "text": "A blood-stained knife",
+          "role_ja": "主語",
+          "literal_ja": "血のついたナイフ",
+          "note_ja": "名詞＋過去分詞で形容詞化（stain → stained）。"
+        },
+        {
+          "text": "was near her body",
+          "role_ja": "述語",
+          "literal_ja": "彼女の遺体の近くにあった",
+          "note_ja": "状態を述べる単純過去。発見された状況の描写。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "There were no signs of forced entry or ransacking.",
+      "translation_ja": "侵入の形跡や物色の痕跡はなかった。",
+      "grammar_ja": "There were no signs of ...「〜の形跡はない」の There 構文。forced entry は「押し入り・侵入」、ransacking は「物色・荒らし」。",
+      "chunks": [
+        {
+          "text": "There were no signs",
+          "role_ja": "存在構文の骨格",
+          "literal_ja": "形跡はなかった",
+          "note_ja": "There is/are の否定形で存在の有無を述べる。"
+        },
+        {
+          "text": "of forced entry",
+          "role_ja": "signs の修飾",
+          "literal_ja": "侵入の",
+          "note_ja": "forced entry は犯罪報道のコロケーション。"
+        },
+        {
+          "text": "or ransacking",
+          "role_ja": "並列",
+          "literal_ja": "または物色の",
+          "note_ja": "ransack は「（部屋などを）荒らして物色する」。"
+        }
+      ],
+      "deep_dive_ja": "強盗ではなく身内犯罪の可能性を示す典型的な一文。日本語では「押し入り窃盗の形跡はない」と訳すことが多い。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "According to police, the apartment building manager called 110 at 4.55 p.m., and said a man and a boy were lying on the ground.",
+      "translation_ja": "警察によると、アパートの管理人が午後4時55分に110番に通報し、男性と少年が地面に倒れていると伝えた。",
+      "grammar_ja": "According to police で情報源提示。called 110 は日本の緊急通報番号。were lying は通報当時の進行・状態を表す過去進行。",
+      "chunks": [
+        {
+          "text": "According to police",
+          "role_ja": "副詞句（情報源）",
+          "literal_ja": "警察によると",
+          "note_ja": "報道の出所を明示する定型句。"
+        },
+        {
+          "text": "the apartment building manager",
+          "role_ja": "主語",
+          "literal_ja": "アパートの管理人",
+          "note_ja": "manager は建物管理人。"
+        },
+        {
+          "text": "called 110 at 4.55 p.m.",
+          "role_ja": "述語（第1節）",
+          "literal_ja": "午後4時55分に110番に電話した",
+          "note_ja": "日本では110が警察番号。at + 時刻。"
+        },
+        {
+          "text": "and said",
+          "role_ja": "述語（第2節）",
+          "literal_ja": "そして言った",
+          "note_ja": "said の後に間接話法の内容節。"
+        },
+        {
+          "text": "a man and a boy were lying on the ground",
+          "role_ja": "内容節",
+          "literal_ja": "男性と少年が地面に倒れていた",
+          "note_ja": "were lying はその時点での状態。boy は10歳の息子を指す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "They were taken to hospital where they were pronounced dead.",
+      "translation_ja": "二人は病院に搬送されたが、そこで死亡が確認された。",
+      "grammar_ja": "二重の受動態。were pronounced dead は医療・報道の定型（死亡が宣告された）。where は関係副詞で hospital を修飾。",
+      "chunks": [
+        {
+          "text": "They were taken to hospital",
+          "role_ja": "主節",
+          "literal_ja": "彼らは病院に運ばれた",
+          "note_ja": "take の受動態。英国英語では hospital に the を付けないことが多い。"
+        },
+        {
+          "text": "where they were pronounced dead",
+          "role_ja": "関係節",
+          "literal_ja": "そこで彼らは死亡したと宣告された",
+          "note_ja": "pronounce dead は「死亡を確認・宣告する」報道表現。"
+        }
+      ],
+      "deep_dive_ja": "日本語の「死亡が確認された」に相当。英語では pronounce dead が病院搬送記事でよく使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "After learning Okuda's address from his ID, police went to his house at around 6:55 p.m. and found his wife.",
+      "translation_ja": "身分証明書から奥田の住所を把握した後、警察は午後6時55分ごろに自宅を訪れ、妻を発見した。",
+      "grammar_ja": "After + -ing で「〜した後に」。at around は「〜ごろ」。found はここでは「（遺体を）発見する」意味。",
+      "chunks": [
+        {
+          "text": "After learning Okuda's address from his ID",
+          "role_ja": "時を表す分詞構文",
+          "literal_ja": "身分証から奥田の住所を知った後",
+          "note_ja": "After + 動名詞で時間的前置き。ID は identification の略。"
+        },
+        {
+          "text": "police went to his house",
+          "role_ja": "主節（前半）",
+          "literal_ja": "警察は彼の家に行った",
+          "note_ja": "go to で移動先を示す。"
+        },
+        {
+          "text": "at around 6:55 p.m.",
+          "role_ja": "時の修飾",
+          "literal_ja": "午後6時55分ごろに",
+          "note_ja": "around はおおよその時刻。"
+        },
+        {
+          "text": "and found his wife",
+          "role_ja": "主節（後半）",
+          "literal_ja": "そして彼の妻を発見した",
+          "note_ja": "went と found が and で並列。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The home is about two kilometers from the apartment building where Okuda and his son were found.",
+      "translation_ja": "その自宅は、奥田と息子が発見されたアパートから約2キロ離れている。",
+      "grammar_ja": "距離は「数字 + from」。where 節が apartment building を修飾。about は「およそ」。",
+      "chunks": [
+        {
+          "text": "The home is about two kilometers from the apartment building",
+          "role_ja": "主節",
+          "literal_ja": "その家はアパートから約2キロある",
+          "note_ja": "be ... from で距離を表す。"
+        },
+        {
+          "text": "where Okuda and his son were found",
+          "role_ja": "関係副詞節",
+          "literal_ja": "奥田と息子が発見された（場所）",
+          "note_ja": "where = at which（そのアパートで）。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Police said they are investigating the deaths as a murder-suicide.",
+      "translation_ja": "警察は、一連の死亡について殺人・自殺（殺人後自殺）の可能性として捜査していると述べた。",
+      "grammar_ja": "investigate ... as ...「〜を…として捜査する」。murder-suicide は「殺人後自殺」。現在進行 are investigating は進行中の捜査。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は言った",
+          "note_ja": "間接話法の導入。"
+        },
+        {
+          "text": "they are investigating the deaths",
+          "role_ja": "内容節",
+          "literal_ja": "彼らは死亡事件を捜査している",
+          "note_ja": "the deaths は3人の死亡をまとめて指す。"
+        },
+        {
+          "text": "as a murder-suicide",
+          "role_ja": "補語・見方",
+          "literal_ja": "殺人・自殺として",
+          "note_ja": "as で捜査の方向性・仮説を示す。"
+        }
+      ],
+      "deep_dive_ja": "murder-suicide は日本語では「殺人後自殺」や「殺人・自殺（一家心中を含む）」と文脈で訳す。ここでは妻殺害後に夫と子が死亡した線が示唆される。",
+      "difficulty": "medium",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "grounds",
+      "pronunciation": "/ɡraʊndz/",
+      "meaning_ja": "（建物の）敷地、庭",
+      "example": "on the grounds of an apartment building",
+      "example_ja": "アパートの敷地内で",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "identify",
+      "pronunciation": "/aɪˈdentɪfaɪ/",
+      "meaning_ja": "（身元などを）特定する",
+      "example": "Police identified the bodies as Junji Okuda and his son Ibuki.",
+      "example_ja": "警察は遺体の身元を奥田順次とその息子息吹と確認した。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "blood-stained",
+      "pronunciation": "/ˈblʌdsteɪnd/",
+      "meaning_ja": "血のついた",
+      "example": "A blood-stained knife was near her body.",
+      "example_ja": "血のついたナイフが遺体の近くにあった。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "forced entry",
+      "pronunciation": "/fɔːrst ˈentri/",
+      "meaning_ja": "侵入、押し入り",
+      "example": "There were no signs of forced entry or ransacking.",
+      "example_ja": "侵入の形跡や物色の痕跡はなかった。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "ransacking",
+      "pronunciation": "/ˈrænsækɪŋ/",
+      "meaning_ja": "物色、荒らし",
+      "example": "There were no signs of forced entry or ransacking.",
+      "example_ja": "侵入の形跡や物色の痕跡はなかった。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "pronounce dead",
+      "pronunciation": "/prəˈnaʊns ded/",
+      "meaning_ja": "死亡を確認する、死亡を宣告する",
+      "example": "They were taken to hospital where they were pronounced dead.",
+      "example_ja": "二人は病院に搬送されたが、そこで死亡が確認された。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "murder-suicide",
+      "pronunciation": "/ˈmɜːrdər ˌsuːɪˈsaɪd/",
+      "meaning_ja": "殺人後自殺、殺人・自殺事件",
+      "example": "Police said they are investigating the deaths as a murder-suicide.",
+      "example_ja": "警察は一連の死亡を殺人・自殺の可能性として捜査していると述べた。",
+      "source_sentence_id": "s011"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news-reporting",
+      "title": "Passive voice in crime reporting",
+      "rule": "Use be + past participle (were found, were taken, were pronounced) to focus on victims and events rather than who performed the action.",
+      "example": "The bodies were found on the grounds of an apartment building.",
+      "meaning_ja": "犯罪・事故報道では受動態で「何が起きたか」に焦点を当て、加害者や発見者を明示しない書き方が多い。"
+    },
+    {
+      "id": "identify-as",
+      "title": "identify A as B",
+      "rule": "identify + object + as + noun/name confirms identity.",
+      "example": "Police identified the bodies as Junji Okuda and his son Ibuki.",
+      "meaning_ja": "「AをBと特定する」という身元確認の定型表現。as の後に名前や役割が来る。"
+    },
+    {
+      "id": "after-having-been",
+      "title": "After + perfect passive gerund",
+      "rule": "after having been + past participle shows a completed passive action before the main event.",
+      "example": "She was found dead after having been stabbed.",
+      "meaning_ja": "「〜された後に」という完了した受動作を、主な出来事より前に起きたこととして示す。"
+    },
+    {
+      "id": "investigate-as",
+      "title": "investigate ... as ...",
+      "rule": "investigate + object + as + noun frames how authorities classify a case.",
+      "example": "They are investigating the deaths as a murder-suicide.",
+      "meaning_ja": "捜査当局が事件をどの類型として扱っているかを示す。as の後に事件の見方・分類が続く。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:57:07+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:man-son-fall-to-their-deaths-from-apartm"
+}

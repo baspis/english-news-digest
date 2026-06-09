@@ -1,0 +1,115 @@
+{
+  "edition_date": "2026-06-06",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-06",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-06:japan-seeks-to-replace-up-to-5-nuclear-r",
+    "japantoday:2026-06-06:man-son-fall-to-their-deaths-from-apartm",
+    "japantoday:2026-06-06:u-s-job-market-is-strong-but-many-americ",
+    "japantoday:2026-06-06:panel-drafts-consensus-on-imperial-famil",
+    "japantoday:2026-06-06:jd-vance-blames-uk-student-murder-on-mas",
+    "japantoday:2026-06-06:spacex-signs-pre-ipo-deal-to-provide-ai-"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-06:japan-seeks-to-replace-up-to-5-nuclear-r",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/update1-japan-seeks-to-replace-up-to-5-nuclear-reactors-by-2040s-14-by-2050s",
+      "title": "Japan seeks to replace up to 5 nuclear reactors by 2040s, 14 by 2050s",
+      "slug": "01-japan-seeks-to-replace-up-to-5-nuclear-reactors-by-2040s-14-by-2050s",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_40",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-06:man-son-fall-to-their-deaths-from-apartm",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/man-son-fall-to-their-deaths-from-apartment-building-woman-found-dead-at-their-home",
+      "title": "Man, son fall to their deaths from apartment building; wife found dead at home",
+      "slug": "02-man-son-fall-to-their-deaths-from-apartment-building-wife-found-dead-a",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-06:u-s-job-market-is-strong-but-many-americ",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/us-employers-likely-added-105-000-jobs-in-may-with-labor-market-stable-despite-costly-iran-war",
+      "title": "U.S. job market is strong but many Americans still frustrated by prospects and rising prices",
+      "slug": "03-u-s-job-market-is-strong-but-many-americans-still-frustrated-by-prospe",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_22",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-06:panel-drafts-consensus-on-imperial-famil",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/japan-parliament-speakers-draft-consensus-on-imperial-family-law-revision",
+      "title": "Panel drafts consensus on imperial family law revision",
+      "slug": "04-panel-drafts-consensus-on-imperial-family-law-revision",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_25",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-06:jd-vance-blames-uk-student-murder-on-mas",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/jd-vance-blames-uk-student-murder-on-'mass-invasion-of-migrants'",
+      "title": "JD Vance blames UK student murder on 'mass invasion of migrants'",
+      "slug": "05-jd-vance-blames-uk-student-murder-on-mass-invasion-of-migrants",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_33",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-06:spacex-signs-pre-ipo-deal-to-provide-ai-",
+      "edition_date": "2026-06-06",
+      "source_published_date_jst": "2026-06-06",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/spacex-signs-pre-ipo-deal-to-provide-ai-computing-to-google",
+      "title": "SpaceX signs pre-IPO deal to provide AI computing to Google",
+      "slug": "06-spacex-signs-pre-ipo-deal-to-provide-ai-computing-to-google",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_11",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T21:54:54+09:00",
+  "warnings": []
+}

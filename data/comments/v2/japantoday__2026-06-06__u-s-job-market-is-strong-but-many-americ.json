@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-06:u-s-job-market-is-strong-but-many-americ",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T22:01:08+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Contrary to Trump's campaign promises, manufacturing jobs have decreased.",
+      "translation_ja": "トランプの選挙公約とは裏腹に、製造業の雇用は減っている。",
+      "notes_ja": [
+        "Contrary to ～は「～とは逆に／～に反して」という硬めの書き出し。",
+        "文法的には標準的な英文。批判的な事実提示のトーン。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228339,
+      "author": "wallace",
+      "rating": 8,
+      "posted_at": "2026-06-06T16:03:43+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Now the Trump economy is “too” strong, the new narrative. lol Prices at Publix disagree with that comment.",
+      "translation_ja": "さて、トランプ経済は「強すぎる」——これが新しい公式見解だね。笑 でもプロックス（スーパー）の値段は、その言い方に同意してくれない。",
+      "notes_ja": [
+        "「the new narrative」だけの文は不完全文（the new narrative is ... が省略）。口語ではよくある。",
+        "Prices at Publix disagree は「値段がその主張と矛盾している」という擬人化・皮肉。Publix は米国南東部の大手スーパー。"
+      ],
+      "standard_en": "Now the Trump economy is \"too\" strong—that is the new narrative. Prices at Publix contradict that claim.",
+      "marked_terms": [
+        {
+          "term": "lol",
+          "symbol": "◇",
+          "note_ja": "ネットスラングの「（笑）」。カジュアルな書き言葉。"
+        }
+      ],
+      "comment_id": 5227750,
+      "author": "Garthgoyle",
+      "rating": 6,
+      "posted_at": "2026-06-06T08:51:33+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "bass4funk How is Trump's plan to return to 100% manufacturing going? Trump authorized over $850 million in federal investments and loans directed at coal plants and new plants in states like West Virginia and Alaska Quite well actually.... > -$425 million to support/upgrade 13 existing coal plants across states like West Virginia, Kentucky, and others, aiming to preserve ~14 GW of capacity. > -$200 million in grants for new or restarted coal plants, including the first new U.S. coal plants since 2013: a ~1.25 GW plant in Anchorage, Alaska, and a ~1.6 GW plant at the West Virginia Energy Campus (Mt. Storm area), plus restarting one in Maryland. > -Funding for a coal export terminal in Oakland, CA, and broader support for mines and infrastructure. Coal is the dirtiest fossil fuel. Why not LNG? You did not comment on manufacturing.",
+      "translation_ja": "bass4funk トランプの製造業100%復活計画はどう進んでる？ トランプはウェストバージニアやアラスカなどの石炭発電所・新規プラント向けに8億5千万ドル超の連邦投資・融資を認可した。実はとても順調だよ…… > -4億2千5百万ドルで、ウェストバージニア、ケンタッキーなど13の既存石炭発電所の支援・改修。約14GWの稼働能力維持が目的。 > -2億ドルの助成金で、新設・再稼働の石炭発電所。2013年以来初の新規米国石炭発電所（アラスカ・アンカレッジ約1.25GW、ウェストVAエネルギーキャンパス約1.6GW）やメリーランドの再稼働を含む。 > -カリフォルニア・オークランドの石炭輸出ターミナルや、鉱山・インフラ支援。石炭は最も汚い化石燃料だ。なぜLNGじゃない？ 製造業についてはコメントしていないね。",
+      "notes_ja": [
+        "冒頭の bass4funk は返信先ユーザー名（@なし）。Quite well actually.... は相手の楽観論を引用してから皮肉（省略号で「本当に？」感）。",
+        "> で始まる行は掲示板の引用・箇条書き。相手の主張をそのまま並べてから反論している。"
+      ],
+      "standard_en": "bass4funk, how is Trump's plan to return to 100% manufacturing going? Trump authorized over $850 million in federal investments and loans directed at coal plants and new plants in states like West Virginia and Alaska. \"Quite well, actually...\" [sarcastic] > -$425 million to support/upgrade 13 existing coal plants...",
+      "marked_terms": [],
+      "comment_id": 5228286,
+      "author": "wallace",
+      "rating": 6,
+      "posted_at": "2026-06-06T14:49:08+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "bass4funk Coal is the dirtiest fossil fuel. Why not LNG? Coal is better, nowadays cleaner more efficient and reliable Coal is still the dirtiest fossil fuel, responsible for the premature deaths of many millions of people. You did not comment on manufacturing. That is coming as well. The full numbers are not out, but definitely growth is happening. > Overall GDP context (heavily private-driven): Real GDP +1.6% annualized in Q1 2026 (second estimate; advance was +2.0%), rebounding from +0.5% in Q4 2025. Private services-producing industries have been a key positive contributor. Private payroll/job growth has been solid (e.g., ADP reports showing net additions in recent. As I predicted it would. During his second term, overall American manufacturing employment and construction spending have declined despite massive corporate investment pledges. Factory employment decreased by 77,000 jobs, and private manufacturing construction spending dropped by 16% to $15.2 billion compared to the start of the administration. Manufacturing only accounts for approximately 9.4% to 10.2% of the total U.S. Gross Domestic Product (GDP). The US is a service industry country. The service sector accounts for roughly 73% to 76% of the U.S. Gross Domestic Product (GDP),",
+      "translation_ja": "bass4funk 石炭は最も汚い化石燃料だ。なぜLNGじゃない？ 【相手】石炭の方がいい、今はよりクリーンで効率的で信頼性も高い 【wallace】石炭は依然として最も汚い化石燃料で、何百万人もの早死にの原因になっている。製造業についてはコメントしていないね。それもこれから触れる。完全な数字はまだ出ていないが、確実に成長は起きている。 > 全体GDPの文脈（民間主導が中心）：2026年第1四半期の実質GDPは年率+1.6%（速報+2.0%から下方修正）、2025年Q4の+0.5%から回復。民間サービス業が主要なプラス要因。民間雇用・求人増も堅調（例：ADP報告で最近の純増）。予言通りだ。彼の第二任期間中、巨額の企業投資公約にもかかわらず、米国の製造業雇用全体と建設支出は減少した。工場雇用は7万7千件減、民間製造業建設支出は政権開始時比16%減の152億ドル。製造業は米GDPの約9.4〜10.2%に過ぎない。米国はサービス業国家だ。サービス部門は米GDPのおおよそ73〜76%を占める。",
+      "notes_ja": [
+        "相手の短い反論（Coal is better, nowadays cleaner...）を句読点なしでそのまま挟み込む掲示板文体。",
+        "末尾がカンマで終わる不完全文。ADP reports showing net additions in recent. も recent months 等が省略された断片。"
+      ],
+      "standard_en": "bass4funk: Coal is the dirtiest fossil fuel. Why not LNG? [Opponent:] Coal is better; nowadays it is cleaner, more efficient, and reliable. Coal is still the dirtiest fossil fuel, responsible for the premature deaths of many millions of people. You did not comment on manufacturing. That is coming as well. The full numbers are not out, but growth is definitely happening. > Overall GDP context... Private payroll/job growth has been solid (e.g., ADP reports showing net additions in recent months). As I predicted it would. During his second term... The service sector accounts for roughly 73% to 76% of U.S. GDP.",
+      "marked_terms": [],
+      "comment_id": 5228303,
+      "author": "wallace",
+      "rating": 6,
+      "posted_at": "2026-06-06T15:09:09+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "How is Trump's plan to return to 100% manufacturing going? Trump authorized over $850 million in federal investments and loans directed at coal plants and new plants in states like West Virginia and Alaska. The administration used Cold War-era wartime powers (the Defense Production Act) to direct nearly $700 million to upgrade and extend the operational lives of at least 13 existing coal-fired power plants across 11 states, while requiring other plants slated for retirement to keep operating. Despite hundreds of billions of dollars in private investment commitments prompted by tariffs, the manufacturing sector has struggled. Official data shows factory construction spending has slumped and tens of thousands of factory jobs have evaporated since the start of the administration's second term.",
+      "translation_ja": "トランプの製造業100%復活計画はどう進んでいる？ トランプはウェストバージニアやアラスカなどの石炭発電所・新規プラント向けに8億5千万ドル超の連邦投資・融資を認可した。政権は冷戦時代の戦時権限（国防生産法）を使い、11州の少なくとも13の既存石炭火力発電所の改修・稼働延長に近7億ドルを投入し、退役予定の他の発電所にも稼働継続を求めた。関税で促された数千億ドル規模の民間投資公約があるにもかかわらず、製造業部門は苦戦している。公式データでは、政権第二任期開始以降、工場建設支出は急落し、工場の雇用が数万件消えたと示されている。",
+      "notes_ja": [
+        "修辞疑問（How is... going?）で始まり、皮肉・批判の意図。",
+        "evaporated は「蒸発した」という比喩で「消えた・激減した」。has slumped は「急落した」。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228042,
+      "author": "wallace",
+      "rating": 5,
+      "posted_at": "2026-06-06T11:42:20+09:00"
+    }
+  ]
+}

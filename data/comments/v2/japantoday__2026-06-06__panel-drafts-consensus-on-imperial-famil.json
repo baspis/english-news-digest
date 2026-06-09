@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-06:panel-drafts-consensus-on-imperial-famil",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T21:59:10+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "what happened with Japan The Meiji Restauration happened, together with its obsession with 1850s Prussia.",
+      "translation_ja": "日本に何が起きたかって？明治維新が起きたんだよ。それに1850年代のプロイセンへの執着もセットで。",
+      "notes_ja": [
+        "冒頭は疑問文の形だが句読点がなく、直後に答えが続く口語的な言い回し。",
+        "「Restauration」は Restoration（維新・復興）の綴りミス（フランス語風）。"
+      ],
+      "standard_en": "What happened with Japan? The Meiji Restoration happened, together with its obsession with 1850s Prussia.",
+      "marked_terms": [],
+      "comment_id": 5227687,
+      "author": "Firefly",
+      "rating": 9,
+      "posted_at": "2026-06-06T08:15:13+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": ". @ sakurasuki: So basically still male-only line, while Egypt already has queen Cleopatra more than 2000 years ago and Mary I had been Queen of England and Ireland more than 400 years ago Actually, historically Japan has had about 8 female Regents who ruled - usually because no suitable male hei was available or the heir was too young. Empress Suiko (593–628) – First recorded female ruler, promoted Buddhism and state institutions. Empress Kōgyoku / Saimei (642–645, 655–661) – Oversaw diplomatic missions to Tang China. Empress Jitō (686–697) – Consolidated imperial authority through reforms. Empress Gemmei (707–715) – Introduced Japan’s first official currency. Empress Genshō (715–724) – Continued state-building. Empress Kōken / [also known as Empress Shōtoku (749–758, 764–770) – Known for political influence. Empress Meishō (1629–1643) – Ruled during the early Edo period. Empress Go-Sakuramachi (1762–1771) – Last female empress regnant .",
+      "translation_ja": "要するに今も男系だけなんだよね。エジプトは2000年以上前にクレオパトラ女王がいたし、メアリー1世は400年以上前にイングランド・アイルランドの女王だったのに。実は歴史的には、日本にも約8人の女性摂政（統治した女帝）がいる——たいてい適任の男系の後継者がいないか、後継が幼すぎたからだ。推古天皇（593–628）——最初に記録された女性統治者で、仏教と国家制度を推進。皇極／斉明天皇（642–645、655–661）——唐への外交使節を監督。持統天皇（686–697）——改革で皇室の権威を固めた。元明天皇（707–715）——日本初の公式通貨を導入。元正天皇（715–724）——国家建設を継続。孝謙／称徳天皇（749–758、764–770）——政治的影響力で知られる。明正天皇（1629–1643）——江戸初期に統治。後桜町天皇（1762–1771）——最後の女帝。",
+      "notes_ja": [
+        "「Actually,」の前に句点がなく、話題が唐突に切り替わる。",
+        "「hei」は heir（後継者）のタイポ。角括弧 [ の閉じ忘れがあり、リスト形式の断片文が続く。"
+      ],
+      "standard_en": "So basically it's still a male-only line of succession, while Egypt already had Queen Cleopatra more than 2,000 years ago, and Mary I had been Queen of England and Ireland more than 400 years ago. Actually, historically Japan has had about eight female regents who ruled—usually because no suitable male heir was available or the heir was too young.",
+      "marked_terms": [],
+      "comment_id": 5227658,
+      "author": "semperfi",
+      "rating": 6,
+      "posted_at": "2026-06-06T08:04:04+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "The Meiji Restoration was the most brilliant revolutionary shift in the political/ social/ economic structure and institutions of Japan. I don't disagree. But it also answers why there hasn't been a female emperor since the 19th century. The Meiji Constitution imported the entire Prussian philosophy of statecraft and tied executive power directly to military command. And because a woman was strictly denied from commanding troops, a female emperor would not be able to fulfill her duty as supreme commander.",
+      "translation_ja": "明治維新は、日本の政治・社会・経済の構造と制度における最も brilliant な革命的転換だった。それには異論はない。だが同時に、19世紀以降女帝がいない理由も説明している。明治憲法はプロイセンの国家運営哲学を丸ごと取り入れ、行政権を軍事指揮と直結させた。女性は軍を指揮することが厳しく禁じられていたので、女帝は最高司令官としての義務を果たせなかっただろう、というわけだ。",
+      "notes_ja": [
+        "「I don't disagree」は「完全に同意」より「概ね同意するが留保あり」のニュアンス。",
+        "「denied from commanding」は教科書的には denied the right to command の方が自然。"
+      ],
+      "standard_en": "And because women were strictly denied the right to command troops, a female emperor would not have been able to fulfill her duty as supreme commander.",
+      "marked_terms": [],
+      "comment_id": 5227834,
+      "author": "Firefly",
+      "rating": 6,
+      "posted_at": "2026-06-06T09:26:58+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": ". That being said , the monarchy - which is a currently irrelevant remnant from a dead feudal system - is an anarchronism and a HUGE waste of taxpayers money . . . . .",
+      "translation_ja": "とはいえ、君主制——今は無意味な、死んだ封建制度の名残——は時代錯誤で、納税者のお金のとんでもない無駄遣いなんだよ。。。。。",
+      "notes_ja": [
+        "「anarchronism」は anachronism（時代錯誤）の綴りミス。",
+        "文末の「. . . . .」は余韻・呆れを示す口語的な表現。"
+      ],
+      "standard_en": "That being said, the monarchy—which is a currently irrelevant remnant from a dead feudal system—is an anachronism and a huge waste of taxpayers' money.",
+      "marked_terms": [],
+      "comment_id": 5227664,
+      "author": "semperfi",
+      "rating": 5,
+      "posted_at": "2026-06-06T08:06:15+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": ". @ sakuraksuki . . what happened with Japan The Monarchy is an anachronism and needs to be faded out. Japan has a FEMALE Prime MInister. This is more progressive than the US - US has never had a FEMALE President. .",
+      "translation_ja": "日本に何が起きたかって？君主制は時代錯誤で、徐々に廃れていくべきだ。日本には女性首相がいる。これは米国より進歩的だ——米国は一度も女性大統領がいない。",
+      "notes_ja": [
+        "「faded out」は文脈上 phased out（段階的に廃止する）の意味と思われる。",
+        "FEMALE などの大文字は怒り・強調のトーン。Prime MInister の Mi はタイポ。"
+      ],
+      "standard_en": "What happened with Japan? The monarchy is an anachronism and needs to be phased out. Japan has a female prime minister. This is more progressive than the US—the US has never had a female president.",
+      "marked_terms": [],
+      "comment_id": 5227814,
+      "author": "semperfi",
+      "rating": 4,
+      "posted_at": "2026-06-06T09:14:39+09:00"
+    }
+  ]
+}

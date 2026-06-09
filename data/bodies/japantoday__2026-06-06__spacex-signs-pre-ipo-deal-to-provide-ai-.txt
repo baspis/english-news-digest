@@ -1,0 +1,11 @@
+SpaceX on Friday signed a blockbuster cloud computing agreement under which Google will pay the Elon Musk-founded rocket company $920 million per month for access to a massive cluster of AI chips, according to a disclosure in its initial public offering filing.
+The deal, which will bolster SpaceX's finances ahead of its IPO on June 12, covers a computing infrastructure of approximately 110,000 Nvidia GPUs -- the crucial hardware needed to power Google's Gemini AI models.
+The filing says Google will begin paying the full monthly rate in October 2026, with a reduced fee applying during a ramp-up period until then.
+The agreement runs through June 2029, implying total payments of roughly $30 billion over the life of the contract.
+The deal resembles one struck with AI giant Anthropic, in which SpaceX leased compute capacity at its Colossus data centers in Memphis, Tennessee for $1.25 billion a month.
+The facilities were originally built to power Musk's rival AI venture, xAI.
+SpaceX's IPO filing revealed that xAI last year posted an operating loss of $6.4 billion on total revenue of $3.2 billion.
+"This is a short-term, timely agreement to ensure we have bridge capacity to meet surging customer demand for our agent platform, Gemini Enterprise, which has been even higher than we expected," a Google Cloud spokesperson said in an email to AFP.
+The filing adds that after December 31, "the agreement may be terminated by either party upon 90 days' notice."
+The deals with Google and Anthropic come just days ahead of SpaceX's IPO, which will be the biggest in history, valuing the company at $1.8 trillion.
+That valuation is largely based on faith that Musk can deliver on his ambitions to vastly expand his Starlink satellite business, put data centers into space using SpaceX rockets, as well as begin colonizing Mars.

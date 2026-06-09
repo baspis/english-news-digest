@@ -1,0 +1,549 @@
+{
+  "summary_ja": "衆参両院の議長らが金曜日、皇室の人数を維持するための法律改正案について合意文書の草案をまとめた。改正案は旧皇族の男子の養子縁組や女性皇族の結婚後の身分維持を認める内容で、月曜の全政党会合で提示される見込みだ。皇位継承の安定化への懸念が高まる中、一部野党は旧皇族出身の男子への皇族身分付与に疑問を呈している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's lower and upper house speakers on Friday compiled a draft consensus on a law revision to maintain the number of imperial family members, the lower house speaker said, amid longstanding concerns over a stable imperial succession.",
+      "translation_ja": "衆議院・参議院の両院議長は金曜日、皇室の人数を維持するための法律改正について合意文書の草案をまとめたと、衆議院議長が述べた。これは皇位継承の安定化への長年の懸念を背景にしている。",
+      "grammar_ja": "報道文の典型構文で、主節の末尾に「the lower house speaker said」が付く。amid + 名詞 は「〜を背景に／〜の最中に」。compile a draft consensus は「草案をまとめる」。",
+      "chunks": [
+        {
+          "text": "Japan's lower and upper house speakers",
+          "role_ja": "主語",
+          "literal_ja": "日本の衆議院と参議院の両院議長",
+          "note_ja": "lower house = 衆議院、upper house = 参議院。speakers はここでは「議長」の意味。"
+        },
+        {
+          "text": "on Friday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "金曜日に",
+          "note_ja": "ニュースでは具体的な曜日を先に置くことが多い。"
+        },
+        {
+          "text": "compiled a draft consensus on a law revision",
+          "role_ja": "述語",
+          "literal_ja": "法律改正に関する合意文書の草案をまとめた",
+          "note_ja": "compile は「編纂する・まとめる」。consensus on 〜 = 〜についての合意。"
+        },
+        {
+          "text": "to maintain the number of imperial family members",
+          "role_ja": "目的を表す不定詞句",
+          "literal_ja": "皇室の人数を維持するために",
+          "note_ja": "law revision to maintain... と続き、改正の目的を示す。"
+        },
+        {
+          "text": "the lower house speaker said",
+          "role_ja": "引用・報道の挿入句",
+          "literal_ja": "衆議院議長が述べた",
+          "note_ja": "英語の報道では主語＋動詞を文末に置く倒置が頻出。"
+        },
+        {
+          "text": "amid longstanding concerns over a stable imperial succession",
+          "role_ja": "背景を表す前置詞句",
+          "literal_ja": "皇位継承の安定化への長年の懸念の中で",
+          "note_ja": "amid = in the middle of / against the background of。concerns over = 〜への懸念。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では「〜と述べた」が文末に来るが、英語は情報の核を先に置き、発言者を後から付け足す。longstanding concerns は「長年の懸念」と訳すのが自然。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The document, based on views from all parties, will be presented as a draft \"consensus of the legislature\" at a meeting Monday of all 13 parliamentary parties and groups, House of Representatives Speaker Eisuke Mori told reporters after discussing the issue with the vice speaker and their House of Councillors counterparts.",
+      "translation_ja": "全政党の意見を踏まえたこの文書は、月曜日に開かれる全13政党・会派の会合で「立法府の合意」案として提示される予定だと、衆議院議長の森英介氏が、副議長や参議院側の対応者と協議した後、記者団に語った。",
+      "grammar_ja": "based on views from all parties は主語 The document を修飾する過去分詞句。will be presented as は受動態の未来形。after discussing は時を表す分詞構文。",
+      "chunks": [
+        {
+          "text": "The document",
+          "role_ja": "主語",
+          "literal_ja": "その文書は",
+          "note_ja": "前の文の draft consensus を受ける。"
+        },
+        {
+          "text": "based on views from all parties",
+          "role_ja": "主語を修飾する過去分詞句",
+          "literal_ja": "全政党の意見に基づいて",
+          "note_ja": "which is based on... の省略形。カンマで挟むのがニュース英語の定番。"
+        },
+        {
+          "text": "will be presented as a draft \"consensus of the legislature\"",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "「立法府の合意」案として提示される",
+          "note_ja": "present A as B = AをBとして提示する。legislature = 立法府（国会）。"
+        },
+        {
+          "text": "at a meeting Monday of all 13 parliamentary parties and groups",
+          "role_ja": "場所・時を表す前置詞句",
+          "literal_ja": "月曜日の全13政党・会派の会合で",
+          "note_ja": "on Monday ではなく at a meeting Monday と曜日を名詞に直結させる報道用法。"
+        },
+        {
+          "text": "House of Representatives Speaker Eisuke Mori told reporters",
+          "role_ja": "引用の主節",
+          "literal_ja": "衆議院議長の森英介氏が記者団に語った",
+          "note_ja": "役職＋氏名の順。日本語では「森英介衆議院議長」となる。"
+        },
+        {
+          "text": "after discussing the issue with the vice speaker and their House of Councillors counterparts",
+          "role_ja": "時を表す分詞構文",
+          "literal_ja": "副議長と参議院側の対応者とこの問題について協議した後",
+          "note_ja": "counterparts = 対応する役職の人（ここでは参議院の副議長など）。"
+        }
+      ],
+      "deep_dive_ja": "一文が長いが、構造は「文書は提示される（と森氏が語った）」が骨格。 learners は based on と after discussing の挿入で主語と動詞の距離が離れる点に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The proposed revision of the 1947 Imperial House Law, which currently only allows a male who has an emperor on his father's side to succeed the throne, would permit the imperial family to adopt men from 11 former branch families while allowing female members to retain their imperial status after marriage.",
+      "translation_ja": "1947年の皇室典範の改正案は、現在は父方に天皇の血統を持つ男子のみが皇位を継承できると定めているが、皇室が旧皇族11家から男子を養子縁組で迎え入れることを認め、女性皇族が結婚後も皇族の身分を維持できるようにする内容だ。",
+      "grammar_ja": "which 節は非制限用法で法律の現行内容を補足。would permit は提案内容の仮定・予定。while allowing は「〜しながら／〜することと並行して」。",
+      "chunks": [
+        {
+          "text": "The proposed revision of the 1947 Imperial House Law",
+          "role_ja": "主語",
+          "literal_ja": "1947年皇室典範の改正案は",
+          "note_ja": "Imperial House Law = 皇室典範。proposed revision = 提案されている改正。"
+        },
+        {
+          "text": "which currently only allows a male who has an emperor on his father's side to succeed the throne",
+          "role_ja": "非制限的関係代名詞節",
+          "literal_ja": "現在は父方に天皇の血統を持つ男子のみが皇位を継承することを認めているが",
+          "note_ja": "allow A to do = Aに〜させる／〜を認める。succeed the throne = 皇位を継承する。"
+        },
+        {
+          "text": "would permit the imperial family to adopt men from 11 former branch families",
+          "role_ja": "述語",
+          "literal_ja": "皇室が旧皇族11家から男子を養子縁組で迎え入れることを認めるだろう",
+          "note_ja": "former branch families = 旧皇族（皇族から離脱した家系）。adopt = 養子縁組する。"
+        },
+        {
+          "text": "while allowing female members to retain their imperial status after marriage",
+          "role_ja": "並行・対比を表す分詞構文",
+          "literal_ja": "女性皇族が結婚後も皇族の身分を維持することを認めながら",
+          "note_ja": "retain one's status = 身分を維持する。while + -ing で2つの変更を並記。"
+        }
+      ],
+      "deep_dive_ja": "皇位継承の条件を説明する who 節と which 節が重なり難度が高い。日本の皇室制度の文脈では on his father's side は「父系（父方の血統）」と訳す。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "If approved at the following meeting on Wednesday, the consensus will be presented to Prime Minister Sanae Takaichi, after which her government will draft and submit a revision bill.",
+      "translation_ja": "水曜日の次の会合で承認されれば、この合意は高市早苗首相に提示され、その後、高市内閣が改正法案の草案を作成して提出する予定だ。",
+      "grammar_ja": "If approved は「If it is approved」の省略（分詞構文的 condicional）。after which は関係代名詞 which が前文全体を受け、her government は高市首相の内閣を指す。",
+      "chunks": [
+        {
+          "text": "If approved at the following meeting on Wednesday",
+          "role_ja": "条件を表す副詞節（省略形）",
+          "literal_ja": "水曜日の次の会合で承認されれば",
+          "note_ja": "主語と be動詞が省略された新聞英語の定型。If it is approved... の短縮。"
+        },
+        {
+          "text": "the consensus will be presented to Prime Minister Sanae Takaichi",
+          "role_ja": "主節（受動態）",
+          "literal_ja": "合意は高市早苗首相に提示される",
+          "note_ja": "present A to B = AをBに提示する。"
+        },
+        {
+          "text": "after which her government will draft and submit a revision bill",
+          "role_ja": "関係副詞節",
+          "literal_ja": "その後、彼女の政府は改正法案を作成し提出する",
+          "note_ja": "after which = その後（which は前文の出来事を受ける）。draft and submit = 草案を作成して提出する。"
+        }
+      ],
+      "deep_dive_ja": "following meeting は「次に予定されている会合」。her は直前の女性首相 Sanae Takaichi を指すので、日本語では「高市内閣」と訳すと明確。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The legislation could be enacted by July 17 when the current parliamentary session ends, according to sources familiar with the matter.",
+      "translation_ja": "事情に詳しい関係者によると、この法案は現在の国会会期が終わる7月17日までに成立する可能性がある。",
+      "grammar_ja": "could be enacted は可能性を示す受動態。when 節は July 17 を修飾。according to sources familiar with the matter は文末の出所表現（匿名情報源）。",
+      "chunks": [
+        {
+          "text": "The legislation could be enacted by July 17",
+          "role_ja": "主節",
+          "literal_ja": "法案は7月17日までに成立する可能性がある",
+          "note_ja": "enact legislation = 法案を成立させる／法律として施行する。"
+        },
+        {
+          "text": "when the current parliamentary session ends",
+          "role_ja": "時を表す関係副詞節",
+          "literal_ja": "現在の国会会期が終了する時",
+          "note_ja": "parliamentary session = 国会会期。"
+        },
+        {
+          "text": "according to sources familiar with the matter",
+          "role_ja": "出所・根拠を表す前置詞句",
+          "literal_ja": "事情に詳しい関係者によれば",
+          "note_ja": "familiar with = 〜に詳しい。日本の報道では「関係者」に相当。"
+        }
+      ],
+      "deep_dive_ja": "could は断定を避ける報道表現。by July 17 は期限（〜までに）。sources familiar with the matter は匿名情報源の定型句。",
+      "difficulty": "easy",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "\"Having carefully taken each party's views into consideration, we have crafted what we believe is best,\" said Mori, a veteran lawmaker from the ruling Liberal Democratic Party led by Takaichi.",
+      "translation_ja": "「各党の意見を慎重に踏まえ、私たちは最善だと考える内容をまとめた」と、高市氏が率いる与党自民党のベテラン議員である森氏は述べた。",
+      "grammar_ja": "Having taken... は完了を表す分詞構文（理由・時間）。what we believe is best は believe の目的語節を含む名詞節。veteran lawmaker は同格で Mori を説明。",
+      "chunks": [
+        {
+          "text": "Having carefully taken each party's views into consideration",
+          "role_ja": "分詞構文（理由）",
+          "literal_ja": "各党の意見を慎重に考慮に入れた上で",
+          "note_ja": "take ... into consideration = 〜を考慮に入れる。Having + 過去分詞 で「〜した後／〜して」。"
+        },
+        {
+          "text": "we have crafted what we believe is best",
+          "role_ja": "引用の主部",
+          "literal_ja": "私たちは最善だと信じるものをまとめた",
+          "note_ja": "craft = 巧みに作り上げる。what we believe is best は「私たちが最善と考える内容」。"
+        },
+        {
+          "text": "said Mori",
+          "role_ja": "述語（倒置）",
+          "literal_ja": "森氏は述べた",
+          "note_ja": "直接話法の後に話者名。"
+        },
+        {
+          "text": "a veteran lawmaker from the ruling Liberal Democratic Party led by Takaichi",
+          "role_ja": "同格の名詞句",
+          "literal_ja": "高市氏が率いる与党自民党のベテラン議員",
+          "note_ja": "veteran = ベテラン・経験豊富な。ruling party = 与党。led by = 〜が率いる。"
+        }
+      ],
+      "deep_dive_ja": "crafted は create より丁寧・意図的なニュアンス。政治記事では ruling LDP のように党名の前に ruling/opposition を付けるのが一般的。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "\"We sincerely ask for the understanding and support of all parties and groups,\" Mori added, but he declined to make the draft consensus public as it has yet to be presented to the parties.",
+      "translation_ja": "「全政党・会派のご理解とご支援を心からお願いしたい」と森氏は付け加えたが、草案はまだ各党に提示されていないため、合意文書の公表は拒んだ。",
+      "grammar_ja": "ask for the understanding and support は丁寧な依頼表現。declined to make ... public は「公表を拒んだ」。has yet to be presented は「まだ〜されていない」（yet の否定用法）。",
+      "chunks": [
+        {
+          "text": "We sincerely ask for the understanding and support of all parties and groups",
+          "role_ja": "引用文",
+          "literal_ja": "全政党・会派の理解と支援を心から求める",
+          "note_ja": "sincerely ask for = 心から求める。政治文書では understanding and support のセットが頻出。"
+        },
+        {
+          "text": "Mori added",
+          "role_ja": "述語",
+          "literal_ja": "森氏は付け加えた",
+          "note_ja": "add は said に続けて発言を補足する際に使う。"
+        },
+        {
+          "text": "but he declined to make the draft consensus public",
+          "role_ja": "逆接の主節",
+          "literal_ja": "しかし彼は合意草案の公表を拒んだ",
+          "note_ja": "decline to do = 〜するのを辞退・拒否する。make A public = Aを公表する。"
+        },
+        {
+          "text": "as it has yet to be presented to the parties",
+          "role_ja": "理由を表す副詞節",
+          "literal_ja": "それはまだ各党に提示されていないので",
+          "note_ja": "has yet to do = まだ〜していない（not yet done）。"
+        }
+      ],
+      "deep_dive_ja": "has yet to は have not yet のややフォーマルな言い換え。decline は refuse より公式的・丁寧な拒否の響きがある。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "Concerns over securing a stable imperial succession have grown more acute as there are only three heirs to 66-year-old Emperor Naruhito -- his younger brother Crown Prince Fumihito, 60, his nephew Prince Hisahito, 19, and his uncle Prince Hitachi, 90.",
+      "translation_ja": "皇位継承の安定確保への懸念は、66歳の徳仁天皇には弟の皇嗣秋篠宮さま（60歳）、甥の悠仁さま（19歳）、叔父の常陸宮さま（90歳）の3人しか後継者がいないため、いっそう深刻になっている。",
+      "grammar_ja": "Concerns over securing... は動名詞 securing を介詞の目的語に。have grown more acute は「より深刻になった」。as 節は理由。ダッシュ後は heirs の具体例（同格）。",
+      "chunks": [
+        {
+          "text": "Concerns over securing a stable imperial succession",
+          "role_ja": "主語",
+          "literal_ja": "安定した皇位継承を確保することへの懸念は",
+          "note_ja": "concerns over = 〜への懸念。securing は secure（確保する）の動名詞形。"
+        },
+        {
+          "text": "have grown more acute",
+          "role_ja": "述語",
+          "literal_ja": "より深刻になってきた",
+          "note_ja": "acute = （問題・状況が）深刻な、切迫した。grow more acute = いっそう深刻になる。"
+        },
+        {
+          "text": "as there are only three heirs to 66-year-old Emperor Naruhito",
+          "role_ja": "理由を表す副詞節",
+          "literal_ja": "66歳の徳仁天皇には後継者が3人しかいないので",
+          "note_ja": "heir to = 〜の後継者。only three heirs で人数の少なさを強調。"
+        },
+        {
+          "text": "his younger brother Crown Prince Fumihito, 60, his nephew Prince Hisahito, 19, and his uncle Prince Hitachi, 90",
+          "role_ja": "heirs の同格説明",
+          "literal_ja": "弟の皇嗣秋篠宮さま60歳、甥の悠仁さま19歳、叔父の常陸宮さま90歳",
+          "note_ja": "年齢はカンマで挟む報道スタイル。ダッシュ（--）で列挙を導入。"
+        }
+      ],
+      "deep_dive_ja": "secure a succession は「継承を安定させる」というコロケーション。acute を「鋭い」と訳すと不自然で、ここでは concerns が主語なので「深刻な」が適切。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Mori has discussed the issue with House of Councillors President Masakazu Sekiguchi, an LDP lawmaker, and the lower and upper chambers' vice speakers, Keiichi Ishii of the Centrist Reform Alliance and Tetsuro Fukuyama of the Constitutional Democratic Party of Japan -- both opposition parties.",
+      "translation_ja": "森氏は、自民党議員である参議院議長の関口正一氏や、中道改革連合の石井啓一氏と立憲民主党の福山哲郎氏という衆参両院の副議長らとこの問題について協議してきた。いずれの副議長所属政党も野党だ。",
+      "grammar_ja": "with の後に並列された人物リスト。an LDP lawmaker は Sekiguchi を同格説明。both opposition parties は Ishii と Fukuyama の所属政党（中道改革連合・立憲民主党）を指す。",
+      "chunks": [
+        {
+          "text": "Mori has discussed the issue with",
+          "role_ja": "主節",
+          "literal_ja": "森氏はこの問題について〜と協議してきた",
+          "note_ja": "has discussed = これまでに協議した（現在完了）。"
+        },
+        {
+          "text": "House of Councillors President Masakazu Sekiguchi, an LDP lawmaker",
+          "role_ja": "with の目的語（1人目）",
+          "literal_ja": "自民党議員である参議院議長の関口正一氏",
+          "note_ja": "役職＋氏名＋所属の順。House of Councillors = 参議院。"
+        },
+        {
+          "text": "the lower and upper chambers' vice speakers",
+          "role_ja": "with の目的語（2グループ）",
+          "literal_ja": "衆議院と参議院の副議長ら",
+          "note_ja": "chambers = （議会の）院。vice speakers = 副議長。"
+        },
+        {
+          "text": "Keiichi Ishii of the Centrist Reform Alliance and Tetsuro Fukuyama of the Constitutional Democratic Party of Japan",
+          "role_ja": "vice speakers の同格",
+          "literal_ja": "中道改革連合の石井啓一氏と立憲民主党の福山哲郎氏",
+          "note_ja": "A of B = B所属のA。政党名は公式英語表記をそのまま用いる。"
+        },
+        {
+          "text": "both opposition parties",
+          "role_ja": "補足説明",
+          "literal_ja": "いずれも野党",
+          "note_ja": "ダッシュ後の both は Ishii と Fukuyama の2政党を指す。ruling/opposition の対比が重要。"
+        }
+      ],
+      "deep_dive_ja": "日本の政党名は英語表記が固定化されていない場合があるが、記事では正式英語名を使用。both opposition parties が誰を指すかは直前の2名の所属から判断する。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "After hearing from all parties and groups since April, the four lawmakers had struggled to compile a draft consensus, with some CDPJ members expressing doubt about granting imperial family status to men from former branch families who have grown up as commoners.",
+      "translation_ja": "4月以降、全政党・会派の意見を聞いてきた4人の議員は合意草案の作成に難航してきた。立憲民主党の一部議員は、旧皇族の家系出身で一般市民として育った男性に皇族の身分を与えることに疑問を呈している。",
+      "grammar_ja": "After hearing は時を表す分詞構文。had struggled to は過去完了で「それまで難航していた」。with some members expressing doubt は付帯状況（独立分詞構文）。granting ... status to men は動名詞の目的語構造。",
+      "chunks": [
+        {
+          "text": "After hearing from all parties and groups since April",
+          "role_ja": "時を表す分詞構文",
+          "literal_ja": "4月以降、全政党・会派から意見を聞いた後",
+          "note_ja": "hear from = 〜から意見・情報を聞く。"
+        },
+        {
+          "text": "the four lawmakers had struggled to compile a draft consensus",
+          "role_ja": "主節",
+          "literal_ja": "4人の議員は合意草案をまとめるのに難航してきた",
+          "note_ja": "struggle to do = 〜するのに苦労する。had struggled はその時点より前の継続。"
+        },
+        {
+          "text": "with some CDPJ members expressing doubt",
+          "role_ja": "付帯状況",
+          "literal_ja": "立憲民主党の一部議員が疑問を示しながら",
+          "note_ja": "with + O + -ing で「〜が…する状況で」。CDPJ = Constitutional Democratic Party of Japan。"
+        },
+        {
+          "text": "about granting imperial family status to men from former branch families",
+          "role_ja": "doubt の内容",
+          "literal_ja": "旧皇族の家系の男性に皇族の身分を与えることについて",
+          "note_ja": "grant status to = 〜に身分を与える。former branch families = 旧皇族。"
+        },
+        {
+          "text": "who have grown up as commoners",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "一般市民として育ってきた",
+          "note_ja": "grow up as = 〜として育つ。commoners = 平民・一般市民。"
+        }
+      ],
+      "deep_dive_ja": "express doubt about は「疑問を呈する」のややフォーマルな表現。granting status は法律・制度の文脈でよく使われる。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "According to the sources, the draft consensus says the wishes of female imperial family members on whether to retain or relinquish their status after marrying commoners should be respected, while leaving unresolved whether their husbands and children would also obtain imperial status.",
+      "translation_ja": "関係者によると、合意草案は、女性皇族が一般市民と結婚した後に身分を維持するか放棄するかについての本人の意思は尊重すべきだとしつつ、夫や子どもも皇族の身分を得るかどうかは未解決のままにしている。",
+      "grammar_ja": "the draft consensus says の後に that 省略の名詞節。whether to retain or relinquish は疑問詞＋不定詞。while leaving unresolved は「未解決のままにして」。should be respected は義務・方針の受動態。",
+      "chunks": [
+        {
+          "text": "According to the sources",
+          "role_ja": "出所の提示",
+          "literal_ja": "関係者によれば",
+          "note_ja": "匿名情報源を示す定型句。"
+        },
+        {
+          "text": "the draft consensus says",
+          "role_ja": "主節",
+          "literal_ja": "合意草案は〜と述べている",
+          "note_ja": "say の後に内容節が続く（that 省略）。"
+        },
+        {
+          "text": "the wishes of female imperial family members on whether to retain or relinquish their status after marrying commoners should be respected",
+          "role_ja": "say の内容節",
+          "literal_ja": "一般市民と結婚した後の女性皇族の身分維持か放棄かについての本人の意思は尊重されるべきだ",
+          "note_ja": "retain or relinquish = 維持するか放棄するか。relinquish はフォーマルな「放棄する」。"
+        },
+        {
+          "text": "while leaving unresolved whether their husbands and children would also obtain imperial status",
+          "role_ja": "対比・並行の分詞構文",
+          "literal_ja": "夫や子どもが皇族の身分を得るかどうかは未解決のままにしつつ",
+          "note_ja": "leave unresolved = 未解決のままにする。obtain status = 身分を得る。"
+        }
+      ],
+      "deep_dive_ja": "relinquish は give up より公的・法律文書向きの語。whether ... would は仮定の未来を含む疑問内容で、まだ決まっていない事項を示す。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "The draft also says that the adoption of male members of the former branch families, which is prohibited under the current law, would be reconsidered at fixed intervals if deemed necessary, the sources said.",
+      "translation_ja": "草案はまた、現行法では禁止されている旧皇族の男子の養子縁組について、必要と判断されれば定期的に見直すとしている、と関係者は語った。",
+      "grammar_ja": "which is prohibited は非制限用法で adoption を説明。would be reconsidered は提案・方針の受動態。if deemed necessary は「if it is deemed necessary」の省略。文末 the sources said は報道の倒置。",
+      "chunks": [
+        {
+          "text": "The draft also says that",
+          "role_ja": "主節",
+          "literal_ja": "草案はまた〜と述べている",
+          "note_ja": "also で前段の内容に追加。"
+        },
+        {
+          "text": "the adoption of male members of the former branch families",
+          "role_ja": "say の内容の主語",
+          "literal_ja": "旧皇族の男子の養子縁組は",
+          "note_ja": "adoption = 養子縁組。of male members of... と前置詞が重なる。"
+        },
+        {
+          "text": "which is prohibited under the current law",
+          "role_ja": "非制限的関係代名詞節",
+          "literal_ja": "現行法の下では禁止されているが",
+          "note_ja": "under the current law = 現行法の下では。"
+        },
+        {
+          "text": "would be reconsidered at fixed intervals if deemed necessary",
+          "role_ja": "述語",
+          "literal_ja": "必要とみなされれば定期的に見直されるだろう",
+          "note_ja": "at fixed intervals = 定期的に。deem necessary = 必要と判断する（if deemed = 必要とされれば）。"
+        },
+        {
+          "text": "the sources said",
+          "role_ja": "報道の挿入句",
+          "literal_ja": "関係者は語った",
+          "note_ja": "文末に情報源を置く英語報道の型。"
+        }
+      ],
+      "deep_dive_ja": "deem は think/consider より公式・官僚的な「判断する」。fixed intervals は「一定の間隔で」＝定期的に。prohibited under the law は法律英語の定番表現。",
+      "difficulty": "medium",
+      "sentence_id": "s012"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "compile",
+      "pronunciation": "/kəmˈpaɪl/",
+      "meaning_ja": "（資料・文書などを）まとめる、編纂する",
+      "example": "The speakers compiled a draft consensus on a law revision.",
+      "example_ja": "両院議長は法律改正に関する合意文書の草案をまとめた。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "consensus",
+      "pronunciation": "/kənˈsensəs/",
+      "meaning_ja": "合意、総意（意見が一致した状態）",
+      "example": "The four lawmakers had struggled to compile a draft consensus.",
+      "example_ja": "4人の議員は合意草案の作成に難航してきた。",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "enact",
+      "pronunciation": "/ɪˈnækt/",
+      "meaning_ja": "（法案を）成立させる、法律として施行する",
+      "example": "The legislation could be enacted by July 17.",
+      "example_ja": "法案は7月17日までに成立する可能性がある。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "relinquish",
+      "pronunciation": "/rɪˈlɪŋkwɪʃ/",
+      "meaning_ja": "（権利・地位などを）放棄する、手放す",
+      "example": "Female members may retain or relinquish their status after marriage.",
+      "example_ja": "女性皇族は結婚後、身分を維持するか放棄するかを選べる。",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "acute",
+      "pronunciation": "/əˈkjuːt/",
+      "meaning_ja": "（問題・懸念が）深刻な、切迫した",
+      "example": "Concerns over imperial succession have grown more acute.",
+      "example_ja": "皇位継承への懸念はいっそう深刻になっている。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "branch families",
+      "pronunciation": "/bræntʃ ˈfæməliz/",
+      "meaning_ja": "分家、旧皇族（皇族から離脱した家系）",
+      "example": "Men from 11 former branch families could be adopted.",
+      "example_ja": "旧皇族11家からの男子が養子縁組で迎え入れられる可能性がある。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "deem necessary",
+      "pronunciation": "/diːm ˈnesəsəri/",
+      "meaning_ja": "必要と判断する",
+      "example": "Adoption would be reconsidered if deemed necessary.",
+      "example_ja": "必要と判断されれば養子縁組は見直される。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "veteran lawmaker",
+      "pronunciation": "/ˈvetərən ˈlɔːmeɪkər/",
+      "meaning_ja": "ベテラン議員、経験豊富な政治家",
+      "example": "Mori, a veteran lawmaker from the ruling LDP, spoke to reporters.",
+      "example_ja": "与党自民党のベテラン議員である森氏が記者団に語った。",
+      "source_sentence_id": "s006"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-inversion",
+      "title": "Reporting clause at end (subject-verb inversion in news)",
+      "rule": "In news writing, the reporting verb (said, told, added) often comes at the end: '..., Mori said.'",
+      "example": "The lower house speaker said, amid longstanding concerns...",
+      "meaning_ja": "英語の報道では「〜と述べた」を文末に置き、事実を先に伝える。日本語の語順とは逆なので、長文では主節の主語・動詞を見失わないよう注意。"
+    },
+    {
+      "id": "reduced-conditional",
+      "title": "Reduced conditional clauses (If + past participle)",
+      "rule": "Conditions can be shortened by omitting the subject and 'be': 'If approved' = 'If it is approved'.",
+      "example": "If approved at the following meeting on Wednesday, the consensus will be presented...",
+      "meaning_ja": "新聞英語では If it is approved を If approved と短縮する。受動態の過去分詞が続くのが典型。"
+    },
+    {
+      "id": "participial-phrases",
+      "title": "Participial phrases (Having/After/While + -ing)",
+      "rule": "Participial phrases add background, time, or contrast without a full clause.",
+      "example": "Having carefully taken each party's views into consideration, we have crafted...",
+      "meaning_ja": "Having/After/While + 動名詞で「〜した後／〜しながら」の背景を簡潔に付加する。主語は通常、主節と同じ。"
+    },
+    {
+      "id": "yet-to-infinitive",
+      "title": "have yet to + infinitive",
+      "rule": "'has yet to be done' means 'has not been done yet' (often more formal).",
+      "example": "He declined to make the draft public as it has yet to be presented to the parties.",
+      "meaning_ja": "have yet to do は「まだ〜していない」のややフォーマルな表現。not yet done より公的・報道的な響きがある。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 12,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:58:19+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:panel-drafts-consensus-on-imperial-famil"
+}

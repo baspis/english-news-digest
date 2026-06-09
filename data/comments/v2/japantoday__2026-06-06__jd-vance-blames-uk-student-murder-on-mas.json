@@ -1,0 +1,108 @@
+{
+  "article_id": "japantoday:2026-06-06:jd-vance-blames-uk-student-murder-on-mas",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:54:54+09:00",
+  "fetched_at": "2026-06-09T21:59:47+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Henry Nowak died the same ‌way a civilization dies Really? I refer you to the shootings of Renee Good and Alex Pretti.",
+      "translation_ja": "ヘンリー・ノワクは、文明が滅びるのと同じやり方で死んだ、って？本当に？レニー・グッドとアレックス・プレッティの銃撃事件を見てみなよ。",
+      "notes_ja": [
+        "「dies」と「Really?」のあいだに句読点がなく、話し言葉のように一気につながっている。",
+        "「I refer you to〜」は「〜の件を参照してほしい」＝反例として示す、という皮肉な言い方。"
+      ],
+      "standard_en": "Henry Nowak died the same way a civilization dies. Really? I refer you to the shootings of Renee Good and Alex Pretti.",
+      "marked_terms": [],
+      "comment_id": 5227465,
+      "author": "SwissToni",
+      "rating": 13,
+      "posted_at": "2026-06-06T05:56:54+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Henry Nowak died the same ‌way a civilization dies And I would draw his attention to 22 year old scaffolder Chas Corrigan, jailed for life this week for cutting the throat of a 20 year old Saudi language student, Mohammed Yousef Algasim, in a Cambridge street in August 2025. And then there's John Ashby, jailed for life in April for raping and beating a Sikh woman in Birmingham. The moron thought she was a Muslim. The judge described Ashby as a \"deeply unpleasant racist and Islamaphobe\" who was an “extreme” danger to the public. No words for these victims Vance? The sheer hypocrisy and total lack of self-awareness of the likes of Vance are beyond belief.",
+      "translation_ja": "ヘンリー・ノワクは文明が滅びるのと同じやり方で死んだ、と。なら彼の注意を、今週終身刑になった22歳の足場工チャス・コリガンに向けたい。彼は2025年8月、ケンブリッジの路上で20歳のサウジ人語学留学生モハメド・ユセフ・アルガシムの喉を切った罪で刑務所に入った。それから4月に終身刑のジョン・アシュビーもいる。バーミンガムでシク教の女性をレイプし殴打した男だ。あの間抜けは彼女をムスリムだと思っていた。裁判官はアシュビーを「非常に不快な人種差別主義者かつイスラム嫌悪者」で「極めて」社会に危険な人物だと評した。これらの被害者について、ヴァンスは一言もないのか？ヴァンスのような連中のあまりの偽善と自己認識の欠如には呆れ果てる。",
+      "notes_ja": [
+        "冒頭も句読点なしで次の文へつながる。長い文は「And then there's〜」で話題を足していく口語調。",
+        "「No words for these victims Vance?」は語順が崩れた修辞疑問（「ヴァンス、被害者への言葉はないのか？」）。Islamaphobe は Islamophobe の綴りミス。"
+      ],
+      "standard_en": "Henry Nowak died the same way a civilization dies. And I would draw his attention to 22-year-old scaffolder Chas Corrigan, jailed for life this week for cutting the throat of a 20-year-old Saudi language student, Mohammed Yousef Algasim, in a Cambridge street in August 2025. And then there's John Ashby, jailed for life in April for raping and beating a Sikh woman in Birmingham. The moron thought she was a Muslim. The judge described Ashby as a \"deeply unpleasant racist and Islamophobe\" who was an \"extreme\" danger to the public. No words for these victims, Vance? The sheer hypocrisy and total lack of self-awareness of the likes of Vance are beyond belief.",
+      "marked_terms": [
+        {
+          "term": "moron",
+          "symbol": "※",
+          "note_ja": "知能を侮辱する言葉。丁寧な会話では使わない。"
+        }
+      ],
+      "comment_id": 5227490,
+      "author": "Alfie Noakes",
+      "rating": 13,
+      "posted_at": "2026-06-06T06:59:31+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "I would think if an incompetent like JD Vance endorses your position, that would give you pause.",
+      "translation_ja": "JDヴァンスみたいな無能があなたの立場を支持してくれるなら、それで一度立ち止まって考えるべきだと思うけど。",
+      "notes_ja": [
+        "「give you pause」は「立ち止まって考えさせられる」という慣用表現。",
+        "「I would think」で控えめに言いつつ、実際は相手の立場を疑わせる皮肉。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227536,
+      "author": "TaiwanIsNotChina",
+      "rating": 11,
+      "posted_at": "2026-06-06T07:18:25+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "The hillbilly bearded wonder should stay in his own lane and comment on the absolute trainwreck that America is. The racial division and murder rate in the US is far greater than the UK - why doesn't Vance work on sorting out his pathetic failed state?",
+      "translation_ja": "あの田舎者ヒゲの珍種は、自分の分野にとどまって、アメリカという完全な大失敗についてコメントすべきだ。米国の人種分断も殺人率も英国よりずっとひどいのに、なぜヴァンスは自分の情けない失敗国家の問題を片づけようとしないんだ？",
+      "notes_ja": [
+        "「stay in his own lane」は「余計な口出しをするな」というスラング的な言い方。",
+        "「sorting out」は英国英語寄りの口語で「整理する・なんとかする」。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "hillbilly",
+          "symbol": "※",
+          "note_ja": "米国の地方・田舎の人を蔑む差別的な呼び方。"
+        },
+        {
+          "term": "trainwreck",
+          "symbol": "◇",
+          "note_ja": "「大惨事」「めちゃくちゃな状態」という俗語的な比喩。"
+        },
+        {
+          "term": "pathetic",
+          "symbol": "※",
+          "note_ja": "相手や物事を見下す強い侮辱語。"
+        }
+      ],
+      "comment_id": 5227978,
+      "author": "ThePunisher",
+      "rating": 9,
+      "posted_at": "2026-06-06T11:19:18+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "U.S. Vice President JD Vance on Friday waded into a British dispute that has erupted over the murder of a student, blaming his death on what ‌he said was civilizational decline and the failure to stop the \"mass invasion of migrants\". More racist remarks from JD.",
+      "translation_ja": "JDヴァンス米国副大統領は金曜日、学生殺害をめぐって英国で起きた論争に首を突っ込み、その死を、彼が言うところの文明の衰退と「移民の大量侵略」を止められなかったことのせいにした。JDからの人種差別発言がまた増えた。",
+      "notes_ja": [
+        "前半は記事の要約、最後の一文だけが投稿者の短い批判コメント。",
+        "「waded into」は「余計なことに首を突っ込む」というやや否定的な言い方。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227617,
+      "author": "Underworld",
+      "rating": 8,
+      "posted_at": "2026-06-06T07:40:40+09:00"
+    }
+  ]
+}

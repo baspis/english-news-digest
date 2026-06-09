@@ -1,0 +1,771 @@
+{
+  "summary_ja": "米副大統領JD・ヴァンスが、英国で学生が殺害された事件をめぐり、移民の「大量侵略」と文明の衰退が原因だと主張し、論争に介入した。映像では警察が刺されて瀕死のノワクを手錠にしながら見捨てた様子が映り、人種差別の通報を優先したとの批判が広がっている。スターマー首相側は遺族の意向を尊重し分断を避けるべきだとし、米英関係はイラン戦争をめぐる対立と相まって悪化している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Vice President JD Vance on Friday waded into a British dispute that has erupted over the murder of a student, blaming his death on what ‌he said was civilizational decline and the failure to stop the \"mass invasion of migrants\".",
+      "translation_ja": "米副大統領JD・ヴァンスは金曜日、学生の殺害をめぐって勃発した英国の論争に踏み込み、その死の原因は、彼が言うところの文明の衰退と移民の「大量侵略」を止められなかったことにあると非難した。",
+      "grammar_ja": "wade into は「（論争などに）首を突っ込む」の慣用表現。blaming ... on ... で原因を〜のせいにする。what he said was ... は間接話法の名詞節。",
+      "chunks": [
+        {
+          "text": "Vice President JD Vance",
+          "role_ja": "主語",
+          "literal_ja": "副大統領JD・ヴァンスが",
+          "note_ja": "人物の肩書き＋名前。ニュースでは固有名詞の前に役職を置くのが一般的。"
+        },
+        {
+          "text": "on Friday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "金曜日に",
+          "note_ja": "特定の曜日を示す前置詞句。過去形と組み合わせて「その金曜に」と訳す。"
+        },
+        {
+          "text": "waded into a British dispute",
+          "role_ja": "述語（動詞句）",
+          "literal_ja": "英国の論争に踏み込んだ",
+          "note_ja": "wade into は water を wade（水をかき分けて進む）から派生し、難しい問題に介入するイメージ。"
+        },
+        {
+          "text": "that has erupted over the murder of a student",
+          "role_ja": "関係詞節（dispute を修飾）",
+          "literal_ja": "学生の殺害をめぐって勃発した",
+          "note_ja": "erupt over は「〜をめぐって突然起きる・激化する」。現在完了 has erupted で最近の出来事であることを示す。"
+        },
+        {
+          "text": "blaming his death on what he said was civilizational decline",
+          "role_ja": "分詞構文（付帯状況）",
+          "literal_ja": "彼の死を、彼が言う文明の衰退のせいにしながら",
+          "note_ja": "主節の動作と同時に起きる付帯的な説明。blame A on B で「A を B のせいにする」。"
+        },
+        {
+          "text": "the failure to stop the \"mass invasion of migrants\"",
+          "role_ja": "名詞句（並列の原因）",
+          "literal_ja": "移民の大量侵略を止められなかったこと",
+          "note_ja": "failure to do で「〜できなかったこと」。mass invasion は政治的に強い言葉で、移民を侵略と表現している。"
+        }
+      ],
+      "deep_dive_ja": "ニュース英語では動詞 wade into がよく使われ、政治家が外部の論争に介入する場面を描写する。civilizational decline は「文明の衰退」という大きな枠組みで事件を語る修辞法。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Last year, Henry Nowak, an 18-year-old white man, was handcuffed by police as he lay dying from stab wounds after his killer falsely alleged a racist attack.",
+      "translation_ja": "昨年、18歳の白人男性ヘンリー・ノワクは、刺し傷で瀕死の状態で横たわっている間、殺害者が人種差別的な攻撃だと虚偽の申し立てをした後、警察に手錠をかけられた。",
+      "grammar_ja": "受動態 was handcuffed。as he lay dying は「〜している最中に」。falsely alleged で虚偽の申し立て。",
+      "chunks": [
+        {
+          "text": "Last year",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "昨年",
+          "note_ja": "文頭の時間表現。過去形の出来事の時点を示す。"
+        },
+        {
+          "text": "Henry Nowak, an 18-year-old white man",
+          "role_ja": "主語（同格の説明付き）",
+          "literal_ja": "18歳の白人男性ヘンリー・ノワクは",
+          "note_ja": "カンマで挟んだ同格が人物を説明する。ニュースでは人種・年齢の記載が論点になることがある。"
+        },
+        {
+          "text": "was handcuffed by police",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "警察に手錠をかけられた",
+          "note_ja": "受動態で被害者側の視点。handcuff は「手錠をかける」。"
+        },
+        {
+          "text": "as he lay dying from stab wounds",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "刺し傷で死にかけて横たわっている間に",
+          "note_ja": "lay dying は「瀕死の状態で横たわっていた」。stab wounds は刺し傷。"
+        },
+        {
+          "text": "after his killer falsely alleged a racist attack",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "殺害者が人種差別的攻撃だと虚偽申し立てした後",
+          "note_ja": "allege は「（証拠不十分でも）申し立てる」。falsely で虚偽であることを明示。"
+        }
+      ],
+      "deep_dive_ja": "この文は時系列が複雑。after 節の出来事（虚偽申告）が先に起き、その結果として as 節の状況（手錠）が起きたと読む。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The killer, a Sikh ‌man, was sentenced on Monday to life in prison.",
+      "translation_ja": "殺害者であるシク教の男性は月曜日、終身刑に処せられた。",
+      "grammar_ja": "受動態 was sentenced to ...。同格 a Sikh man で殺害者を説明。life in prison は終身刑。",
+      "chunks": [
+        {
+          "text": "The killer, a Sikh man",
+          "role_ja": "主語",
+          "literal_ja": "殺害者であるシク教の男性は",
+          "note_ja": "同格で宗教・民族を示す。事実関係の説明として記載されている。"
+        },
+        {
+          "text": "was sentenced on Monday",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "月曜日に判決を受けた",
+          "note_ja": "sentence は動詞で「判決を下す」。be sentenced で受刑者側の表現。"
+        },
+        {
+          "text": "to life in prison",
+          "role_ja": "補語（結果）",
+          "literal_ja": "終身刑に",
+          "note_ja": "be sentenced to + 刑罰。life in prison は「懲役終身」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Video footage showed officers ignoring Nowak's ⁠pleas as he lay dying, sparking questions over why the police had believed the ⁠allegation of racism and ⁠not Nowak who said repeatedly that he had been stabbed and could not breathe.",
+      "translation_ja": "映像には、ノワクが瀕死の状態で懇願しているのを警官たちが無視している様子が映っており、なぜ警察が人種差別の申し立てを信じ、繰り返し刺されたと言い、息ができないと訴えたノワクを信じなかったのかという疑問が生じた。",
+      "grammar_ja": "show + O + doing（目的語＋現在分詞）。sparking questions は分詞構文で結果。not A but B の対比構造（here: believed A and not B）。",
+      "chunks": [
+        {
+          "text": "Video footage showed officers ignoring Nowak's pleas",
+          "role_ja": "主節",
+          "literal_ja": "映像は警官がノワクの懇願を無視していることを示した",
+          "note_ja": "show + 人 + -ing で「〜が…しているのを示す」。pleas は「懇願・訴え」。"
+        },
+        {
+          "text": "as he lay dying",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "彼が瀕死で横たわっている間に",
+          "note_ja": "前の文と同じ表現の繰り返しで状況の深刻さを強調。"
+        },
+        {
+          "text": "sparking questions over why ...",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "〜についての疑問を引き起こし",
+          "note_ja": "主節の結果として疑問が生じたことを示す。spark questions で「疑問を生む」。"
+        },
+        {
+          "text": "the police had believed the allegation of racism",
+          "role_ja": "間接疑問文の内容",
+          "literal_ja": "警察が人種差別の申し立てを信じた",
+          "note_ja": "過去完了 had believed で、映像が公開される前の警察の判断を示す。"
+        },
+        {
+          "text": "and not Nowak who said repeatedly that he had been stabbed and could not breathe",
+          "role_ja": "対比（否定）",
+          "literal_ja": "そしてノワクを信じなかった（ノワクは繰り返し刺されたと言い、息ができないと訴えていたのに）",
+          "note_ja": "believed A and not B で A は信じたが B は信じなかった。関係詞 who が Nowak を修飾。"
+        }
+      ],
+      "deep_dive_ja": "長い文だが、前半が事実（映像の内容）、sparking 以降がその結果（世論の反応）という構造。over why ... は「なぜ〜かについて」という疑問の内容を導く。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "\"Henry Nowak died the same ‌way a civilization dies: abandoned, handcuffed by authorities who neither trusted nor cared for him, and accused of hate crimes ⁠he did not commit,\" Vance said on X.",
+      "translation_ja": "「ヘンリー・ノワクは文明が死ぬのと同じように死んだ。見捨てられ、彼を信じもせず、気にもかけもしなかった当局に手錠をかけられ、犯していないヘイトクライムの容疑をかけられた」とヴァンスはXで述べた。",
+      "grammar_ja": "直接話法の引用。the same way ... dies は比較。コロンの後に形容詞・過去分詞の並列で死に方を描写。neither ... nor ... の相関接続詞。",
+      "chunks": [
+        {
+          "text": "Henry Nowak died the same way a civilization dies",
+          "role_ja": "引用の主部",
+          "literal_ja": "ヘンリー・ノワクは文明が死ぬのと同じように死んだ",
+          "note_ja": "the same way that ... の省略形。比喩的に個人の死と文明の死を結びつける修辞。"
+        },
+        {
+          "text": "abandoned, handcuffed by authorities",
+          "role_ja": "付帯説明（並列の過去分詞）",
+          "literal_ja": "見捨てられ、当局に手錠をかけられ",
+          "note_ja": "コロン後の並列で「どのように死んだか」を列挙。形容詞・分詞の省略構文。"
+        },
+        {
+          "text": "who neither trusted nor cared for him",
+          "role_ja": "関係詞節",
+          "literal_ja": "彼を信じもせず、気にもかけもしなかった",
+          "note_ja": "neither A nor B で二つの否定を並べる。cared for は「気にかける・世話をする」。"
+        },
+        {
+          "text": "accused of hate crimes he did not commit",
+          "role_ja": "付帯説明（過去分詞）",
+          "literal_ja": "犯していないヘイトクライムの容疑をかけられ",
+          "note_ja": "he did not commit は hate crimes を修飾する省略関係詞節。"
+        },
+        {
+          "text": "Vance said on X",
+          "role_ja": "主節（引用動詞）",
+          "literal_ja": "ヴァンスはXで述べた",
+          "note_ja": "on X はソーシャルメディア X（旧Twitter）での発言を示す。"
+        }
+      ],
+      "deep_dive_ja": "政治家の演説調の引用文。abandoned, handcuffed, accused と三つの過去分詞で悲劇的な状況を積み重ねるのが効果的。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "\"Each time ⁠a life like his is lost, the proper response — the only response — is righteous anger.\"",
+      "translation_ja": "「彼のような命が失われるたびに、ふさわしい反応、唯一の反応は、正しい怒りである。」",
+      "grammar_ja": "Each time + 節 で「〜するたびに」。ダッシュで the proper response = the only response と同格再説明。",
+      "chunks": [
+        {
+          "text": "Each time a life like his is lost",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "彼のような命が失われるたびに",
+          "note_ja": "a life like his は「彼のような（若く無辜の）命」。is lost で「失われる」。"
+        },
+        {
+          "text": "the proper response — the only response —",
+          "role_ja": "主語",
+          "literal_ja": "ふさわしい反応、唯一の反応は",
+          "note_ja": "ダッシュで挟んだ同格が主語を強調・再定義する修辞技法。"
+        },
+        {
+          "text": "is righteous anger",
+          "role_ja": "述語",
+          "literal_ja": "正しい怒りである",
+          "note_ja": "righteous anger は「正当な怒り・義憤」。道徳的に正しい怒りというニュアンス。"
+        }
+      ],
+      "deep_dive_ja": "the proper response — the only response — のダッシュ構文は演説で選択肢を一つに絞り込む効果がある。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Vance said Nowak would be alive today \"if the last few generations of European elites had stood their ground against the politics of self-hatred and the mass invasion of migrants, many of whom despise the West and the ⁠people who love it\".",
+      "translation_ja": "ヴァンスは、ヨーロッパのエリート層が過去数世代にわたり、自己嫌悪の政治と移民の大量侵略に立ち向かっていれば、ノワクは今日も生きていただろうと述べた。その移民の多くは西側諸国とそれを愛する人々を軽蔑していると彼は言った。",
+      "grammar_ja": "仮定法過去完了 would be alive if ... had stood。stand one's ground は「立場を堅持する」。many of whom は非制限的関係詞節。",
+      "chunks": [
+        {
+          "text": "Nowak would be alive today",
+          "role_ja": "間接話法の主節",
+          "literal_ja": "ノワクは今日も生きていただろう",
+          "note_ja": "would be alive today は仮定法の帰結「今も生きていただろうに」。"
+        },
+        {
+          "text": "if the last few generations of European elites had stood their ground",
+          "role_ja": "条件節（仮定法過去完了）",
+          "literal_ja": "もしヨーロッパのエリート層の過去数世代が立場を堅持していたなら",
+          "note_ja": "had stood は実際にはそうしなかったという仮定。stand one's ground は慣用表現。"
+        },
+        {
+          "text": "against the politics of self-hatred and the mass invasion of migrants",
+          "role_ja": "前置詞句",
+          "literal_ja": "自己嫌悪の政治と移民の大量侵略に対して",
+          "note_ja": "self-hatred は「自己嫌悪の政治」、つまり自国・自文化を否定する政治を指す。"
+        },
+        {
+          "text": "many of whom despise the West and the people who love it",
+          "role_ja": "関係詞節（migrants を修飾）",
+          "literal_ja": "その多くは西側とそれを愛する人々を軽蔑している",
+          "note_ja": "many of whom は migrants にかかる。whom は of の目的語。"
+        }
+      ],
+      "deep_dive_ja": "仮定法過去完了は「過去の選択が違えば今の結果も違った」という後悔・批判の表現。many of whom は B2 学習者にとって難しい関係詞の形。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "A spokesperson for Prime Minister Keir Starmer, responding to Vance's comments, said the Nowak family ⁠did not want his death to be used ‌to create further division or hatred.",
+      "translation_ja": "キア・スターマー首相の報道官は、ヴァンスの発言に応じて、ノワク家は彼の死がさらなる分断や憎悪を生むために利用されることを望んでいないと述べた。",
+      "grammar_ja": "分詞構文 responding to ...。want + O + to be used は「O が〜されることを望む」の受動不定詞。",
+      "chunks": [
+        {
+          "text": "A spokesperson for Prime Minister Keir Starmer",
+          "role_ja": "主語",
+          "literal_ja": "キア・スターマー首相の報道官は",
+          "note_ja": "spokesperson for ... で「〜の報道官・代弁者」。"
+        },
+        {
+          "text": "responding to Vance's comments",
+          "role_ja": "分詞構文",
+          "literal_ja": "ヴァンスのコメントに応じて",
+          "note_ja": "主語の報道官が応答している状況を示す。"
+        },
+        {
+          "text": "the Nowak family did not want his death to be used",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "ノワク家は彼の死が利用されることを望まなかった",
+          "note_ja": "want + 目的語 + to be used（受動）で「〜されることを望まない」。"
+        },
+        {
+          "text": "to create further division or hatred",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "さらなる分断や憎悪を生むために",
+          "note_ja": "be used to do で「〜するために利用される」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We should respect their wishes,\" the spokesperson said.",
+      "translation_ja": "「彼らの意向は尊重すべきだ」と報道官は述べた。",
+      "grammar_ja": "should + 動詞原形で義務・勧告。直接話法の引用で主節が後置（said the spokesperson）。",
+      "chunks": [
+        {
+          "text": "We should respect their wishes",
+          "role_ja": "引用文",
+          "literal_ja": "私たちは彼らの意向を尊重すべきだ",
+          "note_ja": "should は「〜すべきだ」。wishes は遺族の希望・意向。"
+        },
+        {
+          "text": "the spokesperson said",
+          "role_ja": "主節",
+          "literal_ja": "報道官は述べた",
+          "note_ja": "引用文の後に話者を置く倒置も可能。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Even in the most terrible circumstances, our politics should bring people together.",
+      "translation_ja": "「たとえ最も悲惨な状況であっても、私たちの政治は人々を団結させるべきだ。",
+      "grammar_ja": "Even in ... で譲歩「たとえ〜でも」。bring people together は「人々を団結させる」。",
+      "chunks": [
+        {
+          "text": "Even in the most terrible circumstances",
+          "role_ja": "譲歩の副詞句",
+          "literal_ja": "たとえ最も悲惨な状況であっても",
+          "note_ja": "Even で極端な状況を示し、それでもという逆接のニュアンスを作る。"
+        },
+        {
+          "text": "our politics should bring people together",
+          "role_ja": "主節",
+          "literal_ja": "私たちの政治は人々を団結させるべきだ",
+          "note_ja": "bring ... together は「〜をまとめ上げる・団結させる」の句動詞。"
+        }
+      ],
+      "deep_dive_ja": "入力リストでは引用符が次の文まで続く。実際の記事では一つの発言の一部として読む。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "That is who we are as a country.\"",
+      "translation_ja": "それが国としての私たちの姿なのだ。」",
+      "grammar_ja": "That is who we are は「それが私たちの本質だ」という強調構文。as a country で「国として」。",
+      "chunks": [
+        {
+          "text": "That is who we are",
+          "role_ja": "主節",
+          "literal_ja": "それが私たちの姿である",
+          "note_ja": "who we are は名詞節。国民のアイデンティティを述べる決まり文句。"
+        },
+        {
+          "text": "as a country",
+          "role_ja": "副詞句",
+          "literal_ja": "国として",
+          "note_ja": "視点・立場を限定する前置詞句。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The case has sparked widespread anger in Britain, with populist political leader Nigel Farage and tech billionaire Elon Musk amplifying right-wing talking ‌points that the country has \"two-tier policing\" where fears of being called racist have led to ethnic minorities being given greater protections than others.",
+      "translation_ja": "この事件は英国で広範な怒りを引き起こしており、ポピュリストの政治家ナイジェル・ファラージとテック億万長者イーロン・マスクが、人種差別主義者と呼ばれることを恐れるあまり、少数民族により他の人より大きな保護が与えられているという「二階建ての警察制度」という右翼の論点を拡散している。",
+      "grammar_ja": "with + O + doing の複合構文。two-tier policing は「二階建ての警察」。fears of being called ... は動名詞の受動。",
+      "chunks": [
+        {
+          "text": "The case has sparked widespread anger in Britain",
+          "role_ja": "主節",
+          "literal_ja": "この事件は英国で広範な怒りを引き起こした",
+          "note_ja": "spark anger で「怒りを引き起こす」。現在完了で影響が続いている。"
+        },
+        {
+          "text": "with Nigel Farage and Elon Musk amplifying right-wing talking points",
+          "role_ja": "付帯状況（with + O + doing）",
+          "literal_ja": "ファラージとマスクが右翼の論点を拡散しながら",
+          "note_ja": "with + 人 + -ing で「〜が…している状況で」。amplify は「拡声・拡散する」。"
+        },
+        {
+          "text": "that the country has \"two-tier policing\"",
+          "role_ja": "関係詞節",
+          "literal_ja": "国が二階建ての警察制度を持っているという",
+          "note_ja": "two-tier は「二階建ての」、つまり人によって扱いが異なるという批判的表現。"
+        },
+        {
+          "text": "where fears of being called racist have led to ethnic minorities being given greater protections",
+          "role_ja": "関係副詞節",
+          "literal_ja": "人種差別主義者と呼ばれることを恐れるあまり、少数民族により大きな保護が与えられる結果になった",
+          "note_ja": "fears of being called ... は「〜と呼ばれることを恐れる」。lead to + 動名詞。"
+        }
+      ],
+      "deep_dive_ja": "two-tier policing はこの記事のキーワード。右翼の論点を客観的に紹介する際、引用符で距離を置いている。",
+      "difficulty": "hard",
+      "sentence_id": "s012"
+    },
+    {
+      "text": "Starmer has said police had serious questions to answer about their handling of the incident, including how accusations of racism informed police thinking, and an investigation is taking place.",
+      "translation_ja": "スターマーは、警察にはこの事件の対応について答えるべき重大な疑問があると述べ、人種差別の告発が警察の判断にどう影響したかも含めて言及した。現在、調査が進行中である。",
+      "grammar_ja": "has said + 間接話法。questions to answer は「答えるべき疑問」。how 節は「どのように〜したか」。",
+      "chunks": [
+        {
+          "text": "police had serious questions to answer",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "警察には答えるべき重大な疑問があった",
+          "note_ja": "questions to answer は不定詞の形容詞用法「答えるべき疑問」。"
+        },
+        {
+          "text": "about their handling of the incident",
+          "role_ja": "前置詞句",
+          "literal_ja": "事件の対応について",
+          "note_ja": "handling は名詞で「対応・処理」。"
+        },
+        {
+          "text": "how accusations of racism informed police thinking",
+          "role_ja": "including の内容",
+          "literal_ja": "人種差別の告発が警察の思考にどう影響したか",
+          "note_ja": "inform はここで「影響を与える・判断の根拠となる」。"
+        },
+        {
+          "text": "an investigation is taking place",
+          "role_ja": "並列の主節",
+          "literal_ja": "調査が進行中である",
+          "note_ja": "take place で「行われる・実施される」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But he condemned a violent and disorderly protest that took place on Tuesday night and said it was \"unforgivable\" to exploit the death to stir tension after Farage called for people to respond with \"pure cold rage\".",
+      "translation_ja": "しかし彼は火曜夜に起きた暴力的で秩序を乱す抗議を非難し、ファラージが人々に「純粋な冷たい怒り」で応じるよう呼びかけた後、その死を利用して緊張を煽ることは「許しがたい」と述べた。",
+      "grammar_ja": "condemned ... and said ... の並列。it was unforgivable to do は形式主語 it。call for + O + to do。",
+      "chunks": [
+        {
+          "text": "he condemned a violent and disorderly protest",
+          "role_ja": "述語（第1）",
+          "literal_ja": "彼は暴力的で秩序を乱す抗議を非難した",
+          "note_ja": "disorderly は「秩序を乱す」。condemn は強い非難。"
+        },
+        {
+          "text": "that took place on Tuesday night",
+          "role_ja": "関係詞節",
+          "literal_ja": "火曜夜に起きた",
+          "note_ja": "take place で「（事件が）起きる」。"
+        },
+        {
+          "text": "it was \"unforgivable\" to exploit the death to stir tension",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "その死を利用して緊張を煽ることは許しがたい",
+          "note_ja": "stir tension で「緊張・対立を煽る」。形式主語 it + to不定詞。"
+        },
+        {
+          "text": "after Farage called for people to respond with \"pure cold rage\"",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "ファラージが人々に純粋な冷たい怒りで応じるよう呼びかけた後",
+          "note_ja": "call for + 人 + to do で「〜に…するよう求める」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He also told Musk to stop interfering in British politics on ​Thursday after the tech boss posted repeatedly about the case and said it showed that police were biased against white people in Britain.",
+      "translation_ja": "彼はまた木曜日、テック界の重鎮がこの事件について繰り返し投稿し、英国の警察が白人に対して偏っていることを示していると述べた後、マスクに英国政治への干渉をやめるよう伝えた。",
+      "grammar_ja": "tell + O + to do。stop interfering は stop + 動名詞。biased against で「〜に対して偏見がある」。",
+      "chunks": [
+        {
+          "text": "He also told Musk to stop interfering in British politics",
+          "role_ja": "主節",
+          "literal_ja": "彼はまたマスクに英国政治への干渉をやめるよう伝えた",
+          "note_ja": "tell + 人 + to do。interfere in で「〜に干渉する」。"
+        },
+        {
+          "text": "on Thursday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "木曜日に",
+          "note_ja": "伝えた日時を示す。"
+        },
+        {
+          "text": "after the tech boss posted repeatedly about the case",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "テック界の重鎮がこの事件について繰り返し投稿した後",
+          "note_ja": "tech boss はマスクを指す。repeatedly で「何度も」。"
+        },
+        {
+          "text": "police were biased against white people in Britain",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "英国の警察が白人に対して偏っていた",
+          "note_ja": "biased against は「〜に対して偏見がある・不利に扱う」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The local police force has rejected accusations of any bias, but police ‌chiefs have said they would review guidelines that were drawn up in response to decades of well-documented incidents of racism in policing on how officers should treat ethnicities differently.",
+      "translation_ja": "地元警察はいかなる偏見の指摘も否定したが、警察幹部は、数十年にわたる警察における人種差別の十分に記録された事例への対応として策定された、警官が民族をどう異なって扱うべきかというガイドラインを見直すと述べた。",
+      "grammar_ja": "reject accusations of ...。that were drawn up in response to ... の関係詞節。on how ... は「〜の方法について」という内容を示す前置詞。",
+      "chunks": [
+        {
+          "text": "The local police force has rejected accusations of any bias",
+          "role_ja": "主節（第1）",
+          "literal_ja": "地元警察はいかなる偏見の指摘も否定した",
+          "note_ja": "reject accusations of ... で「〜の指摘を退ける」。"
+        },
+        {
+          "text": "guidelines that were drawn up in response to decades of well-documented incidents of racism in policing",
+          "role_ja": "関係詞節",
+          "literal_ja": "数十年の記録された警察の人種差別事例への対応として策定されたガイドライン",
+          "note_ja": "draw up で「作成する」。in response to で「〜への対応として」。well-documented は「十分に記録・証明された」。"
+        },
+        {
+          "text": "on how officers should treat ethnicities differently",
+          "role_ja": "前置詞句（内容）",
+          "literal_ja": "警官が民族をどう異なって扱うべきかについて",
+          "note_ja": "guidelines on how ... で「〜の方法に関するガイドライン」。"
+        }
+      ],
+      "deep_dive_ja": "この文は長い修飾が連鎖している。guidelines が中心で、that 節と on how 節が両方から説明を加える。",
+      "difficulty": "hard",
+      "sentence_id": "s016"
+    },
+    {
+      "text": "Relations between the United States and Britain — historically close allies — have publicly deteriorated since the U.S.-Israeli ‌war with Iran began in February, with President Donald Trump repeatedly mocking Starmer for failing to provide ⁠greater support.",
+      "translation_ja": "米国と英国の関係は、歴史的に緊密な同盟国であるにもかかわらず、2月に始まった米国・イスラエルの対イラン戦争以降、公然と悪化しており、ドナルド・トランプ大統領がスターマーがより大きな支援を提供できなかったことを繰り返し嘲笑している。",
+      "grammar_ja": "ダッシュで挿入された同格 historically close allies。since + 過去形で「〜以来」。mocking ... for failing to do。",
+      "chunks": [
+        {
+          "text": "Relations between the United States and Britain",
+          "role_ja": "主語",
+          "literal_ja": "米国と英国の関係は",
+          "note_ja": "relations between A and B で「A と B の関係」。"
+        },
+        {
+          "text": "historically close allies",
+          "role_ja": "同格（挿入）",
+          "literal_ja": "歴史的に緊密な同盟国であるが",
+          "note_ja": "ダッシュで挟んだ補足。対比効果を生む。"
+        },
+        {
+          "text": "have publicly deteriorated since the U.S.-Israeli war with Iran began in February",
+          "role_ja": "述語",
+          "literal_ja": "2月の対イラン戦争開始以来公然と悪化した",
+          "note_ja": "deteriorate で「悪化する」。since + 過去形で起点を示す。"
+        },
+        {
+          "text": "with President Donald Trump repeatedly mocking Starmer for failing to provide greater support",
+          "role_ja": "付帯状況",
+          "literal_ja": "トランプ大統領がスターマーをより大きな支援を提供できなかったと繰り返し嘲笑しながら",
+          "note_ja": "mock ... for doing で「〜のことを…と嘲笑する」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Vance has previously accused European leaders ⁠of censoring free speech and failing to control immigration, ​and the U.S.",
+      "translation_ja": "ヴァンスは以前、ヨーロッパの指導者たちが言論の自由を検閲し、移民を管理できていないと非難しており、そして米国の",
+      "grammar_ja": "accuse A of doing の構文。and the U.S. で文が途中で切れ、次の文に続く。",
+      "chunks": [
+        {
+          "text": "Vance has previously accused European leaders of censoring free speech",
+          "role_ja": "主節（一部）",
+          "literal_ja": "ヴァンスは以前ヨーロッパの指導者に言論の自由の検閲を非難した",
+          "note_ja": "accuse + 人 + of + 動名詞。previously で過去の発言を示す。"
+        },
+        {
+          "text": "and failing to control immigration",
+          "role_ja": "並列の動名詞",
+          "literal_ja": "そして移民管理の失敗を",
+          "note_ja": "censoring と failing が並列で of の目的語。"
+        },
+        {
+          "text": "and the U.S.",
+          "role_ja": "接続（文の続き）",
+          "literal_ja": "そして米国の",
+          "note_ja": "原文では改行で文が分断されている。次の文と一続き。"
+        }
+      ],
+      "deep_dive_ja": "入力リストでは文が途中で切れている。State Department と合わせて一つの文として理解する。",
+      "difficulty": "medium",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "State Department on Thursday condemned what it called \"ideological conditioning and two-tiered policing\" in Nowak's ⁠treatment.",
+      "translation_ja": "国務省は木曜日、ノワクへの扱いにおける、同省が「イデオロギー的な刷り込みと二階建ての警察制度」と呼ぶものを非難した。",
+      "grammar_ja": "condemn + what it called ... の間接話法。two-tiered policing は two-tier policing の変形。",
+      "chunks": [
+        {
+          "text": "State Department on Thursday condemned",
+          "role_ja": "主節",
+          "literal_ja": "国務省は木曜日非難した",
+          "note_ja": "前の文の and the U.S. と合わせて the U.S. State Department。"
+        },
+        {
+          "text": "what it called \"ideological conditioning and two-tiered policing\"",
+          "role_ja": "目的語（名詞節）",
+          "literal_ja": "同省がイデオロギー的刷り込みと二階建て警察と呼ぶものを",
+          "note_ja": "what it called ... は「それが…と呼ぶもの」。公式声明の言い回し。"
+        },
+        {
+          "text": "in Nowak's treatment",
+          "role_ja": "前置詞句",
+          "literal_ja": "ノワクへの扱いにおいて",
+          "note_ja": "treatment はここで「（警察などによる）扱い・対応」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A spokesperson for Starmer said on ‌Friday that Britain's relationship with the U.S. remained \"incredibly strong\" but rejected the State Department ​comments.",
+      "translation_ja": "スターマー側の報道官は金曜日、英国と米国の関係は「非常に強固なまま」だと述べたが、国務省のコメントは退けた。",
+      "grammar_ja": "said that ... but rejected ... の並列。remained + 形容詞で状態の継続。",
+      "chunks": [
+        {
+          "text": "Britain's relationship with the U.S. remained \"incredibly strong\"",
+          "role_ja": "間接話法の内容（第1）",
+          "literal_ja": "英国と米国の関係は非常に強固なままだった",
+          "note_ja": "remain + 形容詞 で「〜のままである」。外交的な配慮の表現。"
+        },
+        {
+          "text": "but rejected the State Department comments",
+          "role_ja": "述語（第2）",
+          "literal_ja": "しかし国務省のコメントは退けた",
+          "note_ja": "but で対比。関係は強いが批判は受け入れないという姿勢。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Deputy Prime Minister David Lammy told Sky News on Friday that he welcomed the fact that the U.S. government had extended its condolences to the Nowak family but said he did not recognise \"this caricature of Britain having a two-tier criminal justice system\".",
+      "translation_ja": "デビッド・ラミー副首相は金曜日スカイニュースに、米政府がノワク家に哀悼の意を表したことを歓迎するが、英国が二階建ての刑事司法制度を持つという「この戯画のような描写」は認められないと述べた。",
+      "grammar_ja": "welcomed the fact that ... but said ... の対比。did not recognise で「〜とは認めない」。caricature of + 動名詞。",
+      "chunks": [
+        {
+          "text": "Deputy Prime Minister David Lammy told Sky News on Friday",
+          "role_ja": "主節",
+          "literal_ja": "副首相デビッド・ラミーは金曜日スカイニュースに述べた",
+          "note_ja": "tell + 媒体 で「〜に語る・インタビューする」。"
+        },
+        {
+          "text": "he welcomed the fact that the U.S. government had extended its condolences",
+          "role_ja": "間接話法（第1）",
+          "literal_ja": "米政府が哀悼の意を表したことを歓迎する",
+          "note_ja": "extend condolences で「哀悼の意を表する」。外交的な好意的部分。"
+        },
+        {
+          "text": "but said he did not recognise \"this caricature of Britain having a two-tier criminal justice system\"",
+          "role_ja": "間接話法（第2）",
+          "literal_ja": "しかし英国が二階建て刑事司法を持つという戯画のような描写は認めないと述べた",
+          "note_ja": "caricature は「戯画・誇張された描写」。recognise は英式綴り（米式 recognize）。"
+        }
+      ],
+      "deep_dive_ja": "welcome ... but did not recognise ... で、一部は評価しつつ全体の批判は拒否する外交的な言い方。caricature は相手の主張を誇張された虚構として位置づける語。",
+      "difficulty": "hard",
+      "sentence_id": "s021"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "wade into",
+      "pronunciation": "/weɪd ˈɪntuː/",
+      "meaning_ja": "（論争・問題に）首を突っ込む、介入する",
+      "example": "Vance waded into a British dispute.",
+      "example_ja": "ヴァンスは英国の論争に踏み込んだ。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "allege",
+      "pronunciation": "/əˈledʒ/",
+      "meaning_ja": "（証拠不十分でも）申し立てる、主張する",
+      "example": "His killer falsely alleged a racist attack.",
+      "example_ja": "殺害者は人種差別的攻撃だと虚偽の申し立てをした。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "spark",
+      "pronunciation": "/spɑːrk/",
+      "meaning_ja": "（感情・議論などを）引き起こす、巻き起こす",
+      "example": "The case has sparked widespread anger.",
+      "example_ja": "この事件は広範な怒りを引き起こした。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "two-tier policing",
+      "pronunciation": "/tuː tɪr pəˈliːsɪŋ/",
+      "meaning_ja": "二階建ての警察制度（人によって扱いが異なるという批判的表現）",
+      "example": "The country has \"two-tier policing\".",
+      "example_ja": "国には「二階建ての警察制度」があるとされる。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "condemn",
+      "pronunciation": "/kənˈdem/",
+      "meaning_ja": "強く非難する、断罪する",
+      "example": "He condemned a violent protest.",
+      "example_ja": "彼は暴力的な抗議を非難した。",
+      "source_sentence_id": "s014"
+    },
+    {
+      "word": "deteriorate",
+      "pronunciation": "/dɪˈtɪriəreɪt/",
+      "meaning_ja": "悪化する、劣化する",
+      "example": "Relations have publicly deteriorated.",
+      "example_ja": "関係は公然と悪化した。",
+      "source_sentence_id": "s017"
+    },
+    {
+      "word": "caricature",
+      "pronunciation": "/ˈkærɪkətʃər/",
+      "meaning_ja": "戯画、誇張された描写",
+      "example": "He did not recognise this caricature of Britain.",
+      "example_ja": "彼は英国に関するこの戯画のような描写を認めなかった。",
+      "source_sentence_id": "s021"
+    },
+    {
+      "word": "stand one's ground",
+      "pronunciation": "/stænd wʌnz ɡraʊnd/",
+      "meaning_ja": "立場を堅持する、退かない",
+      "example": "European elites had stood their ground.",
+      "example_ja": "ヨーロッパのエリート層は立場を堅持していただろうに。",
+      "source_sentence_id": "s007"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-adjunct",
+      "title": "Participial phrases as adjuncts",
+      "rule": "Present participles (-ing) can attach to a main clause to add context, reason, or result (e.g., blaming..., responding..., sparking...).",
+      "example": "Vance waded into a dispute, blaming his death on civilizational decline.",
+      "meaning_ja": "現在分詞を文に付け加えると、主節の動作と同時の状況や結果を簡潔に述べられる。ニュース記事で頻出の構文。"
+    },
+    {
+      "id": "third-conditional",
+      "title": "Third conditional (past unreal)",
+      "rule": "If + past perfect, ... would + have + past participle (or would be + adjective for present result).",
+      "example": "Nowak would be alive today if elites had stood their ground.",
+      "meaning_ja": "過去の事実と異なる仮定と、その結果を表す仮定法。would be alive today と if had stood の組み合わせに注意。"
+    },
+    {
+      "id": "with-complex",
+      "title": "With + object + -ing/-ed",
+      "rule": "With + noun + participle describes an accompanying circumstance or agent.",
+      "example": "The case sparked anger, with Farage and Musk amplifying talking points.",
+      "meaning_ja": "with + 名詞 + 分詞 で「〜が…している状況で」という付帯的な背景を描写する。長いニュース文の要。"
+    },
+    {
+      "id": "accuse-of-gerund",
+      "title": "Accuse + object + of + gerund",
+      "rule": "Use 'accuse someone of doing something' to charge or blame.",
+      "example": "Vance accused European leaders of censoring free speech.",
+      "meaning_ja": "accuse A of B で「A を B の罪で非難する」。of の後は動名詞が続く。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 21,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:59:01+09:00"
+  },
+  "article_id": "japantoday:2026-06-06:jd-vance-blames-uk-student-murder-on-mas"
+}
