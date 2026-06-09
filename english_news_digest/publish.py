@@ -91,6 +91,7 @@ def sync_github_pages() -> None:
     if DOCS.exists():
         shutil.rmtree(DOCS)
     shutil.copytree(DIST, DOCS)
+    (DOCS / ".nojekyll").touch()
 
 
 def _write_compat_redirects(edition: Edition) -> None:
