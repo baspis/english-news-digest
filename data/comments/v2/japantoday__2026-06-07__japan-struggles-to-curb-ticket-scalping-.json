@@ -1,0 +1,119 @@
+{
+  "article_id": "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:07:50+09:00",
+  "fetched_at": "2026-06-09T21:12:05+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "There's a great scene in an early Kurosawa movie made just after the war (can't remember the name offhand, sorry) when a young couple queue up for tickets to a rare concert being given in war ravaged Tokyo. The tickets are all bought up by the local yakuza who the offer them around at huge prices. Ticket scalping isn't new, but now it's done on an industrial scale.",
+      "translation_ja": "戦後まもなく作られた黒澤明の初期の映画に、すばらしいシーンがある（すみません、タイトルは今すぐ思い出せません）。戦争で荒廃した東京で行われる珍しいコンサートのチケットを、若いカップルが並んで買おうとする場面です。チケットは地元のヤクザが全部買い占め、法外な値段で回し始めます。チケット転売は新しいことではありませんが、今は産業規模で行われているのです。",
+      "notes_ja": [
+        "「who the offer」は文法的に誤りで、本来は「who offer」または「who then offer them around」の形。",
+        "「queue up」は英式英語、「on an industrial scale」は「大規模に・産業的な規模で」という慣用表現。"
+      ],
+      "standard_en": "The tickets are all bought up by the local yakuza, who offer them around at huge prices.",
+      "marked_terms": [],
+      "comment_id": 5229282,
+      "author": "Sid",
+      "rating": 4,
+      "posted_at": "2026-06-07T17:28:43+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I hate spivs ripping people off to make easy money and all that. Ticket prices are crazy worldwide these days it gets on my wick. The modern day highway robbers are middleman, corporations that take over certain markets, Amazon, Uber, PayPal, Ticketmaster etc.",
+      "translation_ja": "楽して金を稼ぐために人をだまし取るスピヴ（成りすまし業者）なんて大嫌いだ。世界中でチケット代がとんでもないのも腹が立つ。現代の山賊は仲介業者、つまり特定の市場を支配する企業だ——Amazon、Uber、PayPal、Ticketmasterなど。",
+      "notes_ja": [
+        "「it gets on my wick」はイギリス英語の口語で「イライラする・腹が立つ」という意味。",
+        "「middleman」は複数形なら「middlemen」。「these days it gets on my wick」の間にコンマがなく、文がつながっている（comma splice）。"
+      ],
+      "standard_en": "Ticket prices are crazy worldwide these days, and it gets on my wick. The modern-day highway robbers are middlemen—corporations that take over certain markets: Amazon, Uber, PayPal, Ticketmaster, etc.",
+      "marked_terms": [
+        {
+          "term": "spivs",
+          "symbol": "◇",
+          "note_ja": "イギリス英語のスラング。不正・詐欺まがいの商売をする男を指す。カジュアルな表現。"
+        },
+        {
+          "term": "gets on my wick",
+          "symbol": "◇",
+          "note_ja": "イギリス口語の慣用句。「腹が立つ・うんざりする」。フォーマルな場では使わない。"
+        }
+      ],
+      "comment_id": 5229270,
+      "author": "falseflagsteve",
+      "rating": 3,
+      "posted_at": "2026-06-07T17:17:36+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "To JT poster Sid:** ** \"There's a great scene in an early Kurosawa movie made just after the war (can't remember the name offhand, sorry)\" Is the film that you are thinking of ' One Wonderful Sunday ' ( Subarashiki Nichiyobi ), directed by Akira Kurosawa, in 1947...?",
+      "translation_ja": "JT投稿者のSidへ：** **「戦後まもなく作られた黒澤明の初期の映画にすばらしいシーンがある（すみません、タイトルは今すぐ思い出せません）」——お考えの作品は、黒澤明監督の『素晴らしき日曜日』（Subarashiki Nichiyobi）、1947年の作品でしょうか……？",
+      "notes_ja": [
+        "掲示板での返信形式。「** **」は投稿サイトの書式（太字マークアップ）の名残と思われる。",
+        "「Is the film that you are thinking of...?」は丁寧だがやや堅い書き言葉。口語なら「Are you thinking of...?」が自然。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5229353,
+      "author": "3RENSHO",
+      "rating": 3,
+      "posted_at": "2026-06-07T19:00:27+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "\"I didn't want my favorite idols' concerts to have empty seats,\" she said. In the voice of Yoda \"The BS is strong with her, it is!",
+      "translation_ja": "「推しのアイドルのコンサートに空席を作りたくなかった」と彼女は言った。ヨーダ風に言えば——「彼女にはウソが強く宿っている、そうだ！」",
+      "notes_ja": [
+        "「The BS is strong with her」はスター・ウォーズのヨーダの台詞「The force is strong with this one」のパロディ。皮肉・嘲笑のトーン。",
+        "「BS」はbullshit（でたらめ・ウソ）の略。口語・俗語。"
+      ],
+      "standard_en": "In the voice of Yoda: \"The nonsense is strong with her, it is!\"",
+      "marked_terms": [
+        {
+          "term": "BS",
+          "symbol": "※",
+          "note_ja": "bullshit（でたらめ・ウソ）の俗語略語。丁寧な場やフォーマルな文章では使わない。"
+        }
+      ],
+      "comment_id": 5229427,
+      "author": "Abe234",
+      "rating": 2,
+      "posted_at": "2026-06-07T22:31:50+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "I hate 'spivs' ripping people off, too! False Flag Steve, you tell them! Would much rather stay home to watch on the telly anyway...",
+      "translation_ja": "私も『スピヴ』が人をだまし取るのは大嫌い！False Flag Steve、よく言ってくれた！どうせ家でテレビを見ていた方がずっとマシ……",
+      "notes_ja": [
+        "「you tell them!」はイギリス口語で「その通り！よく言った！」という応援・同意の表現。",
+        "「Would much rather」の主語「I」が省略された断片文。「telly」はイギリス英語でテレビの俗称。"
+      ],
+      "standard_en": "I would much rather stay home to watch on the telly anyway...",
+      "marked_terms": [
+        {
+          "term": "spivs",
+          "symbol": "◇",
+          "note_ja": "イギリス英語のスラング。不正・詐欺まがいの商売をする男を指す。"
+        },
+        {
+          "term": "you tell them",
+          "symbol": "◇",
+          "note_ja": "イギリス口語の同意表現。「よく言った！」のニュアンス。カジュアル。"
+        },
+        {
+          "term": "telly",
+          "symbol": "◇",
+          "note_ja": "イギリス英語の俗称でテレビのこと。フォーマルな場では使わない。"
+        }
+      ],
+      "comment_id": 5229344,
+      "author": "3RENSHO",
+      "rating": 1,
+      "posted_at": "2026-06-07T18:56:28+09:00"
+    }
+  ]
+}

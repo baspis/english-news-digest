@@ -1,0 +1,839 @@
+{
+  "summary_ja": "日本では2019年にチケット転売を規制する法律が施行されたものの、コンサートやスポーツのチケットが定価の数倍でオンライン取引される状況は続いています。転売を繰り返した20代女性の体験談や主催者側の訴訟、公式リセールサービスの導入などが紹介され、対策コストがファンに転嫁される恐れも示されています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Lawsuits, settlement payments and official resale platforms have done little to halt Japan's booming ticket scalping market, where sought-after concert and sporting event tickets are still routinely sold online at many times their original value.",
+      "translation_ja": "訴訟、和解金の支払い、公式の再販プラットフォームといった対策でも、日本の急成長するチケット転売市場を止めるにはほとんど役立っていない。人気のコンサートやスポーツイベントのチケットは、今も定価の何倍もの値段でオンライン上で日常的に売られ続けている。",
+      "grammar_ja": "have done little to + 動詞原形は「～するのにほとんど役立たない」。where は場所ではなく「その状況では」という関係副詞。at many times their original value は「定価の何倍もの値段で」というニュース記事でよく使われる表現。",
+      "chunks": [
+        {
+          "text": "Lawsuits, settlement payments and official resale platforms",
+          "role_ja": "主語",
+          "literal_ja": "訴訟、和解金、公式再販プラットフォーム",
+          "note_ja": "3つの名詞句を and で並列。記事冒頭で対策の具体例を列挙する典型構文"
+        },
+        {
+          "text": "have done little to halt",
+          "role_ja": "述語",
+          "literal_ja": "止めるのにほとんど役立たなかった",
+          "note_ja": "do little to は「ほとんど～できない／役立たない」。halt は stop より硬い語"
+        },
+        {
+          "text": "Japan's booming ticket scalping market",
+          "role_ja": "目的語",
+          "literal_ja": "日本の急成長しているチケット転売市場",
+          "note_ja": "booming は「急拡大している」。scalping は転売・ダフ屋行為"
+        },
+        {
+          "text": "where sought-after concert and sporting event tickets",
+          "role_ja": "関係副詞節の主語",
+          "literal_ja": "そこでは求められているコンサート・スポーツのチケットが",
+          "note_ja": "sought-after は「人気の／入手困難な」。where = in which"
+        },
+        {
+          "text": "are still routinely sold online",
+          "role_ja": "関係副詞節の述語",
+          "literal_ja": "今も日常的にオンラインで売られている",
+          "note_ja": "routinely は「日常的に・当たり前のように」。受動態"
+        },
+        {
+          "text": "at many times their original value",
+          "role_ja": "修飾語",
+          "literal_ja": "定価の何倍もの値段で",
+          "note_ja": "many times は倍数を表す。original value = 定価・本来の価格"
+        }
+      ],
+      "deep_dive_ja": "ニュース記事では、問題提起の第1文で複数の対策を並べたうえで「それでも足りない」と対比する書き出しがよく使われます。halt は交通や市場の停止を表す硬い語で、stop よりフォーマルです。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The continued spread of high-priced resales has raised concerns among organizers, who warn that the growing cost of combating the practice could eventually be passed on to fans.",
+      "translation_ja": "高額転売の拡大が続いていることで、主催者の間に不安が広がっている。彼らは、この問題への対策費用がいずれファンに転嫁される可能性があると警告している。",
+      "grammar_ja": "raise concerns among は「～の間に懸念を抱かせる」。who は organizers を説明する関係代名詞。be passed on to は「～に転嫁される」。could eventually は「いずれ～かもしれない」という将来の可能性。",
+      "chunks": [
+        {
+          "text": "The continued spread of high-priced resales",
+          "role_ja": "主語",
+          "literal_ja": "高額転売の継続的な拡大",
+          "note_ja": "continued spread は「拡大が続くこと」。high-priced は複合形容詞"
+        },
+        {
+          "text": "has raised concerns among organizers",
+          "role_ja": "述語",
+          "literal_ja": "主催者の間に懸念を抱かせた",
+          "note_ja": "raise concerns はニュースで頻出。among = ～の間で"
+        },
+        {
+          "text": "who warn that ...",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "～と警告する彼らは",
+          "note_ja": "非制限用法の who。主語 organizers に追加情報"
+        },
+        {
+          "text": "the growing cost of combating the practice",
+          "role_ja": "warn の内容（主語）",
+          "literal_ja": "その行為への対策の増大する費用",
+          "note_ja": "combating the practice = 転売対策。growing cost は増加するコスト"
+        },
+        {
+          "text": "could eventually be passed on to fans",
+          "role_ja": "warn の内容（述語）",
+          "literal_ja": "最終的にファンに転嫁されるかもしれない",
+          "note_ja": "pass on costs/prices = コスト・価格を転嫁する"
+        }
+      ],
+      "deep_dive_ja": "organizers はイベント主催者全般を指します。the practice は前文の転売行為を受けて「その慣行」と指す代名詞的用法です。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "\"I believed it was a legitimate place to trade tickets,\" a woman in her 20s who resold around 90 tickets for concerts by male idol groups told Kyodo News.",
+      "translation_ja": "「チケットを売買する正当な場所だと思っていた」と、男性アイドルグループのコンサート券を約90枚転売した20代の女性が共同通信に語った。",
+      "grammar_ja": "直接話法の引用＋報道文の語順（主語・動詞が文末）。a woman in her 20s who ... は関係代名詞で女性を修飾。legitimate place to trade は「正当な取引の場」。",
+      "chunks": [
+        {
+          "text": "\"I believed it was a legitimate place to trade tickets,\"",
+          "role_ja": "直接話法",
+          "literal_ja": "「チケットを売買する正当な場所だと思っていた」",
+          "note_ja": "believed + that節（that 省略）。legitimate = 合法的・正当な"
+        },
+        {
+          "text": "a woman in her 20s",
+          "role_ja": "主語",
+          "literal_ja": "20代の女性",
+          "note_ja": "in her 20s = 20代。in one's 20s/30s は年齢表現"
+        },
+        {
+          "text": "who resold around 90 tickets for concerts by male idol groups",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "男性アイドルグループのコンサート券を約90枚転売した",
+          "note_ja": "resold は resale の過去形。around = およそ"
+        },
+        {
+          "text": "told Kyodo News",
+          "role_ja": "述語",
+          "literal_ja": "共同通信に語った",
+          "note_ja": "報道文では引用の後に話者・媒体が続く"
+        }
+      ],
+      "deep_dive_ja": "英語のニュース引用は日本語と語順が逆で、「」のあとに話者が来ます。male idol groups は日本の「男性アイドルグループ」をそのまま英訳した表現です。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "A few years ago, she bought hard-to-get tickets through a resale website.",
+      "translation_ja": "数年前、彼女は再販サイトを通じて入手困難なチケットを購入した。",
+      "grammar_ja": "A few years ago で過去の時点。hard-to-get はハイフンでつながった複合形容詞「入手困難な」。through a resale website は手段を表す前置詞句。",
+      "chunks": [
+        {
+          "text": "A few years ago",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "数年前",
+          "note_ja": "a few = いくつかの・数～。ago は過去"
+        },
+        {
+          "text": "she bought hard-to-get tickets",
+          "role_ja": "主述",
+          "literal_ja": "彼女は入手困難なチケットを買った",
+          "note_ja": "hard-to-get = difficult to obtain"
+        },
+        {
+          "text": "through a resale website",
+          "role_ja": "手段の修飾語",
+          "literal_ja": "再販サイトを通じて",
+          "note_ja": "through = ～を経由して"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "At first, she was only purchasing tickets for personal use, but after listing one for sale when she was suddenly unable to attend a concert, she gradually began reselling more on a regular basis.",
+      "translation_ja": "当初は自分用にチケットを買うだけだったが、急にコンサートに行けなくなったときに1枚を出品したのをきっかけに、次第に定期的に転売するようになった。",
+      "grammar_ja": "At first ... but ... の対比。was only purchasing は過去進行形で当時の習慣。after listing は動名詞。when she was unable to attend は時を表す副詞節。gradually began reselling は begin + 動名詞。on a regular basis は「定期的に」。",
+      "chunks": [
+        {
+          "text": "At first, she was only purchasing tickets for personal use",
+          "role_ja": "前半節",
+          "literal_ja": "最初は、彼女は個人利用のためだけにチケットを購入していた",
+          "note_ja": "for personal use = 自分用に。only で限定"
+        },
+        {
+          "text": "but after listing one for sale",
+          "role_ja": "接続＋時",
+          "literal_ja": "しかし1枚を売りに出した後",
+          "note_ja": "list for sale = 出品する"
+        },
+        {
+          "text": "when she was suddenly unable to attend a concert",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "急にコンサートに行けなくなったとき",
+          "note_ja": "be unable to = ～できない。attend a concert = コンサートに参加する"
+        },
+        {
+          "text": "she gradually began reselling more",
+          "role_ja": "後半節の主述",
+          "literal_ja": "彼女は次第にもっと転売し始めた",
+          "note_ja": "gradually = 徐々に。began + -ing"
+        },
+        {
+          "text": "on a regular basis",
+          "role_ja": "修飾語",
+          "literal_ja": "定期的に",
+          "note_ja": "regular basis は「定期的な基準・習慣」を意味するコロケーション"
+        }
+      ],
+      "deep_dive_ja": "unable to attend は「参加できない」の丁寧な言い方で、ニュースや公式文書でよく使われます。list a ticket for sale は「チケットを出品する」という取引サイトの語彙です。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Using prices posted by other sellers as a guide, she sometimes sold tickets for as much as 10 times their original value.",
+      "translation_ja": "他の出品者が掲げた価格を参考にして、彼女は時にはチケットを定価の最大10倍の値段で売った。",
+      "grammar_ja": "Using ... as a guide は分詞構文で理由・手段。「posted by other sellers」は過去分詞の関係節。as much as は「最大～」。for 10 times their original value は価格の倍数表現。",
+      "chunks": [
+        {
+          "text": "Using prices posted by other sellers as a guide",
+          "role_ja": "分詞構文（修飾）",
+          "literal_ja": "他の売り手が掲げた価格を目安として使い",
+          "note_ja": "post prices = 価格を掲載する。as a guide = 参考として"
+        },
+        {
+          "text": "she sometimes sold tickets",
+          "role_ja": "主述",
+          "literal_ja": "彼女は時々チケットを売った",
+          "note_ja": "sometimes = ときどき"
+        },
+        {
+          "text": "for as much as 10 times their original value",
+          "role_ja": "修飾語（価格）",
+          "literal_ja": "定価の10倍もの値段で",
+          "note_ja": "as much as は上限・強調。「最大～」のニュアンス"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The profits were then used to buy tickets through lotteries for future concerts, which she would again resell if she could not attend.",
+      "translation_ja": "得た利益は、将来のコンサートの抽選でチケットを買うために使われ、行けなければまた転売していた。",
+      "grammar_ja": "受動態 were used to buy。through lotteries は抽選制度経由。which she would again resell は非制限用法の関係代名詞。would は当時の習慣的な行動。if she could not attend は条件節。",
+      "chunks": [
+        {
+          "text": "The profits were then used to buy tickets",
+          "role_ja": "主述",
+          "literal_ja": "利益はその後チケットを買うために使われた",
+          "note_ja": "be used to + 動詞原形"
+        },
+        {
+          "text": "through lotteries for future concerts",
+          "role_ja": "手段・目的",
+          "literal_ja": "将来のコンサートの抽選を通じて",
+          "note_ja": "日本のチケット抽選制度を lotteries と表現"
+        },
+        {
+          "text": "which she would again resell",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それを彼女はまた転売していた",
+          "note_ja": "would = 当時の習慣"
+        },
+        {
+          "text": "if she could not attend",
+          "role_ja": "条件節",
+          "literal_ja": "もし参加できなければ",
+          "note_ja": "could not attend = 行けなかった場合"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"I didn't want my favorite idols' concerts to have empty seats,\" she said.",
+      "translation_ja": "「好きなアイドルのコンサートに空席を作りたくなかった」と彼女は言った。",
+      "grammar_ja": "want + 目的語 + to不定詞。idols' は複数所有格。empty seats は「空席」。直接話法の短い引用。",
+      "chunks": [
+        {
+          "text": "I didn't want my favorite idols' concerts",
+          "role_ja": "want の目的語",
+          "literal_ja": "私は好きなアイドルのコンサートが",
+          "note_ja": "favorite idols' = お気に入りのアイドルたちの"
+        },
+        {
+          "text": "to have empty seats",
+          "role_ja": "to不定詞（補語）",
+          "literal_ja": "空席を持つこと",
+          "note_ja": "want A to do B の構文"
+        },
+        {
+          "text": "she said",
+          "role_ja": "述語",
+          "literal_ja": "彼女は言った",
+          "note_ja": "短い引用の締め"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Last year, however, organizers contacted her by email over her repeated reselling.",
+      "translation_ja": "しかし昨年、主催者は彼女の繰り返しの転売をめぐってメールで連絡してきた。",
+      "grammar_ja": "however は文頭または文中で逆接。contacted ... by email は連絡手段。over her repeated reselling は「～に関して」という意味の over。repeated は形容詞で「繰り返しの」。",
+      "chunks": [
+        {
+          "text": "Last year, however",
+          "role_ja": "時・接続",
+          "literal_ja": "しかし昨年",
+          "note_ja": "however は「しかし」"
+        },
+        {
+          "text": "organizers contacted her by email",
+          "role_ja": "主述",
+          "literal_ja": "主催者は彼女にメールで連絡した",
+          "note_ja": "contact by email"
+        },
+        {
+          "text": "over her repeated reselling",
+          "role_ja": "修飾語（理由・話題）",
+          "literal_ja": "彼女の繰り返しの転売について",
+          "note_ja": "over = concerning / regarding"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "After negotiations, she agreed to pay several million yen in settlement money.",
+      "translation_ja": "交渉の結果、彼女は和解金として数百万円を支払うことに同意した。",
+      "grammar_ja": "After negotiations は時を表す前置詞句。agree to pay は agree to + 動詞原形。several million yen は金額。in settlement money は「和解金として」。",
+      "chunks": [
+        {
+          "text": "After negotiations",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "交渉の後",
+          "note_ja": "negotiations = 交渉"
+        },
+        {
+          "text": "she agreed to pay several million yen",
+          "role_ja": "主述",
+          "literal_ja": "彼女は数百万円を支払うことに同意した",
+          "note_ja": "agree to + 動詞原形"
+        },
+        {
+          "text": "in settlement money",
+          "role_ja": "修飾語",
+          "literal_ja": "和解金として",
+          "note_ja": "settlement money = 示談・和解の金銭"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"I only realized it was against the law after it became a serious problem,\" she said, lowering her head.",
+      "translation_ja": "「深刻な問題になって初めて、それが法律違反だと気づいた」と、彼女はうつむきながら語った。",
+      "grammar_ja": "only realized は「～して初めて気づいた」という語順（only が realized にかかる）。against the law は「法律に反する」。after it became ... は時の副詞節。lowering her head は分詞構文で付帯状況。",
+      "chunks": [
+        {
+          "text": "I only realized it was against the law",
+          "role_ja": "直接話法",
+          "literal_ja": "私はそれが法律違反だとだけ気づいた",
+          "note_ja": "only は realized の直前で「～して初めて」"
+        },
+        {
+          "text": "after it became a serious problem",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "それが深刻な問題になった後",
+          "note_ja": "become a problem = 問題になる"
+        },
+        {
+          "text": "lowering her head",
+          "role_ja": "分詞構文",
+          "literal_ja": "頭を下げながら",
+          "note_ja": "同時動作・様子を描写する報道表現"
+        }
+      ],
+      "deep_dive_ja": "only の位置に注意。I only realized は「気づいたのは～だけだった」ではなく、文脈上「（問題になって）初めて気づいた」です。against the law は illegal より説明的な表現です。",
+      "difficulty": "medium",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "Japan enforced a law prohibiting the illegal resale of admission tickets in 2019, banning the repeated resale of tickets above face value without the consent of organizers.",
+      "translation_ja": "日本は2019年、入場券の違法な転売を禁止する法律を施行し、主催者の同意なく定価を超えてチケットを繰り返し転売することを禁じた。",
+      "grammar_ja": "enforced a law prohibiting ... は「～を禁止する法律を施行した」。prohibiting と banning は現在分詞で law を説明。above face value は「定価以上で」。without the consent of は「～の同意なしに」。",
+      "chunks": [
+        {
+          "text": "Japan enforced a law prohibiting the illegal resale of admission tickets",
+          "role_ja": "主述",
+          "literal_ja": "日本は入場券の違法転売を禁止する法律を施行した",
+          "note_ja": "enforce a law = 法律を施行する。admission tickets = 入場券"
+        },
+        {
+          "text": "in 2019",
+          "role_ja": "時の修飾語",
+          "literal_ja": "2019年に",
+          "note_ja": "年を示す"
+        },
+        {
+          "text": "banning the repeated resale of tickets above face value",
+          "role_ja": "分詞構文（追加説明）",
+          "literal_ja": "定価以上での繰り返し転売を禁じる",
+          "note_ja": "face value = 定価・額面価格"
+        },
+        {
+          "text": "without the consent of organizers",
+          "role_ja": "条件の修飾語",
+          "literal_ja": "主催者の同意なしに",
+          "note_ja": "consent = 同意"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But despite the legislation, the number of cases detected remains limited to around a dozen each year, while tickets for concerts and sporting events continue to be traded online at steep markups.",
+      "translation_ja": "しかし法律があっても、摘発件数は年間おおよそ十数件にとどまっている一方で、コンサートやスポーツのチケットは依然としてオンライン上で大幅な値上げをつけて取引され続けている。",
+      "grammar_ja": "despite + 名詞 は「～にもかかわらず」。remains limited to は「～にとどまる」。while は対比「一方で」。continue to be traded は受動態の継続。at steep markups は「大幅な値上げで」。",
+      "chunks": [
+        {
+          "text": "But despite the legislation",
+          "role_ja": "接続・譲歩",
+          "literal_ja": "しかし法律にもかかわらず",
+          "note_ja": "legislation = 立法・法律"
+        },
+        {
+          "text": "the number of cases detected remains limited to around a dozen each year",
+          "role_ja": "主節",
+          "literal_ja": "摘発された件数は毎年約12件にとどまっている",
+          "note_ja": "a dozen = 12。a dozen each year"
+        },
+        {
+          "text": "while tickets for concerts and sporting events",
+          "role_ja": "対比節の主語",
+          "literal_ja": "一方でコンサート・スポーツのチケットは",
+          "note_ja": "while = 対比の接続詞"
+        },
+        {
+          "text": "continue to be traded online at steep markups",
+          "role_ja": "対比節の述語",
+          "literal_ja": "大幅な値上げでオンライン取引され続けている",
+          "note_ja": "steep markups = 急な値上げ・高い上乗せ"
+        }
+      ],
+      "deep_dive_ja": "despite the fact that より despite the legislation のほうが簡潔で硬いです。steep は坂の「急な」から転じて、価格の「大幅な」上昇を表します。",
+      "difficulty": "hard",
+      "sentence_id": "s013"
+    },
+    {
+      "text": "Industry officials say the persistence of the problem has forced organizers to invest heavily in countermeasures aimed at protecting fans and ensuring tickets are distributed fairly.",
+      "translation_ja": "業界関係者は、問題が長引いていることで主催者はファンを守り、チケットを公正に分配するための対策に多額の投資を余儀なくされていると述べている。",
+      "grammar_ja": "the persistence of the problem は「問題の長期化」。has forced A to B は「AにBさせた」。invest heavily in は「～に多額投資する」。aimed at + 動名詞 は「～を目的とした」。ensuring + that節（that省略）。",
+      "chunks": [
+        {
+          "text": "Industry officials say",
+          "role_ja": "主述",
+          "literal_ja": "業界関係者は言う",
+          "note_ja": "say + that節"
+        },
+        {
+          "text": "the persistence of the problem has forced organizers to invest heavily",
+          "role_ja": "that節の内容",
+          "literal_ja": "問題の持続が主催者に多額投資を強いた",
+          "note_ja": "force to = ～せざるを得なくする"
+        },
+        {
+          "text": "in countermeasures",
+          "role_ja": "修飾語",
+          "literal_ja": "対策に",
+          "note_ja": "countermeasures = 対抗策"
+        },
+        {
+          "text": "aimed at protecting fans and ensuring tickets are distributed fairly",
+          "role_ja": "過去分詞の修飾語",
+          "literal_ja": "ファン保護と公正分配を目的とした",
+          "note_ja": "be distributed fairly = 公平に配分される"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Many organizers now encourage the use of authorized resale services, allowing ticket holders who can no longer attend an event to transfer tickets at face value.",
+      "translation_ja": "多くの主催者は今、公認の再販サービスの利用を促しており、もう参加できないチケット保有者が定価でチケットを譲渡できるようにしている。",
+      "grammar_ja": "encourage the use of は「～の利用を促す」。allowing ... は分詞構文で結果・付帯状況。who can no longer attend は関係代名詞節。no longer は「もはや～ない」。transfer tickets at face value は「定価で譲渡する」。",
+      "chunks": [
+        {
+          "text": "Many organizers now encourage the use of authorized resale services",
+          "role_ja": "主述",
+          "literal_ja": "多くの主催者は公認再販サービスの利用を促している",
+          "note_ja": "authorized = 公認の・公式の"
+        },
+        {
+          "text": "allowing ticket holders",
+          "role_ja": "分詞構文",
+          "literal_ja": "チケット保有者が～できるようにして",
+          "note_ja": "allow A to B の分詞形"
+        },
+        {
+          "text": "who can no longer attend an event",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "もはやイベントに参加できない",
+          "note_ja": "no longer = もはや～ない"
+        },
+        {
+          "text": "to transfer tickets at face value",
+          "role_ja": "不定詞",
+          "literal_ja": "定価でチケットを譲渡する",
+          "note_ja": "transfer = 譲渡する・移す"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The systems are intended to discourage scalping while preventing seats from going empty.",
+      "translation_ja": "その仕組みは、転売を抑えつつ空席を防ぐことを目的としている。",
+      "grammar_ja": "be intended to は「～することを意図している」。discourage scalping は「転売を思わしくないようにする」。while preventing は「～しながら／～する一方で」。prevent A from doing B の構文。",
+      "chunks": [
+        {
+          "text": "The systems are intended to discourage scalping",
+          "role_ja": "主述",
+          "literal_ja": "その制度は転売を抑止することを意図している",
+          "note_ja": "be intended to = ～を目的とする"
+        },
+        {
+          "text": "while preventing seats from going empty",
+          "role_ja": "副詞節",
+          "literal_ja": "席が空になるのを防ぎながら",
+          "note_ja": "prevent from -ing。go empty = 空になる"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Unlike unofficial resale websites, however, authorized services generally charge fees to both sellers and buyers, often leaving users out of pocket.",
+      "translation_ja": "しかし非公式の再販サイトとは異なり、公認サービスは一般に売り手と買い手の双方から手数料を取るため、利用者が自己負担で損をすることが多い。",
+      "grammar_ja": "Unlike ... は対比の前置詞句。charge fees to は「～に手数料を請求する」。both A and B。leaving users out of pocket は分詞構文で結果。「実質的に損をする」というイディオム。",
+      "chunks": [
+        {
+          "text": "Unlike unofficial resale websites, however",
+          "role_ja": "対比",
+          "literal_ja": "しかし非公式サイトとは違って",
+          "note_ja": "Unlike + 名詞"
+        },
+        {
+          "text": "authorized services generally charge fees to both sellers and buyers",
+          "role_ja": "主述",
+          "literal_ja": "公認サービスは通常双方に手数料を請求する",
+          "note_ja": "charge fees to = 手数料を取る"
+        },
+        {
+          "text": "often leaving users out of pocket",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "利用者を実質損させることが多い",
+          "note_ja": "out of pocket = 自己負担で損する（イディオム）"
+        }
+      ],
+      "deep_dive_ja": "out of pocket は「ポケットから出す＝自己負担で損する」というビジネス英語の慣用表現です。unofficial と authorized の対比が記事の論点です。",
+      "difficulty": "medium",
+      "sentence_id": "s017"
+    },
+    {
+      "text": "Even Starto Entertainment Inc., the talent agency that launched an official resale service in June last year, continues to see tickets for performances by its affiliated acts traded at inflated prices on resale websites.",
+      "translation_ja": "昨年6月に公式再販サービスを立ち上げた芸能事務所のスタートエンタテインメントでさえも、所属アーティストの公演チケットが再販サイトでつり上げられた価格で取引されるのを今も見ている。",
+      "grammar_ja": "Even は譲歩「～でさえも」。the talent agency that ... は同格の名詞句。continues to see + 目的語 + 過去分詞（see の使役的用法「～されるのを見る」）。affiliated acts は「所属タレント」。at inflated prices は「つり上げられた価格で」。",
+      "chunks": [
+        {
+          "text": "Even Starto Entertainment Inc.",
+          "role_ja": "主語",
+          "literal_ja": "スタートエンタテインメントでさえも",
+          "note_ja": "Even で強調"
+        },
+        {
+          "text": "the talent agency that launched an official resale service in June last year",
+          "role_ja": "同格の名詞句",
+          "literal_ja": "昨年6月に公式再販を開始した芸能事務所",
+          "note_ja": "同格で固有名詞を説明"
+        },
+        {
+          "text": "continues to see tickets ... traded at inflated prices",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "チケットがつり上げ価格で取引されるのを見続けている",
+          "note_ja": "see + O + 過去分詞"
+        },
+        {
+          "text": "for performances by its affiliated acts",
+          "role_ja": "修飾語",
+          "literal_ja": "所属アーティストの公演の",
+          "note_ja": "affiliated = 提携・所属の"
+        },
+        {
+          "text": "on resale websites",
+          "role_ja": "修飾語（場所）",
+          "literal_ja": "再販サイトで",
+          "note_ja": "取引の場所"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In March, a company organizing concerts for Starto Entertainment filed a lawsuit with the Tokyo District Court against a ticket resale website, seeking the return of profits allegedly earned through unauthorized sales.",
+      "translation_ja": "3月、スタートエンタテインメントのコンサートを主催する会社が、チケット再販サイトを相手取って東京地方裁判所に訴訟を起こし、無許可販売で得たとされる利益の返還を求めた。",
+      "grammar_ja": "organizing concerts は現在分詞で company を修飾。filed a lawsuit with ... against ... は「～に対し～を相手に訴訟を起こす」。seeking ... は分詞構文で目的。allegedly earned は「～したとされる」という報道表現。",
+      "chunks": [
+        {
+          "text": "a company organizing concerts for Starto Entertainment",
+          "role_ja": "主語",
+          "literal_ja": "スタートエンタのコンサートを主催する会社",
+          "note_ja": "organizing = 主催している"
+        },
+        {
+          "text": "filed a lawsuit with the Tokyo District Court against a ticket resale website",
+          "role_ja": "述語",
+          "literal_ja": "東京地裁に再販サイトを相手に訴訟を起こした",
+          "note_ja": "file a lawsuit with A against B"
+        },
+        {
+          "text": "seeking the return of profits",
+          "role_ja": "分詞構文（目的）",
+          "literal_ja": "利益の返還を求めて",
+          "note_ja": "seek = 求める"
+        },
+        {
+          "text": "allegedly earned through unauthorized sales",
+          "role_ja": "過去分詞の修飾語",
+          "literal_ja": "無許可販売で得たとされる",
+          "note_ja": "allegedly = ～したとされる（事実未確定）"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Our attempts to maintain affordable prices so that more fans can attend concerts are being openly undermined,\" a representative said.",
+      "translation_ja": "「より多くのファンがコンサートに来られるよう手頃な価格を維持しようとする私たちの努力が、公然と損なわれている」と担当者は述べた。",
+      "grammar_ja": "attempts to maintain ... so that ... は「～しようとする試み」。so that は目的「～できるように」。are being openly undermined は現在進行の受動態「公然と損なわれている」。",
+      "chunks": [
+        {
+          "text": "Our attempts to maintain affordable prices",
+          "role_ja": "主語",
+          "literal_ja": "手頃な価格を維持しようとする私たちの努力",
+          "note_ja": "attempt to = ～しようとする試み"
+        },
+        {
+          "text": "so that more fans can attend concerts",
+          "role_ja": "目的節",
+          "literal_ja": "より多くのファンが参加できるように",
+          "note_ja": "so that = 目的"
+        },
+        {
+          "text": "are being openly undermined",
+          "role_ja": "述語",
+          "literal_ja": "公然と損なわれている",
+          "note_ja": "undermine = 弱める・損なう"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Attorney Hiroyuki Nakajima, who represents the plaintiffs, warned that official resale systems require substantial operating costs, for things such as monitoring transactions and maintaining secure platforms.",
+      "translation_ja": "原告側を代理する中島宏幸弁護士は、公式再販システムには取引の監視や安全なプラットフォームの維持など、多大な運営コストが必要だと警告した。",
+      "grammar_ja": "who represents the plaintiffs は関係代名詞節。warned that ...。require substantial operating costs は「多大な運営費が必要」。for things such as は「～のようなことのために」。such as の後は動名詞並列。",
+      "chunks": [
+        {
+          "text": "Attorney Hiroyuki Nakajima, who represents the plaintiffs",
+          "role_ja": "主語",
+          "literal_ja": "原告を代理する中島弁護士",
+          "note_ja": "plaintiffs = 原告"
+        },
+        {
+          "text": "warned that official resale systems require substantial operating costs",
+          "role_ja": "述語＋that節",
+          "literal_ja": "公式再販には多大な運営費が必要だと警告した",
+          "note_ja": "substantial = かなりの・多大な"
+        },
+        {
+          "text": "for things such as monitoring transactions and maintaining secure platforms",
+          "role_ja": "修飾語（理由・内訳）",
+          "literal_ja": "取引監視や安全な基盤維持などのために",
+          "note_ja": "such as + 動名詞"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"If illegal resales continue unchecked, organizers may have no choice but to pass those costs on to ticket prices,\" Nakajima said.",
+      "translation_ja": "「違法転売が放置されたまま続けば、主催者はそのコストをチケット価格に転嫁する以外に選択肢がなくなるかもしれない」と中島氏は言った。",
+      "grammar_ja": "If 条件節 + 主節。continue unchecked は「放置されたまま続く」。may have no choice but to は「～するしかないかもしれない」という定型表現。pass those costs on to は「コストを～に転嫁する」。",
+      "chunks": [
+        {
+          "text": "If illegal resales continue unchecked",
+          "role_ja": "条件節",
+          "literal_ja": "もし違法転売が放置されたまま続けば",
+          "note_ja": "unchecked = 抑制されずに"
+        },
+        {
+          "text": "organizers may have no choice but to pass those costs on to ticket prices",
+          "role_ja": "主節",
+          "literal_ja": "主催者はその費用をチケット価格に転嫁する以外に選択肢がないかもしれない",
+          "note_ja": "have no choice but to = ～するしかない"
+        }
+      ],
+      "deep_dive_ja": "have no choice but to は B2 で押さえたい重要表現です。pass on は「渡す」から「（コストを）転嫁する」へ意味が広がった句動詞です。",
+      "difficulty": "medium",
+      "sentence_id": "s022"
+    },
+    {
+      "text": "\"Ultimately, it will be the fans who follow the rules who suffer the consequences.\"",
+      "translation_ja": "「最終的に被害を受けるのは、ルールを守るファンたちだ。」",
+      "grammar_ja": "it will be A who ... の強調構文。cleft sentence（分裂文）で主語 fans を強調。who follow the rules は fans を修飾。who suffer the consequences も fans を修飾（関係代名詞が重なる構造）。",
+      "chunks": [
+        {
+          "text": "Ultimately",
+          "role_ja": "副詞",
+          "literal_ja": "最終的には",
+          "note_ja": "結論を示す"
+        },
+        {
+          "text": "it will be the fans who follow the rules",
+          "role_ja": "強調構文の主部",
+          "literal_ja": "ルールを守るファンこそが～になる",
+          "note_ja": "It is A who B = A が B する"
+        },
+        {
+          "text": "who suffer the consequences",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "結果に苦しむ",
+          "note_ja": "suffer the consequences = 被害を受ける"
+        }
+      ],
+      "deep_dive_ja": "関係代名詞が二重になる高度な強調構文です。日本語では「ルールを守るファンが最終的に被害を受ける」と自然に訳します。",
+      "difficulty": "hard",
+      "sentence_id": "s023"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "scalping",
+      "pronunciation": "/ˈskælpɪŋ/",
+      "meaning_ja": "（チケットなどの）転売、ダフ屋行為",
+      "example": "Japan's booming ticket scalping market",
+      "example_ja": "日本の急成長するチケット転売市場",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "face value",
+      "pronunciation": "/feɪs ˈvæljuː/",
+      "meaning_ja": "定価、額面価格",
+      "example": "transfer tickets at face value",
+      "example_ja": "定価でチケットを譲渡する",
+      "source_sentence_id": "s015"
+    },
+    {
+      "word": "settlement money",
+      "pronunciation": "/ˈsetlmənt ˈmʌni/",
+      "meaning_ja": "和解金、示談金",
+      "example": "she agreed to pay several million yen in settlement money",
+      "example_ja": "彼女は和解金として数百万円を支払うことに同意した",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "markup",
+      "pronunciation": "/ˈmɑːrkʌp/",
+      "meaning_ja": "値上げ、上乗せ価格",
+      "example": "traded online at steep markups",
+      "example_ja": "オンラインで大幅な値上げをつけて取引される",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "countermeasure",
+      "pronunciation": "/ˈkaʊntərˌmeʒər/",
+      "meaning_ja": "対策、対抗策",
+      "example": "invest heavily in countermeasures",
+      "example_ja": "対策に多額の投資をする",
+      "source_sentence_id": "s014"
+    },
+    {
+      "word": "out of pocket",
+      "pronunciation": "/aʊt əv ˈpɒkɪt/",
+      "meaning_ja": "自己負担で損をする、実費で出費する",
+      "example": "often leaving users out of pocket",
+      "example_ja": "利用者が自己負担で損をすることが多い",
+      "source_sentence_id": "s017"
+    },
+    {
+      "word": "allegedly",
+      "pronunciation": "/əˈledʒidli/",
+      "meaning_ja": "～したとされる、と言われる（事実未確定）",
+      "example": "profits allegedly earned through unauthorized sales",
+      "example_ja": "無許可販売で得たとされる利益",
+      "source_sentence_id": "s019"
+    },
+    {
+      "word": "undermine",
+      "pronunciation": "/ˌʌndərˈmaɪn/",
+      "meaning_ja": "損なう、弱める、台無しにする",
+      "example": "Our attempts are being openly undermined",
+      "example_ja": "私たちの努力が公然と損なわれている",
+      "source_sentence_id": "s020"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "despite-concession",
+      "title": "despite / in spite of + noun",
+      "rule": "Use despite or in spite of before a noun phrase to show contrast: 'X happened despite Y.'",
+      "example": "But despite the legislation, tickets continue to be traded at steep markups.",
+      "meaning_ja": "despite / in spite of の後ろに名詞を置き、「～にもかかわらず」と譲歩の対比を表します。despite that には動詞を続けられない点に注意。"
+    },
+    {
+      "id": "have-no-choice-but-to",
+      "title": "have no choice but to + verb",
+      "rule": "This pattern means someone must do something because there is no other option.",
+      "example": "Organizers may have no choice but to pass those costs on to ticket prices.",
+      "meaning_ja": "「～するしかない」「～以外に選択肢がない」という意味の定型表現。but の後ろは to不定詞が続きます。"
+    },
+    {
+      "id": "pass-on-costs",
+      "title": "pass costs on to + someone",
+      "rule": "Pass on means to make someone else bear a cost or burden.",
+      "example": "The growing cost of combating the practice could eventually be passed on to fans.",
+      "meaning_ja": "pass on は「（コスト・負担を）転嫁する」というビジネス・ニュースでよく使う句動詞。受動態 be passed on to も頻出です。"
+    },
+    {
+      "id": "participial-reporting",
+      "title": "Participial phrases in news reporting",
+      "rule": "Present participles (-ing) and past participles (-ed) add background, reason, or result without a full clause.",
+      "example": "Using prices posted by other sellers as a guide, she sometimes sold tickets for as much as 10 times their original value.",
+      "meaning_ja": "分詞構文で「～して」「～の結果」などを簡潔に追加します。ニュース記事では理由・状況説明に多用され、日本語では「～して」「～ながら」と訳すことが多いです。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 23,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:11:23+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-"
+}

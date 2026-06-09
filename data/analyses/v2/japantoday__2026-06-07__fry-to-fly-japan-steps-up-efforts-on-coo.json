@@ -1,0 +1,1021 @@
+{
+  "summary_ja": "日本は2030年までに航空燃料の10%を持続可能な燃料（SAF）で賄う目標を掲げ、家庭の廃食用油回収プロジェクト「Fry to Fly」など官民連携を強化している。しかし原料不足と設備の未整備により国内生産は目標のごく一部にとどまり、イラン戦争によるエネルギー供給の圧迫も課題を深刻化させている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japanese homemaker Maki Watanabe carefully pours into a plastic bottle the oil she used to cook her deep-fried aubergines, doing her part in her Tokyo kitchen for a national effort to ramp up production of eco-friendly jet fuel.",
+      "translation_ja": "日本の主婦・渡辺真紀さんは、揚げナスを調理するのに使った油を慎重にペットボトルに注ぎ、環境に優しいジェット燃料の生産拡大という国の取り組みに、東京の自宅キッチンから自分なりに協力している。",
+      "grammar_ja": "後置修飾（the oil she used...）と分詞構文（doing her part...）が重なる長文。pour の目的語が長く後ろに置かれている点に注意。",
+      "chunks": [
+        {
+          "text": "Japanese homemaker Maki Watanabe",
+          "role_ja": "主語",
+          "literal_ja": "日本の主婦・渡辺真紀さんが",
+          "note_ja": "homemaker は専業主婦・主夫を含む一般的な表現"
+        },
+        {
+          "text": "carefully pours into a plastic bottle",
+          "role_ja": "述語",
+          "literal_ja": "慎重にペットボトルに注ぐ",
+          "note_ja": "pour A into B で「AをBに注ぐ」"
+        },
+        {
+          "text": "the oil she used to cook her deep-fried aubergines",
+          "role_ja": "目的語",
+          "literal_ja": "揚げナスを調理するのに使った油を",
+          "note_ja": "関係代名詞 she の省略。deep-fried は「揚げた」"
+        },
+        {
+          "text": "doing her part",
+          "role_ja": "付帯状況",
+          "literal_ja": "自分なりに協力しながら",
+          "note_ja": "do one's part = 自分の役割・分を果たす"
+        },
+        {
+          "text": "a national effort to ramp up production of eco-friendly jet fuel",
+          "role_ja": "目的",
+          "literal_ja": "環境に優しいジェット燃料の生産拡大という国の取り組みのために",
+          "note_ja": "ramp up = 急激に増やす・強化する"
+        }
+      ],
+      "deep_dive_ja": "ニュース記事では人物紹介から入り、具体例で政策を見せる書き出しがよく使われる。aubergine は英語圏ではナス、eggplant は米語で一般的。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"It would take a tremendous amount to make an aircraft fly, so I hope we can collect more,\" said Watanabe, whose penchant for cooking allows her to donate about 40 liers a year.",
+      "translation_ja": "「飛行機を飛ばすには途方もない量が必要だから、もっと集められたらいいな」と渡辺さんは語った。料理好きの彼女は年に約40リットルを寄付している。",
+      "grammar_ja": "間接話法と関係代名詞 whose による非制限用法。It would take... は仮定・一般論を表す。",
+      "chunks": [
+        {
+          "text": "It would take a tremendous amount to make an aircraft fly",
+          "role_ja": "引用内容",
+          "literal_ja": "飛行機を飛ばすには途方もない量がかかるだろう",
+          "note_ja": "It takes ... to V = ～するのに…が必要"
+        },
+        {
+          "text": "so I hope we can collect more",
+          "role_ja": "引用内容（結果）",
+          "literal_ja": "だからもっと集められたらいいのに",
+          "note_ja": "so で理由と希望をつなぐ"
+        },
+        {
+          "text": "said Watanabe",
+          "role_ja": "主節",
+          "literal_ja": "渡辺さんは言った",
+          "note_ja": "引用動詞は後置が基本"
+        },
+        {
+          "text": "whose penchant for cooking",
+          "role_ja": "関係節（主語）",
+          "literal_ja": "料理への好みを持つ彼女は",
+          "note_ja": "penchant for = ～への強い好み"
+        },
+        {
+          "text": "allows her to donate about 40 liers a year",
+          "role_ja": "関係節（述語）",
+          "literal_ja": "年に約40リットル寄付することを可能にしている",
+          "note_ja": "原文の liers は liters の誤記と思われる"
+        }
+      ],
+      "deep_dive_ja": "tremendous amount は「莫大な量」。人物の一言で政策のスケール感を読者に伝える手法。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Her contribution is pooled at a nearby supermarket that is among roughly 300 participants in a public-private project dubbed \"Fry to Fly\", as the Iran war squeezes energy supply and raises costs for the resource-poor country.",
+      "translation_ja": "彼女の寄付は近くのスーパーで集められ、そこは官民連携プロジェクト「Fry to Fly」の約300の参加拠点の一つだ。イラン戦争がエネルギー供給を圧迫し、資源に乏しい日本のコストを押し上げている最中のことだ。",
+      "grammar_ja": "受動態 is pooled、関係代名詞 that、過去分詞 dubbed、as 節で背景理由を示す。",
+      "chunks": [
+        {
+          "text": "Her contribution is pooled at a nearby supermarket",
+          "role_ja": "主節",
+          "literal_ja": "彼女の寄付は近くのスーパーで集約される",
+          "note_ja": "pool = 集める・共同利用する"
+        },
+        {
+          "text": "that is among roughly 300 participants",
+          "role_ja": "関係節",
+          "literal_ja": "おおよそ300の参加拠点の一つである",
+          "note_ja": "be among = ～の一員である"
+        },
+        {
+          "text": "in a public-private project dubbed \"Fry to Fly\"",
+          "role_ja": "前置詞句",
+          "literal_ja": "「Fry to Fly」と名付けられた官民プロジェクトの中で",
+          "note_ja": "dub = ～と呼ぶ"
+        },
+        {
+          "text": "as the Iran war squeezes energy supply",
+          "role_ja": "背景節",
+          "literal_ja": "イラン戦争がエネルギー供給を圧迫する中で",
+          "note_ja": "squeeze = 逼迫させる"
+        },
+        {
+          "text": "raises costs for the resource-poor country",
+          "role_ja": "背景節（並列）",
+          "literal_ja": "資源に乏しい国のコストを上げる",
+          "note_ja": "resource-poor = 資源貧国の"
+        }
+      ],
+      "deep_dive_ja": "Fry to Fly は fry（揚げ油）と fly（飛行）の語呂合わせ。as は「～しているので」より背景説明のニュアンス。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Japan is looking to consumers like Watanabe with more urgency than ever as it scrambles to reach a goal of procuring a tenth of airline fuel from sustainable sources by 2030.",
+      "translation_ja": "日本は2030年までに航空燃料の10分の1を持続可能な原料から調達するという目標達成に向けて急いでおり、渡辺さんのような一般消費者への期待をこれまで以上に強めている。",
+      "grammar_ja": "look to = ～に期待する。scramble to = 急いで～しようとする。with more urgency than ever は比較強調。",
+      "chunks": [
+        {
+          "text": "Japan is looking to consumers like Watanabe",
+          "role_ja": "主節",
+          "literal_ja": "日本は渡辺さんのような消費者に期待を寄せている",
+          "note_ja": "look to は look at ではない"
+        },
+        {
+          "text": "with more urgency than ever",
+          "role_ja": "副詞句",
+          "literal_ja": "これまで以上に切迫感を持って",
+          "note_ja": "than ever = かつてないほど"
+        },
+        {
+          "text": "as it scrambles to reach a goal",
+          "role_ja": "理由・背景",
+          "literal_ja": "目標達成に向けて必死になっている一方で",
+          "note_ja": "scramble = 慌てて動く"
+        },
+        {
+          "text": "of procuring a tenth of airline fuel from sustainable sources by 2030",
+          "role_ja": "名詞修飾",
+          "literal_ja": "2030年までに航空燃料の10分の1を持続可能な原料から調達するという",
+          "note_ja": "procure = 調達する（やや硬い）"
+        }
+      ],
+      "deep_dive_ja": "a tenth of = 10分の1。by 2030 は期限。sustainable sources は環境負荷の少ない原料全般。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The world's fourth-biggest economy estimates it needs about 1.7 million kiloliters in 2030, and hopes to gain as much as it can domestically through used cooking oil, a relatively cheap feedstock for sustainable aviation fuel.",
+      "translation_ja": "世界第4位の経済大国である日本は、2030年には約170万キロリットルが必要だと見積もっており、廃食用油という比較的安価な持続可能航空燃料の原料を通じて、できる限り国内で確保したいと考えている。",
+      "grammar_ja": "同格（apposition）で feedstock を説明。as much as it can は「できる限り多く」。",
+      "chunks": [
+        {
+          "text": "The world's fourth-biggest economy",
+          "role_ja": "主語",
+          "literal_ja": "世界第4位の経済国は",
+          "note_ja": "Japan を直接出さず婉曲に表す手法"
+        },
+        {
+          "text": "estimates it needs about 1.7 million kiloliters in 2030",
+          "role_ja": "述語①",
+          "literal_ja": "2030年に約170万キロリットル必要だと見積もる",
+          "note_ja": "estimate + that節の that 省略"
+        },
+        {
+          "text": "hopes to gain as much as it can domestically",
+          "role_ja": "述語②",
+          "literal_ja": "国内でできる限り多くを得ることを望む",
+          "note_ja": "gain = 確保・獲得"
+        },
+        {
+          "text": "through used cooking oil",
+          "role_ja": "手段",
+          "literal_ja": "廃食用油を通じて",
+          "note_ja": "used cooking oil = UCO"
+        },
+        {
+          "text": "a relatively cheap feedstock for sustainable aviation fuel",
+          "role_ja": "同格",
+          "literal_ja": "持続可能航空燃料向けの比較的安い原料として",
+          "note_ja": "feedstock = 工業原料"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But scarce feedstock and lack of infrastructure have limited domestic output of SAF to just 30,000 kiloliters now, or 0.3% of total jet fuel use.",
+      "translation_ja": "しかし原料の不足とインフラの未整備により、国内のSAF生産は現在わずか3万キロリットル、航空燃料全体の0.3%にとどまっている。",
+      "grammar_ja": "have limited A to B の構文。or 以下は具体化・言い換え。SAF は初出後の略語。",
+      "chunks": [
+        {
+          "text": "scarce feedstock and lack of infrastructure",
+          "role_ja": "主語",
+          "literal_ja": "原料不足とインフラ不足が",
+          "note_ja": "scarce = 乏しい"
+        },
+        {
+          "text": "have limited domestic output of SAF",
+          "role_ja": "述語",
+          "literal_ja": "国内SAF生産を制限してきた",
+          "note_ja": "limit A to B"
+        },
+        {
+          "text": "to just 30,000 kiloliters now",
+          "role_ja": "結果",
+          "literal_ja": "今はわずか3万キロリットルに",
+          "note_ja": "just で「たった」のニュアンス"
+        },
+        {
+          "text": "or 0.3% of total jet fuel use",
+          "role_ja": "言い換え",
+          "literal_ja": "すなわち航空燃料総量の0.3%",
+          "note_ja": "割合で規模の小ささを強調"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We're facing a reality far harsher than expected,\" the country's top two carriers, ANA and Japan Airlines, told a May joint presentation on SAF efforts.",
+      "translation_ja": "「想定以上に厳しい現実に直面している」と、ANAと日本航空という国内最大手2社は、5月のSAF取り組みに関する共同発表会で述べた。",
+      "grammar_ja": "比較級 + than expected（省略された比較）。told a presentation は「発表会で語った」。",
+      "chunks": [
+        {
+          "text": "We're facing a reality far harsher than expected",
+          "role_ja": "引用",
+          "literal_ja": "想定よりはるかに厳しい現実に直面している",
+          "note_ja": "far + 比較級で強調"
+        },
+        {
+          "text": "the country's top two carriers, ANA and Japan Airlines",
+          "role_ja": "主語",
+          "literal_ja": "国内最大手2社のANAと日本航空は",
+          "note_ja": "同格で社名を補足"
+        },
+        {
+          "text": "told a May joint presentation on SAF efforts",
+          "role_ja": "述語",
+          "literal_ja": "5月のSAF取り組み共同発表会で語った",
+          "note_ja": "tell + 場・イベント"
+        }
+      ],
+      "deep_dive_ja": "harsher than expected の expected は what was expected の省略。ビジネス英語でよく見る。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "The flurry to collect cooking oil highlights the challenge for the aviation industry, one of the biggest emitters of greenhouse gas, in trying to reduce its carbon footprint.",
+      "translation_ja": "食用油回収の活発化は、温室効果ガスの最大級の排出源の一つである航空業界が、炭素排出量を減らそうとする際の難しさを浮き彫りにしている。",
+      "grammar_ja": "flurry to V、one of the biggest... の同格、in trying to の構文。",
+      "chunks": [
+        {
+          "text": "The flurry to collect cooking oil",
+          "role_ja": "主語",
+          "literal_ja": "食用油を集める活発な動きは",
+          "note_ja": "flurry = 一時的な活発化"
+        },
+        {
+          "text": "highlights the challenge for the aviation industry",
+          "role_ja": "述語",
+          "literal_ja": "航空業界の課題を際立たせる",
+          "note_ja": "highlight = 強調する"
+        },
+        {
+          "text": "one of the biggest emitters of greenhouse gas",
+          "role_ja": "同格",
+          "literal_ja": "温室効果ガス最大の排出源の一つである",
+          "note_ja": "emitter = 排出者・排出源"
+        },
+        {
+          "text": "in trying to reduce its carbon footprint",
+          "role_ja": "状況",
+          "literal_ja": "炭素フットプリントを減らそうとする中で",
+          "note_ja": "carbon footprint = 環境負荷"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A Reuters investigation last year showed that only about a fifth of SAF projects unveiled by airlines globally have materialised.",
+      "translation_ja": "ロイター通信の昨年の調査によると、世界中の航空会社が発表したSAFプロジェクトの約5分の1しか実現していない。",
+      "grammar_ja": "受動態 unveiled / 現在完了 have materialised。only about a fifth of で割合。",
+      "chunks": [
+        {
+          "text": "A Reuters investigation last year",
+          "role_ja": "主語",
+          "literal_ja": "昨年のロイター調査は",
+          "note_ja": "調査結果を showed that で導入"
+        },
+        {
+          "text": "only about a fifth of SAF projects",
+          "role_ja": "主語（that節内）",
+          "literal_ja": "SAFプロジェクトの約5分の1しか",
+          "note_ja": "a fifth = 5分の1"
+        },
+        {
+          "text": "unveiled by airlines globally",
+          "role_ja": "過去分詞修飾",
+          "literal_ja": "世界中の航空会社によって発表された",
+          "note_ja": "unveil = 正式に発表する"
+        },
+        {
+          "text": "have materialised",
+          "role_ja": "述語",
+          "literal_ja": "実現していない",
+          "note_ja": "英式綴り materialise（米式 materialize）"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Adoption of SAF has long been held back by its high cost, but falling short of the volume targeted for 2030 will lead to higher costs for refiners and airlines.",
+      "translation_ja": "SAFの導入は長年その高コストに阻まれてきたが、2030年目標の量に届かなければ、精製会社と航空会社のコストはさらに上がることになる。",
+      "grammar_ja": "現在完了受動 has been held back。falling short of = 目標に届かない。will lead to で結果予測。",
+      "chunks": [
+        {
+          "text": "Adoption of SAF has long been held back by its high cost",
+          "role_ja": "主節①",
+          "literal_ja": "SAF導入は長い間高コストに阻まれてきた",
+          "note_ja": "hold back = 妨げる"
+        },
+        {
+          "text": "falling short of the volume targeted for 2030",
+          "role_ja": "主語（名詞句）",
+          "literal_ja": "2030年目標量に届かないことは",
+          "note_ja": "fall short of = 不足する"
+        },
+        {
+          "text": "will lead to higher costs",
+          "role_ja": "述語",
+          "literal_ja": "より高いコストにつながる",
+          "note_ja": "lead to = ～をもたらす"
+        },
+        {
+          "text": "for refiners and airlines",
+          "role_ja": "対象",
+          "literal_ja": "精製会社と航空会社にとって",
+          "note_ja": "refiner = 石油精製会社"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That is because refiners may need to seek more expensive imports of SAF or feedstock, in addition to facing possible penalties, creating a knock-on effect for airlines.",
+      "translation_ja": "それは、精製会社が罰則の可能性に加え、より高価なSAFや原料の輸入を求めざるを得なくなる可能性があり、航空会社にも波及効果を生むからだ。",
+      "grammar_ja": "That is because で理由説明。分詞 creating で結果を付加。knock-on effect は重要コロケーション。",
+      "chunks": [
+        {
+          "text": "That is because",
+          "role_ja": "接続",
+          "literal_ja": "それは～だからである",
+          "note_ja": "前文の結果の理由を説明"
+        },
+        {
+          "text": "refiners may need to seek more expensive imports of SAF or feedstock",
+          "role_ja": "理由節",
+          "literal_ja": "精製会社はより高価なSAFや原料の輸入を求める必要があるかもしれない",
+          "note_ja": "seek imports = 輸入を求める"
+        },
+        {
+          "text": "in addition to facing possible penalties",
+          "role_ja": "追加",
+          "literal_ja": "罰則の可能性に直面することに加えて",
+          "note_ja": "in addition to + 動名詞"
+        },
+        {
+          "text": "creating a knock-on effect for airlines",
+          "role_ja": "結果",
+          "literal_ja": "航空会社への波及効果を生みながら",
+          "note_ja": "knock-on effect = 連鎖的影響"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "By comparison, among countries that have already adopted a national mandate, the tiny Southeast Asian aviation hub of Singapore relies heavily on imported feedstock for its 1% target.",
+      "translation_ja": "比較すると、すでに国の義務化を導入している国の中では、小さな東南アジアの航空ハブであるシンガポールも、1%目標の達成のために輸入原料に大きく依存している。",
+      "grammar_ja": "By comparison で対比。関係代名詞 that、relies on の固定表現。",
+      "chunks": [
+        {
+          "text": "By comparison",
+          "role_ja": "副詞句",
+          "literal_ja": "比較すると",
+          "note_ja": "前の日本の状況と対比"
+        },
+        {
+          "text": "among countries that have already adopted a national mandate",
+          "role_ja": "状況",
+          "literal_ja": "すでに国の義務化を採用した国の中で",
+          "note_ja": "mandate = 法的義務"
+        },
+        {
+          "text": "the tiny Southeast Asian aviation hub of Singapore",
+          "role_ja": "主語",
+          "literal_ja": "小さな東南アジアの航空ハブ・シンガポールは",
+          "note_ja": "hub = 拠点"
+        },
+        {
+          "text": "relies heavily on imported feedstock for its 1% target",
+          "role_ja": "述語",
+          "literal_ja": "1%目標のために輸入原料に大きく頼っている",
+          "note_ja": "rely heavily on"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "This year will prove critical for refiners' SAF efforts.",
+      "translation_ja": "今年は精製会社のSAF取り組みにとって極めて重要な年となるだろう。",
+      "grammar_ja": "prove + 形容詞 = 「～であることが判明する・なる」。所有格 refiners'。",
+      "chunks": [
+        {
+          "text": "This year",
+          "role_ja": "主語",
+          "literal_ja": "今年は",
+          "note_ja": ""
+        },
+        {
+          "text": "will prove critical",
+          "role_ja": "述語",
+          "literal_ja": "極めて重要であることがわかるだろう",
+          "note_ja": "prove + adj. は結果が明らかになる"
+        },
+        {
+          "text": "for refiners' SAF efforts",
+          "role_ja": "対象",
+          "literal_ja": "精製会社のSAF努力にとって",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "They will have to make final investment decisions by March to allow for mass production in 2030, the government has said.",
+      "translation_ja": "政府は、2030年の大量生産を可能にするため、3月までに最終的な投資判断を下す必要があると述べている。",
+      "grammar_ja": "have to、to allow for（～を可能にする）、the government has said は文末の引用形式。",
+      "chunks": [
+        {
+          "text": "They will have to make final investment decisions by March",
+          "role_ja": "内容",
+          "literal_ja": "彼らは3月までに最終投資判断を下さねばならない",
+          "note_ja": "final investment decision = 最終投資判断"
+        },
+        {
+          "text": "to allow for mass production in 2030",
+          "role_ja": "目的",
+          "literal_ja": "2030年の大量生産を可能にするために",
+          "note_ja": "allow for = ～を可能にする"
+        },
+        {
+          "text": "the government has said",
+          "role_ja": "主節",
+          "literal_ja": "政府は言っている",
+          "note_ja": "内容が先、発言者が後"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Industry leader Eneos said the volume of cooking oil that can be collected is a key in deciding whether it will pursue a venture with Mitsubishi Corp to produce 400,000 kiloliters of SAF after the 2028 fiscal year.",
+      "translation_ja": "業界最大手のENEOSは、回収できる食用油の量が、2028年度以降に三菱商事と組んで40万キロリットルのSAFを生産する事業に進むかどうかを決める上での鍵だと述べた。",
+      "grammar_ja": "関係代名詞 that、whether 節、pursue a venture、after the fiscal year は会計年度表現。",
+      "chunks": [
+        {
+          "text": "Industry leader Eneos",
+          "role_ja": "主語",
+          "literal_ja": "業界大手ENEOSは",
+          "note_ja": ""
+        },
+        {
+          "text": "the volume of cooking oil that can be collected",
+          "role_ja": "主語（that節内）",
+          "literal_ja": "回収可能な食用油の量は",
+          "note_ja": ""
+        },
+        {
+          "text": "is a key in deciding whether it will pursue a venture",
+          "role_ja": "述語",
+          "literal_ja": "事業に進むか決める上での鍵である",
+          "note_ja": "a key in deciding"
+        },
+        {
+          "text": "with Mitsubishi Corp to produce 400,000 kiloliters of SAF",
+          "role_ja": "内容",
+          "literal_ja": "三菱商事と組み40万キロリットルのSAFを生産する",
+          "note_ja": "pursue a venture = 事業を進める"
+        },
+        {
+          "text": "after the 2028 fiscal year",
+          "role_ja": "時",
+          "literal_ja": "2028年度以降",
+          "note_ja": "fiscal year = 会計年度"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A complex and costly production process, from feedstock collection, treatment and hydrogenation to distillation, means that committing to SAF production carries significant risk.",
+      "translation_ja": "原料の回収、処理、水素化から蒸留までという複雑で高コストな生産工程は、SAF生産への本格参入には大きなリスクが伴うことを意味している。",
+      "grammar_ja": "from A to B の列挙、means that、動名詞 committing / carries risk。",
+      "chunks": [
+        {
+          "text": "A complex and costly production process",
+          "role_ja": "主語",
+          "literal_ja": "複雑で高コストな生産工程は",
+          "note_ja": ""
+        },
+        {
+          "text": "from feedstock collection, treatment and hydrogenation to distillation",
+          "role_ja": "内容説明",
+          "literal_ja": "原料回収・処理・水素化から蒸留まで",
+          "note_ja": "hydrogenation = 水素添加"
+        },
+        {
+          "text": "means that committing to SAF production carries significant risk",
+          "role_ja": "述語",
+          "literal_ja": "SAF生産へのコミットは大きなリスクを伴うことを意味する",
+          "note_ja": "commit to = 本格的に取り組む"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A clearer outlook for demand was needed to justify expanding production, said engineering firm JGC, which started Japan's first commercial-scale SAF plant last year.",
+      "translation_ja": "生産拡大を正当化するには需要見通しの明確化が必要だったと、昨年日本初の商業規模SAF工場を稼働させたエンジニアリング会社JGCは述べた。",
+      "grammar_ja": "受動 was needed to justify...。非制限用法 which。commercial-scale = 商業規模。",
+      "chunks": [
+        {
+          "text": "A clearer outlook for demand was needed",
+          "role_ja": "主節",
+          "literal_ja": "需要に対するより明確な見通しが必要だった",
+          "note_ja": "outlook = 見通し"
+        },
+        {
+          "text": "to justify expanding production",
+          "role_ja": "目的",
+          "literal_ja": "生産拡大を正当化するために",
+          "note_ja": "justify = 正当化する"
+        },
+        {
+          "text": "said engineering firm JGC",
+          "role_ja": "引用動詞",
+          "literal_ja": "JGCは言った",
+          "note_ja": ""
+        },
+        {
+          "text": "which started Japan's first commercial-scale SAF plant last year",
+          "role_ja": "関係節",
+          "literal_ja": "昨年日本初の商業規模SAF工場を始めた",
+          "note_ja": "commercial-scale = 実用規模"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Its joint venture with Cosmo Energy and biodiesel producer REVO International has annual capacity of about 30,000 kilolitres.",
+      "translation_ja": "コスモエネルギーやバイオディーゼルメーカーのREVOインターナショナルとの合弁事業の年間生産能力は約3万キロリットルである。",
+      "grammar_ja": "joint venture with、has capacity of の所有構文。kilolitres は英式綴り。",
+      "chunks": [
+        {
+          "text": "Its joint venture with Cosmo Energy and biodiesel producer REVO International",
+          "role_ja": "主語",
+          "literal_ja": "コスモエネルギーとREVOとの合弁は",
+          "note_ja": "joint venture = 合弁"
+        },
+        {
+          "text": "has annual capacity of about 30,000 kilolitres",
+          "role_ja": "述語",
+          "literal_ja": "年間約3万キロリットルの能力を持つ",
+          "note_ja": "annual capacity = 年間生産能力"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Public-private supply chain initiatives are stepping up efforts as the target year approaches.",
+      "translation_ja": "目標年が近づくにつれ、官民のサプライチェーン施策は努力を強めている。",
+      "grammar_ja": "step up efforts = 努力を強化する。as 節で時間の経過。",
+      "chunks": [
+        {
+          "text": "Public-private supply chain initiatives",
+          "role_ja": "主語",
+          "literal_ja": "官民のサプライチェーン施策は",
+          "note_ja": "public-private = 官民連携"
+        },
+        {
+          "text": "are stepping up efforts",
+          "role_ja": "述語",
+          "literal_ja": "努力を強化している",
+          "note_ja": "step up = 強化する"
+        },
+        {
+          "text": "as the target year approaches",
+          "role_ja": "時",
+          "literal_ja": "目標年が近づくにつれ",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Tokyo government wants to commission more businesses to raise awareness and coordinate collection to tap the capital's 7.8 million households for oil.",
+      "translation_ja": "東京都は、都内780万世帯から油を確保するため、認知を高め回収を調整するよう、より多くの事業者に委託したいと考えている。",
+      "grammar_ja": "want to commission A to V。tap = 活用する。raise awareness は定番コロケーション。",
+      "chunks": [
+        {
+          "text": "The Tokyo government wants to commission more businesses",
+          "role_ja": "主節",
+          "literal_ja": "東京都はより多くの事業者に委託したい",
+          "note_ja": "commission = 委託する"
+        },
+        {
+          "text": "to raise awareness and coordinate collection",
+          "role_ja": "目的",
+          "literal_ja": "認知を高め回収を調整するために",
+          "note_ja": "coordinate = 調整・統括する"
+        },
+        {
+          "text": "to tap the capital's 7.8 million households for oil",
+          "role_ja": "目的",
+          "literal_ja": "都の780万世帯から油を活用するために",
+          "note_ja": "tap = 活用する"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Last fiscal year, it distributed 13,000 plastic funnels carrying QR-coded collection instructions after putting together a paltry 160 kilolitres in 2024.",
+      "translation_ja": "東京都は2024年にわずか160キロリットルしか集められなかった後、昨年度にはQRコード付き回収説明のプラスチックじょうご1万3000本を配布した。",
+      "grammar_ja": "現在分詞 carrying、after + 動名詞、paltry で量の少なさを批判的に表現。",
+      "chunks": [
+        {
+          "text": "Last fiscal year, it distributed 13,000 plastic funnels",
+          "role_ja": "主節",
+          "literal_ja": "昨年度、1万3000本のプラじょうごを配布した",
+          "note_ja": "funnel = じょうご"
+        },
+        {
+          "text": "carrying QR-coded collection instructions",
+          "role_ja": "修飾",
+          "literal_ja": "QRコード付き回収説明を載せた",
+          "note_ja": "carry = 含む・載せる"
+        },
+        {
+          "text": "after putting together a paltry 160 kilolitres in 2024",
+          "role_ja": "時",
+          "literal_ja": "2024年にわずか160キロリットルしか集められなかった後",
+          "note_ja": "paltry = 取るに足らない"
+        }
+      ],
+      "deep_dive_ja": "put together はここでは「集める」の意味。paltry は記者の評価が入った形容詞。",
+      "difficulty": "medium",
+      "sentence_id": "s021"
+    },
+    {
+      "text": "That figure would have been just enough to keep a Boeing 787 Dreamliner in the air for 17 hours, based on Reuters' calculation using a formula from the JGC-Cosmo joint venture, Saffaire Sky Energy.",
+      "translation_ja": "その量は、ロイターがJGCとコスモの合弁・Saffaire Sky Energyの計算式を用いた試算によると、ボーイング787ドリームライナーを17時間飛ばすのにちょうど足りる程度だった。",
+      "grammar_ja": "would have been は仮定過去。just enough to、based on、using の分詞構文。",
+      "chunks": [
+        {
+          "text": "That figure would have been just enough",
+          "role_ja": "主節",
+          "literal_ja": "その数字はちょうど足りる程度だっただろう",
+          "note_ja": "would have been = 仮定的評価"
+        },
+        {
+          "text": "to keep a Boeing 787 Dreamliner in the air for 17 hours",
+          "role_ja": "目的",
+          "literal_ja": "787を17時間飛ばし続けるのに",
+          "note_ja": "keep ... in the air"
+        },
+        {
+          "text": "based on Reuters' calculation",
+          "role_ja": "根拠",
+          "literal_ja": "ロイターの計算に基づくと",
+          "note_ja": ""
+        },
+        {
+          "text": "using a formula from the JGC-Cosmo joint venture, Saffaire Sky Energy",
+          "role_ja": "方法",
+          "literal_ja": "Saffaire Sky Energyの式を用いて",
+          "note_ja": "具体例で規模の小ささを可視化"
+        }
+      ],
+      "deep_dive_ja": "読者が量を実感できるよう航空機の例を出すのは経済記事の定番手法。",
+      "difficulty": "hard",
+      "sentence_id": "s022"
+    },
+    {
+      "text": "\"If we don't start now, we simply won't make it by 2030,\" said Tokyo official Yasushi Sato.",
+      "translation_ja": "「今始めなければ、2030年までに間に合わない」と東京都の佐藤泰氏は言った。",
+      "grammar_ja": "make it = 間に合う・達成する。simply で強調。",
+      "chunks": [
+        {
+          "text": "If we don't start now",
+          "role_ja": "条件",
+          "literal_ja": "今始めなければ",
+          "note_ja": ""
+        },
+        {
+          "text": "we simply won't make it by 2030",
+          "role_ja": "帰結",
+          "literal_ja": "2030年までに間に合わない",
+          "note_ja": "make it = 目標に間に合う"
+        },
+        {
+          "text": "said Tokyo official Yasushi Sato",
+          "role_ja": "主節",
+          "literal_ja": "東京都職員の佐藤泰氏は言った",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Fujifilm was among the business enterprises that began collecting oil this year from employee cafeterias, while retail giants Aeon, Ito-Yokado and 7-Eleven are setting up more drop boxes.",
+      "translation_ja": "富士フイルムは今年、社員食堂から油の回収を始めた事業者の一つであり、小売大手のイオン、イトーヨーカドー、セブン-イレブンも回収ボックスの設置を進めている。",
+      "grammar_ja": "was among / are setting up の時制対比。関係代名詞 that、while で並行状況。",
+      "chunks": [
+        {
+          "text": "Fujifilm was among the business enterprises",
+          "role_ja": "主節①",
+          "literal_ja": "富士フイルムは事業者の一つだった",
+          "note_ja": ""
+        },
+        {
+          "text": "that began collecting oil this year from employee cafeterias",
+          "role_ja": "関係節",
+          "literal_ja": "今年社員食堂から油回収を始めた",
+          "note_ja": "cafeteria = 社員食堂"
+        },
+        {
+          "text": "while retail giants Aeon, Ito-Yokado and 7-Eleven",
+          "role_ja": "対比主語",
+          "literal_ja": "一方で小売大手のイオン等は",
+          "note_ja": "while = 一方で"
+        },
+        {
+          "text": "are setting up more drop boxes",
+          "role_ja": "述語",
+          "literal_ja": "より多くの回収ボックスを設置している",
+          "note_ja": "drop box = 回収箱"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Even if every drop of used cooking oil were collected, though, that would amount to 550,000 kilolitres, says UCO Japan, a group of companies engaged in recycling such oil.",
+      "translation_ja": "とはいえ、使い終わった食用油を一滴残らず集めたとしても、それでも55万キロリットルにしかならないと、廃油リサイクル企業のグループUCO Japanは述べている。",
+      "grammar_ja": "仮定法 Even if ... were（現実と逆の仮定）。amount to = ～に相当する。though は譲歩。",
+      "chunks": [
+        {
+          "text": "Even if every drop of used cooking oil were collected",
+          "role_ja": "譲歩条件",
+          "literal_ja": "廃油をすべて集めたとしても",
+          "note_ja": "仮定法過去 were"
+        },
+        {
+          "text": "though",
+          "role_ja": "譲歩",
+          "literal_ja": "とはいえ",
+          "note_ja": "文頭・文中どちらも可"
+        },
+        {
+          "text": "that would amount to 550,000 kilolitres",
+          "role_ja": "主節",
+          "literal_ja": "それでも55万キロリットルに相当する",
+          "note_ja": "amount to = 合計～になる"
+        },
+        {
+          "text": "says UCO Japan, a group of companies engaged in recycling such oil",
+          "role_ja": "引用",
+          "literal_ja": "UCO Japanは言う",
+          "note_ja": "engaged in = ～に従事している"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That would yield about a quarter of the SAF required in 2030.",
+      "translation_ja": "それでも2030年に必要なSAFの約4分の1にしかならない。",
+      "grammar_ja": "yield = 生み出す・得られる。required は過去分詞の形容詞用法。",
+      "chunks": [
+        {
+          "text": "That",
+          "role_ja": "主語",
+          "literal_ja": "それは",
+          "note_ja": "前の55万キロリットルを指す"
+        },
+        {
+          "text": "would yield about a quarter of the SAF required in 2030",
+          "role_ja": "述語",
+          "literal_ja": "2030年必要量の約4分の1を生み出すだろう",
+          "note_ja": "yield = 得られる量"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Since Japan already collects almost all available waste oil from businesses, SAF imports are virtually inevitable before technology such as producing bioethanol-based jet fuel can be rolled out for commercial use, analysts say.",
+      "translation_ja": "日本はすでに事業者から回収可能な廃油のほぼ全量を集めているため、バイオエタノール由来のジェット燃料などの技術が商用化される前は、SAFの輸入は事実上避けられないとアナリストは指摘する。",
+      "grammar_ja": "Since 理由節、such as + 動名詞、be rolled out、analysts say は文末配置。",
+      "chunks": [
+        {
+          "text": "Since Japan already collects almost all available waste oil from businesses",
+          "role_ja": "理由",
+          "literal_ja": "日本はすでに事業者の廃油をほぼ全回収しているので",
+          "note_ja": "available = 入手可能な"
+        },
+        {
+          "text": "SAF imports are virtually inevitable",
+          "role_ja": "主節",
+          "literal_ja": "SAF輸入は事実上不可避だ",
+          "note_ja": "virtually = ほぼ"
+        },
+        {
+          "text": "before technology such as producing bioethanol-based jet fuel can be rolled out for commercial use",
+          "role_ja": "時",
+          "literal_ja": "バイオエタノール燃料技術が商用化される前は",
+          "note_ja": "roll out = 展開・実用化する"
+        },
+        {
+          "text": "analysts say",
+          "role_ja": "引用",
+          "literal_ja": "アナリストは言う",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Against that backdrop, the target is incredibly ambitious,\" said Motoomi Suzuki, senior economist at Norinchukin Research Institute, adding that Japan's need for domestic feedstock makes used cooking oil the only viable option in the near future. ​",
+      "translation_ja": "「そのような状況を踏まえると、目標は信じられないほど野心的だ」と農中総合研究所のチーフエコノミスト・鈴木基臣氏は述べ、日本が国内原料を必要とする以上、近い将来は廃食用油しか現実的な選択肢がないと付け加えた。",
+      "grammar_ja": "Against that backdrop、adding that の分詞構文、make O C（使役的）the only viable option。",
+      "chunks": [
+        {
+          "text": "Against that backdrop",
+          "role_ja": "状況",
+          "literal_ja": "その背景を踏まえると",
+          "note_ja": "backdrop = 背景状況"
+        },
+        {
+          "text": "the target is incredibly ambitious",
+          "role_ja": "引用",
+          "literal_ja": "目標は非常に野心的だ",
+          "note_ja": "incredibly = 信じられないほど"
+        },
+        {
+          "text": "said Motoomi Suzuki, senior economist at Norinchukin Research Institute",
+          "role_ja": "主節",
+          "literal_ja": "鈴木基臣氏は言った",
+          "note_ja": "肩書きは同格"
+        },
+        {
+          "text": "adding that Japan's need for domestic feedstock makes used cooking oil the only viable option in the near future",
+          "role_ja": "付加説明",
+          "literal_ja": "国内原料の必要性が廃油を唯一の現実的選択にすると付け加えた",
+          "note_ja": "viable option = 実行可能な選択肢"
+        }
+      ],
+      "deep_dive_ja": "adding that は記者が発言を要約・補足する際の典型表現。make O C で「OをCにする」",
+      "difficulty": "hard",
+      "sentence_id": "s028"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ramp up",
+      "pronunciation": "/ræmp ʌp/",
+      "meaning_ja": "（生産・努力などを）急激に増やす、強化する",
+      "example": "a national effort to ramp up production of eco-friendly jet fuel",
+      "example_ja": "環境に優しいジェット燃料の生産拡大という国の取り組み",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "feedstock",
+      "pronunciation": "/ˈfiːdstɒk/",
+      "meaning_ja": "（工業の）原料、原材料",
+      "example": "used cooking oil, a relatively cheap feedstock for sustainable aviation fuel",
+      "example_ja": "持続可能航空燃料向けの比較的安価な原料である廃食用油",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "sustainable aviation fuel (SAF)",
+      "pronunciation": "/səˈsteɪnəbl ˌeɪviˈeɪʃn ˈfjuːəl/",
+      "meaning_ja": "持続可能航空燃料（環境負荷の少ない航空燃料）",
+      "example": "domestic output of SAF to just 30,000 kiloliters",
+      "example_ja": "国内SAF生産はわずか3万キロリットル",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "carbon footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtprɪnt/",
+      "meaning_ja": "炭素排出量、環境への影響の大きさ",
+      "example": "in trying to reduce its carbon footprint",
+      "example_ja": "炭素排出量を減らそうとする中で",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "materialise",
+      "pronunciation": "/məˈtɪəriəlaɪz/",
+      "meaning_ja": "実現する、具体化する",
+      "example": "only about a fifth of SAF projects have materialised",
+      "example_ja": "SAFプロジェクトの約5分の1しか実現していない",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "knock-on effect",
+      "pronunciation": "/nɒk ɒn ɪˈfekt/",
+      "meaning_ja": "波及効果、連鎖的な影響",
+      "example": "creating a knock-on effect for airlines",
+      "example_ja": "航空会社への波及効果を生み出す",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "paltry",
+      "pronunciation": "/ˈpɔːltri/",
+      "meaning_ja": "取るに足らない、わずかな（否定的）",
+      "example": "putting together a paltry 160 kilolitres",
+      "example_ja": "わずか160キロリットルしか集められなかった",
+      "source_sentence_id": "s021"
+    },
+    {
+      "word": "viable option",
+      "pronunciation": "/ˈvaɪəbl ˈɒpʃn/",
+      "meaning_ja": "実行可能な選択肢、現実的な手段",
+      "example": "used cooking oil the only viable option in the near future",
+      "example_ja": "近い将来は廃食用油が唯一の現実的な選択肢",
+      "source_sentence_id": "s027"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-phrase",
+      "title": "Participial phrases (分詞構文)",
+      "rule": "Present participle (-ing) phrases add reason, manner, or result: \"doing her part\", \"creating a knock-on effect\".",
+      "example": "doing her part in her Tokyo kitchen for a national effort",
+      "meaning_ja": "主節と同じ主語の動作・状況を補足する。-ing 分詞句は理由・様態・結果を簡潔に添える。ニュース英語で長文を避けつつ情報を足すのに頻出。"
+    },
+    {
+      "id": "reduced-relative",
+      "title": "Reduced relative clauses (関係詞節の省略)",
+      "rule": "Relative clauses can drop \"that/which + be\" or use past participles: \"projects unveiled by airlines\", \"oil engaged in recycling\".",
+      "example": "SAF projects unveiled by airlines globally",
+      "meaning_ja": "関係代名詞 + be 動詞を省略した過去分詞修飾、または関係代名詞のみの後置修飾。名詞の後ろに情報を圧縮して付ける硬いニュース文体。"
+    },
+    {
+      "id": "passive-reporting",
+      "title": "Passive voice in news reporting (受動態)",
+      "rule": "Passive focuses on action/result rather than agent: \"is pooled\", \"has been held back\", \"was needed\".",
+      "example": "Adoption of SAF has long been held back by its high cost.",
+      "meaning_ja": "行為者より結果・状況を前面に出す。政策・産業記事では「何が妨げられているか」を客観的に述べるために多用される。"
+    },
+    {
+      "id": "conditional-hypothetical",
+      "title": "Hypothetical conditionals (仮定法)",
+      "rule": "Even if + past/subjunctive and would for unreal present/future outcomes: \"Even if every drop were collected, that would amount to...\".",
+      "example": "Even if every drop of used cooking oil were collected, that would amount to 550,000 kilolitres.",
+      "meaning_ja": "現実とは異なる仮定を置き、その結果を would で示す。even if は「たとえ～しても」で譲歩。データ分析や批判的論評でよく使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 28,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:12:25+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo"
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:07:50+09:00",
+  "fetched_at": "2026-06-09T21:10:02+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "One of the worst ways to die is to starve to death or die of thirst, which is basically how he had his mother die. It makes me mad to think she made sure he had all that as a child.",
+      "translation_ja": "死に方として最悪の部類に入るのが、餓死や渇死です。まさにそのような形で母親を死なせたのがこの男です。子どもの頃、母親が食べ物や水をきちんと与えてくれたと思うと腹が立ちます。",
+      "notes_ja": [
+        "「had his mother die」は「母親を（そのように）死なせた」という因果・放任のニュアンス。",
+        "「all that」は直前の starve / thirst（食べ物・水）を指す代名詞。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5229136,
+      "author": "Speed",
+      "rating": 3,
+      "posted_at": "2026-06-07T13:02:45+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Speed I agree, the man is ruddy vile. This is so sickening and upsetting at the same time.",
+      "translation_ja": "Speed、同感です。この男は本当に最低です。吐き気がするほど不快で、同時に腹立たしい。",
+      "notes_ja": [
+        "「Speed」のあとにカンマがなく、返信先の名前をそのまま文頭に置いている口語的な書き方。",
+        "「ruddy」はイギリス英語の婉曲表現で、ここでは「bloody（ひどく）」に近い強調の意味。"
+      ],
+      "standard_en": "Speed, I agree—the man is really vile. This is sickening and upsetting at the same time.",
+      "marked_terms": [
+        {
+          "term": "ruddy",
+          "symbol": "◇",
+          "note_ja": "イギリス英語の口語的な強調語。丁寧な場では使わない。"
+        }
+      ],
+      "comment_id": 5229425,
+      "author": "falseflagsteve",
+      "rating": -2,
+      "posted_at": "2026-06-07T22:25:42+09:00"
+    }
+  ]
+}

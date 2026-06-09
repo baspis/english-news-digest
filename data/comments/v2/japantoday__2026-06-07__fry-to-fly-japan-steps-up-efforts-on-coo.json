@@ -1,0 +1,97 @@
+{
+  "article_id": "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:07:50+09:00",
+  "fetched_at": "2026-06-09T21:13:26+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "We've been running our 1992 Toyota Hilux Surf on WVO (waste vegetable Oil) for over 20 years and have recently converted a second 1995 Hilux Surf. From online WVO forums it seems quite popular in Australia but here in Japan I haven't seen anyone else doing it. Strange given that the oil we use is free. With the system we use, no changes to the engine are needed and the oil we use is simply filtered and used without any chemical changes. It just needs to be heated by the car before entering the engine.",
+      "translation_ja": "うちは1992年式のトヨタ・ハイラックスサーフをWVO（廃食用油）で20年以上走らせていて、最近は1995年式のハイラックスサーフも改造しました。ネットのWVOフォーラムを見るとオーストラリアではかなり普及しているようですが、日本では他にやっている人を見たことがありません。使っている油はタダなのに、不思議ですね。うちのシステムならエンジン改造は不要で、使う油はろ過するだけで、化学的な処理は一切しません。エンジンに入る前に、車側で温める必要があるだけです。",
+      "notes_ja": [
+        "「Strange given that...」は前文を省略した感嘆の言い方で、書き言葉では \"It's strange given that...\" と主語を補うのが一般的です。",
+        "WVO = waste vegetable oil（廃食用油）の略。フォーラムなどで使われる専門用語です。"
+      ],
+      "standard_en": "It's strange, given that the oil we use is free.",
+      "marked_terms": [],
+      "comment_id": 5228663,
+      "author": "ifd66",
+      "rating": 11,
+      "posted_at": "2026-06-07T06:35:50+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "A company down here in Okinawa has been collecting and recycling waste cooking oil for years, and they produce biodiesel that is used to fuel a bus operated by the city. The exhaust on the bus smelled like tenpura cooking. Not to mention that the electric utility here, uses biodiesel made from used cooking oil collected from stores and the largest supermarket chain here, and Lawson Okinawa. The fuel is produced within Okinawa and used at a thermal power plant.",
+      "translation_ja": "沖縄のここでは、廃食用油の回収・リサイクルを何年もやっている会社があり、そこで作ったバイオディーゼルで市営バスが走っています。バスの排気は天ぷらを揚げているような匂いでした。それだけでなく、地元の電力会社も、店舗や県内最大のスーパー、ローソン沖縄から集めた廃油で作ったバイオディーゼルを使っています。燃料は沖縄内で生産され、火力発電所で使われています。",
+      "notes_ja": [
+        "「Not to mention that...」は「それどころか／さらに言えば」という追加情報の入り方。口語では \"Not to mention,\" のあとに不要なカンマが入ることもあります（\"the electric utility here, uses\"）。",
+        "「tenpura」は \"tempura\" のスペルゆれ。話し言葉では固有名詞の綴りがぶれることがあります。"
+      ],
+      "standard_en": "Not to mention that the electric utility here uses biodiesel made from used cooking oil collected from stores, the largest supermarket chain here, and Lawson Okinawa.",
+      "marked_terms": [],
+      "comment_id": 5228699,
+      "author": "Yubaru",
+      "rating": 7,
+      "posted_at": "2026-06-07T07:05:55+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "ason US gasoline prices up besides oil prices, because US refiners switching to diesel and jet fuel from gasoline in order to meet demand for diesel oil prices are up because 20% of the worlds oil use to go the the strait of Hormuz, now its barely a trickle. all because an orange iDJiT thought that unilaterally starting a war in the middle east would be a smart thing to do. there fized it for you",
+      "translation_ja": "米国のガソリン価格が上がっている理由は、原油価格だけじゃない。米国の製油所が需要に応えるためガソリンからディーゼルやジェット燃料への切り替えを進めているからだ。油価が上がっているのは、世界の石油の20%がかつてホルムズ海峡を通っていたのに、今はほとんど流れていないからだ。すべて、あるオレンジ色のバカが、中東で一方的に戦争を始めるのが賢いことだと思ったせいだ。直しておいたぞ。",
+      "notes_ja": [
+        "文頭の \"ason\" は \"reason\" の誤字か、怒りの勢いで主語・冠詞を落とした書き方。全体が句読点の少ない連結文で、口語の勢いが強いです。",
+        "\"there fized it for you\" はネットミーム \"there, I fixed it for you\"（直してやったぞ）の変形で、皮肉・煽りのトーンです。"
+      ],
+      "standard_en": "Reason US gasoline prices are up, besides oil prices: US refiners are switching from gasoline to diesel and jet fuel to meet demand. Oil prices are up because 20% of the world's oil used to go through the Strait of Hormuz; now it's barely a trickle—all because an orange idiot thought unilaterally starting a war in the Middle East would be a smart thing to do. There, I fixed it for you.",
+      "marked_terms": [
+        {
+          "term": "orange",
+          "symbol": "※",
+          "note_ja": "特定の政治家（トランプ）を侮辱的に指すネットスラング。公の場や丁寧な会話では使わない。"
+        },
+        {
+          "term": "iDJiT",
+          "symbol": "※",
+          "note_ja": "idiot（バカ）の侮辱的な綴り替え。強い罵倒語で、学習者は使わないこと。"
+        }
+      ],
+      "comment_id": 5229252,
+      "author": "wtfjapan",
+      "rating": 3,
+      "posted_at": "2026-06-07T16:35:12+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Waste oil is a resource that can be easily repurposed as a diesel or kero substitute. If big supplies of it, tonkatsu restaurants etc, are just throwing it out, that is very wasteful. If people are being asked to collect the small amounts of it they use as a public-spirited gesture, I would prefer it to be used in buses or in boilers heating public buildings.",
+      "translation_ja": "廃油は、ディーゼルや灯油の代わりに簡単に再利用できる資源です。とんかつ店など大量に使う所がそれを捨てているなら、とてももったいない。人々に、自分たちが使った少量を公共のために集めるよう求められるなら、バス燃料や、公共施設を暖めるボイラーに使ってほしいと思います。",
+      "notes_ja": [
+        "「If big supplies of it, tonkatsu restaurants etc, are...」は \"If there are big supplies of it—tonkatsu restaurants, etc.—are...\" のように条件節が途中で挿入された書き方で、やや不自然ですが意味は通じます。",
+        "「kero」は kerosene（灯油）の口語略。"
+      ],
+      "standard_en": "If there are big supplies of it—tonkatsu restaurants, etc.—and they are just throwing it out, that is very wasteful.",
+      "marked_terms": [],
+      "comment_id": 5228915,
+      "author": "kohakuebisu",
+      "rating": 2,
+      "posted_at": "2026-06-07T10:09:34+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "JGC, which started Japan's first commercial-scale SAF plant last year I thought it was already some commercial plants as I think industrials, such as restaurants who use a lot of oil for frying do not throw it but sent it back. Personally, I would like to see some collecting points in my city for individuals, though the oil used in my case is just tiny amounts for frying food in a pan",
+      "translation_ja": "昨年、日本初の商業規模SAFプラントを立ち上げたJGCのことですが、すでに商業プラントがいくつかあるのかと思っていました。揚げ物に大量の油を使う飲食店などは、捨てずに返送しているのではないかと思うからです。個人的には、自分の街に個人向けの回収ポイントがあってほしいです。ただ、うちの場合はフライパンで揚げる程度で、油の量はほんのわずかです。",
+      "notes_ja": [
+        "一文が長く、接続詞や句読点が少ない「書きながら考える」スタイルです（\"last year I thought\" のあたりで文がつながっている）。",
+        "\"industrials\" は \"industries\" か \"industrial users\" の意味と思われます。\"sent it back\" は \"send it back\" の時制のゆれ。"
+      ],
+      "standard_en": "JGC, which started Japan's first commercial-scale SAF plant last year—I thought there were already some commercial plants, as I think industrial users such as restaurants who use a lot of oil for frying do not throw it away but send it back. Personally, I would like to see some collecting points in my city for individuals, though in my case the oil used is just tiny amounts for frying food in a pan.",
+      "marked_terms": [],
+      "comment_id": 5228975,
+      "author": "didou",
+      "rating": 1,
+      "posted_at": "2026-06-07T10:46:21+09:00"
+    }
+  ]
+}

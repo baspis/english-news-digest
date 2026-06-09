@@ -1,0 +1,2129 @@
+{
+  "summary_ja": "ウクライナ軍はロシアと占領下クリミアの石油施設を攻撃し、戦争の経済的代償をモスクワに課す作戦を続けている。ゼレンスキー大統領はアブラモビッチがキーウとモスクワ間の仲介を務めたことを認め、会談の用意がある一方ドンバス譲歩は否定した。双方の無人機攻撃で民間人被害も相次ぎ、読者コメントでは軍事標的と民間標的、和平交渉をめぐる激しい論争が続いている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Ukrainian forces struck oil facilities in Russia and occupied Ukraine, Ukrainian and Russian officials said Monday, as part of their campaign to make Moscow pay an economic cost for the war.",
+      "translation_ja": "ウクライナ軍はロシアと占領下のウクライナで石油施設を攻撃したと、ウクライナとロシアの当局者が月曜に述べた。これは戦争に経済的代償を払わせる作戦の一環だ。",
+      "grammar_ja": "過去形 struck + 倒置の said Monday。as part of their campaign to... で目的。make A pay a cost = Aに代償を払わせる。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Ukrainian forces struck oil facilities",
+          "role_ja": "主語＋述語",
+          "literal_ja": "ウクライナ軍が石油施設を攻撃した",
+          "note_ja": "strike = 攻撃・打撃を与える。"
+        },
+        {
+          "text": "in Russia and occupied Ukraine",
+          "role_ja": "場所",
+          "literal_ja": "ロシアと占領下のウクライナで",
+          "note_ja": ""
+        },
+        {
+          "text": "Ukrainian and Russian officials said Monday",
+          "role_ja": "引用元",
+          "literal_ja": "ウクライナとロシア当局が月曜述べた",
+          "note_ja": "報道の帰属。"
+        },
+        {
+          "text": "as part of their campaign",
+          "role_ja": "理由",
+          "literal_ja": "作戦の一環として",
+          "note_ja": "campaign = 作戦・キャンペーン。"
+        },
+        {
+          "text": "to make Moscow pay an economic cost for the war",
+          "role_ja": "目的",
+          "literal_ja": "モスクワに戦争の経済的代償を払わせるため",
+          "note_ja": ""
+        }
+      ],
+      "deep_dive_ja": "見出し文。主語と述語が officials said で分断される倒置構文はニュース英語の典型。"
+    },
+    {
+      "text": "Separately, Ukraine's President Volodymyr Zelenskyy has confirmed that Roman Abramovich acted as a go-between for messages between Kyiv and Moscow.",
+      "translation_ja": "別件として、ウクライナのゼレンスキー大統領は、ロマン・アブラモビッチがキーウとモスクワ間のメッセージ仲介を務めたことを認めた。",
+      "grammar_ja": "Separately で話題転換。has confirmed that節。act as a go-between = 仲介役を務める。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Separately",
+          "role_ja": "接続副詞",
+          "literal_ja": "別件として",
+          "note_ja": "話題を切り替える。"
+        },
+        {
+          "text": "has confirmed that",
+          "role_ja": "述語",
+          "literal_ja": "〜を認めた",
+          "note_ja": "現在完了で最近の確認。"
+        },
+        {
+          "text": "Roman Abramovich acted as a go-between",
+          "role_ja": "that節の内容",
+          "literal_ja": "アブラモビッチが仲介役を務けた",
+          "note_ja": "go-between = 仲介者。"
+        },
+        {
+          "text": "for messages between Kyiv and Moscow",
+          "role_ja": "目的",
+          "literal_ja": "キーウとモスクワ間のメッセージの",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Zelenskyy told Sky News that the former owner of Premier League team Chelsea traveled to Kyiv with a message from Russian President Vladimir Putin.",
+      "translation_ja": "ゼレンスキーはスカイニュースに、プレミアリーグのチェルシー元オーナーがロシアのプーチン大統領からのメッセージを持ってキーウを訪れたと伝えた。",
+      "grammar_ja": "told A that S。the former owner of... で人物説明。with a message from... で携行物。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Zelenskyy told Sky News",
+          "role_ja": "主述",
+          "literal_ja": "ゼレンスキーはスカイニュースに伝えた",
+          "note_ja": ""
+        },
+        {
+          "text": "the former owner of Premier League team Chelsea",
+          "role_ja": "主語（that節内）",
+          "literal_ja": "プレミアリーグ・チェルシー元オーナーが",
+          "note_ja": "former owner = 元オーナー。"
+        },
+        {
+          "text": "traveled to Kyiv",
+          "role_ja": "述語",
+          "literal_ja": "キーウを訪れた",
+          "note_ja": ""
+        },
+        {
+          "text": "with a message from Russian President Vladimir Putin",
+          "role_ja": "付帯",
+          "literal_ja": "プーチン大統領からのメッセージを持って",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Zelenskyy said Abramovich brought the message that the Russians \"want to understand what we are ready to do,\" and had offered to take a reply to Putin.",
+      "translation_ja": "ゼレンスキーは、アブラモビッチがロシア側が「私たちが何をする用意があるか理解したい」とのメッセージを持参し、プーチンへの返答を届ける申し出をしたと述べた。",
+      "grammar_ja": "間接話法の二重構造。brought the message that...。had offered = 過去完了で先の申し出。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Zelenskyy said Abramovich brought the message",
+          "role_ja": "主部",
+          "literal_ja": "アブラモビッチがメッセージを持参したと",
+          "note_ja": ""
+        },
+        {
+          "text": "that the Russians \"want to understand what we are ready to do,\"",
+          "role_ja": "内容節",
+          "literal_ja": "ロシア側が理解したいと",
+          "note_ja": ""
+        },
+        {
+          "text": "and had offered to take a reply to Putin",
+          "role_ja": "並列述語",
+          "literal_ja": "プーチンへ返答を届ける申し出をした",
+          "note_ja": "過去完了。"
+        }
+      ],
+      "deep_dive_ja": "ready to do = する用意がある。外交交渉の婉曲表現。"
+    },
+    {
+      "text": "Meanwhile, the European Union's foreign policy chief said a new proposed round of sanctions against Russia includes 80 listings targeting Russia's \"military industrial complex, human rights violators and propagandists.\"",
+      "translation_ja": "一方、EU外相は、ロシアへの新たな制裁案の一環として、ロシアの「軍事産業複合体、人権侵害者、プロパガンダ関係者」80件を標的とするリストを含むと述べた。",
+      "grammar_ja": "Meanwhile で話題転換。proposed round of sanctions。targeting は listings を後置修飾。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "the European Union's foreign policy chief said",
+          "role_ja": "主述",
+          "literal_ja": "EU外相は述べた",
+          "note_ja": "foreign policy chief = 外相。"
+        },
+        {
+          "text": "a new proposed round of sanctions against Russia",
+          "role_ja": "目的語",
+          "literal_ja": "ロシアへの新制裁案の一環",
+          "note_ja": ""
+        },
+        {
+          "text": "includes 80 listings",
+          "role_ja": "述語（that節内）",
+          "literal_ja": "80件のリストを含む",
+          "note_ja": "listing = 制裁対象の指名。"
+        },
+        {
+          "text": "targeting Russia's \"military industrial complex, human rights violators and propagandists.\"",
+          "role_ja": "修飾",
+          "literal_ja": "軍事産業複合体などを標的とする",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Kaja Kallas told a news conference after a meeting of EU defense ministers Monday that Western sanctions have already cost Moscow an estimated $1.2 to 1.5 trillion.",
+      "translation_ja": "カヤ・カラスは、EU国防相会合の後の記者会見で、西側の制裁がすでにモスクワに推定1.2〜1.5兆ドルの損失を与えたと述べた。",
+      "grammar_ja": "told a news conference that...。estimated = 推定の。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Kaja Kallas told a news conference",
+          "role_ja": "主述",
+          "literal_ja": "カラスは記者会見で述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "after a meeting of EU defense ministers Monday",
+          "role_ja": "時",
+          "literal_ja": "EU国防相会合の後",
+          "note_ja": ""
+        },
+        {
+          "text": "Western sanctions have already cost Moscow",
+          "role_ja": "that節",
+          "literal_ja": "西側制裁がモスクワに損失を与えた",
+          "note_ja": "cost A B = AにBの損失を与える。"
+        },
+        {
+          "text": "an estimated $1.2 to 1.5 trillion",
+          "role_ja": "目的語",
+          "literal_ja": "推定1.2〜1.5兆ドル",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russia's Defense Ministry said its forces shot down 310 Ukrainian drones overnight into Monday, including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas.",
+      "translation_ja": "ロシア国防省は、部隊が月曜未明までの夜に310機のウクライナ無人機を撃墜したと述べた。モスクワ州、ロシア西部・南西部、ロシア占領下のクリミア、黒海とアゾフ海の上空も含まれる。",
+      "grammar_ja": "shot down = 撃墜。overnight into Monday = 月曜にかけての夜。including で地域列挙。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Russia's Defense Ministry said",
+          "role_ja": "主述",
+          "literal_ja": "ロシア国防省は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "its forces shot down 310 Ukrainian drones",
+          "role_ja": "that節",
+          "literal_ja": "部隊が310機を撃墜した",
+          "note_ja": ""
+        },
+        {
+          "text": "overnight into Monday",
+          "role_ja": "時",
+          "literal_ja": "月曜未明までの夜に",
+          "note_ja": ""
+        },
+        {
+          "text": "including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas",
+          "role_ja": "付帯",
+          "literal_ja": "各地域を含め",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russia targeted Ukraine with 155 drones, of which Ukrainian air defenses shot down or suppressed 124, according to its air force.",
+      "translation_ja": "ロシアは155機の無人機でウクライナを標的にしたが、ウクライナの防空は124機を撃墜または無力化したと空軍が述べた。",
+      "grammar_ja": "of which 関係詞節。shot down or suppressed = 撃墜または妨害。according to = 〜によると。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Russia targeted Ukraine with 155 drones",
+          "role_ja": "主部",
+          "literal_ja": "ロシアは155機でウクライナを標的にした",
+          "note_ja": "target A with B。"
+        },
+        {
+          "text": "of which Ukrainian air defenses shot down or suppressed 124",
+          "role_ja": "関係詞節",
+          "literal_ja": "そのうち124機を撃墜・無力化",
+          "note_ja": "of which = そのうち。"
+        },
+        {
+          "text": "according to its air force",
+          "role_ja": "出典",
+          "literal_ja": "空軍によると",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Ukraine's General Staff said Ukrainian forces had struck Russia's Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk.",
+      "translation_ja": "ウクライナ参謀本部は、部隊が夜間にロシアのクラスノダール地方を攻撃し、ノヴォロシースク近くのグルショヴァヤ石油積替基地を命中させたと述べた。",
+      "grammar_ja": "had struck = 過去完了。hitting は結果の付帯。transshipment base = 積替基地。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Ukraine's General Staff said",
+          "role_ja": "主述",
+          "literal_ja": "ウクライナ参謀本部は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "Ukrainian forces had struck Russia's Krasnodar Krai region overnight",
+          "role_ja": "that節",
+          "literal_ja": "部隊がクラスノダール地方を攻撃した",
+          "note_ja": ""
+        },
+        {
+          "text": "hitting the Grushovaya oil transshipment base near Novorossiysk",
+          "role_ja": "結果",
+          "literal_ja": "グルショヴァヤ石油積替基地を命中",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The complex is one of the largest transshipment hubs in southern Russia for oil and petroleum products.",
+      "translation_ja": "その複合施設は、石油と石油製品の南ロシア最大級の積替拠点の一つだ。",
+      "grammar_ja": "one of the largest + 複数名詞。for oil and petroleum products = 対象を示す。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "The complex",
+          "role_ja": "主語",
+          "literal_ja": "その複合施設は",
+          "note_ja": ""
+        },
+        {
+          "text": "is one of the largest transshipment hubs",
+          "role_ja": "述語",
+          "literal_ja": "最大級の積替拠点の一つだ",
+          "note_ja": "one of the + 最上級。"
+        },
+        {
+          "text": "in southern Russia for oil and petroleum products",
+          "role_ja": "修飾",
+          "literal_ja": "南ロシアの石油・石油製品向け",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russian regional authorities confirmed a Ukrainian drone sparked a fire at the facility, adding that there were no casualties.",
+      "translation_ja": "ロシアの地方当局は、ウクライナの無人機が施設で火災を起こしたことを認め、死傷者はいなかったと付け加えた。",
+      "grammar_ja": "confirmed that...。sparked a fire = 火災を起こした。adding that = 付け加えて。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Russian regional authorities confirmed",
+          "role_ja": "主述",
+          "literal_ja": "ロシア地方当局は認めた",
+          "note_ja": ""
+        },
+        {
+          "text": "a Ukrainian drone sparked a fire at the facility",
+          "role_ja": "that節",
+          "literal_ja": "ウクライナ無人機が火災を起こした",
+          "note_ja": "spark = 引き起こす。"
+        },
+        {
+          "text": "adding that there were no casualties",
+          "role_ja": "付帯",
+          "literal_ja": "死傷者なしと付け加え",
+          "note_ja": "casualties = 死傷者。"
+        }
+      ]
+    },
+    {
+      "text": "While they did not comment on the extent of damage, they said 130 rescue workers were involved in putting out the blaze.",
+      "translation_ja": "被害の程度には言及しなかったが、130人の救助隊員が消火に当たったと述べた。",
+      "grammar_ja": "While S, they said... の譲歩。be involved in + 動名詞。put out the blaze = 消火する。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "While they did not comment on the extent of damage",
+          "role_ja": "譲歩節",
+          "literal_ja": "被害程度には言及せず",
+          "note_ja": ""
+        },
+        {
+          "text": "they said",
+          "role_ja": "主述",
+          "literal_ja": "述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "130 rescue workers were involved in putting out the blaze",
+          "role_ja": "that節",
+          "literal_ja": "130人が消火に従事",
+          "note_ja": "be involved in = 〜に従事。"
+        }
+      ]
+    },
+    {
+      "text": "Asked whether the Kremlin is worried about the fuel crisis in Crimea, Kremlin spokesman Dmitry Peskov said the Energy Ministry and other agencies are working on a set of measures to respond to the situation.",
+      "translation_ja": "クリミアの燃料危機をクレムリンが懸念しているかと問われ、報道官ペスコフはエネルギー省などが対応策を検討中だと述べた。",
+      "grammar_ja": "過去分詞 Asked で受動の質問形式。a set of measures to respond to = 対応策。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Asked whether the Kremlin is worried about the fuel crisis in Crimea",
+          "role_ja": "状況",
+          "literal_ja": "クリミア燃料危機への懸念を問われ",
+          "note_ja": ""
+        },
+        {
+          "text": "Kremlin spokesman Dmitry Peskov said",
+          "role_ja": "主述",
+          "literal_ja": "ペスコフ報道官は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "the Energy Ministry and other agencies are working on a set of measures to respond to the situation",
+          "role_ja": "that節",
+          "literal_ja": "各省庁が対応策を検討中",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "\"There are indeed certain problems at the moment,\" Peskov said. \"Measures are being taken.\"",
+      "translation_ja": "ペスコフは「確かに現時点で一定の問題がある。対策が講じられている」と述べた。",
+      "grammar_ja": "直接話法二文。Measures are being taken = 受動の進行形で進行中の対策。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "\"There are indeed certain problems at the moment,\"",
+          "role_ja": "引用1",
+          "literal_ja": "確かに一定の問題がある",
+          "note_ja": "indeed = 確かに。"
+        },
+        {
+          "text": "Peskov said",
+          "role_ja": "主述",
+          "literal_ja": "ペスコフは述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "\"Measures are being taken.\"",
+          "role_ja": "引用2",
+          "literal_ja": "対策が講じられている",
+          "note_ja": "受動進行形。"
+        }
+      ],
+      "deep_dive_ja": "政治的婉曲表現。understatement（控えめな表現）の例。"
+    },
+    {
+      "text": "The Krasny Yar \"linear production and dispatching station\" in the Volgograd region was also hit, the General Staff said.",
+      "translation_ja": "参謀本部によると、ヴォルゴグラード州のクラスヌイ・ヤール「線路生産・配電所」も攻撃を受けた。",
+      "grammar_ja": "受動 was hit。the General Staff said = 文末の帰属。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "The Krasny Yar \"linear production and dispatching station\"",
+          "role_ja": "主語",
+          "literal_ja": "クラスヌイ・ヤール配電所も",
+          "note_ja": ""
+        },
+        {
+          "text": "in the Volgograd region was also hit",
+          "role_ja": "述語",
+          "literal_ja": "ヴォルゴグラード州で攻撃を受けた",
+          "note_ja": "also = 前述に加えて。"
+        },
+        {
+          "text": "the General Staff said",
+          "role_ja": "帰属",
+          "literal_ja": "参謀本部は述べた",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "A fire broke out at the site, according to the statement.",
+      "translation_ja": "声明によると、現場で火災が発生した。",
+      "grammar_ja": "broke out = （火災が）発生。according to = 〜によると。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "A fire broke out at the site",
+          "role_ja": "主述",
+          "literal_ja": "現場で火災が発生",
+          "note_ja": "break out = 突然起きる。"
+        },
+        {
+          "text": "according to the statement",
+          "role_ja": "出典",
+          "literal_ja": "声明によると",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Andrei Bocharov didn't specify what the facility produces, but said there were no injuries.",
+      "translation_ja": "アンドレイ・ボチャロフ知事は施設の生産物には言及しなかったが、負傷者はいなかったと述べた。",
+      "grammar_ja": "didn't specify ... but said...。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Andrei Bocharov didn't specify what the facility produces",
+          "role_ja": "前半",
+          "literal_ja": "生産物には言及せず",
+          "note_ja": ""
+        },
+        {
+          "text": "but said there were no injuries",
+          "role_ja": "後半",
+          "literal_ja": "負傷者なしと述べた",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Ukraine also carried out strikes overnight in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula on Sunday night, sparking a fire at the facility.",
+      "translation_ja": "ウクライナは日曜夜、ロシア占領下のクリミア半島のセミコロデツカヤ石油基地にも夜間攻撃を行い、施設で火災を起こした。",
+      "grammar_ja": "carried out strikes。sparking a fire = 結果の分詞構文。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Ukraine also carried out strikes overnight",
+          "role_ja": "主述",
+          "literal_ja": "ウクライナも夜間攻撃を実施",
+          "note_ja": ""
+        },
+        {
+          "text": "in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula",
+          "role_ja": "場所",
+          "literal_ja": "占領下クリミアの石油基地で",
+          "note_ja": ""
+        },
+        {
+          "text": "on Sunday night, sparking a fire at the facility",
+          "role_ja": "時・結果",
+          "literal_ja": "日曜夜、火災を起こし",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The base is used to store fuel reserves supplying the Russian military, according to the statement posted on Telegram.",
+      "translation_ja": "テレグラムの声明によると、その基地はロシア軍に燃料を供給する備蓄用だ。",
+      "grammar_ja": "be used to + 動詞原形 = 〜に使われる。supplying は reserves を後置修飾。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "The base is used to store fuel reserves",
+          "role_ja": "主述",
+          "literal_ja": "基地は燃料備蓄用",
+          "note_ja": "be used to do。"
+        },
+        {
+          "text": "supplying the Russian military",
+          "role_ja": "修飾",
+          "literal_ja": "ロシア軍に供給する",
+          "note_ja": ""
+        },
+        {
+          "text": "according to the statement posted on Telegram",
+          "role_ja": "出典",
+          "literal_ja": "テレグラム声明によると",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Ukrainian forces also struck an oil depot near Feodosia in Crimea, the General Staff said.",
+      "translation_ja": "参謀本部は、ウクライナ軍がクリミアのフェオドシア近くの石油貯蔵所も攻撃したと述べた。",
+      "grammar_ja": "oil depot = 石油貯蔵所。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Ukrainian forces also struck an oil depot",
+          "role_ja": "主部",
+          "literal_ja": "ウクライナ軍も石油貯蔵所を攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "near Feodosia in Crimea",
+          "role_ja": "場所",
+          "literal_ja": "クリミア・フェオドシア近く",
+          "note_ja": ""
+        },
+        {
+          "text": "the General Staff said",
+          "role_ja": "帰属",
+          "literal_ja": "参謀本部は述べた",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Zelenskyy said his message was that he would meet Putin \"any time\" in any location other than Russia or Belarus, and either bilaterally or with U.S.",
+      "translation_ja": "ゼレンスキーは、自分のメッセージはプーチンと「いつでも」会う用意があることで、場所はロシアかベラルーシ以外ならどこでもよく、米国の",
+      "grammar_ja": "引用の途中で文が切れる。either ... or ... の並列。other than = 〜以外。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Zelenskyy said his message was that",
+          "role_ja": "主部",
+          "literal_ja": "メッセージは〜だと",
+          "note_ja": ""
+        },
+        {
+          "text": "he would meet Putin \"any time\"",
+          "role_ja": "内容",
+          "literal_ja": "いつでもプーチンと会う",
+          "note_ja": ""
+        },
+        {
+          "text": "in any location other than Russia or Belarus",
+          "role_ja": "条件",
+          "literal_ja": "ロシア・ベラルーシ以外なら",
+          "note_ja": ""
+        },
+        {
+          "text": "and either bilaterally or with U.S.",
+          "role_ja": "並列",
+          "literal_ja": "二国間か米国と",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "President Donald Trump and European leaders.",
+      "translation_ja": "ドナルド・トランプ大統領と欧州首脳とともに、という内容の続き。",
+      "grammar_ja": "前句の with U.S. に続く名詞句。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "President Donald Trump and European leaders",
+          "role_ja": "名詞句",
+          "literal_ja": "トランプ大統領と欧州首脳",
+          "note_ja": "前句の続き。"
+        }
+      ]
+    },
+    {
+      "text": "But he said Ukraine would not surrender the Donbas region, currently part-occupied by Russia.",
+      "translation_ja": "しかしウクライナは、現在ロシアが一部占領するドンバス地域を引き渡すことはないと述べた。",
+      "grammar_ja": "would not surrender。part-occupied = 一部占領された。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "But he said",
+          "role_ja": "主部",
+          "literal_ja": "しかし述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "Ukraine would not surrender the Donbas region",
+          "role_ja": "that節",
+          "literal_ja": "ドンバスを引き渡さない",
+          "note_ja": ""
+        },
+        {
+          "text": "currently part-occupied by Russia",
+          "role_ja": "修飾",
+          "literal_ja": "現在ロシアが一部占領",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "\"It was the key message.",
+      "translation_ja": "「それが重要なメッセージだった。",
+      "grammar_ja": "直接話法の前半。key message = 核心メッセージ。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "\"It was the key message.\"",
+          "role_ja": "引用",
+          "literal_ja": "それが重要なメッセージ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "I said we will not leave and we will not go out from our territory,\" Zelenskyy told Sky News.",
+      "translation_ja": "私たちは去らず、領土から出て行かないと言った」とゼレンスキーはスカイニュースに語った。",
+      "grammar_ja": "will not leave and will not go out from = 二重否定の強調。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "I said we will not leave and we will not go out from our territory",
+          "role_ja": "引用",
+          "literal_ja": "去らず領土から出ないと",
+          "note_ja": ""
+        },
+        {
+          "text": "Zelenskyy told Sky News",
+          "role_ja": "主述",
+          "literal_ja": "ゼレンスキーはスカイニュースに語った",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Putin said last week that a Russian businessman, who he didn't identify, traveled to Kyiv last month and met with Zelenskyy to hear his offer of a personal meeting.",
+      "translation_ja": "プーチンは先週、名指しはしなかったがロシアの実業家が先月キーサを訪れ、個人的会談の申し出を聞くためにゼレンスキーと会ったと述べた。",
+      "grammar_ja": "関係詞 who he didn't identify。to hear his offer = 申し出を聞くため。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Putin said last week",
+          "role_ja": "主述",
+          "literal_ja": "プーチンは先週述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "that a Russian businessman, who he didn't identify, traveled to Kyiv last month",
+          "role_ja": "that節",
+          "literal_ja": "名指ししない実業家がキーウを訪れた",
+          "note_ja": ""
+        },
+        {
+          "text": "and met with Zelenskyy to hear his offer of a personal meeting",
+          "role_ja": "並列",
+          "literal_ja": "会談申し出を聞くためゼレンスキーと会った",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The Russian leader rejected the idea of a meeting, saying he saw no point in it.",
+      "translation_ja": "ロシアの指導者は会談案を拒否し、意味がないと考えると述べた。",
+      "grammar_ja": "rejected the idea of...。saw no point in it = 意味がないと見なす。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "The Russian leader rejected the idea of a meeting",
+          "role_ja": "主述",
+          "literal_ja": "会談案を拒否",
+          "note_ja": ""
+        },
+        {
+          "text": "saying he saw no point in it",
+          "role_ja": "付帯",
+          "literal_ja": "意味がないと述べ",
+          "note_ja": "see no point = 意味がない。"
+        }
+      ]
+    },
+    {
+      "text": "Two people were killed and at least 18 injured, including four children aged 5, 10, 13 and 12, by a Russian drone attack in the central Zaporizhzhia region that damaged residential buildings and vehicles and destroyed market kiosks, said the regional military administration head, Ivan Fedorov.",
+      "translation_ja": "ザポリージャ州中部でのロシア無人機攻撃で2人死亡、少なくとも18人負傷、5・10・13・12歳の子ども4人を含む。住宅や車両が損壊し市場のキオスクが破壊されたと、地方軍政当局のイヴァン・フェドロフ氏が述べた。",
+      "grammar_ja": "受動 by a Russian drone attack。including で内訳。長い関係詞節 that damaged...。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Two people were killed and at least 18 injured",
+          "role_ja": "主部",
+          "literal_ja": "2人死亡18人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "including four children aged 5, 10, 13 and 12",
+          "role_ja": "付帯",
+          "literal_ja": "子ども4人を含む",
+          "note_ja": ""
+        },
+        {
+          "text": "by a Russian drone attack in the central Zaporizhzhia region",
+          "role_ja": "原因・場所",
+          "literal_ja": "ザポリージャ中部の無人機攻撃で",
+          "note_ja": ""
+        },
+        {
+          "text": "that damaged residential buildings and vehicles and destroyed market kiosks",
+          "role_ja": "関係詞節",
+          "literal_ja": "住宅等を損壊・破壊",
+          "note_ja": ""
+        },
+        {
+          "text": "said the regional military administration head, Ivan Fedorov",
+          "role_ja": "帰属",
+          "literal_ja": "フェドロフ氏が述べた",
+          "note_ja": "倒置。"
+        }
+      ]
+    },
+    {
+      "text": "In Nikopol. a Russian attack killed a 49-year-old woman and injured four other people, according to the State Emergency Service.",
+      "translation_ja": "ニコポリではロシアの攻撃で49歳女性が死亡、他4人が負傷したと救急サービスが伝えた。",
+      "grammar_ja": "In Nikopol. のピリオドは原文の誤記。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "In Nikopol. a Russian attack killed a 49-year-old woman",
+          "role_ja": "主部",
+          "literal_ja": "ニコポリで49歳女性が死亡",
+          "note_ja": ""
+        },
+        {
+          "text": "and injured four other people",
+          "role_ja": "並列",
+          "literal_ja": "他4人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "according to the State Emergency Service",
+          "role_ja": "出典",
+          "literal_ja": "救急サービスによると",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The service also reported that four people were injured in the Dnipropetrovsk region when strikes hit residential buildings.",
+      "translation_ja": "同サービスは、ドニプロペトロフスク州で攻撃が住宅に当たり4人が負傷したとも報告した。",
+      "grammar_ja": "also reported that...。when strikes hit = 時を表す副詞節。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "The service also reported that",
+          "role_ja": "主述",
+          "literal_ja": "同サービスは報告",
+          "note_ja": ""
+        },
+        {
+          "text": "four people were injured in the Dnipropetrovsk region",
+          "role_ja": "that節",
+          "literal_ja": "4人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "when strikes hit residential buildings",
+          "role_ja": "時",
+          "literal_ja": "住宅への攻撃で",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "In Odesa, three people were wounded after a Russian drone struck a public transport stop.",
+      "translation_ja": "オデッサでは、ロシアの無人機が公共交通の停留所を攻撃し、3人が負傷した。",
+      "grammar_ja": "after S = Sの後に。public transport stop = バス停等。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "In Odesa, three people were wounded",
+          "role_ja": "主部",
+          "literal_ja": "オデッサで3人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "after a Russian drone struck a public transport stop",
+          "role_ja": "時・原因",
+          "literal_ja": "無人機が停留所を攻撃後",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russian drone strikes overnight also injured civilians and damaged buildings and businesses in the Kharkiv, Odesa and Chernihiv regions, regional authorities said.",
+      "translation_ja": "ハリコフ、オデッサ、チェルニーヒウの各州でも、夜間のロシア無人機攻撃で民間人が負傷し、建物や店舗が損傷したと地方当局が述べた。",
+      "grammar_ja": "also injured and damaged の並列。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Russian drone strikes overnight",
+          "role_ja": "主語",
+          "literal_ja": "夜間のロシア無人機攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "also injured civilians and damaged buildings and businesses",
+          "role_ja": "述語",
+          "literal_ja": "民間人負傷・建物損傷",
+          "note_ja": ""
+        },
+        {
+          "text": "in the Kharkiv, Odesa and Chernihiv regions",
+          "role_ja": "場所",
+          "literal_ja": "3州で",
+          "note_ja": ""
+        },
+        {
+          "text": "regional authorities said",
+          "role_ja": "帰属",
+          "literal_ja": "地方当局は述べた",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Meanwhile, a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea, injuring the driver and killing the driver's assistant, Kremlin-installed regional leader Sergei Aksyonov reported early Monday.",
+      "translation_ja": "一方、ウクライナの無人機が夜間、占領下クリミアのモスクワ―シンフェロポリ間を走る旅客列車を攻撃し、運転士を負傷させ助手を死亡させたと、クレムリン派の地方指導者アクショノフが月曜早朝に報告した。",
+      "grammar_ja": "traveling from... = 現在分詞の後置修飾。Kremlin-installed = クレムリン派。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Meanwhile, a Ukrainian drone overnight struck a passenger train",
+          "role_ja": "主部",
+          "literal_ja": "ウクライナ無人機が旅客列車を攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "traveling from Moscow to Simferopol in occupied Crimea",
+          "role_ja": "修飾",
+          "literal_ja": "占領下クリミアのモスクワ―シンフェロポリ間",
+          "note_ja": ""
+        },
+        {
+          "text": "injuring the driver and killing the driver's assistant",
+          "role_ja": "結果",
+          "literal_ja": "運転士負傷・助手死亡",
+          "note_ja": ""
+        },
+        {
+          "text": "Kremlin-installed regional leader Sergei Aksyonov reported early Monday",
+          "role_ja": "帰属",
+          "literal_ja": "アクショノフが月曜早朝報告",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Akysyonov added that no passengers were hurt.",
+      "translation_ja": "アクショノフは乗客の怪我はなかったと付け加えた。",
+      "grammar_ja": "Akysyonov は原文のスペルミス。added that = 付け加えた。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Akysyonov added that no passengers were hurt",
+          "role_ja": "主述",
+          "literal_ja": "乗客の怪我なしと付け加え",
+          "note_ja": "hurt = 怪我・負傷。"
+        }
+      ]
+    },
+    {
+      "text": "But all passenger train traffic in Crimea was halted following the attack, with passengers evacuated and replacement buses provided, Russian operator Grand Service Express reported on Telegram that same morning.",
+      "translation_ja": "しかし攻撃を受け、クリミアの旅客列車は全線運休となり、乗客は避難させ代替バスが手配されたと、ロシアの鉄道会社グランド・サービス・エクスプレスが同日朝テレグラムで報告した。",
+      "grammar_ja": "was halted = 運休。with passengers evacuated = 付帯状況の with + O + 過去分詞。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "But all passenger train traffic in Crimea was halted",
+          "role_ja": "主部",
+          "literal_ja": "旅客列車は全線運休",
+          "note_ja": ""
+        },
+        {
+          "text": "following the attack",
+          "role_ja": "時",
+          "literal_ja": "攻撃後",
+          "note_ja": ""
+        },
+        {
+          "text": "with passengers evacuated and replacement buses provided",
+          "role_ja": "付帯",
+          "literal_ja": "乗客避難・代替バス",
+          "note_ja": ""
+        },
+        {
+          "text": "Russian operator Grand Service Express reported on Telegram that same morning",
+          "role_ja": "帰属",
+          "literal_ja": "鉄道会社が同日朝報告",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The war needs to end justly with a simple stop in the aggressor's pushing.",
+      "translation_ja": "戦争は侵略国の押し進めを止めるという単純な形で、公正に終わる必要がある。",
+      "grammar_ja": "読者コメント。aggressor's pushing = 侵略の推進。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "The war needs to end justly",
+          "role_ja": "主部",
+          "literal_ja": "戦争は公正に終わる必要",
+          "note_ja": ""
+        },
+        {
+          "text": "with a simple stop in the aggressor's pushing",
+          "role_ja": "方式",
+          "literal_ja": "侵略の推進を止める形で",
+          "note_ja": "aggressor = 侵略国。"
+        }
+      ]
+    },
+    {
+      "text": "Putin is going to kick off for this, make no mistake.",
+      "translation_ja": "間違いなくプーチンはこれで激怒するだろう。",
+      "grammar_ja": "口語・イギリス英語。kick off = 激怒する。make no mistake = 間違いなく。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Putin is going to kick off for this",
+          "role_ja": "主述",
+          "literal_ja": "プーチンは激怒するだろう",
+          "note_ja": "kick off = カンカンを切る・激怒。"
+        },
+        {
+          "text": "make no mistake",
+          "role_ja": "強調",
+          "literal_ja": "間違いなく",
+          "note_ja": "決め台詞的表現。"
+        }
+      ],
+      "deep_dive_ja": "イギリス口語。kick off はサッカーのキックオフから転じたスラング。"
+    },
+    {
+      "text": "I'm started wondering if theve both turned potty due to their recent behaviour",
+      "translation_ja": "最近の振る舞いを見て、二人ともおかしくなったのではと思い始めている。",
+      "grammar_ja": "コメントの非標準英語。I'm started は I'm starting の誤り。potty = おかしい・頭がおかしい（口語）。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "I'm started wondering",
+          "role_ja": "述語（非標準）",
+          "literal_ja": "思い始めている",
+          "note_ja": "starting の誤用。"
+        },
+        {
+          "text": "if theyve both turned potty",
+          "role_ja": "疑問節",
+          "literal_ja": "二人ともおかしくなったか",
+          "note_ja": "potty = 頭おかしい（英口語）。"
+        },
+        {
+          "text": "due to their recent behaviour",
+          "role_ja": "理由",
+          "literal_ja": "最近の振る舞いで",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Despite Putin rejecting Zelensky's public offer of bilateral talks it seems that behind the scenes Putin is starting to come around to the idea.",
+      "translation_ja": "プーチンがゼレンスキーの公開二国間会談の申し出を拒否しているにもかかわらず、水面下では会談案に傾き始めているように見える。",
+      "grammar_ja": "Despite + 名詞。come around to the idea = 考えを変える・受け入れ始める。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Despite Putin rejecting Zelensky's public offer of bilateral talks",
+          "role_ja": "譲歩",
+          "literal_ja": "公開会談申し出の拒否にもかかわらず",
+          "note_ja": ""
+        },
+        {
+          "text": "it seems that behind the scenes",
+          "role_ja": "主部",
+          "literal_ja": "水面下では〜のよう",
+          "note_ja": ""
+        },
+        {
+          "text": "Putin is starting to come around to the idea",
+          "role_ja": "that節",
+          "literal_ja": "プーチンが考えを変え始めている",
+          "note_ja": "come around = 考えを変える。"
+        }
+      ]
+    },
+    {
+      "text": "Or he could just be playing for time until Trump refocuses on the conflict.",
+      "translation_ja": "あるいはトランプが再びこの紛争に注目するまで時間を稼いでいるだけかもしれない。",
+      "grammar_ja": "playing for time = 時間稼ぎ。refocus on = 再び注目する。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Or he could just be playing for time",
+          "role_ja": "主述",
+          "literal_ja": "時間稼ぎかもしれない",
+          "note_ja": ""
+        },
+        {
+          "text": "until Trump refocuses on the conflict",
+          "role_ja": "時",
+          "literal_ja": "トランプが再注目するまで",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "He can only do what he's been doing for years: attacks on civilians on Kyiv.",
+      "translation_ja": "彼にできるのは何年も続けてきたことだけだ。キーウの民間人への攻撃だ。",
+      "grammar_ja": "コロン : 以降が具体説明。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "He can only do what he's been doing for years",
+          "role_ja": "主部",
+          "literal_ja": "何年も続けてきたことだけ",
+          "note_ja": ""
+        },
+        {
+          "text": "attacks on civilians on Kyiv",
+          "role_ja": "同格",
+          "literal_ja": "キーウの民間人攻撃",
+          "note_ja": "on Kyiv = キーウにおける。"
+        }
+      ]
+    },
+    {
+      "text": "He doesn't have a strategy to win on the battlefield, so try and make civilians lives worse.",
+      "translation_ja": "戦場で勝つ戦略はなく、だから民間人の生活をより悪くしようとしている。",
+      "grammar_ja": "so try and = 口語的な「だから〜しようと」。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "He doesn't have a strategy to win on the battlefield",
+          "role_ja": "前半",
+          "literal_ja": "戦場勝利の戦略なし",
+          "note_ja": ""
+        },
+        {
+          "text": "so try and make civilians lives worse",
+          "role_ja": "後半",
+          "literal_ja": "民間人の生活を悪化させようと",
+          "note_ja": "make lives worse。"
+        }
+      ]
+    },
+    {
+      "text": "Kyiv have been striking oil sites in Russia and Crimea for over a year.",
+      "translation_ja": "キーサは1年以上前からロシアとクリミアの石油施設を攻撃している。今さら気づいたのか。",
+      "grammar_ja": "Kyiv have = 口語的複数扱い。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Kyiv have been striking oil sites in Russia and Crimea for over a year.",
+          "role_ja": "主述",
+          "literal_ja": "1年以上石油施設を攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Have you just noticed?",
+      "translation_ja": "今さら気づいたのか。",
+      "grammar_ja": "修辞疑問。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Have you just noticed?",
+          "role_ja": "疑問文",
+          "literal_ja": "今さら気づいたのか",
+          "note_ja": "just = 今さら。"
+        }
+      ]
+    },
+    {
+      "text": "I think that Putin's last hope, as he sees it, is for Trump to give him something to turn this around.",
+      "translation_ja": "プーチンにとって最後の望みは、彼が見ている限り、トランプが形勢を逆転させる何かを与えてくれることだと思う。",
+      "grammar_ja": "as he sees it = 彼の見方では。turn this around = 形勢を逆転させる。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "I think that Putin's last hope",
+          "role_ja": "主部",
+          "literal_ja": "プーチン最後の望みは",
+          "note_ja": ""
+        },
+        {
+          "text": "as he sees it",
+          "role_ja": "挿入",
+          "literal_ja": "彼の見方では",
+          "note_ja": ""
+        },
+        {
+          "text": "is for Trump to give him something to turn this around",
+          "role_ja": "述語",
+          "literal_ja": "トランプが逆転の材料を与えること",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Ukrainian drone overnight struck a passenger train",
+      "translation_ja": "ウクライナの無人機が夜間旅客列車を攻撃した。",
+      "grammar_ja": "コメント内の短い引用・要約。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Ukrainian drone overnight struck a passenger train",
+          "role_ja": "主述",
+          "literal_ja": "無人機が旅客列車を攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Putin needs to talk to Zelenskyy if he wants some kind of out from his disastrous war of choice in order to avoid a palace coup by the elites.",
+      "translation_ja": "宮廷クーデターでエリートから追い出されるのを避けたいなら、プーチンはゼレンスキーと話す必要がある。自ら選んだ disastrous war からの出口が欲しいなら。",
+      "grammar_ja": "war of choice = 選択した戦争。palace coup = 宮廷クーデター。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Putin needs to talk to Zelenskyy",
+          "role_ja": "主部",
+          "literal_ja": "プーチンは話す必要がある",
+          "note_ja": ""
+        },
+        {
+          "text": "if he wants some kind of out from his disastrous war of choice",
+          "role_ja": "条件",
+          "literal_ja": "選択戦争からの出口が欲しければ",
+          "note_ja": ""
+        },
+        {
+          "text": "in order to avoid a palace coup by the elites",
+          "role_ja": "目的",
+          "literal_ja": "エリートの宮廷クーデター回避のため",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "His situation is worsening by the day.",
+      "translation_ja": "彼の状況は日々悪化している。",
+      "grammar_ja": "worsening by the day = 日々悪化。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "His situation is worsening by the day",
+          "role_ja": "主述",
+          "literal_ja": "状況は日々悪化",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "His meat grinder assaults have completely stalled; he is facing hugely-effective Ukrainian drones both on and miles behind the battlefield; a united, Orban-less Europe is providing weapons and funding; and his ally Trump is busy with his own disastrous war of choice in Iran, so not helping him.",
+      "translation_ja": "肉挽き攻勢は完全に停滞。戦場でも後方数マイルでも極めて有効なウクライナ無人機に直面。オルバンなしの団結した欧州が武器と資金を提供。同盟のトランプはイランの選択戦争で忙しく手を貸さない。",
+      "grammar_ja": "セミコロンで列挙。meat grinder = 大量消耗戦。Orban-less = オルバンなしの。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "His meat grinder assaults have completely stalled",
+          "role_ja": "文1",
+          "literal_ja": "肉挽き攻勢は停滞",
+          "note_ja": ""
+        },
+        {
+          "text": "he is facing hugely-effective Ukrainian drones both on and miles behind the battlefield",
+          "role_ja": "文2",
+          "literal_ja": "前線・後方で無人機に直面",
+          "note_ja": ""
+        },
+        {
+          "text": "a united, Orban-less Europe is providing weapons and funding",
+          "role_ja": "文3",
+          "literal_ja": "欧州が武器・資金提供",
+          "note_ja": ""
+        },
+        {
+          "text": "his ally Trump is busy with his own disastrous war of choice in Iran, so not helping him",
+          "role_ja": "文4",
+          "literal_ja": "トランプは手を貸さない",
+          "note_ja": ""
+        }
+      ],
+      "deep_dive_ja": "meat grinder = 人員を消耗させる攻撃の比喩。"
+    },
+    {
+      "text": "Coupled with Russia's own economic, industrial, and demographic problems, Putin's prospects are bleak.",
+      "translation_ja": "ロシア自身の経済・産業・人口問題と相まって、プーチンの見通しは暗い。",
+      "grammar_ja": "Coupled with = 〜と相まって。prospects are bleak = 見通しが暗い。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Coupled with Russia's own economic, industrial, and demographic problems",
+          "role_ja": "状況",
+          "literal_ja": "ロシアの各種問題と相まって",
+          "note_ja": ""
+        },
+        {
+          "text": "Putin's prospects are bleak",
+          "role_ja": "主述",
+          "literal_ja": "プーチンの見通しは暗い",
+          "note_ja": "bleak = 暗い・厳しい。"
+        }
+      ]
+    },
+    {
+      "text": "..Roman Abramovich acted as a go-between for messages between Kyiv and Moscow.",
+      "translation_ja": "…ロマン・アブラモビッチがキーウとモスクワ間のメッセージ仲介を務めた。",
+      "grammar_ja": "記事引用の断片。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Roman Abramovich acted as a go-between for messages between Kyiv and Moscow",
+          "role_ja": "主述",
+          "literal_ja": "アブラモビッチが仲介役",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Zelenskyy said Abramovich brought the message that the Russians \"want to understand what we are ready to do,\"..",
+      "translation_ja": "ゼレンスキーはアブラモビッチが「私たちが何をする用意があるか理解したい」とのメッセージを持参したと…",
+      "grammar_ja": "引用の断片。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Zelenskyy said Abramovich brought the message that the Russians \"want to understand what we are ready to do,\"",
+          "role_ja": "主述",
+          "literal_ja": "理解したいとのメッセージ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Good to see steps towards peace being taken.",
+      "translation_ja": "和平に向けた歩みが見えてうれしい。",
+      "grammar_ja": "Good to see = 〜してうれしい。steps towards peace。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Good to see steps towards peace being taken",
+          "role_ja": "主述",
+          "literal_ja": "和平の歩みがうれしい",
+          "note_ja": "Good to see + 動名詞。"
+        }
+      ]
+    },
+    {
+      "text": "or at east prevailing...somebody tell me...",
+      "translation_ja": "それとも優勢なのか…誰か教えて…",
+      "grammar_ja": "断片的コメント。at east = at least の誤り。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "or at east prevailing...somebody tell me...",
+          "role_ja": "断片",
+          "literal_ja": "優勢なのか誰か教えて",
+          "note_ja": "prevailing = 優勢。"
+        }
+      ]
+    },
+    {
+      "text": "\"There are indeed certain problems at the moment,\" Peskov said.",
+      "translation_ja": "ペスコフは「確かに現時点で一定の問題がある」と述べた。",
+      "grammar_ja": "記事引用の繰り返し。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "\"There are indeed certain problems at the moment,\" Peskov said.",
+          "role_ja": "引用",
+          "literal_ja": "一定の問題があるとペスコフ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Bit of a master of understatement he is.",
+      "translation_ja": "控えめな言い方の達人だな。",
+      "grammar_ja": "master of understatement = 控えめ表現の達人。倒置 he is。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Bit of a master of understatement",
+          "role_ja": "主部",
+          "literal_ja": "控えめ表現の達人",
+          "note_ja": ""
+        },
+        {
+          "text": "he is",
+          "role_ja": "述語",
+          "literal_ja": "だ",
+          "note_ja": "倒置強調。"
+        }
+      ],
+      "deep_dive_ja": "understatement = 実態より弱く言う修辞。"
+    },
+    {
+      "text": "Ukrainian drone overnight struck a passenger train ....was that a train full of civilians?",
+      "translation_ja": "ウクライナ無人機が夜間旅客列車を攻撃した…民間人満載の列車だったのか？",
+      "grammar_ja": "コメント内の疑問。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Ukrainian drone overnight struck a passenger train",
+          "role_ja": "主部",
+          "literal_ja": "無人機が列車攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "....was that a train full of civilians?",
+          "role_ja": "疑問",
+          "literal_ja": "民間人満載だったのか",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "You really shouldn be talking about that too much, it will punch holes in the UA is not hitting civilian targets narrative here.",
+      "translation_ja": "それをあまり言わない方がいい。ウクライナは民間標的を攻撃しないという物語に穴が開く。",
+      "grammar_ja": "shouldn = should not の省略。punch holes in the narrative = 物語に穴を開ける。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "You really shouldn be talking about that too much",
+          "role_ja": "主部",
+          "literal_ja": "あまり言わない方がいい",
+          "note_ja": ""
+        },
+        {
+          "text": "it will punch holes in the UA is not hitting civilian targets narrative here",
+          "role_ja": "結果",
+          "literal_ja": "民間標的攻撃しない物語に穴",
+          "note_ja": ""
+        }
+      ],
+      "deep_dive_ja": "narrative = 特定の見方・語り。"
+    },
+    {
+      "text": "Zelensky told them that they will not give up any of the remaining Donbas and that whatever happened in Anchorage is meaningless because it didn't involve Ukraine.",
+      "translation_ja": "ゼレンスキーは残りのドンバスは一切譲らず、アンカレッジで起きたことはウクライナが関与していないので無意味だと伝えた。",
+      "grammar_ja": "give up = 放棄する。Anchorage = アラスカ会談等の文脈。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Zelensky told them",
+          "role_ja": "主述",
+          "literal_ja": "ゼレンスキーは伝えた",
+          "note_ja": ""
+        },
+        {
+          "text": "they will not give up any of the remaining Donbas",
+          "role_ja": "that節1",
+          "literal_ja": "残りドンバスは譲らない",
+          "note_ja": ""
+        },
+        {
+          "text": "whatever happened in Anchorage is meaningless because it didn't involve Ukraine",
+          "role_ja": "that節2",
+          "literal_ja": "アンカレッジは無意味",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "But he is ready to meet, as he has always said.",
+      "translation_ja": "しかし彼は会う用意がある、いつも言ってきた通りだ。",
+      "grammar_ja": "as he has always said = いつも通り。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "But he is ready to meet, as he has always said",
+          "role_ja": "主述",
+          "literal_ja": "会う用意があると",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "But not in Moscow or in Minsk.",
+      "translation_ja": "ただしモスクワでもミンスクでもない。",
+      "grammar_ja": "地点の否定。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "But not in Moscow or in Minsk.",
+          "role_ja": "否定",
+          "literal_ja": "モスクワ・ミンスク以外",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "by my humble opinion Kiev cant win over Russia by desperate attacks on civilian trains...",
+      "translation_ja": "謙虚な意見だが、キーサは民間列車への必死の攻撃でロシアに勝てはしない。",
+      "grammar_ja": "humble opinion = 謙遜。desperate attacks = 必死の攻撃。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "by my humble opinion",
+          "role_ja": "副詞句",
+          "literal_ja": "謙虚な意見では",
+          "note_ja": ""
+        },
+        {
+          "text": "Kiev cant win over Russia by desperate attacks on civilian trains",
+          "role_ja": "主部",
+          "literal_ja": "民間列車攻撃で勝てない",
+          "note_ja": "cant = cannot。"
+        }
+      ]
+    },
+    {
+      "text": "still dunno if Kiev is winning and prevailing.maybe in hearts of some heroi here ?",
+      "translation_ja": "キーサが勝って優勢なのかまだ分からない。ここの英雄扱いの人の心の中だけかも。",
+      "grammar_ja": "dunno = don't know。heroi = heroes の誤り。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "still dunno if Kiev is winning and prevailing",
+          "role_ja": "主部",
+          "literal_ja": "勝っているか分からない",
+          "note_ja": ""
+        },
+        {
+          "text": "maybe in hearts of some heroi here ?",
+          "role_ja": "付加",
+          "literal_ja": "ここの英雄信者の心の中だけ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "reality saying that Kiev have zero chance to win-even with all western financial and media support.",
+      "translation_ja": "現実は、西側の金とメディア支援があってもキーサに勝ち目はゼロだと言っている。",
+      "grammar_ja": "zero chance to win。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "reality saying that",
+          "role_ja": "主部",
+          "literal_ja": "現実は〜と言う",
+          "note_ja": ""
+        },
+        {
+          "text": "Kiev have zero chance to win-even with all western financial and media support",
+          "role_ja": "that節",
+          "literal_ja": "勝ち目ゼロ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "By this humble logic, Russia certainly can't win.",
+      "translation_ja": "この謙虚な論理なら、ロシアも確かに勝てない。",
+      "grammar_ja": "humble logic = 相手の論理を皮肉って借用。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "By this humble logic, Russia certainly can't win.",
+          "role_ja": "主述",
+          "literal_ja": "この論理ならロシアも勝てない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "I think you might win something after you get banned a few more times.",
+      "translation_ja": "あと何回かBANされたら何か勝てるかもな。",
+      "grammar_ja": "get banned = アカウント停止。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "I think you might win something after you get banned a few more times.",
+          "role_ja": "主述",
+          "literal_ja": "BANされれば何か勝てるかも",
+          "note_ja": "皮肉。"
+        }
+      ]
+    },
+    {
+      "text": "Maybe a persistence badge.",
+      "translation_ja": "たぶん根気のバッジとか。",
+      "grammar_ja": "persistence badge = 根気バッジ（皮肉）。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Maybe a persistence badge.",
+          "role_ja": "主述",
+          "literal_ja": "根気バッジかも",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Our Putinists go through a lot of accounts and coping methods on here.",
+      "translation_ja": "うちのプーチン支持者はアカウントと精神論のコピングをたくさん使う。",
+      "grammar_ja": "coping methods = 対処法・精神論。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Our Putinists go through a lot of accounts and coping methods on here.",
+          "role_ja": "主述",
+          "literal_ja": "プーチン支持者はアカウントとコピング",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Kiev cant win over Russia by desperate attacks on civilian trains…",
+      "translation_ja": "キーサは民間列車への必死の攻撃でロシアに勝てはしない…",
+      "grammar_ja": "前出コメントの繰り返し。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Kiev cant win over Russia by desperate attacks on civilian trains…",
+          "role_ja": "主述",
+          "literal_ja": "民間列車攻撃で勝てない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "it's strategic when Moscow does it, but it's desperate when Kiev (sic) does it.",
+      "translation_ja": "モスクワがやると戦略的、キーサがやると必死、というわけか（原文sic）。",
+      "grammar_ja": "(sic) = 引用者がスペルを指摘。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "it's strategic when Moscow does it",
+          "role_ja": "前半",
+          "literal_ja": "モスクワなら戦略的",
+          "note_ja": ""
+        },
+        {
+          "text": "but it's desperate when Kiev (sic) does it",
+          "role_ja": "後半",
+          "literal_ja": "キーサなら必死",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russia targets civilians, Ukraine does not.",
+      "translation_ja": "ロシアは民間人を標的にし、ウクライナはしない。",
+      "grammar_ja": "targets = 標的にする。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Russia targets civilians, Ukraine does not.",
+          "role_ja": "対比",
+          "literal_ja": "ロシアは民間標的・ウクライナはしない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "There will never be room for diplomacy or any real prospect of peace so long as Putin remains at the helm of Russia.",
+      "translation_ja": "プーチンがロシアの舵取りをしている限り、外交の余地も本当の和平の見通しもない。",
+      "grammar_ja": "so long as = 〜している限り。at the helm = 舵取りをしている。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "There will never be room for diplomacy or any real prospect of peace",
+          "role_ja": "主部",
+          "literal_ja": "外交も和平見通しもない",
+          "note_ja": ""
+        },
+        {
+          "text": "so long as Putin remains at the helm of Russia",
+          "role_ja": "条件",
+          "literal_ja": "プーチンが舵取りしている限り",
+          "note_ja": "at the helm = 指導の座。"
+        }
+      ]
+    },
+    {
+      "text": "The past four years - defined exclusively by the military path - have made one thing unequivocally clear: he is the wrong man to steer the country toward a settlement.",
+      "translation_ja": "過去4年—軍事路線だけで定義された期間—は一点を明確にした。彼は国を和解へ導くのに不適任だ。",
+      "grammar_ja": "ダッシュ挿入句。steer toward a settlement = 和解へ導く。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "The past four years - defined exclusively by the military path -",
+          "role_ja": "主語",
+          "literal_ja": "過去4年は",
+          "note_ja": ""
+        },
+        {
+          "text": "have made one thing unequivocally clear",
+          "role_ja": "述語",
+          "literal_ja": "一点を明確にした",
+          "note_ja": ""
+        },
+        {
+          "text": "he is the wrong man to steer the country toward a settlement",
+          "role_ja": "内容",
+          "literal_ja": "和解へ導くには不適任",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "yet- not what the article says.",
+      "translation_ja": "でも—記事が言っていることではない。",
+      "grammar_ja": "yet- で反論。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "yet- not what the article says.",
+          "role_ja": "主述",
+          "literal_ja": "記事の内容ではない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Is the article lying?",
+      "translation_ja": "記事は嘘をついているのか。",
+      "grammar_ja": "修辞疑問。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Is the article lying?",
+          "role_ja": "疑問",
+          "literal_ja": "記事は嘘か",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "\"a Ukrainian drone overnight struck a passenger train\"",
+      "translation_ja": "「ウクライナの無人機が夜間旅客列車を攻撃した」",
+      "grammar_ja": "記事部分の引用。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "\"a Ukrainian drone overnight struck a passenger train\"",
+          "role_ja": "引用",
+          "literal_ja": "無人機が列車攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "...Kremlin-installed regional leader Sergei Aksyonov reported early Monday.",
+      "translation_ja": "…クレムリン派地方指導者アクショノフが月曜早朝に報告した。",
+      "grammar_ja": "記事末尾の引用断片。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "...Kremlin-installed regional leader Sergei Aksyonov reported early Monday.",
+          "role_ja": "帰属",
+          "literal_ja": "アクショノフが月曜早朝報告",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "If Russia allows an independent investigation, we may get to the truth of the matter.",
+      "translation_ja": "ロシアが独立調査を許せば、真相が分かるかもしれない。",
+      "grammar_ja": "allows = 許可する。get to the truth = 真相を突き止める。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "If Russia allows an independent investigation",
+          "role_ja": "条件",
+          "literal_ja": "独立調査を許せば",
+          "note_ja": ""
+        },
+        {
+          "text": "we may get to the truth of the matter",
+          "role_ja": "主述",
+          "literal_ja": "真相が分かるかも",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "\"Russia targets civilians, Ukraine does not.\"",
+      "translation_ja": "「ロシアは民間人を標的にし、ウクライナはしない。」",
+      "grammar_ja": "他者発言の引用。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "\"Russia targets civilians, Ukraine does not.\"",
+          "role_ja": "引用",
+          "literal_ja": "ロシアは民間標的・ウクライナはしない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "You keep repeating that but it's clearly false.",
+      "translation_ja": "それを繰り返しているが、明らかに誤りだ。",
+      "grammar_ja": "keep repeating = 繰り返し言う。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "You keep repeating that but it's clearly false.",
+          "role_ja": "主述",
+          "literal_ja": "繰り返すが誤り",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The world needs Trump to refocus on Ukraine peace talks asap.",
+      "translation_ja": "世界はトランプが早急にウクライナ和平交渉に再注目する必要がある。",
+      "grammar_ja": "asap = as soon as possible。refocus on = 再注目。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "The world needs Trump to refocus on Ukraine peace talks asap.",
+          "role_ja": "主述",
+          "literal_ja": "トランプの再注目が必要",
+          "note_ja": "needs A to do。"
+        }
+      ]
+    },
+    {
+      "text": "Today's article - ... a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea, injuring the driver and killing the driver's assistant,",
+      "translation_ja": "今日の記事—…占領下クリミアのモスクワ―シンフェロポリ間旅客列車を攻撃し運転士を負傷、助手を死亡—",
+      "grammar_ja": "過去記事との比較の導入。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Today's article - ... a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea",
+          "role_ja": "主部",
+          "literal_ja": "今日の記事の列車攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "injuring the driver and killing the driver's assistant,",
+          "role_ja": "結果",
+          "literal_ja": "運転士負傷・助手死亡",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Last week -Ukrainian drone struck a passenger bus traveling between Moscow and Crimea on June 3, 2026.",
+      "translation_ja": "先週—6月3日、ウクライナ無人機がモスクワとクリミア間の旅客バスを攻撃した。",
+      "grammar_ja": "時系列比較。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Last week -Ukrainian drone struck a passenger bus traveling between Moscow and Crimea on June 3, 2026.",
+          "role_ja": "主述",
+          "literal_ja": "先週のバス攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "The attack resulted in the deaths of eight civilians and left at least 10 others injured when the long-distance vehicle was hit during a scheduled passenger stop in the town of Yenakiieve, located within the Russian-controlled Donetsk region of eastern Ukraine.",
+      "translation_ja": "長距離バスが予定停留中に攻撃を受け、民間人8人死亡、少なくとも10人負傷。場所はロシア支配下ドネツク州エナキイエヴェ。",
+      "grammar_ja": "resulted in the deaths of。located within = 〜内に位置。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "The attack resulted in the deaths of eight civilians",
+          "role_ja": "主部",
+          "literal_ja": "8人死亡",
+          "note_ja": ""
+        },
+        {
+          "text": "and left at least 10 others injured",
+          "role_ja": "並列",
+          "literal_ja": "10人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "when the long-distance vehicle was hit during a scheduled passenger stop",
+          "role_ja": "時",
+          "literal_ja": "予定停留中の攻撃で",
+          "note_ja": ""
+        },
+        {
+          "text": "in the town of Yenakiieve, located within the Russian-controlled Donetsk region of eastern Ukraine",
+          "role_ja": "場所",
+          "literal_ja": "エナキイエヴェ",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Couple of weeks ago - A total of 21 people were killed and at least 42 to 63 others were injured in the Ukraine drone drone attack on the Starobilsk pedagogical college dormitory building.",
+      "translation_ja": "数週間前—スタロビリスク師範大学寮へのウクライナ無人機攻撃で21人死亡、42〜63人負傷。",
+      "grammar_ja": "pedagogical college = 師範大学。dormitory = 寮。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "Couple of weeks ago - A total of 21 people were killed",
+          "role_ja": "主部",
+          "literal_ja": "21人死亡",
+          "note_ja": ""
+        },
+        {
+          "text": "and at least 42 to 63 others were injured",
+          "role_ja": "並列",
+          "literal_ja": "42〜63人負傷",
+          "note_ja": ""
+        },
+        {
+          "text": "in the Ukraine drone drone attack on the Starobilsk pedagogical college dormitory building",
+          "role_ja": "場所・対象",
+          "literal_ja": "師範大学寮への攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Most casualties were teenage girls studying to become teachers.",
+      "translation_ja": "犠牲者の多くは教師になるため学ぶ十代の少女だった。",
+      "grammar_ja": "studying to become = 〜になるため学ぶ。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Most casualties were teenage girls studying to become teachers.",
+          "role_ja": "主述",
+          "literal_ja": "多くは師範生の少女",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Hard to see Putin going anywere anytime soon.",
+      "translation_ja": "プーチンがすぐにどこかへ行くとは思えない。",
+      "grammar_ja": "Hard to see = 〜とは思えない。anywere = anywhere の誤り。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Hard to see Putin going anywere anytime soon.",
+          "role_ja": "主述",
+          "literal_ja": "すぐ動くとは思えない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "He has no idea what he is doing anymore.",
+      "translation_ja": "もう自分が何をしているか分かっていない。",
+      "grammar_ja": "have no idea = 全く分からない。anymore = もう。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "He has no idea what he is doing anymore.",
+          "role_ja": "主述",
+          "literal_ja": "何をしているか分からない",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "*Ukraine's General Staff** said Ukrainian forces had struck Russia's Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk.*",
+      "translation_ja": "ウクライナ参謀本部は、部隊が夜間クラスノダール地方を攻撃しノヴォロシースク近くのグルショヴァヤ石油積替基地を命中させたと述べた。",
+      "grammar_ja": "マークダウン装飾付き引用。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "*Ukraine's General Staff** said",
+          "role_ja": "主述",
+          "literal_ja": "参謀本部は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "Ukrainian forces had struck Russia's Krasnodar Krai region overnight",
+          "role_ja": "内容",
+          "literal_ja": "クラスノダールを攻撃",
+          "note_ja": ""
+        },
+        {
+          "text": "hitting the Grushovaya oil transshipment base near Novorossiysk.",
+          "role_ja": "結果",
+          "literal_ja": "積替基地を命中",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "So does this claim need an \"investigation\" too?",
+      "translation_ja": "ではこの主張にも「調査」が必要なのか。",
+      "grammar_ja": "修辞疑問で皮肉。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "So does this claim need an \"investigation\" too?",
+          "role_ja": "疑問",
+          "literal_ja": "この主張も調査が必要か",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "A guy now wants \"investigations\" but only when his side targets civilians over and over despite his incessant denials of fact,",
+      "translation_ja": "事実を否定し続ける一方で、自側が民間人を何度も標的にした時だけ「調査」を求める男だ。",
+      "grammar_ja": "incessant denials = 執拗な否定。",
+      "difficulty": "hard",
+      "chunks": [
+        {
+          "text": "A guy now wants \"investigations\"",
+          "role_ja": "主部",
+          "literal_ja": "調査を求める男",
+          "note_ja": ""
+        },
+        {
+          "text": "but only when his side targets civilians over and over",
+          "role_ja": "条件",
+          "literal_ja": "自側が民間人を標的にした時だけ",
+          "note_ja": ""
+        },
+        {
+          "text": "despite his incessant denials of fact",
+          "role_ja": "譲歩",
+          "literal_ja": "事実否定を続けながら",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts.",
+      "translation_ja": "ウクライナはロシアの無人機・ミサイルによる自国領内の民間人攻撃について、事実確認のため調査を許可している。",
+      "grammar_ja": "allows investigations to determine facts。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "Ukraine allows investigations of civilian strikes",
+          "role_ja": "主述",
+          "literal_ja": "調査を許可",
+          "note_ja": ""
+        },
+        {
+          "text": "by Russian drones and missiles in Ukrainian territory",
+          "role_ja": "修飾",
+          "literal_ja": "ロシア無人機・ミサイルによる",
+          "note_ja": ""
+        },
+        {
+          "text": "to determine facts",
+          "role_ja": "目的",
+          "literal_ja": "事実確認のため",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "Russians confirmed it and confirmed no casualties?",
+      "translation_ja": "ロシア側は認めて、死傷者なしとも認めたのか？",
+      "grammar_ja": "修辞疑問。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "Russians confirmed it and confirmed no casualties?",
+          "role_ja": "疑問",
+          "literal_ja": "認めて死傷者なしとも",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "*Ukraine's General Staff* said Ukrainian forces had struck Russia's Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk.",
+      "translation_ja": "ウクライナ参謀本部は、部隊が夜間クラスノダール地方のグルショヴァヤ石油積替基地を攻撃したと述べた。",
+      "grammar_ja": "再引用。",
+      "difficulty": "medium",
+      "chunks": [
+        {
+          "text": "*Ukraine's General Staff* said",
+          "role_ja": "主述",
+          "literal_ja": "参謀本部は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "Ukrainian forces had struck Russia's Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk.",
+          "role_ja": "内容",
+          "literal_ja": "積替基地を攻撃",
+          "note_ja": ""
+        }
+      ]
+    },
+    {
+      "text": "A mix of what's trending on our other sites",
+      "translation_ja": "他サイトで話題の記事をまとめたもの。",
+      "grammar_ja": "サイト定型フッター。",
+      "difficulty": "easy",
+      "chunks": [
+        {
+          "text": "A mix of what's trending on our other sites",
+          "role_ja": "主述",
+          "literal_ja": "他サイトの話題記事まとめ",
+          "note_ja": "trending = 話題。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "transshipment",
+      "pronunciation": "/trænsˈʃɪpmənt/",
+      "meaning_ja": "積み替え、積替輸送",
+      "example": "the Grushovaya oil transshipment base",
+      "example_ja": "グルショヴァヤ石油積替基地",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "go-between",
+      "pronunciation": "/ˈɡoʊ bɪˌtwin/",
+      "meaning_ja": "仲介者、取次ぎ役",
+      "example": "Roman Abramovich acted as a go-between",
+      "example_ja": "アブラモビッチが仲介役を務めた",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "sanctions",
+      "pronunciation": "/ˈsæŋkʃənz/",
+      "meaning_ja": "制裁（措置）",
+      "example": "a new proposed round of sanctions against Russia",
+      "example_ja": "ロシアへの新たな制裁案",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "casualties",
+      "pronunciation": "/ˈkæʒuəltiz/",
+      "meaning_ja": "死傷者",
+      "example": "there were no casualties",
+      "example_ja": "死傷者はいなかった",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "occupied",
+      "pronunciation": "/ˈɑːkjupaɪd/",
+      "meaning_ja": "占領された",
+      "example": "Russian-occupied Crimea",
+      "example_ja": "ロシア占領下のクリミア",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "suppress",
+      "pronunciation": "/səˈpres/",
+      "meaning_ja": "（兵器などを）無力化する、抑える",
+      "example": "shot down or suppressed 124",
+      "example_ja": "124機を撃墜または無力化した",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "bilateral",
+      "pronunciation": "/baɪˈlætərəl/",
+      "meaning_ja": "二国間の",
+      "example": "either bilaterally or with U.S. President Donald Trump",
+      "example_ja": "二国間でか、トランプ大統領とともに",
+      "source_sentence_id": "s021"
+    },
+    {
+      "word": "understatement",
+      "pronunciation": "/ˈʌndərsteɪtmənt/",
+      "meaning_ja": "控えめな表現、過小評価",
+      "example": "Bit of a master of understatement he is.",
+      "example_ja": "控えめな言い方の達人だな。",
+      "source_sentence_id": "s056"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "inverted-attribution",
+      "title": "Inverted attribution (said X)",
+      "rule": "News style places the reporting clause (officials said Monday) after the main event, often mid-sentence.",
+      "example": "Ukrainian forces struck oil facilities..., Ukrainian and Russian officials said Monday, as part of...",
+      "meaning_ja": "ニュース英語では「〜と当局は述べた」を文中や文末に置き、事実を先に伝える倒置が多い。"
+    },
+    {
+      "id": "passive-for-casualties",
+      "title": "Passive voice for casualties",
+      "rule": "Casualty reports often use passive (were killed/injured) with by-phrase or agent at the end.",
+      "example": "Two people were killed and at least 18 injured... by a Russian drone attack",
+      "meaning_ja": "死傷報道では受動態で被害者を主語にし、攻撃主体は by 句や文末に回す。"
+    },
+    {
+      "id": "participle-result",
+      "title": "Present participle for result",
+      "rule": "Use -ing clauses to show simultaneous result: striking X, injuring Y, sparking Z.",
+      "example": "a Ukrainian drone struck a passenger train..., injuring the driver and killing the driver's assistant",
+      "meaning_ja": "現在分詞句で攻撃の直接的結果（負傷・死亡・火災）を簡潔に付加する。"
+    },
+    {
+      "id": "concessive-despite",
+      "title": "Despite + gerund",
+      "rule": "Despite + V-ing expresses contrast: X happened even though Y is true.",
+      "example": "Despite Putin rejecting Zelensky's public offer of bilateral talks it seems that behind the scenes...",
+      "meaning_ja": "Despite + 動名詞で「〜にもかかわらず」という譲歩の対比を作る。"
+    }
+  ]
+}

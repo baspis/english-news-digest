@@ -1,0 +1,1249 @@
+{
+  "summary_ja": "国連大学の報告書によると、データセンターの環境負荷はすでに大国に匹敵し、AI利用の拡大で水・エネルギー消費と汚染は4年で倍増すると予測されています。報告書はAIの電力需要の大きさや透明性不足を指摘する一方、業界関係者は効率化や公共の利益を強調しています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and pollution will double in just four years as use of artificial intelligence grows.",
+      "translation_ja": "国連大学の報告書によると、データセンターの環境負荷はすでに世界最大級の国々のいくつかに匹敵しており、人工知能の利用が拡大するにつれ、水とエネルギーの使用量および汚染はわずか4年で倍増するだろうとも予測しています。",
+      "grammar_ja": "主文＋according to～＋非制限用法の関係代名詞which節。rivalsは「匹敵する」、asは「～するにつれて」の時間・因果。",
+      "chunks": [
+        {
+          "text": "The environmental footprint of data centers",
+          "role_ja": "主語",
+          "literal_ja": "データセンターの環境的足跡",
+          "note_ja": "footprintは環境負荷・影響の比喩表現"
+        },
+        {
+          "text": "already rivals some of the world's largest countries",
+          "role_ja": "述語",
+          "literal_ja": "すでに世界最大の国のいくつかに匹敵する",
+          "note_ja": "rivalは他動詞。some of the largest countriesで「大国のいくつか」"
+        },
+        {
+          "text": "according to a United Nations University report",
+          "role_ja": "副詞句（出典）",
+          "literal_ja": "国連大学の報告書によれば",
+          "note_ja": "ニュースで情報源を示す定型"
+        },
+        {
+          "text": "which also predicts",
+          "role_ja": "関係代名詞節（主語＋述語）",
+          "literal_ja": "それはまた予測する",
+          "note_ja": "非制限用法。報告書全体に付加情報を加える"
+        },
+        {
+          "text": "their water and energy use and pollution will double in just four years",
+          "role_ja": "目的語（that節）",
+          "literal_ja": "その水・エネルギー使用と汚染はたった4年で倍になる",
+          "note_ja": "will doubleは将来予測"
+        },
+        {
+          "text": "as use of artificial intelligence grows",
+          "role_ja": "副詞節",
+          "literal_ja": "AIの利用が増えるにつれ",
+          "note_ja": "asは「～するにつれて」"
+        }
+      ],
+      "deep_dive_ja": "見出しのrival countriesは比喩で規模感を伝える典型例。environmental footprintは環境ニュースの頻出コロケーションです。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Last year, global data centers used 448 trillion watt-hours of electricity, more than all but 10 countries of the world, said the report issued Wednesday.",
+      "translation_ja": "水曜日に公表された報告書によると、昨年、世界のデータセンターは448兆ワット時の電力を使用し、これは世界の国のうち10か国を除くすべてより多い量です。",
+      "grammar_ja": "倒置の間接話法（said the report）。more than all but 10 countriesは「10か国以外のすべてより多い」という比較。",
+      "chunks": [
+        {
+          "text": "Last year",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "昨年",
+          "note_ja": "文頭の時間表現"
+        },
+        {
+          "text": "global data centers used 448 trillion watt-hours of electricity",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "世界のデータセンターは448兆ワット時の電気を使った",
+          "note_ja": "trillionは兆"
+        },
+        {
+          "text": "more than all but 10 countries of the world",
+          "role_ja": "比較句（電力量の補足）",
+          "literal_ja": "世界の10か国を除くすべてより多く",
+          "note_ja": "all but = ～を除くすべて。難解な比較構文"
+        },
+        {
+          "text": "said the report issued Wednesday",
+          "role_ja": "述語（倒置）",
+          "literal_ja": "水曜日に発表された報告書は述べた",
+          "note_ja": "過去分詞issuedがreportを修飾"
+        }
+      ],
+      "deep_dive_ja": "all but 10 countriesは「上位10か国のみが上回る」というニュース特有の簡潔な比較です。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "That electricity use produced about 208 million tons (189 million metric tons) of carbon dioxide, about the same amount as Argentina, and producing that much energy consumed about 1.2 trillion gallons (4.5 trillion liters) of water, according to the report on the environmental consequences of AI's energy use.",
+      "translation_ja": "その電力使用は約2億800万トン（1億8900万メトリックトン）の二酸化炭素を排出し、アルゼンチンとほぼ同量で、そのような量のエネルギーを生み出す過程で約1.2兆ガロン（4.5兆リットル）の水を消費したと、AIのエネルギー使用の環境的影響に関する報告書は述べています。",
+      "grammar_ja": "andで並列された2つの結果（CO2排出と水消費）。producing...は分詞構文で原因・手段を示す。",
+      "chunks": [
+        {
+          "text": "That electricity use produced about 208 million tons of carbon dioxide",
+          "role_ja": "主節",
+          "literal_ja": "その電気使用は約2億トンのCO2を生み出した",
+          "note_ja": "produceはここで「排出する」"
+        },
+        {
+          "text": "about the same amount as Argentina",
+          "role_ja": "比較の補足",
+          "literal_ja": "アルゼンチンとほぼ同量",
+          "note_ja": "国名で規模をイメージさせる手法"
+        },
+        {
+          "text": "producing that much energy consumed about 1.2 trillion gallons of water",
+          "role_ja": "並列節（分詞構文）",
+          "literal_ja": "それほどのエネルギーを生産することは約1.2兆ガロンの水を消費した",
+          "note_ja": "発電・冷却に水が必要という文脈"
+        },
+        {
+          "text": "according to the report on the environmental consequences of AI's energy use",
+          "role_ja": "出典",
+          "literal_ja": "AIのエネルギー使用の環境的帰結に関する報告書によれば",
+          "note_ja": "長い名詞修飾"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "By 2030, data centers will account for nearly 3% of the world's projected electricity use, with 935 trillion watt-hours.",
+      "translation_ja": "2030年までに、データセンターは世界の予想電力消費のほぼ3％を占め、935兆ワット時に達する見込みです。",
+      "grammar_ja": "account forは「～の割合を占める」。with 935 trillion watt-hoursは付帯状況を示すwith句。",
+      "chunks": [
+        {
+          "text": "By 2030",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2030年までに",
+          "note_ja": "将来予測の時間枠"
+        },
+        {
+          "text": "data centers will account for nearly 3% of the world's projected electricity use",
+          "role_ja": "主節",
+          "literal_ja": "データセンターは世界の予想電力使用のほぼ3%を占めるだろう",
+          "note_ja": "account forは重要コロケーション"
+        },
+        {
+          "text": "with 935 trillion watt-hours",
+          "role_ja": "付帯状況",
+          "literal_ja": "935兆ワット時という数値とともに",
+          "note_ja": "具体量を補足"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "If data centers were a country, the country would be projected to rank sixth-highest in power use in 2030.",
+      "translation_ja": "もしデータセンターを一国とみなせば、その国は2030年の電力消費量で世界第6位になると予測されます。",
+      "grammar_ja": "仮定法過去（If...were）＋would be projected to不定詞。比喩で規模を説明する構文。",
+      "chunks": [
+        {
+          "text": "If data centers were a country",
+          "role_ja": "条件節",
+          "literal_ja": "もしデータセンターが国だったら",
+          "note_ja": "仮定法。現実とは異なる想定"
+        },
+        {
+          "text": "the country would be projected to rank sixth-highest in power use in 2030",
+          "role_ja": "主節",
+          "literal_ja": "その国は2030年に電力使用で第6位にランク付けされるだろう",
+          "note_ja": "be projected toは報告書の予測表現"
+        }
+      ],
+      "deep_dive_ja": "If X were a countryは環境・経済記事で規模を伝える定番の比喩です。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "That would produce nearly 440 million tons (399 million metric tons) of carbon dioxide, the report said.",
+      "translation_ja": "それはほぼ4億4000万トン（3億9900万メトリックトン）の二酸化炭素を排出することになると、報告書は述べています。",
+      "grammar_ja": "Thatは前の仮定の結果を受ける。would produceは仮定法の帰結。",
+      "chunks": [
+        {
+          "text": "That would produce nearly 440 million tons of carbon dioxide",
+          "role_ja": "主節",
+          "literal_ja": "それはほぼ4億4千万トンのCO2を生み出すだろう",
+          "note_ja": "前の仮定の結果"
+        },
+        {
+          "text": "the report said",
+          "role_ja": "引用の枠",
+          "literal_ja": "報告書は言った",
+          "note_ja": "間接話法の終わり"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The study focused on energy use and didn’t examine the massive amount of water used to cool data centers.",
+      "translation_ja": "この研究はエネルギー使用に焦点を当て、データセンターを冷却するために使われる大量の水については調査していませんでした。",
+      "grammar_ja": "focused onとdidn't examineの並列。used to coolは不定詞の形容詞用法。",
+      "chunks": [
+        {
+          "text": "The study focused on energy use",
+          "role_ja": "主節（前半）",
+          "literal_ja": "研究はエネルギー使用に焦点を当てた",
+          "note_ja": "focus onは頻出"
+        },
+        {
+          "text": "didn't examine the massive amount of water used to cool data centers",
+          "role_ja": "主節（後半）",
+          "literal_ja": "データセンター冷却に使われる大量の水を調査しなかった",
+          "note_ja": "研究の限界を示す一文"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“If you look at these numbers, we're seeing scales comparable to nations,” said study co-author Kaveh Madani, a water scientist and director of the United Nations University Institute for Water, Environment and Health in Canada. “The demand is enormous.”",
+      "translation_ja": "「これらの数字を見れば、国家に匹敵する規模が見えてきます」と、カナダの国連大学水・環境・健康研究所の所長で水科学者のカヴェ・マダニ共同著者は述べました。「需要は莫大です。」",
+      "grammar_ja": "直接話法＋said A, B（同格）。comparable toは「～に匹敵する」。",
+      "chunks": [
+        {
+          "text": "If you look at these numbers",
+          "role_ja": "条件節",
+          "literal_ja": "これらの数字を見れば",
+          "note_ja": "読者への呼びかけ"
+        },
+        {
+          "text": "we're seeing scales comparable to nations",
+          "role_ja": "主節",
+          "literal_ja": "私たちは国家に匹敵する規模を見ている",
+          "note_ja": "comparable to = ～に匹敵する"
+        },
+        {
+          "text": "said study co-author Kaveh Madani",
+          "role_ja": "話者の提示",
+          "literal_ja": "研究共同著者のマダニは言った",
+          "note_ja": "co-authorは共同著者"
+        },
+        {
+          "text": "a water scientist and director of ... in Canada",
+          "role_ja": "同格",
+          "literal_ja": "水科学者であり…所長",
+          "note_ja": "肩書きの列挙"
+        },
+        {
+          "text": "The demand is enormous",
+          "role_ja": "独立した引用文",
+          "literal_ja": "需要は莫大だ",
+          "note_ja": "短い強調文"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Much of the growth of data centers is being driven by AI.",
+      "translation_ja": "データセンターの成長の多くはAIによって推進されています。",
+      "grammar_ja": "受動態（is being driven by）。Much of the growthは「成長の大部分」。",
+      "chunks": [
+        {
+          "text": "Much of the growth of data centers",
+          "role_ja": "主語",
+          "literal_ja": "データセンターの成長の多く",
+          "note_ja": "much of + 名詞"
+        },
+        {
+          "text": "is being driven by AI",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "AIによって推進されている",
+          "note_ja": "driveは「推進する・牽引する」"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "About 20% of data centers’ energy is currently due to AI, but that should grow to 40% by 2030, the report said.",
+      "translation_ja": "データセンターのエネルギーの約20％は現在AIによるものですが、2030年までに40％まで増える見込みだと報告書は述べています。",
+      "grammar_ja": "be due toは「～による」。should grow toは予測の「～まで増える」。",
+      "chunks": [
+        {
+          "text": "About 20% of data centers’ energy is currently due to AI",
+          "role_ja": "主節（前半）",
+          "literal_ja": "データセンターエネルギーの約20%は現在AIによる",
+          "note_ja": "due to = ～が原因で"
+        },
+        {
+          "text": "that should grow to 40% by 2030",
+          "role_ja": "主節（後半）",
+          "literal_ja": "それは2030年までに40%まで増えるはず",
+          "note_ja": "shouldは予測・見込み"
+        },
+        {
+          "text": "the report said",
+          "role_ja": "出典",
+          "literal_ja": "報告書は述べた",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The report is significant because of the credibility and authority of the U.N., not just because of any one set of eye-popping numbers, said Fengqi You, a Cornell University energy engineering professor who directs the college’s AI sustainability issues.",
+      "translation_ja": "コーネル大学のエネルギー工学教授で同大学のAI持続可能性問題を統括するユー・フェンチーは、報告書の意義は目を見張る数字一つだけでなく、国連の信頼性と権威にあると述べました。",
+      "grammar_ja": "because ofの対比（not just...）。関係代名詞who節で教授の役割を説明。",
+      "chunks": [
+        {
+          "text": "The report is significant because of the credibility and authority of the U.N.",
+          "role_ja": "主節",
+          "literal_ja": "報告書は国連の信頼性と権威のために重要だ",
+          "note_ja": "because of + 名詞"
+        },
+        {
+          "text": "not just because of any one set of eye-popping numbers",
+          "role_ja": "対比の補足",
+          "literal_ja": "目を見張る数字の一組だけのためではなく",
+          "note_ja": "eye-poppingは「驚くほど大きい」"
+        },
+        {
+          "text": "said Fengqi You, a Cornell University energy engineering professor",
+          "role_ja": "話者",
+          "literal_ja": "ユー教授は述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "who directs the college’s AI sustainability issues",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "大学のAI持続可能性問題を統括する人",
+          "note_ja": "非制限用法"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“Its value is that a U.N. institution is putting carbon, water, land, life-cycle impacts and environmental justice into one frame” for an issue that is often shrouded in secrecy and partial disclosures, said You, who was not part of the report.",
+      "translation_ja": "「その価値は、国連の機関が炭素、水、土地、ライフサイクル影響、環境正義を一つの枠組みにまとめていることにある。それはしばしば秘密に包まれ、部分的な開示にとどまる問題に対してだ」と、報告書には関与していないユーは述べました。",
+      "grammar_ja": "Its value is that構文。shrouded in secrecyは「秘密に包まれた」固定表現。",
+      "chunks": [
+        {
+          "text": "Its value is that a U.N. institution is putting ... into one frame",
+          "role_ja": "引用の主部",
+          "literal_ja": "その価値は国連機関が…を一つの枠に入れていることにある",
+          "note_ja": "put into one frame = 統合的に捉える"
+        },
+        {
+          "text": "carbon, water, land, life-cycle impacts and environmental justice",
+          "role_ja": "目的語の列挙",
+          "literal_ja": "炭素・水・土地・ライフサイクル影響・環境正義",
+          "note_ja": "環境政策のキーワード群"
+        },
+        {
+          "text": "for an issue that is often shrouded in secrecy and partial disclosures",
+          "role_ja": "副詞句＋関係節",
+          "literal_ja": "しばしば秘密と部分的開示に覆われた問題に対して",
+          "note_ja": "shrouded in secrecyは重要表現"
+        },
+        {
+          "text": "said You, who was not part of the report",
+          "role_ja": "話者",
+          "literal_ja": "ユーは言った。報告書の一員ではなかったが",
+          "note_ja": "立場の明示"
+        }
+      ],
+      "deep_dive_ja": "shrouded in secrecyは不透明さを批判する際のニュース定番。partial disclosuresは「一部だけの情報公開」。",
+      "difficulty": "hard",
+      "sentence_id": "s012"
+    },
+    {
+      "text": "“The general public should be concerned, but not panicked,” he added.",
+      "translation_ja": "「一般市民は懸念すべきだが、パニックになる必要はない」と彼は付け加えました。",
+      "grammar_ja": "should be concerned vs not panickedの対比。concernedは「懸念する」、panickedは「パニックになる」。",
+      "chunks": [
+        {
+          "text": "The general public should be concerned",
+          "role_ja": "主節（前半）",
+          "literal_ja": "一般大衆は懸念すべきだ",
+          "note_ja": "shouldは助言・推奨"
+        },
+        {
+          "text": "but not panicked",
+          "role_ja": "対比",
+          "literal_ja": "しかしパニックではない",
+          "note_ja": "形容詞の省略（panicked）"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Jean Su, director of the Energy Justice Program at the Center for Biological Diversity, said the report is important because it is the first U.N., or even global, report “that shines a light on the environmental harms of AI.”",
+      "translation_ja": "生物多様性センターのエネルギー正義プログラムのディレクター、ジーン・スーは、報告書が重要なのは、AIの環境的害を明らかにする初の国連、あるいは世界的な報告書だからだと述べました。",
+      "grammar_ja": "shine a light onは「～を照らし出す・明らかにする」。関係代名詞that節。",
+      "chunks": [
+        {
+          "text": "Jean Su, director of the Energy Justice Program at the Center for Biological Diversity",
+          "role_ja": "主語＋同格",
+          "literal_ja": "ジーン・スー、…プログラムのディレクター",
+          "note_ja": "長い肩書き"
+        },
+        {
+          "text": "said the report is important because it is the first U.N., or even global, report",
+          "role_ja": "主節＋理由節",
+          "literal_ja": "報告書は重要だと言った。なぜなら初の国連・世界的報告書だから",
+          "note_ja": "or evenで強調"
+        },
+        {
+          "text": "that shines a light on the environmental harms of AI",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "AIの環境的害を照らし出す",
+          "note_ja": "shine a light onは比喩"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "National Artificial Intelligence Association President Caleb Max emphasized how his industry is becoming more efficient and how it benefits the public: “AI is rapidly becoming part of our everyday lives and adding benefits that improve safety, live longer, work more efficiently, enhance food production, and reduce poverty.",
+      "translation_ja": "全米人工知能協会の会長ケイレブ・マックスは、業界がいかに効率化を進め、いかに公共の利益につながっているかを強調しました。「AIは急速に日常生活の一部となり、安全の向上、寿命の延伸、仕事の効率化、食料生産の増強、貧困の削減といった利益をもたらしています。」",
+      "grammar_ja": "emphasized how節が2つ並列。adding benefits that...は関係代名詞で利益を列挙。",
+      "chunks": [
+        {
+          "text": "National Artificial Intelligence Association President Caleb Max emphasized",
+          "role_ja": "主語＋述語",
+          "literal_ja": "協会会長マックスは強調した",
+          "note_ja": ""
+        },
+        {
+          "text": "how his industry is becoming more efficient",
+          "role_ja": "間接疑問詞節",
+          "literal_ja": "彼の業界がいかに効率化しているか",
+          "note_ja": "how = どのように"
+        },
+        {
+          "text": "how it benefits the public",
+          "role_ja": "間接疑問詞節",
+          "literal_ja": "それがいかに公共に利益するか",
+          "note_ja": ""
+        },
+        {
+          "text": "AI is rapidly becoming part of our everyday lives",
+          "role_ja": "引用（主部）",
+          "literal_ja": "AIは急速に日常生活の一部になっている",
+          "note_ja": "become part of"
+        },
+        {
+          "text": "adding benefits that improve safety, live longer, work more efficiently...",
+          "role_ja": "分詞句＋関係節",
+          "literal_ja": "安全向上などの利益を加えている",
+          "note_ja": "動詞の並列が続く"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The evidence is growing daily that the energy return on investment of AI development is transformative for our world and therefore more than worth it.”",
+      "translation_ja": "「AI開発のエネルギー投資対効果は世界を変革するものであり、したがって十分に価値があるという証拠が日々増えている。」",
+      "grammar_ja": "The evidence is growing that節。energy return on investment（EROI）は専門用語。more than worth itは「十分に価値がある」。",
+      "chunks": [
+        {
+          "text": "The evidence is growing daily",
+          "role_ja": "主節",
+          "literal_ja": "証拠は日々増えている",
+          "note_ja": "present continuousで進行"
+        },
+        {
+          "text": "that the energy return on investment of AI development is transformative for our world",
+          "role_ja": "同格that節",
+          "literal_ja": "AI開発のエネルギーROIは世界に変革的だ",
+          "note_ja": "return on investment = 投資対効果"
+        },
+        {
+          "text": "and therefore more than worth it",
+          "role_ja": "結論",
+          "literal_ja": "したがってそれ以上に価値がある",
+          "note_ja": "thereforeで因果"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Josh Levi, president the Data Center Coalition, said the industry takes its environmental impact seriously.",
+      "translation_ja": "データセンター連合の会長ジョシュ・リーヴァイは、業界は環境への影響を真剣に受け止めていると述べました。",
+      "grammar_ja": "take ... seriouslyは「～を真剣に受け止める」。president theは文法的にof theが省略されたような形（原文通り）。",
+      "chunks": [
+        {
+          "text": "Josh Levi, president the Data Center Coalition",
+          "role_ja": "主語",
+          "literal_ja": "ジョシュ・リーヴァイ、連合の会長",
+          "note_ja": "原文はpresident the（of省略の可能性）"
+        },
+        {
+          "text": "said the industry takes its environmental impact seriously",
+          "role_ja": "述語＋that節",
+          "literal_ja": "業界は環境影響を真剣に受け止めていると言った",
+          "note_ja": "take seriouslyの語順に注意"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“We remain committed to working with policymakers, local communities, and industry partners to ensure that as data centers grow, they do so responsibly, transparently, and in ways that reflect the best available practices,” he said in a statement.",
+      "translation_ja": "「私たちは政策立案者、地域社会、業界パートナーと協力し、データセンターが成長する際に責任を持って、透明性をもって、利用可能な最良の手法を反映する形で成長することを確保するというコミットメントを維持しています」と彼は声明で述べました。",
+      "grammar_ja": "remain committed to -ing。ensure that節。asは「～するにつれ」。do soは「そうする（成長する）」の代用。",
+      "chunks": [
+        {
+          "text": "We remain committed to working with policymakers, local communities, and industry partners",
+          "role_ja": "主部",
+          "literal_ja": "私たちは…と協力することに引き続きコミットしている",
+          "note_ja": "remain committed to"
+        },
+        {
+          "text": "to ensure that as data centers grow, they do so responsibly, transparently",
+          "role_ja": "目的",
+          "literal_ja": "データセンターが成長する際に責任を持って透明にそうすることを確保するため",
+          "note_ja": "do so = grow"
+        },
+        {
+          "text": "in ways that reflect the best available practices",
+          "role_ja": "方法の補足",
+          "literal_ja": "利用可能な最良の慣行を反映する方法で",
+          "note_ja": "best available practices = ベストプラクティス"
+        },
+        {
+          "text": "he said in a statement",
+          "role_ja": "引用の枠",
+          "literal_ja": "彼は声明で述べた",
+          "note_ja": "公式声明の定型"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Madani, also the winner of the most recent of the Stockholm Water Prize, said the numbers show the environmental cost of AI, which may seem cleaner at first glance than other mechanical devices, such as cars and furnaces, that have visible pollution.",
+      "translation_ja": "ストックホルム水賞の最新受賞者でもあるマダニは、数字はAIの環境コストを示しており、AIは自動車や暖房機器のような目に見える汚染のある機械装置より、一見するとよりクリーンに見えるかもしれないと述べました。",
+      "grammar_ja": "同格also the winner of...。関係代名詞whichとthatの二重修飾。at first glanceは「一見すると」。",
+      "chunks": [
+        {
+          "text": "Madani, also the winner of the most recent of the Stockholm Water Prize",
+          "role_ja": "主語＋同格",
+          "literal_ja": "マダニ、最新のストックホルム水賞受賞者でも",
+          "note_ja": "権威づけの情報"
+        },
+        {
+          "text": "said the numbers show the environmental cost of AI",
+          "role_ja": "主節",
+          "literal_ja": "数字はAIの環境コストを示すと言った",
+          "note_ja": ""
+        },
+        {
+          "text": "which may seem cleaner at first glance than other mechanical devices",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "一見他の機械装置より清潔に見えるかもしれない",
+          "note_ja": "at first glance"
+        },
+        {
+          "text": "such as cars and furnaces, that have visible pollution",
+          "role_ja": "例示＋関係節",
+          "literal_ja": "車や暖房炉など、目に見える汚染を持つ",
+          "note_ja": "対比のための具体例"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"AI is not just a virtual thing.",
+      "translation_ja": "「AIは単なる仮想のものではない。」",
+      "grammar_ja": "not justは「単なる～ではない」。virtual thingは「画面上だけの存在」という含意。",
+      "chunks": [
+        {
+          "text": "AI is not just a virtual thing",
+          "role_ja": "主節",
+          "literal_ja": "AIは単なる仮想のものではない",
+          "note_ja": "justは「ただの」"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "We’re talking about something that has physics, something that has real impacts.",
+      "translation_ja": "私たちが語っているのは、物理法則が働くもの、現実の影響を持つものです。",
+      "grammar_ja": "something that has...の並列。has physicsは「物理的実体がある」という口語的表現。",
+      "chunks": [
+        {
+          "text": "We’re talking about something",
+          "role_ja": "主節",
+          "literal_ja": "私たちは何かについて話している",
+          "note_ja": ""
+        },
+        {
+          "text": "that has physics",
+          "role_ja": "関係節1",
+          "literal_ja": "物理を持つ",
+          "note_ja": "物理的実体があるという意味"
+        },
+        {
+          "text": "something that has real impacts",
+          "role_ja": "並列の名詞句",
+          "literal_ja": "現実の影響を持つ何か",
+          "note_ja": "somethingの繰り返しで強調"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "There is infrastructure there.",
+      "translation_ja": "そこにはインフラがある。",
+      "grammar_ja": "There is構文。there（副詞）は「その背景に」という意味の強調。",
+      "chunks": [
+        {
+          "text": "There is infrastructure",
+          "role_ja": "存在構文",
+          "literal_ja": "インフラがある",
+          "note_ja": "There is = 存在"
+        },
+        {
+          "text": "there",
+          "role_ja": "副詞",
+          "literal_ja": "そこに",
+          "note_ja": "場所ではなく「その裏側に」"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "There is energy that is being used,” Madani said. “A lot of hardware is behind all these operations that to us seem very, very clean because we don’t see smoke out of our devices.",
+      "translation_ja": "「エネルギーが使われている」とマダニは言いました。「大量のハードウェアがこれらの処理の背後にあり、私たちには非常にクリーンに見える。なぜなら端末から煙は見えないからだ。」",
+      "grammar_ja": "that is being usedは受動態の関係節。behindは「背後に」。seem clean because...は理由を説明。",
+      "chunks": [
+        {
+          "text": "There is energy that is being used",
+          "role_ja": "引用1",
+          "literal_ja": "使われているエネルギーがある",
+          "note_ja": "受動態進行形"
+        },
+        {
+          "text": "A lot of hardware is behind all these operations",
+          "role_ja": "引用2の主部",
+          "literal_ja": "多くのハードウェアがこれらの処理の背後にある",
+          "note_ja": "behind = 見えない裏側"
+        },
+        {
+          "text": "that to us seem very, very clean",
+          "role_ja": "関係節",
+          "literal_ja": "私たちにはとてもクリーンに見える",
+          "note_ja": "to usは「私たちには」"
+        },
+        {
+          "text": "because we don’t see smoke out of our devices",
+          "role_ja": "理由節",
+          "literal_ja": "端末から煙が見えないから",
+          "note_ja": "out of = ～から出る"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "On our cellphone, there is no visible smoke or out of our computer or something.",
+      "translation_ja": "携帯電話にも、コンピューターから出るような目に見える煙は何もない。",
+      "grammar_ja": "口語的で文法的にやや不完全な構文（or out of our computerの並列）。話し言葉のリズムを優先。",
+      "chunks": [
+        {
+          "text": "On our cellphone",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "私たちの携帯電話では",
+          "note_ja": ""
+        },
+        {
+          "text": "there is no visible smoke",
+          "role_ja": "主節",
+          "literal_ja": "目に見える煙はない",
+          "note_ja": "visible smokeは対比のキー"
+        },
+        {
+          "text": "or out of our computer or something",
+          "role_ja": "口語的追加",
+          "literal_ja": "またはコンピューターから出るような何か",
+          "note_ja": "話し言葉の省略・言いよどみ"
+        }
+      ],
+      "deep_dive_ja": "インタビュー引用は文法的に整っていないことがあります。意味は「端末からは汚染が見えない」です。",
+      "difficulty": "medium",
+      "sentence_id": "s024"
+    },
+    {
+      "text": "But somewhere else someone is suffering.”",
+      "translation_ja": "「しかしどこか別の場所では、誰かが苦しんでいる。」",
+      "grammar_ja": "somewhere elseで「別の場所で」。現在進行形is sufferingで継続的な被害。",
+      "chunks": [
+        {
+          "text": "But somewhere else",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "しかしどこか他の場所で",
+          "note_ja": "対比のBut"
+        },
+        {
+          "text": "someone is suffering",
+          "role_ja": "主節",
+          "literal_ja": "誰かが苦しんでいる",
+          "note_ja": "環境被害の比喩的結論"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "People can reduce AI’s massive energy appetite by being less polite and more concise in their queries, Madani said.",
+      "translation_ja": "マダニは、人々は質問をあまり丁寧にせず、より簡潔にすることで、AIの莫大なエネルギー欲求を減らせると述べました。",
+      "grammar_ja": "reduce ... by -ing。energy appetiteは「エネルギー消費欲」の比喩。less polite and more conciseの対比。",
+      "chunks": [
+        {
+          "text": "People can reduce AI’s massive energy appetite",
+          "role_ja": "主節",
+          "literal_ja": "人々はAIの莫大なエネルギー欲求を減らせる",
+          "note_ja": "appetite = 食欲・欲求"
+        },
+        {
+          "text": "by being less polite and more concise in their queries",
+          "role_ja": "方法",
+          "literal_ja": "質問をあまり丁寧でなく、より簡潔にすることで",
+          "note_ja": "by + -ing"
+        },
+        {
+          "text": "Madani said",
+          "role_ja": "話者",
+          "literal_ja": "マダニは言った",
+          "note_ja": ""
+        }
+      ],
+      "deep_dive_ja": "ニュースで意外な実用アドバイスとして引用される一文。queriesはAIへの「プロンプト・質問」。",
+      "difficulty": "medium",
+      "sentence_id": "s026"
+    },
+    {
+      "text": "The report found that cutting word use in requests by 30% can reduce energy used by AI by 25%.",
+      "translation_ja": "報告書は、リクエストの語数を30％削減すれば、AIが使うエネルギーを25％減らせるとしています。",
+      "grammar_ja": "found that節。cutting...は動名詞主語。by 30% / by 25%は削減率。",
+      "chunks": [
+        {
+          "text": "The report found that",
+          "role_ja": "主節",
+          "literal_ja": "報告書は…と発見した",
+          "note_ja": ""
+        },
+        {
+          "text": "cutting word use in requests by 30%",
+          "role_ja": "動名詞主語",
+          "literal_ja": "リクエストの語使用を30%削ること",
+          "note_ja": "cutting = 削減すること"
+        },
+        {
+          "text": "can reduce energy used by AI by 25%",
+          "role_ja": "述語",
+          "literal_ja": "AIが使うエネルギーを25%減らせる",
+          "note_ja": "used by AIは過去分詞の後置修飾"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That would save about the same amount of electricity as what about 700,000 people in Africa use in a year, the report said.",
+      "translation_ja": "それはアフリカの約70万人が1年間に使うのとほぼ同量の電力を節約することになると、報告書は述べています。",
+      "grammar_ja": "the same amount as what節。whatは関係代名詞的に「～する量」を導く。",
+      "chunks": [
+        {
+          "text": "That would save about the same amount of electricity",
+          "role_ja": "主節",
+          "literal_ja": "それはほぼ同量の電気を節約するだろう",
+          "note_ja": "規模の比喩"
+        },
+        {
+          "text": "as what about 700,000 people in Africa use in a year",
+          "role_ja": "比較節",
+          "literal_ja": "アフリカの約70万人が1年で使う量と",
+          "note_ja": "what = the amount that"
+        },
+        {
+          "text": "the report said",
+          "role_ja": "出典",
+          "literal_ja": "報告書は述べた",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s028",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“If you’re too polite, then that extra ‘please’ you put there can make a huge difference,” Madani said. “You’ve got to be very precise and be short.”",
+      "translation_ja": "「あまりにも丁寧だと、そこに入れた余分な『please』が大きな違いを生むことがある」とマダニは言いました。「とても正確で、短くしなければならない。」",
+      "grammar_ja": "If you're too politeの条件節。make a differenceは「大きな影響がある」。You've got toは口語の「～しなければならない」。",
+      "chunks": [
+        {
+          "text": "If you’re too polite",
+          "role_ja": "条件節",
+          "literal_ja": "もしあなたが丁寧すぎるなら",
+          "note_ja": "皮肉めいた助言"
+        },
+        {
+          "text": "that extra ‘please’ you put there can make a huge difference",
+          "role_ja": "主節",
+          "literal_ja": "そこに入れた余分なpleaseが大きな差を生む",
+          "note_ja": "make a difference"
+        },
+        {
+          "text": "You’ve got to be very precise and be short",
+          "role_ja": "助言",
+          "literal_ja": "とても正確で短くなければならない",
+          "note_ja": "got to = have to"
+        }
+      ],
+      "deep_dive_ja": "please一語がエネルギー消費に影響するという話題性のある引用。be precise and be shortは並列命令。",
+      "difficulty": "medium",
+      "sentence_id": "s029"
+    },
+    {
+      "text": "A typical ChatGPT-style query is about 200 times more energy-intensive than the type of basic text classification used in an email spam filter, for example.",
+      "translation_ja": "たとえば、典型的なChatGPT型のクエリは、メールのスパムフィルターで使われる基本的なテキスト分類より、約200倍エネルギー集約度が高いです。",
+      "grammar_ja": "more energy-intensive thanの比較級。used in...は過去分詞でtypeを修飾。",
+      "chunks": [
+        {
+          "text": "A typical ChatGPT-style query",
+          "role_ja": "主語",
+          "literal_ja": "典型的なChatGPT型クエリ",
+          "note_ja": "複合形容詞"
+        },
+        {
+          "text": "is about 200 times more energy-intensive",
+          "role_ja": "述語",
+          "literal_ja": "約200倍エネルギー集約的だ",
+          "note_ja": "energy-intensive"
+        },
+        {
+          "text": "than the type of basic text classification used in an email spam filter",
+          "role_ja": "比較対象",
+          "literal_ja": "メールスパムフィルターの基本テキスト分類のタイプより",
+          "note_ja": "具体例で理解を助ける"
+        },
+        {
+          "text": "for example",
+          "role_ja": "副詞句",
+          "literal_ja": "たとえば",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s030",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "AI-generated images or video require much more energy.",
+      "translation_ja": "AIが生成する画像や動画は、はるかに多くのエネルギーを必要とします。",
+      "grammar_ja": "AI-generatedは複合形容詞「AI生成の」。requireは「必要とする」。",
+      "chunks": [
+        {
+          "text": "AI-generated images or video",
+          "role_ja": "主語",
+          "literal_ja": "AI生成の画像または動画",
+          "note_ja": "ハイフン複合語"
+        },
+        {
+          "text": "require much more energy",
+          "role_ja": "述語",
+          "literal_ja": "はるかに多くのエネルギーを必要とする",
+          "note_ja": "much moreで程度強調"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s031",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "And the more complicated the AI, the more energy it takes to train or learn.",
+      "translation_ja": "そしてAIが複雑であればあるほど、訓練や学習に必要なエネルギーは増えます。",
+      "grammar_ja": "The more..., the more...構文（比例関係）。it takes to不定詞は「～に要する」。",
+      "chunks": [
+        {
+          "text": "the more complicated the AI",
+          "role_ja": "前半（条件）",
+          "literal_ja": "AIがより複雑であればあるほど",
+          "note_ja": "倒置構造"
+        },
+        {
+          "text": "the more energy it takes to train or learn",
+          "role_ja": "後半（結果）",
+          "literal_ja": "訓練・学習に要するエネルギーはより多くなる",
+          "note_ja": "it takes energy to..."
+        }
+      ],
+      "deep_dive_ja": "The more X, the more YはB2必須の相関構文。train or learnはAI文脈の動詞選択。",
+      "difficulty": "medium",
+      "sentence_id": "s032"
+    },
+    {
+      "text": "The report said GPT-3 used about 1.3 billion watt-hours to train, but the next version used 50 to 70 billion watt-hours.",
+      "translation_ja": "報告書によると、GPT-3の訓練には約13億ワット時を使用しましたが、次のバージョンは500億から700億ワット時を使用しました。",
+      "grammar_ja": "used ... to train（目的の不定詞）。50 to 70 billionは範囲表現。",
+      "chunks": [
+        {
+          "text": "GPT-3 used about 1.3 billion watt-hours to train",
+          "role_ja": "節1",
+          "literal_ja": "GPT-3は訓練に約13億ワット時を使った",
+          "note_ja": ""
+        },
+        {
+          "text": "but the next version used 50 to 70 billion watt-hours",
+          "role_ja": "節2（対比）",
+          "literal_ja": "次の版は500〜700億ワット時を使った",
+          "note_ja": "急増を示す対比"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s033",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But it's not training that really feasts on power, said study co-author Miriam Aczel, a United National University environmental policy researcher.",
+      "translation_ja": "「本当に電力を大量に消費するのは訓練ではない」と、国連大学の環境政策研究者で研究共同著者のミリアム・アクゼルは述べました。",
+      "grammar_ja": "It is not A that Bの強調構文（否定の分裂文）。feast on powerは「電力を貪り食う」比喩。",
+      "chunks": [
+        {
+          "text": "But it's not training that really feasts on power",
+          "role_ja": "強調構文",
+          "literal_ja": "本当に電力を貪るのは訓練ではない",
+          "note_ja": "feast on = 大量消費"
+        },
+        {
+          "text": "said study co-author Miriam Aczel",
+          "role_ja": "話者",
+          "literal_ja": "共同著者アクゼルは言った",
+          "note_ja": ""
+        },
+        {
+          "text": "a United National University environmental policy researcher",
+          "role_ja": "同格",
+          "literal_ja": "国連大学の環境政策研究者",
+          "note_ja": "原文はNationalの誤記の可能性"
+        }
+      ],
+      "deep_dive_ja": "It's not X that...は「XではなくYだ」ではなく、ここでは「Xが主因ではない」と焦点をずらす強調構文です。",
+      "difficulty": "hard",
+      "sentence_id": "s034"
+    },
+    {
+      "text": "About 90% of the power use of AI comes from operational requests, she said.",
+      "translation_ja": "「AIの電力使用の約90％は運用時のリクエストによるものだ」と彼女は述べました。",
+      "grammar_ja": "come fromは「～に由来する」。operational requestsは「実際の利用時の問い合わせ」。",
+      "chunks": [
+        {
+          "text": "About 90% of the power use of AI",
+          "role_ja": "主語",
+          "literal_ja": "AIの電力使用の約90%",
+          "note_ja": ""
+        },
+        {
+          "text": "comes from operational requests",
+          "role_ja": "述語",
+          "literal_ja": "運用リクエストに由来する",
+          "note_ja": "training vs operationalの対比"
+        },
+        {
+          "text": "she said",
+          "role_ja": "話者",
+          "literal_ja": "彼女は言った",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s035",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "GPT alone accounts for 2.5 billion prompts a day, she said.",
+      "translation_ja": "「GPTだけで1日25億件のプロンプトを占める」と彼女は述べました。",
+      "grammar_ja": "account forは「～の割合を占める」。aloneは「それだけで」。",
+      "chunks": [
+        {
+          "text": "GPT alone",
+          "role_ja": "主語",
+          "literal_ja": "GPTだけで",
+          "note_ja": "aloneで限定強調"
+        },
+        {
+          "text": "accounts for 2.5 billion prompts a day",
+          "role_ja": "述語",
+          "literal_ja": "1日25億プロンプトを占める",
+          "note_ja": "prompts = 入力指示"
+        },
+        {
+          "text": "she said",
+          "role_ja": "話者",
+          "literal_ja": "彼女は言った",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s036",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Even though tech advocates can argue that their machines are becoming more efficient, there's a common paradox that finds when things get more efficient, they are used more often and total energy use soars even if individual uses are more efficient, Madani said.",
+      "translation_ja": "技術擁護者は機械がより効率的になっていると主張できても、効率が上がると物事はより頻繁に使われ、個々の利用は効率的でも総エネルギー使用量は急増するという一般的な逆説があるとマダニは述べました。",
+      "grammar_ja": "Even though譲歩。paradox that finds when...は「～という逆説がある」。even ifは「たとえ～でも」。",
+      "chunks": [
+        {
+          "text": "Even though tech advocates can argue that their machines are becoming more efficient",
+          "role_ja": "譲歩節",
+          "literal_ja": "技術擁護者が機械の効率化を主張できても",
+          "note_ja": "even though"
+        },
+        {
+          "text": "there's a common paradox that finds when things get more efficient, they are used more often",
+          "role_ja": "主節",
+          "literal_ja": "一般的な逆説がある。効率化するとより頻繁に使われる",
+          "note_ja": "ジェボンのパラドックス"
+        },
+        {
+          "text": "and total energy use soars even if individual uses are more efficient",
+          "role_ja": "結果",
+          "literal_ja": "個別利用が効率的でも総使用量は急上昇する",
+          "note_ja": "soar = 急増"
+        },
+        {
+          "text": "Madani said",
+          "role_ja": "話者",
+          "literal_ja": "マダニは言った",
+          "note_ja": ""
+        }
+      ],
+      "deep_dive_ja": "効率化 paradoxは環境経済学の重要概念（リバウンド効果）です。",
+      "difficulty": "hard",
+      "sentence_id": "s037"
+    },
+    {
+      "text": "While some companies tout the use of renewable energy for data centers, Madani said that means the supply of clean electricity is depleted and thus dirtier energy is used elsewhere.",
+      "translation_ja": "一部の企業がデータセンターでの再生可能エネルギー利用を宣伝している一方で、マダニはそれはクリーン電力の供給を枯渇させ、結果として他の場所ではより汚いエネルギーが使われることを意味すると述べました。",
+      "grammar_ja": "Whileは「～している一方で」。toutは「宣伝する」。thusは「その結果」。",
+      "chunks": [
+        {
+          "text": "While some companies tout the use of renewable energy for data centers",
+          "role_ja": "譲歩節",
+          "literal_ja": "一部企業が再生可能エネルギー利用を宣伝する一方で",
+          "note_ja": "tout = 売り込む"
+        },
+        {
+          "text": "that means the supply of clean electricity is depleted",
+          "role_ja": "主節（前半）",
+          "literal_ja": "それはクリーン電力供給の枯渇を意味する",
+          "note_ja": "deplete = 使い果たす"
+        },
+        {
+          "text": "and thus dirtier energy is used elsewhere",
+          "role_ja": "主節（後半）",
+          "literal_ja": "その結果他でより汚いエネルギーが使われる",
+          "note_ja": "thusで因果"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s038",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "One of the problems in conducting this study is that many companies and places are not transparent about what data centers and AI are consuming or even where and how big they are, Aczel and Madani said.",
+      "translation_ja": "この研究を行ううえでの問題の一つは、多くの企業や地域が、データセンターやAIが何を消費しているのか、あるいはどこにありどれほどの規模なのかについて透明性がないことだと、アクゼルとマダニは述べました。",
+      "grammar_ja": "One of the problems is that...。transparent about what...は「～について透明でない」。or evenで情報の欠如を強調。",
+      "chunks": [
+        {
+          "text": "One of the problems in conducting this study is that",
+          "role_ja": "主節の枠",
+          "literal_ja": "この研究を実施する上での問題の一つは…である",
+          "note_ja": "in conducting = 実施において"
+        },
+        {
+          "text": "many companies and places are not transparent about what data centers and AI are consuming",
+          "role_ja": "that節",
+          "literal_ja": "多くの企業・地域が何を消費しているかについて透明でない",
+          "note_ja": "transparent about"
+        },
+        {
+          "text": "or even where and how big they are",
+          "role_ja": "並列の疑問詞",
+          "literal_ja": "またはどこにありどれほど大きいかさえ",
+          "note_ja": "開示不足の具体化"
+        },
+        {
+          "text": "Aczel and Madani said",
+          "role_ja": "話者",
+          "literal_ja": "アクゼルとマダニは言った",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s039",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“We cannot manage what companies do not disclose,” Cornell's You said.",
+      "translation_ja": "「企業が開示しないものは管理できない」とコーネル大学のユーは述べました。",
+      "grammar_ja": "manage what... / discloseの対比。what節は「～するもの」全体を指す。",
+      "chunks": [
+        {
+          "text": "We cannot manage what companies do not disclose",
+          "role_ja": "引用",
+          "literal_ja": "企業が開示しないものは管理できない",
+          "note_ja": "管理・ガバナンスの格言"
+        },
+        {
+          "text": "Cornell's You said",
+          "role_ja": "話者",
+          "literal_ja": "コーネルのユーは言った",
+          "note_ja": "所属＋名前の短縮表現"
+        }
+      ],
+      "deep_dive_ja": "cannot manage what you cannot measure/discloseは政策・ESG文脈の頻出論理です。",
+      "difficulty": "medium",
+      "sentence_id": "s040"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "environmental footprint",
+      "pronunciation": "/ɪnˌvaɪrənˈmentl ˈfʊtprɪnt/",
+      "meaning_ja": "環境負荷、環境への影響の大きさ",
+      "example": "The environmental footprint of data centers already rivals some countries.",
+      "example_ja": "データセンターの環境負荷はすでに一部の国に匹敵している。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "rivals",
+      "pronunciation": "/ˈraɪvlz/",
+      "meaning_ja": "～に匹敵する、～に相当する",
+      "example": "Their electricity use rivals that of Argentina.",
+      "example_ja": "その電力使用量はアルゼンチンに匹敵する。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "account for",
+      "pronunciation": "/əˈkaʊnt fɔːr/",
+      "meaning_ja": "（割合・量を）占める、説明する",
+      "example": "Data centers will account for nearly 3% of global electricity use.",
+      "example_ja": "データセンターは世界の電力消費のほぼ3％を占めるだろう。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "shrouded in secrecy",
+      "pronunciation": "/ʃraʊdɪd ɪn ˈsiːkrəsi/",
+      "meaning_ja": "秘密に包まれた、不透明な",
+      "example": "The issue is often shrouded in secrecy and partial disclosures.",
+      "example_ja": "その問題はしばしば秘密に包まれ、一部開示にとどまる。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "energy-intensive",
+      "pronunciation": "/ˈenərdʒi ɪnˈtensɪv/",
+      "meaning_ja": "エネルギーを大量に消費する、エネルギー集約的な",
+      "example": "A ChatGPT-style query is about 200 times more energy-intensive.",
+      "example_ja": "ChatGPT型のクエリは約200倍エネルギー集約度が高い。",
+      "source_sentence_id": "s030"
+    },
+    {
+      "word": "operational requests",
+      "pronunciation": "/ˌɒpəˈreɪʃənl rɪˈkwests/",
+      "meaning_ja": "運用時のリクエスト、実際の利用時の問い合わせ",
+      "example": "About 90% of AI power use comes from operational requests.",
+      "example_ja": "AIの電力使用の約90％は運用リクエストに由来する。",
+      "source_sentence_id": "s035"
+    },
+    {
+      "word": "transparent",
+      "pronunciation": "/trænsˈpærənt/",
+      "meaning_ja": "透明性のある、情報を開示している",
+      "example": "Many companies are not transparent about what AI is consuming.",
+      "example_ja": "多くの企業はAIが何を消費しているかについて透明性がない。",
+      "source_sentence_id": "s039"
+    },
+    {
+      "word": "paradox",
+      "pronunciation": "/ˈpærədɒks/",
+      "meaning_ja": "逆説、一見矛盾するが真理を含む現象",
+      "example": "There's a common paradox that efficiency leads to higher total energy use.",
+      "example_ja": "効率化が総エネルギー使用量の増加につながるという一般的な逆説がある。",
+      "source_sentence_id": "s037"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "comparative-metaphor",
+      "title": "Comparative metaphors (rivals / comparable to / as ... as)",
+      "rule": "Use comparisons to countries or familiar scales to make large numbers understandable.",
+      "example": "The footprint rivals some of the world's largest countries; scales comparable to nations.",
+      "meaning_ja": "環境・エネルギー記事では、数字を国や有名な規模と比べることで読者の理解を助けます。rivals、comparable to、the same amount asがセットで使われます。"
+    },
+    {
+      "id": "second-conditional",
+      "title": "Second conditional (If ... were ..., ... would ...)",
+      "rule": "Use past form were + would to describe hypothetical present/future situations.",
+      "example": "If data centers were a country, the country would be projected to rank sixth-highest.",
+      "meaning_ja": "現実には国ではないが、もし国だったらどうなるかを示す仮定法です。wereとwouldの組み合わせで、報告書の予測を比喩的に説明しています。"
+    },
+    {
+      "id": "cleft-emphasis",
+      "title": "Cleft sentence for emphasis (It is not X that ...)",
+      "rule": "Use It is not ... that ... to emphasize what is NOT the main cause or focus.",
+      "example": "But it's not training that really feasts on power.",
+      "meaning_ja": "「訓練が主因ではない」と焦点を運用時の消費に移す強調構文です。否定の分裂文はインタビューで論点をはっきりさせるときに有効です。"
+    },
+    {
+      "id": "the-more-the-more",
+      "title": "Correlative comparison (The more ..., the more ...)",
+      "rule": "The + comparative ..., the + comparative ... shows proportional change.",
+      "example": "And the more complicated the AI, the more energy it takes to train or learn.",
+      "meaning_ja": "「～すればするほど…する」という比例関係を表します。AIの複雑さとエネルギー消費の相関を簡潔に示すのに適した構文です。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 40,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:13:09+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and"
+}

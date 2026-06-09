@@ -1,0 +1,283 @@
+{
+  "summary_ja": "鹿児島県市来串木野市で、同居していた92歳の母親を放置し死亡に至らせたとして、64歳の男性が逮捕された。母親を4月初旬から5月初旬まで一人にした疑いがあり、5月8日に親族が発見した。男性は一度姿を消した後、6月1日に徳島の交番で「介護に疲れた」と申し出、木曜日に逮捕された。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "A 64-year-old man has been arrested in Ichikikushikino City, Kagoshima Prefecture, on suspicion of neglecting his 92-year-old mother, who was living with him at the time, leading to her death.",
+      "translation_ja": "鹿児島県市来串木野市で、当時同居していた92歳の母親を放置し、その結果死亡に至らせたとして、64歳の男性が逮捕された。",
+      "grammar_ja": "現在完了受動態（has been arrested）で報道の新事実を伝える。on suspicion of ～ing は「～の疑いで」。関係代名詞 who と分詞構文 leading to で結果を簡潔に示す典型のニュース文体。",
+      "chunks": [
+        {
+          "text": "A 64-year-old man",
+          "role_ja": "主語",
+          "literal_ja": "64歳の男性が",
+          "note_ja": "年齢＋名詞のハイフン表記。報道では容疑者の年齢を冒頭に置くことが多い。"
+        },
+        {
+          "text": "has been arrested",
+          "role_ja": "述語（受動・完了）",
+          "literal_ja": "逮捕された（すでに）",
+          "note_ja": "have been + 過去分詞。逮捕という結果が現在も有効であることを示す。"
+        },
+        {
+          "text": "in Ichikikushikino City, Kagoshima Prefecture",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "鹿児島県市来串木野市で",
+          "note_ja": "小さな地名＋都道府県名の順。日本の地名は音訳がそのまま使われる。"
+        },
+        {
+          "text": "on suspicion of neglecting his 92-year-old mother",
+          "role_ja": "理由・容疑内容",
+          "literal_ja": "92歳の母親を放置した疑いで",
+          "note_ja": "on suspicion of + 動名詞。neglect は介護放棄・放置のニュアンス。"
+        },
+        {
+          "text": "who was living with him at the time",
+          "role_ja": "関係節（非制限用法）",
+          "literal_ja": "当時彼と同居していた（母親）",
+          "note_ja": "カンマで挟む who 節は追加情報。at the time は事件当時を指す。"
+        },
+        {
+          "text": "leading to her death",
+          "role_ja": "結果を示す分詞構文",
+          "literal_ja": "その結果彼女の死亡に至り",
+          "note_ja": "and this led to... の短縮形。因果関係を一文にまとめる報道表現。"
+        }
+      ],
+      "deep_dive_ja": "英語の犯罪報道は often passive voice で始まり、容疑者の氏名より年齢・容疑名・場所を先に出す。leading to は裁判で因果を争う場合にも使われるが、ここでは事実関係の説明として機能している。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Police said Masayuki Maehata is accused of leaving his mother, Tsugie, by herself between early April and early May, despite her need for care, Kagoshima TV reported.",
+      "translation_ja": "警察によると、前畑正行容疑者は、介護が必要な母・ツギエを4月初旬から5月初旬にかけて一人にしたとして告発されている、と鹿児島テレビが報じた。",
+      "grammar_ja": "報道文の二重構造：Police said ～ と Kagoshima TV reported が同じ内容を挟む。is accused of ～ing、despite + 名詞句、between A and B の期間表現。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節の述語（引用の枠）",
+          "literal_ja": "警察は言った",
+          "note_ja": "said の後は間接話法。that は省略されている。"
+        },
+        {
+          "text": "Masayuki Maehata is accused of",
+          "role_ja": "引用内容の主部",
+          "literal_ja": "前畑正行は～の疑いで告発されている",
+          "note_ja": "be accused of + 動名詞。arrested より法的・公式な響き。"
+        },
+        {
+          "text": "leaving his mother, Tsugie, by herself",
+          "role_ja": "容疑の具体内容",
+          "literal_ja": "母ツギエを一人にして放置した",
+          "note_ja": "leave someone by themselves = 見守りなく一人にする。同格 Tsugie で母の名前を補足。"
+        },
+        {
+          "text": "between early April and early May",
+          "role_ja": "時間の修飾語",
+          "literal_ja": "4月初旬から5月初旬の間",
+          "note_ja": "early + 月名で「初旬」。between ... and ... で期間。"
+        },
+        {
+          "text": "despite her need for care",
+          "role_ja": "譲歩の修飾語",
+          "literal_ja": "介護が必要であるにもかかわらず",
+          "note_ja": "despite + 名詞。need for care は要介護状態を簡潔に表す。"
+        },
+        {
+          "text": "Kagoshima TV reported",
+          "role_ja": "文末の引用枠（出典）",
+          "literal_ja": "鹿児島テレビが報じた",
+          "note_ja": "ニュース記事で情報源を文末に置くパターン。語順が日本語と大きく異なる。"
+        }
+      ],
+      "deep_dive_ja": "英語報道では「Police said ... , [media] reported」のように二重に出典を示すことがある。by herself は性別に関係なく「一人で／見守りなく」という意味で、ここでは介護者不在を強調する。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The incident came to light on May 8 when a relative who had come to check on Tsugie's well-being found her dead in her bed.",
+      "translation_ja": "この事態は5月8日、ツギエの安否を確かめに来た親族が、ベッドで死亡しているのを発見して明らかになった。",
+      "grammar_ja": "come to light は慣用表現。when 節内に関係代名詞 who と過去完了 had come。check on ～'s well-being、find + O + 形容詞（補語）構文。",
+      "chunks": [
+        {
+          "text": "The incident came to light",
+          "role_ja": "主節",
+          "literal_ja": "その事件が明らかになった",
+          "note_ja": "come to light = 世に知られる・発覚する。was discovered よりやや格式的。"
+        },
+        {
+          "text": "on May 8",
+          "role_ja": "時の修飾語",
+          "literal_ja": "5月8日に",
+          "note_ja": "発覚の日付。英語は月→日の順。"
+        },
+        {
+          "text": "when a relative",
+          "role_ja": "時を表す副詞節の導入",
+          "literal_ja": "親族が～したとき",
+          "note_ja": "when = その時に。背景説明の副詞節が続く。"
+        },
+        {
+          "text": "who had come to check on Tsugie's well-being",
+          "role_ja": "関係節（制限用法）",
+          "literal_ja": "ツギエの安否を確かめに来ていた（親族）",
+          "note_ja": "過去完了は発見より前の訪問を示す。check on = 様子・安否を確認する。"
+        },
+        {
+          "text": "found her dead in her bed",
+          "role_ja": "副詞節の述語",
+          "literal_ja": "彼女がベッドで死んでいるのを発見した",
+          "note_ja": "find + 目的語 + 形容詞（dead）の第5文型。in her bed は発見場所。"
+        }
+      ],
+      "deep_dive_ja": "well-being は「健康・安否」全般を指し、高齢者ニュースでよく使われる。found her dead は感情的に淡い報道文体だが、事実を簡潔に述べる典型表現。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Maehata subsequently disappeared, but on June 1, he visited a police box in Tokushima Prefecture and stated that he was \"tired of caring for his mother.\" He was taken to Ichikikushikino City for questioning and arrested on Thursday.",
+      "translation_ja": "前畑はその後姿を消したが、6月1日に徳島県の交番を訪れ、「母の介護に疲れた」と述べた。木曜日、市来串木野市へ連行され取り調べを受けたうえで逮捕された。",
+      "grammar_ja": "二文が一つの入力項目。subsequently、be tired of ～ing、that 節の直接引用、受動態 was taken ... and arrested、for questioning は目的を示す不定詞句。",
+      "chunks": [
+        {
+          "text": "Maehata subsequently disappeared",
+          "role_ja": "第1文の主節",
+          "literal_ja": "前畑はその後姿を消した",
+          "note_ja": "subsequently = その後。発覚後の行動を時系列でつなぐ。"
+        },
+        {
+          "text": "but on June 1, he visited a police box in Tokushima Prefecture",
+          "role_ja": "逆接の主節",
+          "literal_ja": "しかし6月1日、徳島県の交番を訪れた",
+          "note_ja": "police box は日本の「交番」に相当する表現。"
+        },
+        {
+          "text": "stated that he was \"tired of caring for his mother\"",
+          "role_ja": "第1文の並列述語",
+          "literal_ja": "母の介護に疲れたと述べた",
+          "note_ja": "be tired of + 動名詞。引用符は本人の言葉を示す。"
+        },
+        {
+          "text": "He was taken to Ichikikushikino City for questioning",
+          "role_ja": "第2文の述語（受動）",
+          "literal_ja": "取り調べのため市来串木野市へ連行された",
+          "note_ja": "for questioning = 取り調べのために。目的を表す for + 動名詞。"
+        },
+        {
+          "text": "and arrested on Thursday",
+          "role_ja": "第2文の並列述語（受動）",
+          "literal_ja": "そして木曜日に逮捕された",
+          "note_ja": "was taken と was arrested が and で並列。on Thursday は記事執筆基準の曜日。"
+        }
+      ],
+      "deep_dive_ja": "tired of caring は感情的な告白だが、法的には放置の動機説明として報じられる。二文目は受動態のみで主体（警察）を省略し、手続きの流れを淡々と述べる日本の英字報道に似た文体。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃn əv/",
+      "meaning_ja": "～の疑いで（逮捕・捜査される）",
+      "example": "He was arrested on suspicion of fraud.",
+      "example_ja": "彼は詐欺の疑いで逮捕された。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "neglect",
+      "pronunciation": "/nɪˈɡlekt/",
+      "meaning_ja": "（介護・責任の）放置、怠慢",
+      "example": "neglecting his 92-year-old mother",
+      "example_ja": "92歳の母親を放置した",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "be accused of",
+      "pronunciation": "/bi əˈkjuːzd əv/",
+      "meaning_ja": "～したとして告発される、容疑をかけられる",
+      "example": "Maehata is accused of leaving his mother by herself.",
+      "example_ja": "前畑は母親を一人にしたとして告発されている。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "come to light",
+      "pronunciation": "/kʌm tə laɪt/",
+      "meaning_ja": "明らかになる、発覚する",
+      "example": "The incident came to light on May 8.",
+      "example_ja": "その事態は5月8日に明らかになった。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "well-being",
+      "pronunciation": "/ˌwel ˈbiːɪŋ/",
+      "meaning_ja": "健康、安否、福祉",
+      "example": "check on Tsugie's well-being",
+      "example_ja": "ツギエの安否を確かめる",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "police box",
+      "pronunciation": "/pəˈliːs bɒks/",
+      "meaning_ja": "交番（日本の小規模な警察施設）",
+      "example": "He visited a police box in Tokushima Prefecture.",
+      "example_ja": "彼は徳島県の交番を訪れた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "be tired of",
+      "pronunciation": "/bi ˈtaɪəd əv/",
+      "meaning_ja": "～にうんざりしている、～に疲れた",
+      "example": "He was tired of caring for his mother.",
+      "example_ja": "彼は母の介護に疲れていた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "subsequently",
+      "pronunciation": "/ˈsʌbsɪkwəntli/",
+      "meaning_ja": "その後、続いて",
+      "example": "Maehata subsequently disappeared.",
+      "example_ja": "前畑はその後姿を消した。",
+      "source_sentence_id": "s004"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-perfect-news",
+      "title": "Present Perfect Passive in news",
+      "rule": "has/have been + past participle reports a recent completed action with present relevance",
+      "example": "A 64-year-old man has been arrested in Ichikikushikino City.",
+      "meaning_ja": "報道では has been arrested のように現在完了の受動態を使い、「すでに逮捕された」という新しい状況を伝える。日本語の「～された」に近い。"
+    },
+    {
+      "id": "on-suspicion-accused-of",
+      "title": "on suspicion of / be accused of + -ing",
+      "rule": "Both introduce alleged crimes using gerunds after prepositions",
+      "example": "on suspicion of neglecting his mother; is accused of leaving her by herself",
+      "meaning_ja": "容疑内容は前置詞の後に動名詞（～ing）を置く。on suspicion of は逮捕段階、be accused of は告発・容疑の説明でよく使われる。"
+    },
+    {
+      "id": "participial-result",
+      "title": "Participial phrase for result (leading to)",
+      "rule": "-ing/-ed phrases can show consequence without a new clause",
+      "example": "neglecting his mother, leading to her death",
+      "meaning_ja": "leading to her death のような分詞構文で「その結果～に至った」と因果を簡潔に示す。and this led to... を短くした報道表現。"
+    },
+    {
+      "id": "reporting-frame",
+      "title": "Reporting verbs frame (said / reported)",
+      "rule": "News embeds claims between source verbs: [Source A] said ... , [Source B] reported",
+      "example": "Police said ... , Kagoshima TV reported.",
+      "meaning_ja": "情報源を文頭・文末に置き、中身を間接話法で挟む。英語ニュースの典型的な引用枠で、語順の把握が読解の鍵になる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 4,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:09:39+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res"
+}

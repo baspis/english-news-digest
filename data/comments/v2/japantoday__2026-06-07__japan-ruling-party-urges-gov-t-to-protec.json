@@ -1,0 +1,103 @@
+{
+  "article_id": "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:07:50+09:00",
+  "fetched_at": "2026-06-09T21:11:15+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Japanese people first, Japanese population's interests first. So, lower cost chicken, pork and beef is good for saving money on imported protein from Mercosul, as Brazil, Argentina, Uruguay. Japanese families are under strong inflation pressure and so the government and politicians must work on providing good food at lower costs",
+      "translation_ja": "日本人第一、日本国民の利益第一。だから、メルコスール（ブラジル、アルゼンチン、ウルグアイなど）から輸入する安い鶏肉・豚肉・牛肉でタンパク質代を節約できるのはいいことだ。日本の家庭は強いインフレ圧力の下にあり、政府と政治家はもっと安くて良い食料を提供するよう動かなければならない。",
+      "notes_ja": [
+        "「Japanese people first」は口語的なスローガン調。文法的には「Lower-cost chicken... is good」のように冠詞や複数形を整えると教科書英語になる",
+        "「Mercosul」はポルトガル語表記（英語では通常 Mercosur）。「as Brazil, Argentina, Uruguay」は「such as」の省略的な言い方"
+      ],
+      "standard_en": "Japanese people first; the interests of the Japanese population come first. So lower-cost chicken, pork, and beef are good for saving money on imported protein from Mercosur, such as from Brazil, Argentina, and Uruguay. Japanese families are under strong inflation pressure, so the government and politicians must work on providing good food at lower costs.",
+      "marked_terms": [],
+      "comment_id": 5230105,
+      "author": "Makoto Shimizu",
+      "rating": 2,
+      "posted_at": "2026-06-08T11:39:35+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "A panel of the Liberal Democratic Party also called for the government led by Prime Minister Sanae Takaichi to work to expand the export of Japanese farm products , not just industrial goods such as cars. I know the LDP is incredibly out of touch and all but do those old men realize Japan's food self sufficiency is only 38%? What are they going to export when we don't have enough food already? More macha? https://www.reuters.com/world/asia-pacific/japans-food-self-sufficiency-stuck-38-fy2425-below-2030-goal-2025-10-10/ How about a break from food prices? \"food prices up 44% from 2012, they now take 29% of the household budget, up from 23% in 2012\" https://richardkatz.substack.com/p/foodflation-food-at-29-of-household Yet Takaichi has decided to sit on her hands for a whole year before moving on food tax. https://www.japantimes.co.jp/news/2026/06/02/japan/takaichi-food-tax-one-percent/ What are people supposed to do in the meantime? The Diet has its priorities straight: Imperial succession: https://www.japantimes.co.jp/news/2026/06/05/japan/politics/imperial-succession-ok-draft-proposal/ Former agriculture minister Taku Eto, who heads the LDP's panel, said, \"It's the responsibility of the party to defend our country's national interest and prevent a big (negative) impact on producers.\" Really Eto? Don't confuse national interest with the interests of farmers compared to the interests of ordinary Japanese people who need to eat. Protectionism has given Japan an uncompetitive agricultural sector which can't even feed Japan. Shunning a trade pact keeps food prices high and closes markets to non-farm workers which are 97% of employment. Just 3% work in agriculture. https://data.worldbank.org/indicator/SL.AGR.EMPL.ZS?locations=JP Someone had the LDP panel economics textbooks. That assumes they don't already know but are advancing the interests of their power base. Do you think this has something to do with it? \"Japan's electoral geography and agricultural policy making: The rural vote and prevailing issues of proportional misrepresentation\" https://www.sciencedirect.com/science/article/abs/pii/S0743016717300797",
+      "translation_ja": "自民党のあるパネルも、高市首相率いる政府に対し、車などの工業製品だけでなく日本の農産物の輸出拡大に取り組むよう求めた。自民党がすごく現実離れしてるのは分かってるけど、あのおじさんたちは日本の食料自給率がたった38%だって分かってるの？もう食料が足りないのに何を輸出するつもり？もっと抹茶？（皮肉）食料価格の値下げはどうなの？「2012年比で食料価格は44%上昇、家計支出の29%を占め、2012年の23%から増加」——それなのに高市は食品税の見直しを1年も先延ばしにした。それまで国民はどうすればいいの？国会の優先順位はばっちりだね：皇位継承の件。農水相を務めた農林族の頭である江藤拓氏は「党として国益を守り、生産者への大きな（マイナス）影響を防ぐ責任がある」と言った。本当に江藤さん？国益と、食べなきゃいけない一般国民の利益と、農家の利益を混同するなよ。保護主義のせいで日本の農業は競争力がなく、国内の食料すら賄えない。貿易協定を避ければ食料価格は高いままだし、雇用の97%を占める非農業労働者にとっての市場も閉ざされる。農業に従事するのはわずか3%だ。自民党パネルに経済学の教科書を渡せよ誰か。（文法ミス：had→give）それは彼らが知らないと仮定しているが、実際は権力基盤の利益を進めているだけかもしれない、という含みだ。これと関係あると思う？「日本の選挙地理と農業政策：農村票と比例代表の歪み」",
+      "notes_ja": [
+        "「and all」は口語の「などなど」的な余韻。「sit on her hands」は「何もしないで放置する」の慣用表現",
+        "「Someone had the LDP panel economics textbooks」は文法的に誤りで、本来は「Someone give...」の命令・提案。「Really Eto?」は短い反語で皮肉・怒り"
+      ],
+      "standard_en": "Someone give the LDP panel economics textbooks.",
+      "marked_terms": [
+        {
+          "term": "old men",
+          "symbol": "◇",
+          "note_ja": "年配の男性政治家を軽く見下す口語。丁寧な場では避ける"
+        }
+      ],
+      "comment_id": 5230259,
+      "author": "ShinyAndChrome",
+      "rating": 0,
+      "posted_at": "2026-06-08T13:53:36+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "I don't think the govt cares about the average consumer Sakurasuki. They just want to keep the farmers onside.",
+      "translation_ja": "政府は一般消費者のことなんて気にしてないと思うよ、さくらすき。ただ農家の味方でい続けたいだけだ。",
+      "notes_ja": [
+        "「govt」は government の略記。ネットやコメントではよく見る",
+        "「keep ... onside」はイギリス英語で「（自分の）味方・支持側に置いておく」という意味"
+      ],
+      "standard_en": "I don't think the government cares about the average consumer, Sakurasuki. They just want to keep the farmers on their side.",
+      "marked_terms": [],
+      "comment_id": 5229497,
+      "author": "IMadeAnAccountJustForThis",
+      "rating": -2,
+      "posted_at": "2026-06-08T05:58:31+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Japan's ruling party on Friday adopted a resolution urging the government to protect domestic farmers from a potential influx of cheap products such as beef and chicken if the country negotiates an economic partnership agreement with the South American trade bloc Mercosur. Screw that. Prices are going through the roof. An influx of Mercosur products would certainly help the consumers and bring prices down, which is what we need. Beef, especially needs to come down. Protectionism just won't work well for Japanese customer, just check how much rice price in Japan compared to 2024 price? People can see how that really work, don't they? Exactly. Not to mention the ridiculous price of beef. No. I want cheap products from Mercosur. I really hope Mercosur plays hard ball here. Hope they don't compromise.",
+      "translation_ja": "（記事冒頭の要約を引用した後）ふざけんな。物価は青天井だ。メルコスール製品の流入は消費者の助けになり、価格を下げる。それが今必要なことだ。特に牛肉は下がらなきゃいけない。保護主義は日本の消費者にはうまくいかない。日本の米価を2024年と比べてみろよ？みんなそれがどう機能してるか分かってるだろ、なあ？その通りだ。とんでもない牛肉の値段は言うまでもない。ダメだ。メルコスールから安い製品が欲しい。ここではメルコスールが強硬に出てほしい。妥協しないでくれと本当に願う。",
+      "notes_ja": [
+        "「Screw that」は強い拒絶の俗語。丁寧な場では使わない",
+        "「Japanese customer」「rice price」「how that really work」は単複数・冠詞の誤り。口語の短い文「No.」「Exactly.」で怒りと同意を強調"
+      ],
+      "standard_en": "Protectionism just won't work well for Japanese customers; just check how much rice prices in Japan are compared to 2024 prices. People can see how that really works, can't they?",
+      "marked_terms": [
+        {
+          "term": "Screw that",
+          "symbol": "※",
+          "note_ja": "強い拒絶・怒りの俗語。失礼とみなされるので丁寧な会話では使わない"
+        },
+        {
+          "term": "plays hard ball",
+          "symbol": "◇",
+          "note_ja": "交渉で強硬姿勢を取る、という口語慣用句（通常 hardball と一語）"
+        }
+      ],
+      "comment_id": 5229798,
+      "author": "Aly Rustom",
+      "rating": -3,
+      "posted_at": "2026-06-08T08:41:42+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "to protect domestic farmers from a potential influx of cheap products such as beef and chicken if the country negotiates an economic partnership agreement with the South American trade bloc Mercosur. Protectionism just won't work well for Japanese customer, just check how much rice price in Japan compared to 2024 price? People can see how that really work, don't they?",
+      "translation_ja": "（文頭欠落）南米の貿易ブロック・メルコスールとの経済連携協定交渉に伴い、牛肉や鶏肉などの安価な製品の流入から国内農家を守る——。保護主義は日本の消費者にはうまくいかない。日本の米価を2024年と比べてみろよ？みんなそれが実際どう機能してるか分かってるだろ、なあ？",
+      "notes_ja": [
+        "文頭が欠けた断片（記事本文のコピペと思われる）。主語・動詞のない不完全な投稿",
+        "4番目のコメント後半とほぼ同一。grammar errors（customer/work、rice price）は口語・非標準"
+      ],
+      "standard_en": "[Missing opening] ...to protect domestic farmers from a potential influx of cheap products such as beef and chicken if the country negotiates an economic partnership agreement with the South American trade bloc Mercosur. Protectionism just won't work well for Japanese customers; just check how much rice prices in Japan are compared to 2024 prices. People can see how that really works, can't they?",
+      "marked_terms": [],
+      "comment_id": 5228920,
+      "author": "sakurasuki",
+      "rating": -8,
+      "posted_at": "2026-06-07T10:14:52+09:00"
+    }
+  ]
+}

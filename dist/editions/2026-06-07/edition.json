@@ -1,0 +1,102 @@
+{
+  "edition_date": "2026-06-07",
+  "status": "selected",
+  "target_article_count": 6,
+  "actual_article_count": 5,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-07",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
+    "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res",
+    "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo",
+    "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec",
+    "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/feature-japan-struggles-to-curb-ticket-scalping-market-despite-crackdown",
+      "title": "Japan struggles to curb ticket scalping market despite crackdown",
+      "slug": "01-japan-struggles-to-curb-ticket-scalping-market-despite-crackdown",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/64-year-old-man-arrested-for-neglect-resulting-in-92-year-old-mother%E2%80%99s-death",
+      "title": "64-year-old man arrested for neglect resulting in 92-year-old mother’s death",
+      "slug": "02-64-year-old-man-arrested-for-neglect-resulting-in-92-year-old-mother-s",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_2",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/Japan-steps-up-efforts-on-cooking-oil-in-race-for-sustainable-aviation-fuel%E2%80%8B%E2%80%8B",
+      "title": "Fry to fly: Japan steps up efforts on cooking oil in race for sustainable aviation fuel​​",
+      "slug": "03-fry-to-fly-japan-steps-up-efforts-on-cooking-oil-in-race-for-sustainab",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_16",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/japan-ruling-party-urges-gov%27t-to-protect-farmers-in-mercosur-trade-talks",
+      "title": "Japan ruling party urges gov't to protect farmers in Mercosur trade talks",
+      "slug": "04-japan-ruling-party-urges-gov-t-to-protect-farmers-in-mercosur-trade-ta",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_5",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/un-calculates-nation-sized-environmental-footprints-for-ai-and-data-centers",
+      "title": "Energy, water use and pollution of AI and data centers rival most countries",
+      "slug": "06-energy-water-use-and-pollution-of-ai-and-data-centers-rival-most-count",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T21:07:50+09:00",
+  "warnings": [
+    "no articles for world on 2026-06-07",
+    "only 5/6 categories had articles on 2026-06-07"
+  ]
+}

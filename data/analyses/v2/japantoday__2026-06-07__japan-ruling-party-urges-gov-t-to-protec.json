@@ -1,0 +1,379 @@
+{
+  "summary_ja": "日本の与党は金曜日、メルコスールとの経済連携協定交渉に向け、安価な牛肉や鶏肉などの流入で国内農家が打撃を受けないよう政府に保護を求める決議を採択した。自民党の部会は農産物の輸出拡大も求め、6月中旬のフランスG7首脳会議の場で交渉開始を発表する準備が進んでいる。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's ruling party on Friday adopted a resolution urging the government to protect domestic farmers from a potential influx of cheap products such as beef and chicken if the country negotiates an economic partnership agreement with the South American trade bloc Mercosur.",
+      "translation_ja": "日本の与党は金曜日、メルコスールという南米の貿易ブロックと経済連携協定を交渉する場合に、牛肉や鶏肉などの安価な製品の流入で国内農家が打撃を受ける可能性があるとして、政府に農家を守るよう求める決議を採択した。",
+      "grammar_ja": "adopt a resolution urging ... to ...（〜を求める決議を採択する）というニュース定型表現。if節は将来の条件を示す。such as は例示。",
+      "chunks": [
+        {
+          "text": "Japan's ruling party",
+          "role_ja": "主語",
+          "literal_ja": "日本の与党が",
+          "note_ja": "ruling party は「与党」。日本の文脈では自民党を指すことが多い。"
+        },
+        {
+          "text": "on Friday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "金曜日に",
+          "note_ja": "ニュースでは具体的な曜日で時制を補う書き方が一般的。"
+        },
+        {
+          "text": "adopted a resolution",
+          "role_ja": "述語（動詞＋目的語）",
+          "literal_ja": "決議を採択した",
+          "note_ja": "adopt a resolution は政治ニュースの頻出コロケーション。"
+        },
+        {
+          "text": "urging the government to protect domestic farmers",
+          "role_ja": "現在分詞の付加説明",
+          "literal_ja": "政府に国内農家を守るよう求める（内容の）",
+          "note_ja": "urge + 人 + to不定詞。resolution の内容を説明する分詞構文。"
+        },
+        {
+          "text": "from a potential influx of cheap products",
+          "role_ja": "前置詞句（保護の対象・理由）",
+          "literal_ja": "安価な製品の潜在的な流入から",
+          "note_ja": "influx は「流入・殺到」。potential でまだ起きていない可能性を示す。"
+        },
+        {
+          "text": "such as beef and chicken",
+          "role_ja": "例示",
+          "literal_ja": "牛肉や鶏肉のような",
+          "note_ja": "such as は for example よりフォーマルでニュース向き。"
+        },
+        {
+          "text": "if the country negotiates an economic partnership agreement with the South American trade bloc Mercosur",
+          "role_ja": "条件節",
+          "literal_ja": "もし国がメルコスールと経済連携協定を交渉すれば",
+          "note_ja": "economic partnership agreement（EPA）は貿易協定の一種。trade bloc は「貿易ブロック」。"
+        }
+      ],
+      "deep_dive_ja": "一文に「決議採択」「保護要求」「条件」「協定名」が詰まった典型的な政治記事のリード文です。urging の後ろは that 節ではなく to不定詞になる点に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "A panel of the Liberal Democratic Party also called for the government led by Prime Minister Sanae Takaichi to work to expand the export of Japanese farm products, not just industrial goods such as cars.",
+      "translation_ja": "自由民主党の部会も、高市早苗首相が率いる政府に対し、自動車のような工業製品だけでなく、日本の農産物の輸出拡大に取り組むよう求めた。",
+      "grammar_ja": "call for + 人 + to不定詞。led by は過去分詞の後置修飾。not just A, (but) B で対比を強調。",
+      "chunks": [
+        {
+          "text": "A panel of the Liberal Democratic Party",
+          "role_ja": "主語",
+          "literal_ja": "自由民主党の部会が",
+          "note_ja": "panel は「部会・委員会」。LDP は Liberal Democratic Party の略。"
+        },
+        {
+          "text": "also called for",
+          "role_ja": "述語",
+          "literal_ja": "また〜を求めた",
+          "note_ja": "call for は「〜を要求する」。前の決議内容に加えて、という also の意味。"
+        },
+        {
+          "text": "the government led by Prime Minister Sanae Takaichi",
+          "role_ja": "目的語",
+          "literal_ja": "高市早苗首相が率いる政府に",
+          "note_ja": "led by ... は「〜が率いる」という関係を簡潔に示すニュース表現。"
+        },
+        {
+          "text": "to work to expand the export of Japanese farm products",
+          "role_ja": "to不定詞（要求内容）",
+          "literal_ja": "日本の農産物の輸出拡大に取り組むよう",
+          "note_ja": "work to do は「〜するために努力する」。export expansion は貿易記事の基本語彙。"
+        },
+        {
+          "text": "not just industrial goods such as cars",
+          "role_ja": "対比・限定",
+          "literal_ja": "自動車のような工業製品だけでなく",
+          "note_ja": "not just ... but (also) ... の but 省略形。農業と工業のバランスが論点。"
+        }
+      ],
+      "deep_dive_ja": "farm products は agricultural products より短く、見出しや本文でよく使われます。led by は who is led by と書くより簡潔で、政治記事の定番です。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Japan is preparing to announce the start of negotiations with Mercosur on the sidelines of the Group of Seven summit in mid-June in France by setting up a summit with Brazil, which has been invited to the G7 meeting, a source familiar with the planning said earlier.",
+      "translation_ja": "計画に詳しい関係者は以前、日本は6月中旬にフランスで開かれる七カ国首脳会議の場を利用し、G7に招待されているブラジルとの首脳会談を設定することで、メルコスールとの交渉開始を発表する準備を進めていると述べた。",
+      "grammar_ja": "長文の倒置構文（..., a source said）。on the sidelines of は「〜の場を利用して」。which 節はブラジルを説明。",
+      "chunks": [
+        {
+          "text": "Japan is preparing to announce the start of negotiations with Mercosur",
+          "role_ja": "主節の核心",
+          "literal_ja": "日本はメルコスールとの交渉開始を発表する準備をしている",
+          "note_ja": "prepare to do は「〜する準備をする」。the start of negotiations は交渉開始の発表内容。"
+        },
+        {
+          "text": "on the sidelines of the Group of Seven summit",
+          "role_ja": "場所・状況を表す副詞句",
+          "literal_ja": "七カ国首脳会議の場を利用して",
+          "note_ja": "外交ニュースの重要表現。本題以外の場で別件を進めるイメージ。"
+        },
+        {
+          "text": "in mid-June in France",
+          "role_ja": "時・場所",
+          "literal_ja": "6月中旬にフランスで",
+          "note_ja": "時と場所を並べる標準的なニュース文体。"
+        },
+        {
+          "text": "by setting up a summit with Brazil",
+          "role_ja": "手段",
+          "literal_ja": "ブラジルとの首脳会談を設定することで",
+          "note_ja": "by + -ing で手段・方法を示す。set up a summit は首脳会談を設定する。"
+        },
+        {
+          "text": "which has been invited to the G7 meeting",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "G7会議に招待されている",
+          "note_ja": "受動態の現在完了 has been invited で、招待の状態が続いていることを示す。"
+        },
+        {
+          "text": "a source familiar with the planning said earlier",
+          "role_ja": "引用の出所（倒置）",
+          "literal_ja": "計画に詳しい関係者が以前述べた",
+          "note_ja": "a source familiar with ... は「〜に詳しい関係者」。匿名情報源の典型表現。"
+        }
+      ],
+      "deep_dive_ja": "英語のニュースでは主語＋述語を文末に置く倒置が多いです。日本語訳では「関係者によると」を先に置くと自然になります。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "\"Our concern is that worries will spread among producers of agricultural products,\" the resolution said, referring to the prospect of an economic partnership agreement with Mercosur, a bloc with a combined population of 300 million.",
+      "translation_ja": "決議は「我々の懸念は、農産物の生産者の間に不安が広がることだ」と述べ、メルコスールとの経済連携協定の見通しについて言及した。メルコスールは総人口3億人のブロックである。",
+      "grammar_ja": "間接話法と concern is that 構文。referring to は付加説明の現在分詞。a bloc with ... は同格の追加説明。",
+      "chunks": [
+        {
+          "text": "\"Our concern is that worries will spread among producers of agricultural products,\"",
+          "role_ja": "直接引用（主節の内容）",
+          "literal_ja": "「我々の懸念は、農産物生産者の間に不安が広がることだ」",
+          "note_ja": "concern is that ... で懸念内容を名詞節にする。spread among は「〜の間に広がる」。"
+        },
+        {
+          "text": "the resolution said",
+          "role_ja": "主節（引用動詞）",
+          "literal_ja": "決議は述べた",
+          "note_ja": "the resolution said のように、文書自体を主語にする擬人化表現がニュースで使われる。"
+        },
+        {
+          "text": "referring to the prospect of an economic partnership agreement with Mercosur",
+          "role_ja": "付加説明（現在分詞）",
+          "literal_ja": "メルコスールとの経済連携協定の見通しについて言及しながら",
+          "note_ja": "refer to は「言及する」。prospect は「見通し・可能性」。"
+        },
+        {
+          "text": "a bloc with a combined population of 300 million",
+          "role_ja": "同格説明",
+          "literal_ja": "総人口3億人のブロックという",
+          "note_ja": "combined population は複数国を合わせた総人口。数字で規模感を示す手法。"
+        }
+      ],
+      "deep_dive_ja": "引用の直後に referring to を置くことで、発言の背景を一文で補足しています。among producers は「生産者のあいだで」という集合内での広がりを表します。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Japan wants to forge closer ties with countries in resource-rich South America, with an eye to securing a stable supply of rare earths.",
+      "translation_ja": "日本は資源に恵まれた南米諸国とより緊密な関係を築きたいと考えており、レアアースの安定供給を確保することを目指している。",
+      "grammar_ja": "want to forge ...。with an eye to + -ing は目的を示すフォーマルな表現。resource-rich は複合形容詞。",
+      "chunks": [
+        {
+          "text": "Japan wants to forge closer ties",
+          "role_ja": "主語＋述語",
+          "literal_ja": "日本はより緊密な関係を築きたい",
+          "note_ja": "forge ties は「関係を築く」の硬い・外交的な言い方。build ties よりフォーマル。"
+        },
+        {
+          "text": "with countries in resource-rich South America",
+          "role_ja": "前置詞句（相手）",
+          "literal_ja": "資源豊富な南米の国々と",
+          "note_ja": "resource-rich は「資源に恵まれた」というハイフン複合形容詞。"
+        },
+        {
+          "text": "with an eye to securing a stable supply of rare earths",
+          "role_ja": "目的を表す付加句",
+          "literal_ja": "レアアースの安定供給を確保することを目指して",
+          "note_ja": "with an eye to doing は「〜を目的として」。to の後は名詞か動名詞。"
+        }
+      ],
+      "deep_dive_ja": "農業保護の話から、資源外交という別の動機へ話題が広がる一文です。rare earths は複数形で使うのが一般的です。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Former agriculture minister Taku Eto, who heads the LDP's panel, said, \"It's the responsibility of the party to defend our country's national interest and prevent a big (negative) impact on producers.\"",
+      "translation_ja": "農相を務めたことのある江藤たくあ氏は、自民党部会の長として「党の責任は、国益を守り、生産者への大きな（マイナスの）影響を防ぐことだ」と述べた。",
+      "grammar_ja": "関係代名詞 who 節で人物を説明。It's the responsibility of ... to ... 構文。prevent A on B は影響の対象を示す。",
+      "chunks": [
+        {
+          "text": "Former agriculture minister Taku Eto",
+          "role_ja": "主語",
+          "literal_ja": "前農相の江藤たくあ氏が",
+          "note_ja": "former + 役職 は「元〜」。名前の前に役職を置くニュースの人名紹介。"
+        },
+        {
+          "text": "who heads the LDP's panel",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "自民党部会の長である",
+          "note_ja": "head はここで動詞「率いる・長になる」。heads は現在形で現在の役職。"
+        },
+        {
+          "text": "It's the responsibility of the party",
+          "role_ja": "引用文の主部",
+          "literal_ja": "党の責任は〜することだ",
+          "note_ja": "It's the responsibility of X to do Y は責任の所在を述べる定型句。"
+        },
+        {
+          "text": "to defend our country's national interest",
+          "role_ja": "to不定詞（責任の内容）",
+          "literal_ja": "国益を守ること",
+          "note_ja": "national interest は「国益」。defend は protect より強い守護のニュアンス。"
+        },
+        {
+          "text": "and prevent a big (negative) impact on producers",
+          "role_ja": "to不定詞（並列）",
+          "literal_ja": "生産者への大きな悪影響を防ぐこと",
+          "note_ja": "impact on は「〜への影響」。括弧内 negative は記者による補足説明。"
+        }
+      ],
+      "deep_dive_ja": "政治発言の引用では responsibility や national interest など抽象名詞が多くなります。(negative) は発言者が明示しなかった語を記者が補った例です。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The LDP has traditionally received strong support from farmers.",
+      "translation_ja": "自民党は伝統的に農家から強い支持を得てきた。",
+      "grammar_ja": "現在完了 has received で過去から現在までの継続。traditionally は頻度・慣習を示す副詞。support from は支持の出所。",
+      "chunks": [
+        {
+          "text": "The LDP",
+          "role_ja": "主語",
+          "literal_ja": "自民党は",
+          "note_ja": "前文で説明済みのため略称のみ。日本政治記事では読者の前提知識を想定。"
+        },
+        {
+          "text": "has traditionally received strong support",
+          "role_ja": "述語",
+          "literal_ja": "伝統的に強い支持を得てきた",
+          "note_ja": "traditionally + 現在完了で長年の傾向を強調。"
+        },
+        {
+          "text": "from farmers",
+          "role_ja": "前置詞句（支持の出所）",
+          "literal_ja": "農家から",
+          "note_ja": "receive support from は「〜から支持を得る」。選挙・政治の基本表現。"
+        }
+      ],
+      "deep_dive_ja": "記事の締めくくりとして、なぜ農家保護を重視するのかという背景を一文で示しています。短いが、前の政策要求の動機を説明する重要な文です。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "adopt a resolution",
+      "pronunciation": "/əˈdɒpt ə ˌrɛzəˈluːʃən/",
+      "meaning_ja": "決議を採択する",
+      "example": "The party adopted a resolution urging protection for farmers.",
+      "example_ja": "与党は農家の保護を求める決議を採択した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "influx",
+      "pronunciation": "/ˈɪnflʌks/",
+      "meaning_ja": "流入、殺到",
+      "example": "a potential influx of cheap products",
+      "example_ja": "安価な製品の潜在的な流入",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "economic partnership agreement",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈpɑːtnəʃɪp əˈɡriːmənt/",
+      "meaning_ja": "経済連携協定（EPA）",
+      "example": "negotiates an economic partnership agreement with Mercosur",
+      "example_ja": "メルコスールと経済連携協定を交渉する",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "on the sidelines of",
+      "pronunciation": "/ɒn ðə ˈsaɪdlaɪnz əv/",
+      "meaning_ja": "〜の場を利用して、〜の余談として",
+      "example": "on the sidelines of the G7 summit",
+      "example_ja": "G7首脳会議の場を利用して",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "forge closer ties",
+      "pronunciation": "/fɔːdʒ ˈkləʊsə taɪz/",
+      "meaning_ja": "より緊密な関係を築く",
+      "example": "Japan wants to forge closer ties with South America.",
+      "example_ja": "日本は南米とより緊密な関係を築きたい。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "with an eye to",
+      "pronunciation": "/wɪð ən aɪ tuː/",
+      "meaning_ja": "〜を目的として、〜を見据えて",
+      "example": "with an eye to securing a stable supply",
+      "example_ja": "安定供給を確保することを目指して",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "rare earths",
+      "pronunciation": "/reə ɜːθs/",
+      "meaning_ja": "レアアース（希土類）",
+      "example": "a stable supply of rare earths",
+      "example_ja": "レアアースの安定供給",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "trade bloc",
+      "pronunciation": "/treɪd blɒk/",
+      "meaning_ja": "貿易ブロック",
+      "example": "the South American trade bloc Mercosur",
+      "example_ja": "南米の貿易ブロックであるメルコスール",
+      "source_sentence_id": "s001"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "urge-call-for-to-inf",
+      "title": "urge / call for + object + to-infinitive",
+      "rule": "Use urge or call for + someone + to do something to express a formal request or demand.",
+      "example": "The party adopted a resolution urging the government to protect farmers.",
+      "meaning_ja": "urge や call for の後には「人＋to不定詞」が続き、「〜に…するよう求める」という公式な要求を表します。決議・声明のニュースで頻出です。"
+    },
+    {
+      "id": "participial-addition",
+      "title": "Participial phrases (urging, led by, referring to)",
+      "rule": "Present or past participles can follow a noun to add extra information without starting a new clause.",
+      "example": "the government led by Prime Minister Sanae Takaichi",
+      "meaning_ja": "現在分詞・過去分詞を名詞の後ろに置くと、関係代名詞節を短く書けます。led by（〜が率いる）、referring to（〜について言及して）などが政治記事でよく使われます。"
+    },
+    {
+      "id": "news-inversion",
+      "title": "News-style subject–verb inversion",
+      "rule": "In journalism, the main clause with said/reported often comes at the end after a long lead.",
+      "example": "..., a source familiar with the planning said earlier.",
+      "meaning_ja": "長い内容を先に書き、最後に a source said のように情報源を置く倒置は英語ニュースの特徴です。日本語では「〜と関係者は述べた」と訳すと自然です。"
+    },
+    {
+      "id": "with-an-eye-to-ing",
+      "title": "with an eye to + -ing",
+      "rule": "This phrase introduces a purpose or aim and is followed by a gerund, not an infinitive.",
+      "example": "with an eye to securing a stable supply of rare earths",
+      "meaning_ja": "with an eye to の後は動名詞（-ing）が続き、「〜を目的として」というやや硬い表現です。外交・経済記事で目的を簡潔に示すときに使われます。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 7,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:10:03+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec"
+}

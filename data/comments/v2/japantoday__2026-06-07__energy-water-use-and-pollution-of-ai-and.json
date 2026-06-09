@@ -1,0 +1,103 @@
+{
+  "article_id": "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:07:50+09:00",
+  "fetched_at": "2026-06-09T21:13:52+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "AI DATA centers are causing problems for the communities housing them. Pollution and noise. You've got it all wrong, that's not a problem at all. Elon, Sam and Dario don't live there. Their wellbeing is all that matters, that's why we give them all the money in the world.",
+      "translation_ja": "AIデータセンターは、それを受け入れている地域社会に問題を起こしている。汚染と騒音だ。君の理解はまったく違う。それはまったく問題じゃない。イーロン、サム、ダリオはそこには住んでいない。大事なのは彼らの幸福だけだ。だから世界中のお金を全部彼らに渡しているんだ。",
+      "notes_ja": [
+        "「Pollution and noise.」のように名詞だけの短い文が続くのは、書き言葉でも口語でもよくある強調の切り方。",
+        "「that's not a problem at all」「that's why we...」はカンマでつなぐカンマスプライス（口語的な接続）で、皮肉めいた口調を出している。"
+      ],
+      "standard_en": "AI data centers are causing problems for the communities that house them: pollution and noise. You've got it all wrong—that's not a problem at all. Elon, Sam, and Dario don't live there. Their wellbeing is all that matters; that's why we give them all the money in the world.",
+      "marked_terms": [],
+      "comment_id": 5229392,
+      "author": "Firefly",
+      "rating": 4,
+      "posted_at": "2026-06-07T19:38:36+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "AI is real and it's been around for many decades AI itself is not fake, the whole business model around it is. Just because, unlike in the decades before, it is technically barely feasible now, does not mean the economic fantasies the AI companies are peddling make a lick of economic sense. You need to read more closely. And you need to especially pay attention to what the AI companies are not saying.",
+      "translation_ja": "AIは本物だし、何十年も前から存在している。AIそのものがフェイクなわけじゃない。フェイクなのは、それを取り巻くビジネスモデル全体だ。かつての数十年とは違って今は技術的にようやくかろうじて実現可能になったからといって、AI企業が売り込んでいる経済的な幻想が、経済的にまったく筋が通るというわけではない。もっと注意深く読むべきだ。特に、AI企業が言っていないことに目を向けるべきだ。",
+      "notes_ja": [
+        "「AI is real... many decades AI itself...」のあたりは句読点がなく、口語の早口のように文がつながっている。",
+        "「make a lick of economic sense」は口語イディオムで、「まったく意味がない／全く筋が通らない」という強い否定。"
+      ],
+      "standard_en": "AI is real, and it's been around for many decades. AI itself is not fake; the whole business model around it is. Just because, unlike in the decades before, it is technically barely feasible now does not mean the economic fantasies the AI companies are peddling make a lick of economic sense. You need to read more closely, and you need to especially pay attention to what the AI companies are not saying.",
+      "marked_terms": [
+        {
+          "term": "make a lick of",
+          "symbol": "◇",
+          "note_ja": "くだけた口語イディオム。「まったく〜ない」という強い否定。フォーマルな文章では \"make any sense\" などに言い換える。"
+        }
+      ],
+      "comment_id": 5229334,
+      "author": "Firefly",
+      "rating": 3,
+      "posted_at": "2026-06-07T18:47:59+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Fear is a powerful emotion, and companies afraid to embrace new technology, like AI, have every right to be fearful, because well-run companies don't live in the past and Data Centers are foundational to the AI buildout The article is not about fearing AI, it is about the unacceptable costs it will have in the near future, specially at a time where climate change is bound to cause catastrophic changes that will impact very negatively humans around the world.",
+      "translation_ja": "恐怖は強い感情だ。AIのような新技術を取り入れるのを恐れる企業には、恐れる権利がある。うまく運営されている企業は過去に生きていないし、データセンターはAI構築の基盤だからだ。ただ、この記事はAIを恐れることについて書いているのではない。近い将来にAIがもたらす許容できないコストについて書いているのだ。特に、気候変動が世界的に壊滅的な変化を引き起こし、世界中の人間に非常に悪影響を与える時期においては。",
+      "notes_ja": [
+        "「buildout The article」のあたりで大文字の前に句読点がなく、長い一文がそのままつながっている（ランオン文）。",
+        "「specially」は口語では \"especially\" の意味で使われることがある。「at a time where」は口語的で、教科書では \"at a time when\" が一般的。"
+      ],
+      "standard_en": "Fear is a powerful emotion, and companies afraid to embrace new technology like AI have every right to be fearful, because well-run companies don't live in the past and data centers are foundational to the AI buildout. The article is not about fearing AI; it is about the unacceptable costs it will have in the near future, especially at a time when climate change is bound to cause catastrophic changes that will very negatively impact humans around the world.",
+      "marked_terms": [],
+      "comment_id": 5229397,
+      "author": "virusrex",
+      "rating": 3,
+      "posted_at": "2026-06-07T19:39:09+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "companies and industries are investing in AI because they are aggressively pursuing greater productivity and profit margins The current investments are exclusively FOMO, CEOs terrified of being disrupted by a competitor who figures out how to use AI productively. Because most of them sure as heck can't.",
+      "translation_ja": "企業や産業がAIに投資しているのは、生産性と利益率を積極的に高めようとしているからだ。今の投資は例外なくFOMO（取り残される恐怖）だ。競合がAIを実際に使いこなす方法を見つけて自分たちを脅かすのではないかと、CEOたちが怯えているからだ。だって彼らのほとんどは、まったくできないんだから。",
+      "notes_ja": [
+        "文頭が小文字で、途中の大文字の前にも句読点がない。ネットコメントでよくある速書きのつなぎ方。",
+        "最後の「Because most of them...」は前文を受けた理由の断片文で、口語では自然。"
+      ],
+      "standard_en": "Companies and industries are investing in AI because they are aggressively pursuing greater productivity and profit margins. The current investments are exclusively FOMO: CEOs terrified of being disrupted by a competitor who figures out how to use AI productively. That's because most of them sure as heck can't.",
+      "marked_terms": [
+        {
+          "term": "FOMO",
+          "symbol": "◇",
+          "note_ja": "ネット・ビジネス用語（Fear Of Missing Out）。「取り残される恐怖」。"
+        },
+        {
+          "term": "sure as heck",
+          "symbol": "◇",
+          "note_ja": "「まったく／本当に」を強めるくだけた表現。\"heck\" は \"hell\" の婉曲表現で、丁寧な場では避ける。"
+        }
+      ],
+      "comment_id": 5229359,
+      "author": "Firefly",
+      "rating": 2,
+      "posted_at": "2026-06-07T19:04:30+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "AI DATA centers are causing problems for the communities housing them. Pollution and noise. Great demand for power and water. Increased charges.",
+      "translation_ja": "AIデータセンターは、それを受け入れている地域社会に問題を起こしている。汚染と騒音。電力と水の需要が急増。料金の値上げ。",
+      "notes_ja": [
+        "全体が短い文・名詞句の羅列で、箇条書きのように問題点を並べている。",
+        "「Increased charges.」は主語・動詞を省略した断片文で、ここでは「（公共）料金の上昇」を意味する。"
+      ],
+      "standard_en": "AI data centers are causing problems for the communities housing them: pollution and noise, great demand for power and water, and increased charges.",
+      "marked_terms": [],
+      "comment_id": 5229383,
+      "author": "wallace",
+      "rating": 2,
+      "posted_at": "2026-06-07T19:26:27+09:00"
+    }
+  ]
+}

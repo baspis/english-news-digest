@@ -116,6 +116,11 @@ h1 {
 
 .badge.japan { background: var(--accent-soft); color: var(--accent); }
 .badge.world { background: var(--world-soft); color: var(--world); }
+.badge.national { background: #e8f0e8; color: #2d5a2d; }
+.badge.crime { background: #f5e8e8; color: #8b2e2e; }
+.badge.business { background: #e8edf5; color: #2e4a7a; }
+.badge.politics { background: #f0e8f5; color: #5a2d6e; }
+.badge.tech { background: #e8f2f5; color: #2d5a6e; }
 
 .summary-ja {
   margin-top: var(--space-4);
