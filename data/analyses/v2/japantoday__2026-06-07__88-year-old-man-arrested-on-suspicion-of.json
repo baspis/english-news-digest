@@ -1,0 +1,379 @@
+{
+  "summary_ja": "長野県天龍村で、88歳の男性が85歳の妻を殺害した疑いで逮捕された。警察によると、男性は土曜午後、自宅で野球のバットとナイフで妻を攻撃したとされる。本人は犯行を認めたが、動機はまだ明らかにしていない。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "An 88-year-old man has been arrested in Tenryu village, Nagano Prefecture, on suspicion of killing his 85-year-old wife.",
+      "translation_ja": "長野県天龍村で、88歳の男性が85歳の妻を殺害した疑いで逮捕された。",
+      "grammar_ja": "現在完了受動態（has been arrested）で「逮捕された」という結果を伝える。on suspicion of + 動名詞は報道でよく使われる「〜の疑いで」という表現。",
+      "chunks": [
+        {
+          "text": "An 88-year-old man",
+          "role_ja": "主語",
+          "literal_ja": "88歳の男性が",
+          "note_ja": "年齢＋名詞をハイフンでつなぐ表現。日本語では「〜歳の」となる。"
+        },
+        {
+          "text": "has been arrested",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "逮捕された",
+          "note_ja": "have been + 過去分詞。誰かに逮捕された、という受け身の完了形。"
+        },
+        {
+          "text": "in Tenryu village, Nagano Prefecture",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "長野県天龍村で",
+          "note_ja": "小さい地名から大きい地名へと並べる英語の地名表記。"
+        },
+        {
+          "text": "on suspicion of killing",
+          "role_ja": "理由・状況の修飾語",
+          "literal_ja": "殺害の疑いで",
+          "note_ja": "suspicion of の後は動名詞（-ing）。犯罪報道の定型表現。"
+        },
+        {
+          "text": "his 85-year-old wife",
+          "role_ja": "目的語",
+          "literal_ja": "85歳の妻を",
+          "note_ja": "killing の目的語。his で夫婦関係を示す。"
+        }
+      ],
+      "deep_dive_ja": "英語の犯罪ニュースでは、逮捕段階では murder より on suspicion of killing を使うことが多い。確定前の慎重な表現である。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "According to police, Kazuzo Morita is accused of killing his wife, Kazuyo, at their home on Saturday afternoon by beating her with a baseball bat and stabbing her with a knife, Nagano Broadcasting Corp reported.",
+      "translation_ja": "警察によると、盛田和蔵容疑者は土曜午後、自宅で野球のバットで殴り、ナイフで刺して妻の和代さんを殺害したとされている。長野放送の報道だ。",
+      "grammar_ja": "文頭の According to police と文末の Nagano Broadcasting Corp reported が「〜によると／〜が伝えた」という二重の出典構造。is accused of + 動名詞、by + -ing で手段を並列して示す。",
+      "chunks": [
+        {
+          "text": "According to police",
+          "role_ja": "副詞節（出典）",
+          "literal_ja": "警察によると",
+          "note_ja": "報道文の定番。情報源を先に示して客観性を出す。"
+        },
+        {
+          "text": "Kazuzo Morita is accused of killing his wife, Kazuyo",
+          "role_ja": "主部",
+          "literal_ja": "盛田和蔵は妻の和代を殺害したとされている",
+          "note_ja": "be accused of は「〜の容疑で訴えられる／疑われる」。"
+        },
+        {
+          "text": "at their home on Saturday afternoon",
+          "role_ja": "場所・時間の修飾語",
+          "literal_ja": "土曜午後、自宅で",
+          "note_ja": "場所と時間の順序は英語ではこの並びが自然。"
+        },
+        {
+          "text": "by beating her with a baseball bat",
+          "role_ja": "手段の修飾語",
+          "literal_ja": "野球のバットで彼女を殴ることによって",
+          "note_ja": "by + -ing で方法を説明。with で道具を示す。"
+        },
+        {
+          "text": "and stabbing her with a knife",
+          "role_ja": "手段の修飾語（並列）",
+          "literal_ja": "ナイフで刺すことによって",
+          "note_ja": "beating と stabbing が並列。同一の by にかかる。"
+        },
+        {
+          "text": "Nagano Broadcasting Corp reported",
+          "role_ja": "主節（報道源）",
+          "literal_ja": "長野放送が報じた",
+          "note_ja": "長い文の末尾に報道社名を置く倒置的なニュース文体。"
+        }
+      ],
+      "deep_dive_ja": "日本語訳では長い英語文をいくつかの短い文に分けると読みやすい。be accused of と on suspicion of はどちらも「まだ確定していない容疑」を表すが、accused はやや正式な法廷・警察報道の語感がある。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Shortly before 4 p.m., Morita called 110 and said he had killed his wife.",
+      "translation_ja": "午後4時直前、盛田容疑者は110番に電話し、妻を殺したと話した。",
+      "grammar_ja": "Shortly before で「〜の直前に」。said の後は間接話法で had killed（過去完了）を使い、通話時点より前の出来事を示す。",
+      "chunks": [
+        {
+          "text": "Shortly before 4 p.m.",
+          "role_ja": "時間の修飾語",
+          "literal_ja": "午後4時の少し前に",
+          "note_ja": "shortly before / shortly after は報道で時刻をぼかしつつ示す便利な表現。"
+        },
+        {
+          "text": "Morita called 110",
+          "role_ja": "主節（前半）",
+          "literal_ja": "盛田は110番に電話した",
+          "note_ja": "日本では「110番」と言うが、英語では数字だけで通じる。"
+        },
+        {
+          "text": "and said",
+          "role_ja": "述語（並列）",
+          "literal_ja": "そして言った",
+          "note_ja": "called と said が and で並列。"
+        },
+        {
+          "text": "he had killed his wife",
+          "role_ja": "間接話法の節",
+          "literal_ja": "彼は妻を殺した",
+          "note_ja": "過去完了は「電話した時点より前に殺していた」という時間関係を表す。"
+        }
+      ],
+      "deep_dive_ja": "直接話法なら \"I killed my wife\" だが、報道では間接話法が標準。過去完了の選択は英語学習者がよく迷うポイント。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Police said Kazuyo was declared dead at the scene.",
+      "translation_ja": "警察により、和代さんは現場で死亡が確認された。",
+      "grammar_ja": "was declared dead は受動態。「死亡が宣言された」という公式な報道表現。at the scene は事件現場を指す。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は言った",
+          "note_ja": "報道で繰り返し使われる導入句。"
+        },
+        {
+          "text": "Kazuyo",
+          "role_ja": "主語",
+          "literal_ja": "和代が",
+          "note_ja": "前の文で名前が出ているため、ここでは姓なしで呼ぶ。"
+        },
+        {
+          "text": "was declared dead",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "死亡したと宣言された",
+          "note_ja": "declare A dead = A の死亡を確認・宣言する。医療・警察の公式な言い方。"
+        },
+        {
+          "text": "at the scene",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "現場で",
+          "note_ja": "犯罪・事故報道の頻出コロケーション。"
+        }
+      ],
+      "deep_dive_ja": "日本語では「死亡が確認された」と訳すのが自然。英語の declare は「宣言する」だが、ここでは医療・警察用語として使われる。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Police said she had been struck multiple times on the head and body with the bat.",
+      "translation_ja": "警察によると、彼女はバットで頭と体を何度も打たれていた。",
+      "grammar_ja": "過去完了受動態（had been struck）で、発見時点より前に繰り返し行われた被害を表す。multiple times と on the head and body で被害の程度を具体的に述べる。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は言った",
+          "note_ja": "前の文と同じ構造で情報を追加する。"
+        },
+        {
+          "text": "she had been struck",
+          "role_ja": "間接話法の節（受動態）",
+          "literal_ja": "彼女は打たれていた",
+          "note_ja": "strike の過去分詞は struck。受動態で「殴られた・打たれた」。"
+        },
+        {
+          "text": "multiple times",
+          "role_ja": "頻度の修飾語",
+          "literal_ja": "何度も",
+          "note_ja": "被害の重大さを示す報道表現。"
+        },
+        {
+          "text": "on the head and body",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "頭と体に",
+          "note_ja": "on を使って打たれた部位を示す。"
+        },
+        {
+          "text": "with the bat",
+          "role_ja": "手段の修飾語",
+          "literal_ja": "バットで",
+          "note_ja": "前文の baseball bat を the bat で受ける。"
+        }
+      ],
+      "deep_dive_ja": "strike は「打つ」の一般語だが、暴力の文脈では「殴る・殴打する」の意味になる。with the bat の the は、すでに言及した道具を再参照している。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Morita was injured and taken to the hospital, where he was arrested on suspicion of murder shortly after 7 p.m.",
+      "translation_ja": "盛田容疑者はけがをして病院に搬送され、午後7時過ぎに殺人の疑いで逮捕された。",
+      "grammar_ja": "was injured and taken が並列の受動態。where 以下は非制限用法で病院での出来事を追加説明。on suspicion of murder は killing より罪名が一段具体化した表現。",
+      "chunks": [
+        {
+          "text": "Morita was injured",
+          "role_ja": "主節（前半）",
+          "literal_ja": "盛田はけがをした",
+          "note_ja": "受動態だが、ここでは「けがを負った」という意味の自動詞用法に近い。"
+        },
+        {
+          "text": "and taken to the hospital",
+          "role_ja": "述語（並列・受動態）",
+          "literal_ja": "病院に運ばれた",
+          "note_ja": "was injured and (was) taken と was が省略されている並列構造。"
+        },
+        {
+          "text": "where he was arrested",
+          "role_ja": "関係副詞節",
+          "literal_ja": "そこで彼は逮捕された",
+          "note_ja": "where = at the hospital。場所を先に出して出来事を続ける。"
+        },
+        {
+          "text": "on suspicion of murder",
+          "role_ja": "理由の修飾語",
+          "literal_ja": "殺人の疑いで",
+          "note_ja": "killing から murder へと、容疑名がより法的・具体的になった。"
+        },
+        {
+          "text": "shortly after 7 p.m.",
+          "role_ja": "時間の修飾語",
+          "literal_ja": "午後7時過ぎに",
+          "note_ja": "shortly after は shortly before の対になる表現。"
+        }
+      ],
+      "deep_dive_ja": "病院で逮捕される流れは、けがの治療中または治療後に逮捕手続きが行われたことを示す。日本の報道でも同様の順序で書かれることが多い。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Police said he has admitted killing his wife but has so far given no motive.",
+      "translation_ja": "警察によると、容疑者は妻を殺したことを認めたが、これまで動機については何も話していない。",
+      "grammar_ja": "has admitted killing（動名詞の目的語）と has given no motive が but で対比。so far は「これまでのところ」という未完のニュアンスを加える。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は言った",
+          "note_ja": "この記事で何度も現れる報道の導入パターン。"
+        },
+        {
+          "text": "he has admitted killing his wife",
+          "role_ja": "間接話法の節",
+          "literal_ja": "彼は妻を殺したことを認めた",
+          "note_ja": "admit + 動名詞で「〜を認める」。that 節より簡潔な形。"
+        },
+        {
+          "text": "but",
+          "role_ja": "接続詞",
+          "literal_ja": "しかし",
+          "note_ja": "認めた事実と、まだ明らかでない情報を対比する。"
+        },
+        {
+          "text": "has so far given no motive",
+          "role_ja": "間接話法の節（並列）",
+          "literal_ja": "これまで動機を述べていない",
+          "note_ja": "so far + 現在完了で「今のところまだ〜していない」。give a motive は「動機を説明する」。"
+        }
+      ],
+      "deep_dive_ja": "admit の後は動名詞が続くのが自然で、admit to killing と言うこともできる。motive は犯罪報道の基本語彙で、reason より法的・報道的な響きがある。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃn əv/",
+      "meaning_ja": "〜の疑いで（逮捕・捜査など）",
+      "example": "He was arrested on suspicion of murder.",
+      "example_ja": "彼は殺人の疑いで逮捕された。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "be accused of",
+      "pronunciation": "/bi əˈkjuːzd əv/",
+      "meaning_ja": "〜したとして疑われる、〜の容疑をかけられる",
+      "example": "Morita is accused of killing his wife.",
+      "example_ja": "盛田容疑者は妻を殺害したとして疑われている。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "declare dead",
+      "pronunciation": "/dɪˈkleə ded/",
+      "meaning_ja": "死亡を確認する、死亡を宣言する",
+      "example": "She was declared dead at the scene.",
+      "example_ja": "彼女は現場で死亡が確認された。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "at the scene",
+      "pronunciation": "/æt ðə siːn/",
+      "meaning_ja": "現場で、事件現場で",
+      "example": "Police found evidence at the scene.",
+      "example_ja": "警察は現場で証拠を発見した。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "strike",
+      "pronunciation": "/straɪk/",
+      "meaning_ja": "打つ、殴る（過去形・過去分詞は struck）",
+      "example": "She had been struck multiple times with the bat.",
+      "example_ja": "彼女はバットで何度も打たれていた。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "motive",
+      "pronunciation": "/ˈməʊtɪv/",
+      "meaning_ja": "動機、犯行の理由",
+      "example": "He has given no motive for the crime.",
+      "example_ja": "彼は犯行の動機について何も話していない。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "admit",
+      "pronunciation": "/ədˈmɪt/",
+      "meaning_ja": "（罪などを）認める、自白する",
+      "example": "He has admitted killing his wife.",
+      "example_ja": "彼は妻を殺したことを認めた。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "shortly before/after",
+      "pronunciation": "/ˈʃɔːrtli/",
+      "meaning_ja": "〜の直前に／〜の直後に",
+      "example": "Shortly before 4 p.m., he called the police.",
+      "example_ja": "午後4時直前に、彼は警察に電話した。",
+      "source_sentence_id": "s003"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-perfect-news",
+      "title": "Present/Past Perfect Passive in news",
+      "rule": "Use has/had been + past participle to report completed actions with relevance to the present or to a past reference point.",
+      "example": "An 88-year-old man has been arrested. / She had been struck multiple times.",
+      "meaning_ja": "犯罪報道では、現在完了受動態で「逮捕された」という最新の結果を、過去完了受動態で「その時点より前に〜されていた」という被害の経緯を伝える。"
+    },
+    {
+      "id": "suspicion-accused-of",
+      "title": "on suspicion of / be accused of + gerund",
+      "rule": "Both are followed by a gerund (-ing), not an infinitive, to describe the alleged crime.",
+      "example": "arrested on suspicion of killing / is accused of killing",
+      "meaning_ja": "どちらも「〜した疑いで」という意味だが、of の後は必ず動名詞。確定前の容疑を慎重に述べる報道・法曹の表現。"
+    },
+    {
+      "id": "according-to-reported",
+      "title": "According to X, ... , Y reported",
+      "rule": "News often attributes information to a source at the start (According to...) and names the media outlet at the end (... Corp reported).",
+      "example": "According to police, he is accused of killing..., Nagano Broadcasting Corp reported.",
+      "meaning_ja": "情報源を文頭と文末の両方で示し、客観性と出典の明確さを確保するニュース英語の典型構文。"
+    },
+    {
+      "id": "by-ing-means",
+      "title": "by + -ing (means/method)",
+      "rule": "Use by + gerund to explain how something was done, often with with + instrument.",
+      "example": "by beating her with a baseball bat and stabbing her with a knife",
+      "meaning_ja": "by + 動名詞で「〜することによって」と手段を示し、with で道具を補足する。複数の方法は and で並列できる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 7,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:22:00+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:88-year-old-man-arrested-on-suspicion-of"
+}

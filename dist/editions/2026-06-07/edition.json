@@ -17,7 +17,7 @@
   },
   "articles": [
     "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
-    "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res",
+    "japantoday:2026-06-07:88-year-old-man-arrested-on-suspicion-of",
     "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo",
     "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec",
     "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and"
@@ -34,20 +34,20 @@
       "category": "national",
       "selection_rank": 1,
       "selection_reason": "jt_comments_15",
-      "body_clean_status": "suspect",
+      "body_clean_status": "clean",
       "analysis_status": "complete"
     },
     {
-      "article_id": "japantoday:2026-06-07:64-year-old-man-arrested-for-neglect-res",
+      "article_id": "japantoday:2026-06-07:88-year-old-man-arrested-on-suspicion-of",
       "edition_date": "2026-06-07",
       "source_published_date_jst": "2026-06-07",
       "source": "Japan Today Crime",
-      "source_url": "https://japantoday.com/category/crime/64-year-old-man-arrested-for-neglect-resulting-in-92-year-old-mother%E2%80%99s-death",
-      "title": "64-year-old man arrested for neglect resulting in 92-year-old mother’s death",
-      "slug": "02-64-year-old-man-arrested-for-neglect-resulting-in-92-year-old-mother-s",
+      "source_url": "https://japantoday.com/category/crime/88-year-old-man-arrested-on-suspicion-of-killing-85-year-old-wife",
+      "title": "88-year-old man arrested on suspicion of killing 85-year-old wife",
+      "slug": "02-88-year-old-man-arrested-on-suspicion-of-killing-85-year-old-wife",
       "category": "crime",
       "selection_rank": 2,
-      "selection_reason": "jt_comments_2",
+      "selection_reason": "jt_comments_5",
       "body_clean_status": "suspect",
       "analysis_status": "complete"
     },
@@ -62,7 +62,7 @@
       "category": "business",
       "selection_rank": 3,
       "selection_reason": "jt_comments_16",
-      "body_clean_status": "suspect",
+      "body_clean_status": "clean",
       "analysis_status": "complete"
     },
     {
@@ -76,7 +76,7 @@
       "category": "politics",
       "selection_rank": 4,
       "selection_reason": "jt_comments_5",
-      "body_clean_status": "suspect",
+      "body_clean_status": "clean",
       "analysis_status": "complete"
     },
     {
@@ -90,11 +90,11 @@
       "category": "tech",
       "selection_rank": 6,
       "selection_reason": "jt_comments_15",
-      "body_clean_status": "suspect",
+      "body_clean_status": "clean",
       "analysis_status": "complete"
     }
   ],
-  "generated_at": "2026-06-09T21:07:50+09:00",
+  "generated_at": "2026-06-09T21:19:55+09:00",
   "warnings": [
     "no articles for world on 2026-06-07",
     "only 5/6 categories had articles on 2026-06-07"

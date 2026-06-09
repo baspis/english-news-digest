@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-07:88-year-old-man-arrested-on-suspicion-of",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:19:55+09:00",
+  "fetched_at": "2026-06-09T21:22:50+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "falseflagsteve Urgent action is needed by the government to prevent further tragedies like this. Nice sentiment, but what exactly do you want the government to do???",
+      "translation_ja": "falseflagsteve、こういう悲劇を防ぐには政府の緊急の対応が必要だ、ということだね。気持ちはいいけど、具体的に政府に何をしてほしいの？？？",
+      "notes_ja": [
+        "文頭の「falseflagsteve」は返信先のユーザー名で、@なしで引用している",
+        "「???」は呆れや皮肉を込めた強調"
+      ],
+      "standard_en": "Nice sentiment, but what exactly do you want the government to do?",
+      "marked_terms": [],
+      "comment_id": 5229453,
+      "author": "Zaphod",
+      "rating": 1,
+      "posted_at": "2026-06-08T01:42:18+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Murdering your own wife. Lock him up.",
+      "translation_ja": "自分の妻を殺すなんて。牢屋に入れろ。",
+      "notes_ja": [
+        "「Murdering your own wife.」は主語・述語のない断片的な名詞句",
+        "「Lock him up.」は口語的な命令形の短い文"
+      ],
+      "standard_en": "He murdered his own wife. Lock him up.",
+      "marked_terms": [],
+      "comment_id": 5229428,
+      "author": "oldman_13",
+      "rating": 0,
+      "posted_at": "2026-06-07T23:24:38+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "by beating her with a baseball bat and stabbing her with a knife Wow. This does not sound at all like one of the mercy killings after years of taking care of a disabled partner. This sounds like pure rage. At 88 years old.... did he ever grow up?",
+      "translation_ja": "野球バットで殴り、ナイフで刺したということか。うわあ。これは長年介護してきた障害のあるパートナーを安楽死させる、みたいな「情け殺人」とは全然違う感じがする。純粋な怒りのようだ。88歳で……大人になれたことは一度でもあったのか？",
+      "notes_ja": [
+        "文頭「by beating...」は記事の詳細への続きで、主文が欠けている",
+        "「did he ever grow up?」は大人びていないという皮肉・侮蔑の修辞疑問"
+      ],
+      "standard_en": "By beating her with a baseball bat and stabbing her with a knife—wow. This does not sound at all like one of the mercy killings after years of taking care of a disabled partner. This sounds like pure rage. At 88 years old, did he ever grow up?",
+      "marked_terms": [],
+      "comment_id": 5229452,
+      "author": "Zaphod",
+      "rating": 0,
+      "posted_at": "2026-06-08T01:41:28+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Unbelievable! We need this to stop, these deaths are far too frequent and becoming the norm. Urgent action is needed by the government to prevent further tragedies like this.",
+      "translation_ja": "信じられない！こういうことは止めなければならない。こうした死は多すぎて、もはや当たり前になってきている。こういう悲劇を防ぐには政府の緊急の対応が必要だ。",
+      "notes_ja": [
+        "「We need this to stop, these deaths...」はカンマで独立した文をつなぐカンマスプライス",
+        "「Unbelievable!」は強い驚き・怒りの感嘆"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5229286,
+      "author": "falseflagsteve",
+      "rating": -1,
+      "posted_at": "2026-06-07T17:43:35+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "yet again strange happenings in Japan.",
+      "translation_ja": "またしても日本では奇妙な出来事が起きている。",
+      "notes_ja": [
+        "文頭小文字の「yet」から始まる口語的な断片",
+        "「strange happenings」はやや古めかしい／文学的な言い回し"
+      ],
+      "standard_en": "Yet again, there are strange happenings in Japan.",
+      "marked_terms": [],
+      "comment_id": 5229439,
+      "author": "Slayer",
+      "rating": -8,
+      "posted_at": "2026-06-08T00:11:42+09:00"
+    }
+  ]
+}
