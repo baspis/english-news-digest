@@ -46,11 +46,21 @@ def render_calendar_page(calendar_index: dict, focus_day: str) -> str:
             if date_str in editions and editions[date_str].get("status") == "complete":
                 ed = editions[date_str]
                 classes.append("has-edition")
+                if ed.get("comments_ready"):
+                    classes.append("has-comments")
                 href = ed.get("path", f"editions/{date_str}/index.html")
+                comment_badge = ""
+                if ed.get("comments_item_count", 0) > 0:
+                    comment_badge = (
+                        f'<span class="cal-comments" title="Reader reactions">'
+                        f'💬{ed.get("comments_item_count", 0)}</span>'
+                    )
                 cells.append(
                     f'<a class="{" ".join(classes)}" href="{html.escape(href)}" '
-                    f'aria-label="{date_str} edition, {ed.get("article_count", 5)} articles">'
-                    f'{day_num}<span class="cal-count">{ed.get("article_count", 5)}</span></a>'
+                    f'aria-label="{date_str} edition, {ed.get("article_count", 5)} articles, '
+                    f'{ed.get("comments_item_count", 0)} reactions">'
+                    f'{day_num}<span class="cal-count">{ed.get("article_count", 5)}</span>'
+                    f'{comment_badge}</a>'
                 )
             else:
                 cells.append(f'<div class="{" ".join(classes)}">{day_num}</div>')

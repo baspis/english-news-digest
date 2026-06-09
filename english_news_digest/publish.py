@@ -136,6 +136,7 @@ def load_calendar_index() -> dict:
 
 
 def rebuild_calendar(focus_date: str | None = None) -> None:
+    from .comments import edition_comments_summary
     from .select import EDITIONS_DIR, load_edition
 
     index = load_calendar_index()
@@ -147,6 +148,7 @@ def rebuild_calendar(focus_date: str | None = None) -> None:
                 continue
             edition = load_edition(edition_dir.name)
             if edition and edition.status == "complete":
+                comments = edition_comments_summary(edition)
                 editions_map[edition.edition_date] = {
                     "status": "complete",
                     "article_count": edition.actual_article_count,
@@ -154,6 +156,7 @@ def rebuild_calendar(focus_date: str | None = None) -> None:
                     "world_count": edition.category_counts.get("world", 0),
                     "path": f"editions/{edition.edition_date}/index.html",
                     "generated_at": edition.generated_at,
+                    **comments,
                 }
 
     index["editions"] = editions_map

@@ -1,0 +1,12 @@
+[Unit]
+Description=English News Digest JT comment fetch (eligible articles only)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/home/ubuntu/projects/english-news-digest
+Environment=HOME=/home/ubuntu
+Environment=PATH=/home/ubuntu/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/ubuntu/projects/english-news-digest/scripts/run-comments.sh

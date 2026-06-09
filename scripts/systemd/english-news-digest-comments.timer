@@ -1,0 +1,10 @@
+[Unit]
+Description=Hourly English News Digest comment fetch check
+
+[Timer]
+OnCalendar=*-*-* *:00:00
+Persistent=true
+Unit=english-news-digest-comments.service
+
+[Install]
+WantedBy=timers.target

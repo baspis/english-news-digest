@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily English News Digest build at 07:00 JST
+
+[Timer]
+OnCalendar=*-*-* 07:00:00
+Persistent=true
+Unit=english-news-digest-build.service
+
+[Install]
+WantedBy=timers.target

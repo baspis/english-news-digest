@@ -214,6 +214,19 @@ h3 {
   margin-top: 2px;
 }
 
+.cal-cell.has-comments {
+  position: relative;
+}
+
+.cal-comments {
+  display: block;
+  font-size: 10px;
+  font-weight: 600;
+  color: #8a5a12;
+  margin-top: 1px;
+  line-height: 1.1;
+}
+
 /* Daily list */
 .edition-list { margin: 0; padding: 0; list-style: none; }
 

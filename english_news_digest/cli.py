@@ -8,6 +8,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from .analyze import analyze_edition, load_analysis
+from .comments import fetch_due_comments
 from .anki import import_anki, write_anki_tsv
 from .feeds import cache_raw_feed, fetch_all_feeds, load_cached_feed
 from .migrate import migrate_legacy_edition
@@ -178,6 +179,32 @@ def cmd_rebuild_calendar(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_fetch_comments(args: argparse.Namespace) -> int:
+    result = fetch_due_comments(args.date, force=args.force)
+    updated: list[str] = result["updated_editions"]
+
+    if updated:
+        for edition_date in updated:
+            edition = load_edition(edition_date)
+            if edition is None:
+                continue
+            analyses = load_analyses_for_edition(edition)
+            if len(analyses) < edition.actual_article_count:
+                print(f"Skip render {edition_date}: missing analyses")
+                continue
+            print(f"Rendering {edition_date} after comment fetch...")
+            publish_edition(edition, analyses, update_calendar=False)
+        rebuild_calendar(updated[-1])
+        print(
+            f"Fetched comments for {result['fetched_articles']} articles "
+            f"across {len(updated)} edition(s)"
+        )
+    else:
+        print("No comments due for fetch")
+
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="English News Digest edition pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -208,6 +235,14 @@ def main(argv: list[str] | None = None) -> int:
     cal = sub.add_parser("rebuild-calendar", help="rebuild calendar index and index.html")
     cal.add_argument("--date", help="focus month from this date")
     cal.set_defaults(func=cmd_rebuild_calendar)
+
+    comments = sub.add_parser(
+        "fetch-comments",
+        help="fetch JT popular comments once per article (24h after edition build)",
+    )
+    comments.add_argument("--date", help="only process this edition date")
+    comments.add_argument("--force", action="store_true", help="dev only: ignore final/eligible gates")
+    comments.set_defaults(func=cmd_fetch_comments)
 
     args = parser.parse_args(argv)
     return args.func(args)
