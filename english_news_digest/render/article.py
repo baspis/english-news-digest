@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import html
 
+from ..comments import load_comments, render_community_appendix
 from ..schemas import ArticleRecord, Edition
 from .assets import page_shell
 
@@ -151,6 +152,8 @@ def render_article_page(
       <h2>Grammar focus</h2>
       <div class="grammar-grid">{''.join(grammar_html)}</div>
     </section>
+
+    {render_community_appendix(load_comments(record.article_id))}
 
     <footer>English News Digest · {html.escape(edition.edition_date)}</footer>
     """

@@ -1,0 +1,60 @@
+{
+  "article_id": "japantoday:2026-06-09:memorial-service-marks-25-years-since-fa",
+  "source": "japantoday",
+  "order": "popular",
+  "limit": 3,
+  "fetched_at": "2026-06-09T18:26:01+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I remember this nightmare of a news just as I was starting uni. Those poor kids could have been mothers, lawyers or teachers by now. Remembering the innocent angels.",
+      "translation_ja": "大学に入り始めたばかりの頃、このニュースの悪夢を覚えています。あの子たちは今ごろ、母親や弁護士、教師になっていたかもしれない。罪のない天使たちを思い出しています。",
+      "notes_ja": [
+        "「nightmare of a news」は少し不自然で、通常は nightmare of a news story のように言います。",
+        "最後の文は動詞のない断片で、追悼の気持ちを短く表しています。"
+      ],
+      "standard_en": "I remember this nightmare of a news story just as I was starting university. Those poor kids could have been mothers, lawyers, or teachers by now. I remember the innocent angels.",
+      "marked_terms": [
+        {
+          "term": "uni",
+          "symbol": "◇",
+          "note_ja": "university のくだけた略語。フォーマルな文章では university を使います。"
+        }
+      ],
+      "comment_id": 5229852,
+      "author": "Seigi",
+      "rating": 1,
+      "posted_at": "2026-06-08T09:26:06+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Sad history, Those poor kids could have been mothers, lawyers or teachers by now. More SAD",
+      "translation_ja": "悲しい歴史だ。あの可哀想な子たちは今ごろ、母親や弁護士、教師になっていたかもしれない。もっと悲しい。",
+      "notes_ja": [
+        "「Sad history,」のあとに文が続くカンマ接続（comma splice）で、口語的です。",
+        "「More SAD」は大文字で強調した短い断片です。"
+      ],
+      "standard_en": "This is sad history. Those poor kids could have been mothers, lawyers, or teachers by now. It is even sadder.",
+      "marked_terms": [],
+      "comment_id": 5230346,
+      "author": "iron man",
+      "rating": 0,
+      "posted_at": "2026-06-08T16:13:13+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Thank goodness Japan doesn't allow guns or such events would be more frequent and more damaging. People can still remember this horrible event 25 years later, an indication that it's not a common thing. (Although I believe in some countries such things happen dozens of times a year.)",
+      "translation_ja": "日本が銃を許していないおかげで、こうした事件はもっと頻繁で、もっと甚大になっていただろう。人々が25年後もこの恐ろしい出来事を覚えているのは、それがよくあることではない証拠だ。（とはいえ、一部の国では年に何十回もこうしたことが起きていると思う。）",
+      "notes_ja": [
+        "「or such events would be…」は if Japan allowed guns が省略された仮定の言い方です。",
+        "括弧内は他国との対比を添える補足で、やや慎重なトーンです。"
+      ],
+      "standard_en": "Thank goodness Japan doesn't allow guns, or such events would be more frequent and more damaging. The fact that people can still remember this horrible event 25 years later is an indication that it's not a common thing. (Although I believe that in some countries such things happen dozens of times a year.)",
+      "marked_terms": [],
+      "comment_id": 5230357,
+      "author": "Sid",
+      "rating": 0,
+      "posted_at": "2026-06-08T16:26:57+09:00"
+    }
+  ]
+}

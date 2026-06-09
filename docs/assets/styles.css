@@ -488,6 +488,73 @@ h3 {
   margin-top: var(--space-3);
 }
 
+.comment-appendix summary {
+  cursor: pointer;
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}
+
+.comment-legend {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0 0 var(--space-4);
+}
+
+.comment-card {
+  border-top: 1px solid var(--line);
+  padding: var(--space-4) 0;
+}
+
+.comment-card:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.comment-meta {
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: var(--space-2);
+}
+
+.comment-raw {
+  font-size: 16px;
+  line-height: 1.55;
+  margin: 0 0 var(--space-2);
+  color: #2a2622;
+}
+
+.comment-translation {
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 var(--space-2);
+}
+
+.comment-notes,
+.comment-marks {
+  margin: var(--space-2) 0;
+  padding-left: 1.2em;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.comment-standard {
+  font-size: 14px;
+  color: #3a3632;
+  margin: var(--space-2) 0;
+}
+
+.comment-standard .label {
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.mark-symbol {
+  font-weight: 700;
+  margin-right: 4px;
+}
+
 footer {
   color: var(--muted);
   text-align: center;
