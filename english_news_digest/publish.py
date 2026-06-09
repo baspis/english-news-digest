@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from .paths import DIST, DIST_ASSETS, DIST_EDITIONS
+from .paths import DIST, DIST_ASSETS, DIST_EDITIONS, DOCS
 from .render.article import render_article_page
 from .render.assets import write_assets
 from .render.calendar import render_calendar_page
@@ -81,6 +81,16 @@ def publish_edition(
         rebuild_calendar(edition.edition_date)
 
     edition.status = "complete"
+    sync_github_pages()
+
+
+def sync_github_pages() -> None:
+    """Copy dist/ to docs/ for GitHub Pages (main branch /docs)."""
+    if not DIST.is_dir():
+        return
+    if DOCS.exists():
+        shutil.rmtree(DOCS)
+    shutil.copytree(DIST, DOCS)
 
 
 def _write_compat_redirects(edition: Edition) -> None:
@@ -152,3 +162,4 @@ def rebuild_calendar(focus_date: str | None = None) -> None:
     focus = focus_date or datetime.now(JST).strftime("%Y-%m-%d")
     index_html = render_calendar_page(index, focus)
     (DIST / "index.html").write_text(index_html, encoding="utf-8")
+    sync_github_pages()

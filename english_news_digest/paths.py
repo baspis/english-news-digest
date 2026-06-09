@@ -7,6 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DIST = ROOT / "dist"
+DOCS = ROOT / "docs"
 ANKI_ROOT = Path.home() / "projects" / "english-anki"
 OBSCURA = Path.home() / ".local" / "bin" / "obscura"
 CURSOR_AGENT = Path.home() / ".local" / "bin" / "cursor-agent"

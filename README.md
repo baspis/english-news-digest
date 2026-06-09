@@ -2,14 +2,15 @@
 
 Daily English news reader for B2 learners. One edition per day, five articles, sentence-by-sentence study notes.
 
+**Live site:** https://baspis.github.io/english-news-digest/
+
 ## Quick start
 
 ```bash
 python3 -m english_news_digest build-edition --date 2026-06-09
 python3 -m english_news_digest render --date 2026-06-09
+./scripts/deploy-pages.sh
 ```
-
-Open `dist/index.html` locally, or use the Tailscale URL on VPS (`https://llm-devbox/`).
 
 ## Commands
 
@@ -20,10 +21,12 @@ python3 -m english_news_digest export-anki [--date YYYY-MM-DD]
 python3 -m english_news_digest rebuild-calendar
 ```
 
-## Deploy (VPS)
+## Deploy (GitHub Pages)
+
+Same pattern as [child-english-starter](https://baspis.github.io/child-english-starter/): static HTML in `docs/`, served from `main`.
 
 ```bash
-./scripts/deploy-vps.sh
+./scripts/deploy-pages.sh
 ```
 
-On `llm-devbox`, static files are served from `dist/` via Tailscale Serve.
+This syncs `dist/` → `docs/`, commits, and pushes. GitHub Pages picks it up automatically.
