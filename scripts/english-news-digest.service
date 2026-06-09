@@ -1,0 +1,15 @@
+[Unit]
+Description=English News Digest static site (Tailscale only)
+After=network-online.target tailscaled.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/projects/english-news-digest/dist
+ExecStart=/usr/bin/python3 -m http.server 8765 --bind 100.78.227.65
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
