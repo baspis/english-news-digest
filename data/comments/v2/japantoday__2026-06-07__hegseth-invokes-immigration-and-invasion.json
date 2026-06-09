@@ -1,0 +1,125 @@
+{
+  "article_id": "japantoday:2026-06-07:hegseth-invokes-immigration-and-invasion",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:40:08+09:00",
+  "fetched_at": "2026-06-09T21:43:39+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "\"said that today, \"different European beaches are stormed by different dangerous ideologies.\" Is he on the sauce again? The sooner this moron is gone the better.",
+      "translation_ja": "「今日、『さまざまなヨーロッパの海岸が、さまざまな危険なイデオロギーに襲われている』と言った。また酔っ払ってるのか？この間抜けが早く消え去ってくれればいいのに。」",
+      "notes_ja": [
+        "文頭に主語（He）がなく、前の文脈を受けた省略になっている",
+        "on the sauce = 酒を飲みすぎている（口語スラング）"
+      ],
+      "standard_en": "He said today that \"different European beaches are stormed by different dangerous ideologies.\" Is he drunk again? The sooner this moron is gone, the better.",
+      "marked_terms": [
+        {
+          "term": "on the sauce",
+          "symbol": "◇",
+          "note_ja": "酒を飲みすぎている、というカジュアルな表現"
+        },
+        {
+          "term": "moron",
+          "symbol": "※",
+          "note_ja": "人を馬鹿にする強い侮辱語。丁寧な場では使わない"
+        }
+      ],
+      "comment_id": 5228676,
+      "author": "Bob Fosse",
+      "rating": 26,
+      "posted_at": "2026-06-07T07:00:12+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "At a memorial service for D-Day to commemorate heroes who stormed the beaches by boats he talks about beaches being stormed by 'dangerous ideologies, men arriving in boats.' He is an idiot.",
+      "translation_ja": "ボートで海岸を襲った英雄たちを称えるノルマンディー上陸作戦の追悼式で、彼は海岸が『危険なイデオロギー』や『ボートで到着する男たち』に襲われていると話している。こいつは間抜けだ。",
+      "notes_ja": [
+        "by boats のあとにカンマがなく、1文が長くつながっている（話し言葉的な流れ）",
+        "storm the beaches が軍事作戦と移民の両方にかけられ、意図的な言葉遊びへの皮肉"
+      ],
+      "standard_en": "At a memorial service for D-Day to commemorate heroes who stormed the beaches by boats, he talks about beaches being stormed by \"dangerous ideologies\" and \"men arriving in boats.\" He is an idiot.",
+      "marked_terms": [
+        {
+          "term": "idiot",
+          "symbol": "※",
+          "note_ja": "人を馬鹿にする侮辱語"
+        }
+      ],
+      "comment_id": 5228720,
+      "author": "Bob Fosse",
+      "rating": 25,
+      "posted_at": "2026-06-07T07:27:06+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "The UK fought in WWII against a fascist who demonised minority groups, ignored international law, threatened other nations and bombed civilians. We still hate people like that, including Trump.",
+      "translation_ja": "イギリスは第二次世界大戦で、少数派を妖魔化し、国際法を無視し、他国を脅し、民間人を爆撃したファシストと戦った。私たちは今もそういう人間が大嫌いだ。トランプも含めて。",
+      "notes_ja": [
+        "fascist は歴史上の敵国指導者（ヒトラー等）を想起させる比喩",
+        "including Trump で現代の政治家を直接名指しして批判している"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "hate",
+          "symbol": "◇",
+          "note_ja": "強い感情を表すが、政治コメントではよく使われる。日常の丁寧な会話では強すぎることがある"
+        }
+      ],
+      "comment_id": 5228786,
+      "author": "GBR48",
+      "rating": 25,
+      "posted_at": "2026-06-07T08:30:48+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "The Ugly American",
+      "translation_ja": "『醜いアメリカ人』",
+      "notes_ja": [
+        "1958年の小説タイトル由来の慣用句で、海外で横柄・無礼なアメリカ人を指す",
+        "文が主語・動詞だけの短いラベルになっている"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228732,
+      "author": "plasticmonkey",
+      "rating": 24,
+      "posted_at": "2026-06-07T07:36:16+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Sort of your own dangerous cesspool of a nation first Hegseth, your endless gun violence and massacres, before attacking other nations. The murder rate is far, far higher in cesspit America than France or the UK. Next time there is a gun massacre in America (2 or 3 days) the leaders of France and the UK should hold a press conference to lecture them.",
+      "translation_ja": "まずは自分の国という危険な汚水溜めを片付けろよ、ヘグセス。他国を攻撃する前に、終わりのない銃暴力と大量殺人事件のことだ。殺人率は汚泥沼のアメリカの方がフランスやイギリスよりはるかに高い。次にアメリカで銃による大量殺人が起きたとき（2、3日後くらいだろう）、フランスとイギリスの指導者は記者会見を開いて彼らを説教すべきだ。",
+      "notes_ja": [
+        "Sort of your own... は命令文の前に Sort of が付き、皮肉・突き放しの口調になる",
+        "(2 or 3 days) は銃乱射が頻発することへの辛辣な皮肉"
+      ],
+      "standard_en": "Sort out your own dangerous cesspool of a nation first, Hegseth—your endless gun violence and massacres—before attacking other nations. The murder rate is far, far higher in cesspit America than in France or the UK. The next time there is a gun massacre in America (in two or three days), the leaders of France and the UK should hold a press conference to lecture them.",
+      "marked_terms": [
+        {
+          "term": "cesspool",
+          "symbol": "※",
+          "note_ja": "国を汚物の溜まりに例える強い侮辱表現"
+        },
+        {
+          "term": "cesspit",
+          "symbol": "※",
+          "note_ja": "cesspool と同系の汚い比喩で、アメリカを侮辱"
+        },
+        {
+          "term": "Sort of",
+          "symbol": "◇",
+          "note_ja": "ここでは「まあ」「ちょっと」ではなく、皮肉を込めた口語的な切り出し"
+        }
+      ],
+      "comment_id": 5228852,
+      "author": "ThePunisher",
+      "rating": 23,
+      "posted_at": "2026-06-07T09:17:23+09:00"
+    }
+  ]
+}

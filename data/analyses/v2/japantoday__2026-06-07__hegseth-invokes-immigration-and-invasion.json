@@ -1,0 +1,433 @@
+{
+  "summary_ja": "米国防長官のピート・ヘグセスは、フランスでのD-Day記念演説で、海路の移民を第二次大戦の欧州解放と結びつけるような発言をし、同盟国が勝ち取った自由は守られなければ一時的なものになり得ると警告した。彼は「侵略」という言葉を使い、欧州各国の首都に行動を促したが、記事はトランプ政権の移民・国境批判の文脈で読むべきだと指摘している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Defense Secretary Pete Hegseth used a D-Day anniversary speech on Saturday to appear to link immigration by sea to the wartime liberation of Europe, warning that the freedom won by Allied troops could prove temporary if leaders failed to defend it.",
+      "translation_ja": "米国防長官ピート・ヘグセスは土曜日のD-Day記念演説で、海路による移民を戦時の欧州解放と結びつけようとしたように見せ、指導者たちがそれを守れなければ連合軍が勝ち取った自由は一時的なものになり得ると警告した。",
+      "grammar_ja": "used ... to appear to link A to B は「AとBを結びつけようとしたように見せる」という婉曲表現。warning that ... は分詞構文で主節に付加。could prove temporary は可能性＋結果を表す。if leaders failed は過去形だが、一般論・仮定のニュアンス。",
+      "chunks": [
+        {
+          "text": "Defense Secretary Pete Hegseth",
+          "role_ja": "主語",
+          "literal_ja": "国防長官ピート・ヘグセスが",
+          "note_ja": "Defense Secretary は米国の国防長官。役職＋氏名の順はニュースの定番。"
+        },
+        {
+          "text": "used a D-Day anniversary speech on Saturday",
+          "role_ja": "述語（主要動詞）",
+          "literal_ja": "土曜日のD-Day記念演説を用いた",
+          "note_ja": "use a speech は「演説の場を利用する」。anniversary speech は記念式典での演説。"
+        },
+        {
+          "text": "to appear to link immigration by sea to the wartime liberation of Europe",
+          "role_ja": "目的（不定詞）",
+          "literal_ja": "海路移民を戦時の欧州解放と結びつけようと見せるために",
+          "note_ja": "appear to は事実断定を避ける報道表現「～のように見える」。link A to B は「AをBと結びつける」。"
+        },
+        {
+          "text": "warning that the freedom won by Allied troops could prove temporary",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "連合軍が勝ち取った自由が一時的だと判明し得ると警告しながら",
+          "note_ja": "won by Allied troops は過去分詞の関係節相当。prove temporary は「（結果として）一時的だとわかる」。"
+        },
+        {
+          "text": "if leaders failed to defend it",
+          "role_ja": "条件節",
+          "literal_ja": "指導者たちがそれを守れなければ",
+          "note_ja": "fail to defend は「守ることに失敗する」。it は freedom を指す。"
+        }
+      ],
+      "deep_dive_ja": "appear to link は、記者が意図を断定しない慎重な書き方。D-Day と immigration by sea を並べること自体が象徴的なレトリックであり、歴史比喩を読む力が求められる。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Hegseth, speaking at the Normandy American Cemetery in Colleville-sur-Mer in northwestern France during commemorations for the 82nd anniversary of the June 6, 1944, landings, said that today, “different European beaches are stormed by different dangerous ideologies.”",
+      "translation_ja": "ヘグセスは、1944年6月6日の上陸作戦82周年を記念する式典で、フランス北西部コルヴィル＝シュル＝メールのノルマンディーアメリカ人墓地で演説し、今日は「さまざまな危険なイデオロギーによって、異なる欧州の海岸が『襲撃』されている」と述べた。",
+      "grammar_ja": "speaking at ... は挿入の分詞構文。said that ... は間接話法。are stormed by は受動態で比喩（beach / storm）を強調。today は「現在この時代に」という意味。",
+      "chunks": [
+        {
+          "text": "Hegseth",
+          "role_ja": "主語",
+          "literal_ja": "ヘグセスは",
+          "note_ja": "前の文から主語が継続。"
+        },
+        {
+          "text": "speaking at the Normandy American Cemetery in Colleville-sur-Mer in northwestern France",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "フランス北西部コルヴィル＝シュル＝メールのノルマンディーアメリカ人墓地で話しながら",
+          "note_ja": "場所の前置詞句が重なって詳細を積み上げるニュース文体。"
+        },
+        {
+          "text": "during commemorations for the 82nd anniversary of the June 6, 1944, landings",
+          "role_ja": "時間・状況",
+          "literal_ja": "1944年6月6日の上陸作戦82周年の記念行事の最中に",
+          "note_ja": "landings はノルマンディー上陸作戦を指す。commemorations for ... は「～を記念する式典」。"
+        },
+        {
+          "text": "said that today",
+          "role_ja": "述語",
+          "literal_ja": "今日は～だと述べた",
+          "note_ja": "that 以下が発言内容。today は引用内の time frame を導く。"
+        },
+        {
+          "text": "different European beaches are stormed by different dangerous ideologies",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "異なる欧州の海岸が異なる危険なイデオロギーに襲撃されている",
+          "note_ja": "storm は軍事比喩。beach は移民到達の海岸へ意図的に転換している。"
+        }
+      ],
+      "deep_dive_ja": "D-Day の beach assault と現代の「海岸への到達」を重ねる言葉遊び。ideologies を主語に見せる受動態で、人ではなく思想が「襲撃する」という印象を与える。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "“Beaches in Spain and Italy and Greece and Bulgaria.",
+      "translation_ja": "「スペイン、イタリア、ギリシャ、ブルガリアの海岸だ。」",
+      "grammar_ja": "名詞句のみの断片引用。beaches in ... は「～の海岸」。国名を and で並列。句点で発言が続くことを示す。",
+      "chunks": [
+        {
+          "text": "Beaches",
+          "role_ja": "主語（名詞句の中心）",
+          "literal_ja": "海岸が",
+          "note_ja": "前の stormed beaches の比喩を具体化。"
+        },
+        {
+          "text": "in Spain and Italy and Greece and Bulgaria",
+          "role_ja": "後置修飾（前置詞句）",
+          "literal_ja": "スペインとイタリアとギリシャとブルガリアの",
+          "note_ja": "地中海・バルカン周辺の移民到達ルートを想起させる地名列挙。"
+        }
+      ],
+      "deep_dive_ja": "演説体の短い断片なので、文法的に不完全でもそのまま引用するのがニュース英語の作法。リズムを作るため and を繰り返す。",
+      "difficulty": "easy",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Boats and men arrive,” he said.",
+      "translation_ja": "「ボートと人々が到着する」と彼は言った。",
+      "grammar_ja": "Boats and men arrive は現在形で一般的・反復的現象を描写。he said は発言動詞＋話者。引用文の終わりに付く。",
+      "chunks": [
+        {
+          "text": "Boats and men",
+          "role_ja": "主語",
+          "literal_ja": "ボートと人々が",
+          "note_ja": "men はここでは移民到達者を含意する比喩的用法。"
+        },
+        {
+          "text": "arrive",
+          "role_ja": "述語",
+          "literal_ja": "到着する",
+          "note_ja": "現在形で繰り返し起きる状況を示す。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "発言の報告",
+          "literal_ja": "彼は言った",
+          "note_ja": "引用を閉じる定型表現。"
+        }
+      ],
+      "deep_dive_ja": "短く断片的な文で緊張感を出す修辞。歴史上の上陸船団を想起させ、聴衆の感情に訴える。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "“When will European capitals do something about that invasion?",
+      "translation_ja": "「欧州各国の首都はいつ、その侵略について何か手を打つのか？」",
+      "grammar_ja": "When will ... ? は未来への問いかけ。do something about は「～に対処する」定型。that invasion は直前の比喩を受ける。",
+      "chunks": [
+        {
+          "text": "When",
+          "role_ja": "疑問詞（時）",
+          "literal_ja": "いつ",
+          "note_ja": "遅れへの不満・焦りを表す。"
+        },
+        {
+          "text": "European capitals",
+          "role_ja": "主語",
+          "literal_ja": "欧州の首都（＝各国政府）が",
+          "note_ja": "首都＝政府のメトニミー（換喩）。"
+        },
+        {
+          "text": "do something about that invasion",
+          "role_ja": "述語",
+          "literal_ja": "その侵略について何かする",
+          "note_ja": "do something about は口語的だが演説では効く。invasion は移民を軍事侵攻に例える強い語。"
+        }
+      ],
+      "deep_dive_ja": "修辞疑問に近い響き。invasion という語の選択が、移民を国家的脅威として描く意図をはっきり示す。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Or is it too late?” he added. “I pray not, and I believe not.”",
+      "translation_ja": "「それとももう手遅れなのか？」と彼は付け加えた。「そうではないと祈り、そうではないと信じている。」",
+      "grammar_ja": "Or is it too late? は前問への追加疑問。he added は発言の追記。I pray not / I believe not は not で前文を省略する短縮（it is not too late）。",
+      "chunks": [
+        {
+          "text": "Or is it too late?",
+          "role_ja": "疑問文（追加）",
+          "literal_ja": "それとも手遅れなのか",
+          "note_ja": "Or で選択肢を提示。too late は「対策が間に合わない」。"
+        },
+        {
+          "text": "he added",
+          "role_ja": "発言の報告",
+          "literal_ja": "彼は付け加えた",
+          "note_ja": "said の類義。続きの発言があることを示す。"
+        },
+        {
+          "text": "I pray not",
+          "role_ja": "主節",
+          "literal_ja": "そうでないと祈る",
+          "note_ja": "pray not = pray that it is not too late。宗教的・演説的響き。"
+        },
+        {
+          "text": "and I believe not",
+          "role_ja": "並列節",
+          "literal_ja": "そしてそうではないと信じる",
+          "note_ja": "believe not も同様に省略。希望的な締め。"
+        }
+      ],
+      "deep_dive_ja": "危機感を出した直後に hope を示す構成。pray / believe の並列は聴衆への訴求としてよく使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Hegseth did not use the word immigration, but his remarks echoed broader Trump administration criticism of Europe over migration, borders and what U.S. officials have described as censorship of nationalist and far-right voices.",
+      "translation_ja": "ヘグセスは immigration という語を使わなかったが、その発言は、移民・国境、そして米当局が国家主義的・極右の声の検閲と表現した問題をめぐる、トランプ政権による欧州批判の広い流れを反映していた。",
+      "grammar_ja": "did not use ... but ... echoed は対比。over migration, borders は「～をめぐる」議題。criticism of Europe over ... 構文。what ... have described as ... は関係代名詞節。",
+      "chunks": [
+        {
+          "text": "Hegseth did not use the word immigration",
+          "role_ja": "主節（対比の前半）",
+          "literal_ja": "ヘグセスは immigration という語を使わなかった",
+          "note_ja": "明示語を避けたことを記者が指摘。"
+        },
+        {
+          "text": "but his remarks echoed broader Trump administration criticism of Europe",
+          "role_ja": "主節（対比の後半）",
+          "literal_ja": "しかし彼の発言はトランプ政権のより広い欧州批判を反響させた",
+          "note_ja": "echo は「反響する・呼応する」。broader で個別発言を大きな文脈へ。"
+        },
+        {
+          "text": "over migration, borders",
+          "role_ja": "議題を示す前置詞句",
+          "literal_ja": "移民と国境をめぐる",
+          "note_ja": "criticism over A, B は「A・Bに関する批判」。"
+        },
+        {
+          "text": "what U.S. officials have described as censorship of nationalist and far-right voices",
+          "role_ja": "名詞節（and で並列）",
+          "literal_ja": "米当局が国家主義・極右の声の検閲と表現してきたもの",
+          "note_ja": "describe A as B は「AをBと表現する」。記者は米側の言い方を距離を取って紹介。"
+        }
+      ],
+      "deep_dive_ja": "記事の解釈を明示する文。言葉を使わなくても政策メッセージは伝わる、という政治コミュニケーションの読み方が要点。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "On Saturday, British Prime Minister Keir Starmer’s office condemned U.S.",
+      "translation_ja": "土曜日、英国のキア・スターマー首相の官邸は、米国の",
+      "grammar_ja": "On Saturday は時間。British Prime Minister Keir Starmer's office は「首相官邸・首相室」＝公式見解。condemned は強い非難。文は次の文に続く途中で切れている。",
+      "chunks": [
+        {
+          "text": "On Saturday",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "土曜日に",
+          "note_ja": "同日の別出来事として並置。"
+        },
+        {
+          "text": "British Prime Minister Keir Starmer’s office",
+          "role_ja": "主語",
+          "literal_ja": "英国首相キア・スターマーの官邸が",
+          "note_ja": "office は個人ではなく政府の公式立場を表す。"
+        },
+        {
+          "text": "condemned U.S.",
+          "role_ja": "述語＋目的語（未完）",
+          "literal_ja": "米国の～を非難した",
+          "note_ja": "次文で Vice President ... が続く。紙面改行で分断された形。"
+        }
+      ],
+      "deep_dive_ja": "ニュースでは長い目的語が次行に回ることがある。condemn は外交記事でよく出る強い動詞。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Vice President JD Vance for blaming immigration for the killing of Henry Nowak, an 18-year-old British student stabbed to death in Southampton, even though both Nowak and his killer were British.",
+      "translation_ja": "副大統領JD・ヴァンスが、サウサンプトンで刺殺された18歳の英国人学生ヘンリー・ノワクの殺害を移民のせいにしたことについて非難した。ノワクも犯人もともに英国人であったにもかかわらず、である。",
+      "grammar_ja": "condemned ... for blaming ... for the killing は二重の for 構文。同格 an 18-year-old ... で人物説明。even though は譲歩「～にもかかわらず」。stabbed to death は過去分詞の受動。",
+      "chunks": [
+        {
+          "text": "Vice President JD Vance",
+          "role_ja": "目的語（前句の続き）",
+          "literal_ja": "副大統領JD・ヴァンスを",
+          "note_ja": "前文 condemned U.S. と合わせて非難対象を特定。"
+        },
+        {
+          "text": "for blaming immigration for the killing of Henry Nowak",
+          "role_ja": "理由（for）",
+          "literal_ja": "ヘンリー・ノワクの殺害を移民のせいにしたことについて",
+          "note_ja": "blame A for B は「Bの原因をAのせいにする」。"
+        },
+        {
+          "text": "an 18-year-old British student stabbed to death in Southampton",
+          "role_ja": "同格",
+          "literal_ja": "サウサンプトンで刺殺された18歳の英国人学生",
+          "note_ja": "ハイフン付き複合形容詞 18-year-old。stabbed to death は「刺殺された」。"
+        },
+        {
+          "text": "even though both Nowak and his killer were British",
+          "role_ja": "譲歩節",
+          "literal_ja": "ノワクも犯人も英国人であったにもかかわらず",
+          "note_ja": "論理的矛盾を記者が強調する譲歩。"
+        }
+      ],
+      "deep_dive_ja": "移民を犯罪原因と結びつける発言への反発が、ヘグセス演説の文脈と並ぶ第二の論点。even though で事実関係を対比するのが記事の要点。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "In December, the Trump administration’s national security strategy warned that Europe faced the “prospect of civilizational erasure” and could become “unrecognizable” within 20 years.",
+      "translation_ja": "12月、トランプ政権の国家安全保障戦略は、欧州が「文明の消滅の見通し」に直面し、20年以内に「見分けがつかない様相」になる可能性があると警告した。",
+      "grammar_ja": "warned that ... は間接話法。faced the prospect of ... は「～の見通しに直面する」。could become は可能性。within 20 years は「20年以内に」。引用語は政策的レトリック。",
+      "chunks": [
+        {
+          "text": "In December",
+          "role_ja": "時間",
+          "literal_ja": "12月に",
+          "note_ja": "より以前の政策文書へ時間を戻す。"
+        },
+        {
+          "text": "the Trump administration’s national security strategy",
+          "role_ja": "主語",
+          "literal_ja": "トランプ政権の国家安全保障戦略が",
+          "note_ja": "政府の公式戦略文書。"
+        },
+        {
+          "text": "warned that Europe faced the “prospect of civilizational erasure”",
+          "role_ja": "述語＋内容節",
+          "literal_ja": "欧州が文明消滅の見通しに直面していると警告した",
+          "note_ja": "civilizational erasure は強い政治用語。prospect of は「～の見込み」。"
+        },
+        {
+          "text": "and could become “unrecognizable” within 20 years",
+          "role_ja": "並列述語",
+          "literal_ja": "そして20年以内に見分けがつかなくなる可能性がある",
+          "note_ja": "unrecognizable は文化的・アイデンティティの変化を暗示。"
+        }
+      ],
+      "deep_dive_ja": "個人の演説を国家戦略の長期警告と結びつけ、トランプ政権の欧州観の一貫性を示す締め。引用符内の大げさな語は分析対象としてそのまま押さえる。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "invoke",
+      "pronunciation": "/ɪnˈvoʊk/",
+      "meaning_ja": "（記憶・概念・権限などを）呼び起こす、援用する",
+      "example": "Hegseth invoked immigration and 'invasion' in his speech.",
+      "example_ja": "ヘグセスは演説で移民と「侵略」を呼び起こすように言及した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "commemoration",
+      "pronunciation": "/kəˌmɛməˈreɪʃən/",
+      "meaning_ja": "記念、追悼の式典",
+      "example": "during commemorations for the 82nd anniversary",
+      "example_ja": "82周年を記念する式典の最中に",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "ideology",
+      "pronunciation": "/ˌaɪdiˈɑːlədʒi/",
+      "meaning_ja": "イデオロギー、思想体系",
+      "example": "dangerous ideologies storming European beaches",
+      "example_ja": "欧州の海岸を襲う危険なイデオロギー",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "invasion",
+      "pronunciation": "/ɪnˈveɪʒən/",
+      "meaning_ja": "侵略、侵入",
+      "example": "do something about that invasion",
+      "example_ja": "その侵略について何か手を打つ",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "echo",
+      "pronunciation": "/ˈɛkoʊ/",
+      "meaning_ja": "反響する、呼応する、繰り返し示す",
+      "example": "his remarks echoed broader criticism",
+      "example_ja": "彼の発言はより広い批判を反映した",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "condemn",
+      "pronunciation": "/kənˈdɛm/",
+      "meaning_ja": "強く非難する、責める",
+      "example": "Starmer's office condemned Vance",
+      "example_ja": "スターマー首相の官邸はヴァンスを非難した",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "censorship",
+      "pronunciation": "/ˈsɛnsərʃɪp/",
+      "meaning_ja": "検閲、言論統制",
+      "example": "censorship of nationalist and far-right voices",
+      "example_ja": "国家主義的・極右の声に対する検閲",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "civilizational",
+      "pronunciation": "/ˌsɪvələˈzeɪʃənəl/",
+      "meaning_ja": "文明の、文明的な",
+      "example": "the prospect of civilizational erasure",
+      "example_ja": "文明の消滅の見通し",
+      "source_sentence_id": "s010"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-setting",
+      "title": "Participial phrases for background (speaking at..., warning that...)",
+      "rule": "Use -ing or past participle phrases to add place, time, or extra information without starting a new sentence.",
+      "example": "Hegseth, speaking at the Normandy American Cemetery..., said that...",
+      "meaning_ja": "分詞構文（-ing / 過去分詞）で場所・状況・付加情報を挿入し、文を分割せずに情報を厚くするニュース英語の技法。"
+    },
+    {
+      "id": "reported-speech",
+      "title": "Reported speech with said/warned that",
+      "rule": "After said, warned, added, use 'that' + clause; tense may shift in formal reporting.",
+      "example": "he said that today, “different European beaches are stormed...”",
+      "meaning_ja": "said/warned that で間接話法。演説の要約と直接引用を組み合わせると、発言のニュアンスを保ちつつ読みやすくなる。"
+    },
+    {
+      "id": "contrast-but",
+      "title": "Contrast with did not... but...",
+      "rule": "Use 'did not A, but B' to contrast surface wording with underlying meaning.",
+      "example": "Hegseth did not use the word immigration, but his remarks echoed broader criticism.",
+      "meaning_ja": "表面上の事実とその裏にある意味を対比する構文。政治記事で「言葉は使わないが意図は明確」という分析に便利。"
+    },
+    {
+      "id": "concessive-even-though",
+      "title": "Concession with even though",
+      "rule": "Even though + fact, main clause shows unexpected or contradictory claim.",
+      "example": "even though both Nowak and his killer were British",
+      "meaning_ja": "even though は「～にもかかわらず」の譲歩。事実と主張の矛盾を際立たせ、記者の批判的視点を示すのに使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 10,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:42:47+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:hegseth-invokes-immigration-and-invasion"
+}

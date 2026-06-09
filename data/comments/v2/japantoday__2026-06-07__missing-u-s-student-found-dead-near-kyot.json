@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-07:missing-u-s-student-found-dead-near-kyot",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T21:40:08+09:00",
+  "fetched_at": "2026-06-09T21:43:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Very sad. Great job by the volunteer search and rescue team for finding him.",
+      "translation_ja": "とても悲しい。彼を見つけてくれたボランティアの捜索救助チーム、よくやってくれた。",
+      "notes_ja": [
+        "2つの短い文で、口語ではよくある切り口。",
+        "Great job by ... for finding him は「〜が〜してくれてよかった」という感謝の言い方。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228711,
+      "author": "Spitfire",
+      "rating": 24,
+      "posted_at": "2026-06-07T07:16:19+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Nancy Higginbotham had told Reuters she believed ‌her son may have \"needed space.\" Why do I get the feeling that this sounds like it may have been a suicide.",
+      "translation_ja": "ナンシー・ヒギンボサムはロイターに、息子は「一人になりたかったのかもしれない」と話していた。なんだか、これは自殺だったのではないかという気がしてならない。",
+      "notes_ja": [
+        "get the feeling that ... は「なんとなく〜という気がする」という慣用表現。",
+        "may have been a suicide は事実を断定せず、推測・違和感を述べている。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5228668,
+      "author": "Yubaru",
+      "rating": 21,
+      "posted_at": "2026-06-07T06:46:16+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Yubaru Yeah, it sounds like it, doesn't it. Turned off all of his traceable electronics before heading into the hills. Sad story for the family.",
+      "translation_ja": "Yubaru うん、そういう感じがするよね。山に入る前に、位置がわかる電子機器を全部切っていた。家族にとって悲しい話だ。",
+      "notes_ja": [
+        "Turned off all of ... は主語のない文の断片。前の文の内容を受けて「彼は〜した」と補う。",
+        "doesn't it は相手の同意を求める付け足し（タグ疑問文）。"
+      ],
+      "standard_en": "Yeah, it sounds like it, doesn't it. He turned off all of his traceable electronics before heading into the hills.",
+      "marked_terms": [],
+      "comment_id": 5228701,
+      "author": "Tamarama",
+      "rating": 15,
+      "posted_at": "2026-06-07T07:08:13+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "bass4funkToday 07:20 am JST Horrible, and he left because he had an argument with his mom and now this woman will live with this guilt forever blaming herself. It’s just so heartbreaking. Yes, I feel for her. It was meant to be a wonderful graduation present trip to Japan and ended up in tragedy.",
+      "translation_ja": "bass4funkToday 07:20 am JST ひどい話だ。母親と喧嘩して家を出たのに、今この女性は自分を責め続ける罪悪感と一生向き合うことになる。本当に胸が痛む。うん、彼女の気持ちがわかる。日本への素敵な卒業祝い旅行のはずが、悲劇で終わってしまった。",
+      "notes_ja": [
+        "冒頭は別ユーザーのコメント引用だが、ユーザー名と Today の間にスペースがなく、サイト特有の崩れた表記。",
+        "feel for her は「彼女に同情する／気持ちがわかる」という共感の表現。"
+      ],
+      "standard_en": "Horrible. He left because he had an argument with his mom, and now this woman will live with this guilt forever, blaming herself.",
+      "marked_terms": [],
+      "comment_id": 5228738,
+      "author": "Spitfire",
+      "rating": 13,
+      "posted_at": "2026-06-07T07:42:04+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "We can't make any judgments because we don't have enough details about what happened and why.",
+      "translation_ja": "何が起きて、なぜそうなったのか、十分な情報がないので、私たちは何も判断できない。",
+      "notes_ja": [
+        "make judgments は「判断を下す」の意味で、法的・道徳的な結論を避ける丁寧な言い方。",
+        "what happened and why で「何が／なぜ」を並列して理由の不足を強調している。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5229107,
+      "author": "wallace",
+      "rating": 12,
+      "posted_at": "2026-06-07T12:33:58+09:00"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "edition_date": "2026-06-07",
-  "status": "complete",
+  "status": "selected",
   "target_article_count": 6,
-  "actual_article_count": 5,
+  "actual_article_count": 6,
   "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
   "source_window": {
     "primary_date": "2026-06-07",
@@ -13,28 +13,30 @@
     "crime": 1,
     "business": 1,
     "politics": 1,
+    "world": 1,
     "tech": 1
   },
   "articles": [
-    "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
+    "japantoday:2026-06-07:missing-u-s-student-found-dead-near-kyot",
     "japantoday:2026-06-07:88-year-old-man-arrested-on-suspicion-of",
     "japantoday:2026-06-07:fry-to-fly-japan-steps-up-efforts-on-coo",
     "japantoday:2026-06-07:japan-ruling-party-urges-gov-t-to-protec",
+    "japantoday:2026-06-07:hegseth-invokes-immigration-and-invasion",
     "japantoday:2026-06-07:energy-water-use-and-pollution-of-ai-and"
   ],
   "article_records": [
     {
-      "article_id": "japantoday:2026-06-07:japan-struggles-to-curb-ticket-scalping-",
+      "article_id": "japantoday:2026-06-07:missing-u-s-student-found-dead-near-kyot",
       "edition_date": "2026-06-07",
       "source_published_date_jst": "2026-06-07",
       "source": "Japan Today National",
-      "source_url": "https://japantoday.com/category/national/feature-japan-struggles-to-curb-ticket-scalping-market-despite-crackdown",
-      "title": "Japan struggles to curb ticket scalping market despite crackdown",
-      "slug": "01-japan-struggles-to-curb-ticket-scalping-market-despite-crackdown",
+      "source_url": "https://japantoday.com/category/national/missing-us-student-found-dead-near-kyoto-japan-mother-says",
+      "title": "Missing U.S. student found dead near Kyoto, mother says",
+      "slug": "01-missing-u-s-student-found-dead-near-kyoto-mother-says",
       "category": "national",
       "selection_rank": 1,
-      "selection_reason": "jt_comments_15",
-      "body_clean_status": "clean",
+      "selection_reason": "jt_comments_31",
+      "body_clean_status": "suspect",
       "analysis_status": "complete"
     },
     {
@@ -48,7 +50,7 @@
       "category": "crime",
       "selection_rank": 2,
       "selection_reason": "jt_comments_5",
-      "body_clean_status": "suspect",
+      "body_clean_status": "clean",
       "analysis_status": "complete"
     },
     {
@@ -70,13 +72,27 @@
       "edition_date": "2026-06-07",
       "source_published_date_jst": "2026-06-07",
       "source": "Japan Today Politics",
-      "source_url": "https://japantoday.com/category/politics/japan-ruling-party-urges-gov%27t-to-protect-farmers-in-mercosur-trade-talks",
+      "source_url": "https://japantoday.com/category/politics/japan-ruling-party-urges-gov't-to-protect-farmers-in-mercosur-trade-talks",
       "title": "Japan ruling party urges gov't to protect farmers in Mercosur trade talks",
       "slug": "04-japan-ruling-party-urges-gov-t-to-protect-farmers-in-mercosur-trade-ta",
       "category": "politics",
       "selection_rank": 4,
       "selection_reason": "jt_comments_5",
       "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-07:hegseth-invokes-immigration-and-invasion",
+      "edition_date": "2026-06-07",
+      "source_published_date_jst": "2026-06-07",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/hegseth-invokes-immigration-and-%E2%80%98invasion%E2%80%99-in-d-day-speech-in-france",
+      "title": "Hegseth invokes immigration and ‘invasion’ in D-Day speech in France",
+      "slug": "05-hegseth-invokes-immigration-and-invasion-in-d-day-speech-in-france",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_40",
+      "body_clean_status": "suspect",
       "analysis_status": "complete"
     },
     {
@@ -94,9 +110,6 @@
       "analysis_status": "complete"
     }
   ],
-  "generated_at": "2026-06-09T21:19:55+09:00",
-  "warnings": [
-    "no articles for world on 2026-06-07",
-    "only 5/6 categories had articles on 2026-06-07"
-  ]
+  "generated_at": "2026-06-09T21:40:08+09:00",
+  "warnings": []
 }

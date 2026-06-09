@@ -1,0 +1,485 @@
+{
+  "summary_ja": "日本で家族旅行中に行方不明になっていた米国人学生ジェームズ・ヒギンボサム（20歳）が、京都近郊の山間地で遺体が発見されたと母親がフェイスブックで明らかにした。死因などの詳細はまだ分かっておらず、家族は深い悲しみを語っている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "An American student who disappeared while on a family vacation in Japan has been found dead outside Kyoto, his mother wrote in a Facebook post on Saturday.",
+      "translation_ja": "日本での家族旅行中に行方不明になっていた米国人学生が、京都の外で死亡した状態で発見されたと、母親は土曜日のフェイスブック投稿で書いた。",
+      "grammar_ja": "関係代名詞whoの後置修飾、while on a family vacation（省略された主語＋前置詞句）、現在完了受動has been found dead（発見の結果）、報道文の末尾attribution（his mother wrote...）の語順。",
+      "chunks": [
+        {
+          "text": "An American student",
+          "role_ja": "主語",
+          "literal_ja": "米国人の学生が",
+          "note_ja": "ニュースでは国籍を先に示すのが一般的。studentは大学生を含む。"
+        },
+        {
+          "text": "who disappeared while on a family vacation in Japan",
+          "role_ja": "関係節（主語を修飾）",
+          "literal_ja": "日本で家族旅行中に姿を消した",
+          "note_ja": "while (he was) on... と主語・be動詞が省略された形式。disappearは「行方不明になる」。"
+        },
+        {
+          "text": "has been found dead",
+          "role_ja": "述語（現在完了・受動）",
+          "literal_ja": "死亡した状態で発見された",
+          "note_ja": "found deadは「死んでいるところを発見された」。受動態で事件報道に多い。"
+        },
+        {
+          "text": "outside Kyoto",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "京都の外側で／京都近郊で",
+          "note_ja": "outsideは市の境界の外側、近郊を含む幅広い表現。"
+        },
+        {
+          "text": "his mother wrote in a Facebook post on Saturday",
+          "role_ja": "出典・引用の帰属句",
+          "literal_ja": "母親は土曜日のフェイスブック投稿で書いた",
+          "note_ja": "報道記事で情報源を文末に置く典型パターン。主節の主語は母親だが、文頭は事件内容。"
+        }
+      ],
+      "deep_dive_ja": "英語のニュースは「何が起きたか」を先に、誰が言ったかを後に置くことが多い。日本語訳では語順を入れ替えて自然にする。found deadは「遺体発見」の婉曲表現として使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The body of James Higginbotham, 20, was discovered in a mountainous area by a volunteer search-and-rescue group, Nancy Higginbotham wrote.",
+      "translation_ja": "20歳のジェームズ・ヒギンボサムの遺体は、ボランティアの捜索救助隊によって山間地で発見されたと、ナンシー・ヒギンボサムは書いた。",
+      "grammar_ja": "同格のカンマ挿入（20）、受動態was discovered、場所in＋by（行為者）の順、再度attributionで母親名を明示。",
+      "chunks": [
+        {
+          "text": "The body of James Higginbotham, 20,",
+          "role_ja": "主語",
+          "literal_ja": "20歳のジェームズ・ヒギンボサムの遺体は",
+          "note_ja": "年齢は名前の前後にカンマで挿入する報道スタイル。"
+        },
+        {
+          "text": "was discovered",
+          "role_ja": "述語（受動）",
+          "literal_ja": "発見された",
+          "note_ja": "findの受動形。was foundよりややフォーマル。"
+        },
+        {
+          "text": "in a mountainous area",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "山間地で",
+          "note_ja": "mountainous area＝山が多い地域、hiking trailの文脈とつながる。"
+        },
+        {
+          "text": "by a volunteer search-and-rescue group",
+          "role_ja": "行為者（by句）",
+          "literal_ja": "ボランティアの捜索救助隊によって",
+          "note_ja": "search-and-rescueはハイフンでつなぐ複合名詞。"
+        },
+        {
+          "text": "Nancy Higginbotham wrote",
+          "role_ja": "出典の帰属",
+          "literal_ja": "ナンシー・ヒギンボサムは書いた",
+          "note_ja": "前の文のhis motherと同一人物だが、ここでは正式名称で再提示。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s002",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A cause of death and further details were not immediately available.",
+      "translation_ja": "死因やさらなる詳細は、すぐには分からなかった。",
+      "grammar_ja": "複数主語（A cause... and further details）＋複数動詞were、not immediately available（報道の定番表現＝現時点では未公表）。",
+      "chunks": [
+        {
+          "text": "A cause of death and further details",
+          "role_ja": "主語（複数）",
+          "literal_ja": "死因とさらなる詳細は",
+          "note_ja": "cause of deathは法医・報道の定型語。"
+        },
+        {
+          "text": "were not immediately available",
+          "role_ja": "述語",
+          "literal_ja": "すぐには入手できなかった／分からなかった",
+          "note_ja": "availableは「入手可能」「公表されている」のニュアンス。報道では「まだ詳細不明」と訳すのが自然。"
+        }
+      ],
+      "deep_dive_ja": "immediately availableは「直ちに情報として得られる」という報道英語の決まり文句。日本語では「現時点では不明」と訳すことが多い。",
+      "difficulty": "easy",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "\"Our family is heartbroken,\" she wrote. \"The grief we feel is impossible to put into words.\"",
+      "translation_ja": "「私たち家族は心が砕けている」と彼女は書いた。「私たちが感じている悲しみは、言葉では表せない。」",
+      "grammar_ja": "直接引用の二文、関係代名詞we feel（目的格省略）、impossible to put into words（形式主語的構文＋慣用表現）。",
+      "chunks": [
+        {
+          "text": "Our family is heartbroken",
+          "role_ja": "引用文の主語＋述語",
+          "literal_ja": "私たちの家族は心が砕けている",
+          "note_ja": "heartbrokenは「深く悲しんで打ちのめされている」。be動詞＋形容詞。"
+        },
+        {
+          "text": "she wrote",
+          "role_ja": "叙述の動詞",
+          "literal_ja": "彼女は書いた",
+          "note_ja": "引用を挟む報道の基本形。"
+        },
+        {
+          "text": "The grief we feel",
+          "role_ja": "主語（関係節付き）",
+          "literal_ja": "私たちが感じている悲しみは",
+          "note_ja": "we feelがgriefを修飾。thatは省略された関係代名詞。"
+        },
+        {
+          "text": "is impossible to put into words",
+          "role_ja": "述語＋補語",
+          "literal_ja": "言葉にするのは不可能だ",
+          "note_ja": "put into words＝言葉で表現する。impossible to doはよく使うパターン。"
+        }
+      ],
+      "deep_dive_ja": "感情的な声明では put into words や beyond words などがよく使われる。heartbrokenは悲しみの強さを伝える報道・声明向けの語。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Higginbotham, an Alabama resident and an engineering student at Auburn University, was last seen leaving a Kyoto train station on May 29.",
+      "translation_ja": "アラバマ州在住でオーバーンユニバーシティの工学部学生であるヒギンボサムは、5月29日に京都の駅を出るところを最後に目撃された。",
+      "grammar_ja": "同格のカンマ挿入（身分説明）、was last seen＋現在分詞leaving（目撃内容）、on May 29（日付）。",
+      "chunks": [
+        {
+          "text": "Higginbotham",
+          "role_ja": "主語",
+          "literal_ja": "ヒギンボサムは",
+          "note_ja": "前出のため姓のみで十分と判断される。"
+        },
+        {
+          "text": "an Alabama resident and an engineering student at Auburn University",
+          "role_ja": "同格（身分の説明）",
+          "literal_ja": "アラバマ州の住民であり、オーバーンユニバーシティの工学部学生",
+          "note_ja": "カンマで挟んだ同格は「すなわち〜である」と訳す。"
+        },
+        {
+          "text": "was last seen leaving",
+          "role_ja": "述語（受動＋補足）",
+          "literal_ja": "〜するところを最後に目撃された",
+          "note_ja": "be last seen doingは行方不明報道の定型表現。"
+        },
+        {
+          "text": "a Kyoto train station",
+          "role_ja": "目的語・場所",
+          "literal_ja": "京都の駅を",
+          "note_ja": "特定の駅名は記事では示されていない。"
+        },
+        {
+          "text": "on May 29",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "5月29日に",
+          "note_ja": "米国式の日付表記。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Later that night, his phone went dark and its location services were turned off, his mother previously told Reuters.",
+      "translation_ja": "その夜遅く、彼の携帯電話の通信が途絶え、位置情報サービスもオフにされたと、母親は以前ロイターに語っていた。",
+      "grammar_ja": "Later that night（時間）、go dark（口語的慣用）、were turned off（受動）、previously told（過去の発言の再引用）、attribution。",
+      "chunks": [
+        {
+          "text": "Later that night",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "その夜遅くに",
+          "note_ja": "that nightは前の5月29日の夜を指す。"
+        },
+        {
+          "text": "his phone went dark",
+          "role_ja": "述語（第1節）",
+          "literal_ja": "彼の電話が暗くなった／途絶えた",
+          "note_ja": "go darkは「連絡が取れなくなる」「電源や信号が切れる」の口語的ニュース表現。"
+        },
+        {
+          "text": "its location services were turned off",
+          "role_ja": "述語（第2節・受動）",
+          "literal_ja": "その位置情報サービスはオフにされた",
+          "note_ja": "turn offの受動態。意図的か事故かは不明と示唆する書き方。"
+        },
+        {
+          "text": "his mother previously told Reuters",
+          "role_ja": "出典の帰属",
+          "literal_ja": "母親は以前ロイターに語った",
+          "note_ja": "previouslyは今回のFacebook投稿より前の取材を指す。"
+        }
+      ],
+      "deep_dive_ja": "go darkは字義では「暗くなる」だが、ニュースでは通信断を意味することが多い。location servicesはスマホの位置共有機能。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Until then, she was able to track his movements using the app Life360, she said.",
+      "translation_ja": "それまでは、彼女はアプリのライフ360を使って彼の動きを追跡できていたと述べた。",
+      "grammar_ja": "Until then（それ以前は）、was able to（能力・可能）、using the app（手段）、she said（帰属）。",
+      "chunks": [
+        {
+          "text": "Until then",
+          "role_ja": "時間の接続語",
+          "literal_ja": "それまでは",
+          "note_ja": "電話が途絶える前まで、という前後関係。"
+        },
+        {
+          "text": "she was able to track his movements",
+          "role_ja": "主節の述語",
+          "literal_ja": "彼女は彼の動きを追跡できた",
+          "note_ja": "be able toはcouldより「実際にできていた」ニュアンスが強い。"
+        },
+        {
+          "text": "using the app Life360",
+          "role_ja": "手段を表す分詞構文",
+          "literal_ja": "ライフ360というアプリを使って",
+          "note_ja": "家族向け位置共有アプリ。固有名詞はそのまま表記。"
+        },
+        {
+          "text": "she said",
+          "role_ja": "帰属",
+          "literal_ja": "彼女は言った",
+          "note_ja": "wroteではなくsaidは口頭取材の可能性を示す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "His parents believe he was heading to a nearby hiking trail.",
+      "translation_ja": "両親は、彼が近くのハイキングコースに向かっていたと考えている。",
+      "grammar_ja": "believe＋that節（that省略）、was heading to（過去進行＝その方向へ向かっていた）、nearby hiking trail。",
+      "chunks": [
+        {
+          "text": "His parents",
+          "role_ja": "主語",
+          "literal_ja": "彼の両親は",
+          "note_ja": "母親だけでなく両親の見解。"
+        },
+        {
+          "text": "believe",
+          "role_ja": "述語",
+          "literal_ja": "信じている／考えている",
+          "note_ja": "事実ではなく推測・信念を示す。"
+        },
+        {
+          "text": "he was heading to a nearby hiking trail",
+          "role_ja": "that節（目的語、that省略）",
+          "literal_ja": "彼は近くのハイキングの道に向かっていた",
+          "note_ja": "was heading toは「その方向へ行きつつあった」。mountainous areaの文脈と関連。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nancy Higginbotham had told Reuters she believed her son may have \"needed space.\"",
+      "translation_ja": "ナンシー・ヒギンボサムは以前ロイターに、息子は「一人の時間が必要だった」のかもしれないと考えていたと語っていた。",
+      "grammar_ja": "過去完了had told（より前の発言）、believed＋that節、may have needed（過去の推量）、needed space（慣用的＝距離を置きたかった）。",
+      "chunks": [
+        {
+          "text": "Nancy Higginbotham had told Reuters",
+          "role_ja": "主語＋述語（過去完了）",
+          "literal_ja": "ナンシー・ヒギンボサムは以前ロイターに語っていた",
+          "note_ja": "過去完了は「（過去のある時点より）さらに前に」という時間軸。"
+        },
+        {
+          "text": "she believed",
+          "role_ja": "間接話法の動詞",
+          "literal_ja": "彼女は〜と考えていた",
+          "note_ja": "believeの後にthatが省略。"
+        },
+        {
+          "text": "her son may have \"needed space\"",
+          "role_ja": "that節",
+          "literal_ja": "息子は「スペースが必要だった」かもしれない",
+          "note_ja": "need spaceは直訳せず「一人になりたかった」「距離を置きたかった」と訳すのが自然。"
+        }
+      ],
+      "deep_dive_ja": "needed spaceは心理・人間関係の文脈でよく使われる。may have＋過去分詞で、過去のことについて不確かな推測を表す。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "The Higginbotham family was visiting Japan to celebrate the high school graduation of James Higginbotham's younger brother.",
+      "translation_ja": "ヒギンボサム一家は、ジェームズ・ヒギンボサムの弟の高校卒業を祝うために日本を訪れていた。",
+      "grammar_ja": "was visiting（過去進行＝その時滞在中）、to celebrate（目的）、's younger brother（所有格）。",
+      "chunks": [
+        {
+          "text": "The Higginbotham family",
+          "role_ja": "主語",
+          "literal_ja": "ヒギンボサム一家は",
+          "note_ja": "the＋姓＋familyで一家全体を指す。"
+        },
+        {
+          "text": "was visiting Japan",
+          "role_ja": "述語",
+          "literal_ja": "日本を訪れていた",
+          "note_ja": "過去進行は一時的な滞在・旅行に使う。"
+        },
+        {
+          "text": "to celebrate the high school graduation",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "高校卒業を祝うために",
+          "note_ja": "to不定詞で目的を示す。"
+        },
+        {
+          "text": "of James Higginbotham's younger brother",
+          "role_ja": "graduationを修飾するof句",
+          "literal_ja": "ジェームズ・ヒギンボサムの弟の",
+          "note_ja": "所有格'sで弟を特定。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "An initial search by Japanese authorities lasted three days and included around 100 police officers, K-9 units and helicopters, but did not uncover any trace of him, CNN reported.",
+      "translation_ja": "日本の当局による最初の捜索は3日間続き、約100人の警察官、警察犬部隊、ヘリコプターが参加したが、彼の痕跡は一切見つからなかったとCNNが報じた。",
+      "grammar_ja": "主語An initial search、並列述語lasted and included、but did not uncover（否定の対比）、K-9 units（警察犬）、attribution CNN reported。",
+      "chunks": [
+        {
+          "text": "An initial search by Japanese authorities",
+          "role_ja": "主語",
+          "literal_ja": "日本の当局による最初の捜索は",
+          "note_ja": "initial search＝第一弾の捜索。byで実施者を示す。"
+        },
+        {
+          "text": "lasted three days",
+          "role_ja": "述語（第1）",
+          "literal_ja": "3日間続いた",
+          "note_ja": "lastは期間を表す自動詞。"
+        },
+        {
+          "text": "included around 100 police officers, K-9 units and helicopters",
+          "role_ja": "述語（第2）",
+          "literal_ja": "約100人の警察官、警察犬部隊、ヘリコプターを含んだ",
+          "note_ja": "K-9はpolice dogの俗称。aroundはaboutと同義。"
+        },
+        {
+          "text": "but did not uncover any trace of him",
+          "role_ja": "逆接の述語",
+          "literal_ja": "しかし彼のいかなる痕跡も発見しなかった",
+          "note_ja": "uncover a traceは捜索報道のコロケーション。anyは否定文で「一切の」。"
+        },
+        {
+          "text": "CNN reported",
+          "role_ja": "出典の帰属",
+          "literal_ja": "CNNが報じた",
+          "note_ja": "メディア名を文末に置く英語報道の型。"
+        }
+      ],
+      "deep_dive_ja": "長い一文は述語の並列（lasted / included / did not uncover）に注目すると読みやすい。K-9はアメリカ英語の警察用語で、日本語では「警察犬隊」と訳す。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "disappear",
+      "pronunciation": "/ˌdɪsəˈpɪr/",
+      "meaning_ja": "行方不明になる、姿を消す",
+      "example": "An American student who disappeared while on a family vacation",
+      "example_ja": "家族旅行中に行方不明になった米国人学生",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "search-and-rescue",
+      "pronunciation": "/ˌsɜːrtʃ ən ˈreskjuː/",
+      "meaning_ja": "捜索救助（の）",
+      "example": "a volunteer search-and-rescue group",
+      "example_ja": "ボランティアの捜索救助隊",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "heartbroken",
+      "pronunciation": "/ˈhɑːrtbroʊkən/",
+      "meaning_ja": "心が砕けた、深く悲しんでいる",
+      "example": "Our family is heartbroken",
+      "example_ja": "私たち家族は心が砕けている",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "go dark",
+      "pronunciation": "/ɡoʊ dɑːrk/",
+      "meaning_ja": "（通信などが）途絶える、連絡が取れなくなる",
+      "example": "his phone went dark",
+      "example_ja": "彼の携帯の通信が途絶えた",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "track",
+      "pronunciation": "/træk/",
+      "meaning_ja": "（動きを）追跡する、追跡する",
+      "example": "she was able to track his movements",
+      "example_ja": "彼女は彼の動きを追跡できた",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "needed space",
+      "pronunciation": "/ˈniːdɪd speɪs/",
+      "meaning_ja": "一人の時間が欲しかった、距離を置きたかった",
+      "example": "her son may have needed space",
+      "example_ja": "息子は一人の時間が必要だったのかもしれない",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "uncover",
+      "pronunciation": "/ʌnˈkʌvər/",
+      "meaning_ja": "（隠れていたものを）発見する、明らかにする",
+      "example": "did not uncover any trace of him",
+      "example_ja": "彼の痕跡を一切発見できなかった",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "authorities",
+      "pronunciation": "/əˈθɔːrətiz/",
+      "meaning_ja": "当局、公的機関",
+      "example": "An initial search by Japanese authorities",
+      "example_ja": "日本の当局による最初の捜索",
+      "source_sentence_id": "s011"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news-reporting",
+      "title": "Passive voice in news reporting",
+      "rule": "Use be + past participle to focus on the event rather than who did it (was discovered, were turned off, was last seen).",
+      "example": "The body was discovered in a mountainous area by a volunteer search-and-rescue group.",
+      "meaning_ja": "報道では受動態で「何が起きたか」に焦点を当て、行為者はby句や別文で後から示すことが多い。"
+    },
+    {
+      "id": "attribution-end",
+      "title": "Source attribution at sentence end",
+      "rule": "Place who said/reported the information at the end: ..., his mother wrote / CNN reported.",
+      "example": "...has been found dead outside Kyoto, his mother wrote in a Facebook post on Saturday.",
+      "meaning_ja": "英語ニュースは事実を先に述べ、情報源（誰が言ったか）を文末に置くのが基本。日本語では語順を入れ替えることが多い。"
+    },
+    {
+      "id": "reduced-relative-clause",
+      "title": "Reduced relative clauses",
+      "rule": "After nouns, who/that + be verb can be omitted: a student who disappeared → leaving (was last seen leaving).",
+      "example": "Higginbotham was last seen leaving a Kyoto train station.",
+      "meaning_ja": "関係代名詞とbe動詞を省略した分詞構文。was last seen doingは「〜しているところを最後に目撃された」という行方不明報道の定型。"
+    },
+    {
+      "id": "modal-perfect-past-speculation",
+      "title": "may have + past participle",
+      "rule": "Use may/might have + V-ed to express uncertain speculation about the past.",
+      "example": "she believed her son may have needed space",
+      "meaning_ja": "過去の出来事について、確信ではなく「〜だったかもしれない」という推量を表す。間接話法の中でよく使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T21:42:33+09:00"
+  },
+  "article_id": "japantoday:2026-06-07:missing-u-s-student-found-dead-near-kyot"
+}
