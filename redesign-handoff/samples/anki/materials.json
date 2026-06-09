@@ -1,0 +1,43 @@
+{
+  "deck_prefix": "English",
+  "materials": {
+    "vocabulary-in-use": {
+      "label": "English Vocabulary in Use",
+      "deck": "Vocabulary in Use",
+      "tag": "vocabulary-in-use",
+      "schema": "vocabulary",
+      "dedupe_key": "word"
+    },
+    "grammar-in-use": {
+      "label": "English Grammar in Use",
+      "deck": "Grammar in Use",
+      "tag": "grammar-in-use",
+      "schema": "grammar",
+      "dedupe_key": "id"
+    },
+    "news-digest-vocabulary": {
+      "label": "News Digest Vocabulary",
+      "deck": "News Digest",
+      "tag": "news-digest-vocabulary",
+      "schema": "vocabulary",
+      "dedupe_key": "word"
+    },
+    "news-digest-grammar": {
+      "label": "News Digest Grammar",
+      "deck": "News Digest",
+      "tag": "news-digest-grammar",
+      "schema": "grammar",
+      "dedupe_key": "id"
+    }
+  },
+  "schemas": {
+    "vocabulary": {
+      "required": ["word", "pronunciation", "meaning", "example"],
+      "optional": ["unit", "note"]
+    },
+    "grammar": {
+      "required": ["id", "title", "rule", "example", "meaning"],
+      "optional": ["unit", "note"]
+    }
+  }
+}

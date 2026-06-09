@@ -1,0 +1,125 @@
+{
+  "summary_ja": "北海道の国立病院機構に属する2病院で、患者・職員約51万人分のデータがハードディスクごとオンラインで流出した可能性がある。廃棄委託先が破砕を確認せずリサイクル業者に渡した疑いがあり、病院側は月曜に同社を刑事告訴した。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "記事本文ではなく、サイトのトラッキング用HTMLタグ。英語学習の対象外だが、ニュースサイトにはこうした埋め込みコードが含まれることがある。"
+    },
+    {
+      "text": "Data on 510,000 people linked to Hokkaido hospitals possibly leaked online",
+      "grammar_ja": "見出し文体。主語 Data + 過去分詞 linked（〜に関連する）+ possibly leaked（可能性のある過去の出来事）。online は副詞で「オンライン上で」。"
+    },
+    {
+      "text": "Today06:00 am JSTToday | 06:44 am JST",
+      "grammar_ja": "掲載・更新時刻の表示。JST = Japan Standard Time。ニュースサイト特有のメタ情報。"
+    },
+    {
+      "text": "Two hospitals on Japan's northernmost main island of Hokkaido said Monday that information on around 186,000 people was confirmed to be on hard disks sold online, with the potential number of affected people estimated at up to 510,000.",
+      "grammar_ja": "said Monday that ... の間接話法。was confirmed to be は「〜であると確認された」という受動＋不定詞。with + 名詞句 で追加情報（影響人数の推定）を付けるニュース定型。"
+    },
+    {
+      "text": "The disks contain information on patients and hospital staff, the Hokkaido Medical Center and Hokkaido Cancer Center said.",
+      "grammar_ja": "主節＋発言元を文末に置く倒置（,\" ... said\"）。contain information on は「〜に関する情報を含む」のコロケーション。"
+    },
+    {
+      "text": "There have been no reports of unauthorized use of the data or any secondary damage.",
+      "grammar_ja": "There have been no reports of ... で「〜の報告はない」。unauthorized use / secondary damage は事件報道でよく使う名詞句。"
+    },
+    {
+      "text": "The Sapporo-based hospitals, both part of the National Hospital Organization network, had contracted Reprowork Co., a waste disposal company in the city of Ishikari, to dispose of the disks, but said the company may have passed them to a recycling firm without ensuring they were destroyed.",
+      "grammar_ja": "had contracted A to do B（AにBを委託していた）。may have + 過去分詞で過去の推量。without ensuring + 節 で「〜を確認せずに」。"
+    },
+    {
+      "text": "The organization, which manages 140 hospitals nationwide according to its website, filed a criminal complaint with police against the disposal company on Monday.",
+      "grammar_ja": "関係代名詞 which の非制限用法。file a criminal complaint with police against ... は「警察に対し〜を刑事告訴する」の定型。"
+    },
+    {
+      "text": "According to the organization, it received information between last June and August from two individuals who had purchased the disks at auction, saying they contained data that appeared to belong to the medical centers.",
+      "grammar_ja": "According to ... で情報源を明示。who had purchased はその時点より前の買い付けを表す過去完了。,saying ... は付帯状況（「〜と述べて」）。"
+    },
+    {
+      "text": "Of the 90 similar hard disks recovered by the medical centers, 33 contained information including patients' names, dates of birth and medical conditions.",
+      "grammar_ja": "Of the 90 ... , 33 ... で部分と全体を対比。recovered by は受動態。including は「〜を含む」という付加説明。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "leak",
+      "pronunciation": "/liːk/",
+      "meaning_ja": "（情報などが）漏洩する・流出する",
+      "example": "Data on 510,000 people possibly leaked online."
+    },
+    {
+      "word": "dispose of",
+      "pronunciation": "/dɪˈspoʊz əv/",
+      "meaning_ja": "（廃棄物などを）処分する",
+      "example": "They contracted a company to dispose of the disks."
+    },
+    {
+      "word": "unauthorized",
+      "pronunciation": "/ʌnˈɔːθəraɪzd/",
+      "meaning_ja": "無許可の、不正な",
+      "example": "There have been no reports of unauthorized use of the data."
+    },
+    {
+      "word": "secondary damage",
+      "pronunciation": "/ˈsekəndri ˈdæmɪdʒ/",
+      "meaning_ja": "二次的な被害・余波",
+      "example": "No secondary damage has been reported."
+    },
+    {
+      "word": "criminal complaint",
+      "pronunciation": "/ˈkrɪmɪnl kəmˈpleɪnt/",
+      "meaning_ja": "刑事告訴",
+      "example": "The organization filed a criminal complaint with police."
+    },
+    {
+      "word": "contract",
+      "pronunciation": "/ˈkɒntrækt/",
+      "meaning_ja": "（業務などを）契約で委託する",
+      "example": "The hospitals had contracted a waste disposal company."
+    },
+    {
+      "word": "affected",
+      "pronunciation": "/əˈfektɪd/",
+      "meaning_ja": "影響を受けた",
+      "example": "The number of affected people was estimated at up to 510,000."
+    },
+    {
+      "word": "recycling firm",
+      "pronunciation": "/riːˈsaɪklɪŋ fɜːrm/",
+      "meaning_ja": "リサイクル業者",
+      "example": "The company may have passed the disks to a recycling firm."
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-clause",
+      "title": "Reporting verbs + that-clause",
+      "rule": "Use said/reported/confirmed + that to report statements in news.",
+      "example": "Two hospitals said Monday that information was confirmed to be on hard disks.",
+      "meaning_ja": "ニュースでは said that / confirmed that などで発言・事実を間接的に伝える。時制は文脈に合わせる。"
+    },
+    {
+      "id": "passive-news",
+      "title": "Passive voice in news",
+      "rule": "Passive focuses on what happened, not who did it.",
+      "example": "Information was confirmed to be on hard disks sold online.",
+      "meaning_ja": "受動態で「何が起きたか」を前面に出し、主体を後回しにする。was confirmed / were destroyed / recovered by が典型。"
+    },
+    {
+      "id": "modal-perfect",
+      "title": "may/might have + past participle",
+      "rule": "Express uncertain past events or speculation about the past.",
+      "example": "The company may have passed them to a recycling firm.",
+      "meaning_ja": "過去の出来事について「〜した可能性がある」と推量する表現。事件報道でよく使われる。"
+    },
+    {
+      "id": "with-addition",
+      "title": "with + noun phrase (additional detail)",
+      "rule": "Add extra information without starting a new sentence.",
+      "example": "..., with the potential number of affected people estimated at up to 510,000.",
+      "meaning_ja": "with + 名詞 + 過去分詞/形容詞で、主文に付加情報を簡潔に足す。硬い報道文体。"
+    }
+  ]
+}

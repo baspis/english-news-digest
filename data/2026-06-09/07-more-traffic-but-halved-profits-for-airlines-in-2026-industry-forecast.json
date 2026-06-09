@@ -1,0 +1,238 @@
+{
+  "summary_ja": "国際航空運送協会（IATA）は、2026年は旅客数は増える一方で利益は2025年の半分程度にとどまると予測した。高い燃料費にもかかわらず旅行需要は衰えていないが、中東情勢や燃料費高騰が収益性を押し下げている。地域別では欧州が最も収益性が高く、中東の航空会社は赤字転落が見込まれる。",
+  "sentences": [
+    {
+      "text": "Airlines expect to carry more passengers this year but earn only half as much profit as in 2025, as high fuel prices don't appear to be fully deterring travel, according to projections published Sunday.",
+      "translation_ja": "日曜日に公表された予測によると、航空会社は今年もっと多くの旅客を運ぶ見込みだが、2025年の半分程度の利益しか得られない。燃料価格は高いが、旅行を十分に抑え込んでいるようには見えない。",
+      "grammar_ja": "expect to + 動詞で「〜する見込みだ」。only half as much profit as で比較。as節は理由を示す。according to projections published Sunday は文末の出典表現でニュース記事でよく使われる。"
+    },
+    {
+      "text": "The International Air Transport Association (IATA) predicted its 370 member airlines, which account for 85 percent of global air traffic, will carry 5.1 billion passengers this year.",
+      "translation_ja": "国際航空運送協会（IATA）は、世界の航空旅客の85％を占める370の加盟航空会社が、今年51億人の旅客を運ぶと予測した。",
+      "grammar_ja": "predicted の後に that 省略の内容節。which account for は非制限用法の関係代名詞で補足説明。account for は「〜の割合を占める」というビジネス表現。"
+    },
+    {
+      "text": "That is up 2.4 percent from 2025, when passenger traffic was estimated to have reached 4.98 billion.",
+      "translation_ja": "これは2025年比で2.4％増である。2025年の旅客数は49億8千万人に達したと推定されていた。",
+      "grammar_ja": "That is up X percent from Y で前年比増加。when は時を表す関係副詞節。was estimated to have reached は過去の推定を表す完了不定詞。"
+    },
+    {
+      "text": "The four billion mark was surpassed in 2023.",
+      "translation_ja": "40億人という節目は2023年に突破された。",
+      "grammar_ja": "the X mark was surpassed で「Xという目標・節目を超えた」という受動態。簡潔な過去形で統計の転換点を示すニュース文体。"
+    },
+    {
+      "text": "Asked by reporters about the impact of the war in the Middle East compared to the COVID-19 pandemic in 2020-2021, IATA Director General Willie Walsh replied: \"I don't see this as a crisis.\"",
+      "translation_ja": "記者から中東の戦争の影響が2020〜2021年の新型コロナ禍と比べてどうかと問われたIATAのウィリー・ウォルシュ事務局長は、「これを危機とは見ていない」と答えた。",
+      "grammar_ja": "文頭の Asked by reporters は過去分詞の懸垂構文で「記者に問われて」。see A as B で「AをBと見なす」。compared to は比較の前置き。"
+    },
+    {
+      "text": "\"You're looking at an industry that is forecasting growth,\" he said.",
+      "translation_ja": "「成長を予測している業界を見ていることになる」と彼は言った。",
+      "grammar_ja": "You're looking at は直訳せず「〜という状況だ／〜を見ている」という意味の口語表現。that is forecasting growth は関係代名詞節で industry を修飾。"
+    },
+    {
+      "text": "\"If you extract the impact of the Middle East, we're looking at growth of 3.5 percent.\"",
+      "translation_ja": "「中東の影響を除けば、成長率は3.5％になる」と彼は言った。",
+      "grammar_ja": "If you extract ... は仮定条件。we're looking at はここでも「結果として〜になる」という意味。growth of X percent で増加率を示す。"
+    },
+    {
+      "text": "This growth, however, will be accompanied by profitability only half as strong as last year's, while Middle Eastern airlines are expected to post losses.",
+      "translation_ja": "しかしこの成長は、昨年の半分程度の収益性が伴う一方で、中東の航空会社は損失を計上する見込みだ。",
+      "grammar_ja": "however は文頭で逆接。be accompanied by で「〜が伴う」。only half as strong as last year's は省略された名詞（profitability）を含む比較。while は対比。post losses は会計用語で「損失を計上する」。"
+    },
+    {
+      "text": "\"War-related disruptions in the Middle East and rising fuel costs have shifted the outlook for airlines to the worse,\" Walsh said in a statement.",
+      "translation_ja": "ウォルシュ氏は声明で、「中東の戦争関連の混乱と燃料費の上昇が、航空会社の見通しを悪化方向に変えた」と述べた。",
+      "grammar_ja": "War-related は複合形容詞。shift A to the worse で「Aを悪化させる」。said in a statement は公式見解の引用でよく使う表現。"
+    },
+    {
+      "text": "\"Profits will shrink from $45 billion in 2025 to $23 billion this year.",
+      "translation_ja": "「利益は2025年の450億ドルから今年の230億ドルに縮小する。",
+      "grammar_ja": "shrink from A to B で数値の減少を示す。引用符が開いたまま次の文に続く分割引用。will shrink は将来の予測。"
+    },
+    {
+      "text": "And margins will shrink from 4.2 percent to 2.0 percent,\" he said, referring to the net margin.",
+      "translation_ja": "利益率も4.2％から2.0％に縮小する」と、純利益率について述べながら彼は言った。",
+      "grammar_ja": "referring to the net margin は分詞構文で補足説明。he said の直前に引用を閉じる形式で、発言内容と話し方を分離する記事の書き方。"
+    },
+    {
+      "text": "According to IATA's calculations, net profit is expected to be $4.50 per passenger, half the 2025 figure.",
+      "translation_ja": "IATAの計算によると、純利益は旅客1人あたり4.50ドルと見込まれ、2025年の数値の半分だ。",
+      "grammar_ja": "is expected to be で予測の受動態。half the 2025 figure は half of the 2025 figure の省略形で、前の名詞を受ける。"
+    },
+    {
+      "text": "\"Under the circumstances, that shows resilience.",
+      "translation_ja": "「こうした状況下では、それは回復力を示している。",
+      "grammar_ja": "Under the circumstances で「こうした状況では」。that shows resilience は前文の低い利益水準を指す。引用が次文に続く。"
+    },
+    {
+      "text": "But it won't even buy you a hot dog at most of the FIFA World Cup venues and it does not leave much of a buffer should other costs or taxes start rising,\" Walsh said in the statement.",
+      "translation_ja": "しかしそれではFIFAワールドカップの会場のほとんどでホットドッグ1本も買えないし、他のコストや税金が上がり始めた場合の余裕もあまり残らない」とウォルシュ氏は声明で述べた。",
+      "grammar_ja": "won't even buy you は口語的な強調。should other costs ... start rising は仮定法の倒置（if を省略）。leave much of a buffer で「余裕を残す」。"
+    },
+    {
+      "text": "With fuel costs rising  -- and those increases being passed on in part through higher ticket prices -- the revenue of IATA member airlines is expected to grow nine percent this year, reaching $1.165 trillion.",
+      "translation_ja": "燃料費が上昇し、その上昇分が一部は高い運賃を通じて転嫁されている状況で、IATA加盟航空会社の収益は今年9％増え、1兆1,650億ドルに達する見込みだ。",
+      "grammar_ja": "With + 名詞 + 分詞 で背景状況。being passed on は受動の進行。reaching ... は結果を示す分詞構文。ダッシュ内は挿入句。"
+    },
+    {
+      "text": "\"Airlines are bearing the brunt of the fuel price shock.",
+      "translation_ja": "「航空会社が燃料価格ショックの最も大きな打撃を受けている。",
+      "grammar_ja": "bear the brunt of は慣用句で「〜の最も大きな打撃を受ける」。price shock は経済ニュースでよく使う語。"
+    },
+    {
+      "text": "While air fares are rising, airlines are still absorbing part of the hike in their bottom lines,\" the IATA said.",
+      "translation_ja": "運賃は上がっているが、航空会社は値上げ分の一部を依然として最終利益で吸収している」とIATAは述べた。",
+      "grammar_ja": "While は逆接の譲歩「〜にもかかわらず」。absorb part of the hike で「値上げ分の一部を自社で吸収する」。bottom lines は「最終利益・収支」。"
+    },
+    {
+      "text": "Profitability will vary across different regions of the world, according to the organization's projections.",
+      "translation_ja": "同団体の予測によると、収益性は世界の地域によって異なるだろう。",
+      "grammar_ja": "vary across で「〜によってさまざまだ」。according to は予測の出典を示す定番表現。"
+    },
+    {
+      "text": "Middle Eastern airlines, which have traditionally had access to an abundant supply of fuel, are expected to face a difficult year, with net margins projected to turn negative.",
+      "translation_ja": "従来、豊富な燃料供給を得てきた中東の航空会社は、厳しい1年に直面する見込みで、純利益率はマイナスに転じると予測されている。",
+      "grammar_ja": "which have traditionally had access to は非制限用法。with net margins projected to turn negative は付帯状況の with + 名詞 + 過去分詞構文。turn negative で「赤字に転じる」。"
+    },
+    {
+      "text": "For these airlines, including Emirates and Qatar Airways, \"the immediate recovery path is likely to be driven more by pricing than by a rapid return of volumes,\" the IATA said.",
+      "translation_ja": "エミレーツ航空やカタール航空などこれらの航空会社にとって、「当面の回復路線は、需要の急速な回復よりも価格設定によって進む可能性が高い」とIATAは述べた。",
+      "grammar_ja": "be likely to be driven by で「〜によって左右される可能性が高い」。more A than B の比較構文。recovery path は比喩的なビジネス表現。"
+    },
+    {
+      "text": "European airlines are expected to become the most profitable (3.1 percent net margin), followed by those in North America (2.5 percent) and Asia-Pacific (2.1 percent).",
+      "translation_ja": "欧州の航空会社が最も収益性が高くなる見込みで（純利益率3.1％）、次いで北米（2.5％）、アジア太平洋（2.1％）の順となる。",
+      "grammar_ja": "followed by で順位・続きを列挙。those in North America は those airlines in North America の省略。括弧内は補足データ。"
+    },
+    {
+      "text": "Despite significant geopolitical uncertainty and the inability to predict the duration of the war, the IATA is not worried about demand.",
+      "translation_ja": "大きな地政学的な不確実性や戦争の長期化が予測できないことにもかかわらず、IATAは需要について心配していない。",
+      "grammar_ja": "Despite + 名詞 で譲歩「〜にもかかわらず」。the inability to predict は名詞化構文。be worried about demand で需要減を懸念していない意。"
+    },
+    {
+      "text": "It noted that according to its calculations, the average airline ticket price had fallen 26 percent over the past 10 years.",
+      "translation_ja": "同団体は、自らの計算によれば過去10年間で平均航空券価格は26％下落したと指摘した。",
+      "grammar_ja": "noted that で報告・指摘。had fallen は過去10年という期間を基準にした過去完了。over the past 10 years は現在までの期間。"
+    },
+    {
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "TWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を一緒に過ごしませんか。SHENによるアロハ風ライブ音楽、飲み放題、ビュッフェをお楽しみください。",
+      "grammar_ja": "Join us for ... は広告の呼びかけ文。aloha-inspired はハイフン複合形容詞。free flowing drinks は飲み放題を意味する広告表現。"
+    },
+    {
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）午後7時〜9時30分。",
+      "grammar_ja": "日時の省略表記。イベント告知でよく使う名詞句のみの文。"
+    },
+    {
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを入手して50％割引を受けましょう。",
+      "grammar_ja": "命令文の広告コピー。Get your ticket now for ... で行動を促す。"
+    },
+    {
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早割チケットは50枚限定。",
+      "grammar_ja": "Only X Available は広告の短文。主語・動詞を省略した見出し文体。Early Bird Tickets は「早割チケット」。"
+    },
+    {
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "grammar_ja": "Use ... to login or register with ... はサイト案内の定型表現。to 不定詞で目的を示す。"
+    },
+    {
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の受信を勧めるメールも届きます。",
+      "grammar_ja": "By doing so で前文の行為を受ける。inviting you to receive は現在分詞の形容詞用法で email を修飾。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "deter",
+      "pronunciation": "/dɪˈtɜːr/",
+      "meaning_ja": "（行動を）思いとどまらせる、抑止する",
+      "example": "High fuel prices don't appear to be fully deterring travel.",
+      "example_ja": "高い燃料価格は、旅行を十分に抑え込んでいるようには見えない。"
+    },
+    {
+      "word": "account for",
+      "pronunciation": "/əˈkaʊnt fɔːr/",
+      "meaning_ja": "（全体の）〜％を占める",
+      "example": "Member airlines account for 85 percent of global air traffic.",
+      "example_ja": "加盟航空会社は世界の航空旅客の85％を占める。"
+    },
+    {
+      "word": "post losses",
+      "pronunciation": "/poʊst ˈlɒsɪz/",
+      "meaning_ja": "損失を計上する、赤字を出す",
+      "example": "Middle Eastern airlines are expected to post losses.",
+      "example_ja": "中東の航空会社は損失を計上する見込みだ。"
+    },
+    {
+      "word": "bear the brunt of",
+      "pronunciation": "/beər ðə brʌnt əv/",
+      "meaning_ja": "〜の最も大きな打撃を受ける",
+      "example": "Airlines are bearing the brunt of the fuel price shock.",
+      "example_ja": "航空会社が燃料価格ショックの最も大きな打撃を受けている。"
+    },
+    {
+      "word": "net margin",
+      "pronunciation": "/net ˈmɑːrdʒɪn/",
+      "meaning_ja": "純利益率",
+      "example": "Margins will shrink from 4.2 percent to 2.0 percent.",
+      "example_ja": "利益率は4.2％から2.0％に縮小する。"
+    },
+    {
+      "word": "absorb",
+      "pronunciation": "/əbˈzɔːrb/",
+      "meaning_ja": "（コスト増を）自社で吸収する、肩代わりする",
+      "example": "Airlines are still absorbing part of the hike in their bottom lines.",
+      "example_ja": "航空会社は値上げ分の一部を依然として最終利益で吸収している。"
+    },
+    {
+      "word": "resilience",
+      "pronunciation": "/rɪˈzɪliəns/",
+      "meaning_ja": "回復力、しなやかさ",
+      "example": "Under the circumstances, that shows resilience.",
+      "example_ja": "こうした状況下では、それは回復力を示している。"
+    },
+    {
+      "word": "geopolitical uncertainty",
+      "pronunciation": "/ˌdʒiːoʊpəˈlɪtɪkl ʌnˈsɜːrtnti/",
+      "meaning_ja": "地政学的な不確実性",
+      "example": "Despite significant geopolitical uncertainty, the IATA is not worried about demand.",
+      "example_ja": "大きな地政学的な不確実性にもかかわらず、IATAは需要について心配していない。"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "according-to-source",
+      "title": "According to + source (attribution)",
+      "rule": "Place 'according to [source]' at the start or end of a sentence to show where information comes from.",
+      "example": "According to IATA's calculations, net profit is expected to be $4.50 per passenger.",
+      "meaning_ja": "「〜によると」で情報の出所を示す。記事では according to projections / calculations / the organization のように、予測や調査の根拠を明示する。"
+    },
+    {
+      "id": "half-as-comparative",
+      "title": "Half as + adjective/adverb + as (reduced comparison)",
+      "rule": "Use 'half as [adjective/adverb] as' to show something is 50% of another amount or level.",
+      "example": "Airlines expect to earn only half as much profit as in 2025.",
+      "meaning_ja": "「〜の半分ほど」という比較。much profit as in 2025 や half as strong as last year's のように、金額・程度を半減させて表す。"
+    },
+    {
+      "id": "participle-clause-opening",
+      "title": "Opening participle clauses (dangling modifiers)",
+      "rule": "A past participle phrase at the start often replaces a passive clause: 'Asked by reporters, he replied...' = 'When he was asked by reporters, he replied...'",
+      "example": "Asked by reporters about the impact of the war, Willie Walsh replied.",
+      "meaning_ja": "文頭の過去分詞句は「〜されて」と受動の背景を短く示す。主語（ここでは Walsh）がその動作の対象である必要がある。"
+    },
+    {
+      "id": "while-contrast",
+      "title": "While for contrast (not just time)",
+      "rule": "While can mean 'although' to contrast two facts that exist at the same time.",
+      "example": "While air fares are rising, airlines are still absorbing part of the hike.",
+      "meaning_ja": "while は時間だけでなく「〜である一方で／にもかかわらず」という逆接にも使える。運賃は上がっているのに利益は圧迫される、という対比に適している。"
+    }
+  ]
+}

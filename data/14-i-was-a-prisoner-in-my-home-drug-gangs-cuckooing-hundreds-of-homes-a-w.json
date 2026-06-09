@@ -1,0 +1,401 @@
+{
+  "summary_ja": "英国では毎週数百から数千件規模で、犯罪組織が脆弱な人の自宅を不法に占拠し薬物の保管・販売拠点にする「クックーイング」が起きていると警察が警告した。ロンドンでは被害報告が急増しており、被害者は自宅の囚人のように扱われる事例も多い。クックーイングは年内に独立した犯罪となり最高5年の刑が科される見込みだが、警察の対応や被害者支援には課題が残る。",
+  "sentences": [
+    {
+      "text": "Hundreds, if not thousands, of people's homes are being taken over by criminals every week in the UK, usually to store and deal drugs, police chiefs have told the BBC.",
+      "grammar_ja": "「if not thousands」は「数千に及ぶかもしれない」という推定の挿入表現。後半の police chiefs have told the BBC は報道文の倒置（主語＋動詞が文末）。"
+    },
+    {
+      "text": "Perpetrators of so-called cuckooing often target vulnerable people, including the elderly or disabled, by forcing themselves into homes to carry out illegal acts.",
+      "grammar_ja": "so-called＋名詞で「いわゆる〜」。by + -ing で手段を示す。including は具体例の列挙。"
+    },
+    {
+      "text": "In some cases drug users are exploited by gangs who move in and refuse to leave.",
+      "grammar_ja": "受動態 are exploited。関係代名詞 who は gangs を修飾し、move in and refuse to leave と並列。"
+    },
+    {
+      "text": "Cuckooing is not yet a specific criminal offence so there is limited data on how widespread it is.",
+      "grammar_ja": "not yet で「まだ〜ではない」。so で結果を示す。on how widespread it is は data を修飾。"
+    },
+    {
+      "text": "However, figures shared exclusively with the BBC show 1,539 incidents of cuckooing were reported to police in London between May 2025 and April 2026.",
+      "grammar_ja": "過去分詞 shared exclusively with... が figures を修飾。show の後は that 省略の内容節。"
+    },
+    {
+      "text": "Of those, 1,275 of the victims were male.",
+      "grammar_ja": "Of those で前文の数字のうちから一部を指す。ニュースで頻出の内訳表現。"
+    },
+    {
+      "text": "The National Police Chiefs' Council (NPCC) said \"horrific things\" have happened to victims, who were often trapped in their own homes.",
+      "grammar_ja": "現在完了 have happened で過去から現在への影響。非制限用法の who 節で追加情報を付加。"
+    },
+    {
+      "text": "\"We've had cases where they've been forced to eat dog excrement or perform sexual acts, and those will be recorded and then used as a form of blackmail for the perpetrator to say 'if you don't do as I say, then ultimately we'll share this with friends and we'll put this on social media',\" the NPCC's Kirsten Dent, told the BBC.",
+      "grammar_ja": "cases where... で事例内容を説明。be forced to + 動詞原形。as a form of blackmail で「脅迫の手段として」。"
+    },
+    {
+      "text": "\"It's hidden and in people's homes, it's not always easy to detect.\"",
+      "grammar_ja": "形式主語 it + be + adj + to detect の構文。and で2つの理由を並列。"
+    },
+    {
+      "text": "Cuckooing - named after cuckoos, who frequently take over other birds' nests to lay their own eggs - is expected to become a specific criminal offence by the end of the year, carrying a maximum five-year prison sentence.",
+      "grammar_ja": "ダッシュ内の過去分詞 named after... は挿入説明。is expected to become で予定・見込み。carrying... は付帯状況の分詞構文。"
+    },
+    {
+      "text": "It forms part of the Crime and Policing Act 2026, but the government is yet to issue statutory guidance to police forces before the law can be enforced.",
+      "grammar_ja": "be yet to + 動詞原形で「まだ〜していない」。before the law can be enforced は時を表す副詞節。"
+    },
+    {
+      "text": "Ahead of the implementation of the law change, the BBC accompanied London's Metropolitan Police as officers visited suspected cuckooing properties and witnessed shocking signs of squalor.",
+      "grammar_ja": "Ahead of で「〜に先立って」。as は「〜している間に」の副詞的用法。"
+    },
+    {
+      "text": "We also spoke to victims who said they felt like prisoners in their own homes and feared going to the police in case of violent reprisals.",
+      "grammar_ja": "feel like + 名詞。fear + -ing。in case of で「〜の場合に備えて／〜を恐れて」。"
+    },
+    {
+      "text": "Jamie, 34, has brain damage after being struck over the head with a glass bottle and, as a result, he struggles to move and speak properly.",
+      "grammar_ja": "after being struck は受動の動名詞。as a result で因果。struggle to + 動詞原形。"
+    },
+    {
+      "text": "Two years ago, a criminal gang took advantage of his condition by befriending him, before moving into his home without his consent and using his flat as somewhere to sell drugs from.",
+      "grammar_ja": "take advantage of で「〜を利用する」。before + -ing で時系列。somewhere to sell drugs from は不定詞の形容詞用法。"
+    },
+    {
+      "text": "\"People went from being really nice and sound to me, to just taking whatever they can,\" he said.",
+      "grammar_ja": "go from A to B で変化を表す。whatever they can は「取れるものは何でも」。"
+    },
+    {
+      "text": "\"They robbed my clothes,\" he added.",
+      "grammar_ja": "直接話法＋he added の報道引用。rob は奪う（盗む）。"
+    },
+    {
+      "text": "\"They started taking everything worth taking at my house, like stealing it without you knowing.",
+      "grammar_ja": "worth + -ing で「〜する価値がある」。without you knowing は without + 所有格 + -ing。"
+    },
+    {
+      "text": "And when I did realise it was them, they would deny it.\"",
+      "grammar_ja": "did realise は強調・対比の do。would deny で当時の習慣的な行動。"
+    },
+    {
+      "text": "He said one of the most demeaning things was being slapped by a teenager who was much younger than him.",
+      "grammar_ja": "one of the most + 形容詞 + 名詞。動名詞 being slapped は受動の意味。"
+    },
+    {
+      "text": "Jamie said he felt it was impossible to be assertive with the gang because of his condition.",
+      "grammar_ja": "it was impossible to... の形式主語構文。be assertive with で「〜に対して主張する」。"
+    },
+    {
+      "text": "\"I [have] got brain damage and one decent punch could do a lot of damage.",
+      "grammar_ja": "could で可能性・仮定。[have] は編集上の補足。do damage はコロケーション。"
+    },
+    {
+      "text": "I can't fight, I can't argue,\" he said.",
+      "grammar_ja": "並列の否定文。口語的な短い引用。"
+    },
+    {
+      "text": "Earlier this year, he said he managed to escape from his flat and move to a different part of the country - fleeing the gang.",
+      "grammar_ja": "manage to + 動詞原形で「何とか〜できた」。fleeing... は付帯状況の分詞。"
+    },
+    {
+      "text": "The NPCC visited 683 suspected cuckooed addresses in early March this year as part of a week focusing on county lines - the act of moving drugs from big cities into smaller, rural areas.",
+      "grammar_ja": "suspected cuckooed addresses は過去分詞の連鎖修飾。the act of -ing で名詞化した定義。"
+    },
+    {
+      "text": "According to officers, county lines operations and cuckooing are intrinsically linked.",
+      "grammar_ja": "According to で情報源を示す。be intrinsically linked で「本質的に結びついている」。"
+    },
+    {
+      "text": "Dealers moving drugs often look for properties to operate from.",
+      "grammar_ja": "現在分詞 moving drugs が dealers を修飾。operate from は前置詞を文末に置く用法。"
+    },
+    {
+      "text": "\"We suspect hundreds - if not thousands - of properties are being cuckooed across the country (UK) every week,\" said Dent.",
+      "grammar_ja": "be being + 過去分詞 の進行受動態。引用文の後に said Dent と主語・動詞を倒置。"
+    },
+    {
+      "text": "One of those was Jackie, who told the BBC she used to be a heroin and cocaine addict.",
+      "grammar_ja": "used to be で過去の状態。who 節で Jackie の追加情報。"
+    },
+    {
+      "text": "Her dealer allowed her to run up a large drug debt.",
+      "grammar_ja": "allow + 人 + to 不定詞。run up a debt で「借金を積み重ねる」。"
+    },
+    {
+      "text": "When she could not pay it back, he added an extra £2,000 to the bill and said she had to have a dealer living with her until she could repay the money.",
+      "grammar_ja": "had to have + 人 + -ing で「〜してもらわなければならなかった」。until 節で期限。"
+    },
+    {
+      "text": "She said she was cuckooed for months, and became \"a prisoner in my own home\".",
+      "grammar_ja": "受動態 was cuckooed。become + 名詞で状態変化。直接引用は原文の一人称を保持。"
+    },
+    {
+      "text": "\"I asked him to leave so many times and he said: 'My guy said I've got to stay here'\".",
+      "grammar_ja": "so many times で頻度の強調。I've got to は have got to（〜しなければならない）の口語。"
+    },
+    {
+      "text": "\"It just meant that I had to stay in one room.",
+      "grammar_ja": "mean that + 節で「つまり〜ということだった」。had to で義務・余儀なし。"
+    },
+    {
+      "text": "I tried to get access to the front room and the kitchen and he just went, 'no, you're not coming in'.",
+      "grammar_ja": "get access to で「〜に入る／使う権限を得る」。went, '...' は口語で「〜と言った」。"
+    },
+    {
+      "text": "I had to stay in my bedroom.",
+      "grammar_ja": "had to + 動詞原形で「〜せざるを得なかった」。短い叙述文。"
+    },
+    {
+      "text": "Occasionally he might say 'I'll buy you chicken and chips or something' but it was very rare,\" she said.",
+      "grammar_ja": "Occasionally で頻度。might say で過去のたまの行動。but で対比。"
+    },
+    {
+      "text": "She said she used drugs to get through the ordeal.",
+      "grammar_ja": "use ... to ... で目的。get through the ordeal は「苦難を乗り切る」。"
+    },
+    {
+      "text": "After several months of occupying the property, the dealer finally left.",
+      "grammar_ja": "After + 名詞/動名詞句 で時を示す。finally で遅れて起きた結果。"
+    },
+    {
+      "text": "Jackie said suspicion of police watching him made him leave.",
+      "grammar_ja": "made him leave は使役構文（make + 人 + 動詞原形）。suspicion of -ing で「〜ではないかという疑い」。"
+    },
+    {
+      "text": "She is now free from drugs after going to rehab, and works with various support groups to raise awareness of cuckooing and how it can happen to anybody.",
+      "grammar_ja": "free from で「〜から解放された」。raise awareness of で「〜への認知を高める」。"
+    },
+    {
+      "text": "\"It's not just about drugs.",
+      "grammar_ja": "not just about で「〜だけではない」。短い引用の一部。"
+    },
+    {
+      "text": "It can be about anything.",
+      "grammar_ja": "can be about で可能性・多様性を示す。"
+    },
+    {
+      "text": "It can be partners [not leaving].",
+      "grammar_ja": "It can be + 名詞 で例示。[not leaving] は編集補足。"
+    },
+    {
+      "text": "It can be family members.",
+      "grammar_ja": "並列する It can be... 構文で列挙を続ける。"
+    },
+    {
+      "text": "It can be anybody that refuses to leave your property and it can be used for all sorts, money, stolen goods, anything they think they can exploit you\", she said.",
+      "grammar_ja": "that refuses... の関係節。be used for で用途。they think they can exploit you は目的語 you の省略に注意。"
+    },
+    {
+      "text": "When the BBC visited the London properties with the Met police, officers said  squalid conditions were the norm when it comes to cuckooed premises.",
+      "grammar_ja": "were the norm で「普通だった」。when it comes to で「〜に関して言えば」。"
+    },
+    {
+      "text": "Packets of food were strewn across the floor, doors hung off their hinges, and a pungent smell of faeces filled the air.",
+      "grammar_ja": "3つの文が and で並列。were strewn / hung / filled の過去形。"
+    },
+    {
+      "text": "We were taken to a kitchen with raw chicken dumped in the sink.",
+      "grammar_ja": "受動態 were taken。with + 名詞 + 過去分詞 で付帯状況。"
+    },
+    {
+      "text": "There were blood stains on a duvet, and a filthy folding table was used as a bed.",
+      "grammar_ja": "There were... の存在構文。be used as で「〜として使われた」。"
+    },
+    {
+      "text": "A toilet in one bathroom was clogged.",
+      "grammar_ja": "受動態 was clogged（詰まっていた）。簡潔な状態描写。"
+    },
+    {
+      "text": "All the properties contained a putrid stench.",
+      "grammar_ja": "contain は「含む・漂わせる」。putrid は強い形容詞。"
+    },
+    {
+      "text": "Officers from the Met - Britain's largest force - said they were seeing a pattern when it comes to those taken advantage of.",
+      "grammar_ja": "those taken advantage of は「利用された人々」（take advantage of の受動）。"
+    },
+    {
+      "text": "\"What the data is showing us is that if you're a white male between 40 and 49 and potentially drug-dependent, then you're highly likely to become a victim of cuckooing.",
+      "grammar_ja": "What... is that... の名詞節主語。highly likely to become で「〜になりやすい」。"
+    },
+    {
+      "text": "\"We're also seeing repeat victims where sadly people who are once cuckooed moved to a different location or remain at the same location become victims again,\" said Insp Andrew Cameron.",
+      "grammar_ja": "関係副詞 where の先行詞は victims。who are once cuckooed は受動の関係節。"
+    },
+    {
+      "text": "Freedom of information figures obtained by the BBC show there were 380 investigations where cuckooing was flagged as a potential concern in the capital in the year 2023/24.",
+      "grammar_ja": "obtained by the BBC が figures を修飾。was flagged as で「〜としてフラグが立てられた」。"
+    },
+    {
+      "text": "This figure rose to 1,078 in 2025/26.",
+      "grammar_ja": "rise to で数値への増加。簡潔な統計報道文。"
+    },
+    {
+      "text": "The Met said the rise was primarily down to more awareness in the force about what constitutes cuckooing, as well as additional drug dealers using the tactic as a business model.",
+      "grammar_ja": "be down to で「〜が原因だ」。what constitutes... は「何が〜に当たるか」の名詞節。"
+    },
+    {
+      "text": "The force said the methodology of collecting the data had also changed during this time, which also could account for some of the increase.",
+      "grammar_ja": "過去完了 had changed。関係代名詞 which は前文全体を受ける。account for で「説明する」。"
+    },
+    {
+      "text": "Until cuckooing becomes a specific offence, police officers said they were attempting to arrest suspects for other offences, such as drug possession or slavery offences.",
+      "grammar_ja": "Until + 現在形 で「〜するまで」。attempt to arrest。such as で例示。"
+    },
+    {
+      "text": "Sources across several police forces in England said closure orders were being used more widely to stop cuckooing.",
+      "grammar_ja": "過去進行受動 were being used。more widely で適用範囲の拡大。"
+    },
+    {
+      "text": "They enable police officers and local authorities to temporarily close down a property.",
+      "grammar_ja": "enable + 人 + to 不定詞。temporarily close down で一時閉鎖。"
+    },
+    {
+      "text": "A partial closure order can mean the tenant is able to stay, but named visitors and other individuals are barred.",
+      "grammar_ja": "mean (that)... の内容節。be barred で「立ち入り禁止」。"
+    },
+    {
+      "text": "But some victims are critical of the way it is dealt with.",
+      "grammar_ja": "be critical of で「〜を批判的に見る」。the way it is dealt with は関係副詞 the way + 節。"
+    },
+    {
+      "text": "\"I have no faith in the police.",
+      "grammar_ja": "have no faith in で「〜を信頼しない」。固定コロケーション。"
+    },
+    {
+      "text": "They're useless,\" said one victim we spoke to on condition of anonymity.",
+      "grammar_ja": "on condition of anonymity で「匿名を条件に」。we spoke to は関係代名詞省略。"
+    },
+    {
+      "text": "They believe vulnerable people need support and that more should be done to stop them being exploited.",
+      "grammar_ja": "that 節の並列。stop + 人 + being exploited（動名詞の受動）。"
+    },
+    {
+      "text": "The NPCC said it was working to build confidence among victims and believed the law change to make cuckooing a specific criminal offence would help.",
+      "grammar_ja": "過去進行 was working to...。to make... は目的の不定詞。would help で未来の効果。"
+    },
+    {
+      "text": "Dr Amy Loughery, a University of Leeds researcher, whose work focuses on cuckooing and county lines exploitation, said police did not always recognise when vulnerable people were being exploited.",
+      "grammar_ja": "同格語 a University... researcher。非制限用法 whose。when 節は時・状況。"
+    },
+    {
+      "text": "\"Victims of cuckooing were not necessarily being seen as victims because often they had previous experiences or contact with the police,\" she said.",
+      "grammar_ja": "not necessarily で部分否定。be seen as で「〜と見なされる」。because で理由。"
+    },
+    {
+      "text": "While awareness of the issue has improved in recent years, she said \"there is a significant way to go\" and called for more guidance and policies to help identify exploitation and improve responses to cuckooing.",
+      "grammar_ja": "While で譲歩「〜だが」。there is a way to go は慣用句。called for で「〜を求めた」。"
+    },
+    {
+      "text": "A Home Office spokesperson said the testimonies given to BBC News were \"appalling\".",
+      "grammar_ja": "過去分詞 given to BBC News が testimonies を修飾。spokesperson は公式声明の主語。"
+    },
+    {
+      "text": "They added: \"We will do everything in our power to protect communities from the vile crime of cuckooing, including investing more than £34m this year in the County Lines Programme to target drug dealing gangs and organised crime groups.\"",
+      "grammar_ja": "everything in our power to...。including + -ing で具体的内容。target は「標的にする」。"
+    },
+    {
+      "text": "If you have been affected by any of the issues raised in this story, information and support can be found at the BBC's Action Line.",
+      "grammar_ja": "If you have been affected by... の現在完了受動。issues raised in... は過去分詞修飾。"
+    },
+    {
+      "text": "Daniel Day denies intentionally or recklessly causing a public nuisance by climbing the Elizabeth Tower.",
+      "grammar_ja": "deny + -ing。intentionally or recklessly は副詞の並列。関連記事の見出し。"
+    },
+    {
+      "text": "The musician whose real name was Mark Orabiyi - was \"a gem\", rapper Wretch 32 said.",
+      "grammar_ja": "whose で所有関係。ダッシュで挿入。倒置した引用構文。"
+    },
+    {
+      "text": "Chief Constable Ivan Balhatchet says he cannot argue with findings of a report.",
+      "grammar_ja": "cannot argue with で「〜に異論を唱えられない」。関連記事見出し。"
+    },
+    {
+      "text": "How a student's murder led to protests, political debate and scrutiny of the police.",
+      "grammar_ja": "How から始まる見出しで経緯を示す。led to + 名詞。"
+    },
+    {
+      "text": "Commissioner Sarah Taylor says she quit because of a relative's life-changing diagnosis",
+      "grammar_ja": "because of + 名詞で理由。life-changing は複合形容詞。関連記事見出し。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "cuckooing",
+      "pronunciation": "/ˈkʊkuːɪŋ/",
+      "meaning_ja": "（犯罪者が脆弱な人の家に居座り不法利用する）クックーイング",
+      "example": "Cuckooing is expected to become a specific criminal offence by the end of the year."
+    },
+    {
+      "word": "county lines",
+      "pronunciation": "/ˈkaʊnti laɪnz/",
+      "meaning_ja": "大都市から地方へ薬物を供給する組織的ルート",
+      "example": "County lines operations and cuckooing are intrinsically linked."
+    },
+    {
+      "word": "vulnerable",
+      "pronunciation": "/ˈvʌlnərəbl/",
+      "meaning_ja": "脆弱な、被害を受けやすい",
+      "example": "Perpetrators often target vulnerable people, including the elderly or disabled."
+    },
+    {
+      "word": "blackmail",
+      "pronunciation": "/ˈblækmeɪl/",
+      "meaning_ja": "脅迫、ゆすり",
+      "example": "Those will be recorded and then used as a form of blackmail."
+    },
+    {
+      "word": "reprisal",
+      "pronunciation": "/rɪˈpraɪzl/",
+      "meaning_ja": "報復、仕返し（暴力）",
+      "example": "They feared going to the police in case of violent reprisals."
+    },
+    {
+      "word": "run up (a debt)",
+      "pronunciation": "/rʌn ʌp/",
+      "meaning_ja": "（借金などを）積み重ねる",
+      "example": "Her dealer allowed her to run up a large drug debt."
+    },
+    {
+      "word": "squalid",
+      "pronunciation": "/ˈskwɒlɪd/",
+      "meaning_ja": "汚らわしい、悲惨な",
+      "example": "Officers witnessed shocking signs of squalor at suspected properties."
+    },
+    {
+      "word": "closure order",
+      "pronunciation": "/ˈkləʊʒə ˈɔːdə/",
+      "meaning_ja": "（警察などによる）住宅の一時閉鎖命令",
+      "example": "Closure orders were being used more widely to stop cuckooing."
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "if-not-insertion",
+      "title": "Approximation with 'if not'",
+      "rule": "Use 'X, if not Y' to suggest the real number may be even higher than X.",
+      "example": "Hundreds, if not thousands, of people's homes are being taken over every week.",
+      "meaning_ja": "「数百、いや数千に及ぶかもしれない」のように、前の数字を上回る可能性を示すニュース記事でよく使われる表現。"
+    },
+    {
+      "id": "passive-news",
+      "title": "Passive voice in crime reporting",
+      "rule": "Passive structures (be + past participle) focus on victims and actions rather than agents.",
+      "example": "Drug users are exploited by gangs who move in and refuse to leave.",
+      "meaning_ja": "犯罪報道では受動態で被害者や事件の内容に焦点を当て、加害者は by 句や関係節で後から示すことが多い。"
+    },
+    {
+      "id": "reporting-inversion",
+      "title": "Reporting clauses with inversion",
+      "rule": "After a long quote, the reporting verb and subject can follow: '...,' said Name.",
+      "example": "\"We suspect hundreds of properties are being cuckooed every week,\" said Dent.",
+      "meaning_ja": "長い直接引用のあとに said + 人名 を置く倒置は英語新聞の定型パターン。"
+    },
+    {
+      "id": "participle-modifiers",
+      "title": "Participle phrases for extra detail",
+      "rule": "Past/present participles (-ed/-ing) add information about nouns without a full relative clause.",
+      "example": "Cuckooing - named after cuckoos, who take over other birds' nests - is expected to become a criminal offence.",
+      "meaning_ja": "過去分詞・現在分詞句を名詞に付け加え、関係代名詞節を省略して情報を圧縮する書き方。"
+    }
+  ]
+}

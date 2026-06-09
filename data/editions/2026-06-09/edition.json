@@ -1,0 +1,98 @@
+{
+  "edition_date": "2026-06-09",
+  "status": "complete",
+  "target_article_count": 5,
+  "actual_article_count": 5,
+  "selection_policy": "balanced-five-fill-with-recent-unassigned",
+  "source_window": {
+    "primary_date": "2026-06-09",
+    "fallback_days": 3
+  },
+  "category_counts": {
+    "japan": 5,
+    "world": 0
+  },
+  "articles": [
+    "japantoday:2026-06-09:memorial-service-marks-25-years-since-fa",
+    "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
+    "japantoday:2026-06-09:japan-s-april-current-account-surplus-at",
+    "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid",
+    "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-09:memorial-service-marks-25-years-since-fa",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/Memorial-service-marks-25-years-since-fatal-stabbing-rampage",
+      "title": "Memorial service marks 25 years since fatal stabbing rampage",
+      "slug": "01-memorial-service-marks-25-years-since-fatal-stabbing-rampage",
+      "category": "japan",
+      "selection_rank": 1,
+      "selection_reason": "legacy_migration",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/feature-deteriorating-japan-castles-face-high-costs-debates-over-renovation",
+      "title": "Deteriorating castles in Japan face high costs, debates over renovation",
+      "slug": "02-deteriorating-castles-in-japan-face-high-costs-debates-over-renovation",
+      "category": "japan",
+      "selection_rank": 2,
+      "selection_reason": "legacy_migration",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:japan-s-april-current-account-surplus-at",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/update1-japan-april-current-account-surplus-at-3.91-tril.-yen-on-overseas-returns",
+      "title": "Japan's April current account surplus at ¥3.91 tril on overseas returns",
+      "slug": "03-japan-s-april-current-account-surplus-at-3-91-tril-on-overseas-returns",
+      "category": "japan",
+      "selection_rank": 3,
+      "selection_reason": "legacy_migration",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/data-on-510-000-people-linked-to-hokkaido-hospitals-possibly-leaked-online",
+      "title": "Data on 510,000 people linked to Hokkaido hospitals possibly leaked online",
+      "slug": "04-data-on-510-000-people-linked-to-hokkaido-hospitals-possibly-leaked-on",
+      "category": "japan",
+      "selection_rank": 4,
+      "selection_reason": "legacy_migration",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/child-comes-into-store-saying-she%27s-hungry-after-being-left-alone-for-11-hours-by-mother-boyfriend-who-were-out-drinking",
+      "title": "Child comes into store saying she's hungry after being left alone for 11 hours by mother, boyfriend who were out drinking",
+      "slug": "05-child-comes-into-store-saying-she-s-hungry-after-being-left-alone-for-",
+      "category": "japan",
+      "selection_rank": 5,
+      "selection_reason": "legacy_migration",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T16:47:54+09:00",
+  "warnings": [
+    "migrated from legacy prototype"
+  ]
+}

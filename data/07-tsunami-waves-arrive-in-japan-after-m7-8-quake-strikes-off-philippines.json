@@ -1,0 +1,137 @@
+{
+  "summary_ja": "フィリピン南方沖で発生したマグニチュード7.8の地震を受け、月曜日に沖縄など日本各地で津波が観測された。気象庁は太平洋沿岸に津波注意報を発表したが、午後には解除された。フィリピンでは少なくとも19人が死亡し、日本では10都道府県で一時19万人以上に避難が呼びかけられた。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "本文ではなく、Google Tag Manager用のHTML埋め込みコード。ニュースサイトの計測タグで、英語学習の文法対象ではない。"
+    },
+    {
+      "text": "Rescuers inspect the damage after an earthquake in General Santos, Philippines, on Monday.Image:Philippine Red Cross via AP",
+      "grammar_ja": "写真キャプション。inspect the damage（被害を調査する）のコロケーション。after an earthquakeは時系列。末尾のImage:は出典表記で、通常はスペースを入れる（on Monday. Image:）。"
+    },
+    {
+      "text": "Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines",
+      "grammar_ja": "見出し文体。現在形で「今起きている」臨場感を出すニュース慣用。M7.8 quakeはmagnitude 7.8 earthquakeの省略。strikes off Philippinesは「フィリピン沖で発生」。"
+    },
+    {
+      "text": "Tsunami waves arrived in Okinawa and other parts of Japan on Monday after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines, according to Japanese and U.S. authorities.",
+      "grammar_ja": "after節＋過去形の時系列（地震→津波）。with a preliminary magnitude of 7.8は地震の規模を修飾。according to ... authoritiesは報道の出典を示す定型表現。"
+    },
+    {
+      "text": "The Japan Meteorological Agency said at a press conference that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m. after the agency issued a tsunami advisory for the Pacific coast along the eastern, western and southern parts of the country.",
+      "grammar_ja": "said that節で間接話法。was observedは受動態（観測された）。after the agency issued ...は「注意報発表のあと」という順序。along the ... coastは沿岸を表す前置詞。"
+    },
+    {
+      "text": "Also, a 20-centimeter tsunami was observed at Chichijima Island of the Ogasawara Islands in the Pacific, about 1,000 kilometers south of central Tokyo, around 1:46 p.m.",
+      "grammar_ja": "Alsoで追加情報。20-centimeterはハイフンで単位＋名詞をつなぐ。about 1,000 kilometers south of ...は距離＋方位の説明。at ... Island / around ... p.m.は場所・時刻。"
+    },
+    {
+      "text": "The agency alerted the public earlier in the day that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere.",
+      "grammar_ja": "alerted ... that節。earlier in the dayは「その日のうちに早い時間帯」。up to 1 meterは「最大1メートルまで」。could reachは可能性・予測。"
+    },
+    {
+      "text": "The advisory, which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan's southernmost island prefecture of Okinawa, was lifted in the afternoon.",
+      "grammar_ja": "関係代名詞whichの非制限用法。stretching from A to Bは範囲を示す分詞構文。was liftedは受動態（解除された）。"
+    },
+    {
+      "text": "The quake struck 26 km southwest of Kablalan in the Philippines at a depth of 55.2 km at around 7:37 a.m. local time, according to the U.S.",
+      "grammar_ja": "地震の位置・深さ・時刻を並列。southwest of / at a depth of / at around ... local timeは災害報道の定型。文末のthe U.S.は次文とつながる省略形。"
+    },
+    {
+      "text": "Philippine authorities said at least 19 people died and more than 130 were injured.",
+      "grammar_ja": "at leastは「少なくとも」。died（能動）とwere injured（受動）の対比。more than 130は injuredの前で人数を修飾。"
+    },
+    {
+      "text": "In December 2023, an M7.6 quake hit the area, according to the USGS.",
+      "grammar_ja": "過去の出来事を背景として提示。hit the areaは「その地域を襲った」。according to the USGSは出典表記。"
+    },
+    {
+      "text": "Japanese Prime Minister Sanae Takaichi said on social media she has instructed relevant ministries and agencies to take measures to prevent damage.",
+      "grammar_ja": "saidの後にthat省略の間接話法。has instructed ... to take measuresは「〜するよう指示した」。relevant ministries and agenciesは行政機関。to prevent damageは目的。"
+    },
+    {
+      "text": "Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa, were urged to evacuate at one point, according to the Fire and Disaster Management Agency.",
+      "grammar_ja": "were urged to evacuateは受動態＋不定詞（避難を呼びかけられた）。including ...は例示。at one pointは「一時的に」。Over 190,000は概数。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "tsunami advisory",
+      "pronunciation": "/tsuːˈnɑːmi ədˈvaɪzəri/",
+      "meaning_ja": "津波注意報（大きな津波の可能性を伝える警報）",
+      "example": "The agency issued a tsunami advisory for the Pacific coast."
+    },
+    {
+      "word": "preliminary magnitude",
+      "pronunciation": "/prɪˈlɪmɪnəri ˈmæɡnɪtjuːd/",
+      "meaning_ja": "暫定マグニチュード（速報値の震度規模）",
+      "example": "an earthquake with a preliminary magnitude of 7.8"
+    },
+    {
+      "word": "strike off",
+      "pronunciation": "/straɪk ɒf/",
+      "meaning_ja": "（地震が）沖合で発生する",
+      "example": "an M7.8 quake strikes off the southern Philippines"
+    },
+    {
+      "word": "lift an advisory",
+      "pronunciation": "/lɪft ən ədˈvaɪzəri/",
+      "meaning_ja": "注意報を解除する",
+      "example": "The advisory was lifted in the afternoon."
+    },
+    {
+      "word": "urge someone to evacuate",
+      "pronunciation": "/ɜːrdʒ ˈsʌmwʌn tu ɪˈvækjueɪt/",
+      "meaning_ja": "避難を強く呼びかける",
+      "example": "Over 190,000 people were urged to evacuate."
+    },
+    {
+      "word": "at one point",
+      "pronunciation": "/æt wʌn pɔɪnt/",
+      "meaning_ja": "一時的に、ある時点では",
+      "example": "were urged to evacuate at one point"
+    },
+    {
+      "word": "inspect the damage",
+      "pronunciation": "/ɪnˈspekt ðə ˈdæmɪdʒ/",
+      "meaning_ja": "被害状況を調査する",
+      "example": "Rescuers inspect the damage after an earthquake."
+    },
+    {
+      "word": "take measures",
+      "pronunciation": "/teɪk ˈmeʒərz/",
+      "meaning_ja": "対策を講じる",
+      "example": "instructed ministries to take measures to prevent damage"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "headline-present-tense",
+      "title": "Headline present tense",
+      "rule": "News headlines often use the simple present tense to make events feel immediate.",
+      "example": "Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines",
+      "meaning_ja": "見出しでは過去形ではなく現在形を使い、出来事を「今まさに起きている」ように見せる。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "According to + source",
+      "rule": "Use 'according to' to attribute information to an official source or organization.",
+      "example": "according to Japanese and U.S. authorities",
+      "meaning_ja": "情報の出所を明示する報道の定型表現。「〜によると」で権威ある情報源に帰属させる。"
+    },
+    {
+      "id": "passive-disaster-reporting",
+      "title": "Passive voice in disaster news",
+      "rule": "Passive forms (was observed, were injured, were urged) focus on what happened rather than who did it.",
+      "example": "a minor tsunami was observed on the main island of Okinawa",
+      "meaning_ja": "災害報道では受動態が多く、観測・被害・呼びかけなど事実そのものに焦点を当てる。"
+    },
+    {
+      "id": "time-sequence-after",
+      "title": "Time sequence with after",
+      "rule": "Use 'after' + past event to show one action happened following another.",
+      "example": "Tsunami waves arrived ... after an earthquake ... struck",
+      "meaning_ja": "after節で原因・先行事件とその結果の時間順序を示す。地震→津波のような因果の流れを作る。"
+    }
+  ]
+}

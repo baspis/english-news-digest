@@ -1,0 +1,125 @@
+{
+  "summary_ja": "大阪府池田市の小学校で2001年に起きた刺殺事件から25年を迎え、日曜日に追悼式が行われた。8人の児童が亡くなったこの事件を契機に、学校の安全対策が強化された。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "記事本文ではなく、ウェブサイト用のHTMLタグ（Google Tag Manager）です。英語学習の対象外です。"
+    },
+    {
+      "text": "Memorial service marks 25 years since fatal stabbing rampage",
+      "grammar_ja": "見出し文体。主語＋動詞（現在形）で「〜を記す」。\"marks ... since ...\" は「〜からの年数・節目を記念する」の定番表現。"
+    },
+    {
+      "text": "A memorial service was held Sunday to mark the 25th anniversary of a stabbing rampage at an elementary school in Ikeda, Osaka Prefecture, that left eight children dead.",
+      "grammar_ja": "受動態 \"was held\" で行事の開催を報道。\"to mark\" は目的。関係代名詞 \"that left ...\" が \"rampage\" を修飾し、結果（8人の死亡）を示す。"
+    },
+    {
+      "text": "A memorial service was held at Ikeda Elementary School in the morning, with about 760 bereaved family members, current students, and faculty members praying for the souls of the victims at the time of the incident.",
+      "grammar_ja": "with + 名詞 + -ing で「〜が…しながら」という付帯状況。\"bereaved family members\"（遺族）、\"at the time of the incident\"（当時）などニュース語彙に注意。"
+    },
+    {
+      "text": "The eight bells in a small monument, on which the names of the eight children who died are engraved, were rung, and everyone observed a moment of silence.",
+      "grammar_ja": "関係代名詞 \"on which\"（前置詞＋which）で monument を修飾。\"were rung\" は受動態。\"observed a moment of silence\" は「黙とうを捧げる」の慣用表現。"
+    },
+    {
+      "text": "The eight -- seven girls in second grade and a boy in first grade -- were fatally stabbed, while 15 others, including two teachers, were injured on June 8, 2001, by Mamoru Takuma.",
+      "grammar_ja": "ダッシュ \"-- ... --\" で同格説明。\"while\" は対比（一方で）。\"fatally stabbed\" は副詞＋過去分詞。\"by + 人\" で行為者を示す受動文。"
+    },
+    {
+      "text": "He was sentenced to death in 2003 and executed in September 2004.",
+      "grammar_ja": "受動態の並列：\"was sentenced to death\"（死刑判決）と \"(was) executed\"（執行）。ニュースでは主語の \"He\" が直前の犯人を指す。"
+    },
+    {
+      "text": "At his trial, he said that he committed the crime because he wanted to be executed.",
+      "grammar_ja": "間接話法 \"said that ...\"。\"commit a crime\" のコロケーション。\"because\" 節で動機を説明。\"wanted to be executed\" は受動不定詞。"
+    },
+    {
+      "text": "Takuma entered through the school's side gate, which had been left open.",
+      "grammar_ja": "非限定用法の \"which\" 節が gate の追加情報を付ける。\"had been left open\" は過去完了の受動態で、侵入前の状態を表す。"
+    },
+    {
+      "text": "The incident shook the school's \"myth of safety,\" prompting the strengthening of safety measures such as closing the school gates, installing security cameras, and patrolling during school hours.",
+      "grammar_ja": "現在分詞 \"prompting ...\" が結果・きっかけを示す。\"such as\" の後は動名詞の並列（closing, installing, patrolling）。\"myth of safety\" は比喩的表現。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "memorial service",
+      "pronunciation": "/məˈmɔːriəl ˈsɜːrvɪs/",
+      "meaning_ja": "追悼式、慰霊祭",
+      "example": "A memorial service was held Sunday to mark the 25th anniversary."
+    },
+    {
+      "word": "stabbing rampage",
+      "pronunciation": "/ˈstæbɪŋ ˈræmpɪdʒ/",
+      "meaning_ja": "刺し続ける凶行、刃物による連続殺傷",
+      "example": "a stabbing rampage at an elementary school"
+    },
+    {
+      "word": "bereaved",
+      "pronunciation": "/bɪˈriːvd/",
+      "meaning_ja": "（親族などを）失った、遺族の",
+      "example": "about 760 bereaved family members"
+    },
+    {
+      "word": "observe a moment of silence",
+      "pronunciation": "/əbˈzɜːrv ə ˈmoʊmənt əv ˈsaɪləns/",
+      "meaning_ja": "黙とうを捧げる",
+      "example": "everyone observed a moment of silence"
+    },
+    {
+      "word": "fatally",
+      "pronunciation": "/ˈfeɪtəli/",
+      "meaning_ja": "致命的に",
+      "example": "The eight were fatally stabbed."
+    },
+    {
+      "word": "be sentenced to death",
+      "pronunciation": "/biː ˈsentənst tuː deθ/",
+      "meaning_ja": "死刑判決を受ける",
+      "example": "He was sentenced to death in 2003."
+    },
+    {
+      "word": "myth of safety",
+      "pronunciation": "/mɪθ əv ˈseɪfti/",
+      "meaning_ja": "安全神話（安全だと思われていた幻想）",
+      "example": "The incident shook the school's \"myth of safety.\""
+    },
+    {
+      "word": "prompt",
+      "pronunciation": "/prɑːmpt/",
+      "meaning_ja": "〜を促す、きっかけとなる",
+      "example": "prompting the strengthening of safety measures"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news",
+      "title": "Passive voice in news reporting",
+      "rule": "Use be + past participle to focus on events and victims rather than agents (e.g., was held, were injured, was sentenced).",
+      "example": "A memorial service was held Sunday.",
+      "meaning_ja": "ニュースでは受動態で「誰が」より「何が起きたか」を前面に出す。行事の開催、被害、判決の報道でよく使われる。"
+    },
+    {
+      "id": "relative-clauses",
+      "title": "Relative clauses (that / which / on which)",
+      "rule": "Relative clauses add detail about nouns; preposition + which is formal (e.g., on which names are engraved).",
+      "example": "a stabbing rampage ... that left eight children dead",
+      "meaning_ja": "関係代名詞節で名詞を詳しく説明する。\"that\" は限定用法、\"which\" は追加情報。\"on which\" のように前置詞を前に置く形式は硬い文体。"
+    },
+    {
+      "id": "with-absolutes",
+      "title": "With + noun + -ing (absolute/participial phrase)",
+      "rule": "With + noun + present participle describes an accompanying situation or simultaneous action.",
+      "example": "with about 760 bereaved family members ... praying for the souls of the victims",
+      "meaning_ja": "with + 名詞 + 現在分詞で「〜が…しながら／〜とともに」という状況を簡潔に付け加える。記事で参加者の様子を描くときに便利。"
+    },
+    {
+      "id": "present-participle-result",
+      "title": "Present participle for result or consequence",
+      "rule": "A comma + -ing phrase can show the result or follow-up effect of the main clause.",
+      "example": "The incident shook the school's \"myth of safety,\" prompting the strengthening of safety measures.",
+      "meaning_ja": "主節の結果・きっかけを現在分詞句で続ける書き方。\"thereby prompting ...\" と同様、因果関係をコンパクトに示せる。"
+    }
+  ]
+}

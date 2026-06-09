@@ -1,0 +1,249 @@
+{
+  "summary_ja": "BBCの調査を受け、英国議会で赤ちゃんの睡眠指導業界の無規制化が議論された。議員らは、訓練と身元調査を義務化する法律の制定時期を政府に求めている。危険な睡眠アドバイスが乳児突然死症候群（SIDS）のリスクを高める可能性があると医療専門家は指摘している。",
+  "sentences": [
+    {
+      "text": "Lives are \"still at risk\" from the unregulated baby sleep industry, a parliament debate was told last night.",
+      "grammar_ja": "受動態 was told（「議会討論で伝えられた」）。still at risk は「依然として危険にさらされている」。from は原因・出所を示す。"
+    },
+    {
+      "text": "MPs are now urging the government to set out a timeline for legislation to make training and background checks compulsory, in the wake of a BBC investigation.",
+      "grammar_ja": "urge A to do（Aに〜するよう強く求める）。in the wake of は「〜を受けて」。make + O + 形容詞（compulsory＝義務化する）。"
+    },
+    {
+      "text": "Labour MP Connor Rand described the industry as the \"Wild West\" and called for the introduction of \"mandatory safeguarding and qualification standards\" for everyone providing paid support to families.",
+      "grammar_ja": "describe A as B（AをBと表現する）。call for は「〜を求める」。providing paid support は everyone を修飾する現在分詞。"
+    },
+    {
+      "text": "The debate comes after secret filming by the BBC revealed how some self-described baby sleep experts have been giving parents dangerous advice that medical professionals say could increase the risk of Sudden Infant Death Syndrome (Sids).",
+      "grammar_ja": "reveal how + 節（方法・内容）。self-described は「自称の」。that 節は advice を修飾し、say の後に that が省略されている。"
+    },
+    {
+      "text": "Liberal Democrat MP Tom Morrison said the government needs \"a proper regulatory framework to make sure these charlatans that are putting out bogus sleep advice on social media... are held to account.\"",
+      "grammar_ja": "make sure + that節（that省略可）。hold to account は「責任を問う」。put out は「発信する・出す」。"
+    },
+    {
+      "text": "Health Minister Karin Smyth said \"public safety is and has to remain the top priority\".",
+      "grammar_ja": "is and has to remain で「現在も、今後も〜であり続けなければならない」。the top priority は最優先事項。"
+    },
+    {
+      "text": "Rand said the death of Madison Bruce Smith - a baby in his Altrincham and Sale West constituency - had shown the real-world consequences of allowing unqualified practitioners.",
+      "grammar_ja": "過去完了 had shown（それ以前の出来事の結果）。挿入句は人名の説明。consequences of + 動名詞。"
+    },
+    {
+      "text": "The MP, who led the debate, has set out a series of recommendations as the government considers regulating the sector.",
+      "grammar_ja": "非制限用法の関係代名詞 who。set out は「示す・提示する」。as は「〜する一方で・〜の過程で」。"
+    },
+    {
+      "text": "These include the introduction of mandatory minimum safeguarding and paediatric qualification standards, backed by the National Nanny Association and The Lullaby Trust.",
+      "grammar_ja": "backed by は過去分詞で「〜の支持を受けた」。the introduction of は「〜の導入」。"
+    },
+    {
+      "text": "Rand also called for mandatory enhanced DBS background checks for all individuals working with children - including nannies, maternity nurses, infant sleep consultants and childcare professionals working in private homes.",
+      "grammar_ja": "call for + 名詞。working with children は individuals を修飾。including は例示。"
+    },
+    {
+      "text": "He highlighted the gap in postnatal support for new parents and urged the government to set out plans to invest in health visitor services.",
+      "grammar_ja": "highlight the gap in（〜の不足を強調）。urge A to do の再登場。invest in は「〜に投資する」。"
+    },
+    {
+      "text": "He said the \"infant sleep industry has boomed... as the support that used to be provided by the state has been stripped back.\"",
+      "grammar_ja": "has boomed（急成長した）。used to + 動詞（以前は〜だった）。strip back は「削減する」。"
+    },
+    {
+      "text": "Conservative MP Robbie Moore said he \"absolutely backs all of the calls\" Rand put forward in his speech, emphasising that he wants to see regulation for nannies, as well as maternity nurses and those working in infant sleep.",
+      "grammar_ja": "put forward は「提出する・提唱する」。emphaising は付帯状況。as well as は「〜だけでなく」。want to see + 名詞（〜を実現したい）。"
+    },
+    {
+      "text": "Allie Bell and Maria Culley from the National Nanny Association say they hope the debate is the \"start of meaningful reform\" and the start of regulation for maternity nurses, nannies and the wider baby sleep industry.",
+      "grammar_ja": "the start of + 名詞（〜の始まり）。meaningful reform は「実質的な改革」。the wider は「より広い範囲の」。"
+    },
+    {
+      "text": "\"Families deserve clarity about the qualifications, training and safeguarding standards of those caring for their children, particularly during the earliest and most vulnerable stages of a child's life,\" Bell and Culley told the BBC.",
+      "grammar_ja": "deserve + 名詞（〜を受けるに値する）。those caring for は「子どもを世話する人々」。particularly は特に強調。"
+    },
+    {
+      "text": "Last month the UK's leading baby-safety charity The Lullaby Trust and Morrison wrote to Streeting calling for \"urgent action\" to \"ensure that no more babies' lives are put at risk due to unregulated and bogus sleep advice\".",
+      "grammar_ja": "write to A calling for B（AにBを求めて手紙）。ensure that + 節。due to は原因。put at risk は「危険にさらす」。"
+    },
+    {
+      "text": "Currently anyone can call themselves a maternity nurse, sleep expert or consultant, without any training, oversight or accountability.",
+      "grammar_ja": "call themselves + 名詞（自称する）。without any は「一切〜なしで」。並列名詞 training, oversight, accountability。"
+    },
+    {
+      "text": "DUP MP Jim Shannon highlighted this lack of oversight a sector that predominantly caters for \"sleep-deprived and vulnerable parents\".",
+      "grammar_ja": "文法的に oversight の後に in が省略されたような構造（in a sector）。cater for は「〜向けのサービスを提供する」。predominantly は「主に」。"
+    },
+    {
+      "text": "Speaking during the debate, Shannon said: \"Anyone can buy a website domain, call themselves an infant sleep expert or a maternity nurse and charge vulnerable sleep-deprived parents hundreds of pounds for unregulated, untested and potentially unsafe advice.\"",
+      "grammar_ja": "Speaking during は付帯状況。can + 動詞の並列。charge A B for C（AにCの代わりにBを請求する）。"
+    },
+    {
+      "text": "Shannon added that parents \"need to have security in that advice that they are taking comes from a solid foundation and that qualifications, or lack of qualifications are clear\".",
+      "grammar_ja": "security in that + 節（that節が内容）。take advice（アドバイスを受け入れる）。or lack of は対比。"
+    },
+    {
+      "text": "The Department for Health and Social Care (DHSC) said in March that the law would be changed to limit who was allowed to call themselves a nurse.",
+      "grammar_ja": "would be changed（当時から見た未来の変更）。limit who + 節（誰が〜できるかを制限）。be allowed to do。"
+    },
+    {
+      "text": "This means people working in a hands-on capacity as night nannies would no longer be able to operate as \"maternity nurses\".",
+      "grammar_ja": "This means + that節（that省略）。would no longer be able to（もはや〜できなくなる）。operate as は「〜として活動する」。"
+    },
+    {
+      "text": "Rand called for a clear timeline on when legislation will be introduced, and said the new regulations should apply to those calling themselves sleep consultants or practitioners.",
+      "grammar_ja": "timeline on when（いつ〜かの時系列）。should apply to（〜に適用されるべき）。calling themselves は those を修飾。"
+    },
+    {
+      "text": "Smyth reiterated the plans to protect the title of nurse on Monday night, adding that the government will \"shortly\" be publishing \"a call for evidence on the protection of the title nurse\".",
+      "grammar_ja": "reiterate は「改めて述べる」。adding that は付帯説明。a call for evidence は「意見募集」。the title of nurse は称号の保護。"
+    },
+    {
+      "text": "Following our investigation, the BBC spoke to dozens more parents, who say the government's commitment to increased regulation is \"absolutely essential\" for the safety of babies and maternal mental health.",
+      "grammar_ja": "Following + 名詞（〜に続いて）。非制限用法 who。commitment to + 名詞。maternal mental health は「母親のメンタルヘルス」。"
+    },
+    {
+      "text": "Mother-of-two Aimee Beesley welcomes the changes proposed and says currently \"babies lives are at risk\".",
+      "grammar_ja": "Mother-of-two は「2児の母」。the changes proposed（提案された変更）。所有格は本来 babies' lives。"
+    },
+    {
+      "text": "When she was sleep-deprived, and struggling with postnatal depression with her first child, she paid hundreds of pounds for a sleep consultant and self-described maternity nurse, who had thousands of followers online.",
+      "grammar_ja": "When節で背景設定。struggle with（〜に苦しむ）。pay for（〜の代金を払う）。who had は追加情報の関係代名詞。"
+    },
+    {
+      "text": "She had wrongly assumed there was a regulatory body already in place.",
+      "grammar_ja": "過去完了 had assumed（その時点より前の想定）。there was 構文。in place は「整備されて・存在して」。"
+    },
+    {
+      "text": "She says the advice she received included sleeping her babies in their own room at eight weeks old and placing muslin towels around their heads in the cot.",
+      "grammar_ja": "省略された関係代名詞（advice (that) she received）。include + 動名詞。at eight weeks old は生後8週。"
+    },
+    {
+      "text": "She believes that self-described maternity nurses \"capitalise on women's vulnerability\" and \"say whatever they want\" online.",
+      "grammar_ja": "capitalise on（〜を利用して利益を得る、英）。whatever they want は「好きなことを何でも」。believe that + 節。"
+    },
+    {
+      "text": "Now supporting families herself after undertaking a qualification in infant sleep, Aimee believes \"any coach worth their salt would be prepared to re-train under the right regulatory body\".",
+      "grammar_ja": "worth their salt は慣用句「本物の・腕の立つ」。be prepared to（〜する用意がある）。under は「〜の下で・体制のもとで」。"
+    },
+    {
+      "text": "Responding on behalf of the government, Smyth said the early stages of parenting is \"a really worrying and stressful time... and rogue advice from so-called experts can have a damaging and devastating effect on those who seek reputable advice and guidance.\"",
+      "grammar_ja": "on behalf of（〜を代表して）。rogue advice は「不正・危険な助言」。those who seek（求める人々）。"
+    },
+    {
+      "text": "She outlined existing provision for new parents, including the Healthy Babies programme which \"supports new parents and families by offering integrated preventative and universal support, including perinatal mental health, parent-infant relationships and infant feeding in the 1,001 days from pregnancy to age two.\"",
+      "grammar_ja": "outline は「概要を示す」。by offering（〜を提供することで）。from pregnancy to age two は期間。"
+    },
+    {
+      "text": "Have you been affected by the issues raised in this story?",
+      "grammar_ja": "現在完了 Have you been affected（影響を受けたことがあるか）。raised in this story は issues を修飾する過去分詞。"
+    },
+    {
+      "text": "Contact the team at: ParentingInvestigation@bbc.co.uk",
+      "grammar_ja": "命令文の依頼表現。Contact A at B（Bの連絡先でAに連絡する）。"
+    },
+    {
+      "text": "Details of organisations offering information and support on child bereavement are available at BBC Action Line",
+      "grammar_ja": "Details of + 名詞。offering は organisations を修飾。are available at（〜で入手できる）。"
+    },
+    {
+      "text": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+      "grammar_ja": "別記事の一文。implanted into（〜に埋め込まれた）。respond as it should（期待どおり作動した）。"
+    },
+    {
+      "text": "The new maternity hospital and cancer treatment centre were originally meant to open in 2020.",
+      "grammar_ja": "be meant to（〜する予定だった）。originally は「当初は」。"
+    },
+    {
+      "text": "A third of the weight loss from obesity jabs can come from muscle, say experts.",
+      "grammar_ja": "語順倒置（say experts＝専門家によると）。A third of（3分の1）。come from は「〜から生じる」。"
+    },
+    {
+      "text": "Dorset's Distinguished Gentleman's Ride raised more for charity than any other in Europe.",
+      "grammar_ja": "比較級 more than any other（他のどれよりも多く）。raise money for charity。"
+    },
+    {
+      "text": "A warning comes as figures reveal hospital admissions for underage alcohol and drug use in Guernsey.",
+      "grammar_ja": "comes as は「〜という状況で出る」。figures reveal（統計が明らかにする）。underage は「未成年の」。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "unregulated",
+      "pronunciation": "/ʌnˈreɡjuleɪtɪd/",
+      "meaning_ja": "規制されていない、無規制の",
+      "example": "the unregulated baby sleep industry"
+    },
+    {
+      "word": "in the wake of",
+      "pronunciation": "/ɪn ðə weɪk əv/",
+      "meaning_ja": "〜を受けて、〜の余波で",
+      "example": "in the wake of a BBC investigation"
+    },
+    {
+      "word": "charlatan",
+      "pronunciation": "/ˈʃɑːlətən/",
+      "meaning_ja": "詐欺師、いかさま師",
+      "example": "these charlatans that are putting out bogus sleep advice"
+    },
+    {
+      "word": "bogus",
+      "pronunciation": "/ˈbəʊɡəs/",
+      "meaning_ja": "偽の、でたらめの",
+      "example": "bogus sleep advice on social media"
+    },
+    {
+      "word": "hold to account",
+      "pronunciation": "/həʊld tu əˈkaʊnt/",
+      "meaning_ja": "責任を問う、説明責任を果たさせる",
+      "example": "charlatans ... are held to account"
+    },
+    {
+      "word": "mandatory",
+      "pronunciation": "/ˈmændətəri/",
+      "meaning_ja": "義務的な、強制の",
+      "example": "mandatory safeguarding and qualification standards"
+    },
+    {
+      "word": "sleep-deprived",
+      "pronunciation": "/sliːp dɪˈpraɪvd/",
+      "meaning_ja": "睡眠不足の",
+      "example": "vulnerable sleep-deprived parents"
+    },
+    {
+      "word": "capitalise on",
+      "pronunciation": "/ˈkæpɪtəlaɪz ɒn/",
+      "meaning_ja": "〜を利用して利益を得る（弱みにつけ込む）",
+      "example": "capitalise on women's vulnerability"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-passive",
+      "title": "Reporting with passive (was told / was revealed)",
+      "rule": "News writing often uses passive voice to report information without focusing on who said it: 'X was told', 'it was revealed'.",
+      "example": "a parliament debate was told last night",
+      "meaning_ja": "報道では「〜と伝えられた」「〜が明らかになった」のように受動態を使い、情報源より内容を前面に出す。"
+    },
+    {
+      "id": "call-for-urge",
+      "title": "call for / urge + action",
+      "rule": "Both mean to publicly request something, often followed by nouns or 'to' + verb.",
+      "example": "MPs are urging the government to set out a timeline",
+      "meaning_ja": "call for と urge は「〜を求める」という政治・報道で頻出の表現。urge は to 不定詞、call for は名詞句が続くことが多い。"
+    },
+    {
+      "id": "reduced-relative",
+      "title": "Reduced relative clauses (-ing / -ed)",
+      "rule": "Relative clauses can be shortened: 'people who work' → 'people working'; 'advice that is backed' → 'advice backed by'.",
+      "example": "everyone providing paid support to families",
+      "meaning_ja": "関係代名詞＋be動詞を省略し、現在分詞・過去分詞で名詞を後ろから修飾する形。ニュースで非常に多い。"
+    },
+    {
+      "id": "make-compulsory",
+      "title": "make + object + adjective",
+      "rule": "Use 'make' + noun + adjective to show that something is required or caused to become a certain way.",
+      "example": "legislation to make training and background checks compulsory",
+      "meaning_ja": "make + 目的語 + 形容詞で「〜を…にする」。ここでは訓練と身元調査を義務化する、という意味。"
+    }
+  ]
+}

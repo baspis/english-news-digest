@@ -1,0 +1,121 @@
+{
+  "summary_ja": "名古屋市中区の横断歩道で、21歳の角田圭容疑者が車で29歳の村田茜さんをはね、約200メートル引きずったまま逃走したとみられ、過失運転致死の疑いで逮捕された。村田さんは搬送後、約2時間半で死亡した。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "記事本文ではなく、サイトの計測用に埋め込まれたHTMLタグです。英語学習の対象文ではありません。"
+    },
+    {
+      "text": "Man arrested over hit-and-run death of 29-year-old woman in Nagoya",
+      "grammar_ja": "見出しは現在形の受動態（Man arrested）で、over + 事件内容（hit-and-run death）という犯罪報道の定型表現です。"
+    },
+    {
+      "text": "Police in Nagoya, Aichi Prefecture, have arrested a 21-year-old man on suspicion of negligent driving resulting in death in a hit-and-run incident.",
+      "grammar_ja": "have arrested は完了形で「すでに逮捕した」ニュースの定番表現。on suspicion of は「〜の疑いで」。resulting in death は現在分詞句で結果を付加します。"
+    },
+    {
+      "text": "According to police, Kei Tsunoda, a 21-year-old company employee from Oharu town in Aichi Prefecture, is accused of hitting Akane Murata on a pedestrian crossing in Nagoya’s Naka Ward at around 1:30 a.m.",
+      "grammar_ja": "According to police で情報源を示す。同格の名詞句（a 21-year-old company employee...）が人名を説明。be accused of + -ing は「〜した疑いがある」。at around はおおよその時刻。"
+    },
+    {
+      "text": "Sunday, Tokai TV reported.",
+      "grammar_ja": "倒置された短い付加句で、前の文の時刻情報を補足。報道ソース（Tokai TV reported）を示すニュース文体です。"
+    },
+    {
+      "text": "Police said Tsunoda was driving a van and hit Murata while he was making a right turn at an intersection.",
+      "grammar_ja": "Police said + 間接話法。while he was making は過去進行形で、はねた瞬間の進行中の動作（右折中）を表します。"
+    },
+    {
+      "text": "Murata was found lying approximately 200 meters away, and police believe she was dragged along by the van which kept going.",
+      "grammar_ja": "was found lying は「〜した状態で見つかった」。dragged along by は受動態。which kept going は関係代名詞whichが先行詞the vanを修飾。"
+    },
+    {
+      "text": "She was taken to hospital where she died about 2 1/2 hours later.",
+      "grammar_ja": "where は場所の関係副詞（病院で）。about 2 1/2 hours later で「約2時間半後に」という時間経過を示します。"
+    },
+    {
+      "text": "Tsunoda returned to the scene and was arrested by police after his vehicle was identified from street surveillance camera footage.",
+      "grammar_ja": "returned to the scene は「現場に戻った」。after + 過去形節で時系列。was identified from ... footage は「〜の映像から特定された」という受動表現。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "hit-and-run",
+      "pronunciation": "/ˌhɪt ən ˈrʌn/",
+      "meaning_ja": "ひき逃げ（の）",
+      "example": "a hit-and-run incident"
+    },
+    {
+      "word": "negligent driving",
+      "pronunciation": "/ˈneɡlɪdʒənt ˈdraɪvɪŋ/",
+      "meaning_ja": "過失運転",
+      "example": "on suspicion of negligent driving resulting in death"
+    },
+    {
+      "word": "pedestrian crossing",
+      "pronunciation": "/pəˈdestriən ˈkrɒsɪŋ/",
+      "meaning_ja": "横断歩道",
+      "example": "hitting Akane Murata on a pedestrian crossing"
+    },
+    {
+      "word": "intersection",
+      "pronunciation": "/ˌɪntəˈsekʃn/",
+      "meaning_ja": "交差点",
+      "example": "making a right turn at an intersection"
+    },
+    {
+      "word": "drag along",
+      "pronunciation": "/dræɡ əˈlɒŋ/",
+      "meaning_ja": "引きずる",
+      "example": "she was dragged along by the van"
+    },
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃn əv/",
+      "meaning_ja": "〜の疑いで",
+      "example": "arrested on suspicion of negligent driving"
+    },
+    {
+      "word": "surveillance camera footage",
+      "pronunciation": "/səˈveɪləns ˈkæmərə ˈfʊtɪdʒ/",
+      "meaning_ja": "監視カメラの映像",
+      "example": "identified from street surveillance camera footage"
+    },
+    {
+      "word": "resulting in",
+      "pronunciation": "/rɪˈzʌltɪŋ ɪn/",
+      "meaning_ja": "〜という結果になる",
+      "example": "negligent driving resulting in death"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-headlines",
+      "title": "Passive voice in crime headlines",
+      "rule": "Headlines often use passive voice without auxiliaries: Subject + past participle (+ optional agent phrase with by).",
+      "example": "Man arrested over hit-and-run death",
+      "meaning_ja": "犯罪ニュースの見出しでは、誰が逮捕したかより事件そのものを前面に出すため、受動態の短い形がよく使われます。"
+    },
+    {
+      "id": "on-suspicion-of",
+      "title": "on suspicion of + noun/-ing",
+      "rule": "Use 'on suspicion of' to state the alleged offense when reporting an arrest.",
+      "example": "arrested a 21-year-old man on suspicion of negligent driving",
+      "meaning_ja": "逮捕報道で「〜の疑いで」という公式な言い方をする定型表現です。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "According to + source",
+      "rule": "Place 'According to [authority/media]' at the start of a sentence to attribute information.",
+      "example": "According to police, Kei Tsunoda ... is accused of hitting Akane Murata",
+      "meaning_ja": "情報の出所（警察・当局・メディア）を明示するニュース英語の基本パターンです。"
+    },
+    {
+      "id": "while-past-continuous",
+      "title": "while + past continuous",
+      "rule": "Use 'while + was/were + -ing' to show one action was in progress when another happened.",
+      "example": "hit Murata while he was making a right turn",
+      "meaning_ja": "ある動作の最中に別の出来事が起きたことを、背景動作を過去進行形で表します。"
+    }
+  ]
+}

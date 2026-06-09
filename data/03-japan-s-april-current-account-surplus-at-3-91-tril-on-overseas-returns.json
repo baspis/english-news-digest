@@ -1,0 +1,129 @@
+{
+  "summary_ja": "日本の4月経常収支は、海外投資の収益と輸出増により3兆9100億円の黒字となった。前年比64.9%増で、金融機関や商社の海外投資収益が拡大した。中東向け輸出入の大幅減少も見られたが、中東情勢が全体に与えた影響は断定しにくいと財務省は述べた。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "ウェブページに埋め込まれたHTMLタグ。本文ではなく、Google Tag Manager用の非表示フレーム。ニュース本文の英語学習対象ではない。"
+    },
+    {
+      "text": "Japan's April current account surplus at ¥3.91 tril on overseas returns",
+      "grammar_ja": "見出し体。動詞を省略した名詞句（posted/was などが省略）。'at ¥3.91 tril' で金額、'on overseas returns' で原因・背景を示す前置詞句。"
+    },
+    {
+      "text": "Today05:45 am JSTToday | 06:45 am JST",
+      "grammar_ja": "掲載日時のメタ情報。'JST' は日本標準時。本文の文法構造ではなく、サイトの更新時刻表示。"
+    },
+    {
+      "text": "Japan posted a current account surplus of 3.91 trillion yen ($24.4 billion) in April, thanks to returns from robust overseas investments and rises in exports, the Finance Ministry said Monday.",
+      "grammar_ja": "過去形 posted。'thanks to + 名詞' で原因。文末の 'the Finance Ministry said Monday' は倒置された間接話法（報道文体）。"
+    },
+    {
+      "text": "The surplus surged 64.9 percent from a year earlier as increases in returns on foreign investments by Japanese financial institutions and trading houses expanded, the Finance Ministry said in a preliminary report.",
+      "grammar_ja": "'surged ... from a year earlier' で前年比増加。'as' は理由・背景の従属節。'returns on foreign investments' は前置詞 on のコロケーション。"
+    },
+    {
+      "text": "A ministry official said the April data reflected falls in Japan's exports to the Middle East and imports from the region, both shedding over 55 percent year over year, as well as a 20 percent decline in the number of travelers from the area.",
+      "grammar_ja": "'reflected falls in ...' で「〜の減少を反映した」。'both shedding ...' は分詞構文で両方の減少を補足。'year over year' は前年同期比の定型表現。"
+    },
+    {
+      "text": "But it is hard to say how the Middle East conflict, stemming from the launch of U.S.-Israeli attacks on Iran in late February, impacted the overall figure, the official said.",
+      "grammar_ja": "'it is hard to say how ...' の形式主語 it 構文。'stemming from ...' は現在分詞で原因を挿入。'impacted' は影響を与えた（過去形）。"
+    },
+    {
+      "text": "Primary income, which reflects how much Japan earned from overseas investments, rose 15.3 percent from a year earlier to 4.21 trillion yen, it said.",
+      "grammar_ja": "非制限用法の関係代名詞 which。'rose ... to ...' で増加後の水準を示す。'it said' は前出の財務省・当局を受ける報道の受け身的主語。"
+    },
+    {
+      "text": "Among other key components, the goods trade balance swung to black with a surplus of 395.7 billion yen compared to a deficit of 700 million yen the previous year.",
+      "grammar_ja": "'swung to black' は貿易黒字化の慣用表現（red→black）。'compared to' で前年との対比。'the previous year' は前年。"
+    },
+    {
+      "text": "Exports expanded 13.9 percent to 10.11 trillion yen and imports rose 9.5 percent to 9.71 trillion yen.",
+      "grammar_ja": "並列構文。'expanded/r rose ... percent to ...' で伸び率と到達額を同時に示す経済ニュースの典型パターン。"
+    },
+    {
+      "text": "The current account balance is one of the widest gauges of international trade.",
+      "grammar_ja": "現在形で一般的事実を述べる。'one of the widest gauges' は最上級を含む one of 構文。背景説明の締めくくり文。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "current account surplus",
+      "pronunciation": "/ˈkʌrənt əˈkaʊnt ˈsɜːpləs/",
+      "meaning_ja": "経常収支の黒字",
+      "example": "Japan posted a current account surplus of 3.91 trillion yen."
+    },
+    {
+      "word": "year over year",
+      "pronunciation": "/jɪr ˈoʊvər jɪr/",
+      "meaning_ja": "前年同期比で",
+      "example": "both shedding over 55 percent year over year"
+    },
+    {
+      "word": "primary income",
+      "pronunciation": "/ˈpraɪməri ˈɪnkʌm/",
+      "meaning_ja": "第一次所得（海外投資などからの収益）",
+      "example": "Primary income rose 15.3 percent from a year earlier."
+    },
+    {
+      "word": "goods trade balance",
+      "pronunciation": "/ɡʊdz treɪd ˈbæləns/",
+      "meaning_ja": "貿易収支（物品貿易の収支）",
+      "example": "the goods trade balance swung to black with a surplus"
+    },
+    {
+      "word": "swing to black",
+      "pronunciation": "/swɪŋ tu blæk/",
+      "meaning_ja": "黒字に転じる",
+      "example": "the goods trade balance swung to black"
+    },
+    {
+      "word": "trading house",
+      "pronunciation": "/ˈtreɪdɪŋ haʊs/",
+      "meaning_ja": "総合商社",
+      "example": "returns on foreign investments by Japanese financial institutions and trading houses"
+    },
+    {
+      "word": "preliminary report",
+      "pronunciation": "/prɪˈlɪmɪnəri rɪˈpɔːrt/",
+      "meaning_ja": "速報値・暫定報告",
+      "example": "the Finance Ministry said in a preliminary report"
+    },
+    {
+      "word": "stem from",
+      "pronunciation": "/stem frʌm/",
+      "meaning_ja": "〜に由来する、〜が原因である",
+      "example": "the Middle East conflict, stemming from the launch of U.S.-Israeli attacks"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "inverted-attribution",
+      "title": "Inverted attribution (..., X said)",
+      "rule": "In news writing, the source is often placed at the end: main clause + comma + subject + reporting verb.",
+      "example": "Japan posted a current account surplus ..., the Finance Ministry said Monday.",
+      "meaning_ja": "報道文では主文の後ろに「〜が述べた」を置く倒置が多い。話者の主張と情報源を分けて、客観的に見せる文体。"
+    },
+    {
+      "id": "thanks-to-cause",
+      "title": "thanks to + noun (cause)",
+      "rule": "Use 'thanks to' before a noun phrase to show the reason for a positive result.",
+      "example": "...in April, thanks to returns from robust overseas investments and rises in exports.",
+      "meaning_ja": "良い結果の原因を示すとき 'thanks to + 名詞' を使う。because of より成果への寄与が強調される。"
+    },
+    {
+      "id": "percent-change-pattern",
+      "title": "Percent change + from ... to ...",
+      "rule": "Economic news often uses: verb + X% + from a year earlier + to [amount].",
+      "example": "Primary income rose 15.3 percent from a year earlier to 4.21 trillion yen.",
+      "meaning_ja": "経済ニュースでは「前年比◯%増し、◯円に達した」を一つの文型で表す。from a year earlier と to の組み合わせに注意。"
+    },
+    {
+      "id": "participial-clause",
+      "title": "Participial clause (V-ing / past participle)",
+      "rule": "Use -ing or past participle phrases to add background or cause without a new clause.",
+      "example": "the Middle East conflict, stemming from the launch of U.S.-Israeli attacks on Iran",
+      "meaning_ja": "分詞構文で補足情報を挿入できる。関係代名詞節より簡潔で、ニュースでは背景説明に頻出。"
+    }
+  ]
+}

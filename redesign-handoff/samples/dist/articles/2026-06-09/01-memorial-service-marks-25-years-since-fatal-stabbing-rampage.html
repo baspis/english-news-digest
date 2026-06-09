@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Memorial service marks 25 years since fatal stabbing rampage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f8f7f4;
+      --surface: #ffffff;
+      --ink: #1a1917;
+      --muted: #6b6560;
+      --line: #e8e4dc;
+      --accent: #b42318;
+      --accent-soft: #fdecea;
+      --world: #1a4d6d;
+      --world-soft: #e8f2f8;
+      --translation: #2c4a3e;
+      --grammar-bg: #f3f1ec;
+      --today: #fff8e6;
+      --today-ring: #d4a012;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: "Source Sans 3", system-ui, sans-serif;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { width: min(960px, calc(100% - 2rem)); margin: 0 auto; padding: 2rem 0 4rem; }
+    a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+    a:hover { color: #8a1c12; }
+    .topnav {
+      display: flex; flex-wrap: wrap; gap: 0.5rem 1rem;
+      margin-bottom: 1.25rem; font-size: 0.92rem; color: var(--muted);
+    }
+    .topnav a { color: var(--muted); text-decoration: none; }
+    .topnav a:hover { color: var(--accent); }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; }
+    h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.15; margin: 0 0 0.5rem; }
+    h2 { font-size: 1.35rem; margin: 0 0 1rem; }
+    h3 { font-size: 1.1rem; margin: 0; }
+    .meta { color: var(--muted); font-size: 0.88rem; }
+    .badge {
+      display: inline-block; padding: 0.2rem 0.55rem; border-radius: 6px;
+      font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em;
+      text-transform: uppercase; margin-bottom: 0.6rem;
+    }
+    .badge.japan { background: var(--accent-soft); color: var(--accent); }
+    .badge.world { background: var(--world-soft); color: var(--world); }
+    .summary-ja {
+      margin-top: 1rem; padding: 1rem 1.1rem;
+      background: var(--grammar-bg); border-radius: 8px;
+      border-left: 3px solid var(--accent); font-size: 0.98rem;
+    }
+    .sentence {
+      padding: 1.1rem 0; border-bottom: 1px solid var(--line);
+    }
+    .sentence:last-child { border-bottom: 0; }
+    .sentence .en {
+      margin: 0; font-size: 1.08rem; line-height: 1.55;
+      font-family: "Fraunces", Georgia, serif;
+    }
+    .translation-ja {
+      margin: 0.55rem 0 0; color: var(--translation);
+      font-size: 0.98rem; padding-left: 0.85rem;
+      border-left: 2px solid #c5d9ce;
+    }
+    .grammar-note {
+      margin-top: 0.65rem; padding: 0.75rem 0.9rem;
+      background: var(--grammar-bg); border-radius: 8px;
+      font-size: 0.9rem; color: #4a4640;
+    }
+    .grammar-note strong { color: var(--accent); font-weight: 600; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.75rem; }
+    .vocab-card, .grammar-card {
+      border: 1px solid var(--line); border-radius: 10px;
+      padding: 1rem; background: var(--surface);
+    }
+    .vocab-head { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .speak-btn {
+      border: 1px solid var(--line); background: var(--bg);
+      border-radius: 50%; width: 2rem; height: 2rem;
+      cursor: pointer; font-size: 0.85rem; line-height: 1;
+      display: inline-flex; align-items: center; justify-content: center;
+    }
+    .speak-btn:hover { background: var(--accent-soft); border-color: var(--accent); }
+    .pron { color: var(--muted); font-size: 0.85rem; margin: 0.25rem 0 0.5rem; }
+    .example-en { margin: 0.5rem 0 0.2rem; font-size: 0.92rem; color: #3a3632; }
+    .example-ja { margin: 0; font-size: 0.88rem; color: var(--muted); }
+    .card-list article {
+      padding: 1.1rem 0; border-bottom: 1px solid var(--line);
+    }
+    .card-list article:last-child { border-bottom: 0; }
+    .card-list h3 { font-size: 1.15rem; line-height: 1.3; margin: 0.3rem 0; }
+    .card-list h3 a { color: inherit; text-decoration: none; }
+    .card-list h3 a:hover { color: var(--accent); }
+    .card-links { font-size: 0.85rem; margin-top: 0.4rem; }
+    .card-links a { margin-right: 0.8rem; }
+    .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    @media (max-width: 720px) { .columns { grid-template-columns: 1fr; } }
+    footer { color: var(--muted); text-align: center; font-size: 0.85rem; margin-top: 1.5rem; }
+    /* Calendar */
+    .cal-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
+    .cal-header h2 { margin: 0; }
+    .cal-grid {
+      display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px;
+    }
+    .cal-dow {
+      text-align: center; font-size: 0.75rem; font-weight: 600;
+      color: var(--muted); padding: 0.4rem 0; text-transform: uppercase;
+    }
+    .cal-cell {
+      aspect-ratio: 1; display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      border-radius: 8px; font-size: 0.95rem; position: relative;
+      color: var(--muted);
+    }
+    .cal-cell.empty { visibility: hidden; }
+    .cal-cell.has-edition {
+      background: var(--surface); border: 1px solid var(--line);
+      color: var(--ink); font-weight: 600; cursor: pointer;
+      text-decoration: none;
+    }
+    .cal-cell.has-edition:hover { border-color: var(--accent); background: var(--accent-soft); }
+    .cal-cell.today { box-shadow: inset 0 0 0 2px var(--today-ring); background: var(--today); }
+    .cal-count {
+      font-size: 0.65rem; font-weight: 500; color: var(--accent);
+      margin-top: 2px;
+    }
+    .lede { color: var(--muted); max-width: 52ch; margin: 0.5rem 0 0; }
+    .chunk-table { width: 100%; border-collapse: collapse; margin: 0.75rem 0; font-size: 0.9rem; }
+    .chunk-table th, .chunk-table td {
+      border: 1px solid var(--line); padding: 0.55rem 0.65rem;
+      text-align: left; vertical-align: top;
+    }
+    .chunk-table th { background: var(--grammar-bg); font-weight: 600; font-size: 0.8rem; color: var(--muted); }
+    .chunk-table .chunk-en { font-family: "Fraunces", Georgia, serif; font-weight: 500; white-space: nowrap; }
+    .chunk-table .chunk-role { color: var(--accent); font-weight: 600; font-size: 0.82rem; white-space: nowrap; }
+    .deep-dive {
+      margin-top: 0.65rem; padding: 0.85rem 1rem; border-radius: 8px;
+      background: #eef3f8; border-left: 3px solid var(--world); font-size: 0.9rem;
+    }
+    .deep-dive strong { color: var(--world); }
+    .mode-badge {
+      display: inline-block; margin-left: 0.5rem; padding: 0.15rem 0.5rem;
+      border-radius: 6px; background: #eef3f8; color: var(--world);
+      font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; vertical-align: middle;
+    }
+    </style>
+</head>
+<body>
+  <div class="wrap">
+    
+    <nav class="topnav">
+      <a href="../../index.html">カレンダー</a>
+      <a href="../../days/2026-06-09.html">2026-06-09</a>
+      <a href="https://japantoday.com/category/crime/Memorial-service-marks-25-years-since-fatal-stabbing-rampage" target="_blank" rel="noopener">元記事 ↗</a>
+    </nav>
+    <header class="panel">
+      <span class="badge japan">japan</span>
+      <h1>Memorial service marks 25 years since fatal stabbing rampage</h1>
+      <div class="meta">Japan Today Crime · 2026-06-09 08:05</div>
+      <div class="summary-ja">大阪府池田市の小学校で25年前に起きた刺殺事件を悼む追悼式が日曜日に行われた。遺族や在校生など約760人が犠牲者の冥福を祈り、8人の名前が刻まれた鐘が鳴らされた。事件を受けて学校の安全対策が強化された一方、犯人は死刑が執行された。</div>
+    </header>
+
+    <section class="panel">
+      <h2>文ごとの解説</h2>
+      
+            <div class="sentence" id="s1">
+              <p class="en">A memorial service was held Sunday to mark the 25th anniversary of a stabbing rampage at an elementary school in Ikeda, Osaka Prefecture, that left eight children dead.</p>
+              
+              <p class="translation-ja">大阪府池田市の小学校で起きた刺殺の狂乱行為から25年を迎え、日曜日に追悼式が行われた。</p>
+              <div class="grammar-note"><strong>文法:</strong> was held は受動態でニュースの定番表現。to mark ... anniversary は「～周年を記念して」。関係代名詞 that は先行詞 stabbing rampage を修飾し、left eight children dead は「8人の子どもが死亡した結果になった」という結果を表す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s2">
+              <p class="en">A memorial service was held at Ikeda Elementary School in the morning, with about 760 bereaved family members, current students, and faculty members praying for the souls of the victims at the time of the incident.</p>
+              
+              <p class="translation-ja">午前中、池田小学校で追悼式が開かれ、遺族や在校生、教職員など約760人が、当時の犠牲者の冥福を祈った。</p>
+              <div class="grammar-note"><strong>文法:</strong> with + 名詞 + -ing は「～が…しながら」という付帯状況を表す。bereaved family members は「遺族」。at the time of the incident は事件当時の状況を指す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s3">
+              <p class="en">The eight bells in a small monument, on which the names of the eight children who died are engraved, were rung, and everyone observed a moment of silence.</p>
+              
+              <p class="translation-ja">亡くなった8人の子どもの名前が刻まれた小さな記念碑の8つの鐘が鳴らされ、全員が黙祷を捧げた。</p>
+              <div class="grammar-note"><strong>文法:</strong> on which ... は関係代名詞の前置詞句で monument を修飾。who died は children を限定。were rung と observed は並列の受動態・能動態。observe a moment of silence は「黙祷を捧げる」の決まり文句。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s4">
+              <p class="en">The eight -- seven girls in second grade and a boy in first grade -- were fatally stabbed, while 15 others, including two teachers, were injured on June 8, 2001, by Mamoru Takuma.</p>
+              
+              <p class="translation-ja">8人――2年生の女子7人と1年生の男子1人――は刺殺されて死亡し、教師2人を含む他15人が2001年6月8日に田無守（たくま・まもる）によって負傷した。</p>
+              <div class="grammar-note"><strong>文法:</strong> ダッシュ内は同格の補足説明。while は対比の「一方で」。fatally stabbed は「刺されて死亡した」。including two teachers は15 others の内容を具体化する。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s5">
+              <p class="en">He was sentenced to death in 2003 and executed in September 2004.</p>
+              
+              <p class="translation-ja">彼は2003年に死刑を宣告され、2004年9月に執行された。</p>
+              <div class="grammar-note"><strong>文法:</strong> was sentenced to death と executed が and で並列。ニュースでは犯人を He と受動態で簡潔に述べるのが一般的。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s6">
+              <p class="en">At his trial, he said that he committed the crime because he wanted to be executed.</p>
+              
+              <p class="translation-ja">裁判では、彼は死刑になりたかったので犯行に及んだと供述した。</p>
+              <div class="grammar-note"><strong>文法:</strong> that 節は said の内容を伝える名詞節。because 節は理由。wanted to be executed は「死刑になりたかった」という意図を表す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s7">
+              <p class="en">Takuma entered through the school&#x27;s side gate, which had been left open.</p>
+              
+              <p class="translation-ja">田無は開け放たれていた学校の脇門から侵入した。</p>
+              <div class="grammar-note"><strong>文法:</strong> which had been left open は非限定用法で gate を補足。過去完了受動態 had been left は「（その時点まで）開け放たれたままだった」ことを示す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s8">
+              <p class="en">The incident shook the school&#x27;s &quot;myth of safety,&quot; prompting the strengthening of safety measures such as closing the school gates, installing security cameras, and patrolling during school hours.</p>
+              
+              <p class="translation-ja">この事件は学校の「安全神話」を揺るがし、校門の施錠、防犯カメラの設置、授業時間中のパトロールなど、安全対策の強化につながった。</p>
+              <div class="grammar-note"><strong>文法:</strong> prompting ... は主節の結果・付随事象を表す現在分詞構文。such as の後は closing, installing, patrolling と動名詞が並列。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s9">
+              <p class="en">Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.</p>
+              
+              <p class="translation-ja">日本橋のTWO ROOMS NIHOMBASHIで、ネットワーキングやSHENによるアロハ風ライブ、飲み放題とビュッフェを楽しめる忘れられない夜にご参加ください。</p>
+              <div class="grammar-note"><strong>文法:</strong> Join us for ... は広告の呼びかけ表現。aloha-inspired は複合形容詞で「アロハ風の」。free flowing は飲み放題を意味する広告英語。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s10">
+              <p class="en">July 2 (Thurs), 7pm to 9:30pm.</p>
+              
+              <p class="translation-ja">7月2日（木）午後7時から9時30分まで。</p>
+              <div class="grammar-note"><strong>文法:</strong> 見出し・広告文に多い名詞句のみの文。日時を簡潔に列挙するニュースサイト下部の告知スタイル。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s11">
+              <p class="en">Get your ticket now for a 50% Discount.</p>
+              
+              <p class="translation-ja">今すぐチケットを購入すれば50%割引。</p>
+              <div class="grammar-note"><strong>文法:</strong> 命令文の広告コピー。Get your ticket now は行動を促す定型表現。for a 50% Discount は割引条件を示す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s12">
+              <p class="en">Only 50 Early Bird Tickets Available.</p>
+              
+              <p class="translation-ja">早割チケットは50枚限定。</p>
+              <div class="grammar-note"><strong>文法:</strong> Only + 数量 + 名詞 + Available は「～のみ残っている／限定」の広告表現。Early Bird Tickets は「早割・先行割引チケット」。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s13">
+              <p class="en">Use your Facebook account to login or register with JapanToday.</p>
+              
+              <p class="translation-ja">FacebookアカウントでJapanTodayにログインまたは登録してください。</p>
+              <div class="grammar-note"><strong>文法:</strong> Use ... to login or register はサイト案内の命令文。with JapanToday は登録先・利用先を示す。</div>
+              
+            </div>
+            
+            <div class="sentence" id="s14">
+              <p class="en">By doing so, you will also receive an email inviting you to receive our news alerts.</p>
+              
+              <p class="translation-ja">そうすることで、ニュース速報の受け取りを案内するメールも届きます。</p>
+              <div class="grammar-note"><strong>文法:</strong> By doing so は前文の行為を受ける。inviting you to receive は email を後置修飾する分詞句。you will receive は将来の結果を述べる。</div>
+              
+            </div>
+            
+    </section>
+
+    <section class="panel">
+      <h2>Vocabulary</h2>
+      <div class="grid">
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>memorial service</h3>
+                <button type="button" class="speak-btn" data-word="memorial service"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/məˈmɔːriəl ˈsɜːrvɪs/</div>
+              <p>追悼式、慰霊の儀式</p>
+              <p class="example-en"><em>A memorial service was held Sunday.</em></p>
+              <p class="example-ja">日曜日に追悼式が行われた。</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>stabbing rampage</h3>
+                <button type="button" class="speak-btn" data-word="stabbing rampage"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/ˈstæbɪŋ ˈræmpeɪdʒ/</div>
+              <p>刺殺の狂乱行為、刃物による大量殺傷</p>
+              <p class="example-en"><em>a stabbing rampage at an elementary school</em></p>
+              <p class="example-ja">小学校での刺殺の狂乱行為</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>bereaved</h3>
+                <button type="button" class="speak-btn" data-word="bereaved"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/bɪˈriːvd/</div>
+              <p>（親族などを）失った、遺族の</p>
+              <p class="example-en"><em>bereaved family members</em></p>
+              <p class="example-ja">遺族</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>observe a moment of silence</h3>
+                <button type="button" class="speak-btn" data-word="observe a moment of silence"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/əbˈzɜːrv ə ˈmoʊmənt əv ˈsaɪləns/</div>
+              <p>黙祷を捧げる</p>
+              <p class="example-en"><em>everyone observed a moment of silence</em></p>
+              <p class="example-ja">全員が黙祷を捧げた</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>fatally stabbed</h3>
+                <button type="button" class="speak-btn" data-word="fatally stabbed"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/ˈfeɪtəli stæbd/</div>
+              <p>刺殺されて死亡した</p>
+              <p class="example-en"><em>The eight were fatally stabbed.</em></p>
+              <p class="example-ja">8人は刺殺されて死亡した。</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>sentence to death</h3>
+                <button type="button" class="speak-btn" data-word="sentence to death"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/ˈsentəns tə deθ/</div>
+              <p>死刑を宣告する</p>
+              <p class="example-en"><em>He was sentenced to death in 2003.</em></p>
+              <p class="example-ja">彼は2003年に死刑を宣告された。</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>prompt</h3>
+                <button type="button" class="speak-btn" data-word="prompt"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/prɒmpt/</div>
+              <p>～を促す、～につながる</p>
+              <p class="example-en"><em>prompting the strengthening of safety measures</em></p>
+              <p class="example-ja">安全対策の強化につながった</p>
+            </div>
+            
+            <div class="vocab-card">
+              <div class="vocab-head">
+                <h3>myth of safety</h3>
+                <button type="button" class="speak-btn" data-word="myth of safety"
+                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+              </div>
+              <div class="pron">/mɪθ əv ˈseɪfti/</div>
+              <p>安全神話（絶対に安全だという思い込み）</p>
+              <p class="example-en"><em>the school&#x27;s &quot;myth of safety&quot;</em></p>
+              <p class="example-ja">学校の「安全神話」</p>
+            </div>
+            </div>
+    </section>
+
+    <section class="panel">
+      <h2>Grammar focus</h2>
+      <div class="grid">
+            <div class="grammar-card">
+              <h3>Passive voice in news reporting</h3>
+              <p>Events are often reported with passive verbs (was held, were injured) to focus on what happened rather than who did it.</p>
+              <p class="example-en"><em>A memorial service was held Sunday.</em></p>
+              <p>ニュースでは受動態を使い、出来事そのものに焦点を当てる。誰が行ったかより「何が起きたか」を前面に出す書き方。</p>
+            </div>
+            
+            <div class="grammar-card">
+              <h3>With + noun + -ing (absolute construction)</h3>
+              <p>With + noun + present participle adds background detail about simultaneous actions or circumstances.</p>
+              <p class="example-en"><em>with about 760 bereaved family members praying for the souls of the victims</em></p>
+              <p>「～が…しながら／～という状況で」という付帯状況を簡潔に添える構文。主節の動作と同時に起きた背景を説明する。</p>
+            </div>
+            
+            <div class="grammar-card">
+              <h3>Defining and non-defining relative clauses</h3>
+              <p>That/which/who clauses add essential or extra information about a noun; preposition + which is formal and common in news.</p>
+              <p class="example-en"><em>on which the names of the eight children who died are engraved</em></p>
+              <p>関係代名詞節で名詞を詳しく説明する。前置詞＋which はフォーマルなニュース文体でよく使われる。</p>
+            </div>
+            
+            <div class="grammar-card">
+              <h3>Present participle for result (prompting ...)</h3>
+              <p>A present participle phrase after a main clause can show a result or consequence of the main action.</p>
+              <p class="example-en"><em>The incident shook the school&#x27;s &quot;myth of safety,&quot; prompting the strengthening of safety measures.</em></p>
+              <p>主節の後に現在分詞句を置き、その結果・付随的な影響を述べる。because 節より簡潔で、ニュース記事でよく見る。</p>
+            </div>
+            </div>
+    </section>
+
+    <footer>English News Learning · 2026-06-09</footer>
+    
+  </div>
+  <script>
+    function speakWord(btn) {
+      const word = btn.dataset.word;
+      if (!word || !window.speechSynthesis) return;
+      const u = new SpeechSynthesisUtterance(word);
+      u.lang = 'en-US';
+      u.rate = 0.9;
+      speechSynthesis.cancel();
+      speechSynthesis.speak(u);
+    }
+    </script>
+</body>
+</html>

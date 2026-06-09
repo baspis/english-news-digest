@@ -1,0 +1,159 @@
+{
+  "summary_ja": "任天堂は月曜日、スイッチのコントローラー不具合をめぐるフランス側の申し立てを解決するため、3500万ユーロ（約4000万ドル）の罰金を支払うと発表した。フランスの消費者団体は2020年、「計画的陳腐化」を理由に提訴し、ジョイコン・ドリフトなどの問題に対し任天堂が十分に消費者へ情報提供しなかったと当局が認定した。任天堂は2023年、保証期間外でも無償で修理・交換すると約束している。",
+  "sentences": [
+    {
+      "text": "Nintendo said Monday that it would pay a fine of 35 million euros ($40 million) to settle a French claim over faulty controllers on its Switch consoles.",
+      "translation_ja": "任天堂は月曜日、スイッチ本体の不具合コントローラーをめぐるフランス側の申し立てを解決するため、3500万ユーロ（約4000万ドル）の罰金を支払うと発表した。",
+      "grammar_ja": "said that + 過去形 would は「当時発表された将来の意思・予定」を表す報道文体。settle a claim は「申し立て・訴訟を解決する」のコロケーション。over は「〜に関して」の意味。"
+    },
+    {
+      "text": "A French consumer advocacy group filed the claim alleging \"planned obsolescence\" in 2020, saying the Japanese giant knew some controllers were failing too quickly.",
+      "translation_ja": "フランスの消費者擁護団体が2020年、「計画的陳腐化」を理由に申し立てを起こし、日本の大手企業が一部のコントローラーが早すぎる時期に故障することを知っていたと主張した。",
+      "grammar_ja": "filed the claim alleging... は分詞構文で理由・内容を付加。advocacy group は「擁護・代弁する団体」。the Japanese giant は任天堂を指す比喩的呼び方。were failing は当時進行中の故障傾向。"
+    },
+    {
+      "text": "It noted thousands of complaints by customers about \"Joy-Con drift\", with toggles stuck in one direction on the original version of the Switch, even when users were not touching them.",
+      "translation_ja": "同団体は、ユーザーが触れていないのにスティックが一方向に固定されたままになる「ジョイコン・ドリフト」について、顧客から数千件の苦情が寄せられていたと指摘した。",
+      "grammar_ja": "It は前の consumer advocacy group を受ける。with + 名詞 + 過去分詞（with toggles stuck...）で付帯状況を描写。even when は「〜でさえあるのに」の譲歩。"
+    },
+    {
+      "text": "France's consumer protection agency, DGCCRF, determined that Nintendo Europe had not sufficiently informed consumers of the recurring problem despite the console being sold for years since its 2017 launch.",
+      "translation_ja": "フランスの消費者保護当局DGCCRFは、2017年の発売以来何年も販売されていたにもかかわらず、任天堂ヨーロッパが繰り返し起きる問題について消費者に十分な情報を提供していなかったと判断した。",
+      "grammar_ja": "determined that + 過去完了 had not informed。despite + 名詞/動名詞（the console being sold）で「〜にもかかわらず」。recurring problem は「再発する・繰り返す問題」。"
+    },
+    {
+      "text": "Its report said Nintendo had \"commented only in 2020, and not as soon as it was aware of the malfunctions\", the Commerce Ministry and the court in Nanterre, outside Paris, said in a statement.",
+      "translation_ja": "商務省とパリ郊外ナンテールの裁判所が発表した声明によると、報告書は任天堂が「不具合を認識してすぐにはなく、2020年になって初めてコメントした」と述べている。",
+      "grammar_ja": "報道文の典型的な倒置：主語（the Commerce Ministry...）が文末。as soon as it was aware of は「認識した直後に（そうしなかった）」の含意。outside Paris は「パリ郊外の」。"
+    },
+    {
+      "text": "It added that Nintendo's statements on the problem were \"patchy\", and as a result many customers simply bought new controllers, instead of pursuing a free fix or replacement via customer service.",
+      "translation_ja": "声明はさらに、任天堂の問題に関する説明は「断片的」だったため、多くの顧客がカスタマーサービスを通じた無償修理や交換を求めず、単に新しいコントローラーを購入しただけだったと付け加えた。",
+      "grammar_ja": "as a result で結果を示す。instead of + 動名詞 pursuing は「〜する代わりに」。via customer service は「カスタマーサービス経由で」。patchy は「まばらで不十分な」。"
+    },
+    {
+      "text": "Nintendo promised in 2023 that it would repair or replace faulty controllers without cost, even if no longer covered by warranty.",
+      "translation_ja": "任天堂は2023年、保証期間を過ぎていても、不具合のあるコントローラーを無償で修理または交換すると約束した。",
+      "grammar_ja": "promised that it would は将来の約束を過去形で報道。even if + 省略された主語（they were）no longer covered by warranty。「保証対象外でも」の譲歩。"
+    },
+    {
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。アロハ風のライブ音楽（SHEN出演）、飲み放題とビュッフェをお楽しみください。",
+      "grammar_ja": "広告文の命令形 Join us。aloha-inspired はハイフン複合形容詞「アロハ風の」。free flowing drinks は「飲み放題のドリンク」。"
+    },
+    {
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）午後7時〜9時30分",
+      "grammar_ja": "イベント告知の省略文体。時刻表記 pm は午後。括弧内 (Thurs) は曜日の略記。"
+    },
+    {
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを購入して50%オフ。",
+      "grammar_ja": "広告の命令形 Get...。for a 50% discount は「50%割引で」。"
+    },
+    {
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早割チケットは残り50枚のみ。",
+      "grammar_ja": "見出し体で動詞・冠詞を省略（Tickets are available）。Early Bird は「早期購入割引」の慣用表現。"
+    },
+    {
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "grammar_ja": "Use ... to + 動詞原形 で目的を示す。login or register with はサイトへのログイン・登録のコロケーション。"
+    },
+    {
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の配信を受け取るよう案内するメールも届きます。",
+      "grammar_ja": "By doing so は「そのようにすることで」。inviting you to receive は分詞構文で email を修飾。news alerts は「ニュース速報・通知」。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "settle",
+      "pronunciation": "/ˈsetl/",
+      "meaning_ja": "（争い・申し立て・訴訟などを）解決する、和解する",
+      "example": "Nintendo agreed to pay a fine to settle a French claim.",
+      "example_ja": "任天堂はフランス側の申し立てを解決するため、罰金の支払いに同意した。"
+    },
+    {
+      "word": "faulty",
+      "pronunciation": "/ˈfɔːlti/",
+      "meaning_ja": "欠陥のある、不具合のある",
+      "example": "faulty controllers on its Switch consoles",
+      "example_ja": "スイッチ本体の不具合コントローラー"
+    },
+    {
+      "word": "planned obsolescence",
+      "pronunciation": "/plænd ɒbsəˈlesns/",
+      "meaning_ja": "計画的陳腐化（意図的に製品の寿命を短くする手法）",
+      "example": "The group alleged \"planned obsolescence\" in 2020.",
+      "example_ja": "同団体は2020年、「計画的陳腐化」を理由に申し立てた。"
+    },
+    {
+      "word": "advocacy group",
+      "pronunciation": "/ˈædvəkəsi ɡruːp/",
+      "meaning_ja": "擁護団体、消費者・権利擁護のための団体",
+      "example": "A French consumer advocacy group filed the claim.",
+      "example_ja": "フランスの消費者擁護団体が申し立てを起こした。"
+    },
+    {
+      "word": "recurring",
+      "pronunciation": "/rɪˈkɜːrɪŋ/",
+      "meaning_ja": "繰り返し起きる、再発する",
+      "example": "the recurring problem despite years of sales",
+      "example_ja": "何年も販売されていたにもかかわらず繰り返し起きる問題"
+    },
+    {
+      "word": "patchy",
+      "pronunciation": "/ˈpætʃi/",
+      "meaning_ja": "まばらな、断片的で不十分な",
+      "example": "Nintendo's statements on the problem were \"patchy\".",
+      "example_ja": "任天堂の問題に関する説明は「断片的」だった。"
+    },
+    {
+      "word": "warranty",
+      "pronunciation": "/ˈwɒrənti/",
+      "meaning_ja": "保証（期間）、メーカー保証",
+      "example": "even if no longer covered by warranty",
+      "example_ja": "保証期間を過ぎていても"
+    },
+    {
+      "word": "drift",
+      "pronunciation": "/drɪft/",
+      "meaning_ja": "（ここでは）意図せず入力がずれ続ける不具合（ジョイコン・ドリフト）",
+      "example": "thousands of complaints about \"Joy-Con drift\"",
+      "example_ja": "「ジョイコン・ドリフト」に関する数千件の苦情"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-that-would",
+      "title": "Reporting verbs + that-clause with would",
+      "rule": "In news, verbs like said/promised/agreed are followed by that + would to report a future action or commitment from the past perspective.",
+      "example": "Nintendo said Monday that it would pay a fine of 35 million euros.",
+      "meaning_ja": "報道では said/promised などの後に that + would を使い、発表時点から見た「その後の予定・約束」を伝える。would は単なる過去形ではなく、当時言及された将来の行動を表す。"
+    },
+    {
+      "id": "participle-clause",
+      "title": "Participial clauses (-ing / -ed) for extra information",
+      "rule": "Present or past participles can add reason, manner, or detail without starting a new sentence.",
+      "example": "filed the claim alleging \"planned obsolescence\", saying the Japanese giant knew...",
+      "meaning_ja": "現在分詞・過去分詞を使った分詞構文で、主節に理由・内容・付帯状況を簡潔に付け加える。ニュースでは情報を圧縮するために頻出。"
+    },
+    {
+      "id": "despite-gerund",
+      "title": "despite + noun/gerund phrase",
+      "rule": "despite introduces a contrast: something happened even though another fact might suggest the opposite. It is followed by a noun phrase or gerund, not a clause with a subject and verb.",
+      "example": "despite the console being sold for years since its 2017 launch",
+      "meaning_ja": "despite は「〜にもかかわらず」。名詞句や動名詞句が続き、although と違い主語＋動詞の節は直接つながらない。",
+      "example_ja": ""
+    },
+    {
+      "id": "instead-of-gerund",
+      "title": "instead of + gerund",
+      "rule": "instead of compares two actions and shows the choice that was (or was not) taken.",
+      "example": "bought new controllers, instead of pursuing a free fix or replacement",
+      "meaning_ja": "instead of + 動名詞で「〜する代わりに」という選択の対比を示す。本文では無償修理を求めず購入した、という消費者行動の対比に使われている。"
+    }
+  ]
+}

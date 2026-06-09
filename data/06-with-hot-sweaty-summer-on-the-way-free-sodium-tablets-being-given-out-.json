@@ -1,0 +1,169 @@
+{
+  "summary_ja": "渋谷区は猛暑対策の一環として、6月1日から区役所などで無料の塩分タブレット（エンバンチャージ）の配布を始めた。日本では汗でナトリウムが不足しやすく熱中症のリスクがあるため、区は「Good Sweat Shibuya Action」として熱中症予防を呼びかけている。区役所のほか、図書館や体育施設など計30か所で配布され、個包装のため持ち帰りも可能だ。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "ニュースサイトに埋め込まれたHTMLタグで、本文の英文ではない。分析対象外の技術要素。"
+    },
+    {
+      "text": "With hot sweaty summer on the way, free sodium tablets being given out in Shibuya",
+      "grammar_ja": "見出し文体。With + 名詞句で背景を示し、続けて名詞＋being given out（受動の進行）で「配布されている」と簡潔に伝える。"
+    },
+    {
+      "text": "By Casey Baseel, SoraNews24",
+      "grammar_ja": "記事の著者名と媒体名。By + 人名 は「執筆：〜」の定型表現。"
+    },
+    {
+      "text": "Shibuya is one of Tokyo’s most exciting neighborhoods.",
+      "grammar_ja": "one of + 最上級 + 複数名詞 で「〜の中でも最も〜の一つ」。所有格 ’s で東京に属する地域を示す。"
+    },
+    {
+      "text": "Between world-famous tourism landmarks like the statue of faithful dog Hachiko and the scramble intersection, plus shopping options from iconic stores like fashion mecca 109 and Nintendo Tokyo, there’s a lot to see and do in this part of own, and if you’re visiting this summer you might want to stop by the Shibuya Ward Office too and grab a little something to eat.",
+      "grammar_ja": "Between A and B, plus C で列挙し there’s a lot to see and do とまとめる長文。if you’re visiting は現在進行形で近い将来の訪問を表す。stop by（立ち寄る）＋ grab（手に取る）は口語的コロケーション。own は town の誤記と思われる。"
+    },
+    {
+      "text": "No, this isn’t another semi-secret ward office cafeteria we’re talking about.",
+      "grammar_ja": "No, ... isn’t ... we’re talking about で読者の誤解を否定。semi-secret（半ば秘密の）は複合形容詞。"
+    },
+    {
+      "text": "Instead, the Shibuya Ward Office started giving out free sodium tablets as of June 1.",
+      "grammar_ja": "Instead で前の誤解と対比。start + -ing で配布開始。as of June 1 は「6月1日時点から／以降」。"
+    },
+    {
+      "text": "Shibuya Ward’s goal isn’t to promote snacking, though.",
+      "grammar_ja": "goal isn’t to + 動詞原形 で目的の否定。文末の though は「とはいえ／ただし」と逆接を弱く示す。"
+    },
+    {
+      "text": "The complimentary salt tablets are part of Good Sweat Shibuya Action, a multi-faceted public awareness campaign aimed at dealing with the high heat and humidity that come with summer in Japan.",
+      "grammar_ja": "名詞の後ろにカンマ＋同格の説明（a ... campaign）。aimed at + -ing は「〜を目的とした」。that come with summer は関係代名詞節で「夏に伴う」暑さ・湿度を修飾。"
+    },
+    {
+      "text": "While it might not be as much of an issue in countries with higher salt intakes in their daily diets, in Japan profuse sweating leading to dangerously low levels of sodium in the body is a legitimate concern for many people, with supplements for replenishing sodium and other vital minerals lost during perspiration, such as Kabaya Foods Corporation’s Enbun Charge Tablets being sold in pharmacies and convenience stores.",
+      "grammar_ja": "While で国ごとの対比。profuse sweating leading to ... は分詞構文で結果を示す。with supplements ... being sold は付帯状況の with＋分詞。such as で具体例を挙げる。"
+    },
+    {
+      "text": "However, not everyone carries a supply of tablets on them, and as the effects of heat stroke can sneak up on people, Enbun Charge Tablets are now being offered free of charge at the Shibuya Ward Office.",
+      "grammar_ja": "However で話題転換。carry a supply on them は「常備する」。sneak up on は「気づかないうちに襲う」の慣用表現。free of charge は「無料で」。"
+    },
+    {
+      "text": "Anyone who wants one can simply grab a tablet from the box located in the second-floor atrium of the building.",
+      "grammar_ja": "Anyone who wants one は関係代名詞節。located in ... は過去分詞で場所を後置修飾。second-floor はハイフンで複合形容詞。"
+    },
+    {
+      "text": "▼ The Shibuya Ward Office is just one block away from the Shibuya Parco shopping center, which houses the Nintendo Tokyo and Shibuya Pokémon Center stores.",
+      "grammar_ja": "one block away from で距離表現。which houses ... は非制限用法の関係代名詞で施設の中身を補足。"
+    },
+    {
+      "text": "▼ A banner announcing the free Enbun Charge (塩分チャージ)",
+      "grammar_ja": "見出し・キャプションの断片。announcing ... は現在分詞が banner を後置修飾。"
+    },
+    {
+      "text": "Boxes of free sodium tablets will also be placed at 29 other locations in Shibuya Ward, primarily libraries, public gyms/sports facilities, medical centers, and government offices, tying into the ward’s initiative to promote “cool sharing spots,” climate-controlled common-use areas where a large number of people can cool off in a more aggregately energy-efficient manner than simultaneously running their own home air conditioning units.",
+      "grammar_ja": "will be placed で将来の配置。primarily で主な内訳を示す。tying into ... は分詞構文で施策のつながりを説明。where 節で spots の内容を定義。more ... than -ing で比較。"
+    },
+    {
+      "text": "As the tablets are individually wrapped, there’s no need to use them right away, so swinging by the ward office and grabbing one to keep on hand for later in the day is an option too.",
+      "grammar_ja": "As 節で理由。there’s no need to ... は「〜する必要はない」。動名詞句 swinging by ... が主語。keep on hand は「手持ちにしておく」。"
+    },
+    {
+      "text": "Source: Shibuya Keizai Shimbun, PR Times",
+      "grammar_ja": "出典表示。Source: + 媒体名・団体名 のニュース定型。"
+    },
+    {
+      "text": "Read more stories from SoraNews24.",
+      "grammar_ja": "サイト誘導の定型句。Read more + from で他記事へのリンクを促す。"
+    },
+    {
+      "text": "--Tokyo’s Shibuya ward sets up English information desk to help foreigners find nightlife options",
+      "grammar_ja": "関連記事リンク。set up は「設置する」。to help foreigners find ... は目的の不定詞。help + 人 + 動詞原形。"
+    },
+    {
+      "text": "--Is this Tokyo government office still one of the best places in the city for a curry rice lunch?",
+      "grammar_ja": "疑問文の見出し。one of the best places for ... で「〜に最適な場所の一つ」。"
+    },
+    {
+      "text": "--Tourists brave Typhoon Jangmi to queue at two famous sites in Tokyo",
+      "grammar_ja": "brave を動詞で「〜をものともせず／冒して」。to queue は目的の不定詞。「台風の中でも並んだ」というニュース見出しの簡潔な構文。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sodium tablet",
+      "pronunciation": "/ˈsoʊdiəm ˈtæblət/",
+      "meaning_ja": "ナトリウム（塩分）補給用のタブレット",
+      "example": "free sodium tablets being given out in Shibuya"
+    },
+    {
+      "word": "complimentary",
+      "pronunciation": "/ˌkɒmplɪˈmentri/",
+      "meaning_ja": "無料の、サービスの",
+      "example": "The complimentary salt tablets are part of Good Sweat Shibuya Action."
+    },
+    {
+      "word": "profuse sweating",
+      "pronunciation": "/prəˈfjuːs ˈswetɪŋ/",
+      "meaning_ja": "大量の発汗",
+      "example": "profuse sweating leading to dangerously low levels of sodium"
+    },
+    {
+      "word": "sneak up on",
+      "pronunciation": "/sniːk ʌp ɒn/",
+      "meaning_ja": "気づかないうちに襲いかかる",
+      "example": "the effects of heat stroke can sneak up on people"
+    },
+    {
+      "word": "free of charge",
+      "pronunciation": "/friː əv tʃɑːrdʒ/",
+      "meaning_ja": "無料で",
+      "example": "Enbun Charge Tablets are now being offered free of charge"
+    },
+    {
+      "word": "on hand",
+      "pronunciation": "/ɒn hænd/",
+      "meaning_ja": "手元に、常備して",
+      "example": "grabbing one to keep on hand for later in the day"
+    },
+    {
+      "word": "heat stroke",
+      "pronunciation": "/hiːt stroʊk/",
+      "meaning_ja": "熱中症",
+      "example": "the effects of heat stroke can sneak up on people"
+    },
+    {
+      "word": "public awareness campaign",
+      "pronunciation": "/ˈpʌblɪk əˈweənəs kæmˈpeɪn/",
+      "meaning_ja": "啓発・周知キャンペーン",
+      "example": "a multi-faceted public awareness campaign aimed at dealing with the high heat"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "with-participial-headline",
+      "title": "With + noun phrase (background)",
+      "rule": "Use \"With + noun phrase\" at the start of a sentence to set the scene or background.",
+      "example": "With hot sweaty summer on the way, free sodium tablets being given out in Shibuya",
+      "meaning_ja": "「〜が近づいているので／〜という状況で」と背景を示す。ニュース見出しでよく使われる。"
+    },
+    {
+      "id": "passive-progressive",
+      "title": "be + being + past participle",
+      "rule": "The passive progressive (am/is/are being + past participle) describes an ongoing action done to the subject.",
+      "example": "Enbun Charge Tablets are now being offered free of charge at the Shibuya Ward Office.",
+      "meaning_ja": "受け身の進行形で「（今）〜されている／提供されている」と、進行中の受動を表す。"
+    },
+    {
+      "id": "aimed-at-gerund",
+      "title": "aimed at + -ing",
+      "rule": "Use \"aimed at + gerund\" to describe the purpose or target of a plan or campaign.",
+      "example": "a public awareness campaign aimed at dealing with the high heat and humidity",
+      "meaning_ja": "「〜することを目的とした」という公式・報道調の言い方。"
+    },
+    {
+      "id": "while-contrast",
+      "title": "While + clause (contrast)",
+      "rule": "While can introduce a contrasting background clause, often comparing two situations.",
+      "example": "While it might not be as much of an issue in countries with higher salt intakes, in Japan profuse sweating ... is a legitimate concern.",
+      "meaning_ja": "「〜ではそうでもないが、（日本では）…」と対比しながら本題に入る構文。"
+    }
+  ]
+}

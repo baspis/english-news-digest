@@ -1,0 +1,429 @@
+{
+  "summary_ja": "記事は、SpaceXの史上最大級のIPOをめぐり、ロケット事業だけでなくAI（xAI）への大きな賭けであることを分析している。企業価値1.75兆ドルという高評価と、マスク氏の強い支配権・論争性を背景に、個人投資家の関心は高い一方、実績とビジョンのギャップやドットコムバブル再燃の懸念も指摘されている。",
+  "sentences": [
+    {
+      "text": "It's 07:25 am, 13 October 2024, at Starbase, near Boca Chica on the Texas side of the US/Mexico border, and on the launch pad stands the biggest rocket ever made.",
+      "grammar_ja": "場所＋stands の倒置で「そこに立っている」の強調。ever made は「今まで作られた中で最も〜」。"
+    },
+    {
+      "text": "Its engines fire and it climbs into the skies over the Gulf of Mexico to cheers and screams in the SpaceX control room.",
+      "grammar_ja": "to cheers and screams は「歓声と叫び声の中で」という付帯状況。climb into the skies は上昇を描写。"
+    },
+    {
+      "text": "But the launch is not the main event.",
+      "grammar_ja": "the main event は本題・最重要事象。対比の But で話題転換。"
+    },
+    {
+      "text": "What goes up must come down – and how it comes down will become a milestone in space exploration.",
+      "grammar_ja": "What goes up must come down は慣用句。how 節が主語で「どう降りるかが〜になる」。"
+    },
+    {
+      "text": "Seven minutes later, the massive rocket booster that blasted the craft towards space starts falling back to Earth – until its engines reignite as planned.",
+      "grammar_ja": "関係代名詞 that の後続節。until ～ は「〜するまで」という時間の区切り。as planned は「計画どおり」。"
+    },
+    {
+      "text": "It slows its descent and guides itself with pinpoint precision so it can be captured by a clasp called Mechazilla, or \"the chopsticks\", by engineers who have achieved something that's never been done before.",
+      "grammar_ja": "so it can ～ は目的。called ～ は同格。who 節と that's never been done の受動・現在完了。"
+    },
+    {
+      "text": "Amid the whoops and high-fives in SpaceX's control room, Elon Musk tells his millions of social media followers that this is a \"big step towards making life multiplanetary\" - a reusable rocket that will slash the costs of launching things into orbit, to the Moon and one day to Mars.",
+      "grammar_ja": "Amid ～ は「〜の中で」。that 節の間接話法。making life multiplanetary は動名詞目的語。slash the costs of ～ing。"
+    },
+    {
+      "text": "A company with a futuristic vision, led by what some would call a maverick unconventional genius, SpaceX and Musk have drawn comparisons with Tony Stark, leader of Stark Industries and also known as Iron Man of the Marvel Comics Universe.",
+      "grammar_ja": "文頭の名詞句が SpaceX を修飾。draw comparisons with ～ は「〜と比較される」。also known as は「〜としても知られる」。"
+    },
+    {
+      "text": "On 12 June, trading will begin in a chunk of shares in a company that, up to now, only Musk and a select group of rich private institutions have been able or invited to own.",
+      "grammar_ja": "a chunk of は「一部の」。関係代名詞 that 節内の able or invited to own（所有できる／招待された）。"
+    },
+    {
+      "text": "It is perhaps little wonder that more than one UK stockbroker has told the BBC that there has been \"a surge\" in interest in signing up for the chance to buy shares in this exciting company, controlled by a talismanic individual, that has captured the world's imagination.",
+      "grammar_ja": "It is little wonder that ～ は「〜なのも当然」。there has been a surge in ～。controlled by は過去分詞の後置修飾。"
+    },
+    {
+      "text": "UK retail investors are likely to be allocated around £1.5bn worth of shares and one of the UK's leading investing platforms hopes this could encourage a new generation of investors.",
+      "grammar_ja": "be likely to be allocated は受動の可能性。£1.5bn worth of は金額相当分。encourage ～ to ではなく encourage a generation。"
+    },
+    {
+      "text": "Simon Belsham, Chief Client Officer at Hargreaves Lansdown said: \"While we recognise this IPO might not be right for everyone, it's an exciting moment for many of our clients.",
+      "grammar_ja": "役職名の同格。While ～ は譲歩「〜とはいえ」。might not be right for everyone。"
+    },
+    {
+      "text": "We're expecting this might be a first foray into investing for many.\"",
+      "grammar_ja": "expecting (that) 省略の間接話法。a first foray into ～ は「〜への最初の試み」。"
+    },
+    {
+      "text": "Even if you don't apply directly to buy shares, if you have retirement savings invested in shares - as almost everyone with a pension plan does - then it is very likely you will soon be a part-owner of a company, whether you like it or not, that sits at the crossroads between technology and geopolitics and, as Musk would have it, the very future of the human race.",
+      "grammar_ja": "Even if と if の二重条件。as ～ does は「ほとんどの年金加入者がそうであるように」。whether you like it or not は「好む好まざるにかかわらず」。"
+    },
+    {
+      "text": "The chance for normal Earthlings to buy shares in SpaceX is one of the most important moments in the history of stock markets and is close at hand – and one that will almost certainly make Elon Musk the world's first ever trillionaire.",
+      "grammar_ja": "the chance for ～ to 不定詞の形容詞用法。close at hand は「間近に」。one that ～ は関係代名詞で chance を受ける。"
+    },
+    {
+      "text": "On the first few pages of the prospectus – or sales brochure – for SpaceX shares is this modest mission statement: \"To build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe and to extend the light of consciousness to the stars.\"",
+      "grammar_ja": "場所句＋is の倒置。necessary to ～ は形容詞＋不定詞。並列の To 不定詞が使命を列挙。"
+    },
+    {
+      "text": "But SpaceX isn't just about rockets – it's not even mainly about rockets.",
+      "grammar_ja": "not just ～ / not even mainly ～ で段階的に否定を強める構文。"
+    },
+    {
+      "text": "It's a bet on the future of artificial intelligence (AI).",
+      "grammar_ja": "a bet on ～ は「〜への賭け」。簡潔な見出し調の一文。"
+    },
+    {
+      "text": "And the success or failure of its imminent partial sale to the public is an important test of the hitherto unbridled investor optimism – and some people's dismay - that AI will hoover up large parts of the world economy.",
+      "grammar_ja": "test of ～ that 節（同格の内容説明）。hitherto は「これまで」。hoover up は「吸い上げる・独占する」口語的動詞。"
+    },
+    {
+      "text": "The continued concentration of power in a few US mega-corps also poses important questions about the way business, economics and politics works here on Earth.",
+      "grammar_ja": "pose questions about ～。the way ～ works は「〜が機能する仕方」。"
+    },
+    {
+      "text": "And many think this is Musk's Icarus moment – when he flies too close to the sun.",
+      "grammar_ja": "Icarus moment はイカロスの寓話に基づく比喩。when 節は moment を説明。"
+    },
+    {
+      "text": "\"I think it's an Elon Musk ego project,\" says Sinead O'Sullivan, an economist who has worked for Nasa in the past.",
+      "grammar_ja": "直接話法＋ says ～ の報道文体。who has worked は経験の現在完了。"
+    },
+    {
+      "text": "So should we be pleased we will all likely be passengers on his astral journey?",
+      "grammar_ja": "should we be pleased (that) ～ の間接疑問。likely は副詞で「おそらく」。"
+    },
+    {
+      "text": "SpaceX has filed for an initial public offering (IPO) of its shares.",
+      "grammar_ja": "file for ～ は「〜を申請する」。initial public offering は新規株式公開。"
+    },
+    {
+      "text": "Although it's only selling a portion of the company to the likes of us, the price of the shares Elon Musk is selling means we can calculate the price tag of the whole company.",
+      "grammar_ja": "Although 譲歩。the likes of us は「私たちのような一般の人」。means ～ は「〜ということになる」。"
+    },
+    {
+      "text": "The bankers selling the shares have put a target price tag on the company on $1.75trn -  which puts it comfortably in the top 10 most valuable companies on Earth.",
+      "grammar_ja": "現在分詞 selling が bankers を修飾。put a price tag on ～。which 節は結果・評価を補足。"
+    },
+    {
+      "text": "That is a staggering valuation for a company that lost nearly $5bn (£3.7bn) last year.",
+      "grammar_ja": "staggering valuation は「驚くほどの評価額」。関係代名詞 that と過去形 lost。"
+    },
+    {
+      "text": "So what are we buying?",
+      "grammar_ja": "修辞疑問。読者に核心を問いかける見出し調。"
+    },
+    {
+      "text": "SpaceX is in fact several businesses in one company.",
+      "grammar_ja": "in fact は「実際には」。several ～ in one ～ の対比。"
+    },
+    {
+      "text": "It designs rockets as well as manufacturing and launching its own and other people's satellites.",
+      "grammar_ja": "as well as ～ は「〜に加えて」。designs と manufacturing/launching の並列。"
+    },
+    {
+      "text": "Its launch capabilities alone dwarf that of any other company – or indeed country on Earth.",
+      "grammar_ja": "alone は「それだけで」。dwarf は「〜を小さく見せる・上回る」という他動詞。that of ～ は「〜のそれ」。"
+    },
+    {
+      "text": "Its own satellites also form the basis of the Starlink communications network, which has proven to have crucial geopolitical importance during Ukraine's defence against the Russian invasion.",
+      "grammar_ja": "form the basis of ～。which 節。has proven to have ～ は「〜であることが証明された」。"
+    },
+    {
+      "text": "This is a profitable business and one that generates significant income.",
+      "grammar_ja": "one that ～ は business を受ける関係代名詞。generates income は「収入を生む」。"
+    },
+    {
+      "text": "But even the most optimistic estimates value this part of SpaceX at around $300bn - less than 20% of SpaceX's $1.75trn target valuation.",
+      "grammar_ja": "value ～ at ～ は「〜を〜と評価する」。less than 20% of ～ で割合を示す。"
+    },
+    {
+      "text": "The real bet is on AI because bundled into SpaceX is Elon Musk's AI company xAI, along with a deeper space programme with plans to create data centres in space providing vast computing power – powered by the sun, cooled by the chill of space - while creating human-crewed bases on the Moon and eventually Mars.",
+      "grammar_ja": "because 節内の倒置 bundled into SpaceX is ～。providing ～ は分詞構文。while creating は同時進行。"
+    },
+    {
+      "text": "The success of SpaceX depends to a huge extent on its AI business.",
+      "grammar_ja": "depend on ～。to a huge extent は「大いに・程度が大きく」。"
+    },
+    {
+      "text": "Of the $28.5trn market that SpaceX has identified for its services, known as its total addressable market – $26.5trn of that is in AI.",
+      "grammar_ja": "Of the ～ market, ～ is in ～ の部分指定。known as は「〜として知られる」。"
+    },
+    {
+      "text": "To believe that, you need to believe that the AI industry will be comparable in size to the entire economy of the United States or all of Europe.",
+      "grammar_ja": "To believe that は目的の不定詞。comparable in size to ～ は「規模が〜に匹敵する」。"
+    },
+    {
+      "text": "The SpaceX prospectus estimates that the space and communications sector is less than 10% of the $28trn total - and yet those are the only businesses that SpaceX has demonstrated commercial and technical advantages.",
+      "grammar_ja": "estimate that ～。and yet は逆接「それなのに」。demonstrated advantages は現在完了。"
+    },
+    {
+      "text": "\"If we look at the business itself, it's really unclear as to what business or industry SpaceX is even in,\" says O'Sullivan.",
+      "grammar_ja": "unclear as to what ～ は「何が〜か不明」。even は強調「一体」。"
+    },
+    {
+      "text": "\"The logo, the brand is built on two decades of rocketry but most of the capital expenditure is actually on data centres and an AI company that seems to be more about social media than anything to do with space,\" she adds.",
+      "grammar_ja": "be built on ～ は「〜に基づく」。more about ～ than anything to do with ～ の比較。"
+    },
+    {
+      "text": "\"All of these are just in a kind of conglomerated business under Elon Musk's name.\"",
+      "grammar_ja": "a kind of ～ は「一種の」。under ～'s name は「〜の名の下に」。"
+    },
+    {
+      "text": "The prospectus admits that SpaceX will have to do things no company has ever done before.",
+      "grammar_ja": "admit that ～。have to do things ～ の後ろに関係代名詞省略の節。"
+    },
+    {
+      "text": "It says it \"requires, building, commercialising and operating products and services… at a scale that has not been previously achieved\".",
+      "grammar_ja": "require ＋動名詞。at a scale that ～ は規模ムード。has not been achieved は受動の現在完了。"
+    },
+    {
+      "text": "O'Sullivan is sceptical.",
+      "grammar_ja": "be sceptical は「懐疑的だ」。短い評価文。"
+    },
+    {
+      "text": "\"When we look at the massive share price that they are trying to get here, you're buying a share of the Elon Musk brand more than any kind of space industry.\"",
+      "grammar_ja": "When 節＋ you're buying ～ more than ～ の比較。「ブランドの一部を買っている」という比喩。"
+    },
+    {
+      "text": "But there is no shortage of evangelists who will point to Musk's staggering ability to raise money, challenge orthodoxy and prove his doubters wrong.",
+      "grammar_ja": "no shortage of ～ は「〜が不足していない＝たくさんいる」。point to ～。prove ～ wrong は「〜の誤りを証明する」。"
+    },
+    {
+      "text": "He took on the combined might of the global car industry and within 20 years of its founding his carmaker Tesla was worth more than Toyota, Ford, General Motors and Volkswagen combined.",
+      "grammar_ja": "take on ～ は「〜に挑む」。within 20 years of its founding は「設立から20年以内に」。worth more than ～ combined。"
+    },
+    {
+      "text": "The other reason that some investors intend to pass on the opportunity to invest in Musk's greatest adventure yet is their objection to the total control he will exert over the company.",
+      "grammar_ja": "pass on the opportunity to ～ は「〜の機会を見送る」。objection to ～。関係代名詞 that/省略の定語節。"
+    },
+    {
+      "text": "Musk is listed as founder, chief executive, chief technical officer and chairman of the board.",
+      "grammar_ja": "be listed as ～ は「〜として記載されている」。役職の並列。"
+    },
+    {
+      "text": "Even though he only owns 42% of the company, his shares come with extra voting rights meaning he effectively controls 85% of the company.",
+      "grammar_ja": "Even though 譲歩。come with ～ は「〜が付いてくる」。meaning ～ は結果を示す分詞構文。"
+    },
+    {
+      "text": "Financial journalist Robert Armstrong asks: \"What is holding shares in a company?",
+      "grammar_ja": "修辞的な疑問。holding shares は動名詞。"
+    },
+    {
+      "text": "It's ownership - but what kind of ownership is this?",
+      "grammar_ja": "what kind of ～ は「どの種類の〜か」。対比の but。"
+    },
+    {
+      "text": "Do you really own something you can't control?\"",
+      "grammar_ja": "関係代名詞省略 you can't control が something を修飾。修辞疑問。"
+    },
+    {
+      "text": "Armstrong adds that investors should get a discount for forfeiting control: \"I want to pay less for a company where my ownership does not include control.\"",
+      "grammar_ja": "add that ～。get a discount for ～ing。where 節は company を修飾。"
+    },
+    {
+      "text": "But as one large institutional investor told the BBC, \"the cult of Elon Musk requires disciples to pay a premium for the questionable privilege of having no real say in how the company they own is run.",
+      "grammar_ja": "as ～ told は「〜が話したように」。require ～ to pay。having no real say in how ～ is run。"
+    },
+    {
+      "text": "But people seem happy to do that.\"",
+      "grammar_ja": "seem happy to do that は「それを喜んでするようだ」。seem＋形容詞＋不定詞。"
+    },
+    {
+      "text": "And that control is in the hands of a man who has used his power and wealth in controversial ways.",
+      "grammar_ja": "in the hands of ～ は「〜の手の中に」。who 節と現在完了 has used。"
+    },
+    {
+      "text": "He spent nearly $300m on Donald Trump's second run for office.",
+      "grammar_ja": "spend ～ on ～ は「〜に〜を費やす」。run for office は「公職選挙への出馬」。"
+    },
+    {
+      "text": "He has secured billions in US government contracts and dabbled in the internal affairs of other nation states by supporting right-wing figures in the UK and elsewhere.",
+      "grammar_ja": "secure contracts。dabble in ～ は「〜に口を出す・関与する」。by supporting は手段。"
+    },
+    {
+      "text": "Nevertheless, betting against Elon Musk has not been a wise strategy in the past.",
+      "grammar_ja": "Nevertheless は逆接の接続副詞。動名詞 betting against が主語。"
+    },
+    {
+      "text": "He didn't become the world's richest man – with a personal fortune of over $700bn, and soon to be over $1trn – without proving his doubters wrong.",
+      "grammar_ja": "not ～ without ～ing は「〜なしには〜ない」＝「〜して初めて」。挿入句 with ～ / soon to be ～。"
+    },
+    {
+      "text": "Since 2020, estimates of SpaceX's value have risen from $40bn to a price tag of $1.75trn – a more than 40-fold increase - while shares in Tesla have risen tenfold in the same period.",
+      "grammar_ja": "Since 2020 は期間の起点。have risen from ～ to ～。while は同時対比。tenfold は10倍。"
+    },
+    {
+      "text": "And that has happened even as Tesla's car production numbers have plateaued.",
+      "grammar_ja": "even as ～ は「〜であるにもかかわらず」。plateau は「横ばいになる」。"
+    },
+    {
+      "text": "The renewed upward trend in Tesla's share price despite falling sales speaks to another of Musk's great gifts, dangling new and ambitious targets to justify the valuation – in this case a promise to pivot towards robotics with a target to build one billion humanoid robots.",
+      "grammar_ja": "despite ＋動名詞。speak to ～ は「〜を物語る」。dangling ～ は分詞構文で gifts を説明。pivot towards ～。"
+    },
+    {
+      "text": "That ability to swerve and adapt prompted one big investor to tell the BBC \"he's more [the famous showman] P.T.",
+      "grammar_ja": "prompt ～ to tell は「〜に話させた」。ability to swerve and adapt。"
+    },
+    {
+      "text": "Barnum than Rockefeller or Buffett\".",
+      "grammar_ja": "more A than B は「BというよりA」。人物比喩の続き。"
+    },
+    {
+      "text": "But FOMO – the fear of missing out – is a powerful emotion when it comes to investors' feelings about Elon Musk.",
+      "grammar_ja": "ダッシュによる同格説明。when it comes to ～ は「〜に関して言えば」。"
+    },
+    {
+      "text": "Tesla naysayers were proved wrong and missed out on huge gains.",
+      "grammar_ja": "were proved wrong は受動。miss out on ～ は「〜を逃す」。"
+    },
+    {
+      "text": "The SpaceX IPO is the biggest sale of its type in history but it's just the first of a slew of mega-sales of shares in the companies at the frontier of the AI economy.",
+      "grammar_ja": "of its type は「その種類の中で」。a slew of ～ は「多数の」。at the frontier of ～ は「〜の最前線」。"
+    },
+    {
+      "text": "This flood of new shares into the market has some worried that we may see a repeat of the dot com boom and bust we saw at the turn of the century when companies with big targets but little or no history of profit tried to sell as many shares as they could to the public.",
+      "grammar_ja": "has some worried that ～ は「一部の人を心配させる」。a repeat of ～。at the turn of the century は「世紀の転換期」。"
+    },
+    {
+      "text": "However, SpaceX is selling only 5% ($75 billion) of the total shares available in the company at first – and it's likely that AI competitors Anthropic and OpenAI will similarly dip their toes in public markets.",
+      "grammar_ja": "However で逆接。it's likely that ～。dip their toes in ～ は「〜に足を踏み入れる」比喩。"
+    },
+    {
+      "text": "Once you've sold a bit, you can start to sell more – and that means potentially trillions of dollars worth of new shares coming to market over the coming months and years.",
+      "grammar_ja": "Once ～ は「いったん〜すれば」。worth of ～ は「〜相当の」。coming to market は分詞構文。"
+    },
+    {
+      "text": "These could create a glut of supply that demand may struggle to absorb – meaning prices of those shares could fall.",
+      "grammar_ja": "a glut of supply は「供給過剰」。struggle to absorb。meaning ～ は結果を示す分詞構文。"
+    },
+    {
+      "text": "One important difference between now and the dot com bust is that new index funds that automatically buy shares in the companies that are in the stock market indices may soak up some of that supply in time.",
+      "grammar_ja": "difference ～ is that ～ の名詞節。soak up ～ は「〜を吸収する」。in time は「やがて」。"
+    },
+    {
+      "text": "Anthropic and OpenAI will join SpaceX at the US mega-corp top table – exerting hitherto unseen power and influence across the globe and unprecedented dominion over its citizens if its champions are to be believed.",
+      "grammar_ja": "分詞 exerting が結果を補足。hitherto unseen は「これまで見たことのない」。if ～ are to be believed は「〜の言うことを信じるなら」。"
+    },
+    {
+      "text": "And so as in 2024, all eyes are on the SpaceX launch pad for the most significant share sale in stock market history.",
+      "grammar_ja": "all eyes are on ～ は「注目が集まる」。as in 2024 は「2024年のときのように」。"
+    },
+    {
+      "text": "BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day.",
+      "grammar_ja": "the home for ～ は「〜の拠点」。that 節が perspectives を修飾。issues of the day は「当日の最重要課題」。"
+    },
+    {
+      "text": "Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.",
+      "grammar_ja": "bring their pick of ～ は「厳選した〜を届ける」。thought-provoking は「考えさせられる」。"
+    },
+    {
+      "text": "Sign up for the newsletter here",
+      "grammar_ja": "命令文。sign up for ～ は「〜に登録する」。サイト誘導の定型句。"
+    },
+    {
+      "text": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
+      "grammar_ja": "be hit by ～ は「〜の打撃を受ける」。sell-off は「売り崩れ」。as ～ は同時「〜する中で」。"
+    },
+    {
+      "text": "Lowestoft women back Jess Asato as she sues xAI, after it created a fake image of her in a bikini.",
+      "grammar_ja": "back ～ は「〜を支持する」。as she sues は同時進行。after 節は時系列。"
+    },
+    {
+      "text": "The Nasdaq saw its biggest daily fall since early 2025.",
+      "grammar_ja": "see は「経験する・迎える」の他動詞用法。since early 2025 は起点。"
+    },
+    {
+      "text": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+      "grammar_ja": "said (that) 省略の間接話法。expects to meet。"
+    },
+    {
+      "text": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI.",
+      "grammar_ja": "Despite ＋名詞の並列。keep hitting は「次々と記録を更新する」。fueled by は過去分詞の原因。"
+    },
+    {
+      "text": "BBC's Samira Hussain looks into whether that bubble will burst.",
+      "grammar_ja": "look into whether ～ は「〜かどうかを調べる」。that bubble は前文のAI株バブルを受ける。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "initial public offering (IPO)",
+      "pronunciation": "/ɪˈnɪʃəl ˈpʌblɪk ˈɒfərɪŋ/",
+      "meaning_ja": "新規株式公開",
+      "example": "SpaceX has filed for an initial public offering (IPO) of its shares."
+    },
+    {
+      "word": "prospectus",
+      "pronunciation": "/prəˈspektəs/",
+      "meaning_ja": "目論見書（投資家向けの公式説明資料）",
+      "example": "On the first few pages of the prospectus for SpaceX shares is this modest mission statement."
+    },
+    {
+      "word": "valuation",
+      "pronunciation": "/ˌvæljuˈeɪʃən/",
+      "meaning_ja": "企業評価額・評価",
+      "example": "That is a staggering valuation for a company that lost nearly $5bn last year."
+    },
+    {
+      "word": "foray",
+      "pronunciation": "/ˈfɒreɪ/",
+      "meaning_ja": "（新分野への）最初の試み",
+      "example": "We're expecting this might be a first foray into investing for many."
+    },
+    {
+      "word": "dwarf",
+      "pronunciation": "/dwɔːrf/",
+      "meaning_ja": "（規模が）〜を圧倒する・小さく見せる",
+      "example": "Its launch capabilities alone dwarf that of any other company on Earth."
+    },
+    {
+      "word": "hitherto",
+      "pronunciation": "/ˌhɪðərˈtuː/",
+      "meaning_ja": "これまで・それまで",
+      "example": "exerting hitherto unseen power and influence across the globe"
+    },
+    {
+      "word": "hoover up",
+      "pronunciation": "/ˈhuːvər ʌp/",
+      "meaning_ja": "（市場などを）吸い上げる・独占する",
+      "example": "investor optimism that AI will hoover up large parts of the world economy"
+    },
+    {
+      "word": "pass on",
+      "pronunciation": "/pæs ɒn/",
+      "meaning_ja": "（機会を）見送る・辞退する",
+      "example": "some investors intend to pass on the opportunity to invest in Musk's greatest adventure yet"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "inversion-emphasis",
+      "title": "Inversion for emphasis",
+      "rule": "Place complements or adverbials before the verb (e.g. 'On the launch pad stands...') to create dramatic, journalistic emphasis.",
+      "example": "and on the launch pad stands the biggest rocket ever made.",
+      "meaning_ja": "場所や補語を文頭に置き動詞を続ける倒置で、場面描写や強調効果を出す新聞文体。"
+    },
+    {
+      "id": "reduced-relative-participles",
+      "title": "Reduced relative clauses (-ing/-ed)",
+      "rule": "Use present/past participles after nouns instead of full relative clauses to pack information densely.",
+      "example": "engineers who have achieved something that's never been done before → controlled by a talismanic individual, that has captured the world's imagination",
+      "meaning_ja": "関係代名詞節を分詞（-ing/-ed）や形容詞句に短縮し、情報を詰め込む記事特有の書き方。"
+    },
+    {
+      "id": "contrast-markers",
+      "title": "Contrast with but / even though / despite",
+      "rule": "Layer contrasts with 'but', 'even though', 'despite', and 'and yet' to balance hype against scepticism.",
+      "example": "But even the most optimistic estimates value this part of SpaceX at around $300bn - less than 20% of SpaceX's $1.75trn target valuation.",
+      "meaning_ja": "but / even though / despite / and yet を重ね、期待と懸念を対比させる論説記事の論理展開。"
+    },
+    {
+      "id": "reporting-questions",
+      "title": "Embedded questions in reporting",
+      "rule": "Use indirect questions and rhetorical questions after reporting verbs (says, asks) without inversion.",
+      "example": "Robert Armstrong asks: \"Do you really own something you can't control?\"",
+      "meaning_ja": "報道動詞の後に間接疑問や修辞疑問を続け、論点を読者に投げかける。"
+    }
+  ]
+}

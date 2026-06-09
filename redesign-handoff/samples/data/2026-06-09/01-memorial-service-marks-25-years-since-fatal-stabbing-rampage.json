@@ -1,0 +1,163 @@
+{
+  "summary_ja": "大阪府池田市の小学校で25年前に起きた刺殺事件を悼む追悼式が日曜日に行われた。遺族や在校生など約760人が犠牲者の冥福を祈り、8人の名前が刻まれた鐘が鳴らされた。事件を受けて学校の安全対策が強化された一方、犯人は死刑が執行された。",
+  "sentences": [
+    {
+      "text": "A memorial service was held Sunday to mark the 25th anniversary of a stabbing rampage at an elementary school in Ikeda, Osaka Prefecture, that left eight children dead.",
+      "translation_ja": "大阪府池田市の小学校で起きた刺殺の狂乱行為から25年を迎え、日曜日に追悼式が行われた。",
+      "grammar_ja": "was held は受動態でニュースの定番表現。to mark ... anniversary は「～周年を記念して」。関係代名詞 that は先行詞 stabbing rampage を修飾し、left eight children dead は「8人の子どもが死亡した結果になった」という結果を表す。"
+    },
+    {
+      "text": "A memorial service was held at Ikeda Elementary School in the morning, with about 760 bereaved family members, current students, and faculty members praying for the souls of the victims at the time of the incident.",
+      "translation_ja": "午前中、池田小学校で追悼式が開かれ、遺族や在校生、教職員など約760人が、当時の犠牲者の冥福を祈った。",
+      "grammar_ja": "with + 名詞 + -ing は「～が…しながら」という付帯状況を表す。bereaved family members は「遺族」。at the time of the incident は事件当時の状況を指す。"
+    },
+    {
+      "text": "The eight bells in a small monument, on which the names of the eight children who died are engraved, were rung, and everyone observed a moment of silence.",
+      "translation_ja": "亡くなった8人の子どもの名前が刻まれた小さな記念碑の8つの鐘が鳴らされ、全員が黙祷を捧げた。",
+      "grammar_ja": "on which ... は関係代名詞の前置詞句で monument を修飾。who died は children を限定。were rung と observed は並列の受動態・能動態。observe a moment of silence は「黙祷を捧げる」の決まり文句。"
+    },
+    {
+      "text": "The eight -- seven girls in second grade and a boy in first grade -- were fatally stabbed, while 15 others, including two teachers, were injured on June 8, 2001, by Mamoru Takuma.",
+      "translation_ja": "8人――2年生の女子7人と1年生の男子1人――は刺殺されて死亡し、教師2人を含む他15人が2001年6月8日に田無守（たくま・まもる）によって負傷した。",
+      "grammar_ja": "ダッシュ内は同格の補足説明。while は対比の「一方で」。fatally stabbed は「刺されて死亡した」。including two teachers は15 others の内容を具体化する。"
+    },
+    {
+      "text": "He was sentenced to death in 2003 and executed in September 2004.",
+      "translation_ja": "彼は2003年に死刑を宣告され、2004年9月に執行された。",
+      "grammar_ja": "was sentenced to death と executed が and で並列。ニュースでは犯人を He と受動態で簡潔に述べるのが一般的。"
+    },
+    {
+      "text": "At his trial, he said that he committed the crime because he wanted to be executed.",
+      "translation_ja": "裁判では、彼は死刑になりたかったので犯行に及んだと供述した。",
+      "grammar_ja": "that 節は said の内容を伝える名詞節。because 節は理由。wanted to be executed は「死刑になりたかった」という意図を表す。"
+    },
+    {
+      "text": "Takuma entered through the school's side gate, which had been left open.",
+      "translation_ja": "田無は開け放たれていた学校の脇門から侵入した。",
+      "grammar_ja": "which had been left open は非限定用法で gate を補足。過去完了受動態 had been left は「（その時点まで）開け放たれたままだった」ことを示す。"
+    },
+    {
+      "text": "The incident shook the school's \"myth of safety,\" prompting the strengthening of safety measures such as closing the school gates, installing security cameras, and patrolling during school hours.",
+      "translation_ja": "この事件は学校の「安全神話」を揺るがし、校門の施錠、防犯カメラの設置、授業時間中のパトロールなど、安全対策の強化につながった。",
+      "grammar_ja": "prompting ... は主節の結果・付随事象を表す現在分詞構文。such as の後は closing, installing, patrolling と動名詞が並列。"
+    },
+    {
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、ネットワーキングやSHENによるアロハ風ライブ、飲み放題とビュッフェを楽しめる忘れられない夜にご参加ください。",
+      "grammar_ja": "Join us for ... は広告の呼びかけ表現。aloha-inspired は複合形容詞で「アロハ風の」。free flowing は飲み放題を意味する広告英語。"
+    },
+    {
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）午後7時から9時30分まで。",
+      "grammar_ja": "見出し・広告文に多い名詞句のみの文。日時を簡潔に列挙するニュースサイト下部の告知スタイル。"
+    },
+    {
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを購入すれば50%割引。",
+      "grammar_ja": "命令文の広告コピー。Get your ticket now は行動を促す定型表現。for a 50% Discount は割引条件を示す。"
+    },
+    {
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早割チケットは50枚限定。",
+      "grammar_ja": "Only + 数量 + 名詞 + Available は「～のみ残っている／限定」の広告表現。Early Bird Tickets は「早割・先行割引チケット」。"
+    },
+    {
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "grammar_ja": "Use ... to login or register はサイト案内の命令文。with JapanToday は登録先・利用先を示す。"
+    },
+    {
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の受け取りを案内するメールも届きます。",
+      "grammar_ja": "By doing so は前文の行為を受ける。inviting you to receive は email を後置修飾する分詞句。you will receive は将来の結果を述べる。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "memorial service",
+      "pronunciation": "/məˈmɔːriəl ˈsɜːrvɪs/",
+      "meaning_ja": "追悼式、慰霊の儀式",
+      "example": "A memorial service was held Sunday.",
+      "example_ja": "日曜日に追悼式が行われた。"
+    },
+    {
+      "word": "stabbing rampage",
+      "pronunciation": "/ˈstæbɪŋ ˈræmpeɪdʒ/",
+      "meaning_ja": "刺殺の狂乱行為、刃物による大量殺傷",
+      "example": "a stabbing rampage at an elementary school",
+      "example_ja": "小学校での刺殺の狂乱行為"
+    },
+    {
+      "word": "bereaved",
+      "pronunciation": "/bɪˈriːvd/",
+      "meaning_ja": "（親族などを）失った、遺族の",
+      "example": "bereaved family members",
+      "example_ja": "遺族"
+    },
+    {
+      "word": "observe a moment of silence",
+      "pronunciation": "/əbˈzɜːrv ə ˈmoʊmənt əv ˈsaɪləns/",
+      "meaning_ja": "黙祷を捧げる",
+      "example": "everyone observed a moment of silence",
+      "example_ja": "全員が黙祷を捧げた"
+    },
+    {
+      "word": "fatally stabbed",
+      "pronunciation": "/ˈfeɪtəli stæbd/",
+      "meaning_ja": "刺殺されて死亡した",
+      "example": "The eight were fatally stabbed.",
+      "example_ja": "8人は刺殺されて死亡した。"
+    },
+    {
+      "word": "sentence to death",
+      "pronunciation": "/ˈsentəns tə deθ/",
+      "meaning_ja": "死刑を宣告する",
+      "example": "He was sentenced to death in 2003.",
+      "example_ja": "彼は2003年に死刑を宣告された。"
+    },
+    {
+      "word": "prompt",
+      "pronunciation": "/prɒmpt/",
+      "meaning_ja": "～を促す、～につながる",
+      "example": "prompting the strengthening of safety measures",
+      "example_ja": "安全対策の強化につながった"
+    },
+    {
+      "word": "myth of safety",
+      "pronunciation": "/mɪθ əv ˈseɪfti/",
+      "meaning_ja": "安全神話（絶対に安全だという思い込み）",
+      "example": "the school's \"myth of safety\"",
+      "example_ja": "学校の「安全神話」"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news",
+      "title": "Passive voice in news reporting",
+      "rule": "Events are often reported with passive verbs (was held, were injured) to focus on what happened rather than who did it.",
+      "example": "A memorial service was held Sunday.",
+      "meaning_ja": "ニュースでは受動態を使い、出来事そのものに焦点を当てる。誰が行ったかより「何が起きたか」を前面に出す書き方。"
+    },
+    {
+      "id": "with-ing-absolute",
+      "title": "With + noun + -ing (absolute construction)",
+      "rule": "With + noun + present participle adds background detail about simultaneous actions or circumstances.",
+      "example": "with about 760 bereaved family members praying for the souls of the victims",
+      "meaning_ja": "「～が…しながら／～という状況で」という付帯状況を簡潔に添える構文。主節の動作と同時に起きた背景を説明する。"
+    },
+    {
+      "id": "relative-clauses",
+      "title": "Defining and non-defining relative clauses",
+      "rule": "That/which/who clauses add essential or extra information about a noun; preposition + which is formal and common in news.",
+      "example": "on which the names of the eight children who died are engraved",
+      "meaning_ja": "関係代名詞節で名詞を詳しく説明する。前置詞＋which はフォーマルなニュース文体でよく使われる。"
+    },
+    {
+      "id": "participial-result",
+      "title": "Present participle for result (prompting ...)",
+      "rule": "A present participle phrase after a main clause can show a result or consequence of the main action.",
+      "example": "The incident shook the school's \"myth of safety,\" prompting the strengthening of safety measures.",
+      "meaning_ja": "主節の後に現在分詞句を置き、その結果・付随的な影響を述べる。because 節より簡潔で、ニュース記事でよく見る。"
+    }
+  ]
+}

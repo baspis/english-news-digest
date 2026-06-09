@@ -1,0 +1,213 @@
+{
+  "summary_ja": "日本の戦後再建された城郭は、鉄筋コンクリート造の老朽化と耐震性の問題に直面しており、修繕か木造復元かで自治体間の議論が続いている。広島城や名古屋城などは閉鎖や再建計画の遅れが生じている一方、岡山城は大規模改修後に来場者が約10万人増加した。費用は数十億円規模にのぼり、専門家は市民への丁寧な説明の重要性を指摘している。",
+  "sentences": [
+    {
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PW6QSHM\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "grammar_ja": "HTMLの埋め込みタグ。ニュース本文ではなくサイト側の計測用コードで、英語の文法分析対象ではない。"
+    },
+    {
+      "text": "Photo taken on March 31 shows Okayama Castle in Okayama, western Japan.",
+      "grammar_ja": "Photo taken on ... は「〜に撮影された写真」という過去分詞の省略。shows は三人称単数。"
+    },
+    {
+      "text": "The castle underwent large-scale restoration work between 2021 and 2022.Image:Kyodo",
+      "grammar_ja": "underwent は undergo の過去形（「受けた」）。between A and B で期間を表す。"
+    },
+    {
+      "text": "Deteriorating castles in Japan face high costs, debates over renovation",
+      "grammar_ja": "現在分詞 deteriorating が名詞を修飾。face は「直面する」。見出しなので動詞が省略された名詞句で終わる。"
+    },
+    {
+      "text": "Today06:45 am JSTToday | 06:46 am JST",
+      "grammar_ja": "掲載日時のメタ情報。英語の文としては不完全。"
+    },
+    {
+      "text": "Several Japanese castles with wooden structures dating back to the feudal era were destroyed during World War II.",
+      "grammar_ja": "dating back to は「〜に遡る」という現在分詞句。受動態 were destroyed。"
+    },
+    {
+      "text": "Although they were later rebuilt using steel-reinforced concrete, they have deteriorated over time and have become more susceptible to earthquakes.",
+      "grammar_ja": "Although で譲歩。have deteriorated / have become は現在完了で変化の結果を示す。susceptible to は「〜に弱い」。"
+    },
+    {
+      "text": "Some local governments have closed the castle keeps long cherished by locals and are planning either to repair the concrete structures or restore the original wooden constructions.",
+      "grammar_ja": "long cherished by locals は keeps を後置修飾。either A or B の並列。plan to + 動詞原形。"
+    },
+    {
+      "text": "But the municipalities are facing problems with high costs, while debates over the two options stand in the way.",
+      "grammar_ja": "while は対比・同時進行。stand in the way は「妨げになる」という慣用表現。"
+    },
+    {
+      "text": "Hiroshima Castle's five-story reconstructed keep in western Japan, believed to have been built in the late 16th century by samurai warlord Mori Terumoto, closed in March because it was not sufficiently reinforced for earthquakes.",
+      "grammar_ja": "believed to have been built は推定の不定詞完了形。because 節で理由。sufficiently reinforced for は「〜に対して十分補強された」。"
+    },
+    {
+      "text": "Before closing, the historically symbolic building attracted many locals and tourists.",
+      "grammar_ja": "Before + 動名詞 で「閉鎖する前に」。historically symbolic は副詞＋形容詞の複合修飾。"
+    },
+    {
+      "text": "A 35-year-old visitor who came to the castle in Hiroshima with his family said, \"Although there are various options, I would prefer it if we could take a tour inside\" after a refurbishment of the keep that once had displays on local samurai culture.",
+      "grammar_ja": "who 関係節で visitor を修飾。would prefer it if は丁寧な希望表現。that once had は過去の状態を示す関係節。"
+    },
+    {
+      "text": "The original keep was destroyed in the 1945 U.S. atomic bombing and rebuilt using reinforced concrete in 1958.",
+      "grammar_ja": "was destroyed and rebuilt で受動態が並列。using ... は手段を表す分詞構文。"
+    },
+    {
+      "text": "It had functioned as a museum, but after decades the exterior walls began to crumble and there was \"a leaky roof,\" according to a city official.",
+      "grammar_ja": "had functioned は過去完了（それ以前からの役割）。began to crumble は「崩れ始めた」。according to は情報源の提示。"
+    },
+    {
+      "text": "A fiscal 2019 survey identified the castle as being at risk of collapse in the event of a major earthquake.",
+      "grammar_ja": "identify A as B で「AをBと特定する」。in the event of は「〜の場合に」というフォーマル表現。"
+    },
+    {
+      "text": "The city is currently planning two options: repairing the concrete keep or reconstructing the wooden structure.",
+      "grammar_ja": "コロン後に動名詞 repairing / reconstructing が並ぶ。planning の目的語としての選択肢列挙。"
+    },
+    {
+      "text": "During discussions involving experts, some argued that a \"wood-reconstructed castle could function semi-permanently if it undergoes repairs.\"",
+      "grammar_ja": "involving experts は discussions を修飾。argued that 節で主張内容。if 条件節は現在形で未来を表す。"
+    },
+    {
+      "text": "But the path to realizing such reconstruction remains uncertain.",
+      "grammar_ja": "the path to realizing は「実現への道」。remain + 形容詞 で状態の継続。"
+    },
+    {
+      "text": "It would require time and money as the city estimates construction of a wooden keep would not be completed earlier than fiscal 2049, with costs reaching as high as 19.5 billion yen ($123 million).",
+      "grammar_ja": "would require は仮定の必要性。as 節で理由・背景。with costs reaching ... は付帯状況を表す with 分詞構文。"
+    },
+    {
+      "text": "Other reconstructed concrete castle keeps, which are called  \"tenshu\" in Japanese, are also facing the need for repairs as they reach the end of their useful life and earthquake reinforcements become weaker.",
+      "grammar_ja": "非制限用法の which 節が挿入。as は「〜するにつれて」の理由・時間。the end of their useful life は「耐用年数の末期」。"
+    },
+    {
+      "text": "Nagoya Castle's concrete keep has been closed since 2018.",
+      "grammar_ja": "has been closed は現在完了の受動態。since 2018 で開始点からの継続を示す。"
+    },
+    {
+      "text": "The city of Nagoya plans to re-create the original wooden structure from the 17th century by demolishing the tower built in 1959.",
+      "grammar_ja": "plans to re-create。by demolishing は手段。built in 1959 は tower を後置修飾。"
+    },
+    {
+      "text": "But rebuilding has not yet begun due to debates over the city's plan not to install elevators that could damage pillars and beams.",
+      "grammar_ja": "has not yet begun は現在完了否定。due to で原因。plan not to install は否定の不定詞。that could damage は可能性。"
+    },
+    {
+      "text": "Discussions are underway in the western city of Wakayama over whether to renovate the concrete tower of Wakayama Castle or re-create the medieval wooden structure, which was razed in an air raid during the war.",
+      "grammar_ja": "are underway は「進行中」。whether to renovate or re-create の選択疑問。which was razed は非制限用法の関係節。"
+    },
+    {
+      "text": "The concrete keep from 1958 remains open, with additional safety measures being implemented.",
+      "grammar_ja": "remains open で状態継続。with ... being implemented は付帯状況（安全対策が実施されつつ）。"
+    },
+    {
+      "text": "Meanwhile, Okayama in western Japan, which opted for renovation of Okayama Castle's concrete keep and conducted major repair work between 2021 and 2022, saw an increase in visitor numbers of approximately 100,000.",
+      "grammar_ja": "which 節が主語 Okayama を修飾。opted for は「〜を選んだ」。saw an increase in は「〜の増加を見た」。"
+    },
+    {
+      "text": "The renovation included improving earthquake resistance, facilities for the disabled and the elderly, as well as enhanced immersive exhibits and video guidance.",
+      "grammar_ja": "included + 動名詞 improving。as well as で追加項目。the disabled / the elderly は形容詞の名詞化。"
+    },
+    {
+      "text": "The costs, including those for other facilities of the castle, amounted to 1.8 billion yen, according to the city.",
+      "grammar_ja": "including those for ... は挿入の付加説明。amount to は「〜に達する」。those は costs を受ける。"
+    },
+    {
+      "text": "\"The castle tower is a symbol of the city.",
+      "grammar_ja": "直接話法の一部。is a symbol of で「〜の象徴である」。"
+    },
+    {
+      "text": "Having it disappear even temporarily during reconstruction was never considered as an option,\" a city official said.",
+      "grammar_ja": "Having it disappear は動名詞句が主語。was never considered as an option は受動態で「選択肢とされなかった」。"
+    },
+    {
+      "text": "Yoshihiro Senda, a castle archeologist and professor at Nagoya City University, said \"Although reconstructing a structure with wood is extremely costly, it allows visitors to get a better feeling for what the original site look like, enhancing the intrinsic value of historical landmarks.\"",
+      "grammar_ja": "同格語 a castle archeologist ... が主語を補足。allows A to B は「AがBできるようにする」。enhancing ... は結果を表す分詞構文。"
+    },
+    {
+      "text": "Regarding costs and how castles are used going forward, Senda added, \"It is essential to provide thorough explanations to the public, in cases of reconstruction or renovations.\"",
+      "grammar_ja": "Regarding ... は話題提示。how 節は名詞句。It is essential to ... は形式主語構文。in cases of は「〜の場合には」。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "deteriorate",
+      "pronunciation": "/dɪˈtɪəriəreɪt/",
+      "meaning_ja": "劣化する、状態が悪くなる",
+      "example": "they have deteriorated over time"
+    },
+    {
+      "word": "susceptible to",
+      "pronunciation": "/səˈseptəbl/",
+      "meaning_ja": "〜の影響を受けやすい、〜に弱い",
+      "example": "more susceptible to earthquakes"
+    },
+    {
+      "word": "refurbishment",
+      "pronunciation": "/rɪˈfɜːbɪʃmənt/",
+      "meaning_ja": "改修、リニューアル",
+      "example": "after a refurbishment of the keep"
+    },
+    {
+      "word": "reinforced concrete",
+      "pronunciation": "/ˌriːɪnˈfɔːst ˈkɒŋkriːt/",
+      "meaning_ja": "鉄筋コンクリート",
+      "example": "rebuilt using reinforced concrete in 1958"
+    },
+    {
+      "word": "raze",
+      "pronunciation": "/reɪz/",
+      "meaning_ja": "（建物を）完全に破壊する、更地にする",
+      "example": "which was razed in an air raid during the war"
+    },
+    {
+      "word": "stand in the way",
+      "pronunciation": "/stænd/",
+      "meaning_ja": "妨げになる、進展を阻む",
+      "example": "debates over the two options stand in the way"
+    },
+    {
+      "word": "intrinsic value",
+      "pronunciation": "/ɪnˈtrɪnsɪk ˈvæljuː/",
+      "meaning_ja": "本質的な価値、内在的価値",
+      "example": "enhancing the intrinsic value of historical landmarks"
+    },
+    {
+      "word": "semi-permanently",
+      "pronunciation": "/ˌsemiˈpɜːmənəntli/",
+      "meaning_ja": "半永久的に、ほぼ恒久的に",
+      "example": "could function semi-permanently if it undergoes repairs"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "concession-although",
+      "title": "Concession with Although / But",
+      "rule": "Although introduces a contrast; the main clause often follows with but to emphasize the unexpected result.",
+      "example": "Although they were later rebuilt using steel-reinforced concrete, they have deteriorated over time.",
+      "meaning_ja": "Although で「〜にもかかわらず」と譲歩し、主節で予想外の結果を述べる。ニュース記事でよく使われる対比構造。"
+    },
+    {
+      "id": "present-perfect-change",
+      "title": "Present Perfect for Change Over Time",
+      "rule": "Use have/has + past participle to show a change or result relevant to the present.",
+      "example": "they have deteriorated over time and have become more susceptible to earthquakes.",
+      "meaning_ja": "have deteriorated / have become のように、過去から現在にかけての変化や結果を現在完了で表す。"
+    },
+    {
+      "id": "passive-news",
+      "title": "Passive Voice in News Reporting",
+      "rule": "Passive forms focus on events and outcomes rather than who performed the action.",
+      "example": "Several Japanese castles were destroyed during World War II.",
+      "meaning_ja": "were destroyed / were rebuilt など受動態で、誰がではなく出来事そのものに焦点を当てる。時事英語の典型パターン。"
+    },
+    {
+      "id": "reduced-relative",
+      "title": "Reduced Relative Clauses (Participial Phrases)",
+      "rule": "Past or present participles can replace relative clauses to make sentences more concise.",
+      "example": "castles with wooden structures dating back to the feudal era",
+      "meaning_ja": "dating back to（〜に遡る）や believed to have been built（〜されたと信じられる）のように、関係詞節を分詞句に短縮する。"
+    }
+  ]
+}

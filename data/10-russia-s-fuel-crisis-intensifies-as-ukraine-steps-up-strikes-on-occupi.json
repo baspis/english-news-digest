@@ -1,0 +1,293 @@
+{
+  "summary_ja": "ウクライナのドローン攻撃がロシア占領地域の補給路を断ち、クリミア半島で深刻な燃料不足が広がっている。道路・橋・製油所への打撃が民間と軍の両方の物流に影響し、地元当局は対応に追われている。一方、ウクライナ側は補給網への攻撃を強め、「戦争をロシア本国にもたらす」戦略を進めている。",
+  "sentences": [
+    {
+      "text": "Ukraine's sustained campaign of drone attacks on Russian-occupied territories is disrupting Moscow's supply lines and intensifying a fuel crisis already triggered by long-range strikes on Russia's oil refineries.",
+      "grammar_ja": "sustained（持続的な）は形容詞。campaign of drone attacks は「〜攻撃の作戦」。already triggered by は過去分詞で「すでに〜によって引き起こされた」と後置修飾。is disrupting ... and intensifying ... は現在進行形で並列。"
+    },
+    {
+      "text": "Crimea - which Russia illegally annexed in 2014 - in particular has been experiencing serious logistical difficulties and shortages.",
+      "grammar_ja": "which 節は非制限的関係詞句（カンマで挟む）。has been experiencing は現在完了進行形で「ずっと経験し続けている」。in particular は「特に」。"
+    },
+    {
+      "text": "Many of the issues stem from recent Ukrainian strikes on a key motorway and bridge linking the southern Russian city of Rostov to Crimea via the occupied port city of Mariupol.",
+      "grammar_ja": "stem from は「〜に起因する」のコロケーション。linking ... は現在分詞で motorway and bridge を修飾。via は「〜経由で」。"
+    },
+    {
+      "text": "The road \"is basically the backbone of Russian occupation in the south\", Clément Molin, an analyst at the French-based think tank Atum Mundi, told the BBC.",
+      "grammar_ja": "直接話法の引用＋話者情報が後置。an analyst at ... は同格。French-based は複合形容詞「フランス拠点の」。"
+    },
+    {
+      "text": "Molin said that Ukraine had carried out 300 drone strikes on trucks, including 30 tankers, since the start of May and that the campaign had become more intense this month.",
+      "grammar_ja": "間接話法で that 節が2つ並列。had carried out は過去完了（said より前の出来事）。since the start of May は期間の起点。including は付加情報。"
+    },
+    {
+      "text": "The operation is having tangible effects on Crimea.",
+      "grammar_ja": "is having は「今まさに与えつつある」。tangible effects on は「〜に目に見える影響」。"
+    },
+    {
+      "text": "The peninsula is strategically important for Moscow, as it has been used by its forces to launch drones and missiles at the rest of Ukraine.",
+      "grammar_ja": "as 節は理由「〜なので」。has been used は受動の現在完了。to launch ... at は目的＋攻撃対象の前置詞。"
+    },
+    {
+      "text": "With its Mediterranean climate and long beaches, Crimea is also a popular holiday destination for Russians in the summer.",
+      "grammar_ja": "With 〜 は付帯状況「〜を持って」。popular ... for は「〜にとって人気の」。"
+    },
+    {
+      "text": "Disgruntled tourists and locals have taken to social media to vent about the disruption to fuel supplies.",
+      "grammar_ja": "have taken to は「〜に手を出す・〜を使い始める」。to vent about は目的不定詞。disruption to は「〜への混乱」。"
+    },
+    {
+      "text": "Videos show long lines at petrol stations across the region, and residents have said they routinely have to queue for up to 10 hours for fuel.",
+      "grammar_ja": "show O V（動画が〜を示す）。have to queue は義務。up to 10 hours は「最大10時間」。routinely は「日常的に」。"
+    },
+    {
+      "text": "\"I walk to work now.",
+      "grammar_ja": "現在形で近況報告。walk to work は「徒歩通勤」。"
+    },
+    {
+      "text": "Of course, this is less convenient than driving, but not a huge problem,\" one resident of the city of Simferopol told Bereg, an independent website.",
+      "grammar_ja": "less ... than で比較。but not a huge problem で譲歩的緩和。one resident of ... told ... は間接話法の導入。"
+    },
+    {
+      "text": "\"All I've got to do now is buy a horse!\" he added.",
+      "grammar_ja": "All I've got to do is ... で「やることは〜だけ」。口語的強調。he added は追加発言。"
+    },
+    {
+      "text": "At the vast majority of Crimean petrol stations, locals are now only able to purchase up to 20 litres (4 gallons) of fuel each using prepaid vouchers, if it is available at all.",
+      "grammar_ja": "be able to purchase は可能表現。up to 20 litres は上限。using prepaid vouchers は分詞構文。if ... at all は「そもそもあるなら」。"
+    },
+    {
+      "text": "Russian tourists who arrived in the region before the start of the crisis are now struggling to find fuel to leave.",
+      "grammar_ja": "who arrived ... は制限的関係詞。struggle to find は「見つけるのに苦労する」。to leave は目的。"
+    },
+    {
+      "text": "The issue is acute enough that local Moscow-installed authorities have had to launch a special hotline to assist them.",
+      "grammar_ja": "adjective + enough that ... は「〜するほど深刻」。have had to は「〜せざるを得なかった」。Moscow-installed は複合形容詞。"
+    },
+    {
+      "text": "There are also reports of skyrocketing petrol and diesel prices caused by the shortages.",
+      "grammar_ja": "reports of ... は「〜という報道」。skyrocketing は「急騰する」。caused by は過去分詞の後置修飾。"
+    },
+    {
+      "text": "\"Unfortunately, it does not appear possible to fully satisfy the demand for fuel at the current moment,\" the Kremlin-appointed regional head, Sergei Aksyonov, admitted on 5 June.",
+      "grammar_ja": "it appears possible to ... の形式主語構文。admitted は公式な認める表現。at the current moment はニュース調の時間表現。"
+    },
+    {
+      "text": "Hundreds of buses, he said, would not be leaving depots due to shortages.",
+      "grammar_ja": "he said が挿入句。would not be leaving は未来の予定・見込みの進行形。due to は原因。"
+    },
+    {
+      "text": "Yet the roads remain the last way for supplies to reach the peninsula.",
+      "grammar_ja": "Yet は逆接「それでも」。remain + 名詞。the way for ... to reach は「〜が到達する手段」。"
+    },
+    {
+      "text": "The sea route is too dangerous, after a number of ferries serving Crimea were taken out of action by Ukraine.",
+      "grammar_ja": "too dangerous は「危険すぎる」。were taken out of action は受動＋慣用「使用不能にされた」。serving Crimea は現在分詞の後置修飾。"
+    },
+    {
+      "text": "And previous attacks - or the threat of them - by Ukraine have restricted traffic on the Kerch bridge linking Crimea with mainland Russia.",
+      "grammar_ja": "the threat of them で attacks を受け代わり。have restricted は現在完了。linking ... with ... は現在分詞。"
+    },
+    {
+      "text": "\"I wouldn't want to put a truck full of diesel on the Kerch Bridge right no - that's just asking for trouble,\" Craig Kennedy, an expert in Russia's oil industry and associate at Harvard University's Davis Center, told the BBC.",
+      "grammar_ja": "wouldn't want to は婉曲な意見。full of diesel は「ディーゼル満載の」。that's just asking for trouble は慣用「まさに災難を招く」。"
+    },
+    {
+      "text": "\"So you'll have to bring it in by land, via Mariupol.",
+      "grammar_ja": "you'll have to は「〜しなければならない」。bring in は「搬入する」。by land / via は輸送経路の表現。"
+    },
+    {
+      "text": "And there you're vulnerable all along the way.\"",
+      "grammar_ja": "there で場所・状況を指す。all along the way は「道中ずっと」。vulnerable は「無防備な」。"
+    },
+    {
+      "text": "Some Russian sources argue that Ukrainian attacks on logistics routes have already affected the Russian army's ability to fight.",
+      "grammar_ja": "argue that 節は主張の内容。ability to fight は「戦う能力」。logistics routes は軍事ニュース語彙。"
+    },
+    {
+      "text": "\"The strikes that empty fuel stations for civilians also affect supplies to troops in the south,\" Rybar, a pro-Kremlin Russian military analysis account , posted on its Telegram account.",
+      "grammar_ja": "that empty ... は関係詞節（strikes が主語）。posted on ... は SNS 投稿の報道表現。"
+    },
+    {
+      "text": "\"The logistics crisis does not distinguish between military and civilian needs, it hits everything at once.\"",
+      "grammar_ja": "distinguish between A and B は「AとBを区別する」。at once は「一度に・同時に」。"
+    },
+    {
+      "text": "On 7 June, a Ukrainian strike damaged a key bridge in Chohnar in northern Crimea, which linked it to the rest of Ukraine and was used by Russian troops and civilian vehicles travelling along the R-280 motorway.",
+      "grammar_ja": "which 節が bridge を説明し、linked と was used が並列。travelling along ... は現在分詞の後置修飾。"
+    },
+    {
+      "text": "Traffic across the bridge has been suspended.",
+      "grammar_ja": "受動の現在完了。has been suspended は「停止されたままだ」というニュースの定型。"
+    },
+    {
+      "text": "Problems with fuel supplies are made worse by Ukraine's long-range strikes against oil refineries and oil depots in Russia, which Kyiv has now been carrying out for several months.",
+      "grammar_ja": "are made worse by は受動「〜によって悪化」。which 節は strikes を指す。has been carrying out は継続を強調。"
+    },
+    {
+      "text": "President Volodymyr Zelensky said that nearly 40% of Russia's \"primary oil refining capacity\" was disabled in May because of such strikes.",
+      "grammar_ja": "was disabled は受動「機能停止した」。because of such strikes で原因。capacity はここで「処理能力」。"
+    },
+    {
+      "text": "Now, Craig Kennedy said, Ukraine's expanding campaign against Russia's supply network was seeing it move from targeting large refineries to smaller, local distribution networks.",
+      "grammar_ja": "was seeing it move は「〜が移行しているのを見ている」報告構文。from ... to ... の段階変化。expanding は現在分詞の形容詞用法。"
+    },
+    {
+      "text": "\"This is having a more focused or concentrated impact on local populations and the military in certain regions such as Crimea,\" he said.",
+      "grammar_ja": "is having ... impact on は影響の現在進行形。such as は例示。focused / concentrated は同義反復で強調。"
+    },
+    {
+      "text": "Drone attacks have also affected other parts of occupied Ukraine, including the regions of Luhansk and Kherson.",
+      "grammar_ja": "have affected は現在完了で結果が続く。including は列挙の追加。"
+    },
+    {
+      "text": "Some have been carried out by the 413th separate battalion \"Raid\" of Ukraine's Unmanned Systems Forces, whose commander, Yevhen Karas, spoke to the BBC from an undisclosed location in Ukraine.",
+      "grammar_ja": "受動 have been carried out。whose commander は所有関係の関係詞。from an undisclosed location は「非公開の場所から」。"
+    },
+    {
+      "text": "His drones, Karas said, did not encounter much resistance from Russian air defences during recent missions.",
+      "grammar_ja": "Karas said が挿入。encounter resistance from は「〜からの抵抗に遭う」。during recent missions は時期。"
+    },
+    {
+      "text": "\"It was a beautiful feeling when we can fly anywhere we want,\" he told the BBC.",
+      "grammar_ja": "It was a ... feeling when ... の構文。anywhere we want は関係副詞節。口語的引用。"
+    },
+    {
+      "text": "According to Karas, disrupting Russia's military logistics is a key priority for his unit.",
+      "grammar_ja": "According to は情報源。動名詞 disrupting ... が主語。a key priority for は「〜にとって最重要課題」。"
+    },
+    {
+      "text": "\"The main dish is Russian storage, oil and fuel tanks, buildings and even small bunkers with Russian officers,\" he added.",
+      "grammar_ja": "比喩 the main dish は「主な標的」。with Russian officers は「将校がいる〜」。"
+    },
+    {
+      "text": "In recent weeks, Russia has claimed that civilians have been killed in Ukrainian attacks on occupied regions, including a reported strike on a bus in Kherson and, separately, a commuter train in occupied Crimea.",
+      "grammar_ja": "has claimed that と have been killed の現在完了。including a reported strike は具体例。separately で別件を区切る。"
+    },
+    {
+      "text": "On Monday, Aksyonov, Crimea's Russia-appointed leader, said a Ukrainian drone had again struck a passenger train in the region, killing its assistant driver and injuring the driver.",
+      "grammar_ja": "had struck は過去完了。killing / injuring は分詞構文で結果を付加。"
+    },
+    {
+      "text": "While Karas did not comment on any of the incidents specifically, he said: \"This is a very busy area, and it is obvious that heavy trucks and large transport vehicles are all at risk of being hit, because the Russians use them.\"",
+      "grammar_ja": "While 節は譲歩「〜とはいえ」。at risk of being hit は「攻撃される危険」。it is obvious that は形式主語構文。"
+    },
+    {
+      "text": "Therefore, he added, \"mistakes can happen, but this is not a deliberate targeting of civilian vehicles\".",
+      "grammar_ja": "Therefore は結論。deliberate targeting of は「〜を意図的に狙うこと」。can happen は可能性。"
+    },
+    {
+      "text": "But the risks are too great, and as a result of the strikes, civilian movement on two key roads linking the occupied regions to Russia has too been restricted.",
+      "grammar_ja": "as a result of は「〜の結果として」。has ... been restricted は受動の現在完了。linking ... to ... は分詞修飾。"
+    },
+    {
+      "text": "The Moscow-installed authorities in occupied Luhansk region banned bus and coach services on two motorways leading to Mariupol and Crimea and have urged local residents not to use them \"for security reasons\".",
+      "grammar_ja": "banned ... and have urged ... は並列述語。urge O not to do。for security reasons は目的・理由。"
+    },
+    {
+      "text": "The combined effect of Ukraine's medium and long-range strikes not only affects Russia's ability to fight, but also serves Zelensky's declared purpose of \"bringing the war home\" to Russia.",
+      "grammar_ja": "not only ... but also の相関構文。declared purpose of ... は「宣言された目的」。bringing the war home は比喩表現。"
+    },
+    {
+      "text": "Following their meeting, Zelensky thanks the UK for its \"ironclad\" support for  Ukraine.",
+      "grammar_ja": "Following their meeting は分詞構文で時間「会談の後」。thanks ... for は感謝の定型（時制は文脈上 thanked の可能性も）。"
+    },
+    {
+      "text": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "grammar_ja": "see O + 過去分詞で「Oが〜されるのを見た／〜だった」。flagship event は「最重要イベント」。overshadowed by は「〜の影に隠された」。"
+    },
+    {
+      "text": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+      "grammar_ja": "were urged to は受動「〜するよう要請された」。for the first time since ... は「〜以来初めて」。"
+    },
+    {
+      "text": "Dorset Police says it will be \"looking to replicate\" the action in other parts of the county.",
+      "grammar_ja": "will be looking to は「〜しようと考えている」。replicate the action は「同様の措置を再現する」。"
+    },
+    {
+      "text": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "grammar_ja": "comes after は「〜の後に起きる」。counterpart は「相当する指導者」。calling for ... は分詞で letter を修飾。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sustained",
+      "pronunciation": "/səˈsteɪnd/",
+      "meaning_ja": "持続的な、継続的な",
+      "example": "Ukraine's sustained campaign of drone attacks"
+    },
+    {
+      "word": "annex",
+      "pronunciation": "/əˈneks/",
+      "meaning_ja": "（領土を）併合する",
+      "example": "Crimea - which Russia illegally annexed in 2014"
+    },
+    {
+      "word": "stem from",
+      "pronunciation": "/stem frɒm/",
+      "meaning_ja": "〜に起因する、〜が原因だ",
+      "example": "Many of the issues stem from recent Ukrainian strikes"
+    },
+    {
+      "word": "tangible",
+      "pronunciation": "/ˈtændʒəbl/",
+      "meaning_ja": "目に見える、具体的な",
+      "example": "The operation is having tangible effects on Crimea."
+    },
+    {
+      "word": "disgruntled",
+      "pronunciation": "/dɪsˈɡrʌntld/",
+      "meaning_ja": "不満を抱いた",
+      "example": "Disgruntled tourists and locals have taken to social media"
+    },
+    {
+      "word": "acute",
+      "pronunciation": "/əˈkjuːt/",
+      "meaning_ja": "深刻な、急性の",
+      "example": "The issue is acute enough that local authorities have had to launch a hotline"
+    },
+    {
+      "word": "skyrocketing",
+      "pronunciation": "/ˈskaɪrɒkɪtɪŋ/",
+      "meaning_ja": "急騰する",
+      "example": "reports of skyrocketing petrol and diesel prices"
+    },
+    {
+      "word": "logistics",
+      "pronunciation": "/ləˈdʒɪstɪks/",
+      "meaning_ja": "物流、兵站",
+      "example": "Ukrainian attacks on logistics routes"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "present-perfect-progressive",
+      "title": "Present Perfect Progressive",
+      "rule": "Use has/have been + -ing to show an action that started in the past and continues or has ongoing effects.",
+      "example": "Crimea has been experiencing serious logistical difficulties.",
+      "meaning_ja": "過去から続く状況や、その影響が今も残ることを強調する時に使う。ニュースでは長期化する危機や作戦の継続を述べるのに多い。"
+    },
+    {
+      "id": "reduced-relative-clause",
+      "title": "Reduced Relative Clauses (-ing / past participle)",
+      "rule": "A relative clause can be shortened to a participle phrase placed after the noun.",
+      "example": "strikes on a key motorway and bridge linking Rostov to Crimea",
+      "meaning_ja": "which links / which linked を linking に短縮した形。名詞の直後に置き、情報を簡潔に足す。記事では地名・施設の説明に頻出。"
+    },
+    {
+      "id": "passive-news-reporting",
+      "title": "Passive Voice in News",
+      "rule": "Use be + past participle to focus on the action or result rather than the agent.",
+      "example": "Traffic across the bridge has been suspended.",
+      "meaning_ja": "誰が行ったかより「何が起きたか」を前面に出す受動表現。攻撃・停止・制限などの報道で多用される。"
+    },
+    {
+      "id": "enough-that-result",
+      "title": "adjective + enough that",
+      "rule": "Use 'enough' before a result clause with 'that' to show a consequence.",
+      "example": "The issue is acute enough that local authorities have had to launch a hotline.",
+      "meaning_ja": "「〜なので…という結果になる」ほど程度が高い、という因果を表す。深刻さや規模を説明するのに便利。"
+    }
+  ]
+}

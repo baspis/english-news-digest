@@ -1,0 +1,316 @@
+{
+  "summary_ja": "イランとイスラエルは互いの攻撃を一時停止したと発表したが、停戦違反があれば報復を警告している。トランプ大統領はネタニヤフ首相に攻撃を止めるよう働きかけた一方、和平交渉を危うくしていると両国を批判した。中東全域で死者が数千人に上り、レバノンやホルムズ海峡をめぐる緊張も続いている。",
+  "sentences": [
+    {
+      "text": "Iran and Israel say they have halted attacks on each other, after the two countries exchanged fire for the first time since April's truce.",
+      "grammar_ja": "say + 現在完了（have halted）で「〜したと述べる」。after 節は時系列の背景。for the first time since〜は「〜以来初めて」。"
+    },
+    {
+      "text": "Israel's Prime Minister Benjamin Netanyahu said on Monday that his country was holding fire \"at the moment\".",
+      "grammar_ja": "said that 節で間接話法。hold fire は「攻撃を止める」というニュース慣用表現。at the moment は「現時点では」。"
+    },
+    {
+      "text": "But he stressed that the struggle against Iran and Hezbollah was \"not finished\".",
+      "grammar_ja": "stress that〜「〜と強調する」。struggle against は「〜との闘い」。過去形 was は発言時点の状態。"
+    },
+    {
+      "text": "It came hours after Iran's armed forces said it had stopped operations following the delivery of a \"painful response\" to Israel.",
+      "grammar_ja": "It came hours after〜「〜の数時間後に（その発表が）あった」。had stopped は過去の過去。following は「〜の後に／〜に続いて」。"
+    },
+    {
+      "text": "It promised \"more severe and crushing measures\" if Israel carried out more strikes, including in Lebanon, where Israeli forces are fighting the Iran-backed group Hezbollah.",
+      "grammar_ja": "if 節は仮定条件（過去形 carried out）。including in Lebanon で例示。where 関係副詞節。Iran-backed は複合形容詞「イラン支援の」。"
+    },
+    {
+      "text": "Tehran launched missiles at Israel on Sunday in retaliation for a strike on Beirut.",
+      "grammar_ja": "in retaliation for〜「〜への報復として」。launch missiles at は攻撃の定型表現。"
+    },
+    {
+      "text": "Israel responded in the early hours of Monday morning by targeting what it said were military sites in the Islamic Republic.",
+      "grammar_ja": "respond by -ing「〜することで対応する」。what it said were〜 は「軍事施設だと述べたもの」という名詞節。"
+    },
+    {
+      "text": "In a call with the BBC, US President Donald Trump denied that Netanyahu had defied his wishes by launching strikes.",
+      "grammar_ja": "deny that〜「〜を否定する」。defy one's wishes「意向に背く」。by -ing で手段。"
+    },
+    {
+      "text": "They had already gone.",
+      "grammar_ja": "過去完了 had gone「（話し手の時点より前に）すでに出発していた」。ニュース引用の短い応答。"
+    },
+    {
+      "text": "They had already gone.",
+      "grammar_ja": "同上。繰り返しは強調・言い直しの効果。"
+    },
+    {
+      "text": "They were already on their way,\" he said.",
+      "grammar_ja": "be on one's way「向かっている途中だ」。引用文の閉じ引用符と he said の位置に注意。"
+    },
+    {
+      "text": "The White House confirmed that Trump had called Netanyahu to discuss the crisis.",
+      "grammar_ja": "confirm that〜「〜を確認した」。had called は過去完了。to discuss は目的。"
+    },
+    {
+      "text": "An Israeli official said Israel had halted its strikes at his request.",
+      "grammar_ja": "at one's request「〜の要請で」。had halted は停止が先に起きたことを示す。"
+    },
+    {
+      "text": "Asked how he had persuaded Netanyahu to stop attacking Iran, Trump responded: \"All I did is say, 'We have to use sense'.",
+      "grammar_ja": "過去分詞 Asked で「〜と問われて」。All I did is say は口語的強調。have to で義務。"
+    },
+    {
+      "text": "We're very close to signing a very powerful deal, a very good deal.",
+      "grammar_ja": "be close to -ing「〜寸前だ」。同格の a very good deal で言い換え・強調。"
+    },
+    {
+      "text": "\"No nuclear weapons, no nothing.",
+      "grammar_ja": "口語的な並列否定。no nothing は非標準だがトランプ調の強調表現。"
+    },
+    {
+      "text": "You know, 口語のつなぎ詞。have to「〜しなければならない」。a lot of common sense「常識をたくさん」。"
+    },
+    {
+      "text": "Trump also said of Netanyahu: \"If I tell him to do something, he does it.\"",
+      "grammar_ja": "said of +人「〜について言った」。If 節＋現在形で習慣・一般真理。"
+    },
+    {
+      "text": "The president told US news outlet Axios he had told Israel's prime minister he might find himself fighting alone if he went back to war with Iran.",
+      "grammar_ja": "find oneself -ing「（思わぬ状況で）〜している自分に気づく」。might + 原形で可能性。go back to war「再び戦争に戻る」。"
+    },
+    {
+      "text": "\"I said, 'Bibi, you better be careful, or you will be on your own very soon,'\" Axios quoted him as saying.",
+      "grammar_ja": "you better「〜した方がいい」（口語）。on your own「独りで／支援なしで」。quote A as saying で間接引用。"
+    },
+    {
+      "text": "In his televised statement on Monday, Netanyahu said he had told Trump that \"Israel has a full right to self-defence, and we are exercising it as required\".",
+      "grammar_ja": "televised statement「テレビ放送された声明」。right to self-defence「自衛権」。as required「必要に応じて」。"
+    },
+    {
+      "text": "Sunday's exchange of fire had continued on Monday morning, with Iran launching more missiles towards Jerusalem and central and southern Israel, according to Israeli authorities.",
+      "grammar_ja": "with + O + -ing「〜が…する状況で」。according to「〜によると」。exchange of fire「交戦」。"
+    },
+    {
+      "text": "The Israel Defence Forces (IDF) said a second wave of air strikes had targeted a petrochemical complex in the south-western Iranian city of Mahshahr, where an Israeli military official said chemicals used for ballistic missiles were produced.",
+      "grammar_ja": "a second wave of「第2波の」。where 節内に said が入る入れ子構造。used for「〜に使われる」。"
+    },
+    {
+      "text": "Iran's Emergency Organisation chief, Jafar Miadfar, told Tasnim news agency that the strikes injured 14 people in Mahshahr and one in Tehran.",
+      "grammar_ja": "役職＋人名の同格。that 節で報道内容。injured は「負傷させた」。"
+    },
+    {
+      "text": "Casualties were also reported in Lebanon, where the health ministry said five people had been killed and eight wounded in an Israeli strike on Tyre in southern Lebanon on Monday.",
+      "grammar_ja": "受動態 were reported。had been killed/wounded は過去の受動・過去完了。strike on「〜への攻撃」。"
+    },
+    {
+      "text": "The Red Cross said four of its rescuers were among the injured.",
+      "grammar_ja": "among the injured「負傷者の中に」。its は Red Cross を指す。"
+    },
+    {
+      "text": "Hezbollah, meanwhile, said it had fired a rocket barrage at a group of Israeli army vehicles and soldiers in southern Lebanon on Monday morning.",
+      "grammar_ja": "meanwhile「一方で」。rocket barrage「ロケット弾の集中砲撃」。had fired は過去完了。"
+    },
+    {
+      "text": "Trump publicly told both countries to \"immediately stop 'shooting'\" because they were jeopardising negotiations between Washington and Tehran on a deal to end the regional war.",
+      "grammar_ja": "tell A to do「Aに〜するよう伝える」。jeopardise「〜を危うくする」。a deal to end〜「〜を終わらせる合意」。"
+    },
+    {
+      "text": "\"Israel and Iran... are looking to do an immediate CEASEFIRE!",
+      "grammar_ja": "look to do「〜しようとしている」。省略記号 ... は話の続き・強調。大文字は SNS 投稿の強調。"
+    },
+    {
+      "text": "Final negotiations on 'Peace' are proceeding, subject to ignorance or stupidity getting in its way,\" he wrote on Truth Social.",
+      "grammar_ja": "subject to「〜次第で／〜が障害となれば」。get in the way「邪魔をする」。proceed「進行している」。"
+    },
+    {
+      "text": "The war began on 28 February, when Israel and the US launched a joint attack on Iran, killing Supreme Leader Ayatollah Ali Khamenei and several other top officials.",
+      "grammar_ja": "when 節で時点説明。現在分詞 killing は結果・付帯状況。「〜を殺して」。"
+    },
+    {
+      "text": "The hostilities spread quickly across the Middle East, as Iran retaliated by launching missiles and drones at Israel and Gulf Arab states hosting US military facilities.",
+      "grammar_ja": "hostilities「敵対行為」。as「〜する一方で」。hosting は現在分詞の後置修飾。"
+    },
+    {
+      "text": "Iran also effectively blocked the crucial Strait of Hormuz waterway, causing a surge in the price of oil.",
+      "grammar_ja": "effectively「事実上」。causing は結果を示す分詞構文。a surge in「〜の急騰」。"
+    },
+    {
+      "text": "Lebanon was drawn into the conflict on 2 March, when Hezbollah launched rockets into Israel in retaliation for Khamenei's assassination.",
+      "grammar_ja": "be drawn into「〜に巻き込まれる」。in retaliation for「〜への報復として」。assassination「暗殺」。"
+    },
+    {
+      "text": "Israel responded with air strikes across Lebanon and a ground invasion of a significant part of the country's south.",
+      "grammar_ja": "respond with「〜で対応する」。a ground invasion of「〜への地上侵攻」。the country's south は Lebanon。"
+    },
+    {
+      "text": "A US-brokered ceasefire deal between the Israeli and Lebanese governments has failed to end hostilities.",
+      "grammar_ja": "US-brokered「米国仲介の」。fail to do「〜できなかった」。between A and B。"
+    },
+    {
+      "text": "Hezbollah has rejected the agreement, demanding a full Israeli withdrawal.",
+      "grammar_ja": "現在完了 has rejected。分詞 demanding は付帯状況「〜を要求して」。withdrawal「撤退」。"
+    },
+    {
+      "text": "In recent weeks, the US has been pressing Israel to scale back its campaign to allow room for a wider deal with Iran, which has demanded that it also cover the conflict in Lebanon.",
+      "grammar_ja": "has been pressing「押し続けている」。scale back「縮小する」。allow room for「〜の余地を作る」。which 関係詞は Iran。"
+    },
+    {
+      "text": "According to the US news outlet Axios, the Israeli strikes were carried out despite Prime Minister Netanyahu being told not to retaliate by President Trump, who was already angry that his warnings not to attack Beirut had been ignored.",
+      "grammar_ja": "despite +名詞/動名詞「〜にもかかわらず」。being told は受動の動名詞。who 節が Trump を説明。"
+    },
+    {
+      "text": "Earlier, he reportedly told the Financial Times that the Israeli prime minister would have to accept any deal that the US secures with Iran because he \"won't have any choice\".",
+      "grammar_ja": "reportedly「伝えられるところによると」。would have to「〜せざるを得なくなるだろう」。won't have any choice「選択の余地がない」。"
+    },
+    {
+      "text": "\"I call all the shots.",
+      "grammar_ja": "call the shots「主導権を握る・決定権がある」というイディオム。"
+    },
+    {
+      "text": "He doesn't call the shots,\" he was quoted as saying.",
+      "grammar_ja": "否定文で対比。was quoted as saying「〜と引用された」。"
+    },
+    {
+      "text": "The Israeli ambassador to the US, Yechiel Leiter, wrote on X: \"No self-respecting country in the world would tolerate such an attack, and neither will Israel.\"",
+      "grammar_ja": "No self-respecting country「自尊心のある国はどこも」。would tolerate「〜を容認するだろう」。neither will Israel は倒置。"
+    },
+    {
+      "text": "Iran's top negotiator Mohammad Baqer Qalibaf said in a Telegram post on Monday evening that \"ceasefire violations and naval blockades\" - in reference to the US's blockade of Iranian ports - had \"been the cause of recent tensions\".",
+      "grammar_ja": "in reference to「〜に言及して」。had been the cause of は過去完了の受動に近い用法。"
+    },
+    {
+      "text": "He added that: \"We are not going to fight or negotiate, but we are going to fight on our own time and negotiate on our own time.\"",
+      "grammar_ja": "be going to で意図・計画。on our own time「自分たちの都合の良い時に」という対句。"
+    },
+    {
+      "text": "At least 3,468 people have been killed in Iran during the war, according to the country's Martyrs Foundation.",
+      "grammar_ja": "At least「少なくとも」。have been killed は受動の現在完了。according to で出典。"
+    },
+    {
+      "text": "Iran's Human Rights Activists News Agency (HRANA) has put the death toll from US and Israeli attacks at 3,636, including 1,701 civilians.",
+      "grammar_ja": "put A at B「AをBと公表・算定する」。death toll「死者数」。including で内訳。"
+    },
+    {
+      "text": "Another 3,613 people have been killed in Israeli attacks on Lebanon, the country's health ministry says.",
+      "grammar_ja": "文末の says は報道文体の現在形。Another は追加の死者数。"
+    },
+    {
+      "text": "Its figures do not differentiate between combatants and civilians.",
+      "grammar_ja": "differentiate between A and B「AとBを区別する」。combatants「戦闘員」。"
+    },
+    {
+      "text": "Israeli authorities say 20 civilians have been killed in Iranian missile attacks in Israel, while four Palestinians have been killed in the occupied West Bank.",
+      "grammar_ja": "while で対比・追加情報。occupied West Bank「占領下のヨルダン川西岸」。"
+    },
+    {
+      "text": "Thirty Israeli soldiers and four civilians have been killed on both sides of the Israel-Lebanon border during the fighting with Hezbollah.",
+      "grammar_ja": "on both sides of the border「国境の両側で」。during the fighting with〜「〜との戦闘中に」。"
+    },
+    {
+      "text": "Another 29 people have been killed in Iranian attacks on Bahrain, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates, according to local authorities.",
+      "grammar_ja": "複数国を列挙。attacks on +国名。local authorities「現地当局」。"
+    },
+    {
+      "text": "Thirteen US service members have been killed, seven of them in Iranian attacks in the Gulf.",
+      "grammar_ja": "service members「軍人」。seven of them で部分指定。"
+    },
+    {
+      "text": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
+      "grammar_ja": "are hit by「〜の影響を受ける」。sell-off「売り崩れ」。volatile「不安定な」。as「〜する中で」。"
+    },
+    {
+      "text": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
+      "grammar_ja": "precarious「不安定な」。trade strikes「互いに攻撃し合う」。"
+    },
+    {
+      "text": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
+      "grammar_ja": "risk -ing「〜する危険を冒す」。may reflect「〜を反映しているかもしれない」。how 節は間接疑問。"
+    },
+    {
+      "text": "The BBC's international editor, Jeremy Bowen, said the public are \"right to be worried\" as the consequences of the war will be felt for generations.",
+      "grammar_ja": "be right to do「〜するのは当然だ」。as「〜なので」。will be felt for generations「何世代にもわたって影響する」。"
+    },
+    {
+      "text": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\".",
+      "grammar_ja": "were ordered「命令された」受動態。in response to「〜への対応として」。firing at「〜への射撃」。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "halt",
+      "pronunciation": "/hɔːlt/",
+      "meaning_ja": "停止する、止める",
+      "example": "Iran and Israel say they have halted attacks on each other."
+    },
+    {
+      "word": "retaliation",
+      "pronunciation": "/rɪˌtæliˈeɪʃn/",
+      "meaning_ja": "報復、報復行為",
+      "example": "Tehran launched missiles in retaliation for a strike on Beirut."
+    },
+    {
+      "word": "ceasefire",
+      "pronunciation": "/ˈsiːsfaɪər/",
+      "meaning_ja": "停戦、停火",
+      "example": "Israel and Iran are looking to do an immediate ceasefire."
+    },
+    {
+      "word": "jeopardise",
+      "pronunciation": "/ˈdʒepədaɪz/",
+      "meaning_ja": "危うくする、損なう",
+      "example": "They were jeopardising negotiations between Washington and Tehran."
+    },
+    {
+      "word": "scale back",
+      "pronunciation": "/skeɪl bæk/",
+      "meaning_ja": "規模を縮小する、抑える",
+      "example": "The US has been pressing Israel to scale back its campaign."
+    },
+    {
+      "word": "hostilities",
+      "pronunciation": "/hɒˈstɪlətiz/",
+      "meaning_ja": "敵対行為、戦闘",
+      "example": "The hostilities spread quickly across the Middle East."
+    },
+    {
+      "word": "broker",
+      "pronunciation": "/ˈbrəʊkər/",
+      "meaning_ja": "仲介する（合意などを）",
+      "example": "A US-brokered ceasefire deal has failed to end hostilities."
+    },
+    {
+      "word": "casualties",
+      "pronunciation": "/ˈkæʒuəltiz/",
+      "meaning_ja": "死傷者",
+      "example": "Casualties were also reported in Lebanon."
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-clauses",
+      "title": "Reporting verbs + that-clause",
+      "rule": "Use said/confirmed/denied/stressed + that + clause to report statements in news.",
+      "example": "Netanyahu said that his country was holding fire \"at the moment\".",
+      "meaning_ja": "報道では say, confirm, deny, stress などの動詞の後に that 節を置き、発言や声明を間接的に伝える。"
+    },
+    {
+      "id": "past-perfect-sequence",
+      "title": "Past perfect for earlier past events",
+      "rule": "Use had + past participle when one past action happened before another past reference point.",
+      "example": "Trump denied that Netanyahu had defied his wishes by launching strikes.",
+      "meaning_ja": "過去の出来事よりさらに前に起きたことを示すとき過去完了を使う。記事では「先に攻撃→その後の発言・否定」の順序を明確にする。"
+    },
+    {
+      "id": "participial-phrases",
+      "title": "Participial phrases (-ing / -ed) for background and result",
+      "rule": "Use -ing or -ed phrases after a comma to add cause, result, or extra detail compactly.",
+      "example": "Israel and the US launched a joint attack on Iran, killing Supreme Leader Ayatollah Ali Khamenei.",
+      "meaning_ja": "分詞構文で原因・結果・付帯状況を簡潔に足す。ニュースでは文章を短くまとめるために頻出。"
+    },
+    {
+      "id": "prepositional-retaliation",
+      "title": "in retaliation for / in response to",
+      "rule": "These fixed phrases explain why an attack or action was taken.",
+      "example": "Hezbollah launched rockets into Israel in retaliation for Khamenei's assassination.",
+      "meaning_ja": "in retaliation for は「報復として」、in response to は「〜への対応として」。中東情勢の記事で攻撃の理由を述べる定型表現。"
+    }
+  ]
+}

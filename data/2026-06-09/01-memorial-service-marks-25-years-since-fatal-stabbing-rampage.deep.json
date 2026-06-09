@@ -1,0 +1,520 @@
+{
+  "summary_ja": "大阪府池田市の小学校で起きた刃物による殺傷事件から25年を迎え、日曜日に追悼式が開かれた。犠牲となった8人の児童の冥福を祈り、モニュメントの鐘が鳴らされた。事件は学校の「安全神話」を揺るがし、門の施錠や防犯カメラ設置などの対策強化につながった。",
+  "sentences": [
+    {
+      "text": "A memorial service was held Sunday to mark the 25th anniversary of a stabbing rampage at an elementary school in Ikeda, Osaka Prefecture, that left eight children dead.",
+      "translation_ja": "大阪府池田市の小学校で起きた刃物による殺傷事件から25年を迎え、日曜日に追悼式が行われた。事件では8人の児童が亡くなった。",
+      "chunks": [
+        {
+          "text": "A memorial service",
+          "role_ja": "主語",
+          "literal_ja": "追悼式が",
+          "note_ja": "memorial service は「追悼式・慰霊式」を指す名詞句。ニュースでは事件の節目に行われる公式な式典を表す。不定冠詞 a は「ある一つの」という一般的な式であることを示す。"
+        },
+        {
+          "text": "was held Sunday",
+          "role_ja": "述語（受動態＋時を表す副詞句）",
+          "literal_ja": "日曜日に行われた",
+          "note_ja": "hold の受動態 was held は「（式が）行われた」。主語が人ではなく式そのものなので受動態が自然。Sunday は曜日を表し、on Sunday の on を省略した新聞文体である。"
+        },
+        {
+          "text": "to mark the 25th anniversary",
+          "role_ja": "目的の不定詞句",
+          "literal_ja": "25周年を記念するために",
+          "note_ja": "to mark は目的を表す不定詞。「〜を記念する」という式の意図を説明する。the 25th anniversary は「25周年」で、序数詞＋anniversary の定番表現。"
+        },
+        {
+          "text": "of a stabbing rampage",
+          "role_ja": "修飾語（名詞句）",
+          "literal_ja": "刃物による殺傷事件の",
+          "note_ja": "stabbing rampage は「刃物を使った殺傷の連続行為」。rampage 単体でも「狂暴な行為」だが、stabbing が手段を限定する。ニュースでは暴力的事件を簡潔に伝える際によく使われる。"
+        },
+        {
+          "text": "at an elementary school in Ikeda, Osaka Prefecture",
+          "role_ja": "場所を表す前置詞句",
+          "literal_ja": "大阪府池田市の小学校で",
+          "note_ja": "at は発生場所を示す。Ikeda, Osaka Prefecture は「大阪府池田市」という日本の地名表記。an elementary school は「小学校」。場所の修飾は小→大の順（学校→市→府）で積み重なる。"
+        },
+        {
+          "text": "that left eight children dead",
+          "role_ja": "関係詞節（a stabbing rampage を修飾）",
+          "literal_ja": "8人の児童を死亡させた",
+          "note_ja": "関係代名詞 that が rampage を受け、事件の結果を説明する。leave ＋ 人 ＋ 形容詞（dead）は「人を〜の状態にする」という結果を表す重要構文。ここでは「8人の子どもを死亡させた」という悲劇的な結果を簡潔に伝えている。"
+        }
+      ],
+      "grammar_ja": "全体は受動態の単文で、主語は A memorial service、述語は was held。to mark 以下は式の目的を示す不定詞句。of a stabbing rampage at... は anniversary を修飾し、that left... は関係詞節として rampage を後置修飾する。時制は過去形で、報道の事実を客観的に述べる構造。",
+      "deep_dive_ja": "見出し文として事件の概要（何が・いつ・どこで・結果）を一度に伝える典型例。leave ＋ O ＋ adj. はニュースで被害人数を簡潔に書く際によく登場する。日本語訳では関係詞節を別文に分けると読みやすくなる。"
+    },
+    {
+      "text": "A memorial service was held at Ikeda Elementary School in the morning, with about 760 bereaved family members, current students, and faculty members praying for the souls of the victims at the time of the incident.",
+      "translation_ja": "午前中、池田小学校で追悼式が行われ、約760人の遺族、在校生、教職員が当時の犠牲者の冥福を祈った。",
+      "chunks": [
+        {
+          "text": "A memorial service was held at Ikeda Elementary School in the morning",
+          "role_ja": "主節（主語＋述語＋場所・時間）",
+          "literal_ja": "午前中、池田小学校で追悼式が行われた",
+          "note_ja": "前の文と同じく受動態。at Ikeda Elementary School で具体的な会場を示し、in the morning で時間帯を限定する。日本の小学校名は Elementary School と訳される。"
+        },
+        {
+          "text": "with about 760 bereaved family members, current students, and faculty members",
+          "role_ja": "付帯状況（with＋名詞）",
+          "literal_ja": "約760人の遺族、在校生、教職員とともに",
+          "note_ja": "with は「〜を伴って・〜と一緒に」という付帯状況。bereaved family members は「遺族」、current students は「現在の児童」、faculty members は「教職員」。3つは並列名詞句。"
+        },
+        {
+          "text": "praying for the souls of the victims",
+          "role_ja": "分詞構文（付帯状況を説明）",
+          "literal_ja": "犠牲者の冥福を祈りながら",
+          "note_ja": "現在分詞 praying は with 以下の人々の行動を描写する。pray for the souls of は「〜の冥福を祈る」という追悼の定番表現。victims は事件の犠牲者を指す。"
+        },
+        {
+          "text": "at the time of the incident",
+          "role_ja": "時間・状況を表す前置詞句",
+          "literal_ja": "事件当時の",
+          "note_ja": "at the time of は「〜の当時・際に」。incident は rampage より控えめな語で、報道では繰り返し使われる。victims at the time of the incident で「当時犠牲となった人々」と読める。"
+        }
+      ],
+      "grammar_ja": "主節は受動態の SVO 構造。カンマ以降の with ～ praying は「with ＋ 名詞 ＋ 現在分詞」の分詞構文で、式に参加した人々とその行為を同時に描写する。praying for... は members などを意味上の主語とする現在分詞。",
+      "deep_dive_ja": "with 分詞構文はニュースで「誰が何をしながら」を簡潔に書く手法。日本語では「〜が〜を祈った」と能動態に直すのが自然。約760人という具体的数字は報道の信頼性を高める。"
+    },
+    {
+      "text": "The eight bells in a small monument, on which the names of the eight children who died are engraved, were rung, and everyone observed a moment of silence.",
+      "translation_ja": "亡くなった8人の児童の名前が刻まれた小さなモニュメントの8つの鐘が鳴らされ、全員が黙祷を行った。",
+      "chunks": [
+        {
+          "text": "The eight bells in a small monument",
+          "role_ja": "主語",
+          "literal_ja": "小さなモニュメントの8つの鐘が",
+          "note_ja": "eight bells は犠牲者8人に対応する鐘。in a small monument で鐘の設置場所を示す。the eight は前段の8人の児童と呼応する。"
+        },
+        {
+          "text": "on which the names of the eight children who died are engraved",
+          "role_ja": "関係詞節（monument を修飾）",
+          "literal_ja": "亡くなった8人の児童の名前が刻まれている",
+          "note_ja": "on which は関係代名詞 which に前置詞 on が付いた形式で monument を受ける。who died は children を修飾する関係詞節。are engraved は受動態で「刻まれている」。"
+        },
+        {
+          "text": "were rung",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "鳴らされた",
+          "note_ja": "ring の過去分詞 rung。鐘が主語なので受動態。追悼式で鐘を鳴らす行為は儀式的な意味を持つ。"
+        },
+        {
+          "text": "and everyone observed a moment of silence",
+          "role_ja": "並列節（述語）",
+          "literal_ja": "そして全員が黙祷を行った",
+          "note_ja": "and で前節と並列。observe a moment of silence は「黙祷する」という公式な表現。everyone は参加者全員を指す。"
+        }
+      ],
+      "grammar_ja": "主語 the eight bells と述語 were rung の間に、関係詞節 on which... が挿入された複雑な構造。and 以下は独立した節として並列。全体は過去形の事実報道。",
+      "deep_dive_ja": "関係詞節が主語と述語の間に入るため、日本語訳では修飾を前に置くと読みやすい。moment of silence は「一分間の黙祷」などと訳されることが多い。儀式の描写は感情を抑えた報道文体。"
+    },
+    {
+      "text": "The eight -- seven girls in second grade and a boy in first grade -- were fatally stabbed, while 15 others, including two teachers, were injured on June 8, 2001, by Mamoru Takuma.",
+      "translation_ja": "8人――2年生の女子7人と1年生の男子1人――は刺殺され、2001年6月8日、宅間守による事件で教員2人を含む15人が負傷した。",
+      "chunks": [
+        {
+          "text": "The eight",
+          "role_ja": "主語",
+          "literal_ja": "8人は",
+          "note_ja": "the eight は犠牲者8人を指す。ダッシュで続く内容が内訳を説明する。"
+        },
+        {
+          "text": "-- seven girls in second grade and a boy in first grade --",
+          "role_ja": "同格語（主語の内容説明）",
+          "literal_ja": "2年生の女子7人と1年生の男子1人",
+          "note_ja": "ダッシュで挟まれた同格説明。in second grade は「小学2年生」、in first grade は「小学1年生」。seven girls and a boy で内訳を具体的に示す。"
+        },
+        {
+          "text": "were fatally stabbed",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "致命傷を負って刺された",
+          "note_ja": "fatally は「致命的に」という副詞で、stab の結果が死亡につながったことを示す。受動態で被害者を主語にするのは犯罪報道の慣例。"
+        },
+        {
+          "text": "while 15 others, including two teachers, were injured",
+          "role_ja": "従属節（対比・同時の状況）",
+          "literal_ja": "一方で教員2人を含む15人が負傷した",
+          "note_ja": "while はここで「一方で・同時に」という対比。including two teachers は「教員2人を含めて」という付加情報。others は8人以外の被害者。"
+        },
+        {
+          "text": "on June 8, 2001",
+          "role_ja": "時間を表す副詞句",
+          "literal_ja": "2001年6月8日に",
+          "note_ja": "具体的な発生日。米国式の月日年表記。ニュースでは正確な日付が重要。"
+        },
+        {
+          "text": "by Mamoru Takuma",
+          "role_ja": "動作主を表す前置詞句",
+          "literal_ja": "宅間守によって",
+          "note_ja": "by は受動態で動作主を示す。犯人名は事件報道の必須情報。日本語では「による」で表す。"
+        }
+      ],
+      "grammar_ja": "主節は The eight were fatally stabbed。ダッシュ内は同格。while 節は対比的な並列で、15 others were injured。on June 8, 2001 と by Mamoru Takuma は injured 節にかかる状況・動作主。",
+      "deep_dive_ja": "被害者を主語にした受動態は、加害者の行為を客観的に述べる報道の基本。ダッシュは括弧のような補足情報。日本語では「8人のうち…」と内訳を先に置くと自然。"
+    },
+    {
+      "text": "He was sentenced to death in 2003 and executed in September 2004.",
+      "translation_ja": "彼は2003年に死刑が言い渡され、2004年9月に執行された。",
+      "chunks": [
+        {
+          "text": "He",
+          "role_ja": "主語",
+          "literal_ja": "彼は",
+          "note_ja": "前文の Mamoru Takuma を受ける代名詞。人物の続きを示す。"
+        },
+        {
+          "text": "was sentenced to death in 2003",
+          "role_ja": "述語（受動態＋時）",
+          "literal_ja": "2003年に死刑を言い渡された",
+          "note_ja": "be sentenced to death は「死刑判決を受ける」固定表現。to death は刑の種類。in 2003 で判決年。"
+        },
+        {
+          "text": "and executed in September 2004",
+          "role_ja": "並列述語（受動態）",
+          "literal_ja": "そして2004年9月に執行された",
+          "note_ja": "and の後 was が省略された並列構造（was sentenced and (was) executed）。executed は死刑の執行を指す。"
+        }
+      ],
+      "grammar_ja": "He was sentenced... and (was) executed... の並列受動態。時制は過去形。判決と執行の2段階を簡潔に1文で伝える。",
+      "deep_dive_ja": "法律・司法ニュースでは sentenced と executed を対にして使う。日本語では「死刑が言い渡され、執行された」と受身形が自然。時系列が明確な短い文。"
+    },
+    {
+      "text": "At his trial, he said that he committed the crime because he wanted to be executed.",
+      "translation_ja": "裁判の中で彼は、死刑になりたかったので犯行に及んだと供述した。",
+      "chunks": [
+        {
+          "text": "At his trial",
+          "role_ja": "状況を表す前置詞句",
+          "literal_ja": "彼の裁判で",
+          "note_ja": "at his trial は「裁判の際に」。事件の背景説明として裁判での発言を導入する。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "主節の述語",
+          "literal_ja": "彼は言った",
+          "note_ja": "said は発言の導入動詞。that 節が発言内容を受ける。"
+        },
+        {
+          "text": "that he committed the crime",
+          "role_ja": "名詞節（said の目的語）",
+          "literal_ja": "彼がその犯罪を犯したと",
+          "note_ja": "commit a crime は「犯罪を犯す」コロケーション。that 節は間接話法。"
+        },
+        {
+          "text": "because he wanted to be executed",
+          "role_ja": "理由節",
+          "literal_ja": "彼が死刑になりたかったから",
+          "note_ja": "because で動機を説明。want to be executed は「死刑になりたかった」という異常な動機。be executed は受動態で「処刑される」。"
+        }
+      ],
+      "grammar_ja": "At his trial は文頭の状況副詞句。he said that... because... は間接話法＋理由節。時制は過去形で一貫。",
+      "deep_dive_ja": "裁判での供述を伝える定型構文。because 節で動機を補足するのは事件の「なぜ」を説明する報道手法。日本語では「〜と供述した」と裁判用語を使うと適切。"
+    },
+    {
+      "text": "Takuma entered through the school's side gate, which had been left open.",
+      "translation_ja": "宅間は開いたままにされていた学校の脇門から侵入した。",
+      "chunks": [
+        {
+          "text": "Takuma entered",
+          "role_ja": "主語＋述語",
+          "literal_ja": "宅間が侵入した",
+          "note_ja": "enter は「入る・侵入する」。主語に犯人名を置き、能動態で行為を描写。"
+        },
+        {
+          "text": "through the school's side gate",
+          "role_ja": "経路を表す前置詞句",
+          "literal_ja": "学校の脇門を通って",
+          "note_ja": "through は「〜を通って」。side gate は「脇門・横門」。's で学校の所有を示す。"
+        },
+        {
+          "text": "which had been left open",
+          "role_ja": "関係詞節（side gate を修飾）",
+          "literal_ja": "開いたままにされていた",
+          "note_ja": "which は gate を受ける。had been left open は過去完了の受動態で、「（以前から）開いたままにされていた」状態。leave ＋ O ＋ 形容詞は「〜を〜の状態のままにする」。"
+        }
+      ],
+      "grammar_ja": "主節は過去形の能動態。関係詞節は過去完了の受動態で、侵入以前の門の状態を説明。which 節がセキュリティ上の問題点を示唆する。",
+      "deep_dive_ja": "事件の経緯を説明する文。関係詞節が「なぜ侵入できたか」の背景を加える。日本語では関係詞節を門の修飾として前に置くと読みやすい。"
+    },
+    {
+      "text": "The incident shook the school's \"myth of safety,\" prompting the strengthening of safety measures such as closing the school gates, installing security cameras, and patrolling during school hours.",
+      "translation_ja": "この事件は学校の「安全神話」を揺るがし、校門の施錠、防犯カメラの設置、授業時間中のパトロールなど、安全対策の強化を促した。",
+      "chunks": [
+        {
+          "text": "The incident shook the school's \"myth of safety,\"",
+          "role_ja": "主節",
+          "literal_ja": "事件は学校の「安全神話」を揺るがした",
+          "note_ja": "shake は「揺るがす・動揺させる」。myth of safety は「安全神話」という比喩的表現で、学校が安全だという思い込みを指す。引用符は概念的な語を強調。"
+        },
+        {
+          "text": "prompting the strengthening of safety measures",
+          "role_ja": "分詞構文（結果・付随状況）",
+          "literal_ja": "安全対策の強化を促して",
+          "note_ja": "現在分詞 prompting は主語 the incident の行為の結果を示す。the strengthening of... は動名詞 strengthening を名詞化した構造。"
+        },
+        {
+          "text": "such as closing the school gates, installing security cameras, and patrolling during school hours",
+          "role_ja": "例示（such as ＋ 動名詞句）",
+          "literal_ja": "校門を閉めること、防犯カメラを設置すること、授業時間中のパトロールなど",
+          "note_ja": "such as で具体例を列挙。closing, installing, patrolling は並列の動名詞（gerund）。during school hours は「授業時間中」。"
+        }
+      ],
+      "grammar_ja": "主節 The incident shook... の後、カンマ＋現在分詞 prompting で結果を続ける分詞構文。such as 以下は measures の具体例を動名詞で並列。",
+      "deep_dive_ja": "事件の社会的影響を述べる典型的な結びの文。myth of safety は日本でも使われる概念。prompting 分詞構文は「その結果〜となった」と訳すと自然。対策の列挙は読者に変化の具体像を与える。"
+    },
+    {
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。アロハ風のSHENのライブ音楽、飲み放題、ビュッフェをお楽しみください。",
+      "chunks": [
+        {
+          "text": "Join us",
+          "role_ja": "命令文の述語＋目的語",
+          "literal_ja": "私たちに参加して",
+          "note_ja": "広告の定番呼びかけ。Join us は「ぜひご参加ください」という招待のニュアンス。命令形だが親しみやすい。"
+        },
+        {
+          "text": "for an unforgettable evening of networking",
+          "role_ja": "目的・内容を表す前置詞句",
+          "literal_ja": "忘れられないネットワーキングの夜のために",
+          "note_ja": "unforgettable は「忘れられない」、evening of networking は「交流の夜」。for は「〜のために・〜として」。"
+        },
+        {
+          "text": "aloha-inspired live music by SHEN",
+          "role_ja": "並列の名詞句（提供内容）",
+          "literal_ja": "SHENによるアロハ風ライブ音楽",
+          "note_ja": "aloha-inspired は複合形容詞「アロハ風の」。by SHEN でアーティストを示す。live music は「ライブ演奏」。"
+        },
+        {
+          "text": "and free flowing drinks and buffet",
+          "role_ja": "並列の名詞句",
+          "literal_ja": "と飲み放題のドリンクとビュッフェ",
+          "note_ja": "free flowing は「飲み放題の」という広告表現。drinks and buffet は飲食の内容。"
+        },
+        {
+          "text": "at TWO ROOMS NIHOMBASHI",
+          "role_ja": "場所を表す前置詞句",
+          "literal_ja": "日本橋のTWO ROOMS NIHOMBASHIで",
+          "note_ja": "at で会場を指定。固有名詞は店名・地名。"
+        }
+      ],
+      "grammar_ja": "命令文 Join us が中心。for 以下は参加の目的・内容、at 以下は場所。and で音楽・飲食が並列。",
+      "deep_dive_ja": "記事本文に挟まれた広告文。ニュース英語学習では本文と広告の文体差に注意。unforgettable, free flowing は宣伝文特有の誇張表現。"
+    },
+    {
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）19:00〜21:30。",
+      "chunks": [
+        {
+          "text": "July 2 (Thurs)",
+          "role_ja": "日付",
+          "literal_ja": "7月2日（木）",
+          "note_ja": "月日と曜日の表記。括弧内の Thurs は Thursday の略。広告・案内でよく使われる形式。"
+        },
+        {
+          "text": "7pm to 9:30pm",
+          "role_ja": "時間帯",
+          "literal_ja": "午後7時から9時30分まで",
+          "note_ja": "pm は午後。to で開始と終了を示す。英語圏では12時間表記が一般的。"
+        }
+      ],
+      "grammar_ja": "名詞句のみの断片文。日付と時間を簡潔に列記する広告文体。動詞は省略。",
+      "deep_dive_ja": "完全な文ではなく案内の断片。ニュースサイト下部のイベント告知でよく見る形式。日本語では「〜から〜まで」と時間範囲を明示する。"
+    },
+    {
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを購入して50%割引を。",
+      "chunks": [
+        {
+          "text": "Get your ticket now",
+          "role_ja": "命令文の述語＋目的語＋副詞",
+          "literal_ja": "今すぐあなたのチケットを手に入れて",
+          "note_ja": "Get は「手に入れる・購入する」。now で緊急性を強調する広告手法。"
+        },
+        {
+          "text": "for a 50% Discount",
+          "role_ja": "目的・条件を表す前置詞句",
+          "literal_ja": "50%割引のために",
+          "note_ja": "for a 50% discount は「50%割引で」という条件。Discount は名詞で「割引」。"
+        }
+      ],
+      "grammar_ja": "命令形 Get your ticket now。for 以下は購入のメリットを示す。",
+      "deep_dive_ja": "行動喚起（CTA: Call to Action）の典型文。now や discount で即決を促す。日本語広告でも同様の訴求構造。"
+    },
+    {
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早割チケットは50枚限定。",
+      "chunks": [
+        {
+          "text": "Only 50 Early Bird Tickets",
+          "role_ja": "主語相当の名詞句",
+          "literal_ja": "早割チケット50枚のみ",
+          "note_ja": "Early Bird は「早割・早期購入」というマーケ用語。Only で数量限定を強調。"
+        },
+        {
+          "text": "Available",
+          "role_ja": "述語相当（形容詞・省略構文）",
+          "literal_ja": "利用可能",
+          "note_ja": "形容詞のみで述語を構成する見出し文体。Tickets are available の are が省略された広告表現。"
+        }
+      ],
+      "grammar_ja": "主語＋形容詞の省略構文。数量限定の緊急性を伝える短い広告文。",
+      "deep_dive_ja": "Early bird tickets はイベント告知で頻出。Available だけで「残りわずか」のニュアンスを含むことが多い。"
+    },
+    {
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "chunks": [
+        {
+          "text": "Use your Facebook account",
+          "role_ja": "命令文の述語＋目的語",
+          "literal_ja": "あなたのFacebookアカウントを使って",
+          "note_ja": "Use は「使う」。SNS連携ログインを促す定型表現。"
+        },
+        {
+          "text": "to login or register with JapanToday",
+          "role_ja": "目的の不定詞句",
+          "literal_ja": "JapanTodayにログインまたは登録するために",
+          "note_ja": "to login or register は目的。with JapanToday は「JapanTodayで」。login は動詞としても使われる（log in が正式だが Web では login も見られる）。"
+        }
+      ],
+      "grammar_ja": "Use... to... の命令文。or で login と register を並列。with でサービス名を示す。",
+      "deep_dive_ja": "Webサイトの会員登録案内。to 不定詞で使用目的を示す基本構文。日本のニュースサイトでも英語UI文言として学習に使える。"
+    },
+    {
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の受信を勧めるメールも届きます。",
+      "chunks": [
+        {
+          "text": "By doing so",
+          "role_ja": "方法・原因を表す前置詞句",
+          "literal_ja": "そうすることによって",
+          "note_ja": "By ＋ 動名詞は「〜することで」。doing so は前の login/register を受ける。"
+        },
+        {
+          "text": "you will also receive an email",
+          "role_ja": "主節（主語＋未来の述語＋目的語）",
+          "literal_ja": "あなたはまたメールを受け取るだろう",
+          "note_ja": "will receive は未来の結果。also は追加の利益を示す。"
+        },
+        {
+          "text": "inviting you to receive our news alerts",
+          "role_ja": "分詞句（email を修飾）",
+          "literal_ja": "あなたに私たちのニュース速報を受け取るよう勧める",
+          "note_ja": "inviting は email を後置修飾する現在分詞。invite ＋ O ＋ to不定詞 は「〜に…するよう勧める」。news alerts は「ニュース速報・通知」。"
+        }
+      ],
+      "grammar_ja": "By doing so で条件を示し、you will receive が主節。inviting 以下は email の内容を説明する分詞句。未来形 will で登録後の結果を予告。",
+      "deep_dive_ja": "サービス利用規約的な説明文。By ～ing と分詞の後置修飾が組み合わさった実用的な構文。news alerts はメールマーケティングで一般的な語。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "memorial service",
+      "pronunciation": "/məˈmɔːriəl ˈsɜːrvɪs/",
+      "meaning_ja": "追悼式、慰霊式",
+      "example": "A memorial service was held Sunday.",
+      "example_ja": "日曜日に追悼式が行われた。"
+    },
+    {
+      "word": "stabbing rampage",
+      "pronunciation": "/ˈstæbɪŋ ræmˈpeɪdʒ/",
+      "meaning_ja": "刃物による殺傷の連続行為",
+      "example": "a stabbing rampage at an elementary school",
+      "example_ja": "小学校での刃物殺傷事件"
+    },
+    {
+      "word": "bereaved",
+      "pronunciation": "/bɪˈriːvd/",
+      "meaning_ja": "親族などを亡くした、遺族の",
+      "example": "bereaved family members",
+      "example_ja": "遺族"
+    },
+    {
+      "word": "fatally stabbed",
+      "pronunciation": "/ˈfeɪtəli stæbd/",
+      "meaning_ja": "刺殺された、致命傷を負って刺された",
+      "example": "The eight were fatally stabbed.",
+      "example_ja": "8人は刺殺された。"
+    },
+    {
+      "word": "be sentenced to death",
+      "pronunciation": "/bi ˈsentənst tə deθ/",
+      "meaning_ja": "死刑判決を受ける",
+      "example": "He was sentenced to death in 2003.",
+      "example_ja": "彼は2003年に死刑が言い渡された。"
+    },
+    {
+      "word": "myth of safety",
+      "pronunciation": "/mɪθ əv ˈseɪfti/",
+      "meaning_ja": "安全神話（安全だという思い込み）",
+      "example": "The incident shook the school's myth of safety.",
+      "example_ja": "事件は学校の安全神話を揺るがした。"
+    },
+    {
+      "word": "observe a moment of silence",
+      "pronunciation": "/əbˈzɜːrv ə ˈmoʊmənt əv ˈsaɪləns/",
+      "meaning_ja": "黙祷する",
+      "example": "everyone observed a moment of silence",
+      "example_ja": "全員が黙祷を行った"
+    },
+    {
+      "word": "engrave",
+      "pronunciation": "/ɪnˈɡreɪv/",
+      "meaning_ja": "刻む、彫る",
+      "example": "the names are engraved on the monument",
+      "example_ja": "名前がモニュメントに刻まれている"
+    },
+    {
+      "word": "prompt",
+      "pronunciation": "/prɒmpt/",
+      "meaning_ja": "促す、きっかけとなる",
+      "example": "prompting the strengthening of safety measures",
+      "example_ja": "安全対策の強化を促して"
+    },
+    {
+      "word": "rampage",
+      "pronunciation": "/ˈræmpeɪdʒ/",
+      "meaning_ja": "狂暴な行為、乱暴な暴れ",
+      "example": "a stabbing rampage",
+      "example_ja": "刃物による殺傷事件"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news",
+      "title": "Passive voice in news reporting",
+      "rule": "Use be + past participle to focus on events and victims rather than agents.",
+      "example": "A memorial service was held Sunday.",
+      "meaning_ja": "ニュースでは受動態を使い、誰が行ったかより「何が起きたか」を客観的に伝える。追悼式や判決・執行など、主体が明らかな場合や被害者を前面に出す場合に多用される。"
+    },
+    {
+      "id": "leave-o-adj",
+      "title": "leave + object + adjective",
+      "rule": "leave + someone/something + adjective means to cause someone/something to be in that state.",
+      "example": "that left eight children dead",
+      "meaning_ja": "「人・物を〜の状態にする」という結果を表す。left eight children dead は「8人の子どもを死亡させた」という悲劇的な結果を簡潔に述べる。ニュースの被害報道で頻出。"
+    },
+    {
+      "id": "relative-clause",
+      "title": "Relative clauses (that/which/who)",
+      "rule": "Relative pronouns connect extra information to a noun.",
+      "example": "a stabbing rampage that left eight children dead",
+      "meaning_ja": "関係代名詞 that/which/who で名詞を後置修飾し、事件の詳細や背景を追加する。日本語では「〜した」などの連体修飾や別文に分けると自然。"
+    },
+    {
+      "id": "participle-clause",
+      "title": "Participial clauses (-ing / -ed)",
+      "rule": "Present participles can show accompanying actions or results.",
+      "example": "with about 760 members praying for the souls",
+      "meaning_ja": "現在分詞は付帯状況や結果を簡潔に表す。with ＋ 名詞 ＋ -ing は「〜が…しながら」、文頭や文末の -ing は「その結果〜となった」と訳すことが多い。"
+    },
+    {
+      "id": "reported-speech",
+      "title": "Reported speech (that-clause)",
+      "rule": "Use said/told + that + clause to report what someone said.",
+      "example": "he said that he committed the crime because he wanted to be executed",
+      "meaning_ja": "said that 以下で間接話法として発言内容を伝える。裁判・会見の報道で供述や証言を紹介する際の基本パターン。because 節で動機を補足できる。"
+    }
+  ]
+}

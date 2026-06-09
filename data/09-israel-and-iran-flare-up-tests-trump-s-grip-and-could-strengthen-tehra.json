@@ -1,0 +1,313 @@
+{
+  "summary_ja": "週末のイスラエルとイランの報復攻撃は、トランプ大統領がネタニヤフ首相に自制を求めたにもかかわらず中東の緊張を再燃させ、米国の外交への影響力を試す事態となった。実際には米軍との連携のもとで限定的な攻撃が行われた可能性が高く、イラン側は交渉力の強化と制裁緩和の前倒しを狙っている。一方、ホルムズ海峡封鎖などによる油価高騰は米国のリスク許容度を下げ、合意と再エスカレーションの綱引きが続く見通しである。",
+  "sentences": [
+    {
+      "text": "Israel's tit-for-tat strikes with Iran over the weekend, despite US President Donald Trump's call for Prime Minister Benjamin Netanyahu to hold fire, threatened to thrust the Middle East back into another round of direct confrontation between Tehran and Washington.",
+      "grammar_ja": "despite + 名詞句で「〜にもかかわらず」。threatened to + 動詞で「〜する恐れがある」。hold fire は「攻撃を控える」の慣用表現。"
+    },
+    {
+      "text": "Israel bombed sites in Iran for the first time since a ceasefire in April, after Iran fired missiles at Israel, in what Tehran said was retaliation for Israeli strikes on Lebanon's capital, Beirut.",
+      "grammar_ja": "for the first time since で「〜以来初めて」。in what ... was は関係代名詞 what による名詞節（〜ということだった）。"
+    },
+    {
+      "text": "The current web of fractious alliances and dysfunctional ceasefires shows how dangerously destabilised the region remains, more than three months after the US and Israel launched their war on Iran.",
+      "grammar_ja": "a web of で「〜の複雑な網・絡み合い」。shows how + 形容詞で「どれほど〜かを示す」。more than three months after は時を表す前置詞句。"
+    },
+    {
+      "text": "The escalation also highlights three points about the current trajectory of the war:",
+      "grammar_ja": "highlight は報道文で「際立たせる・示す」。trajectory は比喩的に「推移・方向性」。コロンの後に具体例が続く導入文。"
+    },
+    {
+      "text": "After Iran's missile attack on Israel on Sunday, Trump spoke to several journalists telling one he was \"going to call [Netanyahu] right now and tell him not to retaliate\".",
+      "grammar_ja": "telling one ... は分詞構文で付帯状況（〜と言いながら）。tell + 人 + not to で「〜するなと伝える」。"
+    },
+    {
+      "text": "The implication was an Israeli counterattack could jeopardise his perilously fragile diplomacy with Tehran.",
+      "grammar_ja": "The implication was (that) ... の省略構文。jeopardise はフォーマルな「危険にさらす」。perilously fragile は強調の副詞＋形容詞。"
+    },
+    {
+      "text": "Hours later, Israel attacked Iran.",
+      "grammar_ja": "Hours later で時間の経過を簡潔に示す報道スタイル。短文で事実を対比させる。"
+    },
+    {
+      "text": "Trump told the BBC on Monday afternoon that Israeli planes were \"already on their way\" when he spoke with Netanyahu.",
+      "grammar_ja": "were already on their way で「すでに向かっていた」。when 節は「〜したとき（その時点では）」。"
+    },
+    {
+      "text": "In a brief phone call with the BBC, the US president denied the Israeli PM had defied him, saying: \"If I tell him to do something, he does it.\"",
+      "grammar_ja": "denied + 過去完了（had defied）で「反逆したと否定」。saying: で直接話法を導入。"
+    },
+    {
+      "text": "On the face of it, Trump failed to stop Netanyahu, another escalation in a tense series of exchanges between the two leaders.",
+      "grammar_ja": "On the face of it は「一見」。同格構文（Netanyahu, another escalation ...）で補足説明。"
+    },
+    {
+      "text": "Last week, Trump reportedly dished out an expletive-laden rant at Netanyahu, calling the Israeli leader \"crazy\" for wanting to attack Beirut.",
+      "grammar_ja": "reportedly で情報源を曖昧にする報道表現。dish out は口語的に「浴びせる」。calling ... for wanting to は分詞＋動名詞の連鎖。"
+    },
+    {
+      "text": "Netanyahu said strikes on Beirut were necessary amid the Hezbollah threat against northern Israel.",
+      "grammar_ja": "amid + 名詞で「〜の最中に・〜の状況下で」。were necessary は主語 strikes に一致。"
+    },
+    {
+      "text": "Trump felt his behaviour threatened his own attempt to reach a deal with Tehran to reopen the Strait of Hormuz and secure assurances on Iran's nuclear programme.",
+      "grammar_ja": "felt + 目的語 + 動詞原形（threatened）の使役的構文に近い形。attempt to reach a deal で「合意を目指す試み」。"
+    },
+    {
+      "text": "In an interview with the New York Post last week, Trump said he was perturbed by Netanyahu's \"constantly fighting with Lebanon\".",
+      "grammar_ja": "be perturbed by で「〜に動揺・いら立ち」。constantly fighting は動名詞句が所有格の後ろに続く。"
+    },
+    {
+      "text": "So did Netanyahu defy Trump with its latest strikes on Iran?",
+      "grammar_ja": "So did ... ? は前文を受けた強調疑問文（本当に〜したのか）。its は国（Israel）を指す。"
+    },
+    {
+      "text": "Although that's one prevailing narrative, the answer is almost certainly no.",
+      "grammar_ja": "Although 節で譲歩「〜とはいえ」。prevailing narrative は「主流の見方」。almost certainly で高い確信。"
+    },
+    {
+      "text": "Israel's subsequent actions suggest Washington at least gave limited consent, but as the president would see it, proceeding with caution and pushing for one round only.",
+      "grammar_ja": "suggest + (that) 節の省略。as the president would see it は「大統領の見方では」。proceeding / pushing は並列の動名詞。"
+    },
+    {
+      "text": "As the veteran US negotiator Aaron David Miller told the BBC on Monday morning - Trump gave Netanyahu a \"blinking yellow light\".",
+      "grammar_ja": "As ... told the BBC は挿入句。blinking yellow light は比喩（一時停止せず慎重に進めよ）。"
+    },
+    {
+      "text": "As a practical matter, Israel could not have have attacked Iran without at least Washington's tacit approval.",
+      "grammar_ja": "As a practical matter で「実務的には」。could not have + 過去分詞で過去の不可能・推量。without approval で「承認なしには」。"
+    },
+    {
+      "text": "The US currently has its biggest military buildup in the region since the invasion of Iraq.",
+      "grammar_ja": "its biggest ... since で「〜以来最大の」。buildup は名詞で「増強・集結」。"
+    },
+    {
+      "text": "It has hundreds of military personnel in Israel liaising with the Israel Defense Forces (IDF).",
+      "grammar_ja": "liaising with は現在分詞の後置修飾（personnel が連携している）。hundreds of + 複数名詞。"
+    },
+    {
+      "text": "In this case Israel would have needed to co-ordinate with US forces in the region over air routes.",
+      "grammar_ja": "would have needed to で過去の必要性の推量。co-ordinate with / over で「〜と〜について調整」。"
+    },
+    {
+      "text": "The IDF briefed Israeli journalists after the strikes there was \"full co-ordination\" with US Central Command.",
+      "grammar_ja": "briefed A (that) there was ... の間接話法。brief は「公式に説明する」。"
+    },
+    {
+      "text": "It said the US military also helped shoot down missiles fired by Iran at Israel.",
+      "grammar_ja": "help shoot down（help + 動詞原形）。fired by Iran は過去分詞の後置修飾。"
+    },
+    {
+      "text": "By Monday afternoon Washington time, both Israel and Iran were signalling the round between them was over.",
+      "grammar_ja": "By Monday afternoon で期限・時点。were signalling + (that) 節。the round は「一連の攻防の一回」。"
+    },
+    {
+      "text": "This is where Trump would want things to stand.",
+      "grammar_ja": "This is where ... は「まさにそこが〜したい地点」。would want は婉曲な意志・推量。"
+    },
+    {
+      "text": "His messages on Sunday night that he would stop Netanyahu may have been meant for Tehran's consumption to distance Washington from Israel's strikes.",
+      "grammar_ja": "may have been meant for ... to は「〜のため・〜向けに意図されていたかもしれない」。distance A from B で「AをBから切り離す」。"
+    },
+    {
+      "text": "Or he may have genuinely intended to stop him, but was persuaded otherwise by Netanyahu.",
+      "grammar_ja": "may have intended to の過去の推量。was persuaded otherwise で「考えを変えさせられた」。"
+    },
+    {
+      "text": "While the Israelis will have calculated they could not let Iran's missile strikes pass without retaliation, Iran's calculation for launching the strikes here is critical.",
+      "grammar_ja": "While 節で対比。will have calculated は「〜と判断したはず」。let ... pass without で「〜を放置する」。"
+    },
+    {
+      "text": "This was the first time Iran fired at Israel in response to an Israeli attack on Lebanon (rather than in direct retaliation for an Israeli strike on Iran).",
+      "grammar_ja": "the first time + 過去形（米語では fired が一般的）。rather than で二者の対比。"
+    },
+    {
+      "text": "Iran was trying to force its point about linking two ceasefires - its own with the US and one that exists in name only between Israel and Hezbollah.",
+      "grammar_ja": "force its point で「主張を通す」。exists in name only は「名目上だけ存在する」。"
+    },
+    {
+      "text": "It was also testing Trump's response.",
+      "grammar_ja": "過去進行形 was testing で「その時試していた」。短文で列挙の一項目。"
+    },
+    {
+      "text": "How far would the Americans support an Israeli counterattack on Iran?",
+      "grammar_ja": "How far would ... は間接疑問の独立文（見出し調）。support + 名詞で「〜を支持する」。"
+    },
+    {
+      "text": "Would the Americans join in themselves?",
+      "grammar_ja": "join in は句動詞で「加わる・参戦する」。themselves で「自ら」強調。"
+    },
+    {
+      "text": "The more dispute they can create between the US and Israel over the future direction of the war, the better as far as Tehran is concerned.",
+      "grammar_ja": "The more ..., the better の相関構文。as far as Tehran is concerned で「テヘランにとっては」。"
+    },
+    {
+      "text": "In the end, Trump chose distance - at least in public - continuing to push the diplomacy with Tehran.",
+      "grammar_ja": "chose distance で「距離を置く方針を選んだ」。continuing ... は付帯状況の分詞構文。"
+    },
+    {
+      "text": "In an interview with NBC on Sunday, hours before the flare-up, he reiterated his view that a deal with Iran was \"very close\".",
+      "grammar_ja": "hours before the flare-up の名詞修飾。reiterate that 節で「〜という見解を繰り返す」。"
+    },
+    {
+      "text": "After it, he framed Israel and Iran in a similarly dismissive light, saying each had had \"their fun\" and now it was time for the talks.",
+      "grammar_ja": "frame A in B light で「AをBの観点で描く」。had had は過去完了（既に〜し終えた）。"
+    },
+    {
+      "text": "Iranian leaders appear emboldened by the outcome of the confrontation.",
+      "grammar_ja": "appear + 過去分詞で「〜されたように見える」。emboldened by は受け身の意味。"
+    },
+    {
+      "text": "President Masoud Pezeshkian suggested Iran's military strikes on Israel strengthened its negotiating position with the US.",
+      "grammar_ja": "suggest + (that) 節。suggested の後は過去形でも事実叙述に使う報道用法。"
+    },
+    {
+      "text": "He called \"diplomacy and defence\" the \"two wings of national power\".",
+      "grammar_ja": "call A B で「AをBと呼ぶ」の第5文型。比喩表現 two wings of。"
+    },
+    {
+      "text": "\"We have neither abandoned the field nor the negotiating table,\" he posted on social media.",
+      "grammar_ja": "neither A nor B で「AもBもない」。posted on social media は直接話法の出所。"
+    },
+    {
+      "text": "Iran's economy is under massive pressure, worsened by the US naval blockade of its ports.",
+      "grammar_ja": "under pressure で「圧迫下にある」。worsened by ... は過去分詞句の付加説明。"
+    },
+    {
+      "text": "Its leadership wants at least two things from the negotiations with Washington as a priority.",
+      "grammar_ja": "want ... from negotiations で「交渉から〜を得たい」。as a priority は補足の前置詞句。"
+    },
+    {
+      "text": "One is access to money, in the form of sanctions relief and the unfreezing of tens of billions of dollars from its oil revenues.",
+      "grammar_ja": "One is ... で列挙。in the form of で「〜の形で」。unfreezing は動名詞の名詞化。"
+    },
+    {
+      "text": "The other is to limit Israeli escalation against Hezbollah in Lebanon, as it sees Hezbollah as deterring further Israeli strikes against itself.",
+      "grammar_ja": "The other is to ... の不定詞で内容説明。see A as B / deter ... from の用法。"
+    },
+    {
+      "text": "Given the pressures on the US economy from high oil prices caused by Iran's closure of the Strait of Hormuz, in a US midterm election year, Tehran is likely to have sensed that Trump's appetite for risk is currently low (although each further escalation may be pushing his patience).",
+      "grammar_ja": "Given ... は理由の前置詞句。is likely to have sensed は過去の推量。appetite for risk で「リスクを取る意欲」。"
+    },
+    {
+      "text": "That means Iran is likely to keep trying to push its two points up the agenda, to try to \"front load\" sanctions relief and unfreezing assets in the proposed deal with the US, sensing Trump is keener to get an agreement than to return to war.",
+      "grammar_ja": "push ... up the agenda で「議題の上位に押し上げる」。keener to ... than to ... の比較。"
+    },
+    {
+      "text": "Trump was asked in his interview on Sunday if he would unfreeze any Iranian assets or lift any sanctions upfront as a part of a deal.",
+      "grammar_ja": "受動態 was asked if ...。upfront は「前もって・先に」。as a part of a deal。"
+    },
+    {
+      "text": "That might be one reason there's still no agreement.",
+      "grammar_ja": "one reason there's ... は reason の後の関係節（that 省略）。簡潔な因果の締め。"
+    },
+    {
+      "text": "But the chance remains significant of growing destabilisation in the region potentially pushing the US and Iran into another round of direct fighting.",
+      "grammar_ja": "the chance remains significant of ... は名詞＋of 句の後置修飾。potentially pushing は分詞で結果を示す。"
+    },
+    {
+      "text": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+      "grammar_ja": "In a call with ... で状況設定。ask about で「〜について質問する」。関連記事への導入文。"
+    },
+    {
+      "text": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
+      "grammar_ja": "are hit by の受動態。as 節で同時進行の背景（〜する中で）。関連見出し調。"
+    },
+    {
+      "text": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
+      "grammar_ja": "現在完了 has energised。as 節で「〜する一方で」。stunning は形容詞的用法。"
+    },
+    {
+      "text": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
+      "grammar_ja": "have traded で相互のやり取り。precarious ceasefire は「不安定な停戦」。"
+    },
+    {
+      "text": "President Trump denies having promised 'no new wars'.",
+      "grammar_ja": "deny having promised（deny + 動名詞）で「〜したと否定」。関連記事見出し体。"
+    },
+    {
+      "text": "BBC Verify has found multiple examples of him saying this during the 2024 US election campaign.",
+      "grammar_ja": "has found examples of him saying ...（of + 動名詞）。現在完了で調査結果。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "tit-for-tat",
+      "pronunciation": "/ˌtɪt fər ˈtæt/",
+      "meaning_ja": "報復合戦の、お互い様の",
+      "example": "Israel's tit-for-tat strikes with Iran over the weekend"
+    },
+    {
+      "word": "hold fire",
+      "pronunciation": "/hoʊld ˈfaɪər/",
+      "meaning_ja": "（攻撃を）控える、撃たない",
+      "example": "Trump's call for Netanyahu to hold fire"
+    },
+    {
+      "word": "fractious",
+      "pronunciation": "/ˈfrækʃəs/",
+      "meaning_ja": "不和な、対立しやすい",
+      "example": "a web of fractious alliances"
+    },
+    {
+      "word": "tacit approval",
+      "pronunciation": "/ˈtæsɪt əˈpruːvəl/",
+      "meaning_ja": "黙示の承認、明示はないが容認",
+      "example": "without at least Washington's tacit approval"
+    },
+    {
+      "word": "flare-up",
+      "pronunciation": "/ˈfleər ʌp/",
+      "meaning_ja": "（争い・暴力の）再燃、急激な悪化",
+      "example": "hours before the flare-up"
+    },
+    {
+      "word": "emboldened",
+      "pronunciation": "/ɪmˈboʊldənd/",
+      "meaning_ja": "勇気づけられた、大胆になった",
+      "example": "Iranian leaders appear emboldened by the outcome"
+    },
+    {
+      "word": "front load",
+      "pronunciation": "/frʌnt loʊd/",
+      "meaning_ja": "前倒しする、初期段階で多く盛り込む",
+      "example": "to try to \"front load\" sanctions relief"
+    },
+    {
+      "word": "jeopardise",
+      "pronunciation": "/ˈdʒepədaɪz/",
+      "meaning_ja": "危うくする、損なう",
+      "example": "an Israeli counterattack could jeopardise his diplomacy"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "despite-participle",
+      "title": "despite / in spite of + noun/-ing",
+      "rule": "Use despite or in spite of before a noun phrase or gerund to contrast two facts; the main clause states what happened anyway.",
+      "example": "despite US President Donald Trump's call for Prime Minister Benjamin Netanyahu to hold fire, threatened to thrust the Middle East back into another round",
+      "meaning_ja": "「〜にもかかわらず」という譲歳を名詞句や動名詞の前に置き、主節で実際の結果を述べる。ニュースでは長い名詞句を挟むことが多い。"
+    },
+    {
+      "id": "reporting-clause",
+      "title": "Reporting verbs + that-clause (with tense shift)",
+      "rule": "Verbs like said, suggested, denied, and briefed are followed by a that-clause; in news, the tense may stay past to report statements or events.",
+      "example": "Trump denied the Israeli PM had defied him, saying: \"If I tell him to do something, he does it.\"",
+      "meaning_ja": "said / denied / suggested などの後ろに that 節（省略可）を続け、発言や判断を間接的に伝える。過去完了は「それ以前の出来事」を表す。"
+    },
+    {
+      "id": "the-more-the",
+      "title": "The + comparative ..., the + comparative ...",
+      "rule": "This correlative structure links two changing quantities or degrees: as one increases, the other does too.",
+      "example": "The more dispute they can create between the US and Israel over the future direction of the war, the better as far as Tehran is concerned.",
+      "meaning_ja": "「〜すればするほど…だ」という相関を表す。as far as X is concerned で「Xにとっては」視点を限定できる。"
+    },
+    {
+      "id": "modal-perfect",
+      "title": "Modal + have + past participle",
+      "rule": "Use could/may/would + have + past participle to speculate about past possibilities, intentions, or necessity.",
+      "example": "Israel could not have attacked Iran without at least Washington's tacit approval.",
+      "meaning_ja": "過去の可能性・推量・必要性を表す。could not have + 過去分詞は「（当時）〜しえなかったはず」、may have been meant は「〜するつもりだったかもしれない」。"
+    }
+  ]
+}

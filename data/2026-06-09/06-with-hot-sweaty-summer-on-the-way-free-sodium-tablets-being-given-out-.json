@@ -1,0 +1,208 @@
+{
+  "summary_ja": "渋谷区は、猛暑と多湿の夏に備えた「グッドスウェット渋谷アクション」の一環として、6月1日から区役所などで無料の塩分タブレット（エンブンチャージ）の配布を始めた。汗で失われるナトリウム不足や熱中症への備えとして、区役所のほか図書館や体育施設など計30か所で配布される。個包装のため持ち帰りも可能で、「クールシェアリングスポット」普及の取り組みとも連動している。",
+  "sentences": [
+    {
+      "text": "Shibuya is one of Tokyo’s most exciting neighborhoods.",
+      "translation_ja": "渋谷は、東京で最もにぎやかで魅力的なエリアのひとつだ。",
+      "grammar_ja": "「one of + 最上級 + 複数名詞」で「〜の中でも最も〜なもののひとつ」。neighborhood は「地区・街区」の意味。"
+    },
+    {
+      "text": "Between world-famous tourism landmarks like the statue of faithful dog Hachiko and the scramble intersection, plus shopping options from iconic stores like fashion mecca 109 and Nintendo Tokyo, there’s a lot to see and do in this part of own, and if you’re visiting this summer you might want to stop by the Shibuya Ward Office too and grab a little something to eat.",
+      "translation_ja": "忠犬ハチ公像やスクランブル交差点といった世界的に有名な観光名所に加え、ファッションの聖地・109やニンテンドー東京といった象徴的な店舗でのショッピングなど、このエリアには見どころも楽しみもたくさんある。今夏訪れるなら、渋谷区役所にも立ち寄って何か食べるのもいいかもしれない。",
+      "grammar_ja": "冒頭の Between A and B, plus C で列挙を重ねる長文。there’s a lot to see and do は「見ること・することがたくさんある」という定型表現。grab a little something to eat は口語的に「軽く何か食べる」。※原文の own は town の誤記と思われる。"
+    },
+    {
+      "text": "No, this isn’t another semi-secret ward office cafeteria we’re talking about.",
+      "translation_ja": "いいえ、ここで言っているのは、また別の「区役所の半ば秘密の食堂」の話ではない。",
+      "grammar_ja": "we’re talking about が文末に置かれた強調構文。「semi-secret」は複合形容詞で「半ば秘密の・知る人ぞ知る」。"
+    },
+    {
+      "text": "Instead, the Shibuya Ward Office started giving out free sodium tablets as of June 1.",
+      "translation_ja": "その代わりに、渋谷区役所は6月1日から無料のナトリウム（塩分）タブレットの配布を始めた。",
+      "grammar_ja": "Instead で前の誤解を否定し本題へ。as of は「〜時点から・〜以降」というニュースでよく使う時点表現。give out = 配布する。"
+    },
+    {
+      "text": "Shibuya Ward’s goal isn’t to promote snacking, though.",
+      "translation_ja": "ただし、渋谷区の目的は軽食を勧めることではない。",
+      "grammar_ja": "though が文末に来て逆接・留保を示す（「だが／とはいえ」）。isn’t to promote は目的を否定する不定詞構文。"
+    },
+    {
+      "text": "The complimentary salt tablets are part of Good Sweat Shibuya Action, a multi-faceted public awareness campaign aimed at dealing with the high heat and humidity that come with summer in Japan.",
+      "translation_ja": "無料で配られる塩タブレットは「グッドスウェット渋谷アクション」の一環で、これは日本の夏に伴う猛暑と多湿に対処することを目的とした、多面的な啓発キャンペーンだ。",
+      "grammar_ja": "complimentary = free と同義のフォーマルな表現。aimed at dealing with は過去分詞句で名詞を修飾。that come with summer は関係代名詞節で「夏とともに来る〜」。"
+    },
+    {
+      "text": "While it might not be as much of an issue in countries with higher salt intakes in their daily diets, in Japan profuse sweating leading to dangerously low levels of sodium in the body is a legitimate concern for many people, with supplements for replenishing sodium and other vital minerals lost during perspiration, such as Kabaya Foods Corporation’s Enbun Charge Tablets being sold in pharmacies and convenience stores.",
+      "translation_ja": "日々の食事で塩分摂取量が多い国ではそれほど問題にならないかもしれないが、日本では大量の発汗によって体内のナトリウムが危険なほど低下することは、多くの人にとって深刻な懸念だ。汗で失われたナトリウムやその他の重要ミネラルを補うサプリメントとして、カバヤ食品の「エンブンチャージ」などが薬局やコンビニで販売されている。",
+      "grammar_ja": "While 節で対比を示す長文。profuse sweating leading to... は動名詞句が主語。with supplements...being sold は付帯状況を表す with + 名詞 + 分詞構文。"
+    },
+    {
+      "text": "However, not everyone carries a supply of tablets on them, and as the effects of heat stroke can sneak up on people, Enbun Charge Tablets are now being offered free of charge at the Shibuya Ward Office.",
+      "translation_ja": "しかし、常にタブレットを持ち歩いている人ばかりではない。熱中症の症状は気づかないうちに現れることもあるため、エンブンチャージは現在、渋谷区役所で無料提供されている。",
+      "grammar_ja": "sneak up on は「気づかぬうちに襲う・忍び寄る」のイディオム。free of charge = 無料で。are being offered は進行・実施中の受動態。"
+    },
+    {
+      "text": "Anyone who wants one can simply grab a tablet from the box located in the second-floor atrium of the building.",
+      "translation_ja": "欲しい人は誰でも、建物の2階アトリウムにある箱からタブレットを手に取るだけでよい。",
+      "grammar_ja": "who wants one は関係代名詞節。located in... は過去分詞で box を後置修飾。simply grab は「ただ〜するだけでいい」という簡潔な指示。"
+    },
+    {
+      "text": "▼ The Shibuya Ward Office is just one block away from the Shibuya Parco shopping center, which houses the Nintendo Tokyo and Shibuya Pokémon Center stores.",
+      "translation_ja": "▼ 渋谷区役所は、ニンテンドー東京や渋谷ポケモンセンターが入る渋谷パルコからほんの1ブロック先にある。",
+      "grammar_ja": "one block away from = 〜から1ブロック先。which houses... は非制限用法で付加情報を加える。house はここで「（店舗などを）収容する」。"
+    },
+    {
+      "text": "▼ A banner announcing the free Enbun Charge (塩分チャージ)",
+      "translation_ja": "▼ 無料のエンブンチャージ（塩分チャージ）を告知する横断幕",
+      "grammar_ja": "名詞 + announcing... の分詞構文で「〜を知らせる」。キャプション文のため動詞が省略された断片的な文体。"
+    },
+    {
+      "text": "Boxes of free sodium tablets will also be placed at 29 other locations in Shibuya Ward, primarily libraries, public gyms/sports facilities, medical centers, and government offices, tying into the ward’s initiative to promote “cool sharing spots,” climate-controlled common-use areas where a large number of people can cool off in a more aggregately energy-efficient manner than simultaneously running their own home air conditioning units.",
+      "translation_ja": "無料の塩タブレットの箱は、渋谷区内のほか29か所、主に図書館、公共のジム・体育施設、医療センター、行政機関にも設置される。これは区の「クールシェアリングスポット」推進策と連動しており、多くの人が涼める温度管理された共用スペースで、各自の家のエアコンを同時に稼働させるよりも、全体としてエネルギー効率よく暑さをしのげるようにする取り組みだ。",
+      "grammar_ja": "tying into... は結果・付帯を表す分詞構文。where 節が cool sharing spots を説明。more ... than ... の比較構文で効率性を対比。"
+    },
+    {
+      "text": "As the tablets are individually wrapped, there’s no need to use them right away, so swinging by the ward office and grabbing one to keep on hand for later in the day is an option too.",
+      "translation_ja": "タブレットは個包装なので、すぐに使う必要はない。区役所に寄って1つ持ち帰り、後で使えるようにしておくという選択肢もある。",
+      "grammar_ja": "As 節で理由を示す。swinging by / grabbing one は動名詞が主語。keep on hand = 手元に置いておく・備えておく。"
+    },
+    {
+      "text": "Source: Shibuya Keizai Shimbun, PR Times",
+      "translation_ja": "出典：渋谷経済新聞、PR Times",
+      "grammar_ja": "ニュース記事末尾の出典表記。コロンで媒体名を列挙する定型フォーマット。"
+    },
+    {
+      "text": "-- Tokyo’s Shibuya ward sets up English information desk to help foreigners find nightlife options",
+      "translation_ja": "―― 東京・渋谷区、外国人向けにナイトライフ情報の英語案内デスクを設置",
+      "grammar_ja": "関連記事リンクの見出し。sets up は「設置する・始める」。to help foreigners find... は目的の不定詞。"
+    },
+    {
+      "text": "-- Is this Tokyo government office still one of the best places in the city for a curry rice lunch?",
+      "translation_ja": "―― この東京の区役所は、今もカレーライスランチの名所なのか？",
+      "grammar_ja": "疑問文の見出しで読者の興味を引く。one of the best places for... は「〜に最適な場所のひとつ」。"
+    },
+    {
+      "text": "-- Tourists brave Typhoon Jangmi to queue at two famous sites in Tokyo",
+      "translation_ja": "―― 観光客たち、台風・ジャンミをものともせず東京の有名スポット2か所に並ぶ",
+      "grammar_ja": "brave を動詞で「〜を恐れず立ち向かう」と使うヘッドライン文体。to queue at... は目的。"
+    },
+    {
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。SHENによるアロハ風ライブ音楽、飲み放題、ビュッフェをお楽しみください。",
+      "grammar_ja": "広告文の命令形 Join us for...。free flowing は「飲み放題の・自由に注がれる」というイベント表現。"
+    },
+    {
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）19時〜21時30分",
+      "grammar_ja": "日時の省略表記。英文では時刻に pm を付けるのが一般的。"
+    },
+    {
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを購入して50%割引をゲット。",
+      "grammar_ja": "広告の呼びかけ文（命令形）。Get your ticket now for... は販促でよく使う定型。"
+    },
+    {
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早期割引チケットは50枚限定。",
+      "grammar_ja": "Early Bird = 早期購入者向け割引。形容詞句のみの省略見出しで緊迫感を出す広告文体。"
+    },
+    {
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "grammar_ja": "Use ... to login/register はサイト案内の定型。with JapanToday で媒体名を示す。"
+    },
+    {
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の配信案内メールも届くようになります。",
+      "grammar_ja": "By doing so で前文を受ける。inviting you to receive... は分詞構文が email を修飾する二重の不定詞構造。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "complimentary",
+      "pronunciation": "/ˌkɒmplɪˈmentri/",
+      "meaning_ja": "無料の（サービスとして提供される）",
+      "example": "The complimentary salt tablets are part of a public awareness campaign.",
+      "example_ja": "無料の塩タブレットは啓発キャンペーンの一環だ。"
+    },
+    {
+      "word": "profuse sweating",
+      "pronunciation": "/prəˈfjuːs/",
+      "meaning_ja": "大量の発汗",
+      "example": "Profuse sweating can lead to dangerously low sodium levels.",
+      "example_ja": "大量の発汗は、危険なほどナトリウムが低下する原因になりうる。"
+    },
+    {
+      "word": "heat stroke",
+      "pronunciation": "/hiːt strəʊk/",
+      "meaning_ja": "熱中症",
+      "example": "The effects of heat stroke can sneak up on people.",
+      "example_ja": "熱中症の症状は、気づかないうちに現れることがある。"
+    },
+    {
+      "word": "free of charge",
+      "pronunciation": "/friː/",
+      "meaning_ja": "無料で",
+      "example": "Enbun Charge Tablets are now being offered free of charge.",
+      "example_ja": "エンブンチャージは現在無料で提供されている。"
+    },
+    {
+      "word": "sneak up on",
+      "pronunciation": "/sniːk/",
+      "meaning_ja": "（人に）気づかれないうちに忍び寄る・襲いかかる",
+      "example": "Heat stroke can sneak up on people before they realize it.",
+      "example_ja": "熱中症は、本人が気づく前に忍び寄ってくることがある。"
+    },
+    {
+      "word": "public awareness campaign",
+      "pronunciation": "/əˈweənəs/",
+      "meaning_ja": "啓発キャンペーン、意識啓発活動",
+      "example": "Good Sweat Shibuya Action is a public awareness campaign about summer heat.",
+      "example_ja": "グッドスウェット渋谷アクションは、夏の暑さに関する啓発キャンペーンだ。"
+    },
+    {
+      "word": "keep on hand",
+      "pronunciation": "/hænd/",
+      "meaning_ja": "手元に置いておく、備えておく",
+      "example": "Grab one to keep on hand for later in the day.",
+      "example_ja": "後で使えるよう、1つ備えておくのもいい。"
+    },
+    {
+      "word": "ward office",
+      "pronunciation": "/wɔːd/",
+      "meaning_ja": "（東京などの）区役所",
+      "example": "Anyone can grab a tablet at the Shibuya Ward Office.",
+      "example_ja": "渋谷区役所なら誰でもタブレットを手に取れる。"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "one-of-superlative",
+      "title": "one of + superlative + plural noun",
+      "rule": "Use 'one of the + superlative + plural noun' to mean 'among the most ~ things'.",
+      "example": "Shibuya is one of Tokyo's most exciting neighborhoods.",
+      "meaning_ja": "「〜の中でも最も〜なもののひとつ」という意味。最上級の後には複数名詞が必要。"
+    },
+    {
+      "id": "participial-phrases",
+      "title": "Participial phrases for extra information",
+      "rule": "Past or present participles (-ed/-ing) after nouns add descriptive detail without a full relative clause.",
+      "example": "supplements for replenishing sodium... such as Enbun Charge Tablets being sold in pharmacies",
+      "meaning_ja": "名詞の後ろに分詞句を置き、詳細情報をコンパクトに付け加える。ニュース記事で長い修飾を避けるときによく使われる。"
+    },
+    {
+      "id": "while-contrast",
+      "title": "While for contrast",
+      "rule": "While at the start of a clause shows contrast between two situations (not only time).",
+      "example": "While it might not be as much of an issue in other countries, in Japan it is a legitimate concern.",
+      "meaning_ja": "While は「〜である一方で」と対比を示す。時間の「〜している間」だけでなく、日本語の「〜では〜だが」に相当する用法が多い。"
+    },
+    {
+      "id": "as-of",
+      "title": "as of + date",
+      "rule": "'As of' marks the starting point or effective date of an action or situation.",
+      "example": "The ward office started giving out free tablets as of June 1.",
+      "meaning_ja": "「〜時点から／〜以降」という開始日・基準日を示す。ニュースや公式発表で頻出。"
+    }
+  ]
+}
