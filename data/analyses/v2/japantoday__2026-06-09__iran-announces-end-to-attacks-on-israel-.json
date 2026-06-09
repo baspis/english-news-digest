@@ -1,0 +1,1053 @@
+{
+  "summary_ja": "イラン軍は月曜日、4月の停戦以来初となるイスラエルへの攻撃の第一波は終了したと発表したが、イスラエルがレバノン攻撃を続ければ再開すると脅した。トランプ大統領が双方に「直ちに撃ち合いをやめろ」と要求する中、原油価格は上昇し、米主導の和平交渉が危ぶまれた。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Please upgrade to a more modern version to fully experience JapanToday site and for security reasons",
+      "translation_ja": "JapanTodayサイトを十分に利用し、セキュリティ上の理由から、より新しいバージョンへアップグレードしてください。",
+      "grammar_ja": "命令文（please + 動詞原形）。to fully experience は目的の不定詞。for security reasons は理由を示す前置詞句。",
+      "chunks": [
+        {
+          "text": "Please upgrade",
+          "role_ja": "依頼・命令",
+          "literal_ja": "アップグレードしてください",
+          "note_ja": "please + 動詞原形で丁寧な依頼。サイト表示用の定型文。"
+        },
+        {
+          "text": "to a more modern version",
+          "role_ja": "方向・対象",
+          "literal_ja": "より新しいバージョンへ",
+          "note_ja": "upgrade to で「～へ更新する」。more modern は比較級。"
+        },
+        {
+          "text": "to fully experience JapanToday site",
+          "role_ja": "目的",
+          "literal_ja": "JapanTodayサイトを十分に体験するために",
+          "note_ja": "experience はここで「利用・閲覧する」に近い意味。"
+        },
+        {
+          "text": "for security reasons",
+          "role_ja": "理由",
+          "literal_ja": "セキュリティ上の理由のために",
+          "note_ja": "for + 名詞 で理由。news本文ではなくサイト側の注意書き。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s001",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran's military announced on Monday that its first wave of attacks on Israel since a ceasefire in April was now over, although it threatened to resume the ‌strikes if Israel continued attacks on Lebanon.",
+      "translation_ja": "イラン軍は月曜日、4月の停戦以来初となるイスラエルへの攻撃の第一波は終了したと発表した。ただしイスラエルがレバノンへの攻撃を続ければ、攻撃を再開すると脅した。",
+      "grammar_ja": "announced that + 間接話法。since a ceasefire は「停戦以来」。although で譲歩、if で条件。threatened to resume は threaten to do の定型。",
+      "chunks": [
+        {
+          "text": "Iran's military",
+          "role_ja": "主語",
+          "literal_ja": "イラン軍は",
+          "note_ja": "military は軍（組織）を指す集合名詞的用法。"
+        },
+        {
+          "text": "announced on Monday that",
+          "role_ja": "述語・時",
+          "literal_ja": "月曜日に～と発表した",
+          "note_ja": "that節で発表内容を導入。news の基本構文。"
+        },
+        {
+          "text": "its first wave of attacks on Israel",
+          "role_ja": "主語（that節内）",
+          "literal_ja": "イスラエルへの攻撃の第一波は",
+          "note_ja": "wave of attacks で「攻撃の波・第一波」。"
+        },
+        {
+          "text": "since a ceasefire in April",
+          "role_ja": "時間修飾",
+          "literal_ja": "4月の停戦以来",
+          "note_ja": "since + 名詞 で起点。since April の ceasefire も可。"
+        },
+        {
+          "text": "was now over",
+          "role_ja": "述語",
+          "literal_ja": "今は終了した",
+          "note_ja": "be over = 終わった。now で現時点を強調。"
+        },
+        {
+          "text": "although it threatened to resume the strikes",
+          "role_ja": "譲歩節",
+          "literal_ja": "しかしそれは攻撃を再開すると脅したが",
+          "note_ja": "although は「だが」。resume strikes = 攻撃再開。"
+        },
+        {
+          "text": "if Israel continued attacks on Lebanon",
+          "role_ja": "条件節",
+          "literal_ja": "もしイスラエルがレバノン攻撃を続ければ",
+          "note_ja": "continue attacks on = ～への攻撃を続ける。"
+        }
+      ],
+      "deep_dive_ja": "first wave は軍事報道で「第一波攻撃」を示す定番表現。although と if が続き、事実の報告と条件付き警告を一文でまとめるのがニュース英語の特徴。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "There was no immediate response from Israel, which had launched attacks on Iran after Tehran fired missiles towards Israel late on Sunday.",
+      "translation_ja": "イスラエルからの即時の反応はなかった。イスラエルは、テヘランが日曜深夜にイスラエルへミサイルを発射した後、イランへの攻撃を開始していた。",
+      "grammar_ja": "There was 構文で存在・有無。関係代名詞 which が Israel を修飾。had launched は過去完了（fired より前）。fired missiles towards は「～方向へ発射」。",
+      "chunks": [
+        {
+          "text": "There was no immediate response from Israel",
+          "role_ja": "主文",
+          "literal_ja": "イスラエルからの即時の反応はなかった",
+          "note_ja": "immediate response = 即答・即時対応。否定で「反応なし」。"
+        },
+        {
+          "text": "which had launched attacks on Iran",
+          "role_ja": "関係節",
+          "literal_ja": "それはイランへの攻撃を開始していたが",
+          "note_ja": "非制限用法 which。had launched でより前の出来事。"
+        },
+        {
+          "text": "after Tehran fired missiles towards Israel",
+          "role_ja": "時間節",
+          "literal_ja": "テヘランがイスラエルへミサイルを撃った後",
+          "note_ja": "Tehran = イラン政府・首都の代名。towards = 方向。"
+        },
+        {
+          "text": "late on Sunday",
+          "role_ja": "時",
+          "literal_ja": "日曜の遅い時間に",
+          "note_ja": "late on + 曜日 で「その日の夜遅く」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran had said its strikes were in retaliation for Israeli strikes on the outskirts of Beirut.",
+      "translation_ja": "イランは、自国の攻撃はベイルート郊外へのイスラエル攻撃への報復だと述べていた。",
+      "grammar_ja": "had said + 間接話法（過去完了）。in retaliation for は「～への報復として」。on the outskirts of = ～の郊外。",
+      "chunks": [
+        {
+          "text": "Iran had said",
+          "role_ja": "主述",
+          "literal_ja": "イランは述べていた",
+          "note_ja": "過去完了で、前段より前の発言を示す。"
+        },
+        {
+          "text": "its strikes were in retaliation for",
+          "role_ja": "内容節",
+          "literal_ja": "その攻撃は～への報復だった",
+          "note_ja": "in retaliation for は軍事・外交ニュースの頻出コロケーション。"
+        },
+        {
+          "text": "Israeli strikes on the outskirts of Beirut",
+          "role_ja": "名詞句",
+          "literal_ja": "ベイルート郊外へのイスラエル攻撃",
+          "note_ja": "outskirts = 郊外。on the outskirts of が定型。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "President Donald ‌Trump demanded that Israel and Iran \"immediately stop shooting.\"",
+      "translation_ja": "ドナルド・トランプ大統領は、イスラエルとイランに「直ちに撃ち合いをやめろ」と要求した。",
+      "grammar_ja": "demand that + 主語 + 動詞原形（仮定法・米語では should 省略可）。stop shooting は「射撃・攻撃をやめる」の口語的軍事表現。",
+      "chunks": [
+        {
+          "text": "President Donald Trump",
+          "role_ja": "主語",
+          "literal_ja": "トランプ大統領は",
+          "note_ja": "役職 + 氏名。報道では President Trump と短縮も多い。"
+        },
+        {
+          "text": "demanded that",
+          "role_ja": "述語",
+          "literal_ja": "～を要求した",
+          "note_ja": "demand that 後は原形動詞（仮定法現在）。"
+        },
+        {
+          "text": "Israel and Iran",
+          "role_ja": "間接目的語",
+          "literal_ja": "イスラエルとイランに",
+          "note_ja": "双方を並列で示す。"
+        },
+        {
+          "text": "immediately stop shooting",
+          "role_ja": "that節の述語",
+          "literal_ja": "直ちに撃ち合いをやめろ",
+          "note_ja": "shooting は銃撃だけでなく軍事衝突全般を指すことがある。"
+        }
+      ],
+      "deep_dive_ja": "ceasefire より口語的な stop shooting は政治家の直接発言を引用する際に効果的。immediately は外交文書では at once に置き換わることも。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The flurry of attacks drove oil prices up around ⁠4% and threatened to wreck U.S.-led efforts to broker a deal to end the war.",
+      "translation_ja": "相次ぐ攻撃により原油価格は約4%上昇し、戦争終結の取引仲介を目指す米主導の努力を台無しにしかねないと脅かした。",
+      "grammar_ja": "flurry of = 一連の急激な動き。drove ... up は drive up「押し上げる」。threaten to wreck。broker a deal = 取引・和平案を仲介する。",
+      "chunks": [
+        {
+          "text": "The flurry of attacks",
+          "role_ja": "主語",
+          "literal_ja": "相次ぐ攻撃は",
+          "note_ja": "flurry = 急激な一連（雪などにも使う比喩）。"
+        },
+        {
+          "text": "drove oil prices up around 4%",
+          "role_ja": "述語1",
+          "literal_ja": "原油価格を約4%押し上げた",
+          "note_ja": "drive prices up。around = およそ。"
+        },
+        {
+          "text": "threatened to wreck",
+          "role_ja": "述語2",
+          "literal_ja": "台無しにする恐れを示した",
+          "note_ja": "threaten to + 動詞。wreck = 破壊・破綻させる。"
+        },
+        {
+          "text": "U.S.-led efforts",
+          "role_ja": "目的語",
+          "literal_ja": "米国主導の努力",
+          "note_ja": "-led は「～が主導する」の複合形容詞。"
+        },
+        {
+          "text": "to broker a deal to end the war",
+          "role_ja": "修飾",
+          "literal_ja": "戦争を終わらせる取引を仲介するための",
+          "note_ja": "broker は名詞「仲買人」から動詞化。外交ニュースで頻出。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israel ⁠hit a petrochemical plant in ⁠southwestern Iran that it said was used to produce ballistic missiles.",
+      "translation_ja": "イスラエルはイラン南西部の石油化学プラントを攻撃した。同国はその施設が弾道ミサイルの製造に使われていたと述べた。",
+      "grammar_ja": "hit = 軍事攻撃で「狙い撃ち」。that節は plant を修飾。was used to produce = 製造に使われていた（受動）。",
+      "chunks": [
+        {
+          "text": "Israel hit a petrochemical plant",
+          "role_ja": "主述",
+          "literal_ja": "イスラエルは石油化学プラントを攻撃した",
+          "note_ja": "hit は strike/attack と同義の報道用法。"
+        },
+        {
+          "text": "in southwestern Iran",
+          "role_ja": "場所",
+          "literal_ja": "イラン南西部の",
+          "note_ja": "southwestern は複合形容詞。"
+        },
+        {
+          "text": "that it said was used to produce ballistic missiles",
+          "role_ja": "関係節",
+          "literal_ja": "それは弾道ミサイル製造に使われていたとイスラエルが言う",
+          "note_ja": "it said が関係節に挿入。be used to produce = 製造用途。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it retaliated ‌with a strike aimed at a similar Israeli plant in the city of Haifa.",
+      "translation_ja": "イランのイスラム革命防衛隊（IRGC）は、ハイファ市にある同様のイスラエル側施設を標的とした攻撃で報復したと述べた。",
+      "grammar_ja": "retaliate with = ～で報復する。aimed at は過去分詞で strike を修飾（= which was aimed at）。",
+      "chunks": [
+        {
+          "text": "Iran's Islamic Revolutionary Guard Corps (IRGC)",
+          "role_ja": "主語",
+          "literal_ja": "イランのIRGCは",
+          "note_ja": "固有名詞＋略称。初出で括弧説明が一般的。"
+        },
+        {
+          "text": "said it retaliated",
+          "role_ja": "述語",
+          "literal_ja": "報復したと述べた",
+          "note_ja": "retaliate は報復の基本動詞。"
+        },
+        {
+          "text": "with a strike",
+          "role_ja": "手段",
+          "literal_ja": "攻撃によって",
+          "note_ja": "with + 名詞 で手段。"
+        },
+        {
+          "text": "aimed at a similar Israeli plant",
+          "role_ja": "修飾",
+          "literal_ja": "同様のイスラエル施設を標的とした",
+          "note_ja": "aim at = 狙う。similar で対称性を強調。"
+        },
+        {
+          "text": "in the city of Haifa",
+          "role_ja": "場所",
+          "literal_ja": "ハイファ市の",
+          "note_ja": "the city of + 地名 は正式な地名紹介。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The first direct exchange between Israel and Iran ⁠since April could interfere with Trump's efforts to end the ⁠war he launched alongside Israel at the end of February.",
+      "translation_ja": "4月以来初のイスラエルとイランの直接の武力衝突は、トランプが2月末にイスラエルとともに始めた戦争を終わらせようとする努力を妨げる可能性がある。",
+      "grammar_ja": "exchange = ここでは武力衝突。could interfere with。関係代名詞省略 he launched（war を目的語）。alongside = ～とともに。",
+      "chunks": [
+        {
+          "text": "The first direct exchange between Israel and Iran",
+          "role_ja": "主語",
+          "literal_ja": "イスラエルとイランの最初の直接衝突は",
+          "note_ja": "exchange は外交では「交換」、軍事では「交戦」。"
+        },
+        {
+          "text": "since April",
+          "role_ja": "時間",
+          "literal_ja": "4月以来",
+          "note_ja": "前文の ceasefire と呼応。"
+        },
+        {
+          "text": "could interfere with Trump's efforts",
+          "role_ja": "述語",
+          "literal_ja": "トランプの努力を妨げるかもしれない",
+          "note_ja": "interfere with = 妨害する。could で可能性。"
+        },
+        {
+          "text": "to end the war",
+          "role_ja": "目的",
+          "literal_ja": "戦争を終わらせる",
+          "note_ja": "efforts to do の不定詞修飾。"
+        },
+        {
+          "text": "he launched alongside Israel at the end of February",
+          "role_ja": "関係節（省略）",
+          "literal_ja": "彼が2月末にイスラエルと共に始めた",
+          "note_ja": "関係代名詞 that/which 省略。launched a war。"
+        }
+      ],
+      "deep_dive_ja": "direct exchange は euphemism（婉曲表現）で直接戦闘を指す。alongside Israel は同盟関係を示唆する報道表現。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Iran's military headquarters said it had \"delivered a painful response\" against Israel for its attacks on Lebanon, including Sunday's strikes on the outskirts of Beirut.",
+      "translation_ja": "イラン軍司令部は、レバノンへの攻撃、日曜のベイルート郊外攻撃を含むイスラエルの行動に対し「痛烈な報復を実施した」と述べた。",
+      "grammar_ja": "had delivered は過去完了。against Israel for ... で対象と理由。including は付加説明。",
+      "chunks": [
+        {
+          "text": "Iran's military headquarters",
+          "role_ja": "主語",
+          "literal_ja": "イラン軍司令部は",
+          "note_ja": "headquarters は単複同形。"
+        },
+        {
+          "text": "had \"delivered a painful response\"",
+          "role_ja": "述語",
+          "literal_ja": "「痛烈な報復を実施した」",
+          "note_ja": "deliver a response = 報復・対応を行う。公式声明調。"
+        },
+        {
+          "text": "against Israel",
+          "role_ja": "対象",
+          "literal_ja": "イスラエルに対して",
+          "note_ja": "against + 国名。"
+        },
+        {
+          "text": "for its attacks on Lebanon",
+          "role_ja": "理由",
+          "literal_ja": "レバノンへの攻撃に対する",
+          "note_ja": "its = Israel's。"
+        },
+        {
+          "text": "including Sunday's strikes on the outskirts of Beirut",
+          "role_ja": "付加",
+          "literal_ja": "日曜のベイルート郊外攻撃を含め",
+          "note_ja": "including + 名詞 で具体例。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Accordingly, the operations of the armed forces are hereby declared halted; however, it is emphasized that if the aggressions and acts of mischief ⁠continue — including in southern Lebanon — much more severe and crushing actions than before will follow.\"",
+      "translation_ja": "「それに伴い、軍の作戦行動はここに停止を宣言する。ただし、侵略や悪意ある行為、南レバノンを含めそれらが続くなら、以前を上回るより厳しく壊滅的な行動が続くことを強調する。」",
+      "grammar_ja": "公式声明文体。are hereby declared halted（ hereby = ここに）。it is emphasized that。比較級 more severe and crushing than before。",
+      "chunks": [
+        {
+          "text": "Accordingly",
+          "role_ja": "接続副詞",
+          "literal_ja": "それに伴い",
+          "note_ja": "前文の報復を受けた結論を示す。"
+        },
+        {
+          "text": "the operations of the armed forces are hereby declared halted",
+          "role_ja": "主節",
+          "literal_ja": "軍の作戦はここに停止宣言される",
+          "note_ja": "hereby + declare は公式文書の定型。"
+        },
+        {
+          "text": "however, it is emphasized that",
+          "role_ja": "転換",
+          "literal_ja": "しかし～が強調される",
+          "note_ja": "it is emphasized that = 形式主語構文。"
+        },
+        {
+          "text": "if the aggressions and acts of mischief continue",
+          "role_ja": "条件節",
+          "literal_ja": "もし侵略と悪行が続けば",
+          "note_ja": "acts of mischief = 悪意ある行為（硬い表現）。"
+        },
+        {
+          "text": "including in southern Lebanon",
+          "role_ja": "挿入",
+          "literal_ja": "南レバノンを含めて",
+          "note_ja": "ダッシュで挿入句。"
+        },
+        {
+          "text": "much more severe and crushing actions than before will follow",
+          "role_ja": "主節（条件の結果）",
+          "literal_ja": "以前よりずっと厳しく壊滅的な行動が続く",
+          "note_ja": "crushing = 壊滅的な。will follow = 続く・相次ぐ。"
+        }
+      ],
+      "deep_dive_ja": "軍事声明特有の硬い英語。accordingly / hereby / it is emphasized は B2 学習者にとって「翻訳調」に感じやすいが、外交・防衛文書では自然。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "In one of several posts ⁠on social media, Trump said Israel and Iran both ‌wanted \"an immediate CEASEFIRE!",
+      "translation_ja": "ソーシャルメディアへの複数投稿の一つで、トランプはイスラエルとイランの双方が「即時停戦」を望んでいると述べた。",
+      "grammar_ja": "In one of several posts = 複数のうちの一つ。both wanted。引用内の大文字 CEASEFIRE は強調。",
+      "chunks": [
+        {
+          "text": "In one of several posts on social media",
+          "role_ja": "状況",
+          "literal_ja": "ソーシャルメディアの複数投稿の一つで",
+          "note_ja": "one of several + 複数名詞。"
+        },
+        {
+          "text": "Trump said",
+          "role_ja": "主述",
+          "literal_ja": "トランプは述べた",
+          "note_ja": "発言の導入。"
+        },
+        {
+          "text": "Israel and Iran both wanted",
+          "role_ja": "that節",
+          "literal_ja": "イスラエルとイラン双方が望んでいた",
+          "note_ja": "both は wanted の直前で両者を強調。"
+        },
+        {
+          "text": "an immediate CEASEFIRE",
+          "role_ja": "目的語",
+          "literal_ja": "即時停戦を",
+          "note_ja": "大文字は投稿での強調。immediate ceasefire が一般。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Final negotiations on 'Peace' are proceeding, subject to ignorance or stupidity getting in its way.\" He added that a U.S. blockade of Iranian ports would remain in place till a final deal was reached.",
+      "translation_ja": "「『平和』に関する最終交渉は進行中だが、無知や愚かさが邪魔をしなければの話だ」と続けた。彼は最終合意に至るまで、イラン港に対する米国の封鎖は継続すると付け加えた。",
+      "grammar_ja": "subject to + 動名詞「～次第で」。get in the way = 妨げる。remain in place = 継続。till = until。",
+      "chunks": [
+        {
+          "text": "Final negotiations on 'Peace' are proceeding",
+          "role_ja": "引用部",
+          "literal_ja": "平和に関する最終交渉は進行している",
+          "note_ja": "proceed = 進む・進行する。"
+        },
+        {
+          "text": "subject to ignorance or stupidity getting in its way",
+          "role_ja": "条件",
+          "literal_ja": "無知か愚かさが邪魔しないことを条件に",
+          "note_ja": "subject to = ～次第で／～を条件に。口語的攻撃表現。"
+        },
+        {
+          "text": "He added that",
+          "role_ja": "主述",
+          "literal_ja": "彼は付け加えた",
+          "note_ja": "引用を続ける接続。"
+        },
+        {
+          "text": "a U.S. blockade of Iranian ports",
+          "role_ja": "主語（that節）",
+          "literal_ja": "イラン港に対する米国の封鎖は",
+          "note_ja": "blockade of ports = 港湾封鎖。"
+        },
+        {
+          "text": "would remain in place till a final deal was reached",
+          "role_ja": "述語",
+          "literal_ja": "最終合意まで継続するだろう",
+          "note_ja": "remain in place = 維持される。reach a deal。"
+        }
+      ],
+      "deep_dive_ja": "subject to getting in its way は政治家の SNS 特有の口語。its は negotiations を指す。B2 では subject to の「条件」用法を押さえると読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s013"
+    },
+    {
+      "text": "An Israeli official said Trump had spoken on Monday to Prime Minister Benjamin Netanyahu.",
+      "translation_ja": "イスラエルの高官は、トランプが月曜日にベンヤミン・ネタニヤフ首相と会談したと述べた。",
+      "grammar_ja": "had spoken は過去完了（said より前）。spoken to = 話した・会談した。",
+      "chunks": [
+        {
+          "text": "An Israeli official",
+          "role_ja": "主語",
+          "literal_ja": "イスラエルの高官は",
+          "note_ja": "official = 政府関係者（匿名ソース）。"
+        },
+        {
+          "text": "said Trump had spoken on Monday",
+          "role_ja": "述語",
+          "literal_ja": "トランプが月曜に話したと述べた",
+          "note_ja": "間接話法＋過去完了の時制のずれ。"
+        },
+        {
+          "text": "to Prime Minister Benjamin Netanyahu",
+          "role_ja": "相手",
+          "literal_ja": "ネタニヤフ首相に",
+          "note_ja": "speak to = 会談する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Earlier on Monday an Israeli military official said Israel was prepared for a range ‌of options for military strikes against Iran, from several days to \"as long as it takes\".",
+      "translation_ja": "月曜日の早い時間、イスラエル軍の高官は、イスラエルはイランへの軍事攻撃について数日から「必要なだけ長く」まで、さまざまな選択肢に備えていると述べた。",
+      "grammar_ja": "be prepared for = ～に備える。a range of options。from ... to ... で範囲。as long as it takes = 必要な期間だけ。",
+      "chunks": [
+        {
+          "text": "Earlier on Monday",
+          "role_ja": "時",
+          "literal_ja": "月曜の早い時間に",
+          "note_ja": "earlier = この日のうちのより早い時点。"
+        },
+        {
+          "text": "an Israeli military official said",
+          "role_ja": "主述",
+          "literal_ja": "イスラエル軍高官は述べた",
+          "note_ja": "匿名軍事消息源。"
+        },
+        {
+          "text": "Israel was prepared for a range of options",
+          "role_ja": "that節",
+          "literal_ja": "イスラエルは幅広い選択肢に備えていた",
+          "note_ja": "be prepared for の定型。"
+        },
+        {
+          "text": "for military strikes against Iran",
+          "role_ja": "修飾",
+          "literal_ja": "イランへの軍事攻撃の",
+          "note_ja": "strikes against = ～への攻撃。"
+        },
+        {
+          "text": "from several days to \"as long as it takes\"",
+          "role_ja": "範囲",
+          "literal_ja": "数日から「必要なだけ」まで",
+          "note_ja": "期間の幅を示す慣用句。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israel had struck Iranian air defence systems that were being rebuilt after previous Israeli attacks, as well as the petrochemical plant.",
+      "translation_ja": "イスラエルは、以前のイスラエル攻撃後に再建されつつあったイランの防空システムに加え、石油化学プラントも攻撃していた。",
+      "grammar_ja": "had struck 過去完了。were being rebuilt 過去進行受動。as well as = ～に加えて。",
+      "chunks": [
+        {
+          "text": "Israel had struck Iranian air defence systems",
+          "role_ja": "主述",
+          "literal_ja": "イスラエルはイランの防空システムを攻撃していた",
+          "note_ja": "air defence（米: defense）= 防空。"
+        },
+        {
+          "text": "that were being rebuilt",
+          "role_ja": "関係節",
+          "literal_ja": "再建されつつあった",
+          "note_ja": "進行形受動で継続中の再建。"
+        },
+        {
+          "text": "after previous Israeli attacks",
+          "role_ja": "時間",
+          "literal_ja": "以前のイスラエル攻撃の後",
+          "note_ja": "previous = 以前の。"
+        },
+        {
+          "text": "as well as the petrochemical plant",
+          "role_ja": "追加",
+          "literal_ja": "石油化学プラントも",
+          "note_ja": "as well as で並列追加。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In a similarly defiant vein, an Iranian military source quoted by the Tasnim news agency had said Tehran was prepared for a prolonged conflict with Israel and for renewed strikes against U.S. interests in the region.",
+      "translation_ja": "タスニム通信が引用したイラン軍消息筋は、同様に強硬な姿勢で、テヘランはイスラエルとの長期衝突と、地域の米国利益に対する攻撃再開にも備えていると述べていた。",
+      "grammar_ja": "In a ... vein = ～のような調子で。quoted by 受動。prepared for A and for B の並列。renewed strikes = 再開される攻撃。",
+      "chunks": [
+        {
+          "text": "In a similarly defiant vein",
+          "role_ja": "様態",
+          "literal_ja": "同様に挑戦的な調子で",
+          "note_ja": "vein = 雰囲気・調子。defiant = 挑戦的な。"
+        },
+        {
+          "text": "an Iranian military source quoted by the Tasnim news agency",
+          "role_ja": "主語",
+          "literal_ja": "タスニムが引用したイラン軍ソースは",
+          "note_ja": "quoted by = ～により引用された。"
+        },
+        {
+          "text": "had said Tehran was prepared for",
+          "role_ja": "述語",
+          "literal_ja": "テヘランは備えていると述べていた",
+          "note_ja": "過去完了で時系列を整理。"
+        },
+        {
+          "text": "a prolonged conflict with Israel",
+          "role_ja": "対象1",
+          "literal_ja": "イスラエルとの長期紛争に",
+          "note_ja": "prolonged = 長期化した。"
+        },
+        {
+          "text": "renewed strikes against U.S. interests in the region",
+          "role_ja": "対象2",
+          "literal_ja": "地域の米国利益への攻撃再開に",
+          "note_ja": "renewed = 再開される。interests = 利益・関心・施設。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei said Tehran was exchanging messages with Washington in an atmosphere of \"extreme suspicion\".",
+      "translation_ja": "イラン外務省のスポークスパーソン・エスマイール・バガエイは、テヘランが「極度の不信」の雰囲気の中でワシントンとメッセージを交換していると述べた。",
+      "grammar_ja": "was exchanging 過去進行（継続）。in an atmosphere of = ～という雰囲気で。",
+      "chunks": [
+        {
+          "text": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei",
+          "role_ja": "主語",
+          "literal_ja": "イラン外務省報道官バガエイは",
+          "note_ja": "spokesperson = 公式发言人。"
+        },
+        {
+          "text": "said Tehran was exchanging messages with Washington",
+          "role_ja": "述語",
+          "literal_ja": "テヘランがワシントンとメッセージ交換していると述べた",
+          "note_ja": "exchange messages = 非公式外交チャネル。"
+        },
+        {
+          "text": "in an atmosphere of \"extreme suspicion\"",
+          "role_ja": "状況",
+          "literal_ja": "極度の不信の雰囲気の中で",
+          "note_ja": "atmosphere of suspicion は外交報道のコロケーション。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israel's actions in Lebanon, whether carried out with U.S. knowledge and consent or ​not, were aimed at sabotaging diplomacy, he added.",
+      "translation_ja": "レバノンでのイスラエルの行動は、米国の了解と同意を得て行われたかどうかにかかわらず、外交を破壊する目的があったと彼は付け加えた。",
+      "grammar_ja": "whether ... or not 譲歩。carried out 過去分詞（省略: whether they were carried out）。were aimed at + 動名詞。",
+      "chunks": [
+        {
+          "text": "Israel's actions in Lebanon",
+          "role_ja": "主語",
+          "literal_ja": "レバノンでのイスラエルの行動は",
+          "note_ja": "actions in + 地名。"
+        },
+        {
+          "text": "whether carried out with U.S. knowledge and consent or not",
+          "role_ja": "譲歩挿入",
+          "literal_ja": "米国の了解と同意を得て行われたかどうかにかかわらず",
+          "note_ja": "with knowledge and consent = 了解と同意を得て。"
+        },
+        {
+          "text": "were aimed at sabotaging diplomacy",
+          "role_ja": "述語",
+          "literal_ja": "外交を破壊することを目的としていた",
+          "note_ja": "be aimed at + -ing。sabotage = 破壊・妨害。"
+        },
+        {
+          "text": "he added",
+          "role_ja": "付加",
+          "literal_ja": "彼は付け加えた",
+          "note_ja": "発言の継続を示す。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The United States bears direct responsibility for any action the Zionist regime (Israel) takes in relation to violating regional peace and security against Iran,\" he said.",
+      "translation_ja": "「米国は、ソ連…ではなくシオニスト政権（イスラエル）がイランに対し地域の平和と安全を侵害する行動をとることについて、直接的な責任を負う」と彼は述べた。",
+      "grammar_ja": "bear responsibility for = 責任を負う。関係節 the Zionist regime takes（action を目的語）。in relation to + 動名詞。",
+      "chunks": [
+        {
+          "text": "The United States bears direct responsibility",
+          "role_ja": "主述",
+          "literal_ja": "米国は直接の責任を負う",
+          "note_ja": "bear responsibility は硬い外交表現。"
+        },
+        {
+          "text": "for any action the Zionist regime (Israel) takes",
+          "role_ja": "対象",
+          "literal_ja": "シオニスト政権（イスラエル）がとるあらゆる行動について",
+          "note_ja": "イラン公式文書特有の呼称。括弧で実体を示す。"
+        },
+        {
+          "text": "in relation to violating regional peace and security against Iran",
+          "role_ja": "修飾",
+          "literal_ja": "イランに対する地域平和と安全の侵害に関して",
+          "note_ja": "in relation to = ～に関して。"
+        }
+      ],
+      "deep_dive_ja": "Zionist regime はイラン側の政治的レトリック。B2 学習者は語彙の政治的文脈を押さえつつ、bear responsibility / in relation to の構文を学ぶとよい。",
+      "difficulty": "hard",
+      "sentence_id": "s020"
+    },
+    {
+      "text": "Iranian media reported the sound of ‌explosions in Tehran on Monday, and the semi-official Mehr news agency said air defenses had shot down a drone over the capital.",
+      "translation_ja": "イランのメディアは月曜、テヘランで爆発音がしたと報じ、準公式のメヘル通信は首都上空で防空部隊がドローンを撃墜したと伝えた。",
+      "grammar_ja": "reported / said の並列。the sound of explosions。had shot down 過去完了。over the capital = 首都上空。",
+      "chunks": [
+        {
+          "text": "Iranian media reported the sound of explosions in Tehran on Monday",
+          "role_ja": "節1",
+          "literal_ja": "イランメディアは月曜テヘランの爆発音を報じた",
+          "note_ja": "the sound of = ～の音。"
+        },
+        {
+          "text": "the semi-official Mehr news agency",
+          "role_ja": "主語2",
+          "literal_ja": "準公式のメヘル通信は",
+          "note_ja": "semi-official = 政府寄りだが公式ではない。"
+        },
+        {
+          "text": "said air defenses had shot down a drone",
+          "role_ja": "節2",
+          "literal_ja": "防空がドローンを撃墜したと述べた",
+          "note_ja": "shoot down = 撃墜する。"
+        },
+        {
+          "text": "over the capital",
+          "role_ja": "場所",
+          "literal_ja": "首都上空で",
+          "note_ja": "the capital = Tehran。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "There were no immediate reports of casualties or damage.",
+      "translation_ja": "死者や被害に関する即時の報告はなかった。",
+      "grammar_ja": "There were no reports of ... 定型。casualties or damage の並列。",
+      "chunks": [
+        {
+          "text": "There were no immediate reports",
+          "role_ja": "主文",
+          "literal_ja": "即時の報告はなかった",
+          "note_ja": "戦争報道で頻出する「未確認」表現。"
+        },
+        {
+          "text": "of casualties or damage",
+          "role_ja": "内容",
+          "literal_ja": "死傷者や被害についての",
+          "note_ja": "casualties = 死傷者。damage = 物的損害。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Yemen's Iran-aligned Houthis pledged in a statement to stop Israel's maritime navigation in the Red Sea, and said they ‌had also fired missiles at Israel.",
+      "translation_ja": "イラン寄りのイエメン・フーシ派は声明で、紅海におけるイスラエルの海上航行を阻止すると誓い、イスラエルへミサイルも発射したと述べた。",
+      "grammar_ja": "Iran-aligned = イラン寄りの複合形容詞。pledged to stop。maritime navigation = 海上航行。had also fired 過去完了。",
+      "chunks": [
+        {
+          "text": "Yemen's Iran-aligned Houthis",
+          "role_ja": "主語",
+          "literal_ja": "イラン寄りのフーシ派は",
+          "note_ja": "-aligned = ～寄り・～側の。"
+        },
+        {
+          "text": "pledged in a statement to stop Israel's maritime navigation in the Red Sea",
+          "role_ja": "述語1",
+          "literal_ja": "声明で紅海のイスラエル航行を止めると誓った",
+          "note_ja": "pledge to do = 公約する。"
+        },
+        {
+          "text": "said they had also fired missiles at Israel",
+          "role_ja": "述語2",
+          "literal_ja": "イスラエルにミサイルも撃ったと述べた",
+          "note_ja": "also で追加攻撃を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Houthis have so far largely stayed out of the regional war; they control ⁠territory at the mouth of the Red ⁠Sea, increasingly important as the alternative route for millions of ​barrels per day of Middle East oil otherwise blocked by Iran's grip on the Strait of Hormuz.",
+      "translation_ja": "フーシ派はこれまで地域戦争にはほぼ関与してこなかった。同派は紅海の入り口の地域を支配しており、ホルムズ海峡をイランが握ることで塞がれそうな中東原油の代替輸送路として重要性を増している。",
+      "grammar_ja": "have stayed out of = 関与しない。分号で二文接続。increasingly important as ... 分詞構文。otherwise blocked = さもなければ遮られる。",
+      "chunks": [
+        {
+          "text": "The Houthis have so far largely stayed out of the regional war",
+          "role_ja": "節1",
+          "literal_ja": "フーシ派はこれまでほぼ地域戦争に関与してこなかった",
+          "note_ja": "stay out of = 関わらない。"
+        },
+        {
+          "text": "they control territory at the mouth of the Red Sea",
+          "role_ja": "節2主部",
+          "literal_ja": "彼らは紅海の入り口の地域を支配する",
+          "note_ja": "at the mouth of = 河口・入り口。"
+        },
+        {
+          "text": "increasingly important as the alternative route",
+          "role_ja": "補足",
+          "literal_ja": "代替ルートとしてますます重要な",
+          "note_ja": "形容詞句が territory を説明。"
+        },
+        {
+          "text": "for millions of barrels per day of Middle East oil",
+          "role_ja": "修飾",
+          "literal_ja": "中東石油の一日数百万バレルにとって",
+          "note_ja": "barrels per day = 石油の単位。"
+        },
+        {
+          "text": "otherwise blocked by Iran's grip on the Strait of Hormuz",
+          "role_ja": "条件",
+          "literal_ja": "さもなくばホルムズ海峡のイランの掌握で塞がれる",
+          "note_ja": "otherwise = そうでなければ。grip on = 掌握。"
+        }
+      ],
+      "deep_dive_ja": "地政学記事では stay out of / alternative route / grip on the Strait がセットで出やすい。分号前後で「関与せず」と「戦略的重要性」を対比。",
+      "difficulty": "hard",
+      "sentence_id": "s024"
+    },
+    {
+      "text": "The Israeli ⁠military official said Iran had fired \"close to ‌30 ballistic missiles\" at Israel since Sunday evening, and the Houthis a further two ​missiles.",
+      "translation_ja": "イスラエル軍の高官は、日曜夕方以降イランがイスラエルに「約30発」の弾道ミサイルを発射し、フーシ派がさらに2発を撃ったと述べた。",
+      "grammar_ja": "close to = およそ。since Sunday evening。a further two missiles は had fired の省略（並列省略）。",
+      "chunks": [
+        {
+          "text": "The Israeli military official said",
+          "role_ja": "主述",
+          "literal_ja": "イスラエル軍高官は述べた",
+          "note_ja": "前文と同じ消息源の可能性。"
+        },
+        {
+          "text": "Iran had fired \"close to 30 ballistic missiles\" at Israel",
+          "role_ja": "that節1",
+          "literal_ja": "イランはイスラエルに約30発の弾道ミサイルを撃った",
+          "note_ja": "close to = approximately。"
+        },
+        {
+          "text": "since Sunday evening",
+          "role_ja": "時",
+          "literal_ja": "日曜夕方以降",
+          "note_ja": "since + 時点。"
+        },
+        {
+          "text": "and the Houthis a further two missiles",
+          "role_ja": "that節2（省略）",
+          "literal_ja": "フーシ派がさらに2発を",
+          "note_ja": "had fired が省略された並列。 further = 追加の。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israel said it struck targets at the Mahshahr petrochemical complex that were used to produce and export raw materials for Iran's missile program.",
+      "translation_ja": "イスラエルは、マフシャフルの石油化学コンプレックス内で、イランのミサイル計画向け原材料の製造・輸出に使われていた目標を攻撃したと述べた。",
+      "grammar_ja": "struck targets at ... 場所。that were used to produce and export。raw materials for = ～向け原材料。",
+      "chunks": [
+        {
+          "text": "Israel said it struck targets",
+          "role_ja": "主述",
+          "literal_ja": "イスラエルは標的を攻撃したと述べた",
+          "note_ja": "strike targets = 目標攻撃。"
+        },
+        {
+          "text": "at the Mahshahr petrochemical complex",
+          "role_ja": "場所",
+          "literal_ja": "マフシャフル石油化学コンプレックスで",
+          "note_ja": "complex = 複合施設。"
+        },
+        {
+          "text": "that were used to produce and export raw materials",
+          "role_ja": "関係節",
+          "literal_ja": "原材料を製造・輸出するのに使われていた",
+          "note_ja": "produce and export の並列。"
+        },
+        {
+          "text": "for Iran's missile program",
+          "role_ja": "目的",
+          "literal_ja": "イランのミサイル計画のために",
+          "note_ja": "missile program = ミサイル開発・生産体制。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A provincial official told Iranian media parts of the plant were damaged.",
+      "translation_ja": "州の当局者はイランのメディアに、プラントの一部が損傷したと伝えた。",
+      "grammar_ja": "tell + 人 + (that) 節 の that 省略。were damaged 受動態。parts of the plant。",
+      "chunks": [
+        {
+          "text": "A provincial official",
+          "role_ja": "主語",
+          "literal_ja": "州の当局者は",
+          "note_ja": "provincial = 州・地方レベルの。"
+        },
+        {
+          "text": "told Iranian media",
+          "role_ja": "述語",
+          "literal_ja": "イランメディアに伝えた",
+          "note_ja": "tell media = 報道機関に語る。"
+        },
+        {
+          "text": "parts of the plant were damaged",
+          "role_ja": "間接話法",
+          "literal_ja": "プラントの一部は損傷した",
+          "note_ja": "that 省略の間接話法。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "pronunciation": "/ˈsiːsfaɪər/",
+      "meaning_ja": "停戦、停火",
+      "example": "Israel and Iran both wanted \"an immediate CEASEFIRE!\"",
+      "example_ja": "イスラエルとイラン双方が「即時停戦」を望んでいる。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "in retaliation for",
+      "pronunciation": "/ɪn rɪˌtæliˈeɪʃn fɔːr/",
+      "meaning_ja": "～への報復として",
+      "example": "Iran had said its strikes were in retaliation for Israeli strikes on the outskirts of Beirut.",
+      "example_ja": "イランは攻撃がベイルート郊外へのイスラエル攻撃への報復だと述べた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "broker a deal",
+      "pronunciation": "/ˈbrəʊkər ə diːl/",
+      "meaning_ja": "（和平などの）取引・合意を仲介する",
+      "example": "U.S.-led efforts to broker a deal to end the war",
+      "example_ja": "戦争終結の取引を仲介する米主導の努力",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "ballistic missile",
+      "pronunciation": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "meaning_ja": "弾道ミサイル",
+      "example": "a petrochemical plant used to produce ballistic missiles",
+      "example_ja": "弾道ミサイルの製造に使われていた石油化学プラント",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "blockade",
+      "pronunciation": "/blɒˈkeɪd/",
+      "meaning_ja": "封鎖",
+      "example": "a U.S. blockade of Iranian ports would remain in place",
+      "example_ja": "イラン港に対する米国の封鎖は継続する",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "maritime navigation",
+      "pronunciation": "/ˈmærɪtaɪm ˌnævɪˈɡeɪʃn/",
+      "meaning_ja": "海上航行",
+      "example": "pledged to stop Israel's maritime navigation in the Red Sea",
+      "example_ja": "紅海でのイスラエルの海上航行を阻止すると誓った",
+      "source_sentence_id": "s023"
+    },
+    {
+      "word": "casualties",
+      "pronunciation": "/ˈkæʒuəltiz/",
+      "meaning_ja": "死傷者",
+      "example": "There were no immediate reports of casualties or damage.",
+      "example_ja": "死傷者や被害の即時報告はなかった。",
+      "source_sentence_id": "s022"
+    },
+    {
+      "word": "defiant",
+      "pronunciation": "/dɪˈfaɪənt/",
+      "meaning_ja": "挑戦的な、強硬な",
+      "example": "In a similarly defiant vein, an Iranian military source had said...",
+      "example_ja": "同様に強硬な姿勢で、イラン軍消息筋は述べていた。",
+      "source_sentence_id": "s017"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-past-perfect",
+      "title": "Reported speech with past perfect",
+      "rule": "When the reporting verb is past (said, announced), an earlier action uses past perfect (had + past participle).",
+      "example": "An Israeli official said Trump had spoken on Monday to Prime Minister Benjamin Netanyahu.",
+      "meaning_ja": "「said」など過去の報道動詞のあと、それより前の出来事は had + 過去分詞で表す。ニュースでは時系列を明確にするために頻用される。"
+    },
+    {
+      "id": "in-retaliation-for",
+      "title": "in retaliation for / retaliate with",
+      "rule": "Use 'in retaliation for + noun' for reason; 'retaliate with + means' for how retaliation is carried out.",
+      "example": "Iran had said its strikes were in retaliation for Israeli strikes on the outskirts of Beirut.",
+      "meaning_ja": "軍事・外交記事で「報復」を述べる定型。理由は in retaliation for、手段は retaliate with a strike のように使い分ける。"
+    },
+    {
+      "id": "subject-to-gerund",
+      "title": "subject to + gerund",
+      "rule": "'Subject to' means 'depending on' and is followed by a noun or gerund phrase.",
+      "example": "Final negotiations on 'Peace' are proceeding, subject to ignorance or stupidity getting in its way.",
+      "meaning_ja": "subject to は「～次第で」「～を条件に」。後ろに動名詞句が続くと「～が起きなければ」という条件になる。"
+    },
+    {
+      "id": "participle-reduced-relative",
+      "title": "Reduced relative clauses (past participle)",
+      "rule": "A relative clause can be shortened when the verb is passive: 'actions which were carried out' → 'actions carried out'.",
+      "example": "Israel's actions in Lebanon, whether carried out with U.S. knowledge and consent or not, were aimed at sabotaging diplomacy.",
+      "meaning_ja": "関係詞＋be＋過去分詞を過去分詞だけに短縮できる。whether carried out ... or not のように長い挿入句をすっきり書ける。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 27,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T19:50:03+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:iran-announces-end-to-attacks-on-israel-"
+}

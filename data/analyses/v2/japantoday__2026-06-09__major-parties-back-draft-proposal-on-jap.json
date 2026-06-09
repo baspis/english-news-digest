@@ -1,0 +1,525 @@
+{
+  "summary_ja": "月曜日、日本の主要な与野党の多くが、皇位継承の安定をめぐる懸念を背景に、皇室の人数を維持するための皇室典範改正案を支持した。案の柱は、皇族女性が平民と結婚後も皇族の身分を保てることと、旧皇族11家から男子を養子縁組できることだ。女性天皇や母系継承には触れず、法案成立の見通しは高い。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Please upgrade to a more modern version to fully experience JapanToday site and for security reasons",
+      "translation_ja": "JapanTodayサイトを十分に利用し、セキュリティ上の理由からも、より新しいバージョンへアップグレードしてください。",
+      "grammar_ja": "命令形（Please + 動詞原形）と、to不定詞（目的）が並ぶ典型的なウェブサイトの告知文。",
+      "chunks": [
+        {
+          "text": "Please upgrade",
+          "role_ja": "述語（依頼・命令）",
+          "literal_ja": "どうかアップグレードしてください",
+          "note_ja": "Please + 動詞原形で丁寧な依頼。硬い指示より柔らかい。"
+        },
+        {
+          "text": "to a more modern version",
+          "role_ja": "方向・対象を示す副詞句",
+          "literal_ja": "より新しいバージョンへ",
+          "note_ja": "upgrade to ... で「〜へ更新する」。"
+        },
+        {
+          "text": "to fully experience JapanToday site",
+          "role_ja": "目的を示す不定詞句",
+          "literal_ja": "JapanTodayサイトを十分に体験するために",
+          "note_ja": "fully は「十分に・完全に」。"
+        },
+        {
+          "text": "for security reasons",
+          "role_ja": "理由を示す副詞句",
+          "literal_ja": "セキュリティ上の理由のために",
+          "note_ja": "for ... reasons は「〜の理由で」。"
+        }
+      ],
+      "deep_dive_ja": "本文ではなくサイト側の表示メッセージです。ニュース記事ではなく、技術・セキュリティ文脈の短い依頼文として読む練習になります。",
+      "difficulty": "easy",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Most of the major ruling and opposition parties on Monday showed support for a draft proposal by Japan's lower and upper house speakers for a law revision to maintain the number of imperial family members, amid concerns over a stable imperial succession.",
+      "translation_ja": "月曜日、主要な与野党の多くが、皇位継承の安定への懸念を背景に、皇室の人数を維持するための法律改正案――衆参両院議長による草案――を支持した。",
+      "grammar_ja": "show support for ...（〜を支持する）、amid concerns over ...（〜への懸念の中で）が政治ニュースの定番表現。",
+      "chunks": [
+        {
+          "text": "Most of the major ruling and opposition parties",
+          "role_ja": "主語",
+          "literal_ja": "主要な与野党の大部分",
+          "note_ja": "ruling party＝与党、opposition party＝野党。"
+        },
+        {
+          "text": "on Monday",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "月曜日に",
+          "note_ja": "ニュースでは具体的な曜日で時系列を示す。"
+        },
+        {
+          "text": "showed support for a draft proposal",
+          "role_ja": "述語",
+          "literal_ja": "草案を支持した",
+          "note_ja": "show support for は support よりややフォーマル。"
+        },
+        {
+          "text": "by Japan's lower and upper house speakers",
+          "role_ja": "提案者を示す修飾",
+          "literal_ja": "日本の衆参両院議長による",
+          "note_ja": "lower house＝衆議院、upper house＝参議院。"
+        },
+        {
+          "text": "for a law revision to maintain the number of imperial family members",
+          "role_ja": "目的を示す不定詞句",
+          "literal_ja": "皇室の人数を維持するための法律改正の",
+          "note_ja": "revision は amendment と同義で使われることが多い。"
+        },
+        {
+          "text": "amid concerns over a stable imperial succession",
+          "role_ja": "状況・背景を示す前置詞句",
+          "literal_ja": "安定した皇位継承への懸念の中で",
+          "note_ja": "amid は「〜の最中に・〜を背景に」。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では「皇位継承」「皇室典範改正」が頻出語です。英文では imperial succession と imperial family law revision と分けて書かれることが多いです。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "At a meeting of all 13 political parties and groups from parliament, seven including the ruling Liberal Democratic Party led by Prime Minister Sanae Takaichi \"generally agreed\" on the proposal, House of Representatives Speaker Eisuke Mori told a press conference.",
+      "translation_ja": "国会の全13政党・会派による会合で、高市早苗首相が率いる与党自民党を含む7政党が提案に「概ね賛成」したと、衆議院議長の森英介氏が記者会見で述べた。",
+      "grammar_ja": "倒置的な報道文体：主語＋動詞が文末（... Mori told a press conference）。including ... led by ... の名詞修飾が重なる。",
+      "chunks": [
+        {
+          "text": "At a meeting of all 13 political parties and groups from parliament",
+          "role_ja": "場所・状況を示す前置詞句",
+          "literal_ja": "国会の全13政党・会派の会合で",
+          "note_ja": "At a meeting of ... で会合の場面設定。"
+        },
+        {
+          "text": "seven including the ruling Liberal Democratic Party",
+          "role_ja": "主語（内容）",
+          "literal_ja": "与党自民党を含む7つ",
+          "note_ja": "including は「〜を含めて」。"
+        },
+        {
+          "text": "led by Prime Minister Sanae Takaichi",
+          "role_ja": "後置修飾",
+          "literal_ja": "高市早苗首相に率いられた",
+          "note_ja": "過去分詞 led by が名詞を後ろから修飾。"
+        },
+        {
+          "text": "\"generally agreed\" on the proposal",
+          "role_ja": "述語",
+          "literal_ja": "提案に概ね賛成した",
+          "note_ja": "generally agreed は完全同意ではないニュアンス。"
+        },
+        {
+          "text": "House of Representatives Speaker Eisuke Mori told a press conference",
+          "role_ja": "主語＋述語（発言の出所）",
+          "literal_ja": "衆議院議長森英介が記者会見で述べた",
+          "note_ja": "tell a press conference は「会見で語る」。"
+        }
+      ],
+      "deep_dive_ja": "英語ニュースでは発言者を文末に置く倒置が多いです。日本語では「〜と述べた」を先に置くことが多く、構造の違いに注意。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "While the Constitutional Democratic Party of Japan, the largest opposition party in the House of Councillors, remains undecided, only some small opposition forces are against the \"consensus of the legislature\" draft, meaning the legislation will likely be realized.",
+      "translation_ja": "参議院最大野党の立憲民主党が未定のままである一方、小規模な野党勢力の一部だけが「国会の合意」案に反対しており、法案成立の可能性は高い。",
+      "grammar_ja": "While ...（一方で）、meaning ...（〜ということで）の分詞構文で結果を簡潔に示す。",
+      "chunks": [
+        {
+          "text": "While the Constitutional Democratic Party of Japan, the largest opposition party in the House of Councillors, remains undecided",
+          "role_ja": "譲歩・対比節",
+          "literal_ja": "参議院最大野党の立憲民主党が未定のままである一方で",
+          "note_ja": "同格の名詞句 the largest opposition party が党名を説明。"
+        },
+        {
+          "text": "only some small opposition forces",
+          "role_ja": "主語",
+          "literal_ja": "小規模な野党勢力の一部だけ",
+          "note_ja": "only が限定を強調。"
+        },
+        {
+          "text": "are against the \"consensus of the legislature\" draft",
+          "role_ja": "述語",
+          "literal_ja": "「国会の合意」案に反対している",
+          "note_ja": "consensus of the legislature＝国会の合意。"
+        },
+        {
+          "text": "meaning the legislation will likely be realized",
+          "role_ja": "結果を示す分詞構文",
+          "literal_ja": "法案が成立する可能性が高いということを意味して",
+          "note_ja": "meaning ... で前文の含意を言い換える。"
+        }
+      ],
+      "deep_dive_ja": "will likely be realized は「成立する見込みが高い」。日本語の「ほぼ確実」ほど強くはないが、政治的には前向きな読み。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Mori, a veteran LDP lawmaker, said he aims to finalize the draft, compiled last Friday after hearing views from all parties, at the next meeting on Wednesday toward the goal of enacting a bill during the current parliamentary session scheduled to end on July 17.",
+      "translation_ja": "ベテラン自民党議員の森氏は、全政党の意見を聞いた上で金曜日にまとめた草案を、7月17日終了予定の今国会で法案成立させる目標に向け、水曜日の次回会合で確定させたいと述べた。",
+      "grammar_ja": "同格 a veteran LDP lawmaker、過去分詞 compiled ... と scheduled ... の後置修飾、toward the goal of ... の目的表現。",
+      "chunks": [
+        {
+          "text": "Mori, a veteran LDP lawmaker, said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "ベテラン自民党議員の森氏は述べた",
+          "note_ja": "同格で人物の肩書きを挿入。"
+        },
+        {
+          "text": "he aims to finalize the draft",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "彼は草案を確定させることを目指している",
+          "note_ja": "aim to + 動詞原形。"
+        },
+        {
+          "text": "compiled last Friday after hearing views from all parties",
+          "role_ja": "草案を修飾する過去分詞句",
+          "literal_ja": "全政党の意見を聞いた後、先週金曜にまとめられた",
+          "note_ja": "hearing views は「意見を聴取する」。"
+        },
+        {
+          "text": "at the next meeting on Wednesday",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "水曜日の次回会合で",
+          "note_ja": "finalize ... at the meeting の語順に注意。"
+        },
+        {
+          "text": "toward the goal of enacting a bill during the current parliamentary session scheduled to end on July 17",
+          "role_ja": "目的を示す前置詞句",
+          "literal_ja": "7月17日終了予定の今国会で法案を成立させるという目標に向けて",
+          "note_ja": "enact a bill＝法案を成立させる。scheduled to end は「終了予定の」。"
+        }
+      ],
+      "deep_dive_ja": "英語は修飾が後ろに積み重なるため、日本語訳では時間・目的・人物を整理して並べ替える必要があります。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The two main revisions proposed in the draft are allowing female members to retain their imperial status even after marrying commoners and permitting the imperial family to adopt men from 11 former branch families.",
+      "translation_ja": "草案で提案されている二つの主な改正点は、皇族女性が平民と結婚した後も皇族の身分を保てるようにすることと、皇室が旧皇族11家から男子を養子縁組できるようにすることだ。",
+      "grammar_ja": "主語 the two main revisions、述語 are allowing ... and permitting ... の名詞的用法（動名詞相当）。even after ... で譲歩。",
+      "chunks": [
+        {
+          "text": "The two main revisions proposed in the draft",
+          "role_ja": "主語",
+          "literal_ja": "草案で提案された二つの主な改正点",
+          "note_ja": "proposed in the draft が revisions を後置修飾。"
+        },
+        {
+          "text": "are allowing female members to retain their imperial status",
+          "role_ja": "述語（内容1）",
+          "literal_ja": "皇族女性が皇族の身分を保つことを認めることである",
+          "note_ja": "allow A to do B、retain status＝身分を維持。"
+        },
+        {
+          "text": "even after marrying commoners",
+          "role_ja": "譲歩を示す副詞句",
+          "literal_ja": "平民と結婚した後でさえ",
+          "note_ja": "commoner は「平民」。"
+        },
+        {
+          "text": "permitting the imperial family to adopt men from 11 former branch families",
+          "role_ja": "述語（内容2）",
+          "literal_ja": "皇室が旧皇族11家から男子を養子にすることを認めること",
+          "note_ja": "former branch families＝旧皇族の分家。"
+        }
+      ],
+      "deep_dive_ja": "imperial status は「皇族の身分」。日本の皇室報道では retain / relinquish が対で使われます。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Under the current 1947 Imperial House Law, only a male who has an emperor on his father's side can succeed the Chrysanthemum Throne and female members lose their imperial status upon marriage.",
+      "translation_ja": "現行の1947年皇室典範では、父方に天皇の血統を持つ男子だけが皇位を継ぐことができ、皇族女性は結婚と同時に皇族の身分を失う。",
+      "grammar_ja": "Under the ... Law で法律の枠組みを示す。関係代名詞 who、upon marriage（〜と同時に）。",
+      "chunks": [
+        {
+          "text": "Under the current 1947 Imperial House Law",
+          "role_ja": "状況・根拠を示す前置詞句",
+          "literal_ja": "現行の1947年皇室典範の下では",
+          "note_ja": "Under the law は「法律上」。"
+        },
+        {
+          "text": "only a male who has an emperor on his father's side",
+          "role_ja": "主語",
+          "literal_ja": "父方に天皇を持つ男子だけ",
+          "note_ja": "on his father's side＝父方の血統。"
+        },
+        {
+          "text": "can succeed the Chrysanthemum Throne",
+          "role_ja": "述語",
+          "literal_ja": "菊花皇位を継ぐことができる",
+          "note_ja": "Chrysanthemum Throne は日本の皇位の雅称。"
+        },
+        {
+          "text": "female members lose their imperial status upon marriage",
+          "role_ja": "並列節",
+          "literal_ja": "皇族女性は結婚と同時に皇族の身分を失う",
+          "note_ja": "upon marriage＝結婚時に（直後に）。"
+        }
+      ],
+      "deep_dive_ja": "succeed the throne は「皇位を継ぐ」。日本語の「継承」より succeed の方が英語報道では一般的です。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "Both the number of eligible successors and family members are decreasing.",
+      "translation_ja": "皇位継承の資格を持つ後継者の数も、皇族の人数も、ともに減少している。",
+      "grammar_ja": "Both A and B の複数主語＋現在進行形 are decreasing。eligible successors＝継承資格者。",
+      "chunks": [
+        {
+          "text": "Both the number of eligible successors and family members",
+          "role_ja": "主語",
+          "literal_ja": "継承資格者の数と皇族の人数の両方",
+          "note_ja": "both ... and ... で二要素を並列。"
+        },
+        {
+          "text": "are decreasing",
+          "role_ja": "述語",
+          "literal_ja": "減少している",
+          "note_ja": "進行形で進行中の傾向を示す。"
+        }
+      ],
+      "deep_dive_ja": "短い文ですが、前文の背景説明として「なぜ改正が必要か」を示す要文です。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Currently, there are only three heirs to Emperor Naruhito, 66 -- his younger brother Crown Prince Fumihito, 60, his nephew Prince Hisahito, 19, and his uncle Prince Hitachi, 90.",
+      "translation_ja": "現在、66歳の徳仁天皇の皇位継承者はわずか3人――60歳の弟・皇嗣秋篠宮文仁さま、19歳の甥・悠仁さま、90歳の叔父・常陸宮正仁さま――だけである。",
+      "grammar_ja": "there are only three heirs の存在構文。ダッシュで列挙、年齢はカンマ後に挿入（報道スタイル）。",
+      "chunks": [
+        {
+          "text": "Currently, there are only three heirs to Emperor Naruhito, 66",
+          "role_ja": "主節",
+          "literal_ja": "現在、66歳の徳仁天皇の継承者はわずか3人いる",
+          "note_ja": "heir to ...＝〜の継承者。only が数の少なさを強調。"
+        },
+        {
+          "text": "his younger brother Crown Prince Fumihito, 60",
+          "role_ja": "同格列挙1",
+          "literal_ja": "彼の弟である皇嗣秋篠宮文仁、60歳",
+          "note_ja": "年齢は名前の後に置く英語の報道慣習。"
+        },
+        {
+          "text": "his nephew Prince Hisahito, 19",
+          "role_ja": "同格列挙2",
+          "literal_ja": "彼の甥である悠仁さま、19歳",
+          "note_ja": "nephew＝甥。"
+        },
+        {
+          "text": "his uncle Prince Hitachi, 90",
+          "role_ja": "同格列挙3",
+          "literal_ja": "彼の叔父である常陸宮正仁さま、90歳",
+          "note_ja": "ダッシュ（--）で補足列挙を始める。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では宮号・敬称の扱いが複雑ですが、英語では Crown Prince, Prince などの称号で統一されます。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "The draft says the wishes of female imperial family members on whether to retain or relinquish their status after marriage should be respected, while leaving open the issue of whether their husbands and children would also obtain imperial status.",
+      "translation_ja": "草案は、皇族女性が結婚後に身分を維持するか放棄するかについての本人の意向を尊重すべきだとし、夫や子が皇族の身分を得るかどうかは論点として残すとしている。",
+      "grammar_ja": "say + that節（that省略）、whether to retain or relinquish、while leaving open ... の分詞構文で対比。",
+      "chunks": [
+        {
+          "text": "The draft says the wishes of female imperial family members",
+          "role_ja": "主節",
+          "literal_ja": "草案は皇族女性の意向について述べている",
+          "note_ja": "the wishes of ... on whether ... で「〜についての意向」。"
+        },
+        {
+          "text": "on whether to retain or relinquish their status after marriage",
+          "role_ja": "wish を修飾",
+          "literal_ja": "結婚後に身分を維持するか放棄するかについての",
+          "note_ja": "retain / relinquish は対語。"
+        },
+        {
+          "text": "should be respected",
+          "role_ja": "間接話法の述語",
+          "literal_ja": "尊重されるべきだ",
+          "note_ja": "should be respected＝尊重すべき。"
+        },
+        {
+          "text": "while leaving open the issue of whether their husbands and children would also obtain imperial status",
+          "role_ja": "対比・付帯状況",
+          "literal_ja": "夫や子が皇族の身分を得るかという問題は未解決のままにしつつ",
+          "note_ja": "leave open＝論点を残す・決めない。"
+        }
+      ],
+      "deep_dive_ja": "leave open the issue は政治記事で「結論を先送りする」ニュアンス。obtain status は「身分を得る」のやや硬い表現です。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "It also says that the adoption of male members of former branch families, which is currently prohibited, would be reviewed at fixed intervals if necessary, and that adopted sons would be ineligible to become an emperor.",
+      "translation_ja": "また、現在禁止されている旧皇族の男子の養子縁組は、必要に応じて一定の間隔で見直されるとし、養子となった男子は天皇になる資格がないとしている。",
+      "grammar_ja": "関係代名詞 which、be reviewed at fixed intervals、ineligible to become の否定資格表現。",
+      "chunks": [
+        {
+          "text": "It also says that the adoption of male members of former branch families",
+          "role_ja": "主節",
+          "literal_ja": "また、旧皇族の男子の養子縁組について述べている",
+          "note_ja": "adoption はここでは養子縁組。"
+        },
+        {
+          "text": "which is currently prohibited",
+          "role_ja": "非制限用法の関係詞節",
+          "literal_ja": "それは現在禁止されている",
+          "note_ja": "which は adoption を指す。"
+        },
+        {
+          "text": "would be reviewed at fixed intervals if necessary",
+          "role_ja": "間接話法の述語1",
+          "literal_ja": "必要なら一定間隔で見直されるだろう",
+          "note_ja": "at fixed intervals＝定期的に。"
+        },
+        {
+          "text": "adopted sons would be ineligible to become an emperor",
+          "role_ja": "間接話法の述語2",
+          "literal_ja": "養子の男子は天皇になる資格がないだろう",
+          "note_ja": "ineligible to ...＝〜の資格がない。"
+        }
+      ],
+      "deep_dive_ja": "would は法案上の想定を柔らかく述べる用法。ineligible は eligible（資格がある）の否定形で、法律英語でよく使われます。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "The two proposals were originally put forward in 2021 by a government expert panel, which did not touch on whether to allow women or those with matrilineal lineage to an emperor to ascend the throne, saying it would be premature to explore the issue.",
+      "translation_ja": "二つの提案はもともと2021年に政府の有識者会議が示したもので、女性や母系で天皇の血統を引く者の即位を認めるかには触れず、検討するには時期尚早だとした。",
+      "grammar_ja": "受動態 were put forward、関係代名詞 which、whether to allow ... to ascend、saying 節で理由を付加。",
+      "chunks": [
+        {
+          "text": "The two proposals were originally put forward in 2021 by a government expert panel",
+          "role_ja": "主節",
+          "literal_ja": "二つの提案はもともと2021年に政府の有識者会議によって示された",
+          "note_ja": "put forward＝提案・提起する。"
+        },
+        {
+          "text": "which did not touch on whether to allow women or those with matrilineal lineage to an emperor to ascend the throne",
+          "role_ja": "関係詞節",
+          "literal_ja": "それは女性や母系の天皇血統を持つ者の即位を認めるかには触れなかった",
+          "note_ja": "matrilineal lineage＝母系の血統。ascend the throne＝即位する。"
+        },
+        {
+          "text": "saying it would be premature to explore the issue",
+          "role_ja": "理由を示す分詞構文",
+          "literal_ja": "その問題を検討するには時期尚早だと言いながら",
+          "note_ja": "premature to explore＝検討するには早すぎる。"
+        }
+      ],
+      "deep_dive_ja": "touch on は「軽く言及する・本格的に扱わない」含意。女性天皇論は日本政治の長期論点で、本稿はその範囲外と明記しています。",
+      "difficulty": "hard",
+      "sentence_id": "s012"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "imperial succession",
+      "pronunciation": "/ɪmˈpɪriəl səkˈsɛʃən/",
+      "meaning_ja": "皇位継承",
+      "example": "amid concerns over a stable imperial succession",
+      "example_ja": "安定した皇位継承への懸念を背景に",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "draft proposal",
+      "pronunciation": "/dræft prəˈpoʊzəl/",
+      "meaning_ja": "草案、提案案",
+      "example": "showed support for a draft proposal",
+      "example_ja": "草案を支持した",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "retain",
+      "pronunciation": "/rɪˈteɪn/",
+      "meaning_ja": "（身分・地位などを）維持する、保つ",
+      "example": "female members to retain their imperial status",
+      "example_ja": "皇族女性が皇族の身分を維持する",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "commoner",
+      "pronunciation": "/ˈkɒmənər/",
+      "meaning_ja": "平民（皇族・貴族でない一般の人）",
+      "example": "even after marrying commoners",
+      "example_ja": "平民と結婚した後でさえ",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "relinquish",
+      "pronunciation": "/rɪˈlɪŋkwɪʃ/",
+      "meaning_ja": "（地位・権利などを）放棄する、手放す",
+      "example": "whether to retain or relinquish their status",
+      "example_ja": "身分を維持するか放棄するか",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "matrilineal lineage",
+      "pronunciation": "/ˌmætrɪˈlɪniəl ˈlɪniɪdʒ/",
+      "meaning_ja": "母系の血統",
+      "example": "those with matrilineal lineage to an emperor",
+      "example_ja": "母系で天皇の血統を引く者",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "ineligible",
+      "pronunciation": "/ɪnˈɛlɪdʒəbəl/",
+      "meaning_ja": "資格がない、就任できない",
+      "example": "adopted sons would be ineligible to become an emperor",
+      "example_ja": "養子の男子は天皇になる資格がない",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "enact",
+      "pronunciation": "/ɪˈnækt/",
+      "meaning_ja": "（法案を）成立させる、施行する",
+      "example": "toward the goal of enacting a bill",
+      "example_ja": "法案を成立させるという目標に向けて",
+      "source_sentence_id": "s005"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "amid-concerns-over",
+      "title": "amid concerns over ...",
+      "rule": "Use 'amid' + noun phrase to show the background situation behind an action or decision.",
+      "example": "amid concerns over a stable imperial succession",
+      "meaning_ja": "「〜への懸念を背景に」「〜が心配される中で」という意味。政治・経済ニュースで、判断の背景を簡潔に示すときによく使われます。"
+    },
+    {
+      "id": "meaning-participial",
+      "title": "meaning ... (result clause)",
+      "rule": "A participial phrase with 'meaning' explains the implication of the previous clause.",
+      "example": "only some small opposition forces are against the draft, meaning the legislation will likely be realized",
+      "meaning_ja": "前文の内容が持つ意味・結果を、関係詞節を使わずに短く補足する書き方です。ニュースでは 'which means' の代わりによく見られます。"
+    },
+    {
+      "id": "whether-to-infinitive",
+      "title": "whether to + verb",
+      "rule": "'whether to' introduces a choice between two options, often before an infinitive verb.",
+      "example": "whether to retain or relinquish their status",
+      "meaning_ja": "「〜するかどうか」という二者択一を表します。retain or relinquish のように対義語を並べると、選択の内容が明確になります。"
+    },
+    {
+      "id": "passive-news-reporting",
+      "title": "Passive voice in news (were put forward / would be reviewed)",
+      "rule": "News often uses passive constructions to focus on actions and policies rather than who performs them.",
+      "example": "The two proposals were originally put forward in 2021 by a government expert panel",
+      "meaning_ja": "誰が何をしたかより、提案・法案・政策そのものに焦点を当てるため、受動態や would be ... が多用されます。日本語の「〜される予定だ」に相当する柔らかい予定表現にもなります。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 12,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T19:52:06+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:major-parties-back-draft-proposal-on-jap"
+}

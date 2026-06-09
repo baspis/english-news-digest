@@ -1,37 +1,38 @@
 {
   "edition_date": "2026-06-09",
-  "status": "complete",
-  "target_article_count": 5,
-  "actual_article_count": 5,
-  "selection_policy": "balanced-five-fill-with-recent-unassigned",
+  "status": "selected",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-six-by-comment-count-jst-date",
   "source_window": {
     "primary_date": "2026-06-09",
-    "fallback_days": 3
+    "fallback_days": 0
   },
   "category_counts": {
-    "japan": 5,
+    "japan": 6,
     "world": 0
   },
   "articles": [
-    "japantoday:2026-06-09:memorial-service-marks-25-years-since-fa",
+    "japantoday:2026-06-09:man-admits-creating-videos-critical-of-t",
     "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
-    "japantoday:2026-06-09:japan-s-april-current-account-surplus-at",
-    "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid",
-    "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung"
+    "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+    "japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi",
+    "japantoday:2026-06-09:iran-announces-end-to-attacks-on-israel-",
+    "japantoday:2026-06-09:major-parties-back-draft-proposal-on-jap"
   ],
   "article_records": [
     {
-      "article_id": "japantoday:2026-06-09:memorial-service-marks-25-years-since-fa",
+      "article_id": "japantoday:2026-06-09:man-admits-creating-videos-critical-of-t",
       "edition_date": "2026-06-09",
       "source_published_date_jst": "2026-06-09",
-      "source": "Japan Today Crime",
-      "source_url": "https://japantoday.com/category/crime/Memorial-service-marks-25-years-since-fatal-stabbing-rampage",
-      "title": "Memorial service marks 25 years since fatal stabbing rampage",
-      "slug": "01-memorial-service-marks-25-years-since-fatal-stabbing-rampage",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election",
+      "title": "Man admits creating videos critical of Takaichi's rivals in LDP election",
+      "slug": "01-man-admits-creating-videos-critical-of-takaichi-s-rivals-in-ldp-electi",
       "category": "japan",
       "selection_rank": 1,
-      "selection_reason": "legacy_migration",
-      "body_clean_status": "clean",
+      "selection_reason": "jt_comments_52",
+      "body_clean_status": "suspect",
       "analysis_status": "complete"
     },
     {
@@ -44,35 +45,7 @@
       "slug": "02-deteriorating-castles-in-japan-face-high-costs-debates-over-renovation",
       "category": "japan",
       "selection_rank": 2,
-      "selection_reason": "legacy_migration",
-      "body_clean_status": "clean",
-      "analysis_status": "complete"
-    },
-    {
-      "article_id": "japantoday:2026-06-09:japan-s-april-current-account-surplus-at",
-      "edition_date": "2026-06-09",
-      "source_published_date_jst": "2026-06-09",
-      "source": "Japan Today Business",
-      "source_url": "https://japantoday.com/category/business/update1-japan-april-current-account-surplus-at-3.91-tril.-yen-on-overseas-returns",
-      "title": "Japan's April current account surplus at ¥3.91 tril on overseas returns",
-      "slug": "03-japan-s-april-current-account-surplus-at-3-91-tril-on-overseas-returns",
-      "category": "japan",
-      "selection_rank": 3,
-      "selection_reason": "legacy_migration",
-      "body_clean_status": "clean",
-      "analysis_status": "complete"
-    },
-    {
-      "article_id": "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid",
-      "edition_date": "2026-06-09",
-      "source_published_date_jst": "2026-06-09",
-      "source": "Japan Today National",
-      "source_url": "https://japantoday.com/category/national/data-on-510-000-people-linked-to-hokkaido-hospitals-possibly-leaked-online",
-      "title": "Data on 510,000 people linked to Hokkaido hospitals possibly leaked online",
-      "slug": "04-data-on-510-000-people-linked-to-hokkaido-hospitals-possibly-leaked-on",
-      "category": "japan",
-      "selection_rank": 4,
-      "selection_reason": "legacy_migration",
+      "selection_reason": "jt_comments_33",
       "body_clean_status": "clean",
       "analysis_status": "complete"
     },
@@ -83,16 +56,58 @@
       "source": "Japan Today Crime",
       "source_url": "https://japantoday.com/category/crime/child-comes-into-store-saying-she%27s-hungry-after-being-left-alone-for-11-hours-by-mother-boyfriend-who-were-out-drinking",
       "title": "Child comes into store saying she's hungry after being left alone for 11 hours by mother, boyfriend who were out drinking",
-      "slug": "05-child-comes-into-store-saying-she-s-hungry-after-being-left-alone-for-",
+      "slug": "03-child-comes-into-store-saying-she-s-hungry-after-being-left-alone-for-",
+      "category": "japan",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_25",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/ukrainian-strikes-hit-oil-sites-in-russia-and-crimea",
+      "title": "Ukrainian strikes hit oil sites in Russia and Crimea",
+      "slug": "04-ukrainian-strikes-hit-oil-sites-in-russia-and-crimea",
+      "category": "japan",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_27",
+      "body_clean_status": "clean",
+      "analysis_status": "failed"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:iran-announces-end-to-attacks-on-israel-",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/iran-announces-end-to-attacks-on-israel-after-trump-says-foes-must-%27stop-shooting%271",
+      "title": "Iran announces end to attacks on Israel after Trump says shooting must stop",
+      "slug": "05-iran-announces-end-to-attacks-on-israel-after-trump-says-shooting-must",
       "category": "japan",
       "selection_rank": 5,
-      "selection_reason": "legacy_migration",
-      "body_clean_status": "clean",
+      "selection_reason": "jt_comments_20",
+      "body_clean_status": "suspect",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:major-parties-back-draft-proposal-on-jap",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/major-parties-back-draft-proposal-on-japan%27s-imperial-family-law-revision",
+      "title": "Major parties back draft proposal on Japan's imperial family law revision",
+      "slug": "06-major-parties-back-draft-proposal-on-japan-s-imperial-family-law-revis",
+      "category": "japan",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_19",
+      "body_clean_status": "suspect",
       "analysis_status": "complete"
     }
   ],
-  "generated_at": "2026-06-09T16:47:54+09:00",
+  "generated_at": "2026-06-09T19:32:26+09:00",
   "warnings": [
-    "migrated from legacy prototype"
+    "analysis failed japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi: article body too short"
   ]
 }
