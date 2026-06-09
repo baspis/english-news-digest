@@ -1,0 +1,220 @@
+{
+  "article_id": "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "reading_level": "B2",
+  "summary_ja": "北海道釧路の警察は、25歳の女性と27歳の彼氏を児童遺棄の疑いで逮捕した。2人は土曜夜から約11時間半、飲み歩き中に就学前の娘を男性の家に一人で残したとみられ、翌朝娘はコンビニで「お腹が空いた」と訴えた。娘にけがはなく、母親と彼氏は飲み歩き中に娘を残したことを認めたという。",
+  "sentences": [
+    {
+      "sentence_id": "s001",
+      "text": "Police in Kushiro, Hokkaido, have arrested a 25-year-old woman, a self-proclaimed tattoo artist, and her 27-year-old boyfriend, a company employee, on suspicion of child abandonment.",
+      "translation_ja": "北海道釧路の警察は、自称タトゥーアーティストの25歳女性と、会社員の27歳の彼氏を、児童遺棄の疑いで逮捕した。",
+      "grammar_ja": "have arrested は現在完了形で「逮捕した（結果として今もその状態）」を示す。on suspicion of は「〜の疑いで」というニュース定型表現。a self-proclaimed ... は同格の形容詞句で職業を補足している。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s002",
+      "text": "The two are suspected of leaving the woman’s preschool-aged daughter alone at the man's house for about 11 1/2 hours from 10 p.m. on Saturday while they were out drinking, Hokkaido Broadcasting Corp reported.",
+      "translation_ja": "2人は、土曜午後10時から約11時間半、飲み歩き中に女性の就学前の娘を男性の家に一人で残した疑いがあると、北海道放送が報じた。",
+      "grammar_ja": "be suspected of + 動名詞「〜した疑いがある」。while they were out drinking は同時進行の副詞節。文末の Hokkaido Broadcasting Corp reported は報道文の倒置（主語＋動詞の後に情報源を置く）。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s003",
+      "text": "The girl showed up at a convenience store at around 9:30 a.m. on Sunday.",
+      "translation_ja": "少女は日曜日の午前9時30分ごろ、コンビニに現れた。",
+      "grammar_ja": "show up は口語的だがニュースでも使われる「現れる・やって来る」。at around は「〜ごろ」のおおよその時刻表現。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s004",
+      "text": "An employee called police and reported that a girl had come in alone, saying she was hungry.",
+      "translation_ja": "店員が警察に通報し、女の子が一人で入ってきて「お腹が空いた」と言っていたと伝えた。",
+      "grammar_ja": "reported that 以下は間接話法の名詞節。saying she was hungry は分詞構文で、通報内容の補足（「〜と言いながら／〜と言って」）。had come in は過去の過去（通報より前の出来事）。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s005",
+      "text": "At about the same time, the girl’s mother called police and said her daughter was missing.",
+      "translation_ja": "ほぼ同じ時間に、少女の母親も警察に電話し、娘が行方不明だと伝えた。",
+      "grammar_ja": "At about the same time で前の出来事との時間的一致を示す。was missing は「行方不明だった」という状態を表す過去形。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s006",
+      "text": "The girl was unharmed and in good health.",
+      "translation_ja": "少女にけがはなく、健康状態も良好だった。",
+      "grammar_ja": "was unharmed は受動態で「害を受けていなかった」。in good health は be + 前置詞句で状態を表す簡潔なニュース表現。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s007",
+      "text": "Police said the mother and her boyfriend have admitted to leaving their daughter alone while they went out drinking together at several establishments.",
+      "translation_ja": "警察によると、母親と彼氏は、複数の店で一緒に飲み歩きをしている間、娘を一人で残したことを認めた。",
+      "grammar_ja": "have admitted to + 動名詞「〜したことを認めた」。while they went out drinking は過去の同時進行。at several establishments は飲食店を婉曲に言う表現。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s008",
+      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
+      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。アロハ風のライブ音楽（SHEN）と、飲み放題・ビュッフェをお楽しみください。",
+      "grammar_ja": "Join us for ... は広告の命令文（勧誘）。aloha-inspired は複合形容詞「アロハ風の」。free flowing drinks は「飲み放題・次々と提供される飲み物」のコロケーション。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s009",
+      "text": "July 2 (Thurs), 7pm to 9:30pm.",
+      "translation_ja": "7月2日（木）午後7時〜9時30分",
+      "grammar_ja": "見出し・広告特有の名詞句のみの文。日付・曜日・時間をコンマで区切る英語のイベント告知形式。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s010",
+      "text": "Get your ticket now for a 50% Discount.",
+      "translation_ja": "今すぐチケットを入手して50%オフ。",
+      "grammar_ja": "Get your ticket now は広告の命令文（今すぐ行動を促す）。for a 50% Discount は割引を得る目的を示す。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s011",
+      "text": "Only 50 Early Bird Tickets Available.",
+      "translation_ja": "早割チケットは50枚限定。",
+      "grammar_ja": "Only 50 ... Available は主語＋形容詞のみの省略文（Tickets are が省略）。Early Bird は「早期購入者向け」の広告用語。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s012",
+      "text": "Use your Facebook account to login or register with JapanToday.",
+      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
+      "grammar_ja": "Use ... to login or register は「〜を使って…する」という目的を示す不定詞。with JapanToday は「JapanTodayに対して」という対象。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    },
+    {
+      "sentence_id": "s013",
+      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
+      "translation_ja": "そうすることで、ニュース速報の配信を受け取るよう案内するメールも届きます。",
+      "grammar_ja": "By doing so は前文を受ける手段表現。inviting you to receive は分詞句で email を後置修飾（「〜を勧めるメール」）。you will receive は将来の結果を述べる。",
+      "chunks": [],
+      "deep_dive_ja": "",
+      "difficulty": "medium"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃən əv/",
+      "meaning_ja": "〜の疑いで（逮捕・捜査など）",
+      "example": "Police arrested him on suspicion of child abandonment.",
+      "example_ja": "警察は彼を児童遺棄の疑いで逮捕した。"
+    },
+    {
+      "word": "child abandonment",
+      "pronunciation": "/tʃaɪld əˈbændənmənt/",
+      "meaning_ja": "児童遺棄",
+      "example": "They were arrested on suspicion of child abandonment.",
+      "example_ja": "彼らは児童遺棄の疑いで逮捕された。"
+    },
+    {
+      "word": "self-proclaimed",
+      "pronunciation": "/ˌself prəˈkleɪmd/",
+      "meaning_ja": "自称の",
+      "example": "a self-proclaimed tattoo artist",
+      "example_ja": "自称タトゥーアーティスト"
+    },
+    {
+      "word": "show up",
+      "pronunciation": "/ʃoʊ ʌp/",
+      "meaning_ja": "現れる、やって来る",
+      "example": "The girl showed up at a convenience store.",
+      "example_ja": "少女はコンビニに現れた。"
+    },
+    {
+      "word": "unharmed",
+      "pronunciation": "/ʌnˈhɑːrmd/",
+      "meaning_ja": "けがのない、無事な",
+      "example": "The girl was unharmed and in good health.",
+      "example_ja": "少女はけがもなく健康だった。"
+    },
+    {
+      "word": "admit to",
+      "pronunciation": "/ədˈmɪt tuː/",
+      "meaning_ja": "（罪や事実を）認める",
+      "example": "They have admitted to leaving their daughter alone.",
+      "example_ja": "彼らは娘を一人で残したことを認めた。"
+    },
+    {
+      "word": "establishment",
+      "pronunciation": "/ɪˈstæblɪʃmənt/",
+      "meaning_ja": "（飲食などの）店、施設",
+      "example": "They went out drinking at several establishments.",
+      "example_ja": "彼らは複数の店で飲み歩きをした。"
+    },
+    {
+      "word": "preschool-aged",
+      "pronunciation": "/ˈpriːskuːl eɪdʒd/",
+      "meaning_ja": "就学前の年齢の",
+      "example": "her preschool-aged daughter",
+      "example_ja": "就学前の娘"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "on-suspicion-of",
+      "title": "on suspicion of + noun",
+      "rule": "Used in crime news to mean someone was arrested or investigated because they are believed to have committed an offense.",
+      "example": "Police arrested a woman on suspicion of child abandonment.",
+      "meaning_ja": "犯罪報道でよく使われる定型表現。「〜の疑いで」という意味。動詞は arrest, detain, question などと結びつく。"
+    },
+    {
+      "id": "be-suspected-of-gerund",
+      "title": "be suspected of + -ing",
+      "rule": "The passive pattern reports an allegation without stating it as fact.",
+      "example": "The two are suspected of leaving the daughter alone.",
+      "meaning_ja": "「〜した疑いがある」と疑いを伝える受動的な言い方。事実断定を避けるニュース文体で頻出。"
+    },
+    {
+      "id": "reporting-clause-inversion",
+      "title": "Reporting clause at the end",
+      "rule": "News articles often place the source (e.g., a broadcaster or police) after the main information.",
+      "example": "..., Hokkaido Broadcasting Corp reported.",
+      "meaning_ja": "報道文では主な情報を先に述べ、文末に「〜が報じた」と情報源を置く倒置が多い。"
+    },
+    {
+      "id": "participle-clause-saying",
+      "title": "Participial clause with -ing",
+      "rule": "An -ing clause can add extra detail about what someone said or did at the same time.",
+      "example": "An employee reported that a girl had come in alone, saying she was hungry.",
+      "meaning_ja": "分詞構文 saying ... で「〜と言って」という付加情報を簡潔に付ける。間接話法と組み合わせると報道文が読みやすくなる。"
+    }
+  ],
+  "quality": {
+    "sentence_count": 13,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T16:47:54+09:00"
+  }
+}
