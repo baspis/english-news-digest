@@ -1,0 +1,73 @@
+{
+  "article_id": "japantoday:2026-06-08:over-60-of-japanese-firms-with-more-than",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T07:00:10+09:00",
+  "fetched_at": "2026-06-10T07:02:16+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "It’s a slippery slope. AI is great at filling performance gaps like the article suggests. Im all for hiring ai+human workers. The issue is withholding ai and relying on ai instead. Ai just pulls from available data. If that data has issues it repeats it. Watching these companies spend millions in ai prompts only to have to rely on a human to double check and correct is silly.",
+      "translation_ja": "危うい坂道だよ。記事が言うように、AIはパフォーマンスの穴を埋めるのは得意だ。AI＋人間のワーカーを雇うのは大賛成だ。問題は、AIをうまく使わず（情報を渡さず）AIだけに頼ることだ。AIは手元にあるデータを引っ張ってくるだけだ。そのデータに問題があれば、それをそのまま繰り返す。何百万もAIプロンプトに使って、結局人間にダブルチェックと修正を頼まなきゃいけないなんて、企業のやり方はばかげてる。",
+      "notes_ja": [
+        "「Im」「ai」はカジュアルな書き方で、本来は I'm / AI と大文字・記号を付ける。",
+        "「withholding ai and relying on ai instead」は文法的にやや不自然で、「AIに十分な情報を渡さないのにAIだけに頼る」といった意味と読める。"
+      ],
+      "standard_en": "It's a slippery slope. AI is great at filling performance gaps, as the article suggests. I'm all for hiring AI-plus-human workers. The issue is withholding information from AI and relying on AI alone instead. AI just pulls from available data. If that data has issues, it repeats them. Watching these companies spend millions on AI prompts only to have to rely on a human to double-check and correct the output is silly.",
+      "marked_terms": [
+        {
+          "term": "slippery slope",
+          "symbol": "◇",
+          "note_ja": "「危うい坂道」＝少しずつ悪い方向に進む、という慣用表現"
+        }
+      ],
+      "comment_id": 5230116,
+      "author": "GillislowTier",
+      "rating": 4,
+      "posted_at": "2026-06-08T11:46:53+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Bit late on the hype train, Kyodo. The free ride is over and companies are baulking at the price. https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs You can't even trust it for summarizing. It hallucinates. People might love generating AI videos but would they pay to do it? It cost OpenAI $15M a day so they shuttered it. https://www.forbes.com/sites/phoebeliu/2025/11/10/openai-spending-ai-generated-sora-videos/ https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+      "translation_ja": "乗り遅れたね、共同通信。タダ乗りはもう終わりで、企業は値段を見て尻込みしてる。要約すら信用できない。ハルシネーション（もっともらしい嘘）を起こす。AI動画を作るのは好きかもしれないけど、お金を払うか？ OpenAIは1日1500万ドルかかってたから、サービスを閉じた。",
+      "notes_ja": [
+        "「Bit late」は文頭の省略（A bit late の口語）。「hype train」「free ride」はブーム・便乗の比喩。",
+        "「baulking」は英式綴り（米式は balking）。「hallucinates」はAI用語で、ここでは事実をでっち上げる意味。"
+      ],
+      "standard_en": "A bit late on the hype train, Kyodo. The free ride is over, and companies are balking at the price. You can't even trust it for summarizing. It hallucinates. People might love generating AI videos, but would they pay to do it? It cost OpenAI $15 million a day, so they shuttered it.",
+      "marked_terms": [
+        {
+          "term": "hype train",
+          "symbol": "◇",
+          "note_ja": "ブームに乗る、というネット・口語の比喩"
+        },
+        {
+          "term": "hallucinates",
+          "symbol": "◇",
+          "note_ja": "AIが事実をでっち上げる、という業界スラング"
+        }
+      ],
+      "comment_id": 5230267,
+      "author": "ShinyAndChrome",
+      "rating": 0,
+      "posted_at": "2026-06-08T14:04:44+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "All the negativity now about AI and rightly so, I’ve been warning about this for years and mocked for being wrong on this very site.",
+      "translation_ja": "今AIへの否定的な声が出てるのは当然だ。何年も前から警告してきたのに、このサイトでは間違ってると馬鹿にされてきた。",
+      "notes_ja": [
+        "「All the negativity now about AI and rightly so」は主語と述語のつながりが口語的で、カンマで文がつながっている。",
+        "「mocked for being wrong」は「（自分が）間違ってると言われて嘲笑された」という自虐・反論のトーン。"
+      ],
+      "standard_en": "All the negativity about AI now is justified. I've been warning about this for years and was mocked for being wrong on this very site.",
+      "marked_terms": [],
+      "comment_id": 5230510,
+      "author": "falseflagsteve",
+      "rating": -2,
+      "posted_at": "2026-06-08T22:12:28+09:00"
+    }
+  ]
+}

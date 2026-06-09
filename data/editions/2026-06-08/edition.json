@@ -1,0 +1,115 @@
+{
+  "edition_date": "2026-06-08",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-08",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-08:tsunami-waves-arrive-in-japan-after-m7-8",
+    "japantoday:2026-06-08:okayama-police-officer-arrested-for-alle",
+    "japantoday:2026-06-08:u-s-gamers-getting-older-as-industry-rep",
+    "japantoday:2026-06-08:man-admits-creating-videos-critical-of-t",
+    "japantoday:2026-06-08:trump-storms-out-of-tense-rain-plagued-n",
+    "japantoday:2026-06-08:over-60-of-japanese-firms-with-more-than"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-08:tsunami-waves-arrive-in-japan-after-m7-8",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/update2-tsunami-waves-arrive-in-japan-after-m7.8-quake-off-philippines",
+      "title": "Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines",
+      "slug": "01-tsunami-waves-arrive-in-japan-after-m7-8-quake-strikes-off-philippines",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_12",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-08:okayama-police-officer-arrested-for-alle",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/okayama-police-officer-arrested-for-allegedly-sexually-assaulting-female-acquaintance",
+      "title": "Okayama police officer arrested for allegedly sexually assaulting female acquaintance",
+      "slug": "02-okayama-police-officer-arrested-for-allegedly-sexually-assaulting-fema",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_13",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-08:u-s-gamers-getting-older-as-industry-rep",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/us-gamers-getting-older-as-industry-reports-growth",
+      "title": "U.S. gamers getting older as industry reports growth",
+      "slug": "03-u-s-gamers-getting-older-as-industry-reports-growth",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_1",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-08:man-admits-creating-videos-critical-of-t",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election",
+      "title": "Man admits creating videos critical of Takaichi's rivals in LDP election",
+      "slug": "04-man-admits-creating-videos-critical-of-takaichi-s-rivals-in-ldp-electi",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_52",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-08:trump-storms-out-of-tense-rain-plagued-n",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/trump-storms-out-of-tense-rain-plagued-nbc-interview",
+      "title": "Trump storms out of tense, rain-plagued NBC interview",
+      "slug": "05-trump-storms-out-of-tense-rain-plagued-nbc-interview",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_50",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-08:over-60-of-japanese-firms-with-more-than",
+      "edition_date": "2026-06-08",
+      "source_published_date_jst": "2026-06-08",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/over-60-of-japanese-firms-with-more-than-1-000-workers-use-generative-ai",
+      "title": "Over 60% of Japanese firms with more than 1,000 workers use generative AI",
+      "slug": "06-over-60-of-japanese-firms-with-more-than-1-000-workers-use-generative-",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_3",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-10T07:00:10+09:00",
+  "warnings": []
+}

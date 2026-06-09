@@ -1,0 +1,463 @@
+{
+  "summary_ja": "フィリピン南方沖で発生したマグニチュード7.8の地震を受け、月曜日に沖縄など日本各地で津波が観測されました。気象庁は広範囲に津波注意報を発表し、午後には解除。フィリピンでは死者19人以上、負傷者130人以上が出たと報じられています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Tsunami waves arrived in Okinawa and other parts of Japan on Monday after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines, according to Japanese and U.S. authorities.",
+      "translation_ja": "日本と米国の当局によると、フィリピン南方沖でマグニチュード7.8と推定される地震が起きたあと、月曜日に沖縄や日本のその他の地域に津波が到達した。",
+      "grammar_ja": "after + S + V で「〜したあとに」。with a preliminary magnitude of は地震報道の定型表現。struck off は「〜の沖で発生した」。文末の according to は情報源を示す倒置構文。",
+      "chunks": [
+        {
+          "text": "Tsunami waves",
+          "role_ja": "主語",
+          "literal_ja": "津波が",
+          "note_ja": "wave は波だが、津波報道では waves と複数形で使うことが多い"
+        },
+        {
+          "text": "arrived in Okinawa and other parts of Japan",
+          "role_ja": "述語",
+          "literal_ja": "沖縄と日本の他の地域に到達した",
+          "note_ja": "arrive in + 場所。hit より到達・襲来のニュアンス"
+        },
+        {
+          "text": "on Monday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "月曜日に",
+          "note_ja": "報道では具体的な曜日で時系列を示す"
+        },
+        {
+          "text": "after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "マグニチュード7.8の地震がフィリピン南方沖で起きたあと",
+          "note_ja": "preliminary magnitude は確定前の震度。struck off = 沖合で発生"
+        },
+        {
+          "text": "according to Japanese and U.S. authorities",
+          "role_ja": "付加情報（情報源）",
+          "literal_ja": "日本と米国の当局によると",
+          "note_ja": "ニュース英語で頻出。文頭に置くこともある"
+        }
+      ],
+      "deep_dive_ja": " struck off the coast は「沿岸沖で起きた」という地震報道の定番表現。preliminary は後から数値が修正される可能性があることを示す。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The Japan Meteorological Agency said at a press conference that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m. after the agency issued a tsunami advisory for the Pacific coast along the eastern, western and southern parts of the country.",
+      "translation_ja": "気象庁は記者会見で、同庁が国の東部・西部・南部に沿った太平洋沿岸に津波注意報を発表したあと、沖縄本島で小規模な津波が午後12時18分ごろ観測されたと述べた。",
+      "grammar_ja": "said that + 間接話法。was observed は受動態で「観測された」。after 節と at around の時刻表現が重なる長文。",
+      "chunks": [
+        {
+          "text": "The Japan Meteorological Agency",
+          "role_ja": "主語",
+          "literal_ja": "気象庁は",
+          "note_ja": "日本の公式機関名。the を付ける"
+        },
+        {
+          "text": "said at a press conference",
+          "role_ja": "述語",
+          "literal_ja": "記者会見で述べた",
+          "note_ja": "at a press conference で発言の場を特定"
+        },
+        {
+          "text": "that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m.",
+          "role_ja": "that節（内容）",
+          "literal_ja": "沖縄本島で小規模な津波が午後12時18分ごろ観測されたと",
+          "note_ja": "minor tsunami = 小規模な津波。at around = およそ"
+        },
+        {
+          "text": "after the agency issued a tsunami advisory",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "気象庁が津波注意報を発表したあと",
+          "note_ja": "issue an advisory = 注意報・勧告を出す"
+        },
+        {
+          "text": "for the Pacific coast along the eastern, western and southern parts of the country",
+          "role_ja": "修飾語",
+          "literal_ja": "国の東部・西部・南部に沿った太平洋沿岸に対して",
+          "note_ja": "along + 地域 = 〜に沿って"
+        }
+      ],
+      "deep_dive_ja": "the agency が二度出てくるが、二つ目は気象庁自身を指す。日本語報道では「気象庁は〜と発表し」と一度にまとめるが、英語は時系列を after で明示する。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Also, a 20-centimeter tsunami was observed at Chichijima Island of the Ogasawara Islands in the Pacific, about 1,000 kilometers south of central Tokyo, around 1:46 p.m.",
+      "translation_ja": "また、東京の中心部から南へ約1000キロの太平洋上の小笠原諸島・父島で、高さ20センチの津波が午後1時46分ごろ観測された。",
+      "grammar_ja": "Also で前段落への追加情報。was observed の受動態。about 1,000 kilometers south of は距離＋方位の前置詞句。",
+      "chunks": [
+        {
+          "text": "Also",
+          "role_ja": "接続副詞",
+          "literal_ja": "また",
+          "note_ja": "前の観測事例に加えて別の地点を報じる"
+        },
+        {
+          "text": "a 20-centimeter tsunami",
+          "role_ja": "主語",
+          "literal_ja": "高さ20センチの津波が",
+          "note_ja": "ハイフンで単位と名詞をつなぐ報道表現"
+        },
+        {
+          "text": "was observed at Chichijima Island of the Ogasawara Islands in the Pacific",
+          "role_ja": "述語",
+          "literal_ja": "太平洋の小笠原諸島・父島で観測された",
+          "note_ja": "of で所属関係。in the Pacific で海域を示す"
+        },
+        {
+          "text": "about 1,000 kilometers south of central Tokyo",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "東京の中心部から南へ約1000キロのところで",
+          "note_ja": "south of = 〜の南。読者の位置感を補う"
+        },
+        {
+          "text": "around 1:46 p.m.",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "午後1時46分ごろに",
+          "note_ja": "around はおよその時刻"
+        }
+      ],
+      "deep_dive_ja": "英語報道では地名のあとに距離・方位を入れて読者の地理感覚を助ける。センチメートル表記は国際的な科学報道の慣例。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The agency alerted the public earlier in the day that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere.",
+      "translation_ja": "気象庁はその日の早い時間帯、宮古島や沖縄の八重山諸島などに最大1メートルの津波が到達する可能性があると国民に警告した。",
+      "grammar_ja": "alert + O + that節 の構文。of up to 1 meter は「最大1メートル」。could reach は可能性を示す過去形の助動詞。",
+      "chunks": [
+        {
+          "text": "The agency",
+          "role_ja": "主語",
+          "literal_ja": "気象庁は",
+          "note_ja": "前文から agency = Japan Meteorological Agency"
+        },
+        {
+          "text": "alerted the public earlier in the day",
+          "role_ja": "述語",
+          "literal_ja": "その日の早いうちに国民に警告した",
+          "note_ja": "earlier in the day = 同日の午前中など"
+        },
+        {
+          "text": "that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere",
+          "role_ja": "that節（内容）",
+          "literal_ja": "最大1メートルの津波が宮古島や沖縄の八重山諸島などに到達しうると",
+          "note_ja": "up to = 最大で。elsewhere = その他の地域も"
+        }
+      ],
+      "deep_dive_ja": "could reach は予報・可能性の報道でよく使う。alert は warn より公式・組織的な警告の響きがある。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The advisory, which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan's southernmost island prefecture of Okinawa, was lifted in the afternoon.",
+      "translation_ja": "東京近郊の茨城県から日本最南端の島県である沖縄まで広がる地域を対象とした注意報は、午後に解除された。",
+      "grammar_ja": "関係代名詞 which の非制限用法。stretching from A to B は「AからBまで及ぶ」。was lifted は受動態で「解除された」。",
+      "chunks": [
+        {
+          "text": "The advisory",
+          "role_ja": "主語",
+          "literal_ja": "注意報は",
+          "note_ja": "前文の tsunami advisory を受ける"
+        },
+        {
+          "text": "which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan's southernmost island prefecture of Okinawa",
+          "role_ja": "関係代名詞節（主語の説明）",
+          "literal_ja": "東京近郊の茨城県から日本最南端の沖縄県まで及ぶ地域を対象とした",
+          "note_ja": "stretch from A to B = AからBまで広がる。southernmost = 最南端の"
+        },
+        {
+          "text": "was lifted in the afternoon",
+          "role_ja": "述語",
+          "literal_ja": "午後に解除された",
+          "note_ja": "lift an advisory/warning = 警報・注意報を解除する"
+        }
+      ],
+      "deep_dive_ja": "lift は「持ち上げる」以外に、制限・警報を取り除く意味で報道に頻出。which 節が長いので、日本語では主語を先にまとめて訳すと読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The quake struck 26 km southwest of Kablalan in the Philippines at a depth of 55.2 km at around 7:37 a.m. local time, according to the U.S.",
+      "translation_ja": "米国当局によると、地震は現地時間午前7時37分ごろ、フィリピンのカブラランの南西26キロ、深さ55.2キロの地点で発生した。",
+      "grammar_ja": "struck + 場所 + at a depth of は地震の震源描写の定型。local time で現地時間を明示。文末 according to the U.S. は原文どおり短縮形。",
+      "chunks": [
+        {
+          "text": "The quake",
+          "role_ja": "主語",
+          "literal_ja": "地震は",
+          "note_ja": "quake は earthquake の短縮形で報道で多用"
+        },
+        {
+          "text": "struck 26 km southwest of Kablalan in the Philippines",
+          "role_ja": "述語＋場所",
+          "literal_ja": "フィリピンのカブラランの南西26キロで発生した",
+          "note_ja": "southwest of = 〜の南西"
+        },
+        {
+          "text": "at a depth of 55.2 km",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "深さ55.2キロで",
+          "note_ja": "震源の深さを示す報道の決まり文句"
+        },
+        {
+          "text": "at around 7:37 a.m. local time",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "現地時間午前7時37分ごろに",
+          "note_ja": "local time は国際報道で重要"
+        },
+        {
+          "text": "according to the U.S.",
+          "role_ja": "付加情報（情報源）",
+          "literal_ja": "米国当局によると",
+          "note_ja": "原文では U.S. で短縮。文脈上は U.S. Geological Survey"
+        }
+      ],
+      "deep_dive_ja": "地震報道では struck / hit / occurred がほぼ同義で使われる。at a depth of と at around ... local time の並列は、場所・深さ・時刻の三要素を一度に伝える典型構文。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Philippine authorities said at least 19 people died and more than 130 were injured.",
+      "translation_ja": "フィリピンの当局は、少なくとも19人が死亡し、130人以上が負傷したと発表した。",
+      "grammar_ja": "said + that節（that省略可）。at least / more than で数の下限・超過。died と were injured の並列。",
+      "chunks": [
+        {
+          "text": "Philippine authorities",
+          "role_ja": "主語",
+          "literal_ja": "フィリピンの当局は",
+          "note_ja": "authorities = 当局・関係機関"
+        },
+        {
+          "text": "said",
+          "role_ja": "述語",
+          "literal_ja": "述べた",
+          "note_ja": "reported / announced とも言えるが said が中立"
+        },
+        {
+          "text": "at least 19 people died",
+          "role_ja": "内容節（前半）",
+          "literal_ja": "少なくとも19人が死亡したと",
+          "note_ja": "at least = 最低でも"
+        },
+        {
+          "text": "more than 130 were injured",
+          "role_ja": "内容節（後半）",
+          "literal_ja": "130人以上が負傷したと",
+          "note_ja": "be injured は受動態。numbers は報道では更新される"
+        }
+      ],
+      "deep_dive_ja": "被害人数は at least / more than と組み合わせ、確定数ではないことを示す。日本語の「〜とみられる」に近い慎重な言い方。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "In December 2023, an M7.6 quake hit the area, according to the USGS.",
+      "translation_ja": "米国地質調査所（USGS）によると、2023年12月にもマグニチュード7.6の地震がこの地域を襲った。",
+      "grammar_ja": "文頭の In December 2023 で時制の背景を設定。M7.6 は magnitude の省略表記。hit the area で過去の同地域の地震を示す。",
+      "chunks": [
+        {
+          "text": "In December 2023",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2023年12月に",
+          "note_ja": "過去の出来事の時点を明示"
+        },
+        {
+          "text": "an M7.6 quake",
+          "role_ja": "主語",
+          "literal_ja": "マグニチュード7.6の地震が",
+          "note_ja": "M = magnitude の略。報道の標準表記"
+        },
+        {
+          "text": "hit the area",
+          "role_ja": "述語",
+          "literal_ja": "この地域を襲った",
+          "note_ja": "the area = 先に述べたフィリピン南方の地域"
+        },
+        {
+          "text": "according to the USGS",
+          "role_ja": "付加情報（情報源）",
+          "literal_ja": "USGSによると",
+          "note_ja": "U.S. Geological Survey の略称"
+        }
+      ],
+      "deep_dive_ja": "背景情報として過去の地震を挙げ、同地域の地震活動の頻度を示す報道技法。一文で簡潔に過去事例を入れるのはニュース英語の特徴。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Japanese Prime Minister Sanae Takaichi said on social media she has instructed relevant ministries and agencies to take measures to prevent damage.",
+      "translation_ja": "高市早苗首相はソーシャルメディアで、関係省庁や機関に被害防止のための措置を取るよう指示したと投稿した。",
+      "grammar_ja": "said の後に that 省略の間接話法。has instructed ... to take measures は現在完了で「指示した（その状態が続いている）」。relevant ministries and agencies は官僚制の用語。",
+      "chunks": [
+        {
+          "text": "Japanese Prime Minister Sanae Takaichi",
+          "role_ja": "主語",
+          "literal_ja": "高市早苗首相は",
+          "note_ja": "役職＋氏名の英語表記。姓が後"
+        },
+        {
+          "text": "said on social media",
+          "role_ja": "述語",
+          "literal_ja": "ソーシャルメディアで述べた",
+          "note_ja": "政治家の発言経路を明示する現代的な表現"
+        },
+        {
+          "text": "she has instructed relevant ministries and agencies",
+          "role_ja": "内容節（前半）",
+          "literal_ja": "彼女は関係省庁や機関に指示したと",
+          "note_ja": "instruct + O + to不定詞"
+        },
+        {
+          "text": "to take measures to prevent damage",
+          "role_ja": "不定詞句（目的）",
+          "literal_ja": "被害を防ぐための措置を取るよう",
+          "note_ja": "take measures = 措置を講じる。prevent damage = 被害防止"
+        }
+      ],
+      "deep_dive_ja": "on social media は従来の at a press conference とは異なる発信経路。has instructed の現在完了は、指示が有効であることの含意がある。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa, were urged to evacuate at one point, according to the Fire and Disaster Management Agency.",
+      "translation_ja": "消防庁によると、千葉・高知・沖縄など10都道府県で、一時的に19万人以上が避難を呼びかけられた。",
+      "grammar_ja": "were urged to evacuate は受動態＋不定詞で「避難を促された」。including で例示。at one point は「ある時点では／一時的に」。",
+      "chunks": [
+        {
+          "text": "Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa",
+          "role_ja": "主語",
+          "literal_ja": "千葉・高知・沖縄など10都道府県の19万人以上が",
+          "note_ja": "over = 〜以上。including は括弧的な追加説明"
+        },
+        {
+          "text": "were urged to evacuate",
+          "role_ja": "述語",
+          "literal_ja": "避難を促された",
+          "note_ja": "urge + O + to不定詞。受動態で国民が主語"
+        },
+        {
+          "text": "at one point",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "ある時点では",
+          "note_ja": "ピーク時の人数・状態を示し、その後変化した含意"
+        },
+        {
+          "text": "according to the Fire and Disaster Management Agency",
+          "role_ja": "付加情報（情報源）",
+          "literal_ja": "消防庁によると",
+          "note_ja": "日本の総務省消防庁の英語名"
+        }
+      ],
+      "deep_dive_ja": "at one point は「一時的には」というニュアンスで、数字が変動したことを示唆する。were urged to は命令ではなく勧告・呼びかけの受動表現。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "preliminary magnitude",
+      "pronunciation": "/prɪˈlɪmɪnəri ˈmæɡnɪtjuːd/",
+      "meaning_ja": "（地震の）暫定マグニチュード、推定震度",
+      "example": "an earthquake with a preliminary magnitude of 7.8",
+      "example_ja": "マグニチュード7.8と推定される地震",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "tsunami advisory",
+      "pronunciation": "/tsuːˈnɑːmi ədˈvaɪzəri/",
+      "meaning_ja": "津波注意報",
+      "example": "the agency issued a tsunami advisory for the Pacific coast",
+      "example_ja": "気象庁が太平洋沿岸に津波注意報を発表した",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "observe",
+      "pronunciation": "/əbˈzɜːrv/",
+      "meaning_ja": "（津波・現象を）観測する",
+      "example": "a minor tsunami was observed on the main island of Okinawa",
+      "example_ja": "沖縄本島で小規模な津波が観測された",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "lift",
+      "pronunciation": "/lɪft/",
+      "meaning_ja": "（警報・制限を）解除する",
+      "example": "The advisory was lifted in the afternoon.",
+      "example_ja": "注意報は午後に解除された。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "strike",
+      "pronunciation": "/straɪk/",
+      "meaning_ja": "（地震が）発生する、襲う",
+      "example": "The quake struck 26 km southwest of Kablalan.",
+      "example_ja": "地震はカブラランの南西26キロで発生した。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "instruct",
+      "pronunciation": "/ɪnˈstrʌkt/",
+      "meaning_ja": "（正式に）指示する",
+      "example": "she has instructed relevant ministries to take measures",
+      "example_ja": "関係省庁に措置を取るよう指示した",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "urge",
+      "pronunciation": "/ɜːrdʒ/",
+      "meaning_ja": "強く勧める、促す",
+      "example": "people were urged to evacuate",
+      "example_ja": "人々に避難が呼びかけられた",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "at one point",
+      "pronunciation": "/æt wʌn pɔɪnt/",
+      "meaning_ja": "ある時点では、一時的に",
+      "example": "Over 190,000 people were urged to evacuate at one point.",
+      "example_ja": "一時的に19万人以上が避難を促された。",
+      "source_sentence_id": "s010"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-observation",
+      "title": "Passive voice for reported events",
+      "rule": "Use 'was/were + past participle' (e.g., was observed, were injured, were urged) to focus on what happened rather than who did it.",
+      "example": "A minor tsunami was observed on the main island of Okinawa.",
+      "meaning_ja": "観測・負傷・避難勧告など、行為者より結果・現象を前面に出すとき、受動態がよく使われる。災害報道では特に頻出。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "Attribution with 'according to'",
+      "rule": "Place 'according to + source' at the beginning or end of a sentence to show where information comes from.",
+      "example": "Tsunami waves arrived in Okinawa, according to Japanese and U.S. authorities.",
+      "meaning_ja": "情報の出所を明示する定型表現。文頭・文末どちらにも置ける。ニュースでは客観性を保つために多用される。"
+    },
+    {
+      "id": "after-time-clause",
+      "title": "Time sequence with 'after'",
+      "rule": "Use 'after + subject + past verb' to show one event happened following another.",
+      "example": "Tsunami waves arrived after an earthquake struck off the southern Philippines.",
+      "meaning_ja": "after + 主語 + 動詞の過去形で「〜したあとに」。原因（地震）と結果（津波）の時系列を示す。"
+    },
+    {
+      "id": "non-defining-relative",
+      "title": "Non-defining relative clauses with 'which'",
+      "rule": "Use ', which + clause,' (with commas) to add extra information about a noun without changing the core meaning.",
+      "example": "The advisory, which covered areas stretching from Ibaraki to Okinawa, was lifted.",
+      "meaning_ja": "カンマで挟んだ which 節は補足説明。注意報の対象範囲など、読者に追加情報を与えるときに使う。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 10,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T07:01:37+09:00"
+  },
+  "article_id": "japantoday:2026-06-08:tsunami-waves-arrive-in-japan-after-m7-8"
+}

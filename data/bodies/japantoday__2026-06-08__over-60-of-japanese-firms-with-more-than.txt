@@ -1,0 +1,8 @@
+More than 60 percent of Japanese firms with over 1,000 employees use generative artificial intelligence, a survey has found, with overall adoption at 34.5 percent and many companies reporting efficiency gains while citing accuracy concerns.
+The survey conducted by a private research firm in March, which received valid responses from 10,312 businesses, showed 63.6 percent adoption at companies with over 1,000 employees versus 29.6 percent at those with five or fewer.
+Teikoku Databank Ltd said generative AI has spread to some extent in Japan but that it is "still in a transition period overall," more than three years after U.S. firm OpenAI released ChatGPT to the public in November 2022.
+Only 0.4 percent of companies said they ban the technology, although a certain number said they do not use it.
+Among adopters, 45.1 percent used it for "writing, summarizing and proofreading," the most common application. Other major uses included information gathering and brainstorming, suggesting many firms use the tools for support tasks.
+Nearly 90 percent of adopters said they had seen benefits such as improved efficiency. The survey indicated smaller companies saw greater benefits, likely because limited staffing created more situations in which AI could help.
+About 20 percent said gaps in "ability and performance" widened between employees who can use AI well and those who cannot. Some also said younger workers "no longer develop," as AI takes on basic tasks.
+Half of all respondents cited "information accuracy" as a concern or challenge, with Tsuyoshi Kubota, a chief researcher at Teikoku Databank, saying firms have entered a phase where results depend on building systems that enable effective use.

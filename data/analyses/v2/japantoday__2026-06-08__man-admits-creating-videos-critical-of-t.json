@@ -1,0 +1,697 @@
+{
+  "summary_ja": "IT企業の責任者・松井健氏が、高市首相の側近から依頼され、昨年の自民党総裁選で高市氏のライバルを批判する動画を作成したと認めた。週刊誌報道を高市氏は否定しているが、松井氏はAIで大量の動画を無償で制作し、違法ではないと主張している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The head of an IT firm has said that he created videos criticizing rivals of Japanese Prime Minister Sanae Takaichi in last year's ruling Liberal Democratic Party presidential race, after being asked by one of her aides to help her win the election.",
+      "translation_ja": "IT企業の責任者が、高市早苗首相のライバルを批判する動画を、昨年の与党・自民党の総裁選で作成したと述べた。それは、彼女の側近の一人から選挙に勝つよう依頼された後のことだ。",
+      "grammar_ja": "has said（現在完了）で報道の新しさを示す。that節の中にcriticizing（分詞）とafter being asked（受動の分詞構文）が入る長文。",
+      "chunks": [
+        {
+          "text": "The head of an IT firm",
+          "role_ja": "主語",
+          "literal_ja": "IT企業の責任者が",
+          "note_ja": "the head of ... で「〜の責任者」。firm は company よりやや硬いビジネス語。"
+        },
+        {
+          "text": "has said that he created videos",
+          "role_ja": "述語＋内容節",
+          "literal_ja": "〜したと述べた",
+          "note_ja": "has said + that節。報道文でよく使われる「〜と述べた」構文。"
+        },
+        {
+          "text": "criticizing rivals of Japanese Prime Minister Sanae Takaichi",
+          "role_ja": "分詞修飾",
+          "literal_ja": "日本の首相・高市早苗のライバルを批判する",
+          "note_ja": "criticizing は videos を後ろから修飾。criticize rivals of ... で「〜のライバルを批判する」。"
+        },
+        {
+          "text": "in last year's ruling Liberal Democratic Party presidential race",
+          "role_ja": "場所・時の修飾",
+          "literal_ja": "昨年の与党・自民党の総裁選で",
+          "note_ja": "ruling party = 与党。presidential race は党首選挙を指す。"
+        },
+        {
+          "text": "after being asked by one of her aides",
+          "role_ja": "時の副詞節",
+          "literal_ja": "彼女の側近の一人に依頼された後",
+          "note_ja": "after being asked = 受動の分詞構文。one of her aides = 側近の一人。"
+        },
+        {
+          "text": "to help her win the election",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "彼女が選挙に勝つ手助けをするために",
+          "note_ja": "help + 目的語 + 動詞原形（win）。"
+        }
+      ],
+      "deep_dive_ja": "英文は一文ですが、日本語では因果関係が分かりやすいよう二文に分けるのが自然です。after being asked は「依頼を受けた後」という受動の意味に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Ken Matsui, 33, told Kyodo News in a recent online interview that he was consulted by a secretary of Takaichi on how to \"reverse\" the lead of Shinjiro Koizumi, then a strong contender to win the LDP presidential election in October.",
+      "translation_ja": "33歳の松井健氏は、最近のオンラインインタビューで共同通信に対し、高市氏の秘書から、当時10月の自民党総裁選の有力候補だった小泉進次郎氏のリードを「逆転」する方法について相談されたと語った。",
+      "grammar_ja": "was consulted（受動）＋on how to ...（〜する方法について）。then a strong contender は同格の挿入句。",
+      "chunks": [
+        {
+          "text": "Ken Matsui, 33",
+          "role_ja": "主語（同格）",
+          "literal_ja": "33歳の松井健氏が",
+          "note_ja": "名前の後に年齢をカンマで挿入する報道スタイル。"
+        },
+        {
+          "text": "told Kyodo News in a recent online interview",
+          "role_ja": "述語＋間接目的語",
+          "literal_ja": "最近のオンラインインタビューで共同通信に語った",
+          "note_ja": "tell + 人 + that節。in an interview で手段・場面を示す。"
+        },
+        {
+          "text": "he was consulted by a secretary of Takaichi",
+          "role_ja": "内容節（受動）",
+          "literal_ja": "高市氏の秘書から相談された",
+          "note_ja": "consult は「相談する」だが受動では「相談を受けた」。"
+        },
+        {
+          "text": "on how to \"reverse\" the lead",
+          "role_ja": "前置詞句",
+          "literal_ja": "リードを「逆転」する方法について",
+          "note_ja": "how to + 動詞原形 = 〜する方法。reverse the lead = リードを逆転させる。"
+        },
+        {
+          "text": "then a strong contender to win the LDP presidential election in October",
+          "role_ja": "同格の挿入句",
+          "literal_ja": "当時、10月の自民党総裁選勝利の有力候補だった",
+          "note_ja": "then = 当時。contender = 候補者・有力選手。"
+        }
+      ],
+      "deep_dive_ja": "reverse は物理的な「逆転」から選挙の「逆転勝ち」へ比喩的に使われます。then a strong contender は前の固有名詞を説明する同格構文です。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "\"I proposed that negative videos would be effective,\" he said.",
+      "translation_ja": "「ネガティブな動画が効果的だと提案した」と彼は語った。",
+      "grammar_ja": "直接話法＋propose that + would（間接話法の未来）。he said は文末に置く報道の定型。",
+      "chunks": [
+        {
+          "text": "I proposed that negative videos would be effective",
+          "role_ja": "直接話法",
+          "literal_ja": "ネガティブな動画が効果的だと提案した",
+          "note_ja": "propose that ... would = 〜だと提案する。間接話法で would を使う。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "述語（文末）",
+          "literal_ja": "と彼は語った",
+          "note_ja": "報道英語では発言内容の後に , he said と置くのが一般的。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Matsui was asked about his thoughts during an online meeting on Sept. 25 to discuss social media strategy during the LDP election campaign.",
+      "translation_ja": "松井氏は9月25日のオンライン会議で、自民党選挙戦中のソーシャルメディア戦略を議論する場で、自身の考えについて尋ねられた。",
+      "grammar_ja": "was asked about ...（受動）。to discuss は目的の不定詞。during が二回出て「会議の時」と「選挙戦の期間」を示す。",
+      "chunks": [
+        {
+          "text": "Matsui was asked about his thoughts",
+          "role_ja": "主語＋受動述語",
+          "literal_ja": "松井氏は自身の考えについて尋ねられた",
+          "note_ja": "ask about = 〜について尋ねる。受動態で「尋ねられた」。"
+        },
+        {
+          "text": "during an online meeting on Sept. 25",
+          "role_ja": "時の修飾",
+          "literal_ja": "9月25日のオンライン会議の際に",
+          "note_ja": "on Sept. 25 で日付を指定。"
+        },
+        {
+          "text": "to discuss social media strategy",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "ソーシャルメディア戦略を議論するために",
+          "note_ja": "meeting to discuss ... = 〜を議論する会議。"
+        },
+        {
+          "text": "during the LDP election campaign",
+          "role_ja": "時の修飾",
+          "literal_ja": "自民党選挙戦の期間中に",
+          "note_ja": "campaign = 選挙戦。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The meeting included the secretary who was introduced to him by an acquaintance.",
+      "translation_ja": "その会議には、知人から紹介された秘書も参加していた。",
+      "grammar_ja": "関係代名詞 who 節。was introduced to him（彼に紹介された）の受動。",
+      "chunks": [
+        {
+          "text": "The meeting included the secretary",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "その会議には秘書が含まれていた",
+          "note_ja": "include = 含む・参加していた。"
+        },
+        {
+          "text": "who was introduced to him",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "彼に紹介された",
+          "note_ja": "introduce A to B = AをBに紹介する。"
+        },
+        {
+          "text": "by an acquaintance",
+          "role_ja": "動作主",
+          "literal_ja": "知人によって",
+          "note_ja": "acquaintance = 知人（ややフォーマル）。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Takaichi won the LDP election on Oct. 4 and became the country's first female prime minister later that month.",
+      "translation_ja": "高市氏は10月4日の自民党総裁選で勝利し、その月の後半に同国初の女性首相となった。",
+      "grammar_ja": "won ... and became ... の並列。the country's first female prime minister は最上級的な表現。later that month = その月の後半。",
+      "chunks": [
+        {
+          "text": "Takaichi won the LDP election on Oct. 4",
+          "role_ja": "主語＋述語",
+          "literal_ja": "高市氏は10月4日に自民党総裁選で勝った",
+          "note_ja": "win an election = 選挙に勝つ。"
+        },
+        {
+          "text": "became the country's first female prime minister",
+          "role_ja": "並列述語",
+          "literal_ja": "同国初の女性首相になった",
+          "note_ja": "become + 名詞。first female prime minister = 初の女性首相。"
+        },
+        {
+          "text": "later that month",
+          "role_ja": "時の修飾",
+          "literal_ja": "その月の後半に",
+          "note_ja": "later that month / week / year で「その月の後半」など。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "She appointed Koizumi as defense minister.",
+      "translation_ja": "彼女は小泉氏を防衛大臣に任命した。",
+      "grammar_ja": "appoint + 人 + as + 役職。シンプルな過去形。",
+      "chunks": [
+        {
+          "text": "She appointed Koizumi",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "彼女は小泉氏を任命した",
+          "note_ja": "appoint = 任命する。"
+        },
+        {
+          "text": "as defense minister",
+          "role_ja": "補語",
+          "literal_ja": "防衛大臣として",
+          "note_ja": "appoint A as B = AをBに任命する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Speaking in parliament in May, Takaichi denied reports saying her camp spread videos online via anonymous accounts to smear opponents.",
+      "translation_ja": "5月の国会での発言で、高市氏は、自身の陣営が匿名アカウントを通じて動画を拡散し、対立候補を中傷したという報道を否定した。",
+      "grammar_ja": "分詞構文 Speaking in parliament。deny reports saying ...（〜という報道を否定）。via = 〜を通じて。to smear = 中傷する目的。",
+      "chunks": [
+        {
+          "text": "Speaking in parliament in May",
+          "role_ja": "分詞構文（時・場所）",
+          "literal_ja": "5月に国会で発言しながら",
+          "note_ja": "主語 Takaichi にかかる分詞構文。"
+        },
+        {
+          "text": "Takaichi denied reports",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "高市氏は報道を否定した",
+          "note_ja": "deny reports = 報道を否定する。"
+        },
+        {
+          "text": "saying her camp spread videos online",
+          "role_ja": "分詞修飾（内容）",
+          "literal_ja": "自身の陣営がオンラインで動画を拡散したと言う",
+          "note_ja": "reports saying ... = 〜と言う報道。"
+        },
+        {
+          "text": "via anonymous accounts",
+          "role_ja": "手段",
+          "literal_ja": "匿名アカウントを通じて",
+          "note_ja": "via = 〜経由で・〜を通じて。"
+        },
+        {
+          "text": "to smear opponents",
+          "role_ja": "目的",
+          "literal_ja": "対立候補を中傷するために",
+          "note_ja": "smear = 中傷する（強い否定的ニュアンス）。"
+        }
+      ],
+      "deep_dive_ja": "camp は「陣営・側近グループ」の意味。deny reports saying ... は報道の内容を否定する定型表現です。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "\"I have been told that my office and campaign team did not in any way disseminate negative information about other candidates or create and distribute such videos,\" she said.",
+      "translation_ja": "「私の事務所と選挙対策チームは、他の候補に関するネガティブな情報をいかなる形でも拡散したり、そのような動画を作成・配布したりしていないと聞いている」と彼女は述べた。",
+      "grammar_ja": "have been told（受動の現在完了）＋that節。in any way = いかなる形でも（強調）。did not ... or create and distribute の並列否定。",
+      "chunks": [
+        {
+          "text": "I have been told that",
+          "role_ja": "受動の現在完了",
+          "literal_ja": "〜と聞かされている",
+          "note_ja": "政治家の発言で責任を曖昧にする表現。「聞いている」で直接否定を避ける。"
+        },
+        {
+          "text": "my office and campaign team",
+          "role_ja": "主語",
+          "literal_ja": "私の事務所と選挙対策チームは",
+          "note_ja": "campaign team = 選挙対策チーム。"
+        },
+        {
+          "text": "did not in any way disseminate negative information",
+          "role_ja": "否定述語",
+          "literal_ja": "いかなる形でもネガティブな情報を拡散しなかった",
+          "note_ja": "in any way = 少しも・いかなる形でも。disseminate = 拡散する（フォーマル）。"
+        },
+        {
+          "text": "or create and distribute such videos",
+          "role_ja": "並列否定",
+          "literal_ja": "またはそのような動画を作成・配布した",
+          "note_ja": "such videos = 前述の動画。"
+        }
+      ],
+      "deep_dive_ja": "I have been told that ... は「〜と聞いている」という間接的な否定で、本人の直接の知識を示さない外交的表現です。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "The reports, which first appeared in the weekly magazine Shukan Bunshun in late April, claimed that Takaichi's publicly funded first secretary and others made and posted videos criticizing politicians including Koizumi, in which he was called \"incapable\" and a \"puppet of hereditary politics.\"",
+      "translation_ja": "4月下旬に週刊誌『週刊文春』で最初に報じられたという報道は、高市氏の公費第一秘書らが小泉氏ら政治家を批判する動画を制作・投稿し、その中で彼を「無能」と「世襲政治の傀儡」と呼んだと主張した。",
+      "grammar_ja": "関係代名詞 which の挿入節。claimed that ...。in which he was called ...（関係代名詞＋受動）。including = 〜を含めて。",
+      "chunks": [
+        {
+          "text": "The reports, which first appeared in the weekly magazine Shukan Bunshun in late April",
+          "role_ja": "主語＋関係代名詞節",
+          "literal_ja": "4月下旬に週刊文春で最初に登場した報道は",
+          "note_ja": "which 節で報道の出所・時期を補足。"
+        },
+        {
+          "text": "claimed that Takaichi's publicly funded first secretary and others",
+          "role_ja": "述語＋内容節の主語",
+          "literal_ja": "高市氏の公費第一秘書らが〜したと主張した",
+          "note_ja": "publicly funded = 公費で支給される。first secretary = 第一秘書。"
+        },
+        {
+          "text": "made and posted videos criticizing politicians including Koizumi",
+          "role_ja": "内容節の述語",
+          "literal_ja": "小泉氏を含む政治家を批判する動画を制作・投稿した",
+          "note_ja": "made and posted = 制作して投稿した。"
+        },
+        {
+          "text": "in which he was called \"incapable\" and a \"puppet of hereditary politics\"",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "その中で彼は「無能」「世襲政治の傀儡」と呼ばれた",
+          "note_ja": "hereditary politics = 世襲政治。puppet = 傀儡。"
+        }
+      ],
+      "deep_dive_ja": "英文最長の一文。in which は videos を受け、動画の中身を説明します。publicly funded first secretary は日本の国会議員秘書制度の用語です。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "In a written response to Kyodo News, Takaichi's office denied such allegations and said it has no plans to re-investigate the claims.",
+      "translation_ja": "共同通信への書面回答で、高市氏の事務所はそのような疑惑を否定し、再調査する予定はないと述べた。",
+      "grammar_ja": "In a written response to ...（前置詞句）。denied ... and said ... の並列。has no plans to = 〜する予定はない（現在完了）。",
+      "chunks": [
+        {
+          "text": "In a written response to Kyodo News",
+          "role_ja": "状況の前置詞句",
+          "literal_ja": "共同通信への書面回答で",
+          "note_ja": "written response = 書面による回答。"
+        },
+        {
+          "text": "Takaichi's office denied such allegations",
+          "role_ja": "主語＋述語",
+          "literal_ja": "高市氏の事務所はそのような疑惑を否定した",
+          "note_ja": "allegations = 疑惑・申し立て。"
+        },
+        {
+          "text": "said it has no plans to re-investigate the claims",
+          "role_ja": "並列述語＋内容節",
+          "literal_ja": "再調査する予定はないと述べた",
+          "note_ja": "have no plans to = 〜する予定はない。re-investigate = 再調査する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Matsui, who was also the developer of Sanae Token, a meme coin named after the prime minister, said the videos not only targeted Koizumi but another leadership rival, then Chief Cabinet Secretary Yoshimasa Hayashi who was emerging as another leading contender.",
+      "translation_ja": "首相にちなんで名付けられたミームコイン「サナエトークン」の開発者でもある松井氏は、動画の標的は小泉氏だけでなく、当時の官房長官で別の有力候補として台頭していた林芳正氏という別の党首選ライバルにも及んでいたと述べた。",
+      "grammar_ja": "関係代名詞 who が二重（Matsui と Hayashi）。not only ... but ... の相関構文。a meme coin named after ...（過去分詞修飾）。",
+      "chunks": [
+        {
+          "text": "Matsui, who was also the developer of Sanae Token, a meme coin named after the prime minister",
+          "role_ja": "主語＋関係代名詞節",
+          "literal_ja": "首相にちなんだミームコイン・サナエトークンの開発者でもある松井氏は",
+          "note_ja": "named after = 〜にちなんで名付けられた。meme coin = ミームコイン。"
+        },
+        {
+          "text": "the videos not only targeted Koizumi",
+          "role_ja": "内容節（前半）",
+          "literal_ja": "動画は小泉氏だけでなく標的にした",
+          "note_ja": "not only ... but ... = 〜だけでなく…も。"
+        },
+        {
+          "text": "but another leadership rival",
+          "role_ja": "相関接続（後半）",
+          "literal_ja": "別の党首選ライバルも",
+          "note_ja": "leadership rival = 党首選のライバル。"
+        },
+        {
+          "text": "then Chief Cabinet Secretary Yoshimasa Hayashi who was emerging as another leading contender",
+          "role_ja": "同格の説明＋関係代名詞節",
+          "literal_ja": "当時の官房長官・林芳正氏で、別の有力候補として台頭していた",
+          "note_ja": "emerge as = 〜として台頭する。leading contender = 有力候補。"
+        }
+      ],
+      "deep_dive_ja": "not only A but B は B の前に also が省略されている形。then は「当時の」という時間的な説明を加えます。",
+      "difficulty": "hard",
+      "sentence_id": "s012"
+    },
+    {
+      "text": "Hayashi is now the internal affairs and communications minister in Takaichi's Cabinet.",
+      "translation_ja": "林氏は現在、高市内閣の総務大臣を務めている。",
+      "grammar_ja": "is now ...（現在の役職）。internal affairs and communications minister = 総務大臣。",
+      "chunks": [
+        {
+          "text": "Hayashi is now",
+          "role_ja": "主語＋述語",
+          "literal_ja": "林氏は現在",
+          "note_ja": "now で現在の状況を示す。"
+        },
+        {
+          "text": "the internal affairs and communications minister",
+          "role_ja": "補語",
+          "literal_ja": "総務大臣である",
+          "note_ja": "日本の閣僚名の英訳。communications はここでは「総務」の一部。"
+        },
+        {
+          "text": "in Takaichi's Cabinet",
+          "role_ja": "所属",
+          "literal_ja": "高市内閣で",
+          "note_ja": "Cabinet = 内閣。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Matsui said he used some original generative artificial intelligence software to create 1,000 to 1,500 short videos on Koizumi and Hayashi.",
+      "translation_ja": "松井氏は、小泉氏と林氏に関する短い動画を1000本から1500本作成するために、独自の生成AIソフトウェアを使ったと述べた。",
+      "grammar_ja": "used ... to create ...（〜を使って〜する）。generative artificial intelligence = 生成AI。on = 〜に関する。",
+      "chunks": [
+        {
+          "text": "Matsui said he used some original generative artificial intelligence software",
+          "role_ja": "主語＋述語＋内容節",
+          "literal_ja": "松井氏は独自の生成AIソフトウェアを使ったと述べた",
+          "note_ja": "generative AI = 生成AI。original = 独自の。"
+        },
+        {
+          "text": "to create 1,000 to 1,500 short videos",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "1000本から1500本の短い動画を作成するために",
+          "note_ja": "1,000 to 1,500 = 範囲の表現。"
+        },
+        {
+          "text": "on Koizumi and Hayashi",
+          "role_ja": "対象",
+          "literal_ja": "小泉氏と林氏に関する",
+          "note_ja": "videos on ... = 〜に関する動画。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Around 300 social media accounts were then created on which the videos were shared.",
+      "translation_ja": "その後、動画が共有されたソーシャルメディアのアカウントが約300件作成された。",
+      "grammar_ja": "受動態 were created。関係代名詞 on which（前置詞＋which）で accounts を修飾。",
+      "chunks": [
+        {
+          "text": "Around 300 social media accounts were then created",
+          "role_ja": "主語＋受動述語",
+          "literal_ja": "その後、ソーシャルメディアのアカウントが約300件作成された",
+          "note_ja": "Around = およそ・約。then = その後。"
+        },
+        {
+          "text": "on which the videos were shared",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "その上で動画が共有された",
+          "note_ja": "on which = そのアカウント上で。share videos = 動画を共有する。"
+        }
+      ],
+      "deep_dive_ja": "on which は前置詞付き関係代名詞で、which の前に置く前置詞 on が accounts（アカウント上で）を示します。",
+      "difficulty": "medium",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "He added he instructed the AI not to use expressions that would be slanderous and produced the content free of charge.",
+      "translation_ja": "彼は加えて、中傷にあたる表現を使わないようAIに指示し、コンテンツを無償で制作したと述べた。",
+      "grammar_ja": "instruct + 目的語 + not to ...。that would be slanderous（関係代名詞節）。free of charge = 無償で。",
+      "chunks": [
+        {
+          "text": "He added he instructed the AI",
+          "role_ja": "主語＋述語",
+          "literal_ja": "彼は加えてAIに指示したと述べた",
+          "note_ja": "add = 付け加えて言う。instruct = 指示する。"
+        },
+        {
+          "text": "not to use expressions that would be slanderous",
+          "role_ja": "不定詞句",
+          "literal_ja": "中傷にあたる表現を使わないよう",
+          "note_ja": "slanderous = 中傷的な。that would be = 〜になり得る。"
+        },
+        {
+          "text": "produced the content free of charge",
+          "role_ja": "並列述語",
+          "literal_ja": "コンテンツを無償で制作した",
+          "note_ja": "free of charge = 無料で・無償で。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He also said he does not think his actions violated the law.",
+      "translation_ja": "彼はまた、自身の行為が法律に違反したとは考えていないと述べた。",
+      "grammar_ja": "does not think + 節（否定の転移）。violated the law = 法律に違反した。",
+      "chunks": [
+        {
+          "text": "He also said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "彼はまた述べた",
+          "note_ja": "also said で追加の発言を示す。"
+        },
+        {
+          "text": "he does not think his actions violated the law",
+          "role_ja": "内容節",
+          "literal_ja": "自身の行為が法律に違反したとは考えていない",
+          "note_ja": "think の否定で「〜とは思わない」。violate the law = 法律違反する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Takaichi's use of social media was regarded as a strong factor in her victory in the party race as well as the LDP's landslide lower house election victory in February this year.",
+      "translation_ja": "高市氏のソーシャルメディア活用は、党首選での勝利だけでなく、今年2月の自民党の衆院選圧勝においても、大きな要因と見なされていた。",
+      "grammar_ja": "was regarded as（〜と見なされた）。as well as = 〜だけでなく…も。landslide victory = 圧勝。",
+      "chunks": [
+        {
+          "text": "Takaichi's use of social media",
+          "role_ja": "主語",
+          "literal_ja": "高市氏のソーシャルメディア活用は",
+          "note_ja": "use of ... = 〜の活用・利用。"
+        },
+        {
+          "text": "was regarded as a strong factor",
+          "role_ja": "受動述語",
+          "literal_ja": "大きな要因と見なされた",
+          "note_ja": "be regarded as = 〜と見なされる。"
+        },
+        {
+          "text": "in her victory in the party race",
+          "role_ja": "場所・対象",
+          "literal_ja": "党首選での勝利において",
+          "note_ja": "party race = 党首選。"
+        },
+        {
+          "text": "as well as the LDP's landslide lower house election victory in February this year",
+          "role_ja": "追加",
+          "literal_ja": "今年2月の自民党の衆院選圧勝においても",
+          "note_ja": "as well as = 〜に加えて。landslide = 圧勝。lower house = 衆議院。"
+        }
+      ],
+      "deep_dive_ja": "landslide victory は「大差での勝利＝圧勝」。as well as は and よりフォーマルで、二つの勝利を並列します。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "It has previously been revealed that the Koizumi camp had also asked campaign staff to make posts smearing rivals during the LDP leadership race.",
+      "translation_ja": "小泉陣営も自民党総裁選の期間中、ライバルを中傷する投稿をするよう選挙スタッフに依頼していたことが、以前明らかになっている。",
+      "grammar_ja": "It has been revealed that ...（形式主語 it）。had asked（過去完了）。posts smearing rivals（分詞修飾）。",
+      "chunks": [
+        {
+          "text": "It has previously been revealed that",
+          "role_ja": "形式主語＋受動",
+          "literal_ja": "以前明らかになっている",
+          "note_ja": "It has been revealed that = 〜ことが明らかになった。報道の受動表現。"
+        },
+        {
+          "text": "the Koizumi camp had also asked campaign staff",
+          "role_ja": "内容節の主語＋述語",
+          "literal_ja": "小泉陣営も選挙スタッフに依頼していた",
+          "note_ja": "had asked = 過去のある時点より前の依頼（過去完了）。"
+        },
+        {
+          "text": "to make posts smearing rivals",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "ライバルを中傷する投稿をするよう",
+          "note_ja": "posts smearing rivals = ライバルを中傷する投稿。"
+        },
+        {
+          "text": "during the LDP leadership race",
+          "role_ja": "時の修飾",
+          "literal_ja": "自民党総裁選の期間中に",
+          "note_ja": "leadership race = 党首選。"
+        }
+      ],
+      "deep_dive_ja": "文末の also は、高市陣営だけでなく小泉陣営も同様だったことを示す対比のニュアンスです。",
+      "difficulty": "hard",
+      "sentence_id": "s019"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "aide",
+      "pronunciation": "/eɪd/",
+      "meaning_ja": "側近、補佐官",
+      "example": "after being asked by one of her aides",
+      "example_ja": "彼女の側近の一人から依頼された後",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "contender",
+      "pronunciation": "/kənˈtendər/",
+      "meaning_ja": "有力候補、競争者",
+      "example": "then a strong contender to win the LDP presidential election",
+      "example_ja": "当時、自民党総裁選勝利の有力候補だった",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "smear",
+      "pronunciation": "/smɪr/",
+      "meaning_ja": "中傷する、汚名を着せる",
+      "example": "spread videos online via anonymous accounts to smear opponents",
+      "example_ja": "匿名アカウントを通じて動画を拡散し、対立候補を中傷した",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "disseminate",
+      "pronunciation": "/dɪˈsemɪneɪt/",
+      "meaning_ja": "（情報を）拡散する、広める",
+      "example": "did not in any way disseminate negative information",
+      "example_ja": "いかなる形でもネガティブな情報を拡散しなかった",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "allegation",
+      "pronunciation": "/ˌælɪˈɡeɪʃn/",
+      "meaning_ja": "疑惑、申し立て（証明前の主張）",
+      "example": "Takaichi's office denied such allegations",
+      "example_ja": "高市氏の事務所はそのような疑惑を否定した",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "slanderous",
+      "pronunciation": "/ˈslændərəs/",
+      "meaning_ja": "中傷的な、誹謗するような",
+      "example": "instructed the AI not to use expressions that would be slanderous",
+      "example_ja": "中傷にあたる表現を使わないようAIに指示した",
+      "source_sentence_id": "s016"
+    },
+    {
+      "word": "landslide",
+      "pronunciation": "/ˈlændslaɪd/",
+      "meaning_ja": "圧勝、大差勝利",
+      "example": "the LDP's landslide lower house election victory",
+      "example_ja": "自民党の衆院選圧勝",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "hereditary politics",
+      "pronunciation": "/həˈredɪteri pəˈlɪtɪks/",
+      "meaning_ja": "世襲政治（政治家の家系による権力継承）",
+      "example": "a \"puppet of hereditary politics\"",
+      "example_ja": "「世襲政治の傀儡」",
+      "source_sentence_id": "s010"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-reporting",
+      "title": "Reporting passive (was asked / was consulted / has been told)",
+      "rule": "Use passive voice to report who received an action without emphasizing the agent, common in news.",
+      "example": "he was consulted by a secretary of Takaichi",
+      "meaning_ja": "報道英語では受動態で「誰から〜されたか」を客観的に述べる。has been told は政治家が直接否定を避ける間接表現としても使われる。"
+    },
+    {
+      "id": "participle-clause",
+      "title": "Participial clauses (Speaking in..., after being asked...)",
+      "rule": "Present participles (-ing) or past participles can open or extend a sentence, sharing the subject with the main clause.",
+      "example": "Speaking in parliament in May, Takaichi denied reports",
+      "meaning_ja": "分詞構文で時間・理由・付帯状況を簡潔に示す。主語は主節と同じ。"
+    },
+    {
+      "id": "not-only-but",
+      "title": "Correlative conjunctions (not only... but also...)",
+      "rule": "not only A but (also) B emphasizes that B is an additional case, not the only one.",
+      "example": "the videos not only targeted Koizumi but another leadership rival",
+      "meaning_ja": "「AだけでなくBも」を強調する相関接続詞。also は often 省略される。"
+    },
+    {
+      "id": "formal-it-passive",
+      "title": "Formal subject 'It' + passive reporting (It has been revealed that...)",
+      "rule": "It + passive verb + that-clause is a standard news pattern for introducing information without naming the source in the main clause.",
+      "example": "It has previously been revealed that the Koizumi camp had also asked campaign staff",
+      "meaning_ja": "形式主語 it + 受動態 + that節で「〜ことが明らかになった」と情報源を曖昧にしつつ報じる定型構文。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 19,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T07:01:54+09:00"
+  },
+  "article_id": "japantoday:2026-06-08:man-admits-creating-videos-critical-of-t"
+}

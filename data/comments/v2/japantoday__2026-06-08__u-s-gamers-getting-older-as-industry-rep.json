@@ -1,0 +1,32 @@
+{
+  "article_id": "japantoday:2026-06-08:u-s-gamers-getting-older-as-industry-rep",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T07:00:10+09:00",
+  "fetched_at": "2026-06-10T07:02:18+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Makes sense. The 30-50 year old gamers are the first and last seemingly generation to add gaming as a major hobby where they buy hardware and games specifically for gaming. Younger gen have smartphones and other devices that have a myriad of free or free to start games that they have been drawn to since they likely can’t afford traditional boxed games and have been raised on in game currency models for games they can play for free. It’s a bit sad but the reality.",
+      "translation_ja": "なるほど、筋は通っている。30〜50代のゲーマーは、ゲーム用にハードやソフトを買うなど、ゲームを本格的な趣味として取り入れた、最初で最後の世代のように見える。若い世代はスマホなど別の機器で、無料や基本無料のゲームが山ほどある。箱入りの本格ゲームは買えないことが多く、幼い頃から無料で遊べるゲームの課金モデルに慣れて育ったので、そちらに引き寄せられている。少し悲しい話だが、現実だ。",
+      "notes_ja": [
+        "「Younger gen」は generation の口語略。「gen have」は口語では複数扱いになることがある。",
+        "「first and last seemingly generation」は seemingly の位置がやや不自然で、「一見、最初で最後の世代」という意味。長文はカンマでつなぐ話し言葉調。"
+      ],
+      "standard_en": "Makes sense. The 30–50-year-old gamers seem to be the first and last generation to adopt gaming as a major hobby, buying hardware and games specifically for gaming. Younger generations have smartphones and other devices with a myriad of free or free-to-start games. They have been drawn to these because they likely cannot afford traditional boxed games and were raised on in-game currency models for games they can play for free. It is a bit sad, but that is the reality.",
+      "marked_terms": [
+        {
+          "term": "gen",
+          "symbol": "◇",
+          "note_ja": "generation のカジュアルな略。フォーマルな文章では generation と書く。"
+        }
+      ],
+      "comment_id": 5230121,
+      "author": "GillislowTier",
+      "rating": 3,
+      "posted_at": "2026-06-08T11:50:23+09:00"
+    }
+  ]
+}

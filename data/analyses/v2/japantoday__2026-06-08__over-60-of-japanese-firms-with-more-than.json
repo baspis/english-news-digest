@@ -1,0 +1,467 @@
+{
+  "summary_ja": "民間調査によると、従業員1,000人以上の日本企業の63.6%が生成AIを利用しており、全体では34.5%にとどまる。多くの企業は効率化の効果を報告する一方、情報の正確性や社員間のスキル格差への懸念も示されている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "More than 60 percent of Japanese firms with over 1,000 employees use generative artificial intelligence, a survey has found, with overall adoption at 34.5 percent and many companies reporting efficiency gains while citing accuracy concerns.",
+      "translation_ja": "調査によると、従業員1,000人以上の日本企業の60%超が生成AIを利用しており、全体の導入率は34.5%です。多くの企業は効率化の効果を報告する一方、正確性への懸念も挙げています。",
+      "grammar_ja": "冒頭の長文は、主節＋挿入句（a survey has found）＋with〜（付帯状況）＋while citing〜（同時進行）の構造。news styleでは数字を先に出し、reporting/citingの現在分詞で複数の情報を1文に圧縮する。",
+      "chunks": [
+        {
+          "text": "More than 60 percent of Japanese firms with over 1,000 employees",
+          "role_ja": "主語（名詞句）",
+          "literal_ja": "1,000人以上の従業員を抱える日本企業の60%超",
+          "note_ja": "more than 60 percent = 60%超。with over 1,000 employees は firms を後置修飾する関係詞句相当。"
+        },
+        {
+          "text": "use generative artificial intelligence",
+          "role_ja": "述語",
+          "literal_ja": "生成AIを利用する",
+          "note_ja": "generative AI は生成人工知能。use は導入・活用のニュース記事で頻出。"
+        },
+        {
+          "text": "a survey has found",
+          "role_ja": "挿入句（出典）",
+          "literal_ja": "調査が明らかにした",
+          "note_ja": "主語と述語の間に挿入され、情報源を示す。has found は調査結果の報告でよく使う。"
+        },
+        {
+          "text": "with overall adoption at 34.5 percent",
+          "role_ja": "付帯状況",
+          "literal_ja": "全体の導入率は34.5%で",
+          "note_ja": "with + 名詞 + at + 数字 は統計記事の定型表現。adoption = 導入・採用。"
+        },
+        {
+          "text": "many companies reporting efficiency gains",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "多くの企業が効率化の効果を報告して",
+          "note_ja": "reporting は with に続く現在分詞。efficiency gains = 効率向上の成果。"
+        },
+        {
+          "text": "while citing accuracy concerns",
+          "role_ja": "付帯状況（同時進行）",
+          "literal_ja": "正確性への懸念を挙げながら",
+          "note_ja": "while + -ing で「〜しつつ」。citing concerns は記事でよく見るコロケーション。"
+        }
+      ],
+      "deep_dive_ja": "1文に調査結果・全体率・メリット・懸念を詰め込むのはビジネスニュースの典型です。'a survey has found' を文頭に置く書き方もありますが、ここでは主張を先に示しています。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The survey conducted by a private research firm in March, which received valid responses from 10,312 businesses, showed 63.6 percent adoption at companies with over 1,000 employees versus 29.6 percent at those with five or fewer.",
+      "translation_ja": "3月に民間調査会社が実施し、10,312社から有効回答を得た調査では、従業員1,000人以上の企業では63.6%、5人以下の企業では29.6%が導入していることが示されました。",
+      "grammar_ja": "conducted by...（過去分詞の後置修飾）＋which received...（非限定用法）＋showed A versus B（対比）。five or fewer は five or fewer employees の省略。",
+      "chunks": [
+        {
+          "text": "The survey conducted by a private research firm in March",
+          "role_ja": "主語",
+          "literal_ja": "3月に民間調査会社が実施した調査",
+          "note_ja": "conducted by は survey を修飾する過去分詞句。'by + 実施者' で調査主体を示す。"
+        },
+        {
+          "text": "which received valid responses from 10,312 businesses",
+          "role_ja": "関係詞節（非限定）",
+          "literal_ja": "10,312社から有効回答を得た",
+          "note_ja": "valid responses = 有効な回答。which は survey を説明追加。"
+        },
+        {
+          "text": "showed 63.6 percent adoption",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "63.6%の導入率を示した",
+          "note_ja": "showed + 数字 + adoption は統計報道の基本形。"
+        },
+        {
+          "text": "at companies with over 1,000 employees",
+          "role_ja": "場所・対象の修飾",
+          "literal_ja": "従業員1,000人以上の企業では",
+          "note_ja": "at companies with... で対象企業群を限定。"
+        },
+        {
+          "text": "versus 29.6 percent at those with five or fewer",
+          "role_ja": "対比",
+          "literal_ja": "5人以下の企業の29.6%に対して",
+          "note_ja": "versus = 〜に対して。those = those companies の代名詞。five or fewer は employees 省略。"
+        }
+      ],
+      "deep_dive_ja": "versus は compared to より簡潔で、数字の対比記事で好まれます。'those with five or fewer' のように those + 前置詞句で前出の名詞を受ける書き方はB2以上で重要です。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Teikoku Databank Ltd said generative AI has spread to some extent in Japan but that it is \"still in a transition period overall,\" more than three years after U.S. firm OpenAI released ChatGPT to the public in November 2022.",
+      "translation_ja": "帝国データバンクは、生成AIは日本でもある程度普及したものの、2022年11月に米OpenAIがChatGPTを一般公開してから3年以上経った今も「全体としてはまだ移行期にある」と述べました。",
+      "grammar_ja": "said + that節（but that で2つ目のthat節）＋more than three years after + 過去形（時点基準）。to some extent / in a transition period は評価表現。",
+      "chunks": [
+        {
+          "text": "Teikoku Databank Ltd said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "帝国データバンクは述べた",
+          "note_ja": "Ltd = Limited（株式会社）。said の後に間接話法。"
+        },
+        {
+          "text": "generative AI has spread to some extent in Japan",
+          "role_ja": "that節（内容1）",
+          "literal_ja": "生成AIは日本でもある程度普及した",
+          "note_ja": "has spread = 普及した（現在完了）。to some extent = ある程度。"
+        },
+        {
+          "text": "but that it is \"still in a transition period overall\"",
+          "role_ja": "that節（内容2・対比）",
+          "literal_ja": "しかし全体としてはまだ移行期にある",
+          "note_ja": "but that で contrasting claim。transition period = 移行期・過渡期。"
+        },
+        {
+          "text": "more than three years after U.S. firm OpenAI released ChatGPT to the public",
+          "role_ja": "時間の背景",
+          "literal_ja": "米OpenAIがChatGPTを一般公開してから3年以上経って",
+          "note_ja": "release A to the public = 一般公開する。after + 過去形で起点。"
+        },
+        {
+          "text": "in November 2022",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2022年11月に",
+          "note_ja": "具体年月で出来事を固定。"
+        }
+      ],
+      "deep_dive_ja": "but that it is... の but that は、'said X but (said) that Y' の省略構造です。引用符内の still in a transition period は、導入が進んでも成熟段階ではないという慎重な評価を示します。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Only 0.4 percent of companies said they ban the technology, although a certain number said they do not use it.",
+      "translation_ja": "企業のわずか0.4%しか生成AIを禁止していないと回答しましたが、一定数は利用していないとも述べました。",
+      "grammar_ja": "Only 0.4 percent（部分否定の強調）＋said they ban（現在形で一般的事実）＋although（譲歩）。a certain number = 一定数（具体数は示さない）。",
+      "chunks": [
+        {
+          "text": "Only 0.4 percent of companies",
+          "role_ja": "主語",
+          "literal_ja": "企業のわずか0.4%",
+          "note_ja": "Only を文頭・数字前に置くと「わずか〜」のニュアンス。"
+        },
+        {
+          "text": "said they ban the technology",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "その技術を禁止していると述べた",
+          "note_ja": "ban the technology = 技術の利用を禁止する。"
+        },
+        {
+          "text": "although a certain number said they do not use it",
+          "role_ja": "譲步節",
+          "literal_ja": "一定数は利用していないと述べたが",
+          "note_ja": "although = 〜だが。a certain number は曖昧な数量表現。"
+        }
+      ],
+      "deep_dive_ja": "ban と do not use は別概念です。禁止していない＝使っていない、ではない点に注意。B2学習者は although と but の重複使用を避ける練習も有効です。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Among adopters, 45.1 percent used it for \"writing, summarizing and proofreading,\" the most common application.",
+      "translation_ja": "導入企業のうち45.1%が「執筆・要約・校正」に利用しており、これが最も一般的な用途でした。",
+      "grammar_ja": "Among adopters（範囲）＋used it for + 動名詞列挙。末尾の the most common application は同格で前の用途を説明。",
+      "chunks": [
+        {
+          "text": "Among adopters",
+          "role_ja": "範囲を示す前置詞句",
+          "literal_ja": "導入企業のうち",
+          "note_ja": "adopters = 導入者・採用企業。Among + 複数名詞。"
+        },
+        {
+          "text": "45.1 percent used it for",
+          "role_ja": "主語＋述語",
+          "literal_ja": "45.1%が〜に利用した",
+          "note_ja": "use A for B = AをB目的で使う。"
+        },
+        {
+          "text": "\"writing, summarizing and proofreading\"",
+          "role_ja": "目的（動名詞列）",
+          "literal_ja": "執筆、要約、校正",
+          "note_ja": "proofreading = 校正・推敲。並列は ing 形で統一。"
+        },
+        {
+          "text": "the most common application",
+          "role_ja": "同格",
+          "literal_ja": "最も一般的な用途",
+          "note_ja": "カンマ後の名詞句が直前全体を言い換える。"
+        }
+      ],
+      "deep_dive_ja": "引用符内の3語は実務的な裏方業務を示し、生成AIの初期利用が事務支援に偏る傾向を表しています。",
+      "difficulty": "easy",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Other major uses included information gathering and brainstorming, suggesting many firms use the tools for support tasks.",
+      "translation_ja": "その他の主な用途には情報収集やブレインストーミングがあり、多くの企業がこれらのツールを支援業務に使っていることがうかがえます。",
+      "grammar_ja": "included A and B（過去形）＋suggesting...（結果を示す現在分詞）。support tasks = 補助的・支援的な業務。",
+      "chunks": [
+        {
+          "text": "Other major uses included information gathering and brainstorming",
+          "role_ja": "主語＋述語",
+          "literal_ja": "その他の主な用途には情報収集とブレインストーミングが含まれた",
+          "note_ja": "information gathering は動名詞の名詞化。brainstorming = 発想出し。"
+        },
+        {
+          "text": "suggesting many firms use the tools for support tasks",
+          "role_ja": "付帯状況（結果・示唆）",
+          "literal_ja": "多くの企業が支援業務のためにツールを使っていることを示唆して",
+          "note_ja": "suggesting + 節 で「〜ということがわかる」。support tasks = 補助業務。"
+        }
+      ],
+      "deep_dive_ja": "suggesting は 'which suggests that' の短縮感覚で、前の事実から読み取れる含意を添えます。ニュースでは which suggests より分詞の方が簡潔です。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Nearly 90 percent of adopters said they had seen benefits such as improved efficiency.",
+      "translation_ja": "導入企業の約9割が、効率向上などのメリットを実感したと回答しました。",
+      "grammar_ja": "Nearly 90 percent（約）＋said they had seen（過去完了：調査時点より前の経験）＋such as（例示）。",
+      "chunks": [
+        {
+          "text": "Nearly 90 percent of adopters",
+          "role_ja": "主語",
+          "literal_ja": "導入企業の約90%",
+          "note_ja": "nearly = 約・ほぼ。adopters は前出と同じ語。"
+        },
+        {
+          "text": "said they had seen benefits",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "メリットを実感したと述べた",
+          "note_ja": "had seen = それまでに経験・認識した。see benefits = 効果を実感する。"
+        },
+        {
+          "text": "such as improved efficiency",
+          "role_ja": "例示",
+          "literal_ja": "効率向上など",
+          "note_ja": "such as = 〜のような。improved efficiency = 効率改善。"
+        }
+      ],
+      "deep_dive_ja": "had seen は 'have seen' より「導入後にすでに効果を経験した」ニュアンスが強いです。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "The survey indicated smaller companies saw greater benefits, likely because limited staffing created more situations in which AI could help.",
+      "translation_ja": "調査では、中小企業ほど大きな効果を得たことが示され、これは人手不足のためAIが役立つ場面が多かった可能性が高いと考えられます。",
+      "grammar_ja": "indicated + that節省略（companies saw...）＋likely because（推量理由）＋situations in which（関係詞節）。limited staffing = 人員が限られていること。",
+      "chunks": [
+        {
+          "text": "The survey indicated smaller companies saw greater benefits",
+          "role_ja": "主語＋述語＋目的語節",
+          "literal_ja": "調査は中小企業ほど大きな効果があったことを示した",
+          "note_ja": "indicate = 示す・示唆する。greater benefits = より大きな効果。"
+        },
+        {
+          "text": "likely because limited staffing created more situations",
+          "role_ja": "理由（推量）",
+          "literal_ja": "おそらく限られた人員配置がより多くの状況を生んだから",
+          "note_ja": "likely because = おそらく〜が理由で。limited staffing = 人員不足・限られた人員。"
+        },
+        {
+          "text": "in which AI could help",
+          "role_ja": "関係詞節",
+          "literal_ja": "AIが助けになれる",
+          "note_ja": "situations in which = 〜という状況。could help = 助けになりうる。"
+        }
+      ],
+      "deep_dive_ja": "likely because は記者の推測を明示する表現で、断定を避けます。'the smaller, the greater' 型の対比構造も読み取れます。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "About 20 percent said gaps in \"ability and performance\" widened between employees who can use AI well and those who cannot.",
+      "translation_ja": "約2割の回答者は、「能力と成果」の格差が、AIを上手く使える社員とそうでない社員の間で広がったと述べました。",
+      "grammar_ja": "gaps widened（自動詞）＋between A and B。who can use AI well / those who cannot の対比。ability and performance は能力と業績・成果。",
+      "chunks": [
+        {
+          "text": "About 20 percent said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "約20%が述べた",
+          "note_ja": "About = 約。"
+        },
+        {
+          "text": "gaps in \"ability and performance\" widened",
+          "role_ja": "that節（内容）",
+          "literal_ja": "能力と成果の格差が広がった",
+          "note_ja": "gap widened = 格差が拡大した。performance = 成果・パフォーマンス。"
+        },
+        {
+          "text": "between employees who can use AI well and those who cannot",
+          "role_ja": "範囲・対比",
+          "literal_ja": "AIを上手く使える社員とそうでない社員の間で",
+          "note_ja": "those who cannot = cannot use AI well の省略。"
+        }
+      ],
+      "deep_dive_ja": "widened は widen の過去形で、gap / divide / disparity とよく結びつきます。'those who cannot' の省略理解は長文読解の鍵です。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Some also said younger workers \"no longer develop,\" as AI takes on basic tasks.",
+      "translation_ja": "また一部の回答者は、AIが基本的な業務を担うようになった結果、若手社員が「もはや成長しない」とも指摘しました。",
+      "grammar_ja": "no longer develop（否定副詞＋自動詞）＋as（理由・背景）。take on basic tasks = 基本業務を引き受ける・担う。",
+      "chunks": [
+        {
+          "text": "Some also said younger workers \"no longer develop\"",
+          "role_ja": "主語＋述語＋間接話法",
+          "literal_ja": "一部は若手社員がもはや成長しないとも述べた",
+          "note_ja": "no longer = もはや〜ない。develop = スキルが伸びる・成長する。"
+        },
+        {
+          "text": "as AI takes on basic tasks",
+          "role_ja": "理由",
+          "literal_ja": "AIが基本業務を担うようになったので",
+          "note_ja": "take on = 引き受ける・担当する。as = because の意味。"
+        }
+      ],
+      "deep_dive_ja": "develop はここでは「能力が育つ」意味。引用符は企業側の懸念をそのまま伝えています。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Half of all respondents cited \"information accuracy\" as a concern or challenge, with Tsuyoshi Kubota, a chief researcher at Teikoku Databank, saying firms have entered a phase where results depend on building systems that enable effective use.",
+      "translation_ja": "全回答者の半数が「情報の正確性」を懸念や課題として挙げました。帝国データバンクの主任研究員・窪田剛氏は、企業は効果的な活用を可能にする仕組みづくり次第で成果が左右される段階に入ったと述べています。",
+      "grammar_ja": "cite A as B（AをBとして挙げる）＋with + 人名 + saying（付帯説明）＋a phase where...（関係詞節）＋depend on + 動名詞＋that enable...（関係詞節）。",
+      "chunks": [
+        {
+          "text": "Half of all respondents cited \"information accuracy\" as a concern or challenge",
+          "role_ja": "主節",
+          "literal_ja": "全回答者の半数が情報の正確性を懸念または課題として挙げた",
+          "note_ja": "cite A as B = AをBとして挙げる。respondent = 回答者。"
+        },
+        {
+          "text": "with Tsuyoshi Kubota, a chief researcher at Teikoku Databank, saying",
+          "role_ja": "付帯状況（発言者）",
+          "literal_ja": "帝国データバンクの主任研究員・窪田剛氏が述べる形で",
+          "note_ja": "with + 人 + saying は専門家コメント挿入の定型。"
+        },
+        {
+          "text": "firms have entered a phase",
+          "role_ja": "that節（内容）",
+          "literal_ja": "企業は段階に入った",
+          "note_ja": "enter a phase = 新たな段階に入る。"
+        },
+        {
+          "text": "where results depend on building systems",
+          "role_ja": "関係詞節",
+          "literal_ja": "成果は仕組みづくり次第である段階",
+          "note_ja": "depend on = 〜次第で左右される。building systems = 体制・仕組み構築。"
+        },
+        {
+          "text": "that enable effective use",
+          "role_ja": "関係詞節",
+          "literal_ja": "効果的な活用を可能にする",
+          "note_ja": "enable + 名詞 = 〜を可能にする。effective use = 効果的な利用。"
+        }
+      ],
+      "deep_dive_ja": "最後の長文は、調査結果＋専門家見解を1文に統合する記事作法です。'a phase where results depend on...' は抽象概念を具体化するB2〜C1表現です。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "adoption",
+      "pronunciation": "/əˈdɒpʃn/",
+      "meaning_ja": "（新技術などの）導入、採用",
+      "example": "Overall adoption at 34.5 percent",
+      "example_ja": "全体の導入率は34.5%",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "generative artificial intelligence",
+      "pronunciation": "/ˈdʒenərətɪv ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+      "meaning_ja": "生成AI、生成人工知能",
+      "example": "Japanese firms use generative artificial intelligence",
+      "example_ja": "日本企業が生成AIを利用する",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "transition period",
+      "pronunciation": "/trænˈzɪʃn ˈpɪəriəd/",
+      "meaning_ja": "移行期、過渡期",
+      "example": "It is still in a transition period overall",
+      "example_ja": "全体としてはまだ移行期にある",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "proofreading",
+      "pronunciation": "/ˈpruːfriːdɪŋ/",
+      "meaning_ja": "校正、推敲",
+      "example": "Used it for writing, summarizing and proofreading",
+      "example_ja": "執筆・要約・校正に利用した",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "brainstorming",
+      "pronunciation": "/ˈbreɪnstɔːmɪŋ/",
+      "meaning_ja": "ブレインストーミング、発想出し",
+      "example": "Other major uses included brainstorming",
+      "example_ja": "その他の主な用途にブレインストーミングが含まれた",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "staffing",
+      "pronunciation": "/ˈstɑːfɪŋ/",
+      "meaning_ja": "人員配置、 staffing = 人員",
+      "example": "Limited staffing created more situations in which AI could help",
+      "example_ja": "限られた人員配置のためAIが役立つ場面が増えた",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "cite",
+      "pronunciation": "/saɪt/",
+      "meaning_ja": "（理由・懸念などを）挙げる、引用する",
+      "example": "Half of all respondents cited information accuracy as a concern",
+      "example_ja": "半数が情報の正確性を懸念として挙げた",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "take on",
+      "pronunciation": "/teɪk ɒn/",
+      "meaning_ja": "（仕事・役割を）引き受ける、担う",
+      "example": "AI takes on basic tasks",
+      "example_ja": "AIが基本業務を担う",
+      "source_sentence_id": "s010"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-clause-survey",
+      "title": "Reporting clause with survey results",
+      "rule": "Use 'a survey has found' or 'the survey showed/indicated' to introduce research findings.",
+      "example": "A survey has found that 60 percent of firms use AI.",
+      "meaning_ja": "調査結果を報じる際、'a survey has found' や 'the survey showed' で情報源を示します。主張を先に、出典を挿入する順序もよく使われます。"
+    },
+    {
+      "id": "with-participial-addition",
+      "title": "With + participle for additional information",
+      "rule": "Use 'with + noun + -ing/-ed' to add related facts without starting a new sentence.",
+      "example": "Many companies reporting gains, with a researcher saying results depend on systems.",
+      "meaning_ja": "with + 名詞 + 現在分詞/過去分詞 で、追加情報を簡潔に付け足します。ニュース記事で複数の事実を1文にまとめるときに頻出です。"
+    },
+    {
+      "id": "versus-comparison",
+      "title": "Versus for statistical comparison",
+      "rule": "Use 'versus' or 'compared to' to contrast two groups or figures.",
+      "example": "63.6 percent at large companies versus 29.6 percent at small ones.",
+      "meaning_ja": "versus は2つの数字やグループを対比するときの簡潔な表現です。'A versus B' の形で統計記事に適しています。"
+    },
+    {
+      "id": "cite-as-construction",
+      "title": "Cite A as B",
+      "rule": "Use 'cite A as B' when reporting that something is mentioned as a reason, concern, or challenge.",
+      "example": "Respondents cited information accuracy as a concern.",
+      "meaning_ja": "cite A as B は「AをBとして挙げる」という意味。懸念・課題・理由を報告するビジネス記事で重要なパターンです。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T07:01:36+09:00"
+  },
+  "article_id": "japantoday:2026-06-08:over-60-of-japanese-firms-with-more-than"
+}

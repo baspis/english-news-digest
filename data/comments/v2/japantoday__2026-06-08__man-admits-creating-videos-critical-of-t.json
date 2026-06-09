@@ -1,0 +1,104 @@
+{
+  "article_id": "japantoday:2026-06-08:man-admits-creating-videos-critical-of-t",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T07:00:10+09:00",
+  "fetched_at": "2026-06-10T07:02:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "If they are not made up lies he has done nothing wrong and hasn't broken any laws. This is a smear campaign by the people who the videos were about. Perhaps they should fix the roof of the problem.",
+      "translation_ja": "もし作り話の嘘ではないなら、彼は何も悪いことはしておらず、法律も破っていない。これは動画の対象になった人たちによる中傷キャンペーンだ。むしろ問題の屋根を直すべきではないか。",
+      "notes_ja": [
+        "「made up lies」は「作り話の嘘」と重ねており、口語では冗長になりがち。",
+        "「fix the roof of the problem」は「root（根本）」の言い間違い（malapropism）と思われる。"
+      ],
+      "standard_en": "If they are not lies, he has done nothing wrong and has not broken any laws. This is a smear campaign by the people the videos were about. Perhaps they should fix the root of the problem.",
+      "marked_terms": [],
+      "comment_id": 5229608,
+      "author": "gogogo",
+      "rating": 14,
+      "posted_at": "2026-06-08T07:33:21+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Pretty normal in politics. Worst now with social media boosters aka troll farms and AI. The gullible and older people are vulnerable to believe the propaganda as the algorithm bombards you with similar subject on your social media feed without you knowing it. Not limited to short clip apps, trolls also infiltrate comment boards like this site. Consequence of being anonymous, hard to tell which one is true and what is real.",
+      "translation_ja": "政治ではかなり普通のこと。今はソーシャルメディアのブースター、つまりトロールファームやAIのせいでさらにひどい。騙されやすい人や高齢者は、知らないうちにアルゴリズムが似た話題をフィードに浴びせかけるので、宣伝を信じやすい。短尺動画アプリに限らず、トロールはこのサイトのような掲示板にも入り込む。匿名だからこその結果で、どれが本当で何が現実なのか見分けにくい。",
+      "notes_ja": [
+        "冒頭の「Pretty normal in politics.」は主語・動詞を省略した断片文。",
+        "「vulnerable to believe」は教科書的には「vulnerable to believing」や「likely to believe」の方が自然。"
+      ],
+      "standard_en": "It is pretty normal in politics. It is worst now with social media boosters, also known as troll farms, and AI. Gullible and older people are vulnerable to believing propaganda as algorithms bombard you with similar subjects on your social media feed without you knowing it. It is not limited to short-clip apps; trolls also infiltrate comment boards like this site. As a consequence of being anonymous, it is hard to tell which posts are true and what is real.",
+      "marked_terms": [
+        {
+          "term": "troll farms",
+          "symbol": "◇",
+          "note_ja": "ネット工作員集団を指す政治・ネットスラング。攻撃的な「トロール」とは文脈で区別。"
+        }
+      ],
+      "comment_id": 5229805,
+      "author": "dmhondz",
+      "rating": 14,
+      "posted_at": "2026-06-08T08:43:34+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Negative videos about opponents is universal in U.S. politics. Unfair use to spread lies (\"immigrants are eating our pets\" comes to mind.) I have never watched the thousands of videos made by Matsui, but if they are full of lies, that would seem to be a new low here in Japan.",
+      "translation_ja": "対立候補へのネガティブ動画は、米国政治ではどこにでもある。嘘を広める不公平な使い方（「移民がうちのペットを食べている」みたいな話が思い浮かぶ）。松井が作った何千本もの動画は見たことがないが、もし嘘だらけなら、日本でも新たなどん底に見える。",
+      "notes_ja": [
+        "「Negative videos ... is」は複数主語なのに単数動詞。口語ではよくある。",
+        "「Unfair use to spread lies」は文が短く切れており、前の文の続きとして読む。"
+      ],
+      "standard_en": "Negative videos about opponents are universal in U.S. politics. It is an unfair use of media to spread lies (\"immigrants are eating our pets\" comes to mind). I have never watched the thousands of videos made by Matsui, but if they are full of lies, that would seem to be a new low here in Japan.",
+      "marked_terms": [],
+      "comment_id": 5229545,
+      "author": "obladi",
+      "rating": 13,
+      "posted_at": "2026-06-08T07:10:49+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "This is pretty normal in places like the United States where they regularly slander and lie about rival politicians. I guess it will be in Japan too then. I wonder how many will wake up to how it is being used to sway their opinions now that Takaichi’s reputation is on the steady incline, and will they wake up to how Kamiya has been doing it too. Time will tell.",
+      "translation_ja": "米国のような場所では、対立政治家を定期的に中傷し嘘をつくのがかなり普通だ。なら日本でもそうなるのだろう。高市氏の評判が着実に上がっている今、どれだけの人が、意見を操るために使われているかに気づくのか、そして神谷氏も同じことをしてきたことに気づくのか。時が経てばわかる。",
+      "notes_ja": [
+        "「I guess it will be in Japan too then.」は「そういうことも日本で起きるだろう」と主語を省略。",
+        "「on the steady incline」は「on a steady incline（着実に上昇中）」の方が一般的。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "slander",
+          "symbol": "◇",
+          "note_ja": "法的・政治的な「中傷」を指す硬い語。日常会話では強い言い方。"
+        }
+      ],
+      "comment_id": 5229530,
+      "author": "Ebisugaoka",
+      "rating": 12,
+      "posted_at": "2026-06-08T06:47:03+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Seems a bit scapegoating but not surprising. Especially the bit about just prompting AI to flood the market with quick video shorts. Platforms are flooded with it especially Japan. Speed up generic voices running through a script and generic videos. Not surprised to hear even the political ones are just a bunch of junk too.",
+      "translation_ja": "少し身代わりにされている感じはするが、驚くにはあたらない。特に、AIに指示を出して短尺動画を市場に溢れさせるという部分。プラットフォームはそれで溢れかえっている、特に日本は。台本を読み上げるありきたりな声を早送りしたような、ありきたりな動画ばかり。政治系の動画までがただのガラクタだと聞いても驚かない。",
+      "notes_ja": [
+        "「Seems a bit scapegoating」「Speed up generic voices...」など、主語・動詞を省いた断片文が続く。",
+        "「especially Japan」は「especially in Japan」の省略。"
+      ],
+      "standard_en": "This seems a bit like scapegoating, but it is not surprising. This is especially true of the part about simply prompting AI to flood the market with quick video shorts. Platforms are flooded with it, especially in Japan—sped-up generic voices reading a script and generic videos. I am not surprised to hear that even the political ones are just a bunch of junk too.",
+      "marked_terms": [
+        {
+          "term": "junk",
+          "symbol": "◇",
+          "note_ja": "「がらくた・クソみたいなもの」というくだけた言い方。丁寧な文脈では避ける。"
+        }
+      ],
+      "comment_id": 5230136,
+      "author": "GillislowTier",
+      "rating": 6,
+      "posted_at": "2026-06-08T11:52:32+09:00"
+    }
+  ]
+}

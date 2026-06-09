@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-08:tsunami-waves-arrive-in-japan-after-m7-8",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T07:00:10+09:00",
+  "fetched_at": "2026-06-10T07:02:16+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "what a joke! This is emergency, no excuses Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.",
+      "translation_ja": "ふざけんな！緊急事態なんだ、言い訳は通用しない。繰り返すが、外国の援助が頼まれもしないのに勝手にやって来るわけにはいかない。フィリピンのOCD（民間防衛局）が、いつ・どこに・何を送るかを決める。承認が下り次第、日本が必要なものを全部供給するのは間違いない。",
+      "notes_ja": [
+        "「what a joke!」は冗談の意味ではなく「ふざけんな／馬鹿げてる」という怒り・皮肉の言い方。",
+        "「This is emergency」は冠詞 the/an が抜けた口語的な言い回し。「Again,」で話題を切り替えている。"
+      ],
+      "standard_en": "What a joke! This is an emergency—no excuses. Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.",
+      "marked_terms": [],
+      "comment_id": 5230502,
+      "author": "Firefly",
+      "rating": 10,
+      "posted_at": "2026-06-08T22:00:31+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Send help to Philippines immediately As per official diplomatic statement, Japan \"stands ready to provide all possible assistance\". But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.",
+      "translation_ja": "フィリピンに直ちに援助を送れ。公式の外交声明によれば、日本は「あらゆる可能な支援を提供する用意がある」としている。だが、外国が部隊やヘリ、物資を持って勝手にやって来ることはできない。必要なものは評価され、調整され、正式に要請されなければならない。",
+      "notes_ja": [
+        "冒頭「Send help to Philippines immediately」は命令形の断片で、the が抜けている（ネット投稿でよくある省略）。",
+        "「As per」はやや堅いビジネス・公文書調。「The needs need to」は need の重複だが文法的には正しい。"
+      ],
+      "standard_en": "Send help to the Philippines immediately. As per the official diplomatic statement, Japan \"stands ready to provide all possible assistance.\" But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.",
+      "marked_terms": [],
+      "comment_id": 5230499,
+      "author": "Firefly",
+      "rating": 8,
+      "posted_at": "2026-06-08T21:40:06+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "You are not joking, are you? I am not. If you actually think dumping random uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try understanding how the real world works.",
+      "translation_ja": "冗談なんて言ってないよね？してないよ。バラバラで調整もされていない物資を、壊れた滑走路に投げ込めば被災地の助けになると本気で思うなら、そっちが冗談だ。現実世界がどう回っているか、ちゃんと理解してみなよ。",
+      "notes_ja": [
+        "「You are not joking, are you?」は文末の are you? が付くタグ疑問文。相手の発言を疑う・呆れるニュアンス。",
+        "「Try understanding...」は命令形だが、教科書的な Try to understand より突き放した・上から目線の口調。"
+      ],
+      "standard_en": "You are not joking, are you? I am not. If you actually think dumping random, uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try to understand how the real world works.",
+      "marked_terms": [],
+      "comment_id": 5230521,
+      "author": "Firefly",
+      "rating": 7,
+      "posted_at": "2026-06-08T22:18:57+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "China already send in , no question asked Correct. The Chinese embassy in Manila has officially sent \"heartfelt condolences to the Philippine people\", no questions asked. As for other assistance, nope. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)",
+      "translation_ja": "中国はもう何も聞かずに送り込んだ　そうだね。中国大使館はマニラで「フィリピン国民に心からの哀悼の意を表する」と公式に発表した、何の質問もなしに。他の援助については、いや、まだだ。フィリピン政府はまだ外国の災害援助を公式に受け入れたり要請したりしていない。（もちろん、火曜の朝には変わるかもしれない。）",
+      "notes_ja": [
+        "「China already send in」は send→sent の時制ミスと、相手のコメントへの短い返答の断片。カンマ前の余分なスペースもそのまま。",
+        "「Correct.」で相手の言い分を認めてから訂正する、議論スレッド特有の書き方。「nope」はカジュアルな否定。"
+      ],
+      "standard_en": "China already sent aid in, no questions asked. Correct. The Chinese embassy in Manila has officially sent \"heartfelt condolences to the Philippine people,\" no questions asked. As for other assistance, no. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)",
+      "marked_terms": [
+        {
+          "term": "nope",
+          "symbol": "◇",
+          "note_ja": "口語の「いや／だめ」で、カジュアルな会話向き。フォーマルな文章では no や not yet を使う"
+        }
+      ],
+      "comment_id": 5230558,
+      "author": "Firefly",
+      "rating": 3,
+      "posted_at": "2026-06-09T01:21:33+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Japan, we need your help on this. That province is one of the poorest in the country and this is one of the most powerful quakes that island has ever faced in recent memory. Good thing it was during a time when the flag raising was done, so most people were outside when it struck. The Philippines can't do this alone. Sincerely, a Filipino.",
+      "translation_ja": "日本、これについて助けが必要です。その州は国内でも最も貧しい地域の一つで、今回の地震はその島が近年経験した中でも最も強力なものの一つです。国旗掲揚の時間だったので、多くの人が外にいて地震が来たのは幸いでした。フィリピンだけではこれを乗り切れません。心より、フィリピン人より。",
+      "notes_ja": [
+        "「flag raising」は学校や職場などでの朝の国旗掲揚式を指すと思われる。文脈から外にいた人が多かった理由の説明。",
+        "全体的に丁寧で感情的な訴え。最後の「Sincerely, a Filipino.」は手紙の結びのような署名。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230804,
+      "author": "Toshihiro",
+      "rating": 2,
+      "posted_at": "2026-06-09T08:40:18+09:00"
+    }
+  ]
+}

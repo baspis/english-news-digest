@@ -1,0 +1,685 @@
+{
+  "summary_ja": "トランプ大統領はNBCのインタビューでイラン戦略や悪天候に耐えながら答えたが、選挙不正の根拠のない主張を問われると激怒して退席した。大雨と音声トラブルで何度も中断された取材は、記者との応酬の末、証拠を示せと求める質問で決裂に至った。日曜に放送された後、司会者は土曜にトランプと話し、再インタビューに応じることになったと伝えた。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with U.S. broadcaster NBC -- but angrily stormed out when confronted over his unfounded claims of election fraud.",
+      "translation_ja": "ドナルド・トランプ大統領は、米国の放送局NBCとのインタビューで、イラン戦争戦略や度重なる天候の乱れについて鋭い質問に耐えたが、根拠のない選挙不正の主張を突きつけられると怒って退席した。",
+      "grammar_ja": "lasted through（〜を耐え抜いた）、storm out（怒って立ち去る）、when confronted over（〜について問われたとき）がニュース記事の動詞表現。ダッシュ（--）で対比を強調している。",
+      "chunks": [
+        {
+          "text": "President Donald Trump",
+          "role_ja": "主語",
+          "literal_ja": "ドナルド・トランプ大統領は",
+          "note_ja": "ニュース記事では肩書き＋氏名が主語になる定型表現。"
+        },
+        {
+          "text": "lasted through probing questions about his Iran war strategy and repeated weather disruptions",
+          "role_ja": "述語（前半）",
+          "literal_ja": "イラン戦争戦略や度重なる天候の乱れについての鋭い質問を耐え抜いた",
+          "note_ja": "last through = 困難な状況を最後まで耐える。probing questions = 核心を突く質問。"
+        },
+        {
+          "text": "during an interview with U.S. broadcaster NBC",
+          "role_ja": "時・場所の修飾",
+          "literal_ja": "米国の放送局NBCとのインタビューの間に",
+          "note_ja": "during + 名詞で「〜の間に」。broadcaster = 放送局。"
+        },
+        {
+          "text": "but angrily stormed out",
+          "role_ja": "述語（後半・対比）",
+          "literal_ja": "しかし怒って立ち去った",
+          "note_ja": "storm out は怒りを伴う退席を表すコロケーション。副詞 angrily が感情を明示。"
+        },
+        {
+          "text": "when confronted over his unfounded claims of election fraud",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "根拠のない選挙不正の主張について問われたとき",
+          "note_ja": "be confronted over = 〜について追及される。unfounded claims = 根拠のない主張（記者の評価）。"
+        }
+      ],
+      "deep_dive_ja": "冒頭文に記事の核心（耐えたが最後は退席）を一度にまとめるのは英語ニュースの典型構文。but 以降が見出しの stormed out と呼応する。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"You're a one-sided, crooked network.",
+      "translation_ja": "「お前らは一方的で、不正な放送局だ。」",
+      "grammar_ja": "one-sided（一方的な）と crooked（不正な）が並列の形容詞。You're = You are の口語短縮形。",
+      "chunks": [
+        {
+          "text": "You're",
+          "role_ja": "主語＋述語",
+          "literal_ja": "お前らは〜だ",
+          "note_ja": "直接の非難口調。ニュース引用では攻撃的な言葉がそのまま載る。"
+        },
+        {
+          "text": "a one-sided, crooked network",
+          "role_ja": "補語（名詞句）",
+          "literal_ja": "一方的で不正な放送局",
+          "note_ja": "one-sided = 偏った見方しかしない。crook は「詐欺師」、crooked は「不正な」。"
+        }
+      ],
+      "deep_dive_ja": "Trump はメディア批判で crooked を繰り返し使う。network はここでテレビ局全体を指す。",
+      "difficulty": "easy",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Let's call it quits because I've had enough.",
+      "translation_ja": "「もうやめにしよう。もううんざりだ。」",
+      "grammar_ja": "call it quits（打ち切る）と have had enough（もう十分／うんざり）の口語イディオム。Let's は勧誘形。",
+      "chunks": [
+        {
+          "text": "Let's call it quits",
+          "role_ja": "述語",
+          "literal_ja": "打ち切りにしよう",
+          "note_ja": "call it quits = 仕事・会話・関係などを終わらせる決まり文句。"
+        },
+        {
+          "text": "because I've had enough",
+          "role_ja": "理由の副詞節",
+          "literal_ja": "もううんざりしたから",
+          "note_ja": "have had enough of ... なら「〜にうんざり」だが、ここは単独で「もう限界」の意味。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Have a good time,\" Trump told \"Meet the Press\" host Kristen Welker before standing up and walking out of the interview that aired Sunday.",
+      "translation_ja": "「楽しんでね」とトランプは、日曜に放送されたインタビューから立ち上がって去る前に、番組『ミート・ザ・プレス』の司会クリステン・ウェルカーに言った。",
+      "grammar_ja": "間接話法の構文（told + 人）。before + 動名詞で「〜する前に」。that aired Sunday は interview を後置修飾。",
+      "chunks": [
+        {
+          "text": "Have a good time",
+          "role_ja": "直接話法（引用）",
+          "literal_ja": "楽しんで",
+          "note_ja": "皮肉・あざけりの可能性がある定型の別れの挨拶。"
+        },
+        {
+          "text": "Trump told \"Meet the Press\" host Kristen Welker",
+          "role_ja": "主部",
+          "literal_ja": "トランプは〜のウェルカーに言った",
+          "note_ja": "tell + 人 + 内容。番組名は引用符で固有名詞として示す。"
+        },
+        {
+          "text": "before standing up and walking out of the interview",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "立ち上がりインタビューから去る前に",
+          "note_ja": "walk out of = 途中で立ち去る。storm out と同系の動き。"
+        },
+        {
+          "text": "that aired Sunday",
+          "role_ja": "関係節（後置修飾）",
+          "literal_ja": "日曜に放送された",
+          "note_ja": "関係代名詞 that の省略なし。air = 放送する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The interview, filmed Friday, was conducted on a farm in Wisconsin, where Trump was addressing farmers.",
+      "translation_ja": "金曜に撮影されたインタビューは、トランプが農家の人々に向けて演説していたウィスコンシン州の農場で行われた。",
+      "grammar_ja": "filmed Friday はカンマ挿入の過去分詞句。where は場所＋状況を表す関係副詞。was addressing は過去進行形。",
+      "chunks": [
+        {
+          "text": "The interview, filmed Friday,",
+          "role_ja": "主語（挿入句付き）",
+          "literal_ja": "金曜に撮影されたインタビューは",
+          "note_ja": "名詞の前後にカンマで挿入する過去分詞句はニュースで頻出。"
+        },
+        {
+          "text": "was conducted on a farm in Wisconsin",
+          "role_ja": "述語",
+          "literal_ja": "ウィスコンシン州の農場で行われた",
+          "note_ja": "conduct an interview = インタビューを行う（受動態）。"
+        },
+        {
+          "text": "where Trump was addressing farmers",
+          "role_ja": "関係副詞節",
+          "literal_ja": "トランプが農家に向けて話していた（場所）",
+          "note_ja": "where = on a farm を受ける。address は「演説する・向かって話す」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A tractor and hay bales served as a backdrop.",
+      "translation_ja": "トラクターと干し草の俵が背景として使われた。",
+      "grammar_ja": "serve as（〜として機能する）の定型表現。hay bales = 干し草の俵。",
+      "chunks": [
+        {
+          "text": "A tractor and hay bales",
+          "role_ja": "主語",
+          "literal_ja": "トラクターと干し草の俵は",
+          "note_ja": "複数主語なので動詞は複数形 served。"
+        },
+        {
+          "text": "served as a backdrop",
+          "role_ja": "述語",
+          "literal_ja": "背景として使われた",
+          "note_ja": "serve as = act as と同様「〜の役割を果たす」。backdrop = 舞台背景・演出上の背景。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The interview was interrupted several times by weather and audio issues as torrential rain pounded the roof, making it difficult to continue the conversation.",
+      "translation_ja": "激しい雨が屋根を叩く中、天候と音声の問題でインタビューは何度も中断され、会話を続けるのが難しくなった。",
+      "grammar_ja": "was interrupted by（〜によって中断された）。as は同時進行。making it difficult は分詞構文で結果を示す。",
+      "chunks": [
+        {
+          "text": "The interview was interrupted several times by weather and audio issues",
+          "role_ja": "主部（受動態）",
+          "literal_ja": "インタビューは天候と音声の問題で何度も中断された",
+          "note_ja": "several times = 何度も。by は原因・手段。"
+        },
+        {
+          "text": "as torrential rain pounded the roof",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "激しい雨が屋根を叩きながら",
+          "note_ja": "torrential = 豪雨の。pound = 激しく打ち付ける。"
+        },
+        {
+          "text": "making it difficult to continue the conversation",
+          "role_ja": "結果を表す分詞構文",
+          "literal_ja": "会話を続けるのを難しくして",
+          "note_ja": "make it + 形容詞 + to不定詞 = 「〜することを…にする」。"
+        }
+      ],
+      "deep_dive_ja": "天候描写が記事の rain-plagued という見出しと呼応する。pound the roof は擬音的な臨場感を出す動詞選択。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "\"Hear that sound?\" he said later.",
+      "translation_ja": "「あの音が聞こえるか？」と彼は後で言った。",
+      "grammar_ja": "命令文形式の疑問（聞こえるよう促す）。he said later で時系列を後置。",
+      "chunks": [
+        {
+          "text": "Hear that sound?",
+          "role_ja": "直接話法",
+          "literal_ja": "あの音を聞け（聞こえるか）",
+          "note_ja": "Do you hear ...? の省略形に近い口語。聴衆・相手の注意を引く。"
+        },
+        {
+          "text": "he said later",
+          "role_ja": "叙述部",
+          "literal_ja": "彼は後で言った",
+          "note_ja": "later が引用の前後関係を補足。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"That sound of thunder, lightning, rain\"",
+      "translation_ja": "「雷と稲妻と雨の音だ」",
+      "grammar_ja": "名詞句のみの省略文。of thunder, lightning, rain が sound を修飾。",
+      "chunks": [
+        {
+          "text": "That sound",
+          "role_ja": "主語相当",
+          "literal_ja": "あの音は",
+          "note_ja": "前文の Hear that sound? への応答。"
+        },
+        {
+          "text": "of thunder, lightning, rain",
+          "role_ja": "後置修飾",
+          "literal_ja": "雷と稲妻と雨の",
+          "note_ja": "並列名詞。動詞なしの断片引用は会話の臨場感を出す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Welker asked her technical crew if they should stop.",
+      "translation_ja": "ウェルカーは技術スタッフに、中断すべきか尋ねた。",
+      "grammar_ja": "ask + 人 + if節（間接疑問）。technical crew = 技術スタッフ。",
+      "chunks": [
+        {
+          "text": "Welker asked her technical crew",
+          "role_ja": "主部",
+          "literal_ja": "ウェルカーは技術スタッフに尋ねた",
+          "note_ja": "ask は内容を if/whether 節で続ける。"
+        },
+        {
+          "text": "if they should stop",
+          "role_ja": "間接疑問の名詞節",
+          "literal_ja": "中断すべきかどうか",
+          "note_ja": "should stop = 中断した方がよいか（義務・判断の should）。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "People will understand -- we're on a farm,\" the president replied.",
+      "translation_ja": "「人々はわかってくれる。農場にいるんだから」と大統領は答えた。",
+      "grammar_ja": "ダッシュで理由を付け加える口語。we're on a farm = 農場という状況を説明。",
+      "chunks": [
+        {
+          "text": "People will understand",
+          "role_ja": "述語（引用前半）",
+          "literal_ja": "人々は理解するだろう",
+          "note_ja": "視聴者が天候による乱れを許容する、という含意。"
+        },
+        {
+          "text": "we're on a farm",
+          "role_ja": "理由（引用後半）",
+          "literal_ja": "我々は農場にいる",
+          "note_ja": "屋外取材だから仕方ない、という言い訳のニュアンス。"
+        },
+        {
+          "text": "the president replied",
+          "role_ja": "叙述部",
+          "literal_ja": "大統領は答えた",
+          "note_ja": "reply は応答全般。counter より中立。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Several questions followed about Iran and nuclear weapons, after which Trump accused Welker of being \"a big liberal, a big progressive.\"",
+      "translation_ja": "イランと核兵器に関する質問がいくつか続き、その後トランプはウェルカーを「大きなリベラル、大きな進歩派だ」と非難した。",
+      "grammar_ja": "after which は関係代名詞 which（= その後）の形式。accuse A of B（AをBだと非難する）。",
+      "chunks": [
+        {
+          "text": "Several questions followed about Iran and nuclear weapons",
+          "role_ja": "主部",
+          "literal_ja": "イランと核兵器についての質問がいくつか続いた",
+          "note_ja": "follow = 続く・後に来る。質問が主語の擬人化。"
+        },
+        {
+          "text": "after which",
+          "role_ja": "関係副詞句",
+          "literal_ja": "その後",
+          "note_ja": "前文全体を受ける which。フォーマルなニュース文体。"
+        },
+        {
+          "text": "Trump accused Welker of being \"a big liberal, a big progressive\"",
+          "role_ja": "主部（後半）",
+          "literal_ja": "トランプはウェルカーを大リベラル・大進歩派だと非難した",
+          "note_ja": "accuse ... of -ing/being = 〜だと決めつける。big は「かなりの」の口語的強調。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"No, I'm just a journalist,\" she countered.",
+      "translation_ja": "「いいえ、私はただのジャーナリストです」と彼女は反論した。",
+      "grammar_ja": "counter（反論する）はニュースでよく使う動詞。just = 単に・ただの（限定的）。",
+      "chunks": [
+        {
+          "text": "No, I'm just a journalist",
+          "role_ja": "直接話法",
+          "literal_ja": "いいえ、私はただのジャーナリストだ",
+          "note_ja": "政治的レッテルではなく職業としての立場を示す。"
+        },
+        {
+          "text": "she countered",
+          "role_ja": "叙述部",
+          "literal_ja": "彼女は反論した",
+          "note_ja": "counter は said より「反論・応戦」のニュアンスが強い。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The tone escalated again as the discussion turned to Trump's proposed taxpayer-funded program to compensate people he believes were victims of partisan prosecution under his predecessor, Joe Biden.",
+      "translation_ja": "議論がトランプが提案する、納税者負担の補償プログラム―前任のジョー・バイデン政権下での党派色の強い訴追の被害者だと彼が信じる人々への―に移ると、再び雰囲気は険しくなった。",
+      "grammar_ja": "escalate（エスカレートする）、turn to（〜に移る）。proposed/taxpayer-funded は過去分詞の連鎖修飾。he believes は挿入的関係節。",
+      "chunks": [
+        {
+          "text": "The tone escalated again",
+          "role_ja": "主部",
+          "literal_ja": "雰囲気は再び険しくなった",
+          "note_ja": "escalate は争い・緊張が段階的に激化する。"
+        },
+        {
+          "text": "as the discussion turned to Trump's proposed taxpayer-funded program",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "議論がトランプの提案した納税者負担のプログラムに移ると",
+          "note_ja": "turn to = 話題が〜に移る。hyphen 繋ぎ taxpayer-funded = 税金で賄う。"
+        },
+        {
+          "text": "to compensate people he believes were victims of partisan prosecution",
+          "role_ja": "目的の不定詞句",
+          "literal_ja": "党派色の強い訴追の被害者だと彼が信じる人々に補償するために",
+          "note_ja": "compensate = 補償する。partisan prosecution = 党派性のある法的追及。"
+        },
+        {
+          "text": "under his predecessor, Joe Biden",
+          "role_ja": "前置詞句",
+          "literal_ja": "前任者ジョー・バイデンの下で",
+          "note_ja": "predecessor = 前任者（大統領）。同格 Joe Biden。"
+        }
+      ],
+      "deep_dive_ja": "一文に修飾が重なる典型の難文。訳すときは「議論の転換」→「プログラムの内容」→「バイデン政権」の順に塊で理解するとよい。",
+      "difficulty": "hard",
+      "sentence_id": "s014"
+    },
+    {
+      "text": "\"I don't know what's going to happen with the weaponization fund,\" he said.",
+      "translation_ja": "「武器化基金がどうなるかはわからない」と彼は言った。",
+      "grammar_ja": "what's going to happen with ...（〜がどうなるか）。weaponization fund は政治用語の造語。",
+      "chunks": [
+        {
+          "text": "I don't know what's going to happen with the weaponization fund",
+          "role_ja": "直接話法（間接疑問含む）",
+          "literal_ja": "武器化基金がどうなるかわからない",
+          "note_ja": "weaponization = 武器化。ここでは司法・行政の「政治利用」を指す批判的ラベル。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "叙述部",
+          "literal_ja": "彼は言った",
+          "note_ja": "内容が不確かであることを示す発言。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"I love the idea because people like you, the fake dirty press, the crooked press, people like stupid Biden ... they destroyed people.",
+      "translation_ja": "「その考えは気に入っている。お前のような連中や、偽物の汚いマスコミ、不正なマスコミ、バカなバイデンのような連中が…人々を破滅させたんだ。」",
+      "grammar_ja": "people like you / people like stupid Biden の並列。fake dirty press は敵意ある修飾の積み重ね。",
+      "chunks": [
+        {
+          "text": "I love the idea because",
+          "role_ja": "主節＋理由接続",
+          "literal_ja": "その考えが好きだ、なぜなら",
+          "note_ja": "love the idea = 提案を支持する。"
+        },
+        {
+          "text": "people like you, the fake dirty press, the crooked press, people like stupid Biden",
+          "role_ja": "主語（並列）",
+          "literal_ja": "お前のような人々、偽の汚い報道機関、不正な報道機関、バイデンのような人々",
+          "note_ja": "like = 「〜のような」。press は報道機関（集合的）。"
+        },
+        {
+          "text": "they destroyed people",
+          "role_ja": "述語",
+          "literal_ja": "彼らは人々を破滅させた",
+          "note_ja": "destroy = 人生・ careers を台無しにした、という含意。"
+        }
+      ],
+      "deep_dive_ja": "三点リーダー（...）は怒りの途中・言葉の繰り返しを示す。学習者は people like you が「あなたのような良い人」ではなく非難だと誤解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s016"
+    },
+    {
+      "text": "They sent people to jail who did nothing wrong.\"",
+      "translation_ja": "「何も悪いことをしていない人々を投獄した。」",
+      "grammar_ja": "関係節 who did nothing wrong が people を後置修飾。send someone to jail = 投獄させる。",
+      "chunks": [
+        {
+          "text": "They sent people to jail",
+          "role_ja": "主部",
+          "literal_ja": "彼らは人々を投獄した",
+          "note_ja": "send to jail は put in jail と同義のコロケーション。"
+        },
+        {
+          "text": "who did nothing wrong",
+          "role_ja": "関係節",
+          "literal_ja": "何も悪いことをしなかった",
+          "note_ja": "do wrong = 悪いことをする。nothing wrong = 無実。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"There is no evidence for what you're saying,\" Welker said.",
+      "translation_ja": "「あなたの言っていることには根拠がありません」とウェルカーは言った。",
+      "grammar_ja": "There is no evidence for ...（〜の証拠はない）。what you're saying は関係代名詞 what の名詞節。",
+      "chunks": [
+        {
+          "text": "There is no evidence for what you're saying",
+          "role_ja": "直接話法",
+          "literal_ja": "あなたの言っていることに対する証拠はない",
+          "note_ja": "事実確認を求める記者の定型反論。evidence for = 〜を裏付ける証拠。"
+        },
+        {
+          "text": "Welker said",
+          "role_ja": "叙述部",
+          "literal_ja": "ウェルカーは言った",
+          "note_ja": "冷静な事実指摘のトーン。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Trump reiterated past false claims that the 2020 election was \"rigged\" and said last week's primary in California was, too.",
+      "translation_ja": "トランプは2020年の選挙が「不正だった」という過去の虚偽の主張を繰り返し、カリフォルニア州の先週の予備選挙もそうだったと述べた。",
+      "grammar_ja": "reiterate（繰り返し述べる）、too の省略（was rigged, too）。false claims は記者の評価語。",
+      "chunks": [
+        {
+          "text": "Trump reiterated past false claims that the 2020 election was \"rigged\"",
+          "role_ja": "主部（前半）",
+          "literal_ja": "トランプは2020年選挙が不正だったという虚偽の主張を繰り返した",
+          "note_ja": "rigged = 不正操作された。reiterate = say again。"
+        },
+        {
+          "text": "and said last week's primary in California was, too",
+          "role_ja": "述語（後半・並列）",
+          "literal_ja": "そしてカリフォルニアの先週の予備選挙もそうだったと言った",
+          "note_ja": "too 前の was rigged の省略。primary = 予備選挙。"
+        }
+      ],
+      "deep_dive_ja": "英語では too で前文の述語を省略するのが自然。日本語訳では「そうだった」と補う必要がある。",
+      "difficulty": "hard",
+      "sentence_id": "s019"
+    },
+    {
+      "text": "Welker held her ground, asking the president to present evidence.",
+      "translation_ja": "ウェルカーは譲らず、大統領に証拠を示すよう求めた。",
+      "grammar_ja": "hold one's ground（譲らない）＋ 分詞構文 asking ...。present evidence = 証拠を提示する。",
+      "chunks": [
+        {
+          "text": "Welker held her ground",
+          "role_ja": "主部",
+          "literal_ja": "ウェルカーは自分の立場を守った",
+          "note_ja": "hold one's ground = 圧力にも屈しない。"
+        },
+        {
+          "text": "asking the president to present evidence",
+          "role_ja": "付帯状況の分詞構文",
+          "literal_ja": "大統領に証拠を示すよう求めながら",
+          "note_ja": "ask someone to do = 〜に…するよう求める。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"You are either crooked or you're stupid,\" Trump finally shot back before leaving the camera's view while Welker attempted to keep him engaged.",
+      "translation_ja": "「お前は不正か、さもなければバカかのどちらかだ」とトランプはついに言い返し、ウェルカーが話を続けようとしている間にカメラの外へ去った。",
+      "grammar_ja": "either ... or ...（〜か〜か）。shot back（言い返す）。before / while + 動名詞で同時・前後関係。",
+      "chunks": [
+        {
+          "text": "You are either crooked or you're stupid",
+          "role_ja": "直接話法",
+          "literal_ja": "あなたは不正かバカかだ",
+          "note_ja": "either or で二者択一の侮辱。shot back の内容。"
+        },
+        {
+          "text": "Trump finally shot back",
+          "role_ja": "叙述部",
+          "literal_ja": "トランプはついに言い返した",
+          "note_ja": "shot back = sharply replied。finally は「ついに／いよいよ」。"
+        },
+        {
+          "text": "before leaving the camera's view",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "カメラの画角から去る前に",
+          "note_ja": "leave one's view = 視界から消える。"
+        },
+        {
+          "text": "while Welker attempted to keep him engaged",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "ウェルカーが彼の関心を引き留めようとしている間に",
+          "note_ja": "keep someone engaged = 会話・取材を続けさせる。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "On Sunday, Welker told viewers that she had spoken with Trump on Saturday about the weather disruptions and that he had agreed to give her another interview.",
+      "translation_ja": "日曜日、ウェルカーは視聴者に、土曜にトランプと天候による中断について話し、彼が再インタビューに応じることに同意したと伝えた。",
+      "grammar_ja": "told viewers that ...（that節が2つ並列）。過去完了 had spoken / had agreed で日曜より前の出来事を示す。",
+      "chunks": [
+        {
+          "text": "On Sunday, Welker told viewers",
+          "role_ja": "主部",
+          "literal_ja": "日曜にウェルカーは視聴者に伝えた",
+          "note_ja": "tell viewers that ... = 視聴者に〜と伝える。"
+        },
+        {
+          "text": "that she had spoken with Trump on Saturday about the weather disruptions",
+          "role_ja": "間接話法のthat節1",
+          "literal_ja": "土曜にトランプと天候の乱れについて話したと",
+          "note_ja": "過去完了は「伝えた時点より前」の出来事。"
+        },
+        {
+          "text": "and that he had agreed to give her another interview",
+          "role_ja": "間接話法のthat節2",
+          "literal_ja": "そして彼が再インタビューを与えることに同意したと",
+          "note_ja": "agree to do = 〜することに同意する。another interview で再取材の予定。"
+        }
+      ],
+      "deep_dive_ja": "記事の締めで新情報（再インタビュー約束）を付け加える構造。天候問題が一応解決方向へ向かう余韻を残す。",
+      "difficulty": "hard",
+      "sentence_id": "s022"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "storm out",
+      "pronunciation": "/stɔːrm aʊt/",
+      "meaning_ja": "怒って立ち去る、憤然として退席する",
+      "example": "He angrily stormed out of the interview.",
+      "example_ja": "彼は怒ってインタビューから立ち去った。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "unfounded",
+      "pronunciation": "/ʌnˈfaʊndɪd/",
+      "meaning_ja": "根拠のない、事実に基づかない",
+      "example": "unfounded claims of election fraud",
+      "example_ja": "根拠のない選挙不正の主張",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "torrential",
+      "pronunciation": "/təˈrɛnʃəl/",
+      "meaning_ja": "（雨が）激しい、豪雨の",
+      "example": "torrential rain pounded the roof",
+      "example_ja": "激しい雨が屋根を叩いた",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "counter",
+      "pronunciation": "/ˈkaʊntər/",
+      "meaning_ja": "反論する、言い返す",
+      "example": "\"No, I'm just a journalist,\" she countered.",
+      "example_ja": "「いいえ、私はただのジャーナリストです」と彼女は反論した。",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "escalate",
+      "pronunciation": "/ˈɛskəleɪt/",
+      "meaning_ja": "エスカレートする、激化する",
+      "example": "The tone escalated again.",
+      "example_ja": "再び雰囲気が険しくなった。",
+      "source_sentence_id": "s014"
+    },
+    {
+      "word": "hold one's ground",
+      "pronunciation": "/hoʊld wʌnz ɡraʊnd/",
+      "meaning_ja": "譲らない、立場を守る",
+      "example": "Welker held her ground, asking the president to present evidence.",
+      "example_ja": "ウェルカーは譲らず、大統領に証拠を示すよう求めた。",
+      "source_sentence_id": "s020"
+    },
+    {
+      "word": "reiterate",
+      "pronunciation": "/riˈɪtəreɪt/",
+      "meaning_ja": "繰り返し述べる、再度言う",
+      "example": "Trump reiterated past false claims.",
+      "example_ja": "トランプは過去の虚偽の主張を繰り返した。",
+      "source_sentence_id": "s019"
+    },
+    {
+      "word": "rigged",
+      "pronunciation": "/rɪɡd/",
+      "meaning_ja": "不正操作された、ごまかされた",
+      "example": "claims that the election was rigged",
+      "example_ja": "選挙が不正だったという主張",
+      "source_sentence_id": "s019"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-said-told",
+      "title": "Reported speech with said / told / countered",
+      "rule": "Use 'told + person' for direct recipients; 'said' or 'countered' often follow the quote. Narration verbs vary in tone (counter = rebut, shot back = sharp reply).",
+      "example": "\"No, I'm just a journalist,\" she countered.",
+      "meaning_ja": "引用の後（または前）に叙述動詞を置き、誰がどんなトーンで話したかを示す。counter は反論、shot back は鋭い言い返し、told は特定の相手への発言を示す。"
+    },
+    {
+      "id": "participial-result-clause",
+      "title": "Participial clauses showing result or manner",
+      "rule": "Present participle (-ing) after a comma can show a resulting situation or simultaneous action: '..., making it difficult to ...' / '..., asking the president to ...'",
+      "example": "torrential rain pounded the roof, making it difficult to continue the conversation.",
+      "meaning_ja": "主節の結果や付随する動作を分詞構文でつなぐ。making it + 形容詞 + to不定詞 は「〜することを…にする」という結果の構文。"
+    },
+    {
+      "id": "reduced-relative-too",
+      "title": "Reduced repetition with 'too' and post-modifying relatives",
+      "rule": "After 'too', repeat only the auxiliary/verb if needed: 'was rigged ... was, too.' Relative clauses can follow the noun: 'people who did nothing wrong.'",
+      "example": "said last week's primary in California was, too.",
+      "meaning_ja": "too の前で述語を省略し、前文を受ける（was rigged が省略）。関係節 who did nothing wrong は people を後ろから修飾する。"
+    },
+    {
+      "id": "past-perfect-sequence",
+      "title": "Past perfect for earlier past events",
+      "rule": "Use 'had + past participle' when describing events that happened before another past time (e.g., before Sunday's broadcast).",
+      "example": "she had spoken with Trump on Saturday ... he had agreed to give her another interview.",
+      "meaning_ja": "過去のある時点（日曜に伝えた）より前の出来事（土曜の会話・同意）を過去完了形で表す。時系列を明確にするニュース文末のよくあるパターン。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 22,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T07:01:57+09:00"
+  },
+  "article_id": "japantoday:2026-06-08:trump-storms-out-of-tense-rain-plagued-n"
+}

@@ -1,0 +1,485 @@
+{
+  "summary_ja": "岡山県岡山市の22歳の警察官が、島根県で20代女性に対する不同意性交の疑いで逮捕された。警察は大槻悠斗容疑者が女性の自宅で性的暴行を行ったとみており、本人は合意があったと主張している。岡山県警は深くお詫びし、捜査の進展を踏まえて厳正に対処すると述べた。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "A 22-year-old police officer from Okayama City in Okayama Prefecture has been arrested on suspicion of non-consensual sexual intercourse with a woman in her 20s in Shimane Prefecture.",
+      "translation_ja": "岡山県岡山市の22歳の警察官が、島根県で20代の女性に対する不同意性交の疑いで逮捕された。",
+      "grammar_ja": "受動態 has been arrested と on suspicion of（〜の疑いで）が犯罪報道の定型表現。from A in B で出身・所属を示し、with a woman in her 20s で被害者の年齢層を簡潔に表す。",
+      "chunks": [
+        {
+          "text": "A 22-year-old police officer",
+          "role_ja": "主語",
+          "literal_ja": "22歳の警察官が",
+          "note_ja": "年齢＋職業を名詞句でまとめる報道文体。hyphen でつなぐ compound adjective。"
+        },
+        {
+          "text": "from Okayama City in Okayama Prefecture",
+          "role_ja": "主語の修飾語",
+          "literal_ja": "岡山県岡山市出身の",
+          "note_ja": "City → Prefecture の順で場所を具体化。in は広い行政区画を示す。"
+        },
+        {
+          "text": "has been arrested",
+          "role_ja": "述語",
+          "literal_ja": "逮捕された",
+          "note_ja": "現在完了の受動態。逮捕という結果が現在も有効であることを示す。"
+        },
+        {
+          "text": "on suspicion of non-consensual sexual intercourse",
+          "role_ja": "理由・状況の修飾語",
+          "literal_ja": "不同意性交の疑いで",
+          "note_ja": "on suspicion of は「〜の疑いで」という法・報道用語。non-consensual は consensual（合意のある）の否定。"
+        },
+        {
+          "text": "with a woman in her 20s",
+          "role_ja": "目的語の修飾",
+          "literal_ja": "20代の女性に対して",
+          "note_ja": "in one's 20s は「20代」という年齢帯の慣用表現。"
+        },
+        {
+          "text": "in Shimane Prefecture",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "島根県で",
+          "note_ja": "事件の発生地を示す。所属地（岡山）と事件地（島根）が異なる点が重要。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では「不同意性交等」と訳されることが多い法的表現。英語では sexually assaulting より法的・形式的な non-consensual sexual intercourse が使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Police said Yuto Otsuki is accused of allegedly forcing the woman to the floor at her home and sexually assaulting her between 10:30 p.m. and 11:20 p.m. on May 29, NTV reported.",
+      "translation_ja": "警察によると、大槻悠斗は5月29日午後10時30分から11時20分の間、女性の自宅で彼女を床に押し倒し性的暴行を行ったとの疑いがあると日本テレビが報じた。",
+      "grammar_ja": "報道の二重構造：Police said ... NTV reported。is accused of + 動名詞、between A and B で時間帯、allegedly は「疑われている」という慎重な表現。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節の述語",
+          "literal_ja": "警察は述べた",
+          "note_ja": "報道文の情報源提示。日本語では「〜によると」に訳す。"
+        },
+        {
+          "text": "Yuto Otsuki is accused of",
+          "role_ja": "従属節の主語＋述語",
+          "literal_ja": "大槻悠斗は〜の疑いがある",
+          "note_ja": "be accused of は「〜の容疑で告発・疑われている」。受動態で容疑者を主語にする。"
+        },
+        {
+          "text": "allegedly forcing the woman to the floor",
+          "role_ja": "of の目的語",
+          "literal_ja": "女性を床に押し倒したとされる",
+          "note_ja": "force A to B で「AをBの状態にさせる」。allegedly は未確定の事実に対する慎重表現。"
+        },
+        {
+          "text": "at her home",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "彼女の自宅で",
+          "note_ja": "the woman → her で被害者を代名詞化。報道では victim より woman が先に出る。"
+        },
+        {
+          "text": "sexually assaulting her",
+          "role_ja": "並列の動名詞",
+          "literal_ja": "彼女に性的暴行を加えた",
+          "note_ja": "forcing と assaulting が and で並列。of の後に続く動名詞の列。"
+        },
+        {
+          "text": "between 10:30 p.m. and 11:20 p.m. on May 29",
+          "role_ja": "時間の修飾語",
+          "literal_ja": "5月29日午後10時30分から11時20分の間に",
+          "note_ja": "between ... and ... で期間の始点と終点。p.m. は post meridiem（午後）。"
+        },
+        {
+          "text": "NTV reported",
+          "role_ja": "主節の付加情報",
+          "literal_ja": "日本テレビが報じた",
+          "note_ja": "文末に報道社名を置く英語の報道スタイル。カンマの前が引用内容。"
+        }
+      ],
+      "deep_dive_ja": "accused of allegedly は意味が重なるが、前者は法的容疑、後者は事実未確定というニュアンスの二重の慎重表現。日本の報道では一つにまとめて訳すことが多い。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The incident came to light the following day when a relative of the victim reported it to the police.",
+      "translation_ja": "この事件は翌日、被害者の親族が警察に通報したことで明らかになった。",
+      "grammar_ja": "come to light は「明らかになる」の慣用句。the following day は「翌日」。when 節で発覚のきっかけを説明。",
+      "chunks": [
+        {
+          "text": "The incident",
+          "role_ja": "主語",
+          "literal_ja": "その事件が",
+          "note_ja": "前の文の内容を the incident で受ける。"
+        },
+        {
+          "text": "came to light",
+          "role_ja": "述語",
+          "literal_ja": "明らかになった",
+          "note_ja": "慣用表現。be revealed / be discovered より報道でよく使われる。"
+        },
+        {
+          "text": "the following day",
+          "role_ja": "時の修飾語",
+          "literal_ja": "翌日に",
+          "note_ja": "the next day とほぼ同義。報道・フォーマル文体で following が好まれる。"
+        },
+        {
+          "text": "when a relative of the victim reported it to the police",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "被害者の親族が警察にそれを通報したとき",
+          "note_ja": "when 節が発覚の契機を示す。report A to B で「AをBに報告・通報する」。"
+        }
+      ],
+      "deep_dive_ja": "came to light は B2 学習者にとって重要なコロケーション。直訳の「光に来た」では意味が通じない。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Subsequent investigations led to Otsuki's arrest in Okayama on Saturday.",
+      "translation_ja": "その後の捜査により、大槻は土曜日に岡山で逮捕された。",
+      "grammar_ja": "Subsequent（その後の）が文頭で時間の流れを示す。lead to は「〜につながる・〜に至る」の慣用表現。",
+      "chunks": [
+        {
+          "text": "Subsequent investigations",
+          "role_ja": "主語",
+          "literal_ja": "その後の捜査が",
+          "note_ja": "subsequent は following / later よりフォーマル。名詞 investigations が主語。"
+        },
+        {
+          "text": "led to",
+          "role_ja": "述語",
+          "literal_ja": "〜につながった",
+          "note_ja": "lead-led-led。結果を生む因果関係を表す。"
+        },
+        {
+          "text": "Otsuki's arrest",
+          "role_ja": "目的語",
+          "literal_ja": "大槻の逮捕",
+          "note_ja": "所有格 's で「逮捕」という出来事を名詞化。"
+        },
+        {
+          "text": "in Okayama on Saturday",
+          "role_ja": "場所・時の修飾語",
+          "literal_ja": "土曜日に岡山で",
+          "note_ja": "逮捕の場所と日時。事件地（島根）とは異なり、所属地で逮捕。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Otsuki and the victim were acquaintances but had no history of a romantic relationship, police said.",
+      "translation_ja": "大槻と被害者は知人同士だったが、恋愛関係にあったという経緯はなかったと警察は述べた。",
+      "grammar_ja": "were acquaintances（知人だった）と had no history of（〜の経緯がなかった）が but で対比。文末の police said は報道の帰属表現。",
+      "chunks": [
+        {
+          "text": "Otsuki and the victim",
+          "role_ja": "主語",
+          "literal_ja": "大槻と被害者は",
+          "note_ja": "A and B were ... の複数主語。"
+        },
+        {
+          "text": "were acquaintances",
+          "role_ja": "述語",
+          "literal_ja": "知人同士だった",
+          "note_ja": "acquaintance は「知人・面識のある人」。friend より距離感がある。"
+        },
+        {
+          "text": "but had no history of a romantic relationship",
+          "role_ja": "対比の述語",
+          "literal_ja": "しかし恋愛関係の経緯はなかった",
+          "note_ja": "have no history of で「〜したことがない／〜の経緯がない」。romantic relationship は恋愛関係。"
+        },
+        {
+          "text": "police said",
+          "role_ja": "帰属の挿入句",
+          "literal_ja": "と警察は述べた",
+          "note_ja": "カンマの後に情報源を置く報道文体（said-police said pattern）。"
+        }
+      ],
+      "deep_dive_ja": "had no history of は事件報道で背景情報を述べるときの定型句。日本語では「〜という経緯はなかった」と自然に訳す。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Police said Otsuki has denied the allegation, stating that the act was consensual.",
+      "translation_ja": "警察によると、大槻はその疑いを否認し、行為には合意があったと主張している。",
+      "grammar_ja": "has denied（現在完了）で否認の状態が続いていることを示す。stating that は付帯状況の分詞構文。consensual は「双方の合意のある」。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は述べた",
+          "note_ja": "情報源の提示。"
+        },
+        {
+          "text": "Otsuki has denied the allegation",
+          "role_ja": "従属節",
+          "literal_ja": "大槻はその疑いを否認した",
+          "note_ja": "deny the allegation で「容疑・申し立てを否認する」。allegation は法的な「申し立て・疑い」。"
+        },
+        {
+          "text": "stating that the act was consensual",
+          "role_ja": "付帯状況",
+          "literal_ja": "行為は合意のあったものだったと述べて",
+          "note_ja": "現在分詞 stating が主語 Otsuki の行為を追加説明。consensual は non-consensual の対義語。"
+        }
+      ],
+      "deep_dive_ja": "記事冒頭の non-consensual と対比される重要な語。否認側の主張を consensual で要約している。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "According to the Okayama Prefectural Police, Otsuki was hired in April and holds the rank of patrol officer.",
+      "translation_ja": "岡山県警によると、大槻は4月に採用され、巡査の階級にある。",
+      "grammar_ja": "According to で情報源提示。was hired（受動態・過去）と holds（現在形）で採用と現在の階級を述べる。the rank of で階級名。",
+      "chunks": [
+        {
+          "text": "According to the Okayama Prefectural Police",
+          "role_ja": "副詞句",
+          "literal_ja": "岡山県警によれば",
+          "note_ja": "According to A, ... は報道の定番。Prefectural Police は「県警」。"
+        },
+        {
+          "text": "Otsuki was hired in April",
+          "role_ja": "主節の一部",
+          "literal_ja": "大槻は4月に採用された",
+          "note_ja": "受動態 was hired で採用されたことを示す。"
+        },
+        {
+          "text": "holds the rank of patrol officer",
+          "role_ja": "並列の述語",
+          "literal_ja": "巡査の階級を保持している",
+          "note_ja": "hold the rank of で「〜の階級にある」。patrol officer は「巡査」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He was a new recruit at the police academy and reportedly had no problems with his work performance.",
+      "translation_ja": "彼は警察学校の新入生で、業務成績に問題はなかったと伝えられている。",
+      "grammar_ja": "reportedly は「〜と伝えられている」という報道の hedging（慎重表現）。had no problems with で「〜に問題がなかった」。",
+      "chunks": [
+        {
+          "text": "He was a new recruit at the police academy",
+          "role_ja": "主節",
+          "literal_ja": "彼は警察学校の新入生だった",
+          "note_ja": "recruit は「新入生・新採用者」。police academy は警察学校。"
+        },
+        {
+          "text": "reportedly",
+          "role_ja": "副詞",
+          "literal_ja": "伝えられるところによると",
+          "note_ja": "情報源を曖昧にする報道用語。allegedly と同系統。"
+        },
+        {
+          "text": "had no problems with his work performance",
+          "role_ja": "並列の述語",
+          "literal_ja": "業務成績に問題はなかった",
+          "note_ja": "have problems with で「〜に問題がある」。work performance は「業務成績・勤務態度」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "On May 29, the day of the incident, he had submitted a leave of absence request to the police academy, but his destination was not listed as Shimane Prefecture.",
+      "translation_ja": "事件当日の5月29日、彼は警察学校に欠勤届を提出していたが、行き先には島根県は記載されていなかった。",
+      "grammar_ja": "同格の the day of the incident が日付を補足。had submitted（過去完了）で事件以前の行為。was not listed as で「〜として記載されていなかった」。",
+      "chunks": [
+        {
+          "text": "On May 29, the day of the incident",
+          "role_ja": "時の修飾語",
+          "literal_ja": "事件当日の5月29日に",
+          "note_ja": "カンマで挟んだ同格語句が日付を説明。"
+        },
+        {
+          "text": "he had submitted a leave of absence request",
+          "role_ja": "主節",
+          "literal_ja": "彼は欠勤届を提出していた",
+          "note_ja": "過去完了で、事件時点より前に届け出ていたことを示す。leave of absence は「欠勤・休暇」。"
+        },
+        {
+          "text": "to the police academy",
+          "role_ja": "方向の修飾語",
+          "literal_ja": "警察学校に",
+          "note_ja": "提出先を示す。"
+        },
+        {
+          "text": "but his destination was not listed as Shimane Prefecture",
+          "role_ja": "対比節",
+          "literal_ja": "しかし彼の行き先は島根県として記載されていなかった",
+          "note_ja": "be listed as で「〜として記載されている」。捜査上の重要な矛盾点を示す。"
+        }
+      ],
+      "deep_dive_ja": "but 以下が記事の重要な事実。届出の行き先と実際の事件地の不一致は、捜査報道でよく注目されるポイント。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "The Okayama Prefectural Police Internal Affairs Division issued a statement, saying: \"We deeply regret that a police officer from our prefecture has been arrested.",
+      "translation_ja": "岡山県警警務部は声明を発表し、「当県の警察官が逮捕されたことを深くお詫び申し上げます」と述べた。",
+      "grammar_ja": "issued a statement, saying: で直接引用を導入。deeply regret that ... は公式声明の定型表現。from our prefecture で所属を強調。",
+      "chunks": [
+        {
+          "text": "The Okayama Prefectural Police Internal Affairs Division",
+          "role_ja": "主語",
+          "literal_ja": "岡山県警警務部が",
+          "note_ja": "Internal Affairs Division は「警務部」（内部監督部署）。"
+        },
+        {
+          "text": "issued a statement",
+          "role_ja": "述語",
+          "literal_ja": "声明を発表した",
+          "note_ja": "issue a statement は公式声明の定番コロケーション。"
+        },
+        {
+          "text": "saying:",
+          "role_ja": "付帯状況",
+          "literal_ja": "こう述べて：",
+          "note_ja": "コロンの後に直接引用が続く。"
+        },
+        {
+          "text": "We deeply regret that a police officer from our prefecture has been arrested",
+          "role_ja": "直接引用",
+          "literal_ja": "当県の警察官が逮捕されたことを深く遺憾に思う",
+          "note_ja": "regret that ... は公式なお詫び表現。deeply で程度を強調。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "We will deal with this matter strictly, taking into account the progress of the investigation.\"",
+      "translation_ja": "「捜査の進展を踏まえ、この件を厳正に対処してまいります。」",
+      "grammar_ja": "deal with ... strictly で「厳正に対処する」。taking into account は分詞構文で「〜を踏まえて」。will で将来の対応を約束。",
+      "chunks": [
+        {
+          "text": "We will deal with this matter strictly",
+          "role_ja": "主節",
+          "literal_ja": "我々はこの件を厳正に対処する",
+          "note_ja": "deal with a matter で「件について対処する」。strictly は「厳正に・厳しく」。"
+        },
+        {
+          "text": "taking into account the progress of the investigation",
+          "role_ja": "付帯状況",
+          "literal_ja": "捜査の進展を考慮に入れて",
+          "note_ja": "take into account は「〜を考慮する」の慣用表現。現在分詞で条件・方法を付加。"
+        }
+      ],
+      "deep_dive_ja": "声明文の締めくくりとして、具体的な処分を示さず investigation の進展を条件にするのは組織声明の典型パターン。",
+      "difficulty": "medium",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃən ɒv/",
+      "meaning_ja": "〜の疑いで（逮捕・捜査される）",
+      "example": "He was arrested on suspicion of fraud.",
+      "example_ja": "彼は詐欺の疑いで逮捕された。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "come to light",
+      "pronunciation": "/kʌm tuː laɪt/",
+      "meaning_ja": "明らかになる、発覚する",
+      "example": "The incident came to light the following day.",
+      "example_ja": "その事件は翌日明らかになった。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "acquaintance",
+      "pronunciation": "/əˈkweɪntəns/",
+      "meaning_ja": "知人、面識のある人",
+      "example": "They were acquaintances but not close friends.",
+      "example_ja": "彼らは知人同士だったが、親しい友人ではなかった。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "allegation",
+      "pronunciation": "/ˌælɪˈɡeɪʃən/",
+      "meaning_ja": "申し立て、疑い、告発",
+      "example": "He has denied the allegation.",
+      "example_ja": "彼はその疑いを否認した。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "consensual",
+      "pronunciation": "/kənˈsɛnʃuəl/",
+      "meaning_ja": "双方の合意のある",
+      "example": "He stated that the act was consensual.",
+      "example_ja": "彼は行為には合意があったと主張した。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "leave of absence",
+      "pronunciation": "/liːv ɒv ˈæbsəns/",
+      "meaning_ja": "欠勤届、休暇申請",
+      "example": "He submitted a leave of absence request.",
+      "example_ja": "彼は欠勤届を提出した。",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "subsequent",
+      "pronunciation": "/ˈsʌbsɪkwənt/",
+      "meaning_ja": "その後の、続く",
+      "example": "Subsequent investigations led to his arrest.",
+      "example_ja": "その後の捜査により彼は逮捕された。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "take into account",
+      "pronunciation": "/teɪk ˈɪntuː əˈkaʊnt/",
+      "meaning_ja": "〜を考慮する、〜を踏まえる",
+      "example": "We will act strictly, taking into account the investigation.",
+      "example_ja": "捜査を踏まえ、厳正に対応する。",
+      "source_sentence_id": "s011"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-arrest-reporting",
+      "title": "Passive voice in crime reporting",
+      "rule": "Use 'has been arrested' / 'was arrested' to focus on the suspect and legal outcome rather than the arresting authority.",
+      "example": "A 22-year-old police officer has been arrested on suspicion of non-consensual sexual intercourse.",
+      "meaning_ja": "犯罪報道では受動態で「逮捕された」と書き、誰が逮捕したかより結果・容疑を前面に出す。has been arrested は現在もその状態が続くニュアンス。"
+    },
+    {
+      "id": "attribution-said-reported",
+      "title": "News attribution patterns (said / reported / according to)",
+      "rule": "Attribute information to sources using 'Police said', 'NTV reported', or 'According to X' — often at the start or end of the sentence.",
+      "example": "Police said Otsuki is accused of assaulting her, NTV reported.",
+      "meaning_ja": "報道文では情報源を明示する。said は発言、reported は報道社の伝達、According to は公式情報源の引用。日本語では「〜によると」にまとめて訳す。"
+    },
+    {
+      "id": "hedging-allegedly-reportedly",
+      "title": "Hedging language (allegedly / reportedly / on suspicion of)",
+      "rule": "Use cautious language when facts are unproven: allegedly, reportedly, on suspicion of, is accused of.",
+      "example": "He is accused of allegedly forcing the woman to the floor.",
+      "meaning_ja": "未確定の事実には慎重な表現を使う。allegedly・reportedly は「〜とされる」、on suspicion of・is accused of は法的容疑を示す。日本語報道と同様、確定を避ける文体。"
+    },
+    {
+      "id": "participial-addition",
+      "title": "Participial phrases for additional detail (stating / taking into account)",
+      "rule": "Use present participles (-ing) after a main clause to add supplementary information without starting a new sentence.",
+      "example": "Otsuki denied the allegation, stating that the act was consensual.",
+      "meaning_ja": "主節の後に現在分詞句を置き、追加情報を簡潔に付ける構文。stating that ... や taking into account ... は報道・公式文書でよく使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T07:01:30+09:00"
+  },
+  "article_id": "japantoday:2026-06-08:okayama-police-officer-arrested-for-alle"
+}

@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-08:okayama-police-officer-arrested-for-alle",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T07:00:10+09:00",
+  "fetched_at": "2026-06-10T07:02:02+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Better to put this guy behind bars or he might do it again.",
+      "translation_ja": "この男は刑務所に入れた方がいい。さもないとまたやるかもしれない。",
+      "notes_ja": [
+        "文頭の Better to... は It is better to... の口語的な省略。",
+        "behind bars は「投獄する・牢屋に入れる」という慣用表現。"
+      ],
+      "standard_en": "It would be better to put this guy behind bars, or he might do it again.",
+      "marked_terms": [],
+      "comment_id": 5229743,
+      "author": "Toshihiro",
+      "rating": 3,
+      "posted_at": "2026-06-08T08:21:38+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "On May 29, the day of the incident, he had submitted a leave of absence request to the police academy, but his destination was not listed as Shimane Prefecture. Shimane is 3 hours away from Okayama. There's something missing from his story.",
+      "translation_ja": "事件が起きた5月29日、その日に彼は警察学校に休暇申請を出していたが、行き先は島根県と記載されていなかった。島根は岡山から3時間離れている。彼の話には何か抜けている。",
+      "notes_ja": [
+        "There's something missing from his story は直訳より「説明に穴がある／話に矛盾がある」というニュアンス。",
+        "比較的標準的な英文だが、コメント欄では事実関係を並べて疑いを示す書き方がよくある。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5229574,
+      "author": "obladi",
+      "rating": 1,
+      "posted_at": "2026-06-08T07:22:22+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Negative NancyToday 09:51 am JST Things are not good when we take the word of the relative of an alleged victim over that of a police officer. Yes, because all women lie about rape, and police officers in Japan never rape and never lie about raping. Oh wait ... Interesting wording: they regret that he has been arrested. It suggests to me that he is still innocent until proven guilty. You are aware that the conventions of journalism are to use hedging language so as to avoid making accusations? It seems not ...",
+      "translation_ja": "ネガティブ・ナンシー Today 09:51 am JST 被害者の親族の言葉を、警察官の言葉より信じるのはよくない、ということね。そうそう、だって女性はみんなレイプの話を嘘つくし、日本の警察官はレイプもしないし、レイプしたと嘘をつくこともないもんね。あ、待って… 面白い言い回しだね。「逮捕されたことを残念に思う」と書いてある。まだ有罪と証明されるまでは無実、という意味だと思う。ジャーナリズムでは告発を避けるために慎重な言い回しをするのが常識だって知ってる？ 知らないみたいだね…",
+      "notes_ja": [
+        "Negative NancyToday は別ユーザーの名前とサイトの日時表記がくっついた引用。全体が強い皮肉（sarcasm）の返信。",
+        "hedging language は「 alleged（疑われる）」のような、断定を避ける報道表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "Negative Nancy",
+          "symbol": "◇",
+          "note_ja": "いつも否定的な人を指すネットスラング。皮肉っぽいニックネームとして使われる。"
+        }
+      ],
+      "comment_id": 5229908,
+      "author": "girl_in_tokyo",
+      "rating": 1,
+      "posted_at": "2026-06-08T10:01:20+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Things are not good when we take the word of the relative of an alleged victim over that of a police officer. Things are not good on your part when you systematically doubt claims from victims of sexual violence (and specifically victims of sexual violence, not other crimes). The woman, by means of her relative denounced a crime, the suspect is arrested the same as with if he was accused of stealing or beating up someone, and then things are investigated, that is what happens all the time. But you immediately assume this is a false accusation when it is about rape, not when it is about assault or theft or any other crime. That says much more about you than about the way the police act after an accusation.",
+      "translation_ja": "被害者の親族の言葉を警察官の言葉より信じるのはよくない、というのは分かる。だが、性的暴力の被害者（他の犯罪ではなく、まさに性的暴力の被害者）の申し立てを体系的に疑うのは、あなたの方がよくない。女性は親族を通じて犯罪を告発し、容疑者は逮捕される。窃盗や暴行で告発された場合と同じだ。その後調査が行われる。いつもそういう流れだ。しかしレイプの件だけはすぐ虚偽告発だと決めつける。暴行や窃盗、その他の犯罪ではそうはしない。それは警察の対応より、あなた自身のことの方をよく物語っている。",
+      "notes_ja": [
+        "The woman, by means of her relative denounced a crime, the suspect is arrested... はカンマスプライス（本来はセミコロンか別文に分ける）。",
+        "the same as with if he was accused は口語的でやや不自然。the same as if he had been accused がより標準的。"
+      ],
+      "standard_en": "The woman, by means of her relative, denounced a crime; the suspect is arrested, the same as if he had been accused of stealing or beating up someone, and then things are investigated. That is what happens all the time.",
+      "marked_terms": [],
+      "comment_id": 5230327,
+      "author": "virusrex",
+      "rating": 1,
+      "posted_at": "2026-06-08T15:27:30+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "t's interesting that you make sure to emphasize that the accused is innocent until proven guilty, but are more than happy to accuse the person who reported the crime of maliciously and false reporting without ANY evidence of that whatsoever. Read it again. There is no inferrence that either party is guilty. No legal judgement has been made. One person got arrested and named in the media, the other did not. Unless proven guilty, how is that a fair system? surely, you treat all crimes with the same level skepticism Yes, of course. That's the basis of the legal system. Otherwise people would just accuse each other of all sorts of things. It's a good job people in charge of convictions don't make anti-male sentiment part of their personality.",
+      "translation_ja": "被告は有罪と証明されるまでは無実だと強調するのに、犯罪を通報した人を根拠なく悪意のある虚偽告発だと決めつけるのはおかしい、というのは興味深いね。もう一度読んでみて。どちらか一方が有罪だと推論しているわけではない。法的判断はまだ下されていない。一人は逮捕されメディアに名前が出た。もう一人は出ていない。有罪と証明されるまでは、それが公平な制度だと言えるの？ 確かに、すべての犯罪に同じレベルの懐疑を向けるべきだよね。そう、もちろん。それが法制度の基本だ。さもないと人々は何でもかんでも互いを告発するだろう。有罪判決を下す立場の人たちが反男性感情を自分の性格の一部にしていなくてよかったね。",
+      "notes_ja": [
+        "t's は It's のタイプミス。inferrence は inference のスペルミス。judgement は英米どちらでも見られるが judgment も一般的。",
+        "It's a good job はイギリス英語で「幸いだ・よかった」という意味。段落の区切りがなく、複数の返信が続けて書かれている。"
+      ],
+      "standard_en": "It's interesting that you make sure to emphasize that the accused is innocent until proven guilty, but are more than happy to accuse the person who reported the crime of malicious and false reporting without ANY evidence whatsoever. Read it again. There is no inference that either party is guilty. No legal judgment has been made. One person got arrested and named in the media; the other did not. Unless proven guilty, how is that a fair system? Surely you treat all crimes with the same level of skepticism. Yes, of course—that is the basis of the legal system. Otherwise people would just accuse each other of all sorts of things. It's a good job that people in charge of convictions don't make anti-male sentiment part of their personality.",
+      "marked_terms": [],
+      "comment_id": 5230221,
+      "author": "Negative Nancy",
+      "rating": 0,
+      "posted_at": "2026-06-08T13:08:24+09:00"
+    }
+  ]
+}
