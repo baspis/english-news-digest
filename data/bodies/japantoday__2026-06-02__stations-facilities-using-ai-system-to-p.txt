@@ -1,0 +1,7 @@
+About 40 stations and commercial buildings in Japan have introduced an artificial intelligence system to prevent suicide that has helped to save the lives of at least 2 people, according to its developer.
+Tokyo-based Asilla Inc created the system, which assesses the likelihood that individuals will leap to their deaths by analyzing behavior captured by security cameras at stations and buildings, such as pacing or lingering near the edge of a station platform or rooftop.
+Once the system detects such signs, it alerts security guards and station staff, with warnings issued through loudspeakers in some cases.
+In one instance, the system detected a man in an area that customers do not enter at a commercial facility and a guard approached him. The man later said he had intended to kill himself by jumping, according to the company.
+In another case, a child was found lingering for a long time near a railing on an upper floor of a facility, and a security guard discovered the child had been writing a suicide note, it said.
+Asilla has worked with around 200 commercial facilities and other entities since 2022 to train the AI system on around 7 million pieces of security camera footage, enabling it to detect not just suicidal signs but instances of illness and immobility as well as violence.
+It has been introduced at about 30 commercial facilities and around 10 stations in Tokyo and neighboring Kanagawa Prefecture, according to the company.

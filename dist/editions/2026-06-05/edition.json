@@ -1,0 +1,119 @@
+{
+  "edition_date": "2026-06-05",
+  "status": "selected",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-05",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-05:american-college-student-missing-in-kyot",
+    "japantoday:2026-06-05:man-arrested-after-woman-fatally-stabbed",
+    "japantoday:2026-06-05:electronics-retailers-yamada-edion-agree",
+    "japantoday:2026-06-05:takaichi-declines-to-confirm-alleged-sme",
+    "japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i",
+    "japantoday:2026-06-05:world-wide-web-pioneer-calls-for-ai-to-p"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-05:american-college-student-missing-in-kyot",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/american-college-student-missing-in-kyoto-last-seen-by-family-one-week-ago",
+      "title": "American college student missing in Kyoto, last seen by family one week ago",
+      "slug": "01-american-college-student-missing-in-kyoto-last-seen-by-family-one-week",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_35",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-05:man-arrested-after-woman-fatally-stabbed",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/man-held-after-woman-found-with-stab-wounds-on-road-in-japan's-hokkaido",
+      "title": "Man arrested after woman fatally stabbed in Hokkaido",
+      "slug": "02-man-arrested-after-woman-fatally-stabbed-in-hokkaido",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_13",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-05:electronics-retailers-yamada-edion-agree",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/japan-electronics-retailers-yamada-edion-agree-to-business-merger",
+      "title": "Electronics retailers Yamada, Edion agree to merger",
+      "slug": "03-electronics-retailers-yamada-edion-agree-to-merger",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_6",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-05:takaichi-declines-to-confirm-alleged-sme",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/japan-pm-declines-to-confirm-alleged-smear-video-audio-irking-opposition",
+      "title": "Takaichi declines to confirm alleged smear video audio, irking opposition",
+      "slug": "04-takaichi-declines-to-confirm-alleged-smear-video-audio-irking-oppositi",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_39",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/putin-sticks-to-hardline-stance-on-war-in-ukraine-but-says-trump-ideas-could-bring-peace",
+      "title": "Putin sticks to hardline stance on war in Ukraine, but says Trump ideas could bring peace",
+      "slug": "05-putin-sticks-to-hardline-stance-on-war-in-ukraine-but-says-trump-ideas",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_55",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-05:world-wide-web-pioneer-calls-for-ai-to-p",
+      "edition_date": "2026-06-05",
+      "source_published_date_jst": "2026-06-05",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/tim-berners-lee-calls-for-ai-to-preserve-'original-values'-of-web",
+      "title": "World Wide Web pioneer calls for AI to preserve 'original values' of web",
+      "slug": "06-world-wide-web-pioneer-calls-for-ai-to-preserve-original-values-of-web",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_4",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T22:37:09+09:00",
+  "warnings": [
+    "processing failed japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i: Expecting value: line 1 column 1 (char 0)",
+    "processing failed japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i: Expecting value: line 1 column 1 (char 0)",
+    "processing failed japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i: Expecting value: line 1 column 1 (char 0)"
+  ]
+}

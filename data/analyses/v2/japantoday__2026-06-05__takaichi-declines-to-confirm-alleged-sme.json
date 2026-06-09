@@ -1,0 +1,369 @@
+{
+  "summary_ja": "高市首相は木曜日、匿名の中傷動画に関する報道の音声を聴くよう求められた野党議員の要請を拒否し、野党の反発を招いた。首相は多忙なスケジュールと週刊誌の購読拒否を理由に挙げたが、最大野党の小沢淳也代表は「誠実な回答がなければ秘書を委員会に呼ぶ必要があるかもしれない」と述べた。週刊文春の報道によると、公費で雇われた第一秘書が動画制作者と会話した音声が問題となっている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Prime Minister Sanae Takaichi on Thursday declined an opposition lawmaker's request to listen to audio relating to reports alleging her office made anonymous videos smearing political opponents, drawing opposition ire.",
+      "translation_ja": "高市早苗首相は木曜日、首相室が匿名の中傷動画を制作したとの報道に関する音声を聴くよう求められた野党議員の要請を拒否し、野党の怒りを買った。",
+      "grammar_ja": "declined ... request to listen to ... は「〜する要請を断った」という定型表現。relating to / alleging は現在分詞で名詞を後ろから修飾。drawing opposition ire は主節の結果を表す分詞構文で、ニュース英語でよく使われる。",
+      "chunks": [
+        {
+          "text": "Prime Minister Sanae Takaichi",
+          "role_ja": "主語",
+          "literal_ja": "高市早苗首相が",
+          "note_ja": "人物名の前に役職を置く英語のニュース文体。日本語では「高市早苗首相」とするのが自然。"
+        },
+        {
+          "text": "on Thursday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "木曜日に",
+          "note_ja": "具体的な曜日を示す前置詞句。日本語訳では文頭か動詞の直前に置く。"
+        },
+        {
+          "text": "declined an opposition lawmaker's request",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "野党議員の要請を断った",
+          "note_ja": "decline は refuse よりフォーマル。lawmaker は politician より議会活動を強調する語。"
+        },
+        {
+          "text": "to listen to audio",
+          "role_ja": "不定詞（request の内容）",
+          "literal_ja": "音声を聴くという",
+          "note_ja": "request to do の形。listen to の to は前置詞で省略不可。"
+        },
+        {
+          "text": "relating to reports alleging her office made anonymous videos",
+          "role_ja": "現在分詞句（audio を修飾）",
+          "literal_ja": "首相室が匿名動画を作ったとする報道に関する",
+          "note_ja": "relating to と alleging が連鎖して情報を重ねる。made は make の過去形。"
+        },
+        {
+          "text": "smearing political opponents",
+          "role_ja": "現在分詞（videos を修飾）",
+          "literal_ja": "政治の相手方を中傷する",
+          "note_ja": "smear は「名誉を傷つける」というやや硬い動詞。動名詞・分詞で名詞を修飾する構造。"
+        },
+        {
+          "text": "drawing opposition ire",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "野党の怒りを招き",
+          "note_ja": "ire は anger より文語的・報道向き。draw ire は「非難を浴びる」というコロケーション。"
+        }
+      ],
+      "deep_dive_ja": "一文に情報が多く詰まった典型の政治ニュース文です。learner は smearing と drawing を並列の動詞と誤解しがちですが、前者は videos を、後者は主節全体の結果を修飾します。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Takaichi cited a full schedule and objections to subscribing to the magazine behind the reports in rejecting the Centrist Reform Alliance lawmaker's request regarding a recorded conversation that reportedly showed her publicly funded first secretary speaking with a man who has claimed to have made the videos.",
+      "translation_ja": "高市氏は、報道の元となった週刊誌の購読への反対と多忙なスケジュールを理由に、中道改革連合の議員から出された、公費で雇われた第一秘書が動画を制作したと主張する男と会話している様子が映るとされる録音に関する要請を拒否した。",
+      "grammar_ja": "cite A and B in doing C は「Cする際にAとBを理由として挙げる」。regarding / that reportedly showed / who has claimed は関係節の連鎖。publicly funded は「公費で雇われた」という政治記事の定番表現。",
+      "chunks": [
+        {
+          "text": "Takaichi cited a full schedule and objections",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "高市氏は多忙なスケジュールと反対意見を挙げた",
+          "note_ja": "cite は「引用する」だけでなく「理由として示す」意味。and で2つの理由を並列。"
+        },
+        {
+          "text": "to subscribing to the magazine behind the reports",
+          "role_ja": "前置詞句（objections の内容）",
+          "literal_ja": "報道の元となった週刊誌を購読することへの",
+          "note_ja": "objection to + 名詞/動名詞。behind the reports は「報道の裏にある／報道の元の」意味。"
+        },
+        {
+          "text": "in rejecting the Centrist Reform Alliance lawmaker's request",
+          "role_ja": "前置詞句（行為の文脈）",
+          "literal_ja": "中道改革連合の議員の要請を拒否するにあたり",
+          "note_ja": "in + -ing で「〜する際に」。政党名は固有名詞としてそのまま扱う。"
+        },
+        {
+          "text": "regarding a recorded conversation",
+          "role_ja": "前置詞句（request の内容）",
+          "literal_ja": "録音された会話に関する",
+          "note_ja": "regarding は about よりフォーマルで報道向き。"
+        },
+        {
+          "text": "that reportedly showed her publicly funded first secretary speaking with a man",
+          "role_ja": "関係節（conversation を修飾）",
+          "literal_ja": "公費で雇われた第一秘書が男と話している様子を映していたとされる",
+          "note_ja": "reportedly は「報道によると」。show + 人 + -ing は「〜している様子を示す」。"
+        },
+        {
+          "text": "who has claimed to have made the videos",
+          "role_ja": "関係節（a man を修飾）",
+          "literal_ja": "動画を制作したと主張している",
+          "note_ja": "claim to have made は完了を表す不定詞。has claimed で現在完了。"
+        }
+      ],
+      "deep_dive_ja": "英語は理由→拒否の行為→要請の内容→録音の中身と、修飾が右に伸びます。日本語では「拒否した」を中心に、理由と内容を前後に再配置すると読みやすくなります。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Reacting to the exchange, Junya Ogawa, leader of the House of Representatives' largest opposition CRA, said it \"may be necessary to summon her secretary before the committee if we do not receive a sincere answer.\" He added it \"raised doubts\" about her judgment in handling politically inconvenient issues.",
+      "translation_ja": "このやり取りを受けて、衆議院最大野党・中道改革連合の代表である小沢淳也氏は、「誠実な回答が得られなければ、委員会で彼女の秘書を呼び出す必要があるかもしれない」と述べた。さらに、政治的に都合の悪い問題への対処に関する彼女の判断に「疑念を抱かせた」と付け加えた。",
+      "grammar_ja": "Reacting to ... は分詞構文で背景を示す。it may be necessary to ... は婉曲的な主張。He added it \"raised doubts\" about ... は直接話法の引用を続ける構造。politically inconvenient issues は直訳せず「都合の悪い政治問題」と訳すのが自然。",
+      "chunks": [
+        {
+          "text": "Reacting to the exchange",
+          "role_ja": "分詞構文（背景）",
+          "literal_ja": "このやり取りに反応して",
+          "note_ja": "react to は「〜に反応する」。exchange はここで国会での応答を指す。"
+        },
+        {
+          "text": "Junya Ogawa, leader of the House of Representatives' largest opposition CRA",
+          "role_ja": "主語（同格で説明）",
+          "literal_ja": "衆議院最大野党中道改革連合の代表、小沢淳也氏が",
+          "note_ja": "カンマで挟んだ同格構造。英語は役職→所属→名前の順が多い。"
+        },
+        {
+          "text": "said it \"may be necessary to summon her secretary before the committee\"",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "委員会の前で彼女の秘書を呼び出す必要があるかもしれないと述べた",
+          "note_ja": "may be necessary to は強い断定を避ける表現。summon は call より公的・法的な響き。"
+        },
+        {
+          "text": "if we do not receive a sincere answer",
+          "role_ja": "条件節",
+          "literal_ja": "誠実な回答を受け取れなければ",
+          "note_ja": "sincere answer は「誠実な説明・回答」。政治文脈では責任ある対応を求めるニュアンス。"
+        },
+        {
+          "text": "He added it \"raised doubts\"",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "彼は疑念を抱かせたと付け加えた",
+          "note_ja": "add は「さらに言う」。raise doubts は「疑いを生じさせる」コロケーション。"
+        },
+        {
+          "text": "about her judgment in handling politically inconvenient issues",
+          "role_ja": "前置詞句（doubts の内容）",
+          "literal_ja": "政治的に都合の悪い問題への対処に関する彼女の判断について",
+          "note_ja": "judgment in handling は「対応の判断力」。inconvenient はここで「好ましくない・厄介な」。"
+        }
+      ],
+      "deep_dive_ja": "引用符内の it may be necessary は、即座の要求ではなく段階的な圧力を示す外交的表現です。raised doubts も personal attack ではなく judgment という抽象名詞を攻撃対象にしています。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The request to listen to the audio published by weekly magazine Shukan Bunshun on Wednesday came after the prime minister previously told reporters she \"would not know\" if the two men had met.",
+      "translation_ja": "週刊誌・週刊文春が水曜日に公開した音声を聴くという要請は、首相が以前記者団に対し、二人が会ったかどうか「分からない」と答えた後に出されたものだった。",
+      "grammar_ja": "The request ... came after ... は時系列を示す。published by ... on Wednesday は request の後ろで audio を修飾。would not know は当時の発言を間接話法で伝える過去未来表現。if the two men had met は過去の不確実性を表す。",
+      "chunks": [
+        {
+          "text": "The request to listen to the audio",
+          "role_ja": "主語",
+          "literal_ja": "音声を聴くという要請は",
+          "note_ja": "request to do で内容を示す。the audio は前文の録音を指す。"
+        },
+        {
+          "text": "published by weekly magazine Shukan Bunshun on Wednesday",
+          "role_ja": "過去分詞句（audio を修飾）",
+          "literal_ja": "週刊誌週刊文春によって水曜日に公開された",
+          "note_ja": "過去分詞が名詞の後ろに来る典型パターン。固有名詞は音訳でよい。"
+        },
+        {
+          "text": "came after the prime minister previously told reporters",
+          "role_ja": "述語＋時系列",
+          "literal_ja": "首相が以前記者に述べた後に生じた",
+          "note_ja": "come after は「〜の後に起きる」。previously で前倒しの出来事を示す。"
+        },
+        {
+          "text": "she \"would not know\"",
+          "role_ja": "間接話法の述語",
+          "literal_ja": "彼女は「分からないだろう」と",
+          "note_ja": "would not know は丁寧な否定・不確実性の表現。直接話法では I wouldn't know。"
+        },
+        {
+          "text": "if the two men had met",
+          "role_ja": "条件節",
+          "literal_ja": "二人が会ったかどうか",
+          "note_ja": "録音に映る二人（秘書と動画制作者）を指す。過去完了は間接話法での時制のずれ。"
+        }
+      ],
+      "deep_dive_ja": "would not know は知らないと断言するより、情報を持たない立場を示す政治的な言い回しです。日本語では「分からない」と短く訳すのが自然ですが、英語では責任回避のニュアンスが含まれます。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The events in parliament marked the latest response by the prime minister to the reports first made by Shukan Bunshun in late April.",
+      "translation_ja": "国会での一連の出来事は、週刊文春が4月下旬に最初に報じた疑惑に対する首相の最新の対応となった。",
+      "grammar_ja": "marked は「〜を示した／〜となった」。the latest response by ... to ... は「〜に対する最新の対応」。first made by ... in late April は reports を修飾する過去分詞句。",
+      "chunks": [
+        {
+          "text": "The events in parliament",
+          "role_ja": "主語",
+          "literal_ja": "国会での出来事は",
+          "note_ja": "events は単発ではなく一連の応答を指す。parliament は日本の国会文脈では Diet も使われるがここでは parliament。"
+        },
+        {
+          "text": "marked the latest response",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "最新の対応となった",
+          "note_ja": "mark は「印となる」から「特徴づける・示す」へ。latest は most recent。"
+        },
+        {
+          "text": "by the prime minister",
+          "role_ja": "前置詞句（response の主体）",
+          "literal_ja": "首相による",
+          "note_ja": "response by A は A の対応という意味。"
+        },
+        {
+          "text": "to the reports first made by Shukan Bunshun in late April",
+          "role_ja": "前置詞句（response の対象）",
+          "literal_ja": "週刊文春が4月下旬に最初に報じた報道に対する",
+          "note_ja": "first made は「初めて報じられた」。late April は「4月下旬」。"
+        }
+      ],
+      "deep_dive_ja": "marked は単なる「印をつけた」ではなく、出来事の位置づけを説明するニュース動詞です。the latest response は、これまでも対応が続いていることを前提にしています。",
+      "difficulty": "easy",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The initial report claimed Takaichi's secretary and others were involved in videos produced and posted for last October's Liberal Democratic Party presidential race and February's general election that criticized politicians, including calling Takaichi's leadership rival and now Defense Minister Shinjiro Koizumi \"incapable.\"",
+      "translation_ja": "最初の報道は、高市氏の秘書らが昨年10月の自民党総裁選と2月の衆院選向けに制作・投稿された動画に関与し、政治家たちを批判する内容で、高市氏のライバルであり現防衛大臣の小泉進次郎氏を「無能」と呼んだと主張した。",
+      "grammar_ja": "claimed + that節（that省略）で報道内容を伝える。produced and posted for ... は videos を修飾。that criticized politicians は関係節。including calling ... は具体例を示す動名詞句。leadership rival は「党首選の競争相手」。",
+      "chunks": [
+        {
+          "text": "The initial report claimed",
+          "role_ja": "主語＋述語",
+          "literal_ja": "最初の報道は〜と主張した",
+          "note_ja": "claim は assert より報道・疑惑の文脈でよく使われる。initial は first と同義だが「初報」感が強い。"
+        },
+        {
+          "text": "Takaichi's secretary and others were involved in videos",
+          "role_ja": "節の主語＋述語",
+          "literal_ja": "高市氏の秘書らが動画に関与していた",
+          "note_ja": "be involved in は「関わっていた」。others で関係者複数を示す。"
+        },
+        {
+          "text": "produced and posted for last October's Liberal Democratic Party presidential race and February's general election",
+          "role_ja": "過去分詞句（videos を修飾）",
+          "literal_ja": "昨年10月の自民党総裁選と2月の総選挙のために制作・投稿された",
+          "note_ja": "for は目的・対象を示す。日本の選挙名は文脈説明を補うと理解しやすい。"
+        },
+        {
+          "text": "that criticized politicians",
+          "role_ja": "関係節（videos を修飾）",
+          "literal_ja": "政治家を批判する",
+          "note_ja": "関係代名詞 that は videos を受ける。内容説明の関係節。"
+        },
+        {
+          "text": "including calling Takaichi's leadership rival and now Defense Minister Shinjiro Koizumi \"incapable.\"",
+          "role_ja": "分詞構文／具体例",
+          "literal_ja": "高市氏のライバルで現防衛大臣の小泉進次郎を「無能」と呼ぶことを含め",
+          "note_ja": "including + -ing で例示。leadership rival は党首選での競合。incapable は unable より能力全般の欠如を強調。"
+        }
+      ],
+      "deep_dive_ja": "including calling ... は動画全体の内容の一例です。now Defense Minister は過去の動画制作時点とは役職が変わったことを読者に伝える挿入情報です。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "decline",
+      "pronunciation": "/dɪˈklaɪn/",
+      "meaning_ja": "（要請・申し出を）断る、拒否する",
+      "example": "She declined the opposition lawmaker's request.",
+      "example_ja": "彼女は野党議員の要請を拒否した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "smear",
+      "pronunciation": "/smɪr/",
+      "meaning_ja": "（名誉を）中傷する、汚す",
+      "example": "anonymous videos smearing political opponents",
+      "example_ja": "政治の相手方を中傷する匿名動画",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "cite",
+      "pronunciation": "/saɪt/",
+      "meaning_ja": "（理由・根拠として）挙げる、引用する",
+      "example": "Takaichi cited a full schedule.",
+      "example_ja": "高市氏は多忙なスケジュールを理由に挙げた。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "summon",
+      "pronunciation": "/ˈsʌmən/",
+      "meaning_ja": "（公式に）呼び出す、召喚する",
+      "example": "It may be necessary to summon her secretary before the committee.",
+      "example_ja": "委員会で彼女の秘書を呼び出す必要があるかもしれない。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "judgment",
+      "pronunciation": "/ˈdʒʌdʒmənt/",
+      "meaning_ja": "判断（力）、見識",
+      "example": "It raised doubts about her judgment.",
+      "example_ja": "それは彼女の判断に疑念を抱かせた。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "allege",
+      "pronunciation": "/əˈledʒ/",
+      "meaning_ja": "（まだ確証のないことを）主張する、告発する",
+      "example": "reports alleging her office made anonymous videos",
+      "example_ja": "首相室が匿名動画を制作したとする報道",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "inconvenient",
+      "pronunciation": "/ˌɪnkənˈviːniənt/",
+      "meaning_ja": "（ここでは）都合の悪い、好ましくない",
+      "example": "politically inconvenient issues",
+      "example_ja": "政治的に都合の悪い問題",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "rival",
+      "pronunciation": "/ˈraɪvl/",
+      "meaning_ja": "ライバル、競争相手",
+      "example": "Takaichi's leadership rival Shinjiro Koizumi",
+      "example_ja": "高市氏の党首選でのライバルである小泉進次郎",
+      "source_sentence_id": "s006"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-result",
+      "title": "Participial phrases showing result",
+      "rule": "A comma + -ing phrase at the end of a sentence can show a result of the main action (e.g., drawing opposition ire).",
+      "example": "She declined the request, drawing opposition ire.",
+      "meaning_ja": "文の最後にカンマ＋現在分詞を置くと、主節の結果を示せます。政治ニュースでは、事実の報道とその影響を一文でまとめるときによく使われます。"
+    },
+    {
+      "id": "reporting-verbs-quotes",
+      "title": "Reporting verbs with quoted speech",
+      "rule": "Verbs like said and added are followed by a clause; quoted words can appear in quotation marks inside the clause.",
+      "example": "He said it \"may be necessary to summon her secretary.\"",
+      "meaning_ja": "said や added の後に it + 引用文という形で、発言内容を間接的に伝えます。引用符は原文の言い回しを強調するために使われます。"
+    },
+    {
+      "id": "reduced-relative-clauses",
+      "title": "Reduced relative clauses with past participles",
+      "rule": "A noun can be followed by a past participle phrase instead of a full relative clause (e.g., audio published by ...).",
+      "example": "the audio published by Shukan Bunshun",
+      "meaning_ja": "名詞の後ろに過去分詞句を置くと、関係代名詞＋受動態の省略形になります。news English では that was published を短くするために頻出します。"
+    },
+    {
+      "id": "cite-in-rejecting",
+      "title": "Cite ... in + -ing",
+      "rule": "The pattern cite A in doing B means someone gives A as a reason when doing B.",
+      "example": "She cited a full schedule in rejecting the request.",
+      "meaning_ja": "cite A in doing B は「BするときにAを理由として挙げる」という構文です。reject, deny, refusing などの行為とセットで、公式な説明を伝えるときに便利です。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 6,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:39:52+09:00"
+  },
+  "article_id": "japantoday:2026-06-05:takaichi-declines-to-confirm-alleged-sme"
+}

@@ -1,0 +1,757 @@
+{
+  "summary_ja": "京都で行方不明になった20歳のアメリカ人大学生ウェストン・ヒギンボサムについて、日本の警察とボランティアが捜索を続けている。5月29日夜、単独で観光中に位置情報の共有を切ったのを最後に連絡が途絶え、山岳地帯へ向かう道筋が最後の記録だ。家族は彼が森で迷った可能性に希望を持つ一方、悪天候もあり捜索は難航している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japanese police and volunteers are searching for an American college student who went missing in Kyoto and hasn’t been seen in a week.",
+      "translation_ja": "日本の警察とボランティアが、京都で行方不明になったアメリカ人の大学生を捜しており、彼は1週間姿を見せていない。",
+      "grammar_ja": "現在進行形 are searching と関係代名詞 who の定義節。hasn't been seen は受動態の現在完了で「（誰からも）見られていない＝姿がない」というニュース表現。",
+      "chunks": [
+        {
+          "text": "Japanese police and volunteers",
+          "role_ja": "主語",
+          "literal_ja": "日本の警察とボランティアが",
+          "note_ja": "捜索の主体。volunteer は「有志・ボランティア」。"
+        },
+        {
+          "text": "are searching for",
+          "role_ja": "述語",
+          "literal_ja": "～を捜している",
+          "note_ja": "search for は「～を探す・捜す」のコロケーション。"
+        },
+        {
+          "text": "an American college student",
+          "role_ja": "目的語",
+          "literal_ja": "アメリカ人の大学生を",
+          "note_ja": "college student は米国式の「大学生」。"
+        },
+        {
+          "text": "who went missing in Kyoto",
+          "role_ja": "関係代名詞節（修飾）",
+          "literal_ja": "京都で行方不明になった",
+          "note_ja": "go missing は失踪ニュースで頻出の句動詞。"
+        },
+        {
+          "text": "and hasn’t been seen in a week",
+          "role_ja": "追加の関係代名詞節",
+          "literal_ja": "そして1週間姿を見せていない",
+          "note_ja": "in a week は「1週間の間」＝直近1週間。"
+        }
+      ],
+      "deep_dive_ja": "見出し文として who 節で人物像と状況を一度にまとめる典型構文。hasn't been seen は「誰かに見られた」より「行方がわからない」ニュアンス。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Twenty-year-old James “Weston” Higginbotham and his family arrived in Japan from the U.S. on May 25, spending time in Tokyo and elsewhere before reaching Kyoto.",
+      "translation_ja": "20歳のジェームズ・「ウェストン」・ヒギンボサムと家族は5月25日にアメリカから日本に到着し、京都に着く前に東京などで時間を過ごした。",
+      "grammar_ja": "名詞の前置修飾 Twenty-year-old、分詞構文 spending time...（付帯状況）、before + 動名詞 reaching。",
+      "chunks": [
+        {
+          "text": "Twenty-year-old James “Weston” Higginbotham and his family",
+          "role_ja": "主語",
+          "literal_ja": "20歳のジェームズ・ウェストン・ヒギンボサムと彼の家族は",
+          "note_ja": "ハイフン付き年齢修飾はニュースの人物紹介でよく使われる。"
+        },
+        {
+          "text": "arrived in Japan from the U.S. on May 25",
+          "role_ja": "述語",
+          "literal_ja": "5月25日にアメリカから日本に到着した",
+          "note_ja": "arrive in（場所）/ from（出発地）の前置詞。"
+        },
+        {
+          "text": "spending time in Tokyo and elsewhere",
+          "role_ja": "分詞構文",
+          "literal_ja": "東京などで時間を過ごしながら",
+          "note_ja": "主語と同じ人物が行う付随的行動を簡潔に述べる。"
+        },
+        {
+          "text": "before reaching Kyoto",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "京都に着く前に",
+          "note_ja": "before + 動名詞で「～する前に」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s002",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Weston declined to go with his parents and 18-year-old younger brother while they visited a temple on May 29, instead opting to sightsee on his own, while sharing his location through the Life360 phone app.",
+      "translation_ja": "ウェストンは5月29日、両親と18歳の弟が寺を訪れる間、一緒に行くのを断り、代わりに一人で観光することを選び、Life360というスマホアプリで位置情報を共有していた。",
+      "grammar_ja": "decline to go、instead opting（分詞で「代わりに」）、while 節が2つ（同時進行）。on his own は「単独で」。",
+      "chunks": [
+        {
+          "text": "Weston declined to go with his parents and 18-year-old younger brother",
+          "role_ja": "主節",
+          "literal_ja": "ウェストンは両親と18歳の弟と一緒に行くのを断った",
+          "note_ja": "decline to + 動詞原形＝丁寧に断る。"
+        },
+        {
+          "text": "while they visited a temple on May 29",
+          "role_ja": "時間の副詞節",
+          "literal_ja": "彼らが5月29日に寺を訪れている間",
+          "note_ja": "while は同時進行の背景状況。"
+        },
+        {
+          "text": "instead opting to sightsee on his own",
+          "role_ja": "分詞構文（対比）",
+          "literal_ja": "代わりに一人で観光することを選び",
+          "note_ja": "instead は文全体の対比を補足する。"
+        },
+        {
+          "text": "while sharing his location through the Life360 phone app",
+          "role_ja": "分詞構文（同時）",
+          "literal_ja": "Life360アプリで位置情報を共有しながら",
+          "note_ja": "through は手段「～を通じて」。"
+        }
+      ],
+      "deep_dive_ja": "一文に情報が詰まったニュース文体。instead と while の使い分けに注意：前者は選択の対比、後者は同時進行。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "▼ James “Weston” Higginbotham, missing since the night of May 29 in Kyoto",
+      "translation_ja": "▼ ジェームズ・「ウェストン」・ヒギンボサム（5月29日夜以降、京都で行方不明）",
+      "grammar_ja": "見出し・キャプション文体。missing since... は形容詞句で人物を修飾。since + 時点。",
+      "chunks": [
+        {
+          "text": "James “Weston” Higginbotham",
+          "role_ja": "主題（見出しの核）",
+          "literal_ja": "ジェームズ・ウェストン・ヒギンボサム",
+          "note_ja": "▼ は写真キャプション記号。"
+        },
+        {
+          "text": "missing since the night of May 29 in Kyoto",
+          "role_ja": "補足説明",
+          "literal_ja": "5月29日夜以来京都で行方不明",
+          "note_ja": "missing since は失踪報道の定型表現。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Based on his location data, Weston left the family’s hotel by himself at around 6 p.m. and later boarded a train at Kyoto Station, a five-minute ride away.",
+      "translation_ja": "位置情報によると、ウェストンは午後6時ごろ一人で家族のホテルを出て、その後近くの京都駅から電車に乗った。駅までは5分ほどの距離だった。",
+      "grammar_ja": "Based on...（根拠）、by himself（単独で）、同格 a five-minute ride away（京都駅を説明）。",
+      "chunks": [
+        {
+          "text": "Based on his location data",
+          "role_ja": "根拠を示す前置詞句",
+          "literal_ja": "彼の位置情報に基づくと",
+          "note_ja": "Based on は報道で根拠を示す定番。"
+        },
+        {
+          "text": "Weston left the family’s hotel by himself at around 6 p.m.",
+          "role_ja": "主節（前半）",
+          "literal_ja": "ウェストンは午後6時ごろ一人で家族のホテルを出た",
+          "note_ja": "at around は「およそ～頃」。"
+        },
+        {
+          "text": "and later boarded a train at Kyoto Station",
+          "role_ja": "主節（後半）",
+          "literal_ja": "そして後に京都駅で電車に乗った",
+          "note_ja": "board a train は「乗車する」のフォーマルな表現。"
+        },
+        {
+          "text": "a five-minute ride away",
+          "role_ja": "同格語（補足）",
+          "literal_ja": "5分の乗車距離の場所に",
+          "note_ja": "名詞 + away で距離を簡潔に表す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He can be seen on multiple security cameras leaving Yamashina Station and walking in the neighborhood around 8 p.m., wearing a gray T-shirt with “Save the bees” written across it and brown pants, and carrying a shoulder bag.",
+      "translation_ja": "複数の防犯カメラには、午後8時ごろ山科駅を出て近所を歩く彼の姿が映っており、灰色のTシャツ（胸に「Save the bees」の文字）と茶色のズボンを着用し、ショルダーバッグを持っていた。",
+      "grammar_ja": "受動態 can be seen、分詞 wearing/carrying で服装・所持を付加、with ... written across it は後置修飾。",
+      "chunks": [
+        {
+          "text": "He can be seen on multiple security cameras",
+          "role_ja": "主節",
+          "literal_ja": "彼は複数の防犯カメラに映っている",
+          "note_ja": "捜査報道で「カメラに映る」定型表現。"
+        },
+        {
+          "text": "leaving Yamashina Station and walking in the neighborhood around 8 p.m.",
+          "role_ja": "主語補語（原形不定詞相当の分詞）",
+          "literal_ja": "山科駅を出て午後8時ごろ近所を歩く姿として",
+          "note_ja": "see + 目的語 + doing で「～しているのが見える」。"
+        },
+        {
+          "text": "wearing a gray T-shirt with “Save the bees” written across it and brown pants",
+          "role_ja": "分詞構文（付帯状況）",
+          "literal_ja": "灰色のTシャツと茶色のズボンを着て",
+          "note_ja": "written across it は服のデザイン説明。"
+        },
+        {
+          "text": "and carrying a shoulder bag",
+          "role_ja": "分詞構文（並列）",
+          "literal_ja": "そしてショルダーバッグを持ち",
+          "note_ja": "shoulder bag は「ショルダーバッグ」。"
+        }
+      ],
+      "deep_dive_ja": "容姿描写は捜索記事の重要パート。分詞を並べて一文に圧縮するのがニュース英語の特徴。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "His last known location was on a path that leads to a hiking trail that goes into the mountainous forest region to the east of Kyoto City.",
+      "translation_ja": "彼が最後に確認された場所は、ハイキングコースへ続く道の上で、そのコースは京都市の東側の山岳森林地帯へ入っていく。",
+      "grammar_ja": "last known location（最後に確認された場所）、that 節の重ね掛け、to the east of（～の東）。",
+      "chunks": [
+        {
+          "text": "His last known location",
+          "role_ja": "主語",
+          "literal_ja": "彼の最後に確認された位置",
+          "note_ja": "last known は行方不明事件のキーワード。"
+        },
+        {
+          "text": "was on a path",
+          "role_ja": "述語",
+          "literal_ja": "道の上だった",
+          "note_ja": "場所は on a path。"
+        },
+        {
+          "text": "that leads to a hiking trail",
+          "role_ja": "関係代名詞節1",
+          "literal_ja": "ハイキングコースへ続く",
+          "note_ja": "lead to は「～へ通じる」。"
+        },
+        {
+          "text": "that goes into the mountainous forest region to the east of Kyoto City",
+          "role_ja": "関係代名詞節2",
+          "literal_ja": "京都市の東の山岳森林地帯へ入っていく",
+          "note_ja": "mountainous forest region は「山岳森林地帯」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "At 8:29 p.m., Weston turned off location-sharing on his phone, something his mother said he has never done before in such situations.",
+      "translation_ja": "午後8時29分、ウェストンはスマホの位置情報共有をオフにした。母親によると、こうした状況で彼がそれをしたことは今まで一度もないという。",
+      "grammar_ja": "turn off（スイッチを切る）、something + 関係代名詞省略節（同格）、現在完了 has never done（経験）。",
+      "chunks": [
+        {
+          "text": "At 8:29 p.m., Weston turned off location-sharing on his phone",
+          "role_ja": "主節",
+          "literal_ja": "午後8時29分、ウェストンはスマホの位置情報共有をオフにした",
+          "note_ja": "turn off は電源・機能停止の句動詞。"
+        },
+        {
+          "text": "something his mother said",
+          "role_ja": "同格語",
+          "literal_ja": "母親が言ったあること",
+          "note_ja": "something が後続節の内容を受ける。"
+        },
+        {
+          "text": "he has never done before in such situations",
+          "role_ja": "関係代名詞節（that 省略）",
+          "literal_ja": "彼がこうした状況で今まで一度もしたことのない",
+          "note_ja": "never ... before は「今まで一度も～ない」。"
+        }
+      ],
+      "deep_dive_ja": "something his mother said he has never done は難度の高い同格構文。関係代名詞 that が2箇所省略されている点に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Examination of his location data prior to disconnecting also shows that Weston visited a home supplies store at some point after leaving the hotel.",
+      "translation_ja": "切断前の位置情報を調べた結果、ウェストンがホテルを出た後のどこかの時点でホームセンター的な店を訪れていたこともわかった。",
+      "grammar_ja": "Examination of...（名詞化）、prior to + 動名詞、that 節、at some point（ある時点で）。",
+      "chunks": [
+        {
+          "text": "Examination of his location data prior to disconnecting",
+          "role_ja": "主語",
+          "literal_ja": "切断前の彼の位置情報の調査は",
+          "note_ja": "prior to = before のフォーマルな言い換え。"
+        },
+        {
+          "text": "also shows that",
+          "role_ja": "述語",
+          "literal_ja": "また～ということを示している",
+          "note_ja": "also は追加情報の導入。"
+        },
+        {
+          "text": "Weston visited a home supplies store",
+          "role_ja": "that 節の内容",
+          "literal_ja": "ウェストンがホームセンターを訪れた",
+          "note_ja": "home supplies store は日用品・DIY店。"
+        },
+        {
+          "text": "at some point after leaving the hotel",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "ホテルを出た後のある時点で",
+          "note_ja": "at some point は正確な時刻不明のときに使う。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "By 2 a.m., Weston had not returned to the hotel or contacted his family, so they reported him as missing to the police.",
+      "translation_ja": "午前2時までにウェストンはホテルに戻らず、家族にも連絡しなかったため、家族は警察に彼の失踪を届け出た。",
+      "grammar_ja": "By 2 a.m. + 過去完了（その時までに～していなかった）、so（結果）、report ... as missing（～を行方不明として届け出る）。",
+      "chunks": [
+        {
+          "text": "By 2 a.m., Weston had not returned to the hotel or contacted his family",
+          "role_ja": "主節",
+          "literal_ja": "午前2時までにウェストンはホテルに戻っておらず家族にも連絡していなかった",
+          "note_ja": "過去完了は過去のある時点までの状態を表す。"
+        },
+        {
+          "text": "so they reported him as missing to the police",
+          "role_ja": "結果節",
+          "literal_ja": "そこで彼らは警察に彼を行方不明者として届け出た",
+          "note_ja": "report A as B は公式届出の表現。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "According to his family, Weston is an experienced outdoorsman and international traveler, having solo hiked in Europe, and the family often hikes, mountain bikes and river rafts together. “It’s not unusual for Weston to blow off steam going to the woods and just exploring,” his mother, Nancy, said. “That’s his happy place.”",
+      "translation_ja": "家族によると、ウェストンは経験豊富なアウトドア愛好家で国際的な旅慣れもあり、ヨーロッパで単独ハイキングをしたこともある。家族はよく一緒にハイキングやマウンテンバイク、川下りを楽しんでいる。母のナンシーは「ウェストンが森に行って探索してストレスを発散するのは珍しいことじゃない。あそこが彼の居心地のいい場所なの」と話した。",
+      "grammar_ja": "According to（情報源）、having solo hiked（分詞完了形で経験）、It’s not unusual for A to B（形式主語）、blow off steam（慣用句）、happy place（口語的比喩）。",
+      "chunks": [
+        {
+          "text": "According to his family",
+          "role_ja": "根拠の前置詞句",
+          "literal_ja": "家族によると",
+          "note_ja": "発言・情報の出所を示す。"
+        },
+        {
+          "text": "Weston is an experienced outdoorsman and international traveler",
+          "role_ja": "主節",
+          "literal_ja": "ウェストンは経験豊富なアウトドアマンで国際的な旅行者だ",
+          "note_ja": "outdoorsman は「アウトドアに強い人」。"
+        },
+        {
+          "text": "having solo hiked in Europe",
+          "role_ja": "分詞構文（付加説明）",
+          "literal_ja": "ヨーロッパで単独ハイキングをしたことがあり",
+          "note_ja": "having + 過去分詞で先行経験を簡潔に述べる。"
+        },
+        {
+          "text": "It’s not unusual for Weston to blow off steam going to the woods and just exploring",
+          "role_ja": "直接引用（母親の発言）",
+          "literal_ja": "ウェストンが森へ行って探索してストレスを発散するのは珍しくない",
+          "note_ja": "blow off steam は「ストレスを発散する」。"
+        },
+        {
+          "text": "That’s his happy place",
+          "role_ja": "直接引用（続き）",
+          "literal_ja": "そこが彼の居心地のいい場所だ",
+          "note_ja": "happy place は心理的に安心できる場所の口語。"
+        }
+      ],
+      "deep_dive_ja": "家族の証言で人物像を補強する段落。口語引用と説明文が混在するため、引用符内は会話調、外は報道調として読み分ける。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "As such, she remains optimistic that her son has simply gotten lost and can be safely rescued, but a powerful storm that passed through the area earlier this week means conditions were likely more dangerous than usual.",
+      "translation_ja": "そのため母親は、息子が単に道に迷っただけで無事に救助されるだろうと楽観的な姿勢を保っている。ただし今週初めにこの地域を通過した強い嵐のため、状況はいつもより危険だった可能性が高い。",
+      "grammar_ja": "As such（その結果として）、remains optimistic that...、has gotten lost（現在完了）、means + 節、more dangerous than usual（比較級）。",
+      "chunks": [
+        {
+          "text": "As such, she remains optimistic",
+          "role_ja": "主節（前半）",
+          "literal_ja": "そのため彼女は楽観的なままだ",
+          "note_ja": "remain + 形容詞＝状態を維持する。"
+        },
+        {
+          "text": "that her son has simply gotten lost and can be safely rescued",
+          "role_ja": "that 節（内容）",
+          "literal_ja": "息子が単に迷っただけで安全に救助できると",
+          "note_ja": "simply は「ただ～だけ」と状況を軽く見るニュアンス。"
+        },
+        {
+          "text": "but a powerful storm that passed through the area earlier this week",
+          "role_ja": "対比の主語",
+          "literal_ja": "しかし今週初めにこの地域を通過した強い嵐は",
+          "note_ja": "pass through は「通過する」。"
+        },
+        {
+          "text": "means conditions were likely more dangerous than usual",
+          "role_ja": "述語節",
+          "literal_ja": "状況はいつもより危険だった可能性が高いことを意味する",
+          "note_ja": "likely は推量の副詞。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Japanese online reactions to the family’s plight have included:",
+      "translation_ja": "この家族の窮状に対する日本のネット上の反応には、次のようなものがある。",
+      "grammar_ja": "reactions to（～への反応）、plight（窮状・苦境）、have included（これまでに含まれてきた＝例示の導入）。",
+      "chunks": [
+        {
+          "text": "Japanese online reactions to the family’s plight",
+          "role_ja": "主語",
+          "literal_ja": "家族の窮状への日本のネット上の反応は",
+          "note_ja": "plight は困った状況を表すやや硬い語。"
+        },
+        {
+          "text": "have included",
+          "role_ja": "述語",
+          "literal_ja": "次を含んできた",
+          "note_ja": "コロンで具体例が続く導入句。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“Please let him have been taken in by some kind countryside family that’s been feeding him good food all this time.”",
+      "translation_ja": "「どこかの田舎のご家族に拾ってもらって、ずっとおいしいものを食べさせてもらっていることになっていてほしい。」",
+      "grammar_ja": "Please let him have been...（願望の仮定法的新用法）、take in（世話に入れる）、that's been feeding（現在完了進行）。",
+      "chunks": [
+        {
+          "text": "Please let him have been taken in",
+          "role_ja": "願望の主節",
+          "literal_ja": "彼が拾われていることになっていてほしい",
+          "note_ja": "ネットの祈願的・半ユーモラスな言い方。"
+        },
+        {
+          "text": "by some kind countryside family",
+          "role_ja": "行為者",
+          "literal_ja": "どこかの田舎の家族に",
+          "note_ja": "some kind of の口語的省略 some kind。"
+        },
+        {
+          "text": "that’s been feeding him good food all this time",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "ずっと彼においしい食事を与えてきた",
+          "note_ja": "all this time は「ずっとこの間」。"
+        }
+      ],
+      "deep_dive_ja": "SNS引用は文法が口語的・願望的。let + 完了形は教科書的でないが、ネット英語では祈願として理解できる。",
+      "difficulty": "hard",
+      "sentence_id": "s014"
+    },
+    {
+      "text": "“I work as a delivery driver, so I’ll be sure to keep an eye out for him.”",
+      "translation_ja": "「配達ドライバーをしているので、彼を見かけたら必ず気にかけて見ます。」",
+      "grammar_ja": "work as（職業）、so（結果）、be sure to（必ず～する）、keep an eye out for（～に目を光らせる）。",
+      "chunks": [
+        {
+          "text": "I work as a delivery driver",
+          "role_ja": "主節（理由）",
+          "literal_ja": "私は配達ドライバーとして働いている",
+          "note_ja": "work as + 職種。"
+        },
+        {
+          "text": "so I’ll be sure to keep an eye out for him",
+          "role_ja": "結果節",
+          "literal_ja": "だから必ず彼を見張っておく",
+          "note_ja": "keep an eye out for は「～を探して注意する」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“Hoping he makes it back with a simply ‘Sorry!",
+      "translation_ja": "「ただ『ごめん、迷っちゃった』と言って無事に戻ってきてくれることを願っています。」（原文は途中で切れている）",
+      "grammar_ja": "省略見出し的な引用。Hoping + 節（主語 I の省略）、make it back（無事戻る）。simply は副詞で「ただ～だけ」。",
+      "chunks": [
+        {
+          "text": "Hoping he makes it back",
+          "role_ja": "分詞構文（願望・省略）",
+          "literal_ja": "彼が無事戻ってくることを願って",
+          "note_ja": "I'm hoping の省略形として読む。"
+        },
+        {
+          "text": "with a simply ‘Sorry!",
+          "role_ja": "付帯状況",
+          "literal_ja": "ただ『ごめん』と言って",
+          "note_ja": "原文は引用が未完。完全形は with a simple 'Sorry! Got lost.' と推定される。"
+        }
+      ],
+      "deep_dive_ja": "入力文は途中で切れているが、ネットでは「軽い謝罪一句で帰還」を願うユーモアとして読まれる。",
+      "difficulty": "medium",
+      "sentence_id": "s016"
+    },
+    {
+      "text": "At the time that he went missing, Weston is believed to have had around 10,000 yen in cash on him, and none of his credit cards have been used since he was last seen.",
+      "translation_ja": "行方不明になった当時、ウェストンは現金1万円ほどを持っていたとみられ、最後に目撃されて以降、クレジットカードの利用は一度もない。",
+      "grammar_ja": "is believed to have had（伝聞・推定の完了形）、on him（身に着けて）、since he was last seen（それ以来）。",
+      "chunks": [
+        {
+          "text": "At the time that he went missing",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "彼が行方不明になった当時",
+          "note_ja": "at the time that = when の硬い言い換え。"
+        },
+        {
+          "text": "Weston is believed to have had around 10,000 yen in cash on him",
+          "role_ja": "主節1",
+          "literal_ja": "ウェストンは現金1万円ほどを持っていたと考えられる",
+          "note_ja": "be believed to have + 過去分詞は過去の推定。"
+        },
+        {
+          "text": "and none of his credit cards have been used",
+          "role_ja": "主節2",
+          "literal_ja": "そして彼のクレカは一切使われていない",
+          "note_ja": "none of + 複数名詞。"
+        },
+        {
+          "text": "since he was last seen",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "最後に目撃されて以来",
+          "note_ja": "捜査報道で犯行・事故の有無を示す手がかりとしてよく出る。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "With no signs of foul play, the police are treating the situation as a missing person case, and have deployed helicopters and police dogs in the search, and Japanese volunteer groups have been pitching in as well, but so far, no sign of him has been seen.",
+      "translation_ja": "犯行の形跡はないため、警察はこの事案を行方不明者事件として扱い、捜索にヘリコプターと警察犬を投入している。日本のボランティア団体も協力しているが、今のところ彼の痕跡は見つかっていない。",
+      "grammar_ja": "With no signs of...（理由の前置詞句）、treat A as B、have deployed（現在完了）、pitch in（協力する）、so far（今のところ）。",
+      "chunks": [
+        {
+          "text": "With no signs of foul play",
+          "role_ja": "理由の前置詞句",
+          "literal_ja": "犯行の形跡がないまま",
+          "note_ja": "foul play は「他害・事件性」。"
+        },
+        {
+          "text": "the police are treating the situation as a missing person case",
+          "role_ja": "主節1",
+          "literal_ja": "警察は状況を行方不明者案件として扱っている",
+          "note_ja": "treat as は公式な位置づけの表現。"
+        },
+        {
+          "text": "and have deployed helicopters and police dogs in the search",
+          "role_ja": "主節2",
+          "literal_ja": "そして捜索にヘリと警察犬を投入した",
+          "note_ja": "deploy は資源投入の硬い動詞。"
+        },
+        {
+          "text": "Japanese volunteer groups have been pitching in as well",
+          "role_ja": "主節3",
+          "literal_ja": "日本のボランティア団体も協力している",
+          "note_ja": "pitch in は口語的だが報道でも使われる。"
+        },
+        {
+          "text": "but so far, no sign of him has been seen",
+          "role_ja": "対比の主節",
+          "literal_ja": "しかし今のところ彼の形跡は見つかっていない",
+          "note_ja": "so far は進行中の状況報告。"
+        }
+      ],
+      "deep_dive_ja": "事件性の否定・捜索手段・協力・現状の四要素を and/but で一気にまとめる締めの段落。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "Source: Teleasa News, CNN, CBS, YouTube/ANNnewsCH",
+      "translation_ja": "出典：Teleasa News、CNN、CBS、YouTube/ANNnewsCH",
+      "grammar_ja": "出典表記。コロンで媒体名を列挙。",
+      "chunks": [
+        {
+          "text": "Source:",
+          "role_ja": "ラベル",
+          "literal_ja": "出典：",
+          "note_ja": "記事末尾の引用元表示。"
+        },
+        {
+          "text": "Teleasa News, CNN, CBS, YouTube/ANNnewsCH",
+          "role_ja": "情報源の列挙",
+          "literal_ja": "テレ朝ニュース、CNN、CBS、YouTube/ANNnewsCH",
+          "note_ja": "複数メディアの統合報道を示す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- Body of missing foreign tourist in Japan found floating off coast of town he was last seen in",
+      "translation_ja": "― 日本で行方不明だった外国人観光客の遺体が、最後に目撃された町の沖で浮かんでいるのが見つかる",
+      "grammar_ja": "関連記事見出し。found + 現在分詞 floating（発見時の状態）、he was last seen in（関係副詞 where 相当の省略）。",
+      "chunks": [
+        {
+          "text": "Body of missing foreign tourist in Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本で行方不明だった外国人観光客の遺体が",
+          "note_ja": "body はここでは「遺体」。"
+        },
+        {
+          "text": "found floating off coast of town he was last seen in",
+          "role_ja": "述語（受動）",
+          "literal_ja": "最後に目撃された町の沖で浮かんでいるのが見つかった",
+          "note_ja": "関連リンク見出しの圧縮構文。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- Kyoto family’s cat, missing for half a year, returns home after Osaka earthquake",
+      "translation_ja": "― 半年間行方不明だった京都の一家の猫が、大阪地震の後に帰宅",
+      "grammar_ja": "同格形容詞句 missing for half a year、returns home（帰宅する）。",
+      "chunks": [
+        {
+          "text": "Kyoto family’s cat, missing for half a year",
+          "role_ja": "主語",
+          "literal_ja": "半年間行方不明だった京都の家族の猫が",
+          "note_ja": "カンマ挿入句で背景情報を追加。"
+        },
+        {
+          "text": "returns home after Osaka earthquake",
+          "role_ja": "述語",
+          "literal_ja": "大阪地震の後に家に戻った",
+          "note_ja": "returns home は動物の帰宅記事でよく使う。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- Names of 10 Kyoto Animation arson victims released, family and friends offer words of remembrance",
+      "translation_ja": "― 京都アニメーション放火事件の犠牲者10人の名前が公開され、家族や友人が追悼の言葉を捧げる",
+      "grammar_ja": "見出しの並列構文。released（公開された）と offer（捧げる）が主述語。words of remembrance は追悼の言葉。",
+      "chunks": [
+        {
+          "text": "Names of 10 Kyoto Animation arson victims released",
+          "role_ja": "主節1（受動）",
+          "literal_ja": "京都アニメ放火の犠牲者10人の名前が公開された",
+          "note_ja": "見出しでは be 動詞が省略されることが多い。"
+        },
+        {
+          "text": "family and friends offer words of remembrance",
+          "role_ja": "主節2",
+          "literal_ja": "家族と友人が追悼の言葉を捧げる",
+          "note_ja": "offer words of ... は公式・報道的な言い回し。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "go missing",
+      "pronunciation": "/ɡoʊ ˈmɪsɪŋ/",
+      "meaning_ja": "行方不明になる",
+      "example": "who went missing in Kyoto",
+      "example_ja": "京都で行方不明になった",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "opt to",
+      "pronunciation": "/ɒpt tuː/",
+      "meaning_ja": "～することを選ぶ",
+      "example": "instead opting to sightsee on his own",
+      "example_ja": "代わりに一人で観光することを選び",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "last known location",
+      "pronunciation": "/læst nəʊn ˌloʊˈkeɪʃn/",
+      "meaning_ja": "最後に確認された場所",
+      "example": "His last known location was on a path",
+      "example_ja": "彼が最後に確認された場所は道の上だった",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "blow off steam",
+      "pronunciation": "/bloʊ ɒf stiːm/",
+      "meaning_ja": "ストレスを発散する",
+      "example": "Weston to blow off steam going to the woods",
+      "example_ja": "ウェストンが森に行ってストレスを発散する",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "foul play",
+      "pronunciation": "/faʊl pleɪ/",
+      "meaning_ja": "犯行・他害の疑い",
+      "example": "With no signs of foul play",
+      "example_ja": "犯行の形跡はないが",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "pitch in",
+      "pronunciation": "/pɪtʃ ɪn/",
+      "meaning_ja": "協力する、手を貸す",
+      "example": "volunteer groups have been pitching in",
+      "example_ja": "ボランティア団体が協力している",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "keep an eye out for",
+      "pronunciation": "/kiːp ən aɪ aʊt fɔːr/",
+      "meaning_ja": "～を見かけないか注意する",
+      "example": "I'll be sure to keep an eye out for him",
+      "example_ja": "彼を見かけたら必ず気にかけます",
+      "source_sentence_id": "s015"
+    },
+    {
+      "word": "plight",
+      "pronunciation": "/plaɪt/",
+      "meaning_ja": "窮状、苦しい状況",
+      "example": "reactions to the family's plight",
+      "example_ja": "家族の窮状への反応",
+      "source_sentence_id": "s013"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reduced-relative-participles",
+      "title": "Reduced relative clauses with participles",
+      "rule": "Use -ing or -ed participles after a noun to replace a full relative clause (who/which/that ...).",
+      "example": "He can be seen on security cameras leaving Yamashina Station, wearing a gray T-shirt.",
+      "meaning_ja": "関係代名詞節を分詞に短縮し、動作や状態を名詞に付加する用法。ニュースでは人物の行動・服装を一文に圧縮するために頻出。"
+    },
+    {
+      "id": "passive-reporting-structure",
+      "title": "Passive reporting structures (is believed / is reported / can be seen)",
+      "rule": "Use passive + reporting verb to present information cautiously or objectively.",
+      "example": "Weston is believed to have had around 10,000 yen in cash on him.",
+      "meaning_ja": "「～とみられる」「～と報じられている」のように、情報源や確実性をやわらげる受動の報道構文。捜査・事件記事で非常に多い。"
+    },
+    {
+      "id": "perfect-for-duration-since",
+      "title": "Present perfect with since / for / in",
+      "rule": "Use present perfect to connect a past event to the present, especially with since, for, or in + time period.",
+      "example": "He hasn't been seen in a week.",
+      "meaning_ja": "過去から現在へのつながりを表す現在完了。since（起点）、for（期間）、in a week（ここ1週間）など時間表現との組み合わせが重要。"
+    },
+    {
+      "id": "with-prepositional-reason",
+      "title": "With + noun phrase for background reason",
+      "rule": "With + noun phrase can introduce a reason or circumstance at the start of a sentence.",
+      "example": "With no signs of foul play, the police are treating the situation as a missing person case.",
+      "meaning_ja": "文頭の With 句で「～という状況で／～なので」という背景理由を示す。Because より簡潔で、報道文の導入に向く。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 22,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:41:06+09:00"
+  },
+  "article_id": "japantoday:2026-06-05:american-college-student-missing-in-kyot"
+}

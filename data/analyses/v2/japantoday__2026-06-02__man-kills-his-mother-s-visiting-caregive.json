@@ -1,0 +1,453 @@
+{
+  "summary_ja": "埼玉県川口市の60歳男性が月曜日、母親の訪問介護士を殺害したと110番に通報し、その後自分も自殺すると告げた。警察が到着した際、介護士の鈴木清子さん（63）は首の刺し傷で死亡し、男性も喉を切って死亡していた。男性は母親の口座からお金がなくなったことで介護士を責めていたが、警察は詐欺の証拠を見つけていない。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "A 60-year-old man living in Kawaguchi, Saitama Prefecture, called 110 on Monday and said he had killed his 90-year-old mother’s visiting caregiver and then said he was going to kill himself.",
+      "translation_ja": "埼玉県川口市に住む60歳の男性が月曜日110番に電話し、90歳の母親の訪問介護士を殺害したと述べ、その後自分も自殺するつもりだと言った。",
+      "grammar_ja": "過去完了（had killed）で通報時点より前の行為を表す。living in ... は名詞を後ろから修飾する分詞構文。and said ... and then said ... で二つの発言内容を並列。",
+      "chunks": [
+        {
+          "text": "A 60-year-old man",
+          "role_ja": "主語",
+          "literal_ja": "60歳の男性が",
+          "note_ja": "年齢＋名詞の形容詞的用法。ニュースでは人物紹介の定番パターン。"
+        },
+        {
+          "text": "living in Kawaguchi, Saitama Prefecture",
+          "role_ja": "主語を修飾する分詞句",
+          "literal_ja": "埼玉県川口市に住んでいる",
+          "note_ja": "who lives in ... の分詞短縮形。関係代名詞節の簡潔な書き方。"
+        },
+        {
+          "text": "called 110 on Monday",
+          "role_ja": "述語（第1部）",
+          "literal_ja": "月曜日に110番に電話した",
+          "note_ja": "日本の緊急通報番号110をそのまま使う報道表現。"
+        },
+        {
+          "text": "said he had killed his 90-year-old mother’s visiting caregiver",
+          "role_ja": "述語（第2部）・間接話法",
+          "literal_ja": "90歳の母親の訪問介護士を殺したと言った",
+          "note_ja": "had killed は通報より前に起きた殺害を示す。visiting caregiver は訪問介護士。"
+        },
+        {
+          "text": "and then said he was going to kill himself",
+          "role_ja": "述語（第3部）",
+          "literal_ja": "そして自分を殺すつもりだと言った",
+          "note_ja": "was going to で直前の意図・予定を表す。then で時系列を示す。"
+        }
+      ],
+      "deep_dive_ja": "見出しと同じ情報を時系列でまとめた導入文。犯罪記事では年齢・地名・通報番号を先に置き、事実を客観的に積み上げる書き出しが典型です。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Police said the caregiver, Kiyoko Suzuki, 63, was scheduled to visit the man’s mother at 3 p.m., Kyodo News reported.",
+      "translation_ja": "警察によると、介護士の鈴木清子さん（63）は午後3時にその男性の母親を訪問する予定だったと、共同通信が報じた。",
+      "grammar_ja": "二重の報道構文：Police said ... , Kyodo News reported. 受動態 was scheduled to で予定を表す。カンマで挿入された固有名・年齢は同格。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節の主語・述語",
+          "literal_ja": "警察は述べた",
+          "note_ja": "報道文の定番フレーム。内容は that 省略の名詞節。"
+        },
+        {
+          "text": "the caregiver, Kiyoko Suzuki, 63",
+          "role_ja": "名詞節の主語（同格）",
+          "literal_ja": "介護士、鈴木清子、63歳",
+          "note_ja": "カンマで名前と年齢を挟む同格用法。日本語では括弧表記に置き換えられる。"
+        },
+        {
+          "text": "was scheduled to visit the man’s mother at 3 p.m.",
+          "role_ja": "名詞節の述語",
+          "literal_ja": "午後3時にその男性の母親を訪問する予定だった",
+          "note_ja": "be scheduled to + 動詞原形＝〜する予定である。"
+        },
+        {
+          "text": "Kyodo News reported",
+          "role_ja": "文末の出典表記",
+          "literal_ja": "共同通信が報じた",
+          "note_ja": "英語報道で情報源を文末に置く慣習。"
+        }
+      ],
+      "deep_dive_ja": "日本語記事なら「共同通信によると」が先に来ることも多いが、英語では主張と出典を文の両端に分ける書き方がよく見られます。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Shortly after 3 p.m., the man called police and said, \"I stabbed a female caregiver with a knife.",
+      "translation_ja": "午後3時過ぎまもなく、男性は警察に電話し、「ナイフで女性の介護士を刺した」と言った。",
+      "grammar_ja": "Shortly after で時間の直後を示す。直接話法で発言を引用。過去形 stabbed は通報時点の直前の行為。",
+      "chunks": [
+        {
+          "text": "Shortly after 3 p.m.",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "午後3時の直後に",
+          "note_ja": "shortly after は「まもなく」「少し後」というニュース的な時間表現。"
+        },
+        {
+          "text": "the man called police",
+          "role_ja": "主語・述語",
+          "literal_ja": "男性は警察に電話した",
+          "note_ja": "called the police より the なしも自然。"
+        },
+        {
+          "text": "and said",
+          "role_ja": "述語の並列",
+          "literal_ja": "そして言った",
+          "note_ja": "発言内容が続く合図。"
+        },
+        {
+          "text": "I stabbed a female caregiver with a knife",
+          "role_ja": "直接話法の引用文",
+          "literal_ja": "私はナイフで女性の介護士を刺した",
+          "note_ja": "stab ... with a knife は「ナイフで刺す」のコロケーション。"
+        }
+      ],
+      "deep_dive_ja": "引用符の中は犯人の生の言葉を再現するため、簡潔な一人称・過去形になる。次の文と一続きの発言です。",
+      "difficulty": "easy",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Now I'm going to stab myself.”",
+      "translation_ja": "「今から自分を刺す。」",
+      "grammar_ja": "be going to で直後の意図を表す現在形。Now で通話の「今この瞬間」を強調。",
+      "chunks": [
+        {
+          "text": "Now",
+          "role_ja": "副詞",
+          "literal_ja": "今",
+          "note_ja": "通話中の緊迫した「これから」を示す。"
+        },
+        {
+          "text": "I'm going to stab myself",
+          "role_ja": "述語",
+          "literal_ja": "私は自分を刺すつもりだ",
+          "note_ja": "going to は意図・直近の予定。myself は再帰代名詞。"
+        }
+      ],
+      "deep_dive_ja": "前の文と合わせて一つの通報内容。短い文でも引用符と句読点の位置に注意。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "When police arrived at the house, they found Suzuki bleeding from a knife wound to her neck.",
+      "translation_ja": "警察がその家に到着したとき、鈴木さんが首のナイフ傷から出血しているのを発見した。",
+      "grammar_ja": "When節で時間背景。find + 目的語 + 現在分詞（bleeding）で「〜しているのを見つける」という知覚の構文。",
+      "chunks": [
+        {
+          "text": "When police arrived at the house",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "警察がその家に到着したとき",
+          "note_ja": "when + 過去形で同時・直後の状況設定。"
+        },
+        {
+          "text": "they found Suzuki",
+          "role_ja": "主節の主語・述語・目的語",
+          "literal_ja": "彼らは鈴木を発見した",
+          "note_ja": "find は discover のニュース向けの直接的な動詞。"
+        },
+        {
+          "text": "bleeding from a knife wound to her neck",
+          "role_ja": "目的語補語（現在分詞句）",
+          "literal_ja": "首のナイフ傷から出血している",
+          "note_ja": "wound to her neck＝首への傷。a knife wound は刺し傷。"
+        }
+      ],
+      "deep_dive_ja": "find + O + -ing は「発見したときその状態だった」ことを示す。被害状況描写でよく使われます。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "She was taken to hospital where she was pronounced dead.",
+      "translation_ja": "彼女は病院に搬送されたが、そこで死亡が確認された。",
+      "grammar_ja": "二重の受動態。where は関係副詞で hospital を修飾。be pronounced dead は報道・医療の定型表現。",
+      "chunks": [
+        {
+          "text": "She was taken to hospital",
+          "role_ja": "主語・受動態の述語",
+          "literal_ja": "彼女は病院に運ばれた",
+          "note_ja": "take to hospital＝病院へ搬送する。英国英語では the なしも可。"
+        },
+        {
+          "text": "where she was pronounced dead",
+          "role_ja": "関係副詞節",
+          "literal_ja": "そこで彼女は死亡したと宣告された",
+          "note_ja": "pronounce dead＝死亡を確認・宣告する公式な言い方。"
+        }
+      ],
+      "deep_dive_ja": "日本語では「死亡した」と一語で済ませるが、英語報道では was pronounced dead と受動態で客観性を保つ。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The man, believed to be the resident who called police, was also found after having apparently cut his own throat.",
+      "translation_ja": "警察に電話した住人とみられる男性も、どうやら自分の喉を切った後に発見された。",
+      "grammar_ja": "believed to be ... は挿入の過去分詞句。after having + 過去分詞で、その前に完了した行為。apparently で推定を示す。",
+      "chunks": [
+        {
+          "text": "The man",
+          "role_ja": "主語",
+          "literal_ja": "その男性",
+          "note_ja": "前文の人物を受ける。"
+        },
+        {
+          "text": "believed to be the resident who called police",
+          "role_ja": "主語を補足する過去分詞句",
+          "literal_ja": "警察に電話した住人と考えられる",
+          "note_ja": "believe O to be ... の受動・分詞短縮。who called police は関係代名詞節。"
+        },
+        {
+          "text": "was also found",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "も発見された",
+          "note_ja": "also で介護士に続く発見を示す。"
+        },
+        {
+          "text": "after having apparently cut his own throat",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "どうやら自分の喉を切った後に",
+          "note_ja": "having cut は cut の完了。apparently＝見たところ〜したようだ。"
+        }
+      ],
+      "deep_dive_ja": "情報を一文に圧縮する高度な構文。日本語訳では「とみられる」を主語近くに置くと読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "He was pronounced dead at hospital.",
+      "translation_ja": "男性も病院で死亡が確認された。",
+      "grammar_ja": "受動態の短い結果文。前の複雑な文の後に簡潔な確認文が続くのは報道のリズム。",
+      "chunks": [
+        {
+          "text": "He",
+          "role_ja": "主語",
+          "literal_ja": "彼は",
+          "note_ja": "直前の the man を受ける。"
+        },
+        {
+          "text": "was pronounced dead at hospital",
+          "role_ja": "述語",
+          "literal_ja": "病院で死亡したと宣告された",
+          "note_ja": "被害者の文と対になる平行構造。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A bloodstained knife was found near the man.",
+      "translation_ja": "血のついたナイフが男性の近くで発見された。",
+      "grammar_ja": "受動態で証拠品を報告。形容詞 bloodstained は複合語。near the man＝その近くに。",
+      "chunks": [
+        {
+          "text": "A bloodstained knife",
+          "role_ja": "主語",
+          "literal_ja": "血のついたナイフが",
+          "note_ja": "bloodstained は blood + stained の合成形容詞。"
+        },
+        {
+          "text": "was found near the man",
+          "role_ja": "述語・場所の副詞句",
+          "literal_ja": "その男性の近くで発見された",
+          "note_ja": "物証の発見を簡潔に述べる犯罪記事の型。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The man’s elderly mother was not injured.",
+      "translation_ja": "男性の高齢の母親にけがはなかった。",
+      "grammar_ja": "受動態の否定で被害範囲を限定。elderly は polite な高齢の形容詞。",
+      "chunks": [
+        {
+          "text": "The man’s elderly mother",
+          "role_ja": "主語",
+          "literal_ja": "その男性の高齢の母親は",
+          "note_ja": "所有格＋形容詞＋名詞の語順。"
+        },
+        {
+          "text": "was not injured",
+          "role_ja": "述語（否定）",
+          "literal_ja": "けがをしていなかった",
+          "note_ja": "injure の受動態。事件記事で関係者の安否を示す一文。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Police said Tuesday they have learned that the man complained about money missing from his mother's bank account and that he blamed the caregiver who visited his mother twice a week.",
+      "translation_ja": "警察は火曜日、男性が母親の銀行口座からお金がなくなっていると訴え、週に2回母親を訪問していた介護士を責めていたことが分かったと述べた。",
+      "grammar_ja": "said Tuesday は報道日。have learned that ... で調査結果。complained about ... and that ... の並列。関係代名詞 who と twice a week。",
+      "chunks": [
+        {
+          "text": "Police said Tuesday",
+          "role_ja": "主節",
+          "literal_ja": "警察は火曜日述べた",
+          "note_ja": "said on Tuesday ではなく said Tuesday も報道でよく見る。"
+        },
+        {
+          "text": "they have learned that",
+          "role_ja": "名詞節の導入",
+          "literal_ja": "彼らは〜ということを知った",
+          "note_ja": "現在完了は調査で新たに判明したニュアンス。"
+        },
+        {
+          "text": "the man complained about money missing from his mother's bank account",
+          "role_ja": "learned の内容（第1節）",
+          "literal_ja": "男性は母親の銀行口座からなくなったお金について訴えた",
+          "note_ja": "money missing ... は「なくなったお金」という意味の分詞構文。"
+        },
+        {
+          "text": "and that he blamed the caregiver",
+          "role_ja": "learned の内容（第2節）",
+          "literal_ja": "そして彼が介護士を責めた",
+          "note_ja": "that 節の並列で二つの事実を接続。"
+        },
+        {
+          "text": "who visited his mother twice a week",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "週に2回彼の母親を訪問していた",
+          "note_ja": "twice a week＝週2回の頻度表現。"
+        }
+      ],
+      "deep_dive_ja": "動機を説明する後半の重要文。一文が長いので、訳すときは「訴えていた」「責めていた」と時制を揃えると自然です。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "Police said they have found no evidence of such fraud.",
+      "translation_ja": "警察は、そのような詐欺の証拠は見つかっていないと述べた。",
+      "grammar_ja": "have found no evidence＝not found any evidence と同義の否定。such fraud で直前の疑惑を受ける。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節",
+          "literal_ja": "警察は述べた",
+          "note_ja": "再び警察発表の枠組み。"
+        },
+        {
+          "text": "they have found no evidence of such fraud",
+          "role_ja": "名詞節",
+          "literal_ja": "彼らはそのような詐欺の証拠を全く見つけていない",
+          "note_ja": "no evidence of ...＝〜の証拠はない。such で前文の不正疑惑を指示。"
+        }
+      ],
+      "deep_dive_ja": "記事の締めくくりとして、男性の主張が事実と異なる可能性を示唆。否定の名詞 no evidence は報道でよく使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s012"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "visiting caregiver",
+      "pronunciation": "/ˈvɪzɪtɪŋ ˈkeəɡɪvər/",
+      "meaning_ja": "訪問介護士・訪問介護者",
+      "example": "his mother's visiting caregiver",
+      "example_ja": "母親の訪問介護士",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "stab",
+      "pronunciation": "/stæb/",
+      "meaning_ja": "（刃物で）刺す",
+      "example": "I stabbed a female caregiver with a knife.",
+      "example_ja": "ナイフで女性の介護士を刺した。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "pronounce dead",
+      "pronunciation": "/prəˈnaʊns ded/",
+      "meaning_ja": "死亡を確認する・死亡宣告する",
+      "example": "She was pronounced dead at hospital.",
+      "example_ja": "病院で死亡が確認された。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "bloodstained",
+      "pronunciation": "/ˈblʌdsteɪnd/",
+      "meaning_ja": "血のついた",
+      "example": "A bloodstained knife was found near the man.",
+      "example_ja": "血のついたナイフが男性の近くで発見された。",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "complain about",
+      "pronunciation": "/kəmˈpleɪn əˈbaʊt/",
+      "meaning_ja": "〜について訴える・不満を言う",
+      "example": "the man complained about money missing",
+      "example_ja": "男性がなくなったお金について訴えた",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "blame",
+      "pronunciation": "/bleɪm/",
+      "meaning_ja": "〜を責める",
+      "example": "he blamed the caregiver",
+      "example_ja": "彼は介護士を責めた",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "fraud",
+      "pronunciation": "/frɔːd/",
+      "meaning_ja": "詐欺・不正",
+      "example": "no evidence of such fraud",
+      "example_ja": "そのような詐欺の証拠はない",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "scheduled to",
+      "pronunciation": "/ˈʃedjuːld tuː/",
+      "meaning_ja": "〜する予定である",
+      "example": "was scheduled to visit at 3 p.m.",
+      "example_ja": "午後3時に訪問する予定だった",
+      "source_sentence_id": "s002"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-past",
+      "title": "Indirect and direct reported speech",
+      "rule": "Use said (that) + clause for indirect speech; use quotation marks for exact words.",
+      "example": "He said he had killed the caregiver. / He said, \"I stabbed a female caregiver.\"",
+      "meaning_ja": "「〜と言った」は間接話法（時制のずれに注意）と直接話法（引用符内はそのまま）の両方が使われる。犯罪記事では犯人の言葉を直接引用することが多い。"
+    },
+    {
+      "id": "passive-news-style",
+      "title": "Passive voice in news writing",
+      "rule": "Passive focuses on what happened to people/things rather than who did it.",
+      "example": "She was taken to hospital. / A bloodstained knife was found.",
+      "meaning_ja": "受動態で客観的・非人格的な報道調にする。「誰が」より「何が起きたか」を前面に出す。"
+    },
+    {
+      "id": "participle-clauses",
+      "title": "Participial phrases (reduced relative clauses)",
+      "rule": "-ing/-ed phrases after nouns replace who/which clauses.",
+      "example": "a man living in Kawaguchi / Suzuki bleeding from a knife wound",
+      "meaning_ja": "名詞の後の分詞句は関係代名詞節の短縮。情報をコンパクトに積み増す報道文の重要パターン。"
+    },
+    {
+      "id": "perfect-for-sequence",
+      "title": "Past perfect and perfect participles for earlier actions",
+      "rule": "Had + past participle / having + past participle show an action before another past event.",
+      "example": "said he had killed ... / after having apparently cut his own throat",
+      "meaning_ja": "過去完了や having + 過去分詞で、通報・発見より前に起きた行為の順序を示す。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 12,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:19:48+09:00"
+  },
+  "article_id": "japantoday:2026-06-02:man-kills-his-mother-s-visiting-caregive"
+}

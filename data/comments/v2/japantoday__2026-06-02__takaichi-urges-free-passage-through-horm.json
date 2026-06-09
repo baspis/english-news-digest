@@ -1,0 +1,114 @@
+{
+  "article_id": "japantoday:2026-06-02:takaichi-urges-free-passage-through-horm",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:17:12+09:00",
+  "fetched_at": "2026-06-09T22:20:42+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "The best Japan can do is to keep an open line with Iran and hope for the best. Iran did NOT start this war of choice the Zionists and their Neo Con partners did.",
+      "translation_ja": "日本にできる最善のことは、イランとの連絡路を開いたままにして、うまくいくことを願うことだ。この「選択の戦争」を始めたのはイランではない。シオニストとそのネオコンの仲間たちだ。",
+      "notes_ja": [
+        "後半は \"Iran did NOT start... the Zionists... did\" と主語・動詞が分かれ、対比のために語順が崩れている。",
+        "NOT は大文字で強調。Neo Con は neoconservative（新保守主義）の口語的略称。"
+      ],
+      "standard_en": "Iran did NOT start this war of choice; the Zionists and their Neo Con partners did.",
+      "marked_terms": [
+        {
+          "term": "Zionists",
+          "symbol": "※",
+          "note_ja": "政治文脈では中立的な場合もあるが、反ユダヤ的な含意で使われることも多く、丁寧な会話では避けるのが無難。"
+        }
+      ],
+      "comment_id": 5222545,
+      "author": "WoodyLee",
+      "rating": 16,
+      "posted_at": "2026-06-02T08:35:51+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "It's not the Iranian president who wants to block the strait. It's the IRGC. The president seems to be just a puppet at this point.",
+      "translation_ja": "海峡を封鎖したいのはイラン大統領ではない。革命防衛隊（IRGC）だ。大統領は今のところ、ただの操り人形に見える。",
+      "notes_ja": [
+        "It's not X who... / It's Y の対比構文で、責任の所在をはっきりさせている。",
+        "at this point は「現時点では」「今のところ」という含み。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5222321,
+      "author": "fallaffel",
+      "rating": 14,
+      "posted_at": "2026-06-02T06:58:27+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "The problem in Iran is the president's authority isn't completely recognized by the IRGC, which usually answers absolutely to the old man in robes. The president may promise to everything, but it sadly wont assure that ships won't be harassed when they pass through.",
+      "translation_ja": "イランの問題は、大統領の権限が革命防衛隊に完全には認められていないことだ。防衛隊はふだんはローブを着た老人（最高指導者）に絶対服従する。大統領が何を約束しても、通過する船が嫌がらせを受けないとは残念ながら保証できない。",
+      "notes_ja": [
+        "promise to everything は promise everything の誤り。to が不要。",
+        "wont は won't の綴り省略。old man in robes は最高指導者への口語的・軽い言い方。"
+      ],
+      "standard_en": "The president may promise everything, but it sadly won't assure that ships won't be harassed when they pass through.",
+      "marked_terms": [],
+      "comment_id": 5222467,
+      "author": "Toshihiro",
+      "rating": 13,
+      "posted_at": "2026-06-02T07:57:38+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "I'm sure that will sway them (eyeroll)",
+      "translation_ja": "それで彼らの心は動くんでしょうね（白目）",
+      "notes_ja": [
+        "表面的には同意しているが、実際は「まさかそんなわけない」という皮肉。",
+        "(eyeroll) はネットスラングで、呆れ・軽蔑のジェスチャーを表す。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "(eyeroll)",
+          "symbol": "◇",
+          "note_ja": "オンラインでよく使う、呆れや皮肉を示す表現。"
+        }
+      ],
+      "comment_id": 5222291,
+      "author": "TaiwanIsNotChina",
+      "rating": 11,
+      "posted_at": "2026-06-02T06:51:50+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "IVOToday 01:56 pm JST how about to urge orange genius first and Bibi as well? why to start right in middle Takaichi san? No country can \"talk\" to Trump or Netanyahu. Dumb to even expect it.",
+      "translation_ja": "IVOToday 01:56 pm JST まずはオレンジの天才とビビにも働きかけたらどうだ？ なぜ真ん中から、高市さん？ どの国もトランプやネタニヤフに「話が通じる」わけがない。そんなことを期待するのはバカバカしい。",
+      "notes_ja": [
+        "how about to urge / why to start は口語的な省略・誤用。正しくは how about urging / why start in the middle。",
+        "文頭は別コメントへの返信形式。orange genius はトランプへの皮肉、Bibi はネタニヤフの俗称。"
+      ],
+      "standard_en": "How about urging the orange genius first and Bibi as well? Why start right in the middle, Takaichi san? No country can \"talk\" to Trump or Netanyahu. It's dumb to even expect it.",
+      "marked_terms": [
+        {
+          "term": "orange genius",
+          "symbol": "◇",
+          "note_ja": "トランプを皮肉って呼ぶネット上の俗称。公式・丁寧な場では使わない。"
+        },
+        {
+          "term": "Bibi",
+          "symbol": "◇",
+          "note_ja": "ネタニヤフの俗称。報道ではフルネームが一般的。"
+        },
+        {
+          "term": "Dumb",
+          "symbol": "※",
+          "note_ja": "人や考えを「バカだ」と断じる語。攻撃的に聞こえやすく、丁寧な英語では避ける。"
+        }
+      ],
+      "comment_id": 5223029,
+      "author": "OssanAmerica",
+      "rating": 9,
+      "posted_at": "2026-06-02T14:59:07+09:00"
+    }
+  ]
+}

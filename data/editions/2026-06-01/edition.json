@@ -1,0 +1,115 @@
+{
+  "edition_date": "2026-06-01",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-01",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-01:typhoon-expected-to-bring-heavy-rain-to-",
+    "japantoday:2026-06-01:bus-passenger-in-tokyo-suffers-minor-inj",
+    "japantoday:2026-06-01:japan-to-see-price-hikes-on-more-than-1-",
+    "japantoday:2026-06-01:koizumi-takes-veiled-swipe-at-china-at-s",
+    "japantoday:2026-06-01:iran-says-it-does-not-trust-u-s-as-trump",
+    "japantoday:2026-06-01:after-the-ai-binge-companies-balk-at-soa"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-01:typhoon-expected-to-bring-heavy-rain-to-",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/typhoon-jangmi-expected-to-bring-heavy-rain-to-western-eastern-japan",
+      "title": "Typhoon expected to bring heavy rain to western, eastern Japan",
+      "slug": "01-typhoon-expected-to-bring-heavy-rain-to-western-eastern-japan",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-01:bus-passenger-in-tokyo-suffers-minor-inj",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/bus-passenger-in-tokyo-suffers-minor-injuries-after-knife-attack-following-dispute",
+      "title": "Bus passenger in Tokyo suffers minor injuries after knife attack following dispute",
+      "slug": "02-bus-passenger-in-tokyo-suffers-minor-injuries-after-knife-attack-follo",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_14",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-01:japan-to-see-price-hikes-on-more-than-1-",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/Japan-to-see-price-hikes-on-more-than-1-000-food-and-beverage-items-in-June",
+      "title": "Japan to see price hikes on more than 1,000 food and beverage items in June",
+      "slug": "03-japan-to-see-price-hikes-on-more-than-1-000-food-and-beverage-items-in",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_41",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-01:koizumi-takes-veiled-swipe-at-china-at-s",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/japan-defence-chief-takes-swipe-at-china-at-security-meet",
+      "title": "Koizumi takes veiled swipe at China at security forum",
+      "slug": "04-koizumi-takes-veiled-swipe-at-china-at-security-forum",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_46",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-01:iran-says-it-does-not-trust-u-s-as-trump",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/trump-says-iran-has-agreed-to-no-nuclear-weapons",
+      "title": "Iran says it does not trust U.S. as Trump toughens terms",
+      "slug": "05-iran-says-it-does-not-trust-u-s-as-trump-toughens-terms",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_28",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-01:after-the-ai-binge-companies-balk-at-soa",
+      "edition_date": "2026-06-01",
+      "source_published_date_jst": "2026-06-01",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/after-the-ai-binge-companies-balk-at-soaring-bills",
+      "title": "After the AI binge, companies balk at soaring bills",
+      "slug": "06-after-the-ai-binge-companies-balk-at-soaring-bills",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_29",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T22:11:06+09:00",
+  "warnings": []
+}

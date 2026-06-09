@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-02:trump-is-facing-a-new-inflation-warning-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:17:12+09:00",
+  "fetched_at": "2026-06-09T22:44:28+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Trump has bankrupted six companies, and is in the process of bankrupting America. So much for the \"Art of the Deal\", Trump as a person is a complete failure for America and the world,",
+      "translation_ja": "トランプは六つの会社を破産させ、今はアメリカを破産させる途中だ。「ディールの技術」どころか、トランプ個人としてはアメリカにも世界にも完全な失敗作だ。",
+      "notes_ja": [
+        "So much for ... は「〜どころか／〜はおしまい」という皮肉めいた慣用表現。",
+        "末尾のカンマのあと文が切れている（書き言葉としてはやや未完成）。"
+      ],
+      "standard_en": "Trump has bankrupted six companies and is in the process of bankrupting America. So much for The Art of the Deal—Trump as a person is a complete failure for America and the world.",
+      "marked_terms": [],
+      "comment_id": 5222572,
+      "author": "Michael Hooper",
+      "rating": 11,
+      "posted_at": "2026-06-02T08:51:45+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Fraudulent spending? You mean even after DOGE couldn’t find the money somehow Vance will? Republicans are the biggest spenders and they gut revenue at the same time. How is that fiscal conservativism?",
+      "translation_ja": "不正な支出？つまり、ドージがどうにかして金を見つけられなかったあと、今度はベンスが見つけるってこと？共和党は最大の支出派なのに、同時に歳入も根こそぎ削る。それがどうやって財政保守主義なの？",
+      "notes_ja": [
+        "even after ... somehow Vance will? は口語的で、主語・動詞が省略された疑問文。",
+        "conservativism は conservatism の綴りミス。"
+      ],
+      "standard_en": "Fraudulent spending? You mean that even after DOGE couldn't find the money, Vance somehow will? Republicans are the biggest spenders, and they gut revenue at the same time. How is that fiscal conservatism?",
+      "marked_terms": [
+        {
+          "term": "gut",
+          "symbol": "◇",
+          "note_ja": "ここでは「（歳入などを）根こそぎ削る」の口語・強い言い方。日常会話では使うが、フォーマルな文章では避けがち。"
+        }
+      ],
+      "comment_id": 5222503,
+      "author": "Namorada",
+      "rating": 10,
+      "posted_at": "2026-06-02T08:12:32+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Trump will definitely go down in history. And it definitely won't be in any way positive",
+      "translation_ja": "トランプは間違いなく歴史に名を残す。そしてそれは間違いなく、どんな意味でも前向きなものにはならない。",
+      "notes_ja": [
+        "二文に分けて皮肉を強調している。",
+        "末尾にピリオドがない（口語的な書き方）。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223026,
+      "author": "buchailldana",
+      "rating": 6,
+      "posted_at": "2026-06-02T14:55:32+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "“If he does really great, we’ll have a balanced budget without having to do anything,” Trump said. Total nonsense. Either he has no idea or just living in a fantasy. Probably both. The reality is he doesn't have a plan to deal with the growing budget deficit and is just hoping for the best. Unfortunately interest rates will go up as the budget deficit balloons and cause volatility greater in the stock markets. This could be very bad given they are at historic highs as a result of the AI/tech stock bubble. If so we'll get to see how well the Trump administration handles a full-blown financial crisis, and it will make Iran look small fry. I bet he's got his fingers crossed.",
+      "translation_ja": "「うまくいけば、何もしなくても均衡予算になる」とトランプは言った。まったくのナンセンスだ。彼は何も分かっていないか、ただ幻想の中に生きているか。おそらく両方だ。現実には、膨らむ財政赤字に対処する計画はなく、ただうまくいくことを願っているだけだ。残念ながら、赤字が膨らむにつれ金利は上がり、株式市場の変動も大きくなる。AI／テック株のバブルで史上高値にある今、それは非常にまずいことになりうる。そうなれば、トランプ政権が本格的な金融危機をどれだけうまく処理できるか見ることになる。イラン問題など小さく見えるだろう。きっと彼は指を交えて祈っているに違いない。",
+      "notes_ja": [
+        "just living in a fantasy は he's が省略された口語表現。",
+        "small fry は「取るに足らない相手・小さな問題」という慣用表現。"
+      ],
+      "standard_en": "Either he has no idea or he's just living in a fantasy.",
+      "marked_terms": [],
+      "comment_id": 5223020,
+      "author": "geronimo2006",
+      "rating": 5,
+      "posted_at": "2026-06-02T14:53:16+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Trump is an absolute disaster.",
+      "translation_ja": "トランプはまさに災害だ。",
+      "notes_ja": [
+        "absolute disaster は強い非難だが、文法的には標準的な一文。",
+        "口語では短く切って感情を強調しやすい。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223098,
+      "author": "dan",
+      "rating": 3,
+      "posted_at": "2026-06-02T16:33:11+09:00"
+    }
+  ]
+}

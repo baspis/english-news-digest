@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-02:man-kills-his-mother-s-visiting-caregive",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:17:12+09:00",
+  "fetched_at": "2026-06-09T22:20:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "So now the 90-year-old mother has no caregiver or son, and is left with all sorts of grim thoughts.",
+      "translation_ja": "こうして今、90歳の母親には介護者も息子もいなくなり、暗い考えばかりが残されたままになってしまった。",
+      "notes_ja": [
+        "So now で「こうなって今」と状況の転換を示す。",
+        "is left with は受動態で「〜だけが残された／〜という状態に置かれた」。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223110,
+      "author": "BB",
+      "rating": 14,
+      "posted_at": "2026-06-02T16:47:55+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Some people's heads are really messed up.",
+      "translation_ja": "頭の中が本当にめちゃくちゃな人もいる。",
+      "notes_ja": [
+        "heads are messed up は口語的な比喩で、考え方や精神状態が異常だという意味。",
+        "Some people's heads は「一部の人の頭」という直訳より、人そのものを指す言い方。"
+      ],
+      "standard_en": "Some people are really mentally unstable.",
+      "marked_terms": [
+        {
+          "term": "messed up",
+          "symbol": "◇",
+          "note_ja": "口語・カジュアルな表現。フォーマルな場では使わない。"
+        }
+      ],
+      "comment_id": 5223108,
+      "author": "wallace",
+      "rating": 13,
+      "posted_at": "2026-06-02T16:45:02+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "WoodyLee the killing of own mother or father is the ultimate EVIL ACT. Something is very wrong. You may want to re-read the article one more time. \"...he had killed his 90-year-old mother’s visiting caregiver...\"",
+      "translation_ja": "WoodyLee、自分の母親や父親を殺すことは究極の邪悪な行為だ。何かが根本的におかしい。記事をもう一度読み直した方がいいかもしれない。「…彼は90歳の母親の訪問介護者を殺害した…」",
+      "notes_ja": [
+        "the killing of own mother or father は所有格の his/her が省略された口語的な言い方。",
+        "You may want to re-read は柔らかい助言表現で「〜した方がいいかも」と訳せる。"
+      ],
+      "standard_en": "WoodyLee, killing one's own mother or father is the ultimate evil act.",
+      "marked_terms": [],
+      "comment_id": 5223287,
+      "author": "garypen",
+      "rating": 5,
+      "posted_at": "2026-06-02T23:45:11+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "from his other's bank account Needs an \"m\". Moderator: Thanks for spotting that.",
+      "translation_ja": "「his other's bank account」は \"m\" が要る（mother's の誤記）。モデレーター：指摘ありがとう。",
+      "notes_ja": [
+        "記事本文の誤字を指摘するメタコメント。other's は mother's の誤り。",
+        "Needs an \"m\" は主語・動詞を省略した短い文。"
+      ],
+      "standard_en": "from his mother's bank account — needs an \"m\".",
+      "marked_terms": [],
+      "comment_id": 5223228,
+      "author": "Harry_Gatto",
+      "rating": 2,
+      "posted_at": "2026-06-02T21:57:48+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Alot of bad things happening in Japan lately. A lot of bad things happening everywhere all of the time. Japan is no exception. S",
+      "translation_ja": "最近日本では悪いことがたくさん起きている。悪いことはいつもどこでも起きている。日本も例外ではない。S",
+      "notes_ja": [
+        "Alot は誤記で正しくは A lot（2語）。",
+        "bad things happening は There are が省略された口語的な言い方。末尾の S は途中で切れた可能性がある。"
+      ],
+      "standard_en": "A lot of bad things are happening in Japan lately. A lot of bad things are happening everywhere all of the time.",
+      "marked_terms": [],
+      "comment_id": 5224133,
+      "author": "Spidey",
+      "rating": 2,
+      "posted_at": "2026-06-03T12:52:56+09:00"
+    }
+  ]
+}

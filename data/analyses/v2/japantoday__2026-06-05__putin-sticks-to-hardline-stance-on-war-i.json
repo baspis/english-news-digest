@@ -1,0 +1,1081 @@
+{
+  "summary_ja": "プーチン大統領はウクライナ戦争について強硬姿勢を変えず、軍は毎日前進していると主張した一方、キーウが譲歩すればトランプ大統領の和平案で戦闘を終えられる可能性があると述べた。ゼレンスキー大統領は公開書簡で両首脳会談を提案し、プーチンはアンカレッジで話し合った妥協案に基づく和平を改めて示唆した。記事は領土支配の主張、軍事分析との対比、核搭載極超音速ミサイルの言及、2030年以降の政治的未来への言及も取り上げている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "President Vladimir Putin stuck to his hardline stance on the war in Ukraine on Thursday and said his troops were advancing on the battlefield every day, but he also said that U.S.",
+      "translation_ja": "ウラジーミル・プーチン大統領は木曜日、ウクライナ戦争に関する強硬な立場を変えず、部隊は戦場で毎日前進していると述べた。しかし同時に、米国の——",
+      "grammar_ja": "stuck to（固執した）、were advancing（過去進行形で継続的な前進）、but による対比。文末の that U.S. は次文へ続く不完全な文。",
+      "chunks": [
+        {
+          "text": "President Vladimir Putin",
+          "role_ja": "主語",
+          "literal_ja": "プーチン大統領は",
+          "note_ja": "ニュース記事の定型的な人物紹介。姓＋名＋肩書きの順。"
+        },
+        {
+          "text": "stuck to his hardline stance",
+          "role_ja": "述語",
+          "literal_ja": "強硬な立場に固執した",
+          "note_ja": "stick to は「方針・立場を変えない」。hardline は「強硬な」。"
+        },
+        {
+          "text": "on the war in Ukraine",
+          "role_ja": "修飾語",
+          "literal_ja": "ウクライナ戦争について",
+          "note_ja": "stance on ~ で「〜に関する立場」。"
+        },
+        {
+          "text": "on Thursday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "木曜日に",
+          "note_ja": "ニュースでは具体的な曜日で時点を示す。"
+        },
+        {
+          "text": "said his troops were advancing on the battlefield every day",
+          "role_ja": "述語（間接話法）",
+          "literal_ja": "部隊が戦場で毎日前進していると述べた",
+          "note_ja": "said + that節。advance on the battlefield は軍事ニュースの頻出表現。"
+        },
+        {
+          "text": "but he also said that U.S.",
+          "role_ja": "接続・述語",
+          "literal_ja": "しかしまた米国の…と述べた",
+          "note_ja": "also で追加情報。that 以下は次文で完成する。"
+        }
+      ],
+      "deep_dive_ja": "見出しと同じ内容で記事を始める典型パターン。一文が長く、対比（強硬姿勢 vs 和平可能性）を but で一度に提示している。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "President Donald Trump's proposals for peace could end the fighting if Kyiv ‌was ready to compromise.",
+      "translation_ja": "ドナルド・トランプ大統領の和平案は、キーウが譲歩する用意があれば戦闘を終わらせる可能性がある、と前出の発言は続いた。",
+      "grammar_ja": "could（可能性）、if 条件節（was ready to compromise）。proposals for peace は「和平のための提案」。",
+      "chunks": [
+        {
+          "text": "President Donald Trump's proposals for peace",
+          "role_ja": "主語",
+          "literal_ja": "トランプ大統領の和平案は",
+          "note_ja": "所有格 's で提案の出所を示す。"
+        },
+        {
+          "text": "could end the fighting",
+          "role_ja": "述語",
+          "literal_ja": "戦闘を終わらせる可能性がある",
+          "note_ja": "could は控えめな可能性。end the fighting は end the war より具体的。"
+        },
+        {
+          "text": "if Kyiv was ready to compromise",
+          "role_ja": "条件節",
+          "literal_ja": "キーウが譲歩する用意があれば",
+          "note_ja": "be ready to + 動詞原形。compromise は政治ニュースの核心語。"
+        }
+      ],
+      "deep_dive_ja": "前の文の that U.S. とつながる。be ready to compromise は「譲歩する意思・準備がある」という外交文脈の定番表現。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "He made his comments to foreign media editors, including Reuters, on the sidelines of Russia's showcase annual economic forum as Ukrainian President Volodymyr Zelenskyy published an open letter to Putin in which he proposed the two leaders meet to agree on an end to the war, warning that Kyiv stood ready to fight on otherwise.",
+      "translation_ja": "彼はロシアの年次経済フォーラムの場で、ロイターなど外国メディアの編集者らにコメントした。その一方で、ウクライナのゼレンスキー大統領はプーチンへの公開書簡を発表し、両首脳が会って戦争終結に合意すべきだと提案し、そうでなければキーウは戦い続ける覚悟だと警告した。",
+      "grammar_ja": "as（同時進行）、in which（関係代名詞）、warning that（分詞構文で付帯状況）、stood ready to（〜する覚悟がある）。",
+      "chunks": [
+        {
+          "text": "He made his comments to foreign media editors, including Reuters",
+          "role_ja": "主節",
+          "literal_ja": "彼はロイターを含む外国メディア編集者にコメントした",
+          "note_ja": "including で具体例を挙げる。"
+        },
+        {
+          "text": "on the sidelines of Russia's showcase annual economic forum",
+          "role_ja": "場所・状況",
+          "literal_ja": "ロシアの年次経済フォーラムの場で",
+          "note_ja": "on the sidelines of は本題の横で・場の端でという比喩。"
+        },
+        {
+          "text": "as Ukrainian President Volodymyr Zelenskyy published an open letter to Putin",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "ゼレンスキー大統領が公開書簡を発表する一方で",
+          "note_ja": "as は「〜するのと同時に」。"
+        },
+        {
+          "text": "in which he proposed the two leaders meet",
+          "role_ja": "関係節",
+          "literal_ja": "その中で両首脳会談を提案した",
+          "note_ja": "propose + 主語 + 動詞原形（仮定法現在）。"
+        },
+        {
+          "text": "to agree on an end to the war",
+          "role_ja": "目的",
+          "literal_ja": "戦争終結に合意するために",
+          "note_ja": "agree on ~ で「〜について合意する」。"
+        },
+        {
+          "text": "warning that Kyiv stood ready to fight on otherwise",
+          "role_ja": "付帯状況",
+          "literal_ja": "そうでなければキーウは戦い続ける覚悟だと警告しながら",
+          "note_ja": "otherwise は「そうでなければ」。fight on は「戦いを続ける」。"
+        }
+      ],
+      "deep_dive_ja": "一文に複数の出来事（発言・書簡・提案・警告）を詰め込む高度なニュース文体。学習者は as / in which / warning that の層を分解して読むと理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Putin's spokesman said the Kremlin chief was ‌aware of the message, but had not yet had a chance to familiarize himself with its contents in detail.",
+      "translation_ja": "プーチン側の報道官は、クレムリン首脳はそのメッセージを把握しているが、内容を詳しく確認する機会はまだなかったと述べた。",
+      "grammar_ja": "had not yet had a chance to（まだ〜する機会がなかった）、familiarize oneself with（〜に詳しくなる）。",
+      "chunks": [
+        {
+          "text": "Putin's spokesman",
+          "role_ja": "主語",
+          "literal_ja": "プーチン側報道官は",
+          "note_ja": "spokesman は公式の代弁者。"
+        },
+        {
+          "text": "the Kremlin chief was aware of the message",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "クレムリン首脳はメッセージを把握している",
+          "note_ja": "chief はここでプーチン本人を指す。"
+        },
+        {
+          "text": "had not yet had a chance to familiarize himself with its contents in detail",
+          "role_ja": "対比する述語",
+          "literal_ja": "内容を詳しく確認する機会はまだなかった",
+          "note_ja": "yet は否定文で「まだ」。in detail は「詳細に」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Trump said ⁠it would be great if the two leaders met.",
+      "translation_ja": "トランプは、両首脳が会えれば素晴らしいだろうと述べた。",
+      "grammar_ja": "it would be great if（〜なら素晴らしい）、仮定法過去 met（現実的な可能性を柔らかく表す）。",
+      "chunks": [
+        {
+          "text": "Trump said",
+          "role_ja": "主節",
+          "literal_ja": "トランプは述べた",
+          "note_ja": "簡潔な報道文体。"
+        },
+        {
+          "text": "it would be great if the two leaders met",
+          "role_ja": "間接話法",
+          "literal_ja": "両首脳が会えれば素晴らしいだろう",
+          "note_ja": "would be + if 過去形は願望・提案の婉曲表現。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Speaking in what is the fifth year of Europe's deadliest land war since ⁠World War II, a conflict that ⁠Russia — one of the world's biggest military superpowers — thought it would win quickly, Putin said that manpower, industrial resources and will power were on Russia's side.",
+      "translation_ja": "第二次世界大戦以来ヨーロッパで最も死者の多い陸上戦争の5年目という状況の中で発言し、ロシア——世界最大級の軍事超大国の一つ——が短期決戦できると考えていた紛争について語りながら、プーチンは人的資源・産業資源・意思の力がロシア側にあると述べた。",
+      "grammar_ja": "分詞構文 Speaking in...、関係節 that Russia thought...、were on Russia's side（ロシアに有利だ）。",
+      "chunks": [
+        {
+          "text": "Speaking in what is the fifth year of Europe's deadliest land war since World War II",
+          "role_ja": "付帯状況",
+          "literal_ja": "第二次世界大戦以来ヨーロッパで最も死者の多い陸上戦争の5年目に発言し",
+          "note_ja": "what is は「〜という状況で」。"
+        },
+        {
+          "text": "a conflict that Russia thought it would win quickly",
+          "role_ja": "同格語",
+          "literal_ja": "ロシアが短期決戦できると考えていた紛争",
+          "note_ja": "thought it would win の it は戦争を指す。"
+        },
+        {
+          "text": "one of the world's biggest military superpowers",
+          "role_ja": "挿入句",
+          "literal_ja": "世界最大級の軍事超大国の一つ",
+          "note_ja": "ダッシュで補足説明。"
+        },
+        {
+          "text": "manpower, industrial resources and will power were on Russia's side",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "人的資源・産業資源・意思の力がロシア側にある",
+          "note_ja": "on one's side は「〜の味方・有利」。"
+        }
+      ],
+      "deep_dive_ja": "長い前置きで歴史的文脈を与えてから本題に入る。will power は「意志力」、manpower は軍事文脈で「人的資源」。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "His ‌army had \"recently\" pushed Ukrainian forces out of nearly 2,500 km of territory, he said, though he conceded that Moscow had to and would improve its air defenses to ⁠contend with a growing threat from Ukrainian drones.",
+      "translation_ja": "彼は、自軍が「最近」ウクライナ軍をほぼ2500キロの領土から押し出したと述べた。ただしモスクワはウクライナのドローンによる増大する脅威に対処するため、防空を改善しなければならず、改善するだろうとも認めた。",
+      "grammar_ja": "had pushed（過去完了）、he said（挿入）、though（譲歩）、had to and would（義務＋将来の意図）、contend with（〜に対処する）。",
+      "chunks": [
+        {
+          "text": "His army had \"recently\" pushed Ukrainian forces out of nearly 2,500 km of territory",
+          "role_ja": "主張内容",
+          "literal_ja": "自軍が最近ウクライナ軍をほぼ2500kmの領土から押し出した",
+          "note_ja": "push ... out of は「〜から追い出す」。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "挿入語",
+          "literal_ja": "彼は述べた",
+          "note_ja": "文中挿入で報道の出所を示す。"
+        },
+        {
+          "text": "though he conceded that",
+          "role_ja": "譲歩節",
+          "literal_ja": "ただし彼は認めた",
+          "note_ja": "concede は「（不利な事実を）認める」。"
+        },
+        {
+          "text": "Moscow had to and would improve its air defenses",
+          "role_ja": "譲歩の内容",
+          "literal_ja": "モスクワは防空を改善しなければならず改善する",
+          "note_ja": "had to and would の並列。"
+        },
+        {
+          "text": "to contend with a growing threat from Ukrainian drones",
+          "role_ja": "目的",
+          "literal_ja": "ウクライナのドローンの増大する脅威に対処するために",
+          "note_ja": "contend with は deal with より硬い表現。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Some Western and Ukrainian military analysts say Russia's ⁠advance has slowed significantly, however, and argue that Russia is still a long way from achieving its own stated military goals.",
+      "translation_ja": "しかし一部の西側およびウクライナの軍事分析家は、ロシアの前進は大幅に鈍化したと指摘し、ロシアは自ら公表した軍事目標の達成にはまだ遠いと主張している。",
+      "grammar_ja": "however（逆接）、has slowed（現在完了）、a long way from ~ing（〜まで遠い）、stated goals（公表した目標）。",
+      "chunks": [
+        {
+          "text": "Some Western and Ukrainian military analysts",
+          "role_ja": "主語",
+          "literal_ja": "一部の西側・ウクライナの軍事分析家は",
+          "note_ja": "say と argue の主語。"
+        },
+        {
+          "text": "Russia's advance has slowed significantly",
+          "role_ja": "述語1",
+          "literal_ja": "ロシアの前進は大幅に鈍化した",
+          "note_ja": "advance は名詞で「前進」。"
+        },
+        {
+          "text": "however",
+          "role_ja": "接続副詞",
+          "literal_ja": "しかし",
+          "note_ja": "文中の however は前の主張への反論。"
+        },
+        {
+          "text": "argue that Russia is still a long way from achieving its own stated military goals",
+          "role_ja": "述語2",
+          "literal_ja": "ロシアは公表した軍事目標達成まで遠いと主張する",
+          "note_ja": "a long way from は距離の比喩。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Putin struck a bullish note, though.",
+      "translation_ja": "とはいえプーチンは強気な姿勢を示した。",
+      "grammar_ja": "struck a bullish note（強気な調子を出した）、though 文末で「とはいえ」。",
+      "chunks": [
+        {
+          "text": "Putin struck a bullish note",
+          "role_ja": "主節",
+          "literal_ja": "プーチンは強気な調子を示した",
+          "note_ja": "strike a note は「〜な調子・姿勢を取る」。bullish は金融由来で「強気の」。"
+        },
+        {
+          "text": "though",
+          "role_ja": "接続副詞",
+          "literal_ja": "とはいえ",
+          "note_ja": "文末の though は軽い逆接。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The offensive is ongoing on a daily basis.",
+      "translation_ja": "「攻勢は毎日継続している。",
+      "grammar_ja": "is ongoing（進行中）、on a daily basis（毎日）。直接話法の開始。",
+      "chunks": [
+        {
+          "text": "The offensive",
+          "role_ja": "主語",
+          "literal_ja": "攻勢は",
+          "note_ja": "offensive は軍事用語で「攻勢作戦」。"
+        },
+        {
+          "text": "is ongoing on a daily basis",
+          "role_ja": "述語",
+          "literal_ja": "毎日継続している",
+          "note_ja": "on a daily basis は every day よりフォーマル。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "At present, the Russian Federation has taken full control of the Luhansk People’s Republic — 100%.",
+      "translation_ja": "現時点でロシア連邦はルハンスク人民共和国を完全に支配している——100％だ。",
+      "grammar_ja": "At present（現時点で）、has taken full control of（完全支配した）、現在完了。",
+      "chunks": [
+        {
+          "text": "At present",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "現時点で",
+          "note_ja": "currently と同義だがやや硬い。"
+        },
+        {
+          "text": "the Russian Federation has taken full control of the Luhansk People's Republic",
+          "role_ja": "主節",
+          "literal_ja": "ロシア連邦はルハンスク人民共和国を完全支配した",
+          "note_ja": "take control of は領土支配の定番。"
+        },
+        {
+          "text": "100%",
+          "role_ja": "補足",
+          "literal_ja": "100パーセント",
+          "note_ja": "ダッシュ後の強調。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "And Russia has brought over 85% of the territory of the Donetsk People’s Republic under its control.",
+      "translation_ja": "そしてロシアはドネツク人民共和国の領土の85％超を支配下に置いている。",
+      "grammar_ja": "bring ... under control（〜を支配下に置く）、over 85%（85％超）。",
+      "chunks": [
+        {
+          "text": "And Russia",
+          "role_ja": "主語",
+          "literal_ja": "そしてロシアは",
+          "note_ja": "前の発言の続き。"
+        },
+        {
+          "text": "has brought over 85% of the territory of the Donetsk People's Republic under its control",
+          "role_ja": "述語",
+          "literal_ja": "ドネツク人民共和国領土の85％超を支配下に置いた",
+          "note_ja": "bring under control は take control より段階的なニュアンス。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "(And) 80% of the territory of the Zaporizhzhia region,\" he ⁠said, referring to three of the four regions in Ukraine which Moscow claimed as its own in 2022 in a move Kyiv and most Western countries rejected as ⁠an illegal land grab.",
+      "translation_ja": "（そして）ザポリージャ州の領土の80％だ」と彼は述べ、ウクライナ4州のうち3州——モスクワが2022年に自国領と主張したもので、キーサと多くの西側国が違法な領土奪取だと拒否した動き——を指していた。",
+      "grammar_ja": "referring to（分詞構文）、which 関係節、rejected as（〜として拒否した）、land grab（領土奪取）。",
+      "chunks": [
+        {
+          "text": "(And) 80% of the territory of the Zaporizhzhia region",
+          "role_ja": "直接話法の続き",
+          "literal_ja": "ザポリージャ州領土の80％",
+          "note_ja": "括弧の And は口語的な列挙の続き。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "主節",
+          "literal_ja": "彼は述べた",
+          "note_ja": "発言の終了を示す。"
+        },
+        {
+          "text": "referring to three of the four regions in Ukraine",
+          "role_ja": "付帯状況",
+          "literal_ja": "ウクライナ4州のうち3州を指して",
+          "note_ja": "three of the four で「4つのうち3つ」。"
+        },
+        {
+          "text": "which Moscow claimed as its own in 2022",
+          "role_ja": "関係節",
+          "literal_ja": "モスクワが2022年に自国領と主張した",
+          "note_ja": "claim as one's own は領土主張の表現。"
+        },
+        {
+          "text": "in a move Kyiv and most Western countries rejected as an illegal land grab",
+          "role_ja": "同格語",
+          "literal_ja": "キーサと西側が違法な領土奪取として拒否した動きとして",
+          "note_ja": "land grab は強い批判的ニュアンス。"
+        }
+      ],
+      "deep_dive_ja": "領土名はウクライナ・ロシア双方の主張が絡むため、記事は Moscow claimed / rejected as illegal と両論を並記している。",
+      "difficulty": "hard",
+      "sentence_id": "s013"
+    },
+    {
+      "text": "\"Naturally, under these circumstances, the Ukrainian side would ‌like us to halt the advance.",
+      "translation_ja": "「当然、この状況下ではウクライナ側は我々に前進を止めてほしいだろう。",
+      "grammar_ja": "would like sb to do（〜してほしい）、halt the advance（前進を停止する）。",
+      "chunks": [
+        {
+          "text": "Naturally, under these circumstances",
+          "role_ja": "副詞句",
+          "literal_ja": "当然この状況下では",
+          "note_ja": "under these circumstances は状況を受けた判断を導入。"
+        },
+        {
+          "text": "the Ukrainian side would like us to halt the advance",
+          "role_ja": "主節",
+          "literal_ja": "ウクライナ側は我々に前進停止を望むだろう",
+          "note_ja": "the Ukrainian side は公式な呼び方。us はロシア側。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But rather than stopping that, it would be better to bring the war to an end altogether by agreeing to the compromises that were discussed in Anchorage,\" he said, referring to a summit he held in Alaska with Trump in August last year.",
+      "translation_ja": "しかしそれを止めるより、去年8月にアラスカでトランプと開いた首脳会談で話し合った妥協案に合意して、戦争を完全に終わらせる方がよい」と彼は述べ、アンカレッジでの会談を指した。",
+      "grammar_ja": "rather than ~ing（〜するより）、it would be better to（〜する方がよい）、that were discussed（関係節・受動）。",
+      "chunks": [
+        {
+          "text": "But rather than stopping that",
+          "role_ja": "対比",
+          "literal_ja": "しかしそれを止めるより",
+          "note_ja": "rather than + 動名詞。"
+        },
+        {
+          "text": "it would be better to bring the war to an end altogether",
+          "role_ja": "主張",
+          "literal_ja": "戦争を完全に終わらせる方がよい",
+          "note_ja": "bring to an end altogether で「完全に終結させる」。"
+        },
+        {
+          "text": "by agreeing to the compromises that were discussed in Anchorage",
+          "role_ja": "手段",
+          "literal_ja": "アンカレッジで話し合った妥協に合意することで",
+          "note_ja": "compromise は譲歩案・妥協案。"
+        },
+        {
+          "text": "referring to a summit he held in Alaska with Trump in August last year",
+          "role_ja": "付帯状況",
+          "literal_ja": "去年8月アラスカでトランプと開いた首脳会談を指して",
+          "note_ja": "Anchorage＝アラスカのアンカレッジ。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That appeared to be a reference to Moscow's demand that Ukraine must surrender the rest of its eastern Donbas region — which includes two of the four regions in their entirety — something that Zelenskyy has said would ‌affect the fate of hundreds of thousands of people and leave what remains of Ukraine dangerously vulnerable to further Russian attacks.",
+      "translation_ja": "それは、ウクライナが東部ドンバス地方の残りを明け渡さなければならないというモスクワの要求を指しているように見えた——4州のうち2州全体を含む地域であり、ゼレンスキーは数十万人の運命に影響し、残るウクライナをさらなるロシア攻撃に対して危険なほど無防備にするだろうと述べた事柄だ。",
+      "grammar_ja": "appeared to be（〜のように見えた）、demand that（要求内容）、leave ... vulnerable to（〜を無防備にする）。",
+      "chunks": [
+        {
+          "text": "That appeared to be a reference to Moscow's demand",
+          "role_ja": "主節",
+          "literal_ja": "それはモスクワの要求への言及のように見えた",
+          "note_ja": "appear to be で推測を示す。"
+        },
+        {
+          "text": "that Ukraine must surrender the rest of its eastern Donbas region",
+          "role_ja": "同格節",
+          "literal_ja": "ウクライナが東部ドンバス残りを明け渡す必要がある",
+          "note_ja": "surrender は降伏・引き渡し。"
+        },
+        {
+          "text": "which includes two of the four regions in their entirety",
+          "role_ja": "関係節",
+          "literal_ja": "4州のうち2州全体を含む",
+          "note_ja": "in their entirety で「全体として」。"
+        },
+        {
+          "text": "something that Zelenskyy has said would affect the fate of hundreds of thousands of people",
+          "role_ja": "同格語",
+          "literal_ja": "ゼレンスキーが数十万人の運命に影響すると述べた事柄",
+          "note_ja": "the fate of ~ で「〜の運命」。"
+        },
+        {
+          "text": "leave what remains of Ukraine dangerously vulnerable to further Russian attacks",
+          "role_ja": "結果",
+          "literal_ja": "残るウクライナをさらなる攻撃に無防備にする",
+          "note_ja": "vulnerable to は B2 重要語彙。"
+        }
+      ],
+      "deep_dive_ja": "ダッシュで挿入句を重ねる複雑な構造。something that ... の同格が demand の具体的内容を説明している。",
+      "difficulty": "hard",
+      "sentence_id": "s016"
+    },
+    {
+      "text": "Putin said that Kyiv would have to compromise, however, and said that while he understood that Trump was busy with the Iran war for now that perhaps the European Union could use its influence to talk Kyiv around.",
+      "translation_ja": "プーチンはキーウは譲歩しなければならないと述べた。とはいえ、トランプが今はイラン戦争で多忙だと理解している一方、欧州連合が影響力を使ってキーウを説得できるかもしれないと付け加えた。",
+      "grammar_ja": "would have to（〜しなければならない）、while（一方で）、talk sb around（〜を説得して考えを変えさせる）。",
+      "chunks": [
+        {
+          "text": "Putin said that Kyiv would have to compromise, however",
+          "role_ja": "主節1",
+          "literal_ja": "プーチンはキーウは譲歩せねばならないと述べた",
+          "note_ja": "would have to は義務の婉曲表現。"
+        },
+        {
+          "text": "while he understood that Trump was busy with the Iran war for now",
+          "role_ja": "譲歩・背景",
+          "literal_ja": "トランプが今はイラン戦争で多忙だと理解しつつ",
+          "note_ja": "for now は「当分の間」。"
+        },
+        {
+          "text": "perhaps the European Union could use its influence to talk Kyiv around",
+          "role_ja": "主節2",
+          "literal_ja": "EUが影響力でキーウを説得できるかもしれない",
+          "note_ja": "talk around は口語的だが報道でも使われる。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Zelenskyy in his own letter made clear, though, that Putin was the one who needed to make a decision to end the war, saying he believed Russians had grown tired of Ukrainian missile and drone attacks, inflation and fuel shortages, and were ready for peace.",
+      "translation_ja": "ゼレンスキーは自らの書簡で、戦争を終わらせる決断を下すべきなのはプーチンだと明言した。ロシア人はウクライナのミサイル・ドローン攻撃、インフレ、燃料不足にうんざりして和平を望んでいると彼は信じている、と付け加えた。",
+      "grammar_ja": "made clear that（明言した）、the one who（〜するのは…だ）、had grown tired of（〜にうんざりした）、were ready for（〜を望んでいる）。",
+      "chunks": [
+        {
+          "text": "Zelenskyy in his own letter made clear, though",
+          "role_ja": "主節",
+          "literal_ja": "ゼレンスキーは自らの書簡で明言した",
+          "note_ja": "though で前のプーチン発言への反論。"
+        },
+        {
+          "text": "that Putin was the one who needed to make a decision to end the war",
+          "role_ja": "内容節",
+          "literal_ja": "戦争終結の決断が必要なのはプーチンだ",
+          "note_ja": "the one who で強調構文。"
+        },
+        {
+          "text": "saying he believed Russians had grown tired of Ukrainian missile and drone attacks, inflation and fuel shortages",
+          "role_ja": "付帯状況",
+          "literal_ja": "ロシア人が攻撃・インフレ・燃料不足にうんざりしたと信じていると述べ",
+          "note_ja": "grow tired of は段階的な疲弊。"
+        },
+        {
+          "text": "and were ready for peace",
+          "role_ja": "付帯状況の続き",
+          "literal_ja": "和平の準備ができている",
+          "note_ja": "be ready for peace。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Putin's own future could be on the line, the Ukrainian leader warned, unless he made the right call.",
+      "translation_ja": "正しい判断を下さなければ、プーチン自身の将来も危うくなる可能性があると、ウクライナの指導者は警告した。",
+      "grammar_ja": "could be on the line（危うい）、unless（〜しない限り）、make the right call（正しい判断を下す）。",
+      "chunks": [
+        {
+          "text": "Putin's own future could be on the line",
+          "role_ja": "主節",
+          "literal_ja": "プーチン自身の将来が危うくなる可能性がある",
+          "note_ja": "on the line は「危険にさらされている」。"
+        },
+        {
+          "text": "the Ukrainian leader warned",
+          "role_ja": "挿入",
+          "literal_ja": "ウクライナ指導者は警告した",
+          "note_ja": "主語と動詞の間に挿入。"
+        },
+        {
+          "text": "unless he made the right call",
+          "role_ja": "条件",
+          "literal_ja": "正しい判断を下さない限り",
+          "note_ja": "make a call はスポーツ由来の「決断する」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Putin told news editors that he had emphasised to Trump last year that he was ready to end the war via diplomacy and ​to honour unspecified compromises.",
+      "translation_ja": "プーチンは報道編集者らに、昨年トランプに対し外交で戦争を終わらせる用意があり、具体名は示さない妥協案を守るつもりだと強調したと伝えた。",
+      "grammar_ja": "had emphasised（過去完了）、via diplomacy（外交を通じて）、honour compromises（妥協案を守る）、unspecified（具体名不明の）。",
+      "chunks": [
+        {
+          "text": "Putin told news editors that",
+          "role_ja": "主節",
+          "literal_ja": "プーチンは報道編集者に伝えた",
+          "note_ja": "tell + 人 + that。"
+        },
+        {
+          "text": "he had emphasised to Trump last year",
+          "role_ja": "間接話法",
+          "literal_ja": "昨年トランプに強調した",
+          "note_ja": "emphasise to は「〜に強調して伝えた」。"
+        },
+        {
+          "text": "that he was ready to end the war via diplomacy",
+          "role_ja": "内容",
+          "literal_ja": "外交で戦争を終わらせる用意がある",
+          "note_ja": "via は「〜を通じて」。"
+        },
+        {
+          "text": "and to honour unspecified compromises",
+          "role_ja": "並列",
+          "literal_ja": "具体名不明の妥協案を守る",
+          "note_ja": "honour は約束・合意を「守る」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We are certainly prepared and willing to reach an agreement with Ukraine through peaceful means.",
+      "translation_ja": "「我々は確かに、平和的手段でウクライナと合意に達する用意があり、そうする意思もある。",
+      "grammar_ja": "prepared and willing to（〜する用意と意思がある）、reach an agreement（合意に達する）、through peaceful means（平和的手段で）。",
+      "chunks": [
+        {
+          "text": "We are certainly prepared and willing",
+          "role_ja": "主節",
+          "literal_ja": "我々は確かに用意があり意思もある",
+          "note_ja": "prepared と willing の並列。"
+        },
+        {
+          "text": "to reach an agreement with Ukraine through peaceful means",
+          "role_ja": "不定詞",
+          "literal_ja": "平和的手段でウクライナと合意に達する",
+          "note_ja": "peaceful means は外交文書調。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Specifically, on the basis we discussed during our meeting with President Trump in Anchorage.",
+      "translation_ja": "具体的には、アンカレッジでトランプ大統領との会談中に話し合った基盤に基づいて。",
+      "grammar_ja": "Specifically（具体的には）、on the basis（〜に基づいて）、関係節 we discussed（目的語省略の that）。",
+      "chunks": [
+        {
+          "text": "Specifically",
+          "role_ja": "副詞",
+          "literal_ja": "具体的には",
+          "note_ja": "詳細を絞り込む接続副詞。"
+        },
+        {
+          "text": "on the basis we discussed during our meeting with President Trump in Anchorage",
+          "role_ja": "副詞句",
+          "literal_ja": "アンカレッジ会談で話し合った基盤に基づいて",
+          "note_ja": "文として不完全だが発言の続き。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Russia agrees to those compromises we discussed in Anchorage.",
+      "translation_ja": "ロシアはアンカレッジで話し合ったその妥協案に同意する。",
+      "grammar_ja": "agrees to（〜に同意する）、関係節 we discussed。",
+      "chunks": [
+        {
+          "text": "Russia agrees to those compromises",
+          "role_ja": "主節",
+          "literal_ja": "ロシアはその妥協案に同意する",
+          "note_ja": "agree to は提案・条件への同意。"
+        },
+        {
+          "text": "we discussed in Anchorage",
+          "role_ja": "関係節",
+          "literal_ja": "アンカレッジで話し合った",
+          "note_ja": "those compromises を修飾。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Ukrainian side must also agree to these compromises.",
+      "translation_ja": "ウクライナ側もこれらの妥協案に同意しなければならない。",
+      "grammar_ja": "must agree to（〜に同意しなければならない）、also で双方の義務を示す。",
+      "chunks": [
+        {
+          "text": "The Ukrainian side",
+          "role_ja": "主語",
+          "literal_ja": "ウクライナ側は",
+          "note_ja": "the Russian side と対になる表現。"
+        },
+        {
+          "text": "must also agree to these compromises",
+          "role_ja": "述語",
+          "literal_ja": "これらの妥協案にも同意しなければならない",
+          "note_ja": "also はロシアと同様にという含意。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Then the ‌conflict will quickly come to a natural conclusion,\" Putin said.",
+      "translation_ja": "そうすれば紛争はすぐに自然な結末を迎えるだろう」とプーチンは述べた。",
+      "grammar_ja": "come to a conclusion（結末を迎える）、natural conclusion（自然な終結）。",
+      "chunks": [
+        {
+          "text": "Then",
+          "role_ja": "接続副詞",
+          "literal_ja": "そうすれば",
+          "note_ja": "条件が満たされた結果。"
+        },
+        {
+          "text": "the conflict will quickly come to a natural conclusion",
+          "role_ja": "主節",
+          "literal_ja": "紛争はすぐ自然な結末を迎える",
+          "note_ja": "natural conclusion は婉曲な「終結」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"As for what we might say to one another if we were to reach the end of the conflict, at the very least we could — and indeed should — say, ‘Thank goodness it’s all over,'\" he added.",
+      "translation_ja": "「紛争の終わりに達したら互いに何と言えるかといえば、少なくとも——いや実際そうすべきだ——『よかった、すべて終わった』と言えるだろう」と彼は付け加えた。",
+      "grammar_ja": "As for（〜については）、if we were to（仮定）、at the very least（少なくとも）、indeed should（実際そうすべきだ）。",
+      "chunks": [
+        {
+          "text": "As for what we might say to one another if we were to reach the end of the conflict",
+          "role_ja": "話題提示",
+          "literal_ja": "紛争終結に達したら互いに何と言えるかといえば",
+          "note_ja": "As for で話題転換。were to は仮定。"
+        },
+        {
+          "text": "at the very least we could — and indeed should — say",
+          "role_ja": "主張",
+          "literal_ja": "少なくとも言える、いや言うべきだ",
+          "note_ja": "ダッシュ挿入で強調。"
+        },
+        {
+          "text": "Thank goodness it's all over",
+          "role_ja": "引用",
+          "literal_ja": "よかった、すべて終わった",
+          "note_ja": "Thank goodness は安堵の感嘆。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Kremlin chief also engaged in some sabre rattling.",
+      "translation_ja": "クレムリン首脳は脅し文句も織り交ぜた。",
+      "grammar_ja": "engage in（〜に従事する）、sabre rattling（軍事的威嚇・脅し文句）。",
+      "chunks": [
+        {
+          "text": "The Kremlin chief",
+          "role_ja": "主語",
+          "literal_ja": "クレムリン首脳は",
+          "note_ja": "プーチンの代名詞。"
+        },
+        {
+          "text": "also engaged in some sabre rattling",
+          "role_ja": "述語",
+          "literal_ja": "脅し文句も織り交ぜた",
+          "note_ja": "sabre rattling は刀を振る威嚇の比喩。"
+        }
+      ],
+      "deep_dive_ja": "外交発言から軍事威嚇へ話題を切り替える短い橋渡し文。慣用句として丸覚えするとニュース理解に役立つ。",
+      "difficulty": "medium",
+      "sentence_id": "s027"
+    },
+    {
+      "text": "He said Russia had not yet used its Oreshnik hypersonic missile against Ukraine ‌in real combat conditions, but had only test-fired it to observe the results in order to make decisions about its future full-scale use, including against urban targets.",
+      "translation_ja": "彼はロシアは極超音速ミサイル「オレシュニク」を実戦条件下ではまだウクライナに使っておらず、試射のみで結果を観察し、都市目標を含む将来の本格運用について判断するためだと述べた。",
+      "grammar_ja": "had not yet used（まだ使っていない）、test-fired（試射した）、in order to（〜するために）、including（〜を含めて）。",
+      "chunks": [
+        {
+          "text": "Russia had not yet used its Oreshnik hypersonic missile against Ukraine in real combat conditions",
+          "role_ja": "主張1",
+          "literal_ja": "ロシアは実戦でオレシュニクをまだ使っていない",
+          "note_ja": "hypersonic は極超音速。"
+        },
+        {
+          "text": "but had only test-fired it",
+          "role_ja": "対比",
+          "literal_ja": "試射のみした",
+          "note_ja": "test-fire は軍事ニュース用語。"
+        },
+        {
+          "text": "to observe the results in order to make decisions about its future full-scale use",
+          "role_ja": "目的",
+          "literal_ja": "結果を観察し将来の本格運用の判断のため",
+          "note_ja": "full-scale use は本格的な使用。"
+        },
+        {
+          "text": "including against urban targets",
+          "role_ja": "補足",
+          "literal_ja": "都市目標に対する使用を含め",
+          "note_ja": "都市攻撃への含みを示す。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s028",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The ⁠Oreshnik, which Russia first fired against Ukraine in 2024, is ⁠a nuclear-capable missile with a range of over 5,000 km.",
+      "translation_ja": "ロシアが2024年に初めてウクライナに向けて発射したオレシュニクは、射程5000キロ超の核搭載可能ミサイルだ。",
+      "grammar_ja": "関係節 which ...、nuclear-capable（核搭載可能な）、with a range of（射程〜の）。",
+      "chunks": [
+        {
+          "text": "The Oreshnik",
+          "role_ja": "主語",
+          "literal_ja": "オレシュニクは",
+          "note_ja": "ロシア語由来のミサイル名。"
+        },
+        {
+          "text": "which Russia first fired against Ukraine in 2024",
+          "role_ja": "関係節",
+          "literal_ja": "ロシアが2024年に初めてウクライナに向け発射した",
+          "note_ja": "fire against は「〜に向けて発射」。"
+        },
+        {
+          "text": "is a nuclear-capable missile with a range of over 5,000 km",
+          "role_ja": "述語",
+          "literal_ja": "核搭載可能で射程5000km超のミサイルだ",
+          "note_ja": "-capable は「〜が可能な」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s029",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Putin has ​said before that it is impossible to intercept, though Western experts have questioned that assertion.",
+      "translation_ja": "プーチンは以前、それは迎撃不可能だと述べたが、西側の専門家はその主張に疑問を呈している。",
+      "grammar_ja": "has said before（以前述べた）、though（だが）、have questioned that assertion（その主張に疑問）。",
+      "chunks": [
+        {
+          "text": "Putin has said before that it is impossible to intercept",
+          "role_ja": "主節",
+          "literal_ja": "プーチンは以前迎撃不可能だと述べた",
+          "note_ja": "intercept はミサイル迎撃。"
+        },
+        {
+          "text": "though Western experts have questioned that assertion",
+          "role_ja": "譲歩",
+          "literal_ja": "西側専門家はその主張に疑問を呈した",
+          "note_ja": "question an assertion で公式な反論。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s030",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Putin, in power as either president or prime minister since 1999, ⁠sidestepped a question from Reuters about his own political future ‌beyond the end of his current term in 2030, saying his health was in God's hands.",
+      "translation_ja": "1999年以来大統領または首相として権力を握るプーチンは、2030年の現任期終了後の自身の政治的将来についてロイターからの質問をはぐらかし、健康は神の手に委ねられていると述べた。",
+      "grammar_ja": "in power since 1999（1999年以来権力を握る）、sidestepped（はぐらかした）、beyond the end of（〜終了後）、in God's hands（神の御心）。",
+      "chunks": [
+        {
+          "text": "Putin, in power as either president or prime minister since 1999",
+          "role_ja": "主語＋挿入",
+          "literal_ja": "1999年以来大統領か首相として権力を握るプーチンは",
+          "note_ja": "either ... or ... の並列。"
+        },
+        {
+          "text": "sidestepped a question from Reuters about his own political future beyond the end of his current term in 2030",
+          "role_ja": "述語",
+          "literal_ja": "2030年現任期後の政治的未来についてロイターの質問をはぐらかした",
+          "note_ja": "sidestep は避けて通り過ぎる比喩。"
+        },
+        {
+          "text": "saying his health was in God's hands",
+          "role_ja": "付帯状況",
+          "literal_ja": "健康は神の手にあると述べ",
+          "note_ja": "in God's hands は運命を神に委ねる表現。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s031",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He said that ​the constitution allowed him to run again in 2030 and serve another term until 2036 if he won, but that it was too early to think about that.",
+      "translation_ja": "彼は憲法により2030年に再選出が可能で、勝てば2036年までさらに1期務められると述べたが、それについて考えるには早すぎるとも言った。",
+      "grammar_ja": "allowed him to（〜することを許した）、serve another term（さらに1期務める）、too early to（〜するには早すぎる）。",
+      "chunks": [
+        {
+          "text": "the constitution allowed him to run again in 2030 and serve another term until 2036 if he won",
+          "role_ja": "間接話法1",
+          "literal_ja": "憲法は2030年再選と勝利時2036年まで1期を認めた",
+          "note_ja": "run again / serve a term は選挙用語。"
+        },
+        {
+          "text": "but that it was too early to think about that",
+          "role_ja": "間接話法2",
+          "literal_ja": "しかしそれを考えるには早すぎる",
+          "note_ja": "too early to で話題を先送り。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s032",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The country faces a lot of large-scale and pressing issues,\" he said.",
+      "translation_ja": "「国は大規模で差し迫った課題を多く抱えている」と彼は述べた。",
+      "grammar_ja": "faces（直面している）、large-scale and pressing issues（大規模で差し迫った課題）。",
+      "chunks": [
+        {
+          "text": "The country faces a lot of large-scale and pressing issues",
+          "role_ja": "直接話法",
+          "literal_ja": "国は大規模で差し迫った課題を多く抱えている",
+          "note_ja": "pressing は「差し迫った・緊急の」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s033",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"They need to be solved without thinking about it, but thinking about the future of Russia.\"",
+      "translation_ja": "「それらは（自分のことは）考えずに、ロシアの未来について考えながら解決されなければならない。」",
+      "grammar_ja": "need to be solved（解決されねばならない）、without thinking about it / but thinking about（対比する分詞構文）。",
+      "chunks": [
+        {
+          "text": "They need to be solved",
+          "role_ja": "主節",
+          "literal_ja": "それらは解決されねばならない",
+          "note_ja": "they は issues を指す。受動態。"
+        },
+        {
+          "text": "without thinking about it",
+          "role_ja": "状況",
+          "literal_ja": "（自分のことは）考えずに",
+          "note_ja": "it は自身の政治的未来を指すと解釈される。"
+        },
+        {
+          "text": "but thinking about the future of Russia",
+          "role_ja": "対比する状況",
+          "literal_ja": "ロシアの未来について考えながら",
+          "note_ja": "対比的な並列で印象的な締めくくり。"
+        }
+      ],
+      "deep_dive_ja": "without ... but ... の対比がプーチンらしい修辞。it の指示対象が前文の political future である点が理解の鍵。",
+      "difficulty": "medium",
+      "sentence_id": "s034"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "hardline stance",
+      "pronunciation": "/ˌhɑːrdˈlaɪn stæns/",
+      "meaning_ja": "強硬な立場・強硬姿勢",
+      "example": "Putin stuck to his hardline stance on the war.",
+      "example_ja": "プーチンは戦争に関する強硬姿勢を変えなかった。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "compromise",
+      "pronunciation": "/ˈkɒmprəmaɪz/",
+      "meaning_ja": "妥協、譲歩",
+      "example": "Kyiv was ready to compromise.",
+      "example_ja": "キーウは譲歩する用意があった。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "on the sidelines of",
+      "pronunciation": "/ɒn ðə ˈsaɪdlaɪnz ɒv/",
+      "meaning_ja": "〜の場で（本題の横で）、〜の余談として",
+      "example": "He spoke on the sidelines of the economic forum.",
+      "example_ja": "彼は経済フォーラムの場で発言した。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "contend with",
+      "pronunciation": "/kənˈtend wɪð/",
+      "meaning_ja": "〜に対処する、〜と戦う",
+      "example": "Moscow had to improve air defenses to contend with drone threats.",
+      "example_ja": "モスクワはドローン脅威に対処するため防空を強化しなければならなかった。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "land grab",
+      "pronunciation": "/lænd ɡræb/",
+      "meaning_ja": "領土の不当な奪取",
+      "example": "Kyiv rejected the move as an illegal land grab.",
+      "example_ja": "キーウはその動きを違法な領土奪取として拒否した。",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "sabre rattling",
+      "pronunciation": "/ˈseɪbər ˌrætlɪŋ/",
+      "meaning_ja": "軍事的威嚇、脅し文句",
+      "example": "The Kremlin chief engaged in some sabre rattling.",
+      "example_ja": "クレムリン首脳は脅し文句を織り交ぜた。",
+      "source_sentence_id": "s027"
+    },
+    {
+      "word": "hypersonic",
+      "pronunciation": "/ˌhaɪpərˈsɒnɪk/",
+      "meaning_ja": "極超音速の",
+      "example": "Russia's Oreshnik hypersonic missile has a range of over 5,000 km.",
+      "example_ja": "ロシアの極超音速ミサイル・オレシュニクの射程は5000キロを超える。",
+      "source_sentence_id": "s029"
+    },
+    {
+      "word": "sidestep",
+      "pronunciation": "/ˈsaɪdstep/",
+      "meaning_ja": "（質問などを）はぐらかす、避ける",
+      "example": "Putin sidestepped a question about his political future.",
+      "example_ja": "プーチンは自身の政治的未来に関する質問をはぐらかした。",
+      "source_sentence_id": "s031"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-politics",
+      "title": "Reporting verbs in political news",
+      "rule": "Use said/told/warned/conceded + that-clause to attribute claims; tense may shift back (said → was/would).",
+      "example": "Putin said that Kyiv would have to compromise.",
+      "meaning_ja": "政治ニュースでは said / warned / conceded などの報告動詞＋that節で発言を伝える。時制は一つ前にずれることが多い（would, had など）。"
+    },
+    {
+      "id": "contrast-connectors",
+      "title": "Contrast with but / however / though",
+      "rule": "but joins clauses; however/though often mark contrast with prior information (though can come at sentence end).",
+      "example": "Putin struck a bullish note, though.",
+      "meaning_ja": "but は文をつなぐ逆接。however は前の内容への反論、though は文末でも「とはいえ」と軽く逆接できる。"
+    },
+    {
+      "id": "participial-phrases",
+      "title": "Participial phrases for context",
+      "rule": "V-ing / V-ed phrases at the start or end add time, reason, or extra detail without a full clause.",
+      "example": "Speaking in what is the fifth year of the war, Putin said that manpower was on Russia's side.",
+      "meaning_ja": "文頭・文末の分詞構文（Speaking..., referring to..., warning that...）で背景や付加情報を簡潔に足す。ニュースの長文理解に必須。"
+    },
+    {
+      "id": "conditional-would",
+      "title": "Conditions with if / unless / would",
+      "rule": "if + past/were to expresses hypothetical outcomes; unless means 'only if not'; would softens claims.",
+      "example": "Trump's proposals could end the fighting if Kyiv was ready to compromise.",
+      "meaning_ja": "if＋過去形や were to で現実的な条件・仮定を表す。unless は「〜しない限り」。would / could で断定を和らげるのが外交報道の特徴。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 34,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T23:12:55+09:00"
+  },
+  "article_id": "japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i"
+}

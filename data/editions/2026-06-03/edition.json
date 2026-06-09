@@ -1,0 +1,117 @@
+{
+  "edition_date": "2026-06-03",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-03",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-03:japan-eyes-stricter-social-media-age-che",
+    "japantoday:2026-06-03:school-teacher-re-arrested-in-aichi-for-",
+    "japantoday:2026-06-03:airbus-tests-passenger-plane-that-can-fl",
+    "japantoday:2026-06-03:takaichi-s-office-starts-new-social-medi",
+    "japantoday:2026-06-03:trump-calls-netanyahu-crazy-says-everybo",
+    "japantoday:2026-06-03:gov-t-banks-given-access-to-latest-anthr"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-03:japan-eyes-stricter-social-media-age-che",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/japan-eyes-stricter-social-media-age-checks-to-protect-youths",
+      "title": "Japan eyes stricter social media age checks to protect young people",
+      "slug": "01-japan-eyes-stricter-social-media-age-checks-to-protect-young-people",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_26",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-03:school-teacher-re-arrested-in-aichi-for-",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/school-teacher-re-arrested-in-aichi-for-allegedly-sexually-assaulting-14-year-old-boy",
+      "title": "School teacher re-arrested in Aichi for allegedly sexually assaulting 14-year-old boy",
+      "slug": "02-school-teacher-re-arrested-in-aichi-for-allegedly-sexually-assaulting-",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-03:airbus-tests-passenger-plane-that-can-fl",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/airbus-tests-passenger-plane-that-can-fly-22-hours-non-stop",
+      "title": "Airbus tests passenger plane that can fly 22 hours non-stop",
+      "slug": "03-airbus-tests-passenger-plane-that-can-fly-22-hours-non-stop",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_17",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-03:takaichi-s-office-starts-new-social-medi",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/japan-pm-office-starts-new-social-media-account-amid-press-access-concerns",
+      "title": "Takaichi's office starts new social media account over press access concerns",
+      "slug": "04-takaichi-s-office-starts-new-social-media-account-over-press-access-co",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_25",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-03:trump-calls-netanyahu-crazy-says-everybo",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/'crazy'-trump-netanyahu-relationship-under-growing-strain",
+      "title": "Trump calls Netanyahu crazy, says everybody hates him",
+      "slug": "05-trump-calls-netanyahu-crazy-says-everybody-hates-him",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_74",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-03:gov-t-banks-given-access-to-latest-anthr",
+      "edition_date": "2026-06-03",
+      "source_published_date_jst": "2026-06-03",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/japan-gov't-banks-given-access-to-latest-anthropic-ai-model-for-security",
+      "title": "Gov't, banks given access to latest Anthropic AI model for security",
+      "slug": "06-gov-t-banks-given-access-to-latest-anthropic-ai-model-for-security",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_5",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T22:25:34+09:00",
+  "warnings": [
+    "processing failed japantoday:2026-06-03:takaichi-s-office-starts-new-social-medi: Expecting value: line 1 column 1 (char 0)"
+  ]
+}

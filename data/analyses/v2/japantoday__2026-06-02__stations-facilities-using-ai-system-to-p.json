@@ -1,0 +1,389 @@
+{
+  "summary_ja": "日本では約40の駅や商業施設が、飛び降り自殺を防ぐためのAIシステムを導入している。東京のAsilla社が開発したこのシステムは、防犯カメラの映像から行動を分析し、危険な兆候を検知すると警備員などに知らせる。開発元によると、少なくとも2人の命を救った事例もある。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "About 40 stations and commercial buildings in Japan have introduced an artificial intelligence system to prevent suicide that has helped to save the lives of at least 2 people, according to its developer.",
+      "translation_ja": "開発元によると、日本の約40の駅や商業ビルが、自殺を防ぐための人工知能システムを導入しており、少なくとも2人の命を救うのに役立っている。",
+      "grammar_ja": "have introduced（現在完了）は導入の結果が今も続いていることを示す。that節はsystemを修飾する関係代名詞。according to its developerは文末の出典表現で、ニュース記事でよく使われる。",
+      "chunks": [
+        {
+          "text": "About 40 stations and commercial buildings in Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本の約40の駅と商業ビルが",
+          "note_ja": "aboutは「およそ・約」。commercial buildingsは商業施設・商業ビル。"
+        },
+        {
+          "text": "have introduced",
+          "role_ja": "述語（現在完了）",
+          "literal_ja": "導入してきた",
+          "note_ja": "導入した事実が現在まで続いているニュアンス。"
+        },
+        {
+          "text": "an artificial intelligence system to prevent suicide",
+          "role_ja": "目的語",
+          "literal_ja": "自殺を防ぐためのAIシステムを",
+          "note_ja": "to prevent suicideは目的を表す不定詞。"
+        },
+        {
+          "text": "that has helped to save the lives of at least 2 people",
+          "role_ja": "関係代名詞節（systemを修飾）",
+          "literal_ja": "少なくとも2人の命を救うのに役立ってきた",
+          "note_ja": "save the lives ofは「〜の命を救う」の定番表現。at leastは「少なくとも」。"
+        },
+        {
+          "text": "according to its developer",
+          "role_ja": "付加情報（出典）",
+          "literal_ja": "その開発元によれば",
+          "note_ja": "情報源を示す定型句。itsはsystemの開発元を指す。"
+        }
+      ],
+      "deep_dive_ja": "ニュースのリード文でよくある構造で、主張の根拠を文末に置く。introduce a systemは「システムを導入する」という硬めの表現。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Tokyo-based Asilla Inc created the system, which assesses the likelihood that individuals will leap to their deaths by analyzing behavior captured by security cameras at stations and buildings, such as pacing or lingering near the edge of a station platform or rooftop.",
+      "translation_ja": "東京に本社を置くAsilla社がこのシステムを開発した。同社のシステムは、駅やビルに設置された防犯カメラが捉えた行動を分析し、人が飛び降りて自殺する可能性を評価する。たとえば、ホームや屋上の端の近くでうろうろしたり、長く留まったりする行動などだ。",
+      "grammar_ja": "Tokyo-basedは「東京に拠点を置く」。which節は非制限用法で追加情報。such asで具体例を列挙。captured byは過去分詞でbehaviorを修飾。",
+      "chunks": [
+        {
+          "text": "Tokyo-based Asilla Inc",
+          "role_ja": "主語",
+          "literal_ja": "東京拠点のAsilla社が",
+          "note_ja": "-basedは「〜を拠点とする」の複合形容詞。"
+        },
+        {
+          "text": "created the system",
+          "role_ja": "述語",
+          "literal_ja": "そのシステムを作った",
+          "note_ja": "developよりcreatedと書くと「開発・構築した」感が強い。"
+        },
+        {
+          "text": "which assesses the likelihood that individuals will leap to their deaths",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "人が飛び降りて死ぬ可能性を評価する",
+          "note_ja": "assess the likelihood that...は「〜する可能性を評価する」。leap to one's deathは「飛び降りて死ぬ」。"
+        },
+        {
+          "text": "by analyzing behavior captured by security cameras",
+          "role_ja": "方法（前置詞句）",
+          "literal_ja": "防犯カメラが捉えた行動を分析することによって",
+          "note_ja": "by + -ingは手段・方法。captured byは受動の関係。"
+        },
+        {
+          "text": "such as pacing or lingering near the edge of a station platform or rooftop",
+          "role_ja": "例示",
+          "literal_ja": "たとえば駅のホーム端や屋上の端の近くで歩き回ったり長く留まったりするような",
+          "note_ja": "lingerは「（ある場所に）長く留まる」。near the edge ofは「〜の端の近く」。"
+        }
+      ],
+      "deep_dive_ja": "一文が長いが、主節＋which節＋such asの例示で整理できる。platformは鉄道では「ホーム」の意味。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Once the system detects such signs, it alerts security guards and station staff, with warnings issued through loudspeakers in some cases.",
+      "translation_ja": "システムがそのような兆候を検知すると、警備員や駅員に知らせる。場合によっては、拡声器を通じて警告が出される。",
+      "grammar_ja": "Onceは「〜するとすぐに」の従属接続詞。with warnings issuedは独立分詞構文（付帯状況）。in some casesは「場合によっては」。",
+      "chunks": [
+        {
+          "text": "Once the system detects such signs",
+          "role_ja": "時間・条件の副詞節",
+          "literal_ja": "システムがそのような兆候を検知するとすぐに",
+          "note_ja": "Once + 現在形で「〜したら」という条件・時間。"
+        },
+        {
+          "text": "it alerts security guards and station staff",
+          "role_ja": "主節（述語）",
+          "literal_ja": "それは警備員と駅員に知らせる",
+          "note_ja": "alertは「警告・通知する」。"
+        },
+        {
+          "text": "with warnings issued through loudspeakers",
+          "role_ja": "付帯状況",
+          "literal_ja": "拡声器を通じて警告が出されることとともに",
+          "note_ja": "with + 名詞 + 過去分詞の独立分詞構文。"
+        },
+        {
+          "text": "in some cases",
+          "role_ja": "副詞句",
+          "literal_ja": "いくつかの場合では",
+          "note_ja": "常にそうなるわけではないことを示す。"
+        }
+      ],
+      "deep_dive_ja": "二文目のsuch signsは前のpacingやlingeringを指す。issue a warningは「警告を発する」。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "In one instance, the system detected a man in an area that customers do not enter at a commercial facility and a guard approached him.",
+      "translation_ja": "ある事例では、商業施設の客が入ってはいけない区域にいる男性をシステムが検知し、警備員がその男性に近づいた。",
+      "grammar_ja": "In one instanceは事例導入の定型句。that customers do not enterはareaを修飾。andで二つの出来事を並列。",
+      "chunks": [
+        {
+          "text": "In one instance",
+          "role_ja": "状況提示",
+          "literal_ja": "一つの事例では",
+          "note_ja": "具体例を始めるときの表現。for exampleと似た役割。"
+        },
+        {
+          "text": "the system detected a man in an area that customers do not enter",
+          "role_ja": "主節＋関係代名詞節",
+          "literal_ja": "システムは客が入らない区域にいる男性を検知した",
+          "note_ja": "detectは「検知する」。do not enterは立入禁止区域を示す。"
+        },
+        {
+          "text": "at a commercial facility",
+          "role_ja": "場所の修飾",
+          "literal_ja": "商業施設で",
+          "note_ja": "commercial facilityはショッピングモール等。"
+        },
+        {
+          "text": "and a guard approached him",
+          "role_ja": "並列節",
+          "literal_ja": "そして警備員が彼に近づいた",
+          "note_ja": "approachはここでは「近づく・声をかける」ニュアンス。"
+        }
+      ],
+      "deep_dive_ja": "ニュースでは複数の出来事をandで一文にまとめることが多い。detectedとapproachedはいずれも過去形で報道調。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The man later said he had intended to kill himself by jumping, according to the company.",
+      "translation_ja": "会社によると、その男性は後に、飛び降りて自殺しようとしていたと述べた。",
+      "grammar_ja": "had intendedは過去完了で、検知より前の意図を表す。kill himself by jumpingは手段を示すby + -ing。",
+      "chunks": [
+        {
+          "text": "The man later said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "その男性は後に言った",
+          "note_ja": "laterは時間の後置で「その後」。"
+        },
+        {
+          "text": "he had intended to kill himself by jumping",
+          "role_ja": "間接話法の内容節",
+          "literal_ja": "彼は飛び降りて自殺しようと意図していた",
+          "note_ja": "intend to doは「〜しようと意図する」。by jumpingは手段。"
+        },
+        {
+          "text": "according to the company",
+          "role_ja": "出典",
+          "literal_ja": "会社によれば",
+          "note_ja": "発言内容の情報源を示す。"
+        }
+      ],
+      "deep_dive_ja": "間接話法で時制が一段階ずれる（said → had intended）。kill oneselfは自殺を婉曲に表す表現。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "In another case, a child was found lingering for a long time near a railing on an upper floor of a facility, and a security guard discovered the child had been writing a suicide note, it said.",
+      "translation_ja": "別の事例では、施設の上階の手すりの近くで長時間とどまっている子どもが見つかり、警備員がその子どもが自殺の遺書を書いていたことを突き止めた、と同社は述べた。",
+      "grammar_ja": "was found lingeringはfind + 目的語 + -ingの受動形。had been writingは過去進行完了で、その前から書いていたことを示す。it saidは会社を主語にした報道表現。",
+      "chunks": [
+        {
+          "text": "In another case",
+          "role_ja": "状況提示",
+          "literal_ja": "別の事例では",
+          "note_ja": "前のIn one instanceと対になる。"
+        },
+        {
+          "text": "a child was found lingering for a long time near a railing on an upper floor of a facility",
+          "role_ja": "受動文",
+          "literal_ja": "子どもが施設の上階の手すりの近くで長い間とどまっているのが見つかった",
+          "note_ja": "be found -ingは「〜しているところを見つかる」。railingは手すり。"
+        },
+        {
+          "text": "a security guard discovered the child had been writing a suicide note",
+          "role_ja": "並列節",
+          "literal_ja": "警備員は子どもが遺書を書いていたことを突き止めた",
+          "note_ja": "discover + that節。suicide noteは「自殺の遺書」。"
+        },
+        {
+          "text": "it said",
+          "role_ja": "報道の述語",
+          "literal_ja": "それ（会社）は述べた",
+          "note_ja": "itはthe companyを指す。英語ニュースでよくある構文。"
+        }
+      ],
+      "deep_dive_ja": "一文に二つの事例要素と報道元のit saidが入る複雑な構文。for a long timeはlingerとよく結びつく。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Asilla has worked with around 200 commercial facilities and other entities since 2022 to train the AI system on around 7 million pieces of security camera footage, enabling it to detect not just suicidal signs but instances of illness and immobility as well as violence.",
+      "translation_ja": "Asilla社は2022年以降、約200の商業施設などと協力し、約700万本の防犯カメラ映像でAIシステムを訓練してきた。これにより、自殺の兆候だけでなく、病気や動けない状態、暴力の場面も検知できるようになった。",
+      "grammar_ja": "has workedは2022年から現在までの継続。to trainは目的。enabling it to detectは結果を表す分詞構文。not just A but B as well as Cは「AだけでなくBやCも」の列挙。",
+      "chunks": [
+        {
+          "text": "Asilla has worked with around 200 commercial facilities and other entities since 2022",
+          "role_ja": "主節",
+          "literal_ja": "Asillaは2022年以来約200の商業施設などと協力してきた",
+          "note_ja": "work withは「〜と協力する」。entitiesは組織・団体。"
+        },
+        {
+          "text": "to train the AI system on around 7 million pieces of security camera footage",
+          "role_ja": "目的",
+          "literal_ja": "約700万本の防犯カメラ映像でAIシステムを訓練するために",
+          "note_ja": "train onは「〜のデータで訓練する」。pieces of footageは映像の本数。"
+        },
+        {
+          "text": "enabling it to detect not just suicidal signs",
+          "role_ja": "結果（分詞構文）",
+          "literal_ja": "それが自殺の兆候だけでなく〜を検知できるようにして",
+          "note_ja": "enable + 目的語 + to不定詞。"
+        },
+        {
+          "text": "but instances of illness and immobility as well as violence",
+          "role_ja": "対比・追加列挙",
+          "literal_ja": "病気や動けない状態、そして暴力の事例も",
+          "note_ja": "immobilityは「動けない状態」。as well asは「〜に加えて」。"
+        }
+      ],
+      "deep_dive_ja": "技術記事でよくある、訓練データの規模と検知対象の幅を示す文。not just...but...as well asで範囲を広げる。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "It has been introduced at about 30 commercial facilities and around 10 stations in Tokyo and neighboring Kanagawa Prefecture, according to the company.",
+      "translation_ja": "同社によると、このシステムは東京と隣接する神奈川県の、約30の商業施設とおよそ10の駅で導入されている。",
+      "grammar_ja": "It has been introducedは現在完了の受動態で導入済みの状態。neighboringは「隣接する」の形容詞。",
+      "chunks": [
+        {
+          "text": "It has been introduced",
+          "role_ja": "述語（受動・現在完了）",
+          "literal_ja": "それは導入されてきた",
+          "note_ja": "Itはthe AI systemを指す。"
+        },
+        {
+          "text": "at about 30 commercial facilities and around 10 stations",
+          "role_ja": "場所",
+          "literal_ja": "約30の商業施設と約10の駅で",
+          "note_ja": "introduce atは導入場所を示す。"
+        },
+        {
+          "text": "in Tokyo and neighboring Kanagawa Prefecture",
+          "role_ja": "地域の修飾",
+          "literal_ja": "東京と隣の神奈川県の",
+          "note_ja": "neighboring Kanagawa Prefectureは「隣接する神奈川県」。"
+        },
+        {
+          "text": "according to the company",
+          "role_ja": "出典",
+          "literal_ja": "会社によれば",
+          "note_ja": "記事全体で繰り返される出典表現。"
+        }
+      ],
+      "deep_dive_ja": "冒頭のAbout 40と数字が異なるのは、訓練協力先と実際の導入先の違い。be introduced atは公共・施設ニュースの定番。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "artificial intelligence",
+      "pronunciation": "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+      "meaning_ja": "人工知能（AI）",
+      "example": "an artificial intelligence system to prevent suicide",
+      "example_ja": "自殺を防ぐための人工知能システム",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "linger",
+      "pronunciation": "/ˈlɪŋɡər/",
+      "meaning_ja": "（ある場所に）長く留まる、うろうろする",
+      "example": "lingering near the edge of a station platform",
+      "example_ja": "駅のホームの端の近くに長く留まること",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "detect",
+      "pronunciation": "/dɪˈtekt/",
+      "meaning_ja": "検知する、見つける",
+      "example": "Once the system detects such signs",
+      "example_ja": "システムがそのような兆候を検知すると",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "assess",
+      "pronunciation": "/əˈses/",
+      "meaning_ja": "評価する、見極める",
+      "example": "assesses the likelihood that individuals will leap to their deaths",
+      "example_ja": "人が飛び降りて死ぬ可能性を評価する",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "commercial facility",
+      "pronunciation": "/kəˈmɜːrʃl fəˈsɪləti/",
+      "meaning_ja": "商業施設（ショッピングモールなど）",
+      "example": "introduced at about 30 commercial facilities",
+      "example_ja": "約30の商業施設に導入されている",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "suicide note",
+      "pronunciation": "/ˈsuːɪsaɪd noʊt/",
+      "meaning_ja": "自殺の遺書",
+      "example": "the child had been writing a suicide note",
+      "example_ja": "その子どもが自殺の遺書を書いていた",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "footage",
+      "pronunciation": "/ˈfʊtɪdʒ/",
+      "meaning_ja": "（撮影された）映像、フィルム",
+      "example": "7 million pieces of security camera footage",
+      "example_ja": "700万本の防犯カメラ映像",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "immobility",
+      "pronunciation": "/ˌɪmoʊˈbɪləti/",
+      "meaning_ja": "動けない状態、不動",
+      "example": "instances of illness and immobility",
+      "example_ja": "病気や動けない状態の事例",
+      "source_sentence_id": "s007"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "present-perfect-news",
+      "title": "Present Perfect in news reporting",
+      "rule": "Use have/has + past participle for recent developments with present relevance.",
+      "example": "About 40 stations have introduced an AI system.",
+      "meaning_ja": "ニュースでは現在完了を使い、「すでに導入されており、その状態が今も続いている」ことを示す。単純過去より結果が現在に残る感じが強い。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "according to + source",
+      "rule": "Place 'according to [person/organization]' at the start or end to attribute information.",
+      "example": "..., according to its developer.",
+      "meaning_ja": "情報の出所を示す定型表現。「〜によれば」で、主張の根拠が開発元・会社などにあることを明示する。"
+    },
+    {
+      "id": "reduced-relative-participle",
+      "title": "Reduced relative clauses with participles",
+      "rule": "Use -ing or -ed participles after nouns to add detail without a full relative clause.",
+      "example": "behavior captured by security cameras",
+      "meaning_ja": "関係代名詞節を短くした分詞構文。captured by security camerasは「防犯カメラによって捉えられた」という修飾になる。"
+    },
+    {
+      "id": "not-just-but-as-well-as",
+      "title": "not just A but B as well as C",
+      "rule": "Use this pattern to expand a list beyond the first item.",
+      "example": "not just suicidal signs but instances of illness and immobility as well as violence",
+      "meaning_ja": "「Aだけでなく、BやCも」という範囲の広がりを示す。技術・政策記事で、対象や機能が複数あるときによく使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 8,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:19:33+09:00"
+  },
+  "article_id": "japantoday:2026-06-02:stations-facilities-using-ai-system-to-p"
+}

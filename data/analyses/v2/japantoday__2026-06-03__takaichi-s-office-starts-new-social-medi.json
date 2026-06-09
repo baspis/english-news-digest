@@ -1,0 +1,423 @@
+{
+  "summary_ja": "日本政府は、高市首相が前任者より記者会見を少なくしているとの懸念の中、首相の活動を伝える公式SNSアカウントを試験運用の後に本格始動すると発表した。X上のアカウントは柔軟な発信や報道へのコメントなどを通じて広報を強化する狙いだが、報道への影響や監視ではないとの説明もある。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The Japanese government said Tuesday it will formally launch a social media account covering Prime Minister Sanae Takaichi's activities following a month-long trial, amid concerns that she speaks to the press less than her predecessors.",
+      "translation_ja": "日本政府は火曜日、1か月間の試験運用を経て、高市早苗首相の活動を伝えるSNSアカウントを正式に始動すると発表した。これは、彼女が前任者より記者への対応が少ないとの懸念の中でのことだ。",
+      "grammar_ja": "said Tuesday it will formally launch は「火曜日に〜すると述べた」という報道文体の間接話法。said の後は that 省略の名詞節。amid concerns that ... は「〜という懸念の中で」という背景を示す構文。following a month-long trial は主節の後ろに付く時間の修飾。",
+      "chunks": [
+        {
+          "text": "The Japanese government",
+          "role_ja": "主語",
+          "literal_ja": "日本政府は",
+          "note_ja": "報道の主語としてよく使われる公式主体。"
+        },
+        {
+          "text": "said Tuesday",
+          "role_ja": "述語（報道動詞＋時）",
+          "literal_ja": "火曜日に述べた",
+          "note_ja": "said Monday/Tuesday はニュース英語の定番表現。"
+        },
+        {
+          "text": "it will formally launch a social media account",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "それは正式にSNSアカウントを始動する",
+          "note_ja": "formally launch は「本格始動する」。試験運用後の正式化を示す。"
+        },
+        {
+          "text": "covering Prime Minister Sanae Takaichi's activities",
+          "role_ja": "現在分詞の修飾語",
+          "literal_ja": "高市首相の活動を伝える",
+          "note_ja": "covering は「〜について報じる・取り上げる」意味の分詞句。"
+        },
+        {
+          "text": "following a month-long trial",
+          "role_ja": "時間の修飾語",
+          "literal_ja": "1か月間の試験運用の後に",
+          "note_ja": "following は「〜の後に」。month-long は複合形容詞。"
+        },
+        {
+          "text": "amid concerns that she speaks to the press less than her predecessors",
+          "role_ja": "背景・理由の修飾語",
+          "literal_ja": "彼女が前任者より記者への対応が少ないという懸念の中で",
+          "note_ja": "amid concerns that ... は政治記事で背景説明に頻出。less than で比較。"
+        }
+      ],
+      "deep_dive_ja": "見出しの press access concerns は、この文の speaks to the press less than her predecessors に対応している。B2学習者は amid と despite の違いに注意。amid は「その状況の中で」、否定的文脈でも必ずしも反対関係ではない。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The account on X is intended to communicate more \"flexibly\" through content, including candid photos from official engagements and updates from events not open to the press.",
+      "translation_ja": "X上のアカウントは、公式行事での素顔の写真や、記者が入れないイベントの情報などのコンテンツを通じて、より「柔軟に」発信することを目的としている。",
+      "grammar_ja": "be intended to は「〜することを意図している」。including ... は具体例の列挙。not open to the press は「報道陣には公開されていない」という受動の否定修飾。",
+      "chunks": [
+        {
+          "text": "The account on X",
+          "role_ja": "主語",
+          "literal_ja": "X上のアカウントは",
+          "note_ja": "on X はプラットフォーム指定。formerly Twitter。"
+        },
+        {
+          "text": "is intended to communicate more \"flexibly\"",
+          "role_ja": "述語",
+          "literal_ja": "より柔軟に発信することを意図している",
+          "note_ja": "intended to は目的説明の丁寧な表現。副詞 flexibly が communicate を修飾。"
+        },
+        {
+          "text": "through content",
+          "role_ja": "手段",
+          "literal_ja": "コンテンツを通じて",
+          "note_ja": "through は手段・方法。"
+        },
+        {
+          "text": "including candid photos from official engagements",
+          "role_ja": "同格の具体例",
+          "literal_ja": "公式行事での素顔の写真を含め",
+          "note_ja": "candid photos は「ありのままの写真」。engagements は公式予定。"
+        },
+        {
+          "text": "and updates from events not open to the press",
+          "role_ja": "同格の具体例",
+          "literal_ja": "そして記者が入れないイベントからの更新情報",
+          "note_ja": "not open to the press は報道制限イベントを簡潔に表す。"
+        }
+      ],
+      "deep_dive_ja": "引用符の flexibly は、政府が意図的に使う言葉として距離を置いて示している可能性がある。open to は「〜に開かれた」というよく使うコロケーション。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "It has also commented on news reports about the administration and posted messages to foreign dignitaries.",
+      "translation_ja": "このアカウントは、政権に関する報道にコメントしたり、外国の要人へのメッセージを投稿したりもしている。",
+      "grammar_ja": "現在完了 has commented / has posted で、試験運用以来の実績を示す。comment on と post ... to の前置詞に注意。",
+      "chunks": [
+        {
+          "text": "It",
+          "role_ja": "主語",
+          "literal_ja": "それは",
+          "note_ja": "前の文の the account を受ける。"
+        },
+        {
+          "text": "has also commented on news reports about the administration",
+          "role_ja": "述語（前半）",
+          "literal_ja": "また政権に関する報道にコメントしてきた",
+          "note_ja": "comment on は「〜にコメントする」固定。"
+        },
+        {
+          "text": "and posted messages to foreign dignitaries",
+          "role_ja": "述語（後半）",
+          "literal_ja": "そして外国の要人へメッセージを投稿した",
+          "note_ja": "post A to B は宛先を to で示す。"
+        }
+      ],
+      "deep_dive_ja": "この文が次の記者の質問「報道への影響は？」につながる。administration は「政権・政権側」の意味。",
+      "difficulty": "easy",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Regarding the account's continuation, Chief Cabinet Secretary Minoru Kihara told a regular press conference that the government believes it has proved to be a \"meaningful new approach to public communications.\"",
+      "translation_ja": "アカウントの継続について、木原稔官房長官は定例記者会見で、政府はこれが「広報における意義ある新しい手法」であることが示されたと考えていると述べた。",
+      "grammar_ja": "Regarding ... は文頭の話題提示。believes の後は that 節。has proved to be は「〜であることが示された」。approach to は「〜への手法」。",
+      "chunks": [
+        {
+          "text": "Regarding the account's continuation",
+          "role_ja": "話題提示",
+          "literal_ja": "アカウントの継続について",
+          "note_ja": "Regarding は about より格式ばった報道表現。"
+        },
+        {
+          "text": "Chief Cabinet Secretary Minoru Kihara",
+          "role_ja": "主語",
+          "literal_ja": "官房長官木原稔は",
+          "note_ja": "日本の官職名は英語でも固有名詞として大文字始まり。"
+        },
+        {
+          "text": "told a regular press conference",
+          "role_ja": "述語（報道動詞）",
+          "literal_ja": "定例記者会見で述べた",
+          "note_ja": "regular press conference は「定例記者会見」。"
+        },
+        {
+          "text": "that the government believes",
+          "role_ja": "間接話法の導入",
+          "literal_ja": "政府は〜と考えていると",
+          "note_ja": "発言内容の二重構造：官房長官が政府の見解を伝える。"
+        },
+        {
+          "text": "it has proved to be a \"meaningful new approach to public communications\"",
+          "role_ja": "believe の内容",
+          "literal_ja": "それは広報への意義ある新手法であることが示された",
+          "note_ja": "prove to be は結果として〜だと分かった。public communications は広報・対外公表。"
+        }
+      ],
+      "deep_dive_ja": "prove と prove to be：ここでは「試した結果、有効だと分かった」ニュアンス。continuation は単なる存在ではなく、試験後の本格運用継続の話。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "When asked whether the account's interactions with news articles could influence press coverage, he said it is \"not intended to monitor media reporting.\"",
+      "translation_ja": "アカウントが報道記事とやり取りすることで報道内容に影響を与えうるかと問われると、彼はそれは「報道を監視するためのものではない」と答えた。",
+      "grammar_ja": "When asked whether ... は「〜かと問われたとき」の省略構文。could influence は可能性。be intended to は目的の否定説明。",
+      "chunks": [
+        {
+          "text": "When asked whether the account's interactions with news articles could influence press coverage",
+          "role_ja": "時・条件の副詞節",
+          "literal_ja": "アカウントの報道記事とのやり取りが報道内容に影響しうるかと問われたとき",
+          "note_ja": "When asked = When he was asked の省略。whether は yes/no 質問。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "主節の述語",
+          "literal_ja": "彼は述べた",
+          "note_ja": "he は Kihara を受ける。"
+        },
+        {
+          "text": "it is \"not intended to monitor media reporting\"",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "それは報道を監視する意図はない",
+          "note_ja": "monitor は監視。influence と monitor の対比が記事の論点。"
+        }
+      ],
+      "deep_dive_ja": "記者の質問は影響力、回答は監視否定とずらしている。B2学習者は whether と if の使い分けを意識するとよい。フォーマルな間接疑問には whether が好まれる。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The account was rebranded Tuesday as the official account of the Cabinet Secretary for Public Affairs, a post currently held by Kozo Saiki, who served as a speechwriter and executive secretary to the late former Prime Minister Shinzo Abe.",
+      "translation_ja": "このアカウントは火曜日、広報官の公式アカウントとして名称変更された。広報官の職は現在、已故の安倍晋三元首相の演説原稿担当兼執行秘書を務めた佐伯光三氏が就いている。",
+      "grammar_ja": "was rebranded as は受動態。同格の a post currently held by ... で職名を説明。who served as ... は非制限用法の関係代名詞。the late former PM は故人の前首相。",
+      "chunks": [
+        {
+          "text": "The account was rebranded Tuesday",
+          "role_ja": "主節",
+          "literal_ja": "アカウントは火曜日に名称変更された",
+          "note_ja": "rebrand はブランド・名称を改める。"
+        },
+        {
+          "text": "as the official account of the Cabinet Secretary for Public Affairs",
+          "role_ja": "補語",
+          "literal_ja": "広報官の公式アカウントとして",
+          "note_ja": "as は新しい身分・役割を示す。"
+        },
+        {
+          "text": "a post currently held by Kozo Saiki",
+          "role_ja": "同格",
+          "literal_ja": "現在佐伯光三が就く職として",
+          "note_ja": "held by は職位の保有。currently で現職を示す。"
+        },
+        {
+          "text": "who served as a speechwriter and executive secretary",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "彼は演説原稿担当と執行秘書を務めた人で",
+          "note_ja": "serve as は「〜を務める」。"
+        },
+        {
+          "text": "to the late former Prime Minister Shinzo Abe",
+          "role_ja": "前置詞句",
+          "literal_ja": "已故の元首相安倍晋三に対して",
+          "note_ja": "the late は故人を敬意を込めて示す。former と late の併用は報道で一般的。"
+        }
+      ],
+      "deep_dive_ja": "一文に情報が詰まった典型の政治記事文。同格と関係代名詞で職歴まで説明する。読むときは was rebranded ... as ... を骨格として先に把握するとよい。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The account has attracted around 110,000 followers since its May 1 launch.",
+      "translation_ja": "このアカウントは5月1日の開始以来、約11万人のフォロワーを獲得している。",
+      "grammar_ja": "現在完了 has attracted は開始以来の累積。since + 過去の時点。around は概数。",
+      "chunks": [
+        {
+          "text": "The account",
+          "role_ja": "主語",
+          "literal_ja": "アカウントは",
+          "note_ja": "前文と同じアカウント。"
+        },
+        {
+          "text": "has attracted around 110,000 followers",
+          "role_ja": "述語",
+          "literal_ja": "約11万人のフォロワーを引きつけてきた",
+          "note_ja": "attract followers はSNS文脈の定番。"
+        },
+        {
+          "text": "since its May 1 launch",
+          "role_ja": "時の修飾",
+          "literal_ja": "5月1日の開始以来",
+          "note_ja": "launch はサービス開始・開設。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Takaichi has a passionate online following, with some pundits crediting her social media savvy as a factor in the Liberal Democratic Party's landslide House of Representatives election victory in February.",
+      "translation_ja": "高市氏には熱心なオンライン支持者が多く、一部の評論家は、彼女のSNSへの精通が2月の衆院選での自民党の圧勝要因の一つだったと評価している。",
+      "grammar_ja": "with some pundits crediting ... は付帯状況の with 構文（分詞の独立構文に近い）。credit A as B は「AをBとして評価する」。landslide victory は圧勝。",
+      "chunks": [
+        {
+          "text": "Takaichi has a passionate online following",
+          "role_ja": "主節",
+          "literal_ja": "高市には熱心なオンライン支持者層がある",
+          "note_ja": "following は名詞で「支持者層」。online following はネット上の人気。"
+        },
+        {
+          "text": "with some pundits crediting her social media savvy",
+          "role_ja": "付帯状況",
+          "literal_ja": "一部の評論家が彼女のSNSへの精通を評価して",
+          "note_ja": "credit はここで「〜のおかげとする」。savvy は実践的な巧みさ。"
+        },
+        {
+          "text": "as a factor in the Liberal Democratic Party's landslide House of Representatives election victory",
+          "role_ja": "補語",
+          "literal_ja": "自民党の衆院選圧勝の要因として",
+          "note_ja": "landslide victory は大差勝利。House of Representatives は衆議院。"
+        },
+        {
+          "text": "in February",
+          "role_ja": "時間修飾",
+          "literal_ja": "2月に",
+          "note_ja": "選挙時期の特定。"
+        }
+      ],
+      "deep_dive_ja": "with + O + V-ing は報道で背景や理由を足す便利な構文。factor in は「〜における要因」。LDP は Liberal Democratic Party の略として文中では展開されている。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Her official activities are also covered by an official X account for the Prime Minister's Office, which has some 1.7 million followers.",
+      "translation_ja": "彼女の公式活動は、首相官邸の公式Xアカウントでも発信されており、そのフォロワー数は約170万人である。",
+      "grammar_ja": "受動態 are covered by。関係代名詞 which は account を受ける非制限用法。some 1.7 million は about と同様の概数表現。",
+      "chunks": [
+        {
+          "text": "Her official activities",
+          "role_ja": "主語",
+          "literal_ja": "彼女の公式活動は",
+          "note_ja": "Her は Takaichi。"
+        },
+        {
+          "text": "are also covered by an official X account for the Prime Minister's Office",
+          "role_ja": "述語",
+          "literal_ja": "また首相官邸の公式Xアカウントによって発信されている",
+          "note_ja": "cover は「報道する・取り上げる」意味でも使われる。"
+        },
+        {
+          "text": "which has some 1.7 million followers",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それは約170万人のフォロワーを持ち",
+          "note_ja": "some + 数字 はおよその数。前のアカウント11万人との対比が記事の意図。"
+        }
+      ],
+      "deep_dive_ja": "also は別アカウントとの併存を示す。Prime Minister's Office は首相官邸。2つのアカウントの役割分担を示す締めの文。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "amid",
+      "pronunciation": "/əˈmɪd/",
+      "meaning_ja": "〜の中で、〜という状況の下で",
+      "example": "amid concerns that she speaks to the press less",
+      "example_ja": "記者への対応が少ないという懸念の中で",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "formally launch",
+      "pronunciation": "/ˈfɔːrməli lɔːntʃ/",
+      "meaning_ja": "正式に始動する、本格始動する",
+      "example": "it will formally launch a social media account",
+      "example_ja": "SNSアカウントを正式に始動する",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "candid",
+      "pronunciation": "/ˈkændɪd/",
+      "meaning_ja": "ありのままの、飾らない",
+      "example": "candid photos from official engagements",
+      "example_ja": "公式行事での素顔の写真",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "rebrand",
+      "pronunciation": "/riːˈbrænd/",
+      "meaning_ja": "名称・ブランドを改める、再編する",
+      "example": "The account was rebranded as the official account",
+      "example_ja": "アカウントは公式アカウントとして名称変更された",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "dignitary",
+      "pronunciation": "/ˈdɪɡnɪteri/",
+      "meaning_ja": "要人、高官",
+      "example": "posted messages to foreign dignitaries",
+      "example_ja": "外国の要人へメッセージを投稿した",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "landslide victory",
+      "pronunciation": "/ˈlændslaɪd ˈvɪktəri/",
+      "meaning_ja": "圧勝、大差勝利",
+      "example": "the party's landslide election victory",
+      "example_ja": "政党の選挙での圧勝",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "savvy",
+      "pronunciation": "/ˈsævi/",
+      "meaning_ja": "（実務的な）巧みさ、精通",
+      "example": "her social media savvy",
+      "example_ja": "彼女のSNSへの精通",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "press coverage",
+      "pronunciation": "/pres ˈkʌvərɪdʒ/",
+      "meaning_ja": "報道、マスコミの取材・報じ方",
+      "example": "could influence press coverage",
+      "example_ja": "報道内容に影響を与えうる",
+      "source_sentence_id": "s005"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-news",
+      "title": "Reported speech in news (said that...)",
+      "rule": "Use said/told + (that) + clause to report official statements; 'that' is often omitted.",
+      "example": "The government said Tuesday it will formally launch a social media account.",
+      "meaning_ja": "報道英語では said/told の後に that 節で発言内容を伝える。that は省略されることが多い。時制は文脈により現在・未来をそのまま使うこともある。"
+    },
+    {
+      "id": "amid-concerns-that",
+      "title": "amid concerns that + clause",
+      "rule": "'Amid' introduces the background situation; 'concerns that' introduces the specific worry.",
+      "example": "amid concerns that she speaks to the press less than her predecessors",
+      "meaning_ja": "「〜という懸念の中で」という背景説明。政治・社会記事で理由や文脈を簡潔に示す定番構文。"
+    },
+    {
+      "id": "with-absolute-participial",
+      "title": "with + noun + -ing (accompanying detail)",
+      "rule": "with + object + present participle adds extra information about a related action or opinion.",
+      "example": "with some pundits crediting her social media savvy as a factor",
+      "meaning_ja": "主文に付加的な状況を足す構文。「〜という人々が…している状況で」と訳すと自然。理由や評価を補足するのに便利。"
+    },
+    {
+      "id": "be-intended-to",
+      "title": "be intended to + infinitive",
+      "rule": "Describes purpose or design; often used in official explanations.",
+      "example": "It is not intended to monitor media reporting.",
+      "meaning_ja": "「〜することを意図している／意図されたものではない」という公式説明の表現。目的を述べる際に頻出。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 9,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:46:19+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:takaichi-s-office-starts-new-social-medi"
+}

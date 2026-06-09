@@ -1,0 +1,535 @@
+{
+  "summary_ja": "高市早苗首相は、イランのペゼシュキアン大統領との電話会談で、ほぼ閉鎖状態のホルムズ海峡を通る船舶の自由かつ安全な航行を求めた。ペゼシュキアン大統領は日本籍船舶の円滑な通過と、日本に凍結されたイランの資産を使った物資確保への協力を求めた。首相は和平交渉への柔軟性を強く期待するとともに、オランダ首相とも天皇皇后の国事訪問について協議した。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japanese Prime Minister Sanae Takaichi said Monday she called for the free and safe passage of ships through the all-but-closed Strait of Hormuz in phone talks with Iranian President Masoud Pezeshkian.",
+      "translation_ja": "高市早苗日本首相は月曜日、イランのマスード・ペゼシュキアン大統領との電話会談で、ほぼ閉鎖状態のホルムズ海峡を通る船舶の自由かつ安全な航行を求めたと述べた。",
+      "grammar_ja": "said の後に that 省略の内容節（she called for...）。call for は「〜を求める」の硬いニュース表現。all-but-closed は「事実上閉鎖された」という強調表現。",
+      "chunks": [
+        {
+          "text": "Japanese Prime Minister Sanae Takaichi",
+          "role_ja": "主語",
+          "literal_ja": "日本首相・高市早苗",
+          "note_ja": "報道文では氏名の前に肩書きを置くのが一般的。"
+        },
+        {
+          "text": "said Monday",
+          "role_ja": "述語（発言の報告）",
+          "literal_ja": "月曜日に述べた",
+          "note_ja": "said on Monday より said Monday と曜日だけを置く報道英語の型。"
+        },
+        {
+          "text": "she called for the free and safe passage of ships",
+          "role_ja": "内容節（目的）",
+          "literal_ja": "彼女は船舶の自由かつ安全な通行を求めた",
+          "note_ja": "call for + 名詞。passage は passage through の形で海峡などと結びつく。"
+        },
+        {
+          "text": "through the all-but-closed Strait of Hormuz",
+          "role_ja": "場所・状況の修飾",
+          "literal_ja": "ほぼ閉鎖されたホルムズ海峡を通って",
+          "note_ja": "all but = almost。 Strait of Hormuz は固有名詞として冠詞 the を使う。"
+        },
+        {
+          "text": "in phone talks with Iranian President Masoud Pezeshkian",
+          "role_ja": "状況・手段",
+          "literal_ja": "イラン大統領との電話会談で",
+          "note_ja": "in talks with は外交ニュースの定番コロケーション。"
+        }
+      ],
+      "deep_dive_ja": "lead文は who / what / when / where / how の情報を一文に詰め込む典型例。all-but-closed は読者に「完全閉鎖ではないが実質的に通れない」状況を短く伝える。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"We will strive to ensure that the transit of Japanese ships occurs smoothly and with greater ease,\" Pezeshkian told her, while seeking Tokyo's help to secure essential goods, medical equipment and medicines through the use of Iran's financial assets in Japan, according to the state-run news agency IRNA.",
+      "translation_ja": "ペゼシュキアン大統領は高市氏に対し、「日本籍船舶の通過が円滑に、より容易に行われるよう努力する」と述べた。国営通信社IRNAによると、彼は同時に、日本にあるイランの金融資産を活用して必需品・医療機器・医薬品の確保に向け東京の協力を求めた。",
+      "grammar_ja": "直接話法＋Pezeshkian told her の倒置。strive to ensure that... は努力して〜を確実にする。while seeking は主節と同時進行の付帯状況。according to は情報源の明示。",
+      "chunks": [
+        {
+          "text": "\"We will strive to ensure that the transit of Japanese ships occurs smoothly and with greater ease,\"",
+          "role_ja": "直接話法",
+          "literal_ja": "「日本船の通過が円滑に、より容易に起こるよう努力する」",
+          "note_ja": "strive to ensure that + S + V。transit は名詞で「通過・輸送」。"
+        },
+        {
+          "text": "Pezeshkian told her",
+          "role_ja": "述語（発言動詞）",
+          "literal_ja": "ペゼシュキアンは彼女に言った",
+          "note_ja": "引用文の後に話者を置く英語の語順。"
+        },
+        {
+          "text": "while seeking Tokyo's help",
+          "role_ja": "付帯状況",
+          "literal_ja": "東京の協力を求めながら",
+          "note_ja": "while + 現在分詞で「〜しつつ」。主語 Pezeshkian と一致。"
+        },
+        {
+          "text": "to secure essential goods, medical equipment and medicines",
+          "role_ja": "目的",
+          "literal_ja": "必需品・医療機器・医薬品を確保するために",
+          "note_ja": "secure は obtain/ensure より硬いニュース語。"
+        },
+        {
+          "text": "through the use of Iran's financial assets in Japan",
+          "role_ja": "手段",
+          "literal_ja": "日本にあるイランの金融資産の利用を通じて",
+          "note_ja": "through the use of は手段を形式的に示す表現。"
+        },
+        {
+          "text": "according to the state-run news agency IRNA",
+          "role_ja": "出典",
+          "literal_ja": "国営通信社IRNAによれば",
+          "note_ja": "state-run = 国営の。according to は文末に置きやすい。"
+        }
+      ],
+      "deep_dive_ja": "with greater ease は smoothly を補強する修辞。financial assets in Japan は凍結資産の文脈を読者に想起させる。長文なので、引用・付帯行為・出典の三層に分けて読むと理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Amid uncertainty regarding the progress of peace talks over the U.S.-Israeli war against Iran, the prime minister told reporters she also expressed \"strong hope\" that the Iranian side \"will show the greatest possible flexibility and that an agreement can be reached as soon as possible.\"",
+      "translation_ja": "米国・イスラエルによる対イラン戦争をめぐる和平交渉の進展に不透明感がある中、首相は記者団に対し、イラン側が「可能な限り最大限の柔軟性を示し、できるだけ早く合意に達すること」を強く期待していると伝えたとも述べた。",
+      "grammar_ja": "Amid + 名詞 で背景提示。expressed hope that... の二重 that 節。the greatest possible flexibility は可能な範囲で最大の柔軟性。as soon as possible は定型副詞句。",
+      "chunks": [
+        {
+          "text": "Amid uncertainty regarding the progress of peace talks",
+          "role_ja": "背景・状況",
+          "literal_ja": "和平交渉の進展に関する不透明感の中で",
+          "note_ja": "amid = in the middle of。regarding は about より硬い。"
+        },
+        {
+          "text": "over the U.S.-Israeli war against Iran",
+          "role_ja": "修飾語",
+          "literal_ja": "対イランの米・イスラエル戦争について",
+          "note_ja": "war against Iran のように対象を against で示す。"
+        },
+        {
+          "text": "the prime minister told reporters",
+          "role_ja": "主述",
+          "literal_ja": "首相は記者に述べた",
+          "note_ja": "told reporters (that)... の間接話法構造。"
+        },
+        {
+          "text": "she also expressed \"strong hope\"",
+          "role_ja": "内容節①",
+          "literal_ja": "彼女はまた「強い期待」を表明した",
+          "note_ja": "express hope は外交文脈でよく使う。"
+        },
+        {
+          "text": "that the Iranian side \"will show the greatest possible flexibility\"",
+          "role_ja": "内容節②",
+          "literal_ja": "イラン側が可能な限り最大の柔軟性を示すこと",
+          "note_ja": "possible はここで「実現可能な範囲で」の意味。"
+        },
+        {
+          "text": "and that an agreement can be reached as soon as possible",
+          "role_ja": "内容節③（並列）",
+          "literal_ja": "そして合意ができるだけ早く達成されうること",
+          "note_ja": "reach an agreement の受動 can be reached。"
+        }
+      ],
+      "deep_dive_ja": "外交ニュースでは強い要求を direct demand ではなく express strong hope と婉曲に表すことが多い。二つの that 節は hope の内容を並列で示している。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Takaichi and Pezeshkian held their third phone conversation since the conflict began in late February, with the talks sought by Tehran.",
+      "translation_ja": "高市氏とペゼシュキアン氏は、2月下旬に始まった紛争以来3回目の電話会談を行った。会談はテヘラン側から求められたものだった。",
+      "grammar_ja": "since the conflict began で「〜以来」の完了・継続のニュアンス。with + 名詞 + 過去分詞（sought）の独立構文で付加情報。",
+      "chunks": [
+        {
+          "text": "Takaichi and Pezeshkian held their third phone conversation",
+          "role_ja": "主述",
+          "literal_ja": "高市とペゼシュキアンは3回目の電話会談を行った",
+          "note_ja": "hold talks/conversation は会談を行うの定番。"
+        },
+        {
+          "text": "since the conflict began in late February",
+          "role_ja": "時間の起点",
+          "literal_ja": "2月下旬に紛争が始まって以来",
+          "note_ja": "since + 過去形 は起点を示す。"
+        },
+        {
+          "text": "with the talks sought by Tehran",
+          "role_ja": "付加情報",
+          "literal_ja": "会談はテヘランによって求められたもので",
+          "note_ja": "with A done by B = AはBによって〜された。"
+        }
+      ],
+      "deep_dive_ja": "their third phone conversation の their は両者共有の会談回数を指す。with 構文は関係代名詞を使わず情報を足す簡潔な報道技法。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Takaichi said the Iranian president gave an account of the negotiations with the United States and their outlook.",
+      "translation_ja": "高市氏は、イラン大統領が米国との交渉とその見通しについて説明したと述べた。",
+      "grammar_ja": "give an account of = 〜について説明する。their outlook の their は negotiations を受ける。",
+      "chunks": [
+        {
+          "text": "Takaichi said",
+          "role_ja": "主述",
+          "literal_ja": "高市は述べた",
+          "note_ja": "said (that) の that 省略。"
+        },
+        {
+          "text": "the Iranian president gave an account of the negotiations with the United States",
+          "role_ja": "内容節",
+          "literal_ja": "イラン大統領は米国との交渉について説明した",
+          "note_ja": "give an account of は report/explain より格式ばった表現。"
+        },
+        {
+          "text": "and their outlook",
+          "role_ja": "並列の対象",
+          "literal_ja": "そしてその見通し",
+          "note_ja": "outlook = 今後の見通し・見込み。negotiations の outlook。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The prime minister said she and Pezeshkian agreed to continue close communication toward a resolution to the conflict.",
+      "translation_ja": "首相は、自身とペゼシュキアン氏が紛争解決に向け密接な意思疎通を続けることで合意したと述べた。",
+      "grammar_ja": "agree to continue... で合意内容を不定詞で示す。toward a resolution は「解決に向けて」の方向性。resolution to the conflict は conflict の resolution。",
+      "chunks": [
+        {
+          "text": "she and Pezeshkian agreed to continue close communication",
+          "role_ja": "内容節の主述",
+          "literal_ja": "彼女とペゼシュキアンは密接な意思疎通を続けることに合意した",
+          "note_ja": "agree to + 動詞原形。close communication は外交用語。"
+        },
+        {
+          "text": "toward a resolution to the conflict",
+          "role_ja": "目的・方向",
+          "literal_ja": "紛争の解決に向けて",
+          "note_ja": "toward は for より「方向・過程」のニュアンス。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Although a close ally to the United States, Japan is known to traditionally maintain amicable ties with Iran.",
+      "translation_ja": "米国の緊密な同盟国であるとはいえ、日本は伝統的にイランと友好関係を維持してきたことで知られている。",
+      "grammar_ja": "Although + 名詞句 の省略構文（Japan is understood）。be known to maintain は「〜してきたことで知られる」。amicable ties は友好関係。",
+      "chunks": [
+        {
+          "text": "Although a close ally to the United States",
+          "role_ja": "譲歩",
+          "literal_ja": "米国の緊密な同盟国であるが",
+          "note_ja": "Although Japan is... の Japan is が省略された文。"
+        },
+        {
+          "text": "Japan is known to traditionally maintain amicable ties with Iran",
+          "role_ja": "主述",
+          "literal_ja": "日本は伝統的にイランと友好関係を維持してきたことで知られている",
+          "note_ja": "be known to + 原形。traditionally は政策の継続性を示す。"
+        }
+      ],
+      "deep_dive_ja": "背景説明の一文で、日本の米国同盟とイランとの関係という外交上のバランスを読者に示す。ally to と ally of どちらも見られるが、ここでは to を使用。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "On the ongoing effective closure of the strait, Takaichi called for the safe passage to be \"realized as soon as possible for vessels of all countries including Japan and other Asian countries.\"",
+      "translation_ja": "海峡の継続的な事実上の閉鎖を踏まえ、高市氏は日本を含むすべての国、ならびに他のアジア諸国の船舶にとって、安全な航行が「できるだけ早く実現される」よう求めた。",
+      "grammar_ja": "On + 名詞 で話題提示。call for A to be realized は「Aの実現を求める」の受動不定詞構文。effective closure は実質的閉鎖。",
+      "chunks": [
+        {
+          "text": "On the ongoing effective closure of the strait",
+          "role_ja": "話題",
+          "literal_ja": "海峡の継続中の事実上の閉鎖について",
+          "note_ja": "ongoing effective closure は二語の形容が状況を具体化。"
+        },
+        {
+          "text": "Takaichi called for the safe passage to be \"realized as soon as possible\"",
+          "role_ja": "主述",
+          "literal_ja": "高市は安全な通行ができるだけ早く実現されるよう求めた",
+          "note_ja": "call for + 名詞 + to be + 過去分詞。"
+        },
+        {
+          "text": "for vessels of all countries including Japan and other Asian countries",
+          "role_ja": "受益者・対象",
+          "literal_ja": "日本や他のアジア諸国を含むすべての国の船舶にとって",
+          "note_ja": "for はここで「〜にとっての利益・対象」を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Many resource-poor Asian countries including Japan are facing economic challenges from rising crude oil costs and shortages of key commodities due to their dependence on the Middle East for imports that largely pass through the strait, a critical energy chokepoint.",
+      "translation_ja": "日本を含む多くの資源乏しいアジア諸国は、原油価格の上昇や主要物資の不足による経済的課題に直面している。これは、輸入の多くが海峡という重要なエネルギーの要衝を通過する中東への依存があるためだ。",
+      "grammar_ja": "resource-poor はハイフン複合形容詞。face challenges from... で原因・内容を示す。due to + 名詞。関係代名詞 that の先行詞は imports。chokepoint は要衝。",
+      "chunks": [
+        {
+          "text": "Many resource-poor Asian countries including Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本を含む多くの資源乏しいアジア諸国",
+          "note_ja": "resource-poor = 資源が乏しい。including Japan で具体例。"
+        },
+        {
+          "text": "are facing economic challenges from rising crude oil costs and shortages of key commodities",
+          "role_ja": "述語",
+          "literal_ja": "原油高と主要物資不足による経済課題に直面している",
+          "note_ja": "face challenges from A and B。crude oil costs は原油コスト。"
+        },
+        {
+          "text": "due to their dependence on the Middle East for imports",
+          "role_ja": "原因",
+          "literal_ja": "輸入のため中東への依存によって",
+          "note_ja": "dependence on ... for ... の二重目的構造。"
+        },
+        {
+          "text": "that largely pass through the strait",
+          "role_ja": "関係節",
+          "literal_ja": "その大部分が海峡を通過する",
+          "note_ja": "largely = おおむね・大部分が。"
+        },
+        {
+          "text": "a critical energy chokepoint",
+          "role_ja": "同格語",
+          "literal_ja": "重要なエネルギー要衝",
+          "note_ja": "the strait, a chokepoint と説明を重ねる。"
+        }
+      ],
+      "deep_dive_ja": "一文に背景・原因・地理的重要性を詰め込んだ典型的な解説文。chokepoint は地政学ニュースの頻出語で、海峡や運河の戦略的重要性を指す。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Some Japan-connected vessels have passed through the strait, however, including a tanker operated by a unit of major refiner Idemitsu Kosan Co. that on May 25 became the first to arrive in the country since the conflict began.",
+      "translation_ja": "ただし、日本関連の船舶の一部は海峡を通過しており、大手製油会社出光興産の関連会社が運航するタンカーは5月25日、紛争開始以来初めて国内に到着した。",
+      "grammar_ja": "Japan-connected はハイフン複合形容詞。however は文中挿入。the first to arrive は不定詞の形容用法。since the conflict began で起点。",
+      "chunks": [
+        {
+          "text": "Some Japan-connected vessels have passed through the strait, however",
+          "role_ja": "主述",
+          "literal_ja": "しかし一部の日本関連船舶は海峡を通過した",
+          "note_ja": "however をカンマで挟むと逆接が明確になる。"
+        },
+        {
+          "text": "including a tanker operated by a unit of major refiner Idemitsu Kosan Co.",
+          "role_ja": "例示",
+          "literal_ja": "大手製油会社出光興産の関連会社が運航するタンカーを含めて",
+          "note_ja": "operated by は受動の過去分詞修飾。refiner は製油会社。"
+        },
+        {
+          "text": "that on May 25 became the first to arrive in the country since the conflict began",
+          "role_ja": "関係節",
+          "literal_ja": "それは5月25日、紛争開始以来初めて国内に到着した",
+          "note_ja": "the first to do は「〜した最初のもの」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "U.S. and Iranian media reports said both sides are seeking revisions to a memorandum of understanding to extend their ceasefire by 60 days despite U.S. government sources saying negotiators had largely agreed on it last Thursday.",
+      "translation_ja": "米国とイランのメディア報道によると、双方は停戦を60日延長する覚書の修正を求めている。これは、交渉担当者が先週木曜日にはほぼ合意していたとする米政府関係者の発言があるにもかかわらずである。",
+      "grammar_ja": "despite + 名詞/動名詞 で譲歩。seek revisions to MOU。had largely agreed on it は過去完了でその時点より前の合意。",
+      "chunks": [
+        {
+          "text": "U.S. and Iranian media reports said",
+          "role_ja": "主述",
+          "literal_ja": "米・イランのメディア報道は述べた",
+          "note_ja": "複数メディアをまとめて主語にする。"
+        },
+        {
+          "text": "both sides are seeking revisions to a memorandum of understanding",
+          "role_ja": "内容節",
+          "literal_ja": "双方は覚書の修正を求めている",
+          "note_ja": "MOU = memorandum of understanding（合意覚書）。"
+        },
+        {
+          "text": "to extend their ceasefire by 60 days",
+          "role_ja": "目的",
+          "literal_ja": "停戦を60日延長するために",
+          "note_ja": "extend ... by 60 days は期間延長の型。"
+        },
+        {
+          "text": "despite U.S. government sources saying negotiators had largely agreed on it last Thursday",
+          "role_ja": "譲歩",
+          "literal_ja": "先週木曜日に交渉者がほぼ合意していたとする米政府関係者の発言があるにもかかわらず",
+          "note_ja": "despite saying... の後ろに節が続く複雑構造。"
+        }
+      ],
+      "deep_dive_ja": "相反する情報源を despite で並置し、交渉の不確実性を示す。had largely agreed は「ほぼ合意していた」という過去の状態を報じる。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "Separately, Takaichi said she also had phone talks with Dutch Prime Minister Rob Jetten, who was inaugurated in February, ahead of her phone talks with Pezeshkian.",
+      "translation_ja": "また別件として、高市氏はペゼシュキアン氏との電話会談に先立ち、2月に就任したオランダのロブ・イェッテン首相とも電話会談を行ったと述べた。",
+      "grammar_ja": "Separately で話題転換。関係代名詞 who は Rob Jetten を修飾。ahead of は時間的前後関係。had phone talks は過去の完了した会談。",
+      "chunks": [
+        {
+          "text": "Separately, Takaichi said",
+          "role_ja": "主述",
+          "literal_ja": "別途、高市は述べた",
+          "note_ja": "Separately は記事で話題を分ける接続副詞。"
+        },
+        {
+          "text": "she also had phone talks with Dutch Prime Minister Rob Jetten",
+          "role_ja": "内容節",
+          "literal_ja": "彼女はオランダ首相とも電話会談を行った",
+          "note_ja": "had talks with は held talks with と同義。"
+        },
+        {
+          "text": "who was inaugurated in February",
+          "role_ja": "関係節",
+          "literal_ja": "彼は2月に就任した",
+          "note_ja": "inaugurate は首班・大統領の就任に使う。"
+        },
+        {
+          "text": "ahead of her phone talks with Pezeshkian",
+          "role_ja": "時間関係",
+          "literal_ja": "ペゼシュキアンとの電話会談より前に",
+          "note_ja": "ahead of = before。出来事の順序を明示。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "She said the two discussed Emperor Naruhito and Empress Masako's planned state visit to the Netherlands this month and confirmed they will \"cooperate closely\" toward its success.",
+      "translation_ja": "彼女は、両首脳は今月予定されている天皇皇后のオランダ国事訪問について協議し、その成功に向け「密接に協力する」ことを確認したと述べた。",
+      "grammar_ja": "discussed A and confirmed B の並列。state visit は国事訪問。toward its success の its は state visit を受ける。cooperate closely は密接に協力する。",
+      "chunks": [
+        {
+          "text": "the two discussed Emperor Naruhito and Empress Masako's planned state visit to the Netherlands this month",
+          "role_ja": "内容節①",
+          "literal_ja": "両者は今月予定の天皇皇后のオランダ国事訪問について協議した",
+          "note_ja": "planned state visit は予定されている国事訪問。"
+        },
+        {
+          "text": "and confirmed they will \"cooperate closely\"",
+          "role_ja": "内容節②",
+          "literal_ja": "そして密接に協力することを確認した",
+          "note_ja": "confirm (that) they will... の未来の合意確認。"
+        },
+        {
+          "text": "toward its success",
+          "role_ja": "目的",
+          "literal_ja": "その成功に向けて",
+          "note_ja": "toward は目的・方向を示す前置詞。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "passage",
+      "pronunciation": "/ˈpæsɪdʒ/",
+      "meaning_ja": "（海峡などを通る）航行・通過",
+      "example": "the free and safe passage of ships through the strait",
+      "example_ja": "海峡を通る船舶の自由かつ安全な航行",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "all-but-closed",
+      "pronunciation": "/ɔːl bʌt ˈkloʊzd/",
+      "meaning_ja": "ほぼ閉鎖された、事実上閉鎖状態の",
+      "example": "the all-but-closed Strait of Hormuz",
+      "example_ja": "ほぼ閉鎖状態のホルムズ海峡",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "strive",
+      "pronunciation": "/straɪv/",
+      "meaning_ja": "（目標に向けて）努力する",
+      "example": "We will strive to ensure that the transit occurs smoothly.",
+      "example_ja": "通過が円滑に行われるよう努力する。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "amicable",
+      "pronunciation": "/ˈæmɪkəbl/",
+      "meaning_ja": "友好的な、良好な（関係など）",
+      "example": "Japan traditionally maintains amicable ties with Iran.",
+      "example_ja": "日本は伝統的にイランと友好関係を維持している。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "chokepoint",
+      "pronunciation": "/ˈtʃoʊkˌpɔɪnt/",
+      "meaning_ja": "（交通・物流の）要衝、ボトルネック地点",
+      "example": "the strait, a critical energy chokepoint",
+      "example_ja": "海峡という重要なエネルギー要衝",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "memorandum of understanding",
+      "pronunciation": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "meaning_ja": "合意覚書（MOU）",
+      "example": "seeking revisions to a memorandum of understanding",
+      "example_ja": "合意覚書の修正を求める",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "ceasefire",
+      "pronunciation": "/ˈsiːsfaɪər/",
+      "meaning_ja": "停戦",
+      "example": "to extend their ceasefire by 60 days",
+      "example_ja": "停戦を60日延長するために",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "state visit",
+      "pronunciation": "/steɪt ˈvɪzɪt/",
+      "meaning_ja": "国事訪問（国家元首による公式訪問）",
+      "example": "Emperor Naruhito and Empress Masako's planned state visit",
+      "example_ja": "天皇皇后の予定されている国事訪問",
+      "source_sentence_id": "s013"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "call-for-pattern",
+      "title": "call for + noun / for ... to be done",
+      "rule": "Use 'call for' to formally demand or urge something in news and diplomatic contexts.",
+      "example": "Takaichi called for the safe passage to be realized as soon as possible.",
+      "meaning_ja": "外交・政治ニュースで「〜を求める」「〜の実現を要請する」と述べる硬い表現。後ろに名詞だけでなく to be realized のように受動不定詞が続くこともある。"
+    },
+    {
+      "id": "amid-despite-concession",
+      "title": "Amid / Despite for background and contrast",
+      "rule": "'Amid' introduces a surrounding situation; 'despite' shows contrast with an expected outcome.",
+      "example": "Amid uncertainty regarding peace talks... / ...despite sources saying negotiators had agreed.",
+      "meaning_ja": "amid は「〜という状況の中で」背景を示す。despite は「〜にもかかわらず」と予想と逆の情報を対比する。B2学習者は although と混同しやすいので、despite + 名詞/動名詞 の形を意識するとよい。"
+    },
+    {
+      "id": "with-absolutes",
+      "title": "With + noun + past participle (absolute-style phrase)",
+      "rule": "A 'with' phrase can add extra information equivalent to a relative clause.",
+      "example": "with the talks sought by Tehran",
+      "meaning_ja": "with the talks sought by Tehran は which were sought by Tehran とほぼ同義の付加情報。関係代名詞を避けて簡潔に書く報道英語の技法。"
+    },
+    {
+      "id": "reported-speech-news",
+      "title": "Reported speech in news writing",
+      "rule": "Quotes are often followed by 'X told/said Y' or embedded in 'said (that)...' clauses.",
+      "example": "\"We will strive...,\" Pezeshkian told her, while seeking Tokyo's help.",
+      "meaning_ja": "直接引用と間接話法を組み合わせ、発言者・聞き手・同時の行動・情報源を一文にまとめるのが政治ニュースの典型構文。語順に注意すると読みやすい。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 13,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:20:00+09:00"
+  },
+  "article_id": "japantoday:2026-06-02:takaichi-urges-free-passage-through-horm"
+}

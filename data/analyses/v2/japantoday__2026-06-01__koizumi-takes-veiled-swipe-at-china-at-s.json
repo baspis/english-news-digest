@@ -1,0 +1,745 @@
+{
+  "summary_ja": "日本の防衛相・小泉進次郎氏は、シンガポールで開催されたアジア安全保障フォーラムで、中国を名指しせずに「新軍国主義」との批判に反論した。日本は核兵器を持たないのにそう呼ばれるのはおかしいと主張し、中国の軍備拡張への懸念を示しつつ、透明性を重視した防衛力強化を続けると述べた。あわせてフィリピンへの艦艇・航空機の移転や、中国の海洋野心を背景とした日比防衛協力の深化も報じられている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's defense minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing's criticism of Tokyo's increasingly muscular security stance.",
+      "translation_ja": "日本の防衛相は日曜日、中国を名指しはしない形で批判の矛先を向け、北京が東京のますます強硬化する安全保障姿勢を非難しているにもかかわらず、軍の強化を続けると誓った。",
+      "grammar_ja": "took a veiled swipe at は「遠回しに批判する」というニュース定型表現。pledging は分詞構文で主語の行動に付随する内容を示す。despite + 名詞 で「〜にもかかわらず」。",
+      "chunks": [
+        {
+          "text": "Japan's defense minister",
+          "role_ja": "主語",
+          "literal_ja": "日本の防衛相が",
+          "note_ja": "defense minister は「防衛大臣・防衛相」。所有格で国を修飾するのは英語ニュースの典型。"
+        },
+        {
+          "text": "took a veiled swipe at China",
+          "role_ja": "述語",
+          "literal_ja": "中国に遠回しの批判をした",
+          "note_ja": "take a swipe at は口語的だが報道でも頻出。veiled は「露骨ではない、婉曲な」。"
+        },
+        {
+          "text": "on Sunday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "日曜日に",
+          "note_ja": "英語は具体的な曜日を先に置くことが多い。"
+        },
+        {
+          "text": "pledging to keep strengthening the military",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "軍を強化し続けると誓いながら",
+          "note_ja": "keep + -ing は「継続して〜する」。pledge to do は公式声明でよく使う。"
+        },
+        {
+          "text": "despite Beijing's criticism",
+          "role_ja": "譲歩",
+          "literal_ja": "北京の批判にもかかわらず",
+          "note_ja": "despite は前置詞。although とは違い節ではなく名詞句を取る。"
+        },
+        {
+          "text": "Tokyo's increasingly muscular security stance",
+          "role_ja": "of の目的語",
+          "literal_ja": "東京のますます強硬な安全保障姿勢",
+          "note_ja": "muscular は比喩で「力強い・強硬な」。首都名 Tokyo は政府・日本の代名詞。"
+        }
+      ],
+      "deep_dive_ja": "見出しの veiled swipe は、中国を直接名指ししない外交・防衛報道でよく使われる表現です。learner は hit / attack など直球の動詞を選びがちですが、報道英語では婉曲表現が好まれます。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Under Prime Minister Sanae Takaichi, Japan has quickened its pivot towards a more proactive defense policy, further shaking off -- with U.S. encouragement -- its pacifist outlook in place since the end of World War II.",
+      "translation_ja": "高市早苗首相の下で、日本はより積極的な防衛政策へと転換を加速させ、米国の後押しもあって、第二次世界大戦終結以来続いてきた平和主義的な姿勢をさらに脱却しつつある。",
+      "grammar_ja": "Under + 人物 で「〜の政権下で」。has quickened は現在完了で変化の継続を示す。shaking off は分詞で結果・付随動作。in place since は「それ以来続いている」。",
+      "chunks": [
+        {
+          "text": "Under Prime Minister Sanae Takaichi",
+          "role_ja": "状況を示す前置詞句",
+          "literal_ja": "高市早苗首相の下で",
+          "note_ja": "Under a leader は政権・指導者を背景に置く定型。"
+        },
+        {
+          "text": "Japan has quickened its pivot towards a more proactive defense policy",
+          "role_ja": "主節",
+          "literal_ja": "日本はより積極的な防衛政策への転換を加速させた",
+          "note_ja": "pivot towards は「〜へ方向転換する」。proactive は「先手を打つ・積極的な」。"
+        },
+        {
+          "text": "further shaking off",
+          "role_ja": "付帯動作（分詞）",
+          "literal_ja": "さらに脱却しながら",
+          "note_ja": "shake off は「（考え方・制約を）振り払う」。"
+        },
+        {
+          "text": "with U.S. encouragement",
+          "role_ja": "挿入句",
+          "literal_ja": "米国の後押しとともに",
+          "note_ja": "ダッシュで挿入される補足情報。with + 名詞 で背景要因。"
+        },
+        {
+          "text": "its pacifist outlook in place since the end of World War II",
+          "role_ja": "目的語",
+          "literal_ja": "第二次世界大戦終結以来続く平和主義的見方を",
+          "note_ja": "in place は「存在して・有効で」という意味。since は起点を示す。"
+        }
+      ],
+      "deep_dive_ja": "pacifist outlook と World War II の組み合わせは、日本防衛報道の文脈理解に必須です。proactive と muscular は同じ方向の政策変化を別角度から描写しています。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The change has drawn frequent rebukes from Beijing, which has accused Tokyo of following a reckless policy of \"new militarism\" that could destabilize the region.",
+      "translation_ja": "この変化は北京から度々の非難を招いており、北京は東京が地域を不安定化しかねない「新軍国主義」という無謀な政策を進めていると非難してきた。",
+      "grammar_ja": "has drawn は現在完了。関係代名詞 which は Beijing を受ける。accuse A of B は重要コロケーション。that 節は policy を修飾。",
+      "chunks": [
+        {
+          "text": "The change has drawn frequent rebukes from Beijing",
+          "role_ja": "主節",
+          "literal_ja": "その変化は北京から頻繁な非難を引き起こしてきた",
+          "note_ja": "draw rebukes は「非難を招く」。受動的ニュアンスの draw。"
+        },
+        {
+          "text": "which has accused Tokyo",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それは東京を非難してきた",
+          "note_ja": "which は Beijing を指す。非制限用法で追加情報。"
+        },
+        {
+          "text": "of following a reckless policy",
+          "role_ja": "accuse の補語",
+          "literal_ja": "無謀な政策を進めているとして",
+          "note_ja": "accuse + 人 + of + 動名詞。"
+        },
+        {
+          "text": "of \"new militarism\"",
+          "role_ja": "policy の同位語",
+          "literal_ja": "「新軍国主義」という",
+          "note_ja": "policy of ... で政策内容を具体化。"
+        },
+        {
+          "text": "that could destabilize the region",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "地域を不安定化させかねない",
+          "note_ja": "could は可能性・警告の含意。destabilize は外交記事の頻出語。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Japanese Defense Minister Shinjiro Koizumi hit back on Sunday, saying \"nothing could be further from the truth\".",
+      "translation_ja": "日本の防衛相・小泉進次郎氏は日曜日、反論し、「それはまったくの誤りだ」と述べた。",
+      "grammar_ja": "hit back は「反論する」。saying で発言内容を導入。nothing could be further from the truth は強い否定の慣用句。",
+      "chunks": [
+        {
+          "text": "Japanese Defense Minister Shinjiro Koizumi",
+          "role_ja": "主語",
+          "literal_ja": "日本の防衛相・小泉進次郎",
+          "note_ja": "役職＋氏名の順。初出はフルネーム。"
+        },
+        {
+          "text": "hit back on Sunday",
+          "role_ja": "述語",
+          "literal_ja": "日曜日に反論した",
+          "note_ja": "hit back at/on は批判への応酬。"
+        },
+        {
+          "text": "saying \"nothing could be further from the truth\"",
+          "role_ja": "付帯状況",
+          "literal_ja": "「まったくの誤りだ」と言いながら",
+          "note_ja": "直訳「真実からこれ以上遠いものはない」＝全くの嘘・誤り。"
+        }
+      ],
+      "deep_dive_ja": "nothing could be further from the truth は B2 以上で覚えるべき強否定表現です。That's not true より論調が強く、政治家の発言でよく見ます。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "There is a country that has a huge arsenal of nuclear weapons and strategic bombers,\" Koizumi said at the annual Shangri-La Dialogue in Singapore.",
+      "translation_ja": "「核兵器と戦略爆撃機の巨大な兵器庫を持つ国がある」と、小泉氏はシンガポールで開催された年次シャングリラ・ダイアログで述べた。",
+      "grammar_ja": "There is ... that ... の存在構文。arsenal of は「〜の兵器群」。said at + 場所・会議名。",
+      "chunks": [
+        {
+          "text": "There is a country",
+          "role_ja": "存在構文の主部",
+          "literal_ja": "国が一つある",
+          "note_ja": "中国を名指ししない修辞。there is で話題導入。"
+        },
+        {
+          "text": "that has a huge arsenal of nuclear weapons and strategic bombers",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "核兵器と戦略爆撃機の巨大な兵器庫を持つ",
+          "note_ja": "arsenal は比喩的にも「大量の武器」。strategic bombers は軍事用語。"
+        },
+        {
+          "text": "Koizumi said",
+          "role_ja": "主節（叙述）",
+          "literal_ja": "小泉は言った",
+          "note_ja": "直接話法の後に話者・動詞が続く報道文体。"
+        },
+        {
+          "text": "at the annual Shangri-La Dialogue in Singapore",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "シンガポールの年次シャングリラ・ダイアログで",
+          "note_ja": "annual は毎年開催。固有名詞はそのまま覚える。"
+        }
+      ],
+      "deep_dive_ja": "入力文では引用の前半が欠けていますが、文脈上は「考えてみてほしい」という導入の続きです。名指ししない country は外交辞令として意図的です。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "\"Japan has neither of such weapons.",
+      "translation_ja": "「日本にはそのような武器はどちらもない。",
+      "grammar_ja": "neither of such weapons は「そのような武器のどちらも（ない）」。前置詞 of の後ろに複数名詞 weapons。",
+      "chunks": [
+        {
+          "text": "Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本は",
+          "note_ja": "国名主語。"
+        },
+        {
+          "text": "has neither of such weapons",
+          "role_ja": "述語",
+          "literal_ja": "そのような武器のどちらも持っていない",
+          "note_ja": "neither は nuclear weapons と strategic bombers の両方を否定。such は前文を受ける。"
+        }
+      ],
+      "deep_dive_ja": "neither of ... は neither A nor B の短縮形のように機能します。引用が途中で切れているため、次の文とセットで読む必要があります。",
+      "difficulty": "easy",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "And yet, Japan is labelled (as) 'new militarism.' Isn't it strange?\" he said, without mentioning China by name.",
+      "translation_ja": "それなのに日本は『新軍国主義』とレッテルを貼られる。おかしくないか？」と、彼は中国を名指しせずに述べた。",
+      "grammar_ja": "And yet は逆接の強調。is labelled as は受動態。Isn't it strange? は修辞疑問。without mentioning は分詞構文で手段の否定。",
+      "chunks": [
+        {
+          "text": "And yet",
+          "role_ja": "接続副詞",
+          "literal_ja": "それにもかかわらず",
+          "note_ja": "前文の「武器を持たない」と対比。"
+        },
+        {
+          "text": "Japan is labelled (as) 'new militarism'",
+          "role_ja": "主節",
+          "literal_ja": "日本は『新軍国主義』と呼ばれる",
+          "note_ja": "label as は「〜と見なしてラベル付けする」。"
+        },
+        {
+          "text": "Isn't it strange?",
+          "role_ja": "修辞疑問",
+          "literal_ja": "おかしくないか？",
+          "note_ja": "聴衆に同意を求める rhetoric question。"
+        },
+        {
+          "text": "without mentioning China by name",
+          "role_ja": "付帯状況",
+          "literal_ja": "中国を名指しすることなく",
+          "note_ja": "by name は「名前で・明示的に」。記者の解説挿入。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "China is thought to possess hundreds of nuclear warheads and has been rapidly developing its military in recent years.",
+      "translation_ja": "中国は数百発の核弾頭を保有していると考えられており、近年その軍備を急速に強化してきた。",
+      "grammar_ja": "is thought to possess は報道の婉曲表現（推定の受動）。has been developing は現在完了進行形で近年の継続を示す。",
+      "chunks": [
+        {
+          "text": "China is thought to possess hundreds of nuclear warheads",
+          "role_ja": "主節（第1部）",
+          "literal_ja": "中国は数百の核弾頭を保有していると考えられる",
+          "note_ja": "is thought to は「〜と見られる」公式トーン。warhead は弾頭。"
+        },
+        {
+          "text": "and has been rapidly developing its military",
+          "role_ja": "並列述語",
+          "literal_ja": "そして軍を急速に発展させてきた",
+          "note_ja": "現在完了進行で「ずっと続いている変化」。"
+        },
+        {
+          "text": "in recent years",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "近年",
+          "note_ja": "recent years と現在完了形の相性が良い。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A diplomatic spat between the Asian rivals has been rumbling since Takaichi suggested in November that Japan might intervene militarily if China were to attempt to seize Taiwan, the self-ruled island that Beijing claims is part of its territory.",
+      "translation_ja": "アジアのライバル両国の外交摩擦は、高市氏が11月に中国が台湾を奪取しようとすれば日本が軍事介入する可能性があると示唆して以来、くすぶり続けている。台湾は自治を保つ島で、北京は自国領土の一部だと主張している。",
+      "grammar_ja": "has been rumbling は比喩的進行。since + 過去イベント。that 節内に if 条件と intervene militarily。suggest that + might。関係代名詞 that は Taiwan を修飾。",
+      "chunks": [
+        {
+          "text": "A diplomatic spat between the Asian rivals",
+          "role_ja": "主語",
+          "literal_ja": "アジアの敵対国同士の外交論争が",
+          "note_ja": "spat は小さな口論・摩擦。rivals は日中を指す。"
+        },
+        {
+          "text": "has been rumbling",
+          "role_ja": "述語",
+          "literal_ja": "くすぶり続けている",
+          "note_ja": "rumble は雷鳴の比喩で「長く続く不穏な状態」。"
+        },
+        {
+          "text": "since Takaichi suggested in November that Japan might intervene militarily",
+          "role_ja": "時・原因",
+          "literal_ja": "高市が11月に日本が軍事介入するかもしれないと示唆して以来",
+          "note_ja": "suggest that + 仮定内容。intervene militarily は軍事介入。"
+        },
+        {
+          "text": "if China were to attempt to seize Taiwan",
+          "role_ja": "条件節",
+          "literal_ja": "もし中国が台湾を奪取しようとすれば",
+          "note_ja": "were to attempt は仮定法的新聞英語。"
+        },
+        {
+          "text": "the self-ruled island that Beijing claims is part of its territory",
+          "role_ja": "同位語・関係節",
+          "literal_ja": "自治を保つ島で、北京は自国領の一部だと主張する",
+          "note_ja": "self-ruled は政治的立場を示す報道用語。claims は主張。"
+        }
+      ],
+      "deep_dive_ja": "一文に背景・時系列・条件・台湾問題の立場説明が詰まった難文です。関係節の入れ子を図式化すると理解しやすくなります。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Koizumi said that China was expanding its military capabilities \"without sufficient transparency\" and that its military activities were \"a matter of serious concern for Japan\".",
+      "translation_ja": "小泉氏は、中国が「十分な透明性なく」軍事能力を拡大していること、そしてその軍事活動が「日本にとって深刻な懸念事項である」ことだと述べた。",
+      "grammar_ja": "said that ... and that ... の並列間接話法。a matter of serious concern は公式表現。without sufficient transparency は欠如を示す前置詞句。",
+      "chunks": [
+        {
+          "text": "Koizumi said that",
+          "role_ja": "主節",
+          "literal_ja": "小泉は〜だと言った",
+          "note_ja": "間接話法の導入。"
+        },
+        {
+          "text": "China was expanding its military capabilities",
+          "role_ja": "that 節（1）",
+          "literal_ja": "中国が軍事能力を拡大していた",
+          "note_ja": "過去進行は当時進行中の描写。"
+        },
+        {
+          "text": "without sufficient transparency",
+          "role_ja": "状況",
+          "literal_ja": "十分な透明性なく",
+          "note_ja": "外交文書で頻出の批判フレーズ。"
+        },
+        {
+          "text": "its military activities were a matter of serious concern for Japan",
+          "role_ja": "that 節（2）",
+          "literal_ja": "その軍事活動は日本にとって深刻な懸念事項だった",
+          "note_ja": "a matter of concern は公式・丁寧な懸念表明。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Tokyo would \"steadily build up its defense capabilities and make continuous updates with a high degree of transparency\", including in the fields of artificial intelligence, unmanned systems as well as cyber and space defense, he said.",
+      "translation_ja": "東京は人工知能や無人システム、サイバー・宇宙防衛の分野も含め、「着実に防衛能力を構築し、高い透明性をもって継続的に更新していく」と彼は述べた。",
+      "grammar_ja": "would は方針・意志の表明。build up と make updates の並列。including in the fields of で具体分野を列挙。as well as は追加。",
+      "chunks": [
+        {
+          "text": "Tokyo would steadily build up its defense capabilities",
+          "role_ja": "主節の内容（1）",
+          "literal_ja": "東京は着実に防衛能力を強化するだろう",
+          "note_ja": "Tokyo＝日本政府。steadily は「着実に」。"
+        },
+        {
+          "text": "make continuous updates with a high degree of transparency",
+          "role_ja": "主節の内容（2）",
+          "literal_ja": "高い透明性をもって継続的に更新する",
+          "note_ja": "with a high degree of は程度の公式表現。"
+        },
+        {
+          "text": "including in the fields of artificial intelligence, unmanned systems",
+          "role_ja": "付加説明",
+          "literal_ja": "人工知能や無人システムの分野を含め",
+          "note_ja": "in the fields of は専門分野の列挙。"
+        },
+        {
+          "text": "as well as cyber and space defense",
+          "role_ja": "追加列挙",
+          "literal_ja": "サイバーおよび宇宙防衛もまた",
+          "note_ja": "as well as は and に加える追加。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Japan's past as a peace-loving nation has been valued by the region and by international community.",
+      "translation_ja": "「平和を愛する国としての日本の過去は、地域や国際社会から高く評価されてきた。",
+      "grammar_ja": "has been valued は現在完了受動で評価の継続。as a peace-loving nation は役割・性格を示す as 句。by は動作主。",
+      "chunks": [
+        {
+          "text": "Japan's past as a peace-loving nation",
+          "role_ja": "主語",
+          "literal_ja": "平和愛好国としての日本の過去が",
+          "note_ja": "peace-loving はハイフン形容詞。"
+        },
+        {
+          "text": "has been valued",
+          "role_ja": "述語",
+          "literal_ja": "評価されてきた",
+          "note_ja": "value は名詞だけでなく動詞で「重んじる」。"
+        },
+        {
+          "text": "by the region and by international community",
+          "role_ja": "動作主",
+          "literal_ja": "地域と国際社会によって",
+          "note_ja": "the international community とするのが普通だが、報道では冠詞省略もある。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "This fact will not be shaken by false claims, because it is a fact,\" he said.",
+      "translation_ja": "この事実は虚偽の主張では揺るがない。なぜならそれは事実だからだ」と彼は述べた。",
+      "grammar_ja": "will not be shaken は未来の受動で「揺るがされない」。because 節で理由。反復の a fact で強調。",
+      "chunks": [
+        {
+          "text": "This fact will not be shaken by false claims",
+          "role_ja": "主節",
+          "literal_ja": "この事実は虚偽の主張によって揺るがされない",
+          "note_ja": "shake は比喩的に信頼・評価を揺るがす。"
+        },
+        {
+          "text": "because it is a fact",
+          "role_ja": "理由節",
+          "literal_ja": "なぜならそれは事実だから",
+          "note_ja": "同語反復で演説調の強調。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In a meeting with his Philippine counterpart Gilberto Teodoro, the two countries confirmed that Japan would aim to transfer Abukuma-class destroyers and TC-90 aircraft to the Southeast Asian nation during Japan's fiscal year 2027, a Philippine statement said.",
+      "translation_ja": "フィリピンの同僚ギルベルト・テオドロとの会談で、両国は日本が2027年度中にあぶくま型護衛艦とTC-90航空機を東南アジアのその国へ移転する意向であることを確認したと、フィリピン側の声明が伝えた。",
+      "grammar_ja": "In a meeting with ... で状況設定。confirmed that ... would aim to transfer。during fiscal year は会計年度表現。末尾 a Philippine statement said は報道の出典倒置。",
+      "chunks": [
+        {
+          "text": "In a meeting with his Philippine counterpart Gilberto Teodoro",
+          "role_ja": "状況",
+          "literal_ja": "フィリピンの同僚テオドロとの会談で",
+          "note_ja": "counterpart は「同職の相手」＝防衛相。"
+        },
+        {
+          "text": "the two countries confirmed that",
+          "role_ja": "主節",
+          "literal_ja": "両国は〜を確認した",
+          "note_ja": "confirm that は公式合意の報道定型。"
+        },
+        {
+          "text": "Japan would aim to transfer Abukuma-class destroyers and TC-90 aircraft",
+          "role_ja": "that 節",
+          "literal_ja": "日本があぶくま型護衛艦とTC-90を移転する意向である",
+          "note_ja": "aim to は確定ではなく意向。class は型。"
+        },
+        {
+          "text": "to the Southeast Asian nation during Japan's fiscal year 2027",
+          "role_ja": "補足",
+          "literal_ja": "2027年度中に東南アジア国へ",
+          "note_ja": "the Southeast Asian nation はフィリピンの婉曲指称。fiscal year は日本の年度。"
+        },
+        {
+          "text": "a Philippine statement said",
+          "role_ja": "出典（倒置）",
+          "literal_ja": "フィリピンの声明が述べた",
+          "note_ja": "英語ニュースは情報源を文末に置くことが多い。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Manila has been eyeing the Abukuma-class vessels -- which are being retired by Japan -- for some time, with the military sending a contingent to examine them in 2025.",
+      "translation_ja": "マニラ（フィリピン）は、日本が退役させる予定のあぶくま型艦艇にしばらく前から注目しており、2025年には軍が調査団を送って検討した。",
+      "grammar_ja": "has been eyeing は現在完了進行で継続的関心。which are being retired は受動進行。with + O + -ing は付帯状況。contingent は「派遣団」。",
+      "chunks": [
+        {
+          "text": "Manila has been eyeing the Abukuma-class vessels",
+          "role_ja": "主節",
+          "literal_ja": "マニラはあぶくま型艦艇に注目し続けてきた",
+          "note_ja": "eye は「狙う・注目する」。首都名＝国の代名詞。"
+        },
+        {
+          "text": "which are being retired by Japan",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "日本によって退役させられている",
+          "note_ja": "受動進行で進行中の計画。"
+        },
+        {
+          "text": "for some time",
+          "role_ja": "期間",
+          "literal_ja": "しばらくの間",
+          "note_ja": "現在完了とよく結びつく。"
+        },
+        {
+          "text": "with the military sending a contingent to examine them in 2025",
+          "role_ja": "付帯状況",
+          "literal_ja": "軍が2025年に調査団を送って検討したこととともに",
+          "note_ja": "with + 名詞 + -ing は背景事実の追加。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The countries have been deepening defense ties in the shadow of China's naval ambitions, announcing that they will discuss intelligence sharing and open maritime border talks condemned by Beijing as an \"illegal\" violation of its expansive territorial claims.",
+      "translation_ja": "両国は中国の海軍力拡張という影の下で防衛関係を深めており、情報共有を協議し、海上境界協議を開始する予定だと発表した。北京はそれを自国の広大な領土主張への「違法な」侵害だと非難している。",
+      "grammar_ja": "have been deepening は継続。in the shadow of は比喩「〜の影響下で」。announcing that ... condemned by Beijing は過去分詞で talks を後置修飾。",
+      "chunks": [
+        {
+          "text": "The countries have been deepening defense ties",
+          "role_ja": "主節",
+          "literal_ja": "両国は防衛関係を深めてきた",
+          "note_ja": "deepen ties は国際関係の定番。"
+        },
+        {
+          "text": "in the shadow of China's naval ambitions",
+          "role_ja": "状況",
+          "literal_ja": "中国の海軍野心の影の中で",
+          "note_ja": "in the shadow of は背景要因の比喩。"
+        },
+        {
+          "text": "announcing that they will discuss intelligence sharing",
+          "role_ja": "付帯動作",
+          "literal_ja": "情報共有を協議する予定だと発表しながら",
+          "note_ja": "intelligence sharing は防衛協力のキーワード。"
+        },
+        {
+          "text": "and open maritime border talks",
+          "role_ja": "並列目的語",
+          "literal_ja": "そして海上境界協議を開始する",
+          "note_ja": "open talks は協議を始める。"
+        },
+        {
+          "text": "condemned by Beijing as an \"illegal\" violation of its expansive territorial claims",
+          "role_ja": "過去分詞句",
+          "literal_ja": "北京に違法な領土主張侵害として非難された",
+          "note_ja": "condemn A as B。expansive claims は広い領海・領土主張。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Shangri-La Dialogue is Asia's top defense forum, bringing together security officials and experts from about 45 countries.",
+      "translation_ja": "シャングリラ・ダイアログはアジア最大の防衛フォーラムで、約45か国から安全保障当局者や専門家が集まる。",
+      "grammar_ja": "is Asia's top ... で同定。bringing together は分詞で付加説明。from about 45 countries は出身・参加元。",
+      "chunks": [
+        {
+          "text": "The Shangri-La Dialogue is Asia's top defense forum",
+          "role_ja": "主節",
+          "literal_ja": "シャングリラ・ダイアログはアジア最大の防衛フォーラムだ",
+          "note_ja": "固有名詞＋定義文は背景説明の典型。"
+        },
+        {
+          "text": "bringing together security officials and experts",
+          "role_ja": "付加説明（分詞）",
+          "literal_ja": "安全保障当局者と専門家を集めて",
+          "note_ja": "bring together は「集める」。"
+        },
+        {
+          "text": "from about 45 countries",
+          "role_ja": "修飾",
+          "literal_ja": "約45か国から",
+          "note_ja": "about は概数。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In contrast to Japan -- and its ally the United States -- China has sent a watered-down delegation that does not include its defense minister, Dong Jun, for the second year running.",
+      "translation_ja": "日本―その同盟国である米国―とは対照的に、中国は防衛相の董軍氏を含まない手ぬるい代表団を送っており、これは2年連続である。",
+      "grammar_ja": "In contrast to は対比。watered-down は比喩「内容を薄めた」。that does not include は限定用法。for the second year running は「2年連続で」。",
+      "chunks": [
+        {
+          "text": "In contrast to Japan -- and its ally the United States --",
+          "role_ja": "対比の前置詞句",
+          "literal_ja": "日本とその同盟国米国とは対照的に",
+          "note_ja": "ダッシュ挿入で同盟関係を補足。"
+        },
+        {
+          "text": "China has sent a watered-down delegation",
+          "role_ja": "主節",
+          "literal_ja": "中国は手ぬるい代表団を送った",
+          "note_ja": "watered-down は本来「水で薄めた」から「規模・内容を抑えた」。"
+        },
+        {
+          "text": "that does not include its defense minister, Dong Jun",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "防衛相の董軍を含まない",
+          "note_ja": "同格カンマで固有名補足。"
+        },
+        {
+          "text": "for the second year running",
+          "role_ja": "期間・頻度",
+          "literal_ja": "2年連続で",
+          "note_ja": "for the X year running は連続回数の定型。"
+        }
+      ],
+      "deep_dive_ja": "watered-down delegation は、中国の参加姿勢の後退を示す評論的表現です。for the second year running はスポーツ・政治記事でよく使われます。",
+      "difficulty": "medium",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "Koizumi said he was \"feeling sad that we were unable to have the opportunity to have a meeting this time\".",
+      "translation_ja": "小泉氏は「今回は会談の機会を持てなかったことは残念だ」と述べた。",
+      "grammar_ja": "feeling sad that ... は感情＋that節。unable to have the opportunity to ... は二重の名詞化で丁寧・婉曲。were unable は過去の事実。",
+      "chunks": [
+        {
+          "text": "Koizumi said he was feeling sad",
+          "role_ja": "主節",
+          "literal_ja": "小泉は残念に思っていると言った",
+          "note_ja": "was feeling は当時の感情。"
+        },
+        {
+          "text": "that we were unable to have the opportunity to have a meeting",
+          "role_ja": "内容節",
+          "literal_ja": "会談の機会を持てなかったこと",
+          "note_ja": "unable to / opportunity to の重ねは公式外交英語。"
+        },
+        {
+          "text": "this time",
+          "role_ja": "時",
+          "literal_ja": "今回は",
+          "note_ja": "中国防衛相不在への言及。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "veiled swipe",
+      "pronunciation": "/veɪld swaɪp/",
+      "meaning_ja": "遠回しの批判、婉曲な攻撃",
+      "example": "The minister took a veiled swipe at China.",
+      "example_ja": "大臣は中国を遠回しに批判した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "muscular",
+      "pronunciation": "/ˈmʌskjələr/",
+      "meaning_ja": "（政策・姿勢が）力強い、強硬な",
+      "example": "Tokyo's increasingly muscular security stance",
+      "example_ja": "ますます強硬化する東京の安全保障姿勢",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "rebuke",
+      "pronunciation": "/rɪˈbjuːk/",
+      "meaning_ja": "非難、叱責",
+      "example": "The change has drawn frequent rebukes from Beijing.",
+      "example_ja": "その変化は北京から度々の非難を招いた。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "destabilize",
+      "pronunciation": "/diːˈsteɪbəlaɪz/",
+      "meaning_ja": "不安定にする",
+      "example": "a policy that could destabilize the region",
+      "example_ja": "地域を不安定化しかねない政策",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "transparency",
+      "pronunciation": "/trænsˈpærənsi/",
+      "meaning_ja": "透明性、情報公開",
+      "example": "without sufficient transparency",
+      "example_ja": "十分な透明性なく",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "counterpart",
+      "pronunciation": "/ˈkaʊntərpɑːrt/",
+      "meaning_ja": "同職の相手（大臣同士など）",
+      "example": "his Philippine counterpart",
+      "example_ja": "フィリピンの同職の相手",
+      "source_sentence_id": "s014"
+    },
+    {
+      "word": "contingent",
+      "pronunciation": "/kənˈtɪndʒənt/",
+      "meaning_ja": "派遣団、分団",
+      "example": "the military sending a contingent to examine them",
+      "example_ja": "軍が調査団を送って検討した",
+      "source_sentence_id": "s015"
+    },
+    {
+      "word": "watered-down",
+      "pronunciation": "/ˈwɔːtərd daʊn/",
+      "meaning_ja": "内容を薄めた、規模を抑えた",
+      "example": "China has sent a watered-down delegation.",
+      "example_ja": "中国は手ぬるい代表団を送った。",
+      "source_sentence_id": "s018"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-adjunct",
+      "title": "Participial phrases (-ing / -ed) for extra information",
+      "rule": "Present or past participles can add simultaneous action, reason, or background after a main clause.",
+      "example": "Koizumi hit back, saying \"nothing could be further from the truth\".",
+      "meaning_ja": "分詞構文（-ing / -ed）は、主節に付け足して発言内容・背景行動・結果などを簡潔に示します。ニュース英語では very common です。"
+    },
+    {
+      "id": "reported-speech-that",
+      "title": "Reported speech with that-clauses",
+      "rule": "Use said/confirmed/announced that + clause to report statements indirectly.",
+      "example": "Koizumi said that China was expanding its military capabilities.",
+      "meaning_ja": "said that 以下に節を置く間接話法は、政治家の発言を客観的に伝える基本形です。and that で複数内容を並列できます。"
+    },
+    {
+      "id": "concessive-despite",
+      "title": "Concession with despite / and yet",
+      "rule": "despite + noun phrase and and yet introduce contrast with the main idea.",
+      "example": "Japan has neither of such weapons. And yet, Japan is labelled as 'new militarism.'",
+      "meaning_ja": "despite は名詞の前で「〜にもかかわらず」、And yet は文頭で強い逆接を作ります。小泉氏の論理展開の核になる対比構造です。"
+    },
+    {
+      "id": "passive-news",
+      "title": "Passive voice for diplomatic reporting",
+      "rule": "Passive forms (is thought to, is labelled, were condemned) keep tone neutral and focus on events rather than actors.",
+      "example": "China is thought to possess hundreds of nuclear warheads.",
+      "meaning_ja": "受動態や is thought to などは、推定や非難をやわらげ、事実報道らしい客観的トーンにします。外交・安全保障記事で頻出です。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 19,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:15:04+09:00"
+  },
+  "article_id": "japantoday:2026-06-01:koizumi-takes-veiled-swipe-at-china-at-s"
+}

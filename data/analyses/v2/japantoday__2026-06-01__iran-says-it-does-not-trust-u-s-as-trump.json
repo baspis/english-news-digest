@@ -1,0 +1,1057 @@
+{
+  "summary_ja": "イランの最高交渉担当者は、米国を信用できないと警告し、イランの権利が十分に保障されない限り合意しないと述べた。トランプ大統領がより厳しい和平案を送り返した一方、核開発、ホルムズ海峡、レバノン情勢などで双方の溝は深いままだ。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Iran's chief negotiator warned on Sunday the United States was not to be trusted, saying Tehran would not agree to any deal with Washington unless it fully secured Iranian rights.",
+      "translation_ja": "イランの最高交渉担当者は日曜日、米国は信用できないと警告し、イランの権利が十分に確保されない限りワシントンとのいかなる合意にも応じないと述べた。",
+      "grammar_ja": "warned + that節（that省略）／saying + -ing で付帯状況／unless = 〜でない限り。news style では人物→発言内容の順が多い。",
+      "chunks": [
+        {
+          "text": "Iran's chief negotiator",
+          "role_ja": "主語",
+          "literal_ja": "イランの最高交渉担当者が",
+          "note_ja": "chief negotiator = 交渉の最高責任者。外交記事の定番表現。"
+        },
+        {
+          "text": "warned on Sunday",
+          "role_ja": "述語（時制・時を表す副詞句）",
+          "literal_ja": "日曜日に警告した",
+          "note_ja": "warn + (that)節。on Sunday は具体的な報道日。"
+        },
+        {
+          "text": "the United States was not to be trusted",
+          "role_ja": "間接話法の内容（that節）",
+          "literal_ja": "米国は信用されるべきではない／信用できない",
+          "note_ja": "be not to be trusted = 信頼に値しない。受動的・形式的な言い方で強い不信を示す。"
+        },
+        {
+          "text": "saying Tehran would not agree to any deal with Washington",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "テヘランはワシントンとのいかなる合意にも応じないと言い",
+          "note_ja": "saying で警告の具体的内容を追加。would = その時点から見た将来・条件。"
+        },
+        {
+          "text": "unless it fully secured Iranian rights",
+          "role_ja": "条件節",
+          "literal_ja": "それ（合意）がイランの権利を十分に確保しない限り",
+          "note_ja": "unless = if not。it は deal を指すと読むのが自然。"
+        }
+      ],
+      "deep_dive_ja": "見出しの核心文。'was not to be trusted' は単なる 'didn't trust' より形式ばっており、外交辞令らしい強い表現。B2学習者は unless の後が肯定形になる点に注意。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Mohammad Bagher Ghalibaf's remarks came as reports emerged that U.S.",
+      "translation_ja": "モハンマド・バゲル・ガリバフの発言は、米国に関する報道が浮上する中で出された。",
+      "grammar_ja": "came as = 〜する中で起きた。came as reports emerged that... で時事的背景を示す。文末は文脈上、次文とつながる途中で切れている。",
+      "chunks": [
+        {
+          "text": "Mohammad Bagher Ghalibaf's remarks",
+          "role_ja": "主語",
+          "literal_ja": "ガリバフの発言は",
+          "note_ja": "remarks = 発言・コメント。人物名の所有格で前文を受ける。"
+        },
+        {
+          "text": "came",
+          "role_ja": "述語",
+          "literal_ja": "出た／行われた",
+          "note_ja": "come は「起きる・行われる」。said よりニュース的。"
+        },
+        {
+          "text": "as reports emerged",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "報道が浮上する中で",
+          "note_ja": "emerge = 明らかになる・出てくる。as = ちょうど〜する時に。"
+        },
+        {
+          "text": "that U.S.",
+          "role_ja": "同格・内容節の冒頭（未完）",
+          "literal_ja": "米国が…という（内容）",
+          "note_ja": "that 以下は次文へ続く。分析では入力文をそのまま扱う。"
+        }
+      ],
+      "deep_dive_ja": "印刷・改行で途中分割された文。'came as' は「背景と同時に」というニュース定番構文。emerge は突然ではなく徐々に明らかになるニュアンス。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "President Donald Trump had sent a tougher peace proposal back to Iran, and underlined the rift that the parties still need to close.",
+      "translation_ja": "ドナルド・トランプ大統領がより厳しい和平案をイランに送り返したという報道があった一方、その発言は当事者が依然として埋めなければならない溝を改めて示した。",
+      "grammar_ja": "過去完了 had sent（その前の出来事）／and underlined で並列述語／that節は rift を修飾。need to close = 解消する必要がある。",
+      "chunks": [
+        {
+          "text": "President Donald Trump",
+          "role_ja": "主語",
+          "literal_ja": "ドナルド・トランプ大統領が",
+          "note_ja": "前句の U.S. に続く同格説明。"
+        },
+        {
+          "text": "had sent a tougher peace proposal back to Iran",
+          "role_ja": "述語（過去完了）",
+          "literal_ja": "より厳しい和平案をイランに送り返していた",
+          "note_ja": "send back = 送り返す。tougher = 条件がより厳しい。"
+        },
+        {
+          "text": "underlined the rift",
+          "role_ja": "並列述語",
+          "literal_ja": "溝を強調した",
+          "note_ja": "underline = 強調する・際立たせる。rift = 対立の溝。"
+        },
+        {
+          "text": "that the parties still need to close",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "当事者が依然として埋める必要がある（溝）",
+          "note_ja": "close a rift = 溝を埋める。still で継続性を示す。"
+        }
+      ],
+      "deep_dive_ja": "前句と合わせて一つの複文。'underlined' は文字通り下線ではなく「改めて浮き彫りにした」意。party は「当事者・交渉当事国」。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Any tweaks to the draft could further delay an agreement to formally end the Middle East war and reopen the Strait of Hormuz after weeks of fraught negotiations marked by sharp rhetoric and occasional flare-ups of violence.",
+      "translation_ja": "草案への些細な変更でも、激しい言葉合戦と時折の武力衝突に彩られた数週間の緊迫した交渉の後、中東戦争を正式に終結させホルムズ海峡を再開する合意をさらに遅らせる可能性がある。",
+      "grammar_ja": "could delay = 可能性／不定詞 to formally end and reopen で目的／marked by = 〜によって特徴づけられる。fraught = 緊張に満ちた。",
+      "chunks": [
+        {
+          "text": "Any tweaks to the draft",
+          "role_ja": "主語",
+          "literal_ja": "草案へのいかなる微修正も",
+          "note_ja": "tweak = 小さな修正。draft = 草案。"
+        },
+        {
+          "text": "could further delay an agreement",
+          "role_ja": "述語",
+          "literal_ja": "合意をさらに遅らせるかもしれない",
+          "note_ja": "could = 可能性。further = さらに。"
+        },
+        {
+          "text": "to formally end the Middle East war and reopen the Strait of Hormuz",
+          "role_ja": "不定詞（形容詞的用法）",
+          "literal_ja": "中東戦争を正式に終わらせ、ホルムズ海峡を再開する",
+          "note_ja": "agreement to do = 〜する合意。Strait of Hormuz は重要地名。"
+        },
+        {
+          "text": "after weeks of fraught negotiations",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "数週間の緊迫した交渉の後に",
+          "note_ja": "fraught with tension の省略形に近い用法。"
+        },
+        {
+          "text": "marked by sharp rhetoric and occasional flare-ups of violence",
+          "role_ja": "過去分詞句（後置修飾）",
+          "literal_ja": "激しいレトリックと時折の暴力の激化によって特徴づけられた",
+          "note_ja": "flare-up = 一時的な激化。rhetoric = 言葉による攻撃。"
+        }
+      ],
+      "deep_dive_ja": "長い名詞句が続く典型ディプロマシー記事。'marked by' は過去分詞の後置修飾で、交渉の性質をまとめる。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Iran was already in talks with the United States about the fate of its nuclear program in February when the U.S. and Israel launched air and missile strikes that wiped out much of the Islamic republic's senior leadership.",
+      "translation_ja": "イランは2月、核計画の行方をめぐってすでに米国と協議中だったが、その時点で米国とイスラエルが空爆とミサイル攻撃を開始し、イスラム共和国の上級指導部の多くを一掃した。",
+      "grammar_ja": "was in talks = 交渉中だった／when = その時／関係代名詞 that = strikes。wipe out = 全滅させる。",
+      "chunks": [
+        {
+          "text": "Iran was already in talks with the United States",
+          "role_ja": "主節",
+          "literal_ja": "イランはすでに米国と協議中だった",
+          "note_ja": "be in talks with = 交渉中である。already で背景の継続を示す。"
+        },
+        {
+          "text": "about the fate of its nuclear program",
+          "role_ja": "前置詞句",
+          "literal_ja": "その核計画の行方について",
+          "note_ja": "fate = 運命・行方。its は Iran's。"
+        },
+        {
+          "text": "in February",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2月に",
+          "note_ja": "後続の when と時間軸を共有。"
+        },
+        {
+          "text": "when the U.S. and Israel launched air and missile strikes",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "米国とイスラエルが空とミサイルの攻撃を開始した時",
+          "note_ja": "when = その時点で。launch strikes = 攻撃を開始する。"
+        },
+        {
+          "text": "that wiped out much of the Islamic republic's senior leadership",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "イスラム共和国の上級指導部の多くを一掃した",
+          "note_ja": "wipe out = 壊滅させる。senior leadership = 上級指導部。"
+        }
+      ],
+      "deep_dive_ja": "交渉継続と軍事行動の対比が記事の背景説明。'Islamic republic' はイランの正式呼称として使われる。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "And, while Tehran has long insisted that its nuclear program is for purely civilian ends, the United States and its Western allies suspect it aims to develop a weapon.",
+      "translation_ja": "また、テヘランは長年、核計画は純粋に民生目的だと主張してきたが、米国と西側同盟国は武器開発を目指しているのではないかと疑っている。",
+      "grammar_ja": "while = 対比の譲歩「〜だが」／has insisted that / suspect (that) 省略／it aims to = それは〜を目指す。",
+      "chunks": [
+        {
+          "text": "while Tehran has long insisted",
+          "role_ja": "譲歩節",
+          "literal_ja": "テヘランが長年主張してきた一方で",
+          "note_ja": "while は時間だけでなく対比。has long insisted = ずっと主張。"
+        },
+        {
+          "text": "that its nuclear program is for purely civilian ends",
+          "role_ja": "that節",
+          "literal_ja": "その核計画は純粋に民生目的であると",
+          "note_ja": "civilian ends = 民間・民生目的。for + 目的。"
+        },
+        {
+          "text": "the United States and its Western allies",
+          "role_ja": "主語",
+          "literal_ja": "米国とその西側同盟国は",
+          "note_ja": "allies = 同盟国。"
+        },
+        {
+          "text": "suspect it aims to develop a weapon",
+          "role_ja": "述語＋that節",
+          "literal_ja": "それ（計画）が武器開発を目指すと疑う",
+          "note_ja": "suspect + (that)節。it は nuclear program。"
+        }
+      ],
+      "deep_dive_ja": "核問題記事の定番対立構造。'insist' は事実主張、'suspect' は確信に至っていない疑い。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The New York Times and Axios reported on Saturday that Trump had sent back a \"tougher\" new framework to be considered by Iran, though details remain unclear.",
+      "translation_ja": "ニューヨーク・タイムズとアクシオスは土曜日、トランプがより厳しい新たな枠組みをイランの検討に送り返したと報じたが、詳細は不明なままだ。",
+      "grammar_ja": "reported that + 過去完了／to be considered = 受動の不定詞（イランに検討される）／though = 逆接「だが」。",
+      "chunks": [
+        {
+          "text": "The New York Times and Axios reported on Saturday",
+          "role_ja": "主節",
+          "literal_ja": "NYTとアクシオスが土曜日に報じた",
+          "note_ja": "複数メディアを主語にする引用元明示。"
+        },
+        {
+          "text": "that Trump had sent back a \"tougher\" new framework",
+          "role_ja": "that節",
+          "literal_ja": "トランプがより厳しい新枠組みを送り返したと",
+          "note_ja": "framework = 枠組み・骨子。send back again。"
+        },
+        {
+          "text": "to be considered by Iran",
+          "role_ja": "不定詞（受動）",
+          "literal_ja": "イランによって検討されるために",
+          "note_ja": "受動不定詞で目的・帰属を示す。"
+        },
+        {
+          "text": "though details remain unclear",
+          "role_ja": "譲歩節",
+          "literal_ja": "だが詳細は不明なままである",
+          "note_ja": "though = although。remain + 形容詞。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Trump has said his priorities include stopping Iran from developing any nuclear weapon and reopening the Hormuz shipping lane, which Iran has blockaded since the war began.",
+      "translation_ja": "トランプは自身の優先事項に、イランの核兵器開発の阻止と、戦争開始以来イランが封鎖しているホルムズの航路再開が含まれると述べている。",
+      "grammar_ja": "has said / include + -ing／stop A from -ing／関係代名詞 which = lane。since = 〜以来。",
+      "chunks": [
+        {
+          "text": "Trump has said his priorities include",
+          "role_ja": "主節",
+          "literal_ja": "トランプは優先事項に…が含まれると言ってきた",
+          "note_ja": "priority include ~ing。現在完了で発言の継続性。"
+        },
+        {
+          "text": "stopping Iran from developing any nuclear weapon",
+          "role_ja": "動名詞句",
+          "literal_ja": "イランが核兵器を開発するのを止めること",
+          "note_ja": "stop/keep/prevent + O + from -ing。"
+        },
+        {
+          "text": "and reopening the Hormuz shipping lane",
+          "role_ja": "並列動名詞",
+          "literal_ja": "そしてホルムズの航路を再開すること",
+          "note_ja": "shipping lane = 船舶航路。"
+        },
+        {
+          "text": "which Iran has blockaded since the war began",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "イランが戦争開始以来封鎖している（航路）",
+          "note_ja": "blockade = 封鎖。since + 過去形。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The one guarantee that I have to have is that there will be no nuclear weapons.",
+      "translation_ja": "「私が絶対に確保しなければならない唯一の保証は、核兵器が存在しないことだ。」",
+      "grammar_ja": "関係代名詞 that = guarantee／have to have = 強調的な「絶対必要」／there will be = 存在・将来。",
+      "chunks": [
+        {
+          "text": "The one guarantee",
+          "role_ja": "主語（名詞句）",
+          "literal_ja": "唯一の保証は",
+          "note_ja": "the one ~ that で特定。"
+        },
+        {
+          "text": "that I have to have",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "私が持たなければならない",
+          "note_ja": "have to have は口語的強調。must have に近い。"
+        },
+        {
+          "text": "is that there will be no nuclear weapons",
+          "role_ja": "述語＋that節",
+          "literal_ja": "核兵器がないということである",
+          "note_ja": "there will be no = 将来存在しない。"
+        }
+      ],
+      "deep_dive_ja": "引用は次文と一続き。'the one guarantee that...' は話者の譲れない条件を強調する構文。",
+      "difficulty": "easy",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "\"They've agreed to that, and it was very interesting,\" he told his daughter-in-law Lara Trump in an interview on her Fox News show.",
+      "translation_ja": "「彼らはそれに合意した。とても興味深かった」と彼は義理の娘ララ・トランプのフォックス・ニュース番組でのインタビューで語った。",
+      "grammar_ja": "直接話法＋he told O in an interview／daughter-in-law = 義理の娘。 They've = They have。",
+      "chunks": [
+        {
+          "text": "They've agreed to that",
+          "role_ja": "引用文（述語）",
+          "literal_ja": "彼らはそれに合意した",
+          "note_ja": "agree to = 〜に合意する。that は前の保証条件。"
+        },
+        {
+          "text": "and it was very interesting",
+          "role_ja": "引用文（並列）",
+          "literal_ja": "そしてそれはとても興味深かった",
+          "note_ja": "話者の評価を付加する口語表現。"
+        },
+        {
+          "text": "he told his daughter-in-law Lara Trump",
+          "role_ja": "主節",
+          "literal_ja": "彼は義理の娘ララ・トランプに語った",
+          "note_ja": "tell + 人 + 引用。told は said より伝達感。"
+        },
+        {
+          "text": "in an interview on her Fox News show",
+          "role_ja": "場所・媒体の前置詞句",
+          "literal_ja": "彼女のフォックス・ニュース番組でのインタビューで",
+          "note_ja": "on a show = 番組上で。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Tehran, however, has previously cast doubt on Trump's assertions and the sides remain far apart on key issues.",
+      "translation_ja": "しかしテヘランは以前からトランプの主張に疑いを呈しており、双方は主要論点で依然として大きく隔たれている。",
+      "grammar_ja": "however = 文頭の逆接／cast doubt on = 疑う／remain far apart on = 〜で隔たっている。",
+      "chunks": [
+        {
+          "text": "Tehran, however,",
+          "role_ja": "主語＋接続副詞",
+          "literal_ja": "しかしテヘランは",
+          "note_ja": "however はカンマで挟むのが一般的。"
+        },
+        {
+          "text": "has previously cast doubt on Trump's assertions",
+          "role_ja": "述語",
+          "literal_ja": "以前からトランプの主張に疑義を投げかけてきた",
+          "note_ja": "cast doubt on = 信用を疑う定番コロケーション。"
+        },
+        {
+          "text": "the sides remain far apart on key issues",
+          "role_ja": "並列節",
+          "literal_ja": "当事者双方は主要問題で大きく離れたままだ",
+          "note_ja": "far apart on issues = 見解が大きく異なる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We will not approve any agreement until we are certain that the rights of the Iranian people have been upheld,\" Ghalibaf said in a video broadcast on state television.",
+      "translation_ja": "「イラン国民の権利が守られたと確信できるまで、いかなる合意も承認しない」とガリバフは国営テレビの動画放送で述べた。",
+      "grammar_ja": "not ... until = 〜するまで…しない／are certain that / have been upheld（受動・現在完了）。",
+      "chunks": [
+        {
+          "text": "We will not approve any agreement",
+          "role_ja": "引用文（主節）",
+          "literal_ja": "我々はいかなる合意も承認しない",
+          "note_ja": "approve = 正式に承認する。"
+        },
+        {
+          "text": "until we are certain",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "我々が確信するまで",
+          "note_ja": "certain that節とセット。"
+        },
+        {
+          "text": "that the rights of the Iranian people have been upheld",
+          "role_ja": "that節",
+          "literal_ja": "イラン国民の権利が守られてきたと",
+          "note_ja": "uphold rights = 権利を守る。受動完了。"
+        },
+        {
+          "text": "Ghalibaf said in a video broadcast on state television",
+          "role_ja": "主節（発言動詞）",
+          "literal_ja": "ガリバフは国営テレビの動画放送で述べた",
+          "note_ja": "state television = 国営テレビ。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "According to the Tasnim news agency, exchanges on the text \"are ongoing, with both parties regularly proposing amendments\".",
+      "translation_ja": "タスニム通信によると、文案をめぐるやり取りは「継続中で、双方が定期的に修正案を提出している」という。",
+      "grammar_ja": "According to = 〜によれば／with + O + -ing = 付帯状況「〜しながら」。",
+      "chunks": [
+        {
+          "text": "According to the Tasnim news agency",
+          "role_ja": "根拠を示す前置詞句",
+          "literal_ja": "タスニム通信によれば",
+          "note_ja": "報道の出所を明示する定型句。"
+        },
+        {
+          "text": "exchanges on the text",
+          "role_ja": "主語",
+          "literal_ja": "文案に関するやり取りは",
+          "note_ja": "exchange on = 〜についての交換・協議。"
+        },
+        {
+          "text": "are ongoing",
+          "role_ja": "述語",
+          "literal_ja": "進行中である",
+          "note_ja": "ongoing = 現在進行中の。"
+        },
+        {
+          "text": "with both parties regularly proposing amendments",
+          "role_ja": "with分詞構文",
+          "literal_ja": "双方が定期的に修正案を提出しながら",
+          "note_ja": "amendment = 修正。regularly proposing。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iranian Foreign Minister Abbas Araghchi, meanwhile, said that \"until a clear conclusion is reached... everything that is being said now is speculation\", according to state TV.",
+      "translation_ja": "一方、イランのアッバース・アラグチ外相は国営テレビで、「明確な結論に達するまで…今言われていることはすべて憶測だ」と述べた。",
+      "grammar_ja": "meanwhile = 一方で／until節／is being said = 受動進行形／speculation = 憶測。",
+      "chunks": [
+        {
+          "text": "Iranian Foreign Minister Abbas Araghchi, meanwhile,",
+          "role_ja": "主語",
+          "literal_ja": "一方イランのアラグチ外相は",
+          "note_ja": "meanwhile で話題転換。"
+        },
+        {
+          "text": "said that",
+          "role_ja": "述語",
+          "literal_ja": "…と述べた",
+          "note_ja": "that 以下に長い引用。"
+        },
+        {
+          "text": "until a clear conclusion is reached",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "明確な結論が得られるまで",
+          "note_ja": "reach a conclusion の受動形。"
+        },
+        {
+          "text": "everything that is being said now is speculation",
+          "role_ja": "引用の主節",
+          "literal_ja": "今言われていることはすべて憶測である",
+          "note_ja": "is being said = 今まさに言われている。speculation。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran has said it needs the release of $12 billion in frozen assets before engaging in substantive talks on its nuclear program, dismissing earlier Trump comments that its enriched uranium stockpile would be destroyed as \"baseless\", according to Iranian media.",
+      "translation_ja": "イランは、核計画に関する実質的な協議に入る前に、凍結された資産120億ドルの解放が必要だと述べ、濃縮ウランの備蓄が破壊されるという以前のトランプ発言を「根拠なし」と退けたと、イランのメディアが伝えた。",
+      "grammar_ja": "needs the release of / before engaging in / dismissing ... as baseless／関係代名詞 that = comments。",
+      "chunks": [
+        {
+          "text": "Iran has said it needs the release of $12 billion in frozen assets",
+          "role_ja": "主節",
+          "literal_ja": "イランは凍結資産120億ドルの解放が必要だと言った",
+          "note_ja": "frozen assets = 凍結資産。release = 解放。"
+        },
+        {
+          "text": "before engaging in substantive talks on its nuclear program",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "核計画の実質的協議に入る前に",
+          "note_ja": "substantive talks = 実質交渉。engage in。"
+        },
+        {
+          "text": "dismissing earlier Trump comments",
+          "role_ja": "分詞構文",
+          "literal_ja": "以前のトランプの発言を退け",
+          "note_ja": "dismiss as = 〜として退ける。"
+        },
+        {
+          "text": "that its enriched uranium stockpile would be destroyed as \"baseless\"",
+          "role_ja": "関係代名詞節＋as",
+          "literal_ja": "濃縮ウラン備蓄が破壊されるという（発言を）根拠なしとして",
+          "note_ja": "enriched uranium stockpile = 濃縮ウラン備蓄。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "One of Washington's stated war aims was the destruction of Iran's ballistic missile program, with General Dan Caine -- the top U.S. military officer -- estimating in April that more than 80 percent of its missile facilities had been struck.",
+      "translation_ja": "ワシントンの公表された戦争目的の一つはイランの弾道ミサイル計画の破壊であり、最高軍事責任者のダン・ケイン将軍は4月、ミサイル施設の8割以上が攻撃を受けたと見積もった。",
+      "grammar_ja": "One of + 複数名詞／with + O + estimating（付帯）／had been struck（過去完了受動）。",
+      "chunks": [
+        {
+          "text": "One of Washington's stated war aims",
+          "role_ja": "主語",
+          "literal_ja": "ワシントンの公表された戦争目的の一つは",
+          "note_ja": "stated aims = 公に示した目的。"
+        },
+        {
+          "text": "was the destruction of Iran's ballistic missile program",
+          "role_ja": "述語",
+          "literal_ja": "イランの弾道ミサイル計画の破壊であった",
+          "note_ja": "ballistic missile = 弾道ミサイル。"
+        },
+        {
+          "text": "with General Dan Caine estimating in April",
+          "role_ja": "with分詞構文",
+          "literal_ja": "ケイン将軍が4月に見積もったことで",
+          "note_ja": "ダッシュ内は同格説明。"
+        },
+        {
+          "text": "that more than 80 percent of its missile facilities had been struck",
+          "role_ja": "that節",
+          "literal_ja": "ミサイル施設の8割以上が攻撃を受けていたと",
+          "note_ja": "strike の受動。had been struck。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But CNN reported on Sunday that an analysis of satellite imagery showed Tehran has since been able to excavate 50 out of 69 tunnel entrances hit by U.S. strikes at 18 underground missile sites.",
+      "translation_ja": "しかしCNNは日曜日、衛星画像の分析により、テヘランは米軍攻撃を受けた18か所の地下ミサイル基地で69箇所のトンネル入口のうち50箇所をそれ以来掘り出すことができたと報じた。",
+      "grammar_ja": "reported that / has since been able to = それ以来〜できている／hit by = 攻撃を受けた（過去分詞修飾）。",
+      "chunks": [
+        {
+          "text": "CNN reported on Sunday that",
+          "role_ja": "主節",
+          "literal_ja": "CNNは日曜日に…と報じた",
+          "note_ja": "that 以下に調査結果。"
+        },
+        {
+          "text": "an analysis of satellite imagery showed",
+          "role_ja": "従属節の主節",
+          "literal_ja": "衛星画像分析が示した",
+          "note_ja": "satellite imagery = 衛星画像。"
+        },
+        {
+          "text": "Tehran has since been able to excavate",
+          "role_ja": "that節",
+          "literal_ja": "テヘランはそれ以来掘り出すことができた",
+          "note_ja": "has been able to = 能力・実現。since = 攻撃以降。"
+        },
+        {
+          "text": "50 out of 69 tunnel entrances hit by U.S. strikes",
+          "role_ja": "目的語",
+          "literal_ja": "攻撃を受けた69入口のうち50",
+          "note_ja": "X out of Y = YのうちX。"
+        },
+        {
+          "text": "at 18 underground missile sites",
+          "role_ja": "場所の前置詞句",
+          "literal_ja": "18の地下ミサイル基地で",
+          "note_ja": "underground missile site。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Though daily strikes throughout Iran and the Gulf halted after Tehran and Washington agreed to a temporary ceasefire in April, there have been sporadic attacks.",
+      "translation_ja": "テヘランとワシントンが4月に一時停戦で合意し、イランと湾岸全域での毎日の攻撃が止んだものの、散発的な攻撃は続いている。",
+      "grammar_ja": "Though = 譲歩「〜だが」／halt = 停止／there have been = 存在・発生の現在完了。",
+      "chunks": [
+        {
+          "text": "Though daily strikes throughout Iran and the Gulf halted",
+          "role_ja": "譲歩節",
+          "literal_ja": "イランと湾岸全域の毎日の攻撃が止まったとはいえ",
+          "note_ja": "halt = 停止する（やや硬い）。"
+        },
+        {
+          "text": "after Tehran and Washington agreed to a temporary ceasefire in April",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "4月に一時停戦に合意した後",
+          "note_ja": "ceasefire = 停戦。temporary。"
+        },
+        {
+          "text": "there have been sporadic attacks",
+          "role_ja": "主節",
+          "literal_ja": "散発的な攻撃があった",
+          "note_ja": "sporadic = 散発的な。there have been。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran's Revolutionary Guards had shot down a U.S. military drone \"about to enter Iranian territorial waters\", Iran's state broadcaster IRIB reported, though Washington has not confirmed the incident.",
+      "translation_ja": "イランの国営放送IRIBは、イラン革命防衛隊が「イラン領海に入ろうとしていた」米軍ドローンを撃墜したと報じたが、ワシントンはこの事案を確認していない。",
+      "grammar_ja": "had shot down（過去完了）／about to enter = まさに入ろうとしていた／though = だが。",
+      "chunks": [
+        {
+          "text": "Iran's Revolutionary Guards had shot down a U.S. military drone",
+          "role_ja": "従属節（報道内容）",
+          "literal_ja": "イラン革命防衛隊が米軍ドローンを撃墜していた",
+          "note_ja": "Revolutionary Guards = 革命防衛隊。shoot down。"
+        },
+        {
+          "text": "about to enter Iranian territorial waters",
+          "role_ja": "後置修飾",
+          "literal_ja": "イラン領海に入ろうとしている",
+          "note_ja": "be about to = まさに〜しようとしている。"
+        },
+        {
+          "text": "Iran's state broadcaster IRIB reported",
+          "role_ja": "主節",
+          "literal_ja": "国営放送IRIBが報じた",
+          "note_ja": "state broadcaster = 国営放送。"
+        },
+        {
+          "text": "though Washington has not confirmed the incident",
+          "role_ja": "譲歩節",
+          "literal_ja": "だがワシントンは事案を確認していない",
+          "note_ja": "confirm the incident = 事実確認。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Trump is under pressure to secure a deal that would lift competing U.S. and Iranian blockades around the Strait of Hormuz that have strangled a vital route for global oil supplies.",
+      "translation_ja": "トランプは、世界の石油供給にとって重要な航路を窒息させているホルムズ海峡周辺の米イラン双方の封鎖を解除する合意を確保するよう、圧力を受けている。",
+      "grammar_ja": "be under pressure to / that would lift（仮定）／competing blockades／関係代名詞 that = route。",
+      "chunks": [
+        {
+          "text": "Trump is under pressure to secure a deal",
+          "role_ja": "主節",
+          "literal_ja": "トランプは合意を確保するよう圧力を受けている",
+          "note_ja": "under pressure to = 〜するよう圧力。"
+        },
+        {
+          "text": "that would lift competing U.S. and Iranian blockades",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "競合する米イランの封鎖を解除する",
+          "note_ja": "competing = 双方が張り合っている。lift blockade。"
+        },
+        {
+          "text": "around the Strait of Hormuz",
+          "role_ja": "場所の前置詞句",
+          "literal_ja": "ホルムズ海峡周辺の",
+          "note_ja": "地理的焦点。"
+        },
+        {
+          "text": "that have strangled a vital route for global oil supplies",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "世界の石油供給の重要航路を窒息させてきた",
+          "note_ja": "strangle = 扼殺・行き来を困難にする比喩。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "After Trump said Iran would charge \"no tolls\" on ships passing through the strait under any deal, Iranian news agency Fars cited sources saying \"no such clause\" existed.",
+      "translation_ja": "トランプが合意の下では海峡を通過する船舶に「通行料を課さない」とイランが言うだろうと述べた後、イランのファルス通信は情報筋の話として「そのような条項は存在しない」と伝えた。",
+      "grammar_ja": "After節／would charge = 条件・報道上的未来／passing through（現在分詞修飾）／cited sources saying。",
+      "chunks": [
+        {
+          "text": "After Trump said Iran would charge \"no tolls\"",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "トランプがイランは通行料を課さないと言うだろうと述べた後",
+          "note_ja": "tolls = 通行料・関税。"
+        },
+        {
+          "text": "on ships passing through the strait under any deal",
+          "role_ja": "前置詞句",
+          "literal_ja": "いかなる合意の下でも海峡を通る船舶に",
+          "note_ja": "passing through = 通過する。"
+        },
+        {
+          "text": "Fars cited sources saying",
+          "role_ja": "主節",
+          "literal_ja": "ファルス通信は情報筋が言うと伝えた",
+          "note_ja": "cite sources = 情報筋を引用する。"
+        },
+        {
+          "text": "\"no such clause\" existed",
+          "role_ja": "内容節",
+          "literal_ja": "そのような条項は存在しない",
+          "note_ja": "clause = 条項。no such。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran's ISNA news agency on Saturday quoted lawmaker Alireza Salimi as saying a plan for Iranian \"management and sovereignty\" over the strait -- including imposing \"administrative fees\" -- would soon go before parliament.",
+      "translation_ja": "イランのISNA通信は土曜日、議員アリレザ・サリミの話として、海峡に対するイランの「管理と主権」――「行政手数料」の課徴を含む――を定める計画が間もなく議会に提出されると伝えた。",
+      "grammar_ja": "quote A as saying B／would go before parliament = 議会に付議される／ダッシュで挿入説明。",
+      "chunks": [
+        {
+          "text": "ISNA news agency quoted lawmaker Alireza Salimi as saying",
+          "role_ja": "主節",
+          "literal_ja": "ISNAは議員サリミの話を引用した",
+          "note_ja": "quote ... as saying = 〜と述べたと引用。"
+        },
+        {
+          "text": "a plan for Iranian \"management and sovereignty\" over the strait",
+          "role_ja": "引用内容（主語）",
+          "literal_ja": "海峡に対するイランの管理と主権の計画が",
+          "note_ja": "sovereignty = 主権。management。"
+        },
+        {
+          "text": "including imposing \"administrative fees\"",
+          "role_ja": "挿入句",
+          "literal_ja": "行政手数料の課徴を含め",
+          "note_ja": "administrative fees = 行政手数料。"
+        },
+        {
+          "text": "would soon go before parliament",
+          "role_ja": "述語",
+          "literal_ja": "間もなく議会に付議されるだろう",
+          "note_ja": "go before parliament = 議会に提出される。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Tehran has insisted that any peace deal include Lebanon, where fierce fighting continues, with Beirut accusing Israel of pursuing a \"scorched-earth policy\" as it expands operations against Iran-backed Hezbollah.",
+      "translation_ja": "テヘランは、激しい戦闘が続くレバノンを和平合意に含めるよう主張しており、ベイルートはイスラエルがイラン支援のヒズボラに対する作戦を拡大する中、「焦土作戦」を行っていると非難している。",
+      "grammar_ja": "insist that + 仮定法現在 include／where = 関係副詞／accuse A of B／as it expands。",
+      "chunks": [
+        {
+          "text": "Tehran has insisted that any peace deal include Lebanon",
+          "role_ja": "主節",
+          "literal_ja": "テヘランは和平合意にレバノンを含めるよう主張",
+          "note_ja": "insist that + 原形 = 仮定法・強い要求。"
+        },
+        {
+          "text": "where fierce fighting continues",
+          "role_ja": "関係副詞節",
+          "literal_ja": "激しい戦闘が続く（レバノンで）",
+          "note_ja": "where = in which。"
+        },
+        {
+          "text": "with Beirut accusing Israel of pursuing a \"scorched-earth policy\"",
+          "role_ja": "with分詞構文",
+          "literal_ja": "ベイルートがイスラエルの焦土作戦を非難し",
+          "note_ja": "scorched-earth policy = 焦土政策。"
+        },
+        {
+          "text": "as it expands operations against Iran-backed Hezbollah",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "イラン支援のヒズボラへの作戦を拡大する中で",
+          "note_ja": "Iran-backed = イラン支援の。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A truce between Israel and Hezbollah formally began on April 17 but it has never been observed, with both sides accusing each other of violating it.",
+      "translation_ja": "イスラエルとヒズボラの停戦は4月17日に正式に始まったが、一度も守られておらず、双方が相手の違反を非難し合っている。",
+      "grammar_ja": "has never been observed（受動）／with both sides accusing／accuse each other of -ing。",
+      "chunks": [
+        {
+          "text": "A truce between Israel and Hezbollah formally began on April 17",
+          "role_ja": "主節",
+          "literal_ja": "イスラエルとヒズボラの停戦は4月17日に正式に始まった",
+          "note_ja": "truce = 停戦協定。formally。"
+        },
+        {
+          "text": "but it has never been observed",
+          "role_ja": "逆接節",
+          "literal_ja": "だがそれは一度も守られていない",
+          "note_ja": "observe a truce = 停戦を守る。"
+        },
+        {
+          "text": "with both sides accusing each other of violating it",
+          "role_ja": "with分詞構文",
+          "literal_ja": "双方が互いに違反していると非難しながら",
+          "note_ja": "accuse each other of violating。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The UN Security Council will hold an emergency meeting Monday on the widening Israeli offensive following its capture of the strategic medieval castle of Beaufort, diplomatic sources told AFP.",
+      "translation_ja": "外交筋がアフパに伝えたところによると、国連安全保障理事会は、戦略的な中世のボーフォール城を占拠したことを受けて拡大するイスラエルの攻勢をめぐり、月曜日に緊急会合を開く。",
+      "grammar_ja": "will hold／on the widening offensive／following its capture（前置詞）／diplomatic sources told AFP（語順倒置）。",
+      "chunks": [
+        {
+          "text": "The UN Security Council will hold an emergency meeting Monday",
+          "role_ja": "主節（内容）",
+          "literal_ja": "国連安保理は月曜日に緊急会合を開く",
+          "note_ja": "emergency meeting。on Monday 省略の Monday。"
+        },
+        {
+          "text": "on the widening Israeli offensive",
+          "role_ja": "主題の前置詞句",
+          "literal_ja": "拡大するイスラエル攻勢について",
+          "note_ja": "widening offensive = 拡大する攻勢。"
+        },
+        {
+          "text": "following its capture of the strategic medieval castle of Beaufort",
+          "role_ja": "理由・背景",
+          "literal_ja": "戦略的中世のボーフォール城の占拠に続いて",
+          "note_ja": "following = 〜を受けて。medieval castle。"
+        },
+        {
+          "text": "diplomatic sources told AFP",
+          "role_ja": "主節（報道動詞・語順）",
+          "literal_ja": "外交筋がAFPに伝えた",
+          "note_ja": "ニュースでは情報源を文末に置くことが多い。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Smoke billowed from the surrounding area Sunday as its flag was seen by AFP above the castle, which Israel famously used as a base during their previous two-decade occupation.",
+      "translation_ja": "日曜日、周辺地域から煙が立ち上り、アフパは城の上に旗が掲げられているのを目にした。同城はイスラエルが以前の20年間の占領中に有名な基地として使った場所だ。",
+      "grammar_ja": "billow = 立ち上る／as = 同時／was seen by（受動）／which = castle／used as a base。",
+      "chunks": [
+        {
+          "text": "Smoke billowed from the surrounding area Sunday",
+          "role_ja": "主節",
+          "literal_ja": "日曜日、周辺から煙が立ち上った",
+          "note_ja": "billow = 大量に立ち上る。"
+        },
+        {
+          "text": "as its flag was seen by AFP above the castle",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "アフパが城の上に旗を見た時",
+          "note_ja": "its flag = イスラエルの旗と文脈で読む。"
+        },
+        {
+          "text": "which Israel famously used as a base",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "イスラエルが有名に基地として使った（城）",
+          "note_ja": "use A as B。"
+        },
+        {
+          "text": "during their previous two-decade occupation",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "以前の20年間の占領の間に",
+          "note_ja": "two-decade = 20年にわたる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israeli Prime Minister Benjamin Netanyahu called the retaking of Beaufort \"a dramatic shift\".",
+      "translation_ja": "イスラエルのベンヤミン・ネタニヤフ首相は、ボーフォールの奪還を「劇的な転換点」と呼んだ。",
+      "grammar_ja": "call O C（OをCと呼ぶ）／retaking = 名詞化された動作。",
+      "chunks": [
+        {
+          "text": "Israeli Prime Minister Benjamin Netanyahu",
+          "role_ja": "主語",
+          "literal_ja": "ネタニヤフ首相は",
+          "note_ja": "公式肩書＋氏名。"
+        },
+        {
+          "text": "called the retaking of Beaufort",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "ボーフォールの奪還を…と呼んだ",
+          "note_ja": "retake = 奪還する。the retaking。"
+        },
+        {
+          "text": "\"a dramatic shift\"",
+          "role_ja": "補語",
+          "literal_ja": "劇的な転換点と",
+          "note_ja": "dramatic shift = 大きな局面転換。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Hezbollah lawmaker Hassan Fadlallah said the castle \"was not a military site\", adding the raising of the Israeli flag there \"should provoke the feelings of every loyal patriot\".",
+      "translation_ja": "ヒズボラの議員ハッサン・ファドラッラは、城は「軍事施設ではなかった」と述べ、そこでイスラエル旗が掲げられたことは「すべての忠実な愛国者の感情を刺激すべきだ」と付け加えた。",
+      "grammar_ja": "adding + O／the raising of = 名詞化／should provoke = 〜を刺激すべき（強い道徳的含意）。",
+      "chunks": [
+        {
+          "text": "Hezbollah lawmaker Hassan Fadlallah said",
+          "role_ja": "主節",
+          "literal_ja": "ヒズボラ議員ファドラッラは述べた",
+          "note_ja": "党派＋肩書のパターン。"
+        },
+        {
+          "text": "the castle \"was not a military site\"",
+          "role_ja": "that節（省略）",
+          "literal_ja": "城は軍事施設ではなかったと",
+          "note_ja": "軍事標的ではないとの主張。"
+        },
+        {
+          "text": "adding the raising of the Israeli flag there",
+          "role_ja": "分詞構文",
+          "literal_ja": "そこでのイスラエル旗掲揚を付け加え",
+          "note_ja": "the raising of = 掲げる行為。"
+        },
+        {
+          "text": "should provoke the feelings of every loyal patriot",
+          "role_ja": "内容節",
+          "literal_ja": "すべての忠実な愛国者の感情を刺激すべきだと",
+          "note_ja": "loyal patriot = 忠実な愛国者。provoke feelings。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s028",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "negotiator",
+      "pronunciation": "/nɪˈɡoʊʃieɪtər/",
+      "meaning_ja": "交渉担当者",
+      "example": "Iran's chief negotiator warned on Sunday.",
+      "example_ja": "イランの最高交渉担当者は日曜日に警告した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "rift",
+      "pronunciation": "/rɪft/",
+      "meaning_ja": "（対立の）溝、亀裂",
+      "example": "The remarks underlined the rift that the parties still need to close.",
+      "example_ja": "その発言は当事者が依然埋めなければならない溝を改めて示した。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "fraught",
+      "pronunciation": "/frɔːt/",
+      "meaning_ja": "緊張に満ちた、困難な",
+      "example": "weeks of fraught negotiations",
+      "example_ja": "数週間にわたる緊迫した交渉",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "cast doubt on",
+      "pronunciation": "/kæst daʊt ɒn/",
+      "meaning_ja": "〜に疑いを呈する、信用を疑う",
+      "example": "Tehran has previously cast doubt on Trump's assertions.",
+      "example_ja": "テヘランは以前からトランプの主張に疑いを呈してきた。",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "blockade",
+      "pronunciation": "/blɒˈkeɪd/",
+      "meaning_ja": "封鎖",
+      "example": "Iran has blockaded the Hormuz shipping lane since the war began.",
+      "example_ja": "イランは戦争開始以来ホルムズの航路を封鎖している。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "ceasefire",
+      "pronunciation": "/ˈsiːsfaɪər/",
+      "meaning_ja": "停戦",
+      "example": "They agreed to a temporary ceasefire in April.",
+      "example_ja": "彼らは4月に一時停戦で合意した。",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "scorched-earth policy",
+      "pronunciation": "/skɔːrtʃt ɜːrθ ˈpɒləsi/",
+      "meaning_ja": "焦土作戦、徹底的な破壊政策",
+      "example": "Beirut accused Israel of pursuing a scorched-earth policy.",
+      "example_ja": "ベイルートはイスラエルが焦土作戦を行っていると非難した。",
+      "source_sentence_id": "s023"
+    },
+    {
+      "word": "sovereignty",
+      "pronunciation": "/ˈsɒvrənti/",
+      "meaning_ja": "主権",
+      "example": "a plan for Iranian management and sovereignty over the strait",
+      "example_ja": "海峡に対するイランの管理と主権を定める計画",
+      "source_sentence_id": "s022"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-clauses",
+      "title": "Reporting verbs with that-clauses",
+      "rule": "Use verbs like warn, report, say, insist + (that) + clause to introduce statements in news writing.",
+      "example": "Ghalibaf warned the United States was not to be trusted.",
+      "meaning_ja": "ニュースでは warn/report/say/insist などに that節（that省略可）を続けて発言や報道内容を伝える。語順は「人物→動詞→内容」が基本。"
+    },
+    {
+      "id": "concessive-while-though",
+      "title": "Concessive while / though / however",
+      "rule": "while/though introduce contrast; however marks contrast between sentences.",
+      "example": "While Tehran has insisted its program is civilian, allies suspect otherwise.",
+      "meaning_ja": "while/though は「〜だが」という譲歩・対比。however は文頭で前の内容と対比する。外交記事で立場の違いを示すのに頻出。"
+    },
+    {
+      "id": "participle-with-clause",
+      "title": "With + noun + -ing participle clause",
+      "rule": "with + NP + V-ing adds accompanying detail or secondary action.",
+      "example": "exchanges are ongoing, with both parties regularly proposing amendments",
+      "meaning_ja": "with + 名詞 + 現在分詞で「〜しながら」「〜という状況で」という付帯情報を追加する。ニュースで背景状況を簡潔に足すときに便利。"
+    },
+    {
+      "id": "relative-clauses-news",
+      "title": "Defining relative clauses (who/which/that)",
+      "rule": "Use who/which/that to add essential background about people, places, and events.",
+      "example": "a deal that would lift blockades that have strangled a vital route",
+      "meaning_ja": "関係代名詞節で人物・場所・出来事の必要な背景を足す。記事では連鎖する関係節で複雑な状況を一文にまとめることが多い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 28,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:16:16+09:00"
+  },
+  "article_id": "japantoday:2026-06-01:iran-says-it-does-not-trust-u-s-as-trump"
+}

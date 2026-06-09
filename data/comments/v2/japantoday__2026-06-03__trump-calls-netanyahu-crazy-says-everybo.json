@@ -1,0 +1,110 @@
+{
+  "article_id": "japantoday:2026-06-03:trump-calls-netanyahu-crazy-says-everybo",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:31:06+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "And Trump was dumb enough to follow Netanyahu into a lost war. Go figure.",
+      "translation_ja": "そしてトランプは愚かにもネタニヤフに従い、負ける戦争に突入した。まあ当然だよね。",
+      "notes_ja": [
+        "Go figure は「まあ当然だ／よくあることだ」という皮肉・呆れの慣用句。",
+        "dumb enough to は「愚かにも〜するほどバカだった」という強い非難。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "dumb",
+          "symbol": "◇",
+          "note_ja": "人を馬鹿にするくだけの口語。丁寧な場では foolish や unwise の方が無難。"
+        }
+      ],
+      "comment_id": 5223338,
+      "author": "TaiwanIsNotChina",
+      "rating": 35,
+      "posted_at": "2026-06-03T06:41:58+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "And Trump was dumb enough to follow Netanyahu into a lost war. Go figure. When you have no principles other than enriching yourself and your family…..",
+      "translation_ja": "そしてトランプは愚かにもネタニヤフに従い、負ける戦争に突入した。まあ当然だよね。自分と家族を太らせること以外に何の原則もない人間なら……",
+      "notes_ja": [
+        "文末の ….. は言い淀み・余韻で、続きを言わず含意で終わる書き方。",
+        "When you have no principles other than… は一般論として相手の性質を示し、暗にトランプを指す。"
+      ],
+      "standard_en": "When you have no principles other than enriching yourself and your family, …",
+      "marked_terms": [
+        {
+          "term": "dumb",
+          "symbol": "◇",
+          "note_ja": "人を馬鹿にするくだけの口語。丁寧な場では foolish や unwise の方が無難。"
+        }
+      ],
+      "comment_id": 5223355,
+      "author": "funkymofo",
+      "rating": 28,
+      "posted_at": "2026-06-03T06:48:38+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "\"You're crazy. You'd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this,\" I guess Trump haters must now admit that he sometimes does indeed tell the truth.",
+      "translation_ja": "「お前はクレイジーだ。俺がいなけりゃ刑務所だぞ。お前の尻を救ってやってるんだ。今みんなお前を嫌ってる。この件でみんなイスラエルを嫌ってる」——トランプ批判派も、彼が時々本当のことを言うことは認めざるを得ないんだろう。",
+      "notes_ja": [
+        "I guess … must now admit は「〜と認めざるを得ないだろう」という皮肉めいた推量。",
+        "if it weren't for me は仮定法過去で「私がいなければ」という強い主張。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "saving your ass",
+          "symbol": "※",
+          "note_ja": "ass は俗語の強い表現。丁寧な英語では saving you / bailing you out などに言い換える。"
+        }
+      ],
+      "comment_id": 5223379,
+      "author": "divinda",
+      "rating": 28,
+      "posted_at": "2026-06-03T07:00:39+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "He's absolutely right on all counts. Netanyahu played Trump hard and now the US has been exposed in front of the world. Netanyahu has got more than he could possibly have dreamed of from the US in recent years. Their financial and political support and protection to undertake genocide against the Gazans. US support and protection as they attacked Iran, US support and protection as they attacked Syria, Lebanon, Yemen etc etc etc. Netanyahu absolutely LOVES the US.",
+      "translation_ja": "彼の言うことはどれもまったくその通りだ。ネタニヤフはトランプをうまく操り、今やアメリカは世界の前で丸裸になった。ここ数年、ネタニヤフはアメリカから夢にも思わなかったほどのものを手に入れた。ガザの人々に対する虐殺を行うための金銭的・政治的支援と保護。イランを攻撃するときのアメリカの支援と保護、シリア、レバノン、イエメンなどを攻撃するときの支援と保護、延々と。ネタニヤフはアメリカを心底愛している。",
+      "notes_ja": [
+        "played Trump hard は「巧みに操った」という口語的メタファー。",
+        "etc etc etc と大文字の LOVES は反復・強調で皮肉や怒りを込めている。"
+      ],
+      "standard_en": "Their financial and political support and protection to undertake genocide against the Gazans.",
+      "marked_terms": [],
+      "comment_id": 5223384,
+      "author": "Tamarama",
+      "rating": 25,
+      "posted_at": "2026-06-03T07:03:07+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "“Netanyahu has been trying to persuade U.S. presidents for three decades to attack Iran over its nuclear program, but in Trump he finally found an ideological bedfellow.” He found an easily manipulated dummy.",
+      "translation_ja": "「ネタニヤフは30年にわたり、核計画を理由にアメリカ大統領にイラン攻撃を説得しようとしてきたが、トランプの前でついに思想的な同志を見つけた」——いや、操りやすいお人形を見つけたんだ。",
+      "notes_ja": [
+        "引用のあと He found… で書き手が自分の言葉に言い換え、引用を皮肉で訂正している。",
+        "bedfellow は「利害・思想を共にする相手」というやや硬い語。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "dummy",
+          "symbol": "◇",
+          "note_ja": "人をバカ・操り人形扱いする口語の侮辱。フォーマルな場では puppet や pawn の方が無難なことも。"
+        }
+      ],
+      "comment_id": 5223484,
+      "author": "Bob Fosse",
+      "rating": 22,
+      "posted_at": "2026-06-03T07:47:03+09:00"
+    }
+  ]
+}

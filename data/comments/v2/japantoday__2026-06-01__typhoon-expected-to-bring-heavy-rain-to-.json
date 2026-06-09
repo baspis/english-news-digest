@@ -1,0 +1,83 @@
+{
+  "article_id": "japantoday:2026-06-01:typhoon-expected-to-bring-heavy-rain-to-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:11:06+09:00",
+  "fetched_at": "2026-06-09T22:14:47+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Typhoon Jangmi. It would be nice if JT would also note the Japanese number name since we're here in Japan and is referred to by the number by all those around us.",
+      "translation_ja": "台風ジャンミ。日本に住んでいる私たちは周囲では番号で呼ばれているので、Japan Todayにも日本の番号名を載せてくれるとありがたい。",
+      "notes_ja": [
+        "「is referred to」の主語が台風なのに「we're here in Japan」が挟まり、文法的にやや不自然。口語ではよくある。",
+        "「all those around us」＝周りの人たち、という意味。"
+      ],
+      "standard_en": "Typhoon Jangmi. It would be nice if JT would also note the Japanese number name, since we're here in Japan and it is referred to by its number by everyone around us.",
+      "marked_terms": [],
+      "comment_id": 5221247,
+      "author": "Speed",
+      "rating": 13,
+      "posted_at": "2026-06-01T08:42:21+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Severe Tropical Storm Jangmi (Typhoon No.6)",
+      "translation_ja": "強い熱帯低気圧ジャンミ（6号台風）",
+      "notes_ja": [
+        "動詞のない見出し調の一文。補足情報として番号を付けている。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5221256,
+      "author": "wallace",
+      "rating": 8,
+      "posted_at": "2026-06-01T08:51:21+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Tracker https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&elem=root&typhoon=all&contents=typhoon&lang=en",
+      "translation_ja": "追跡サイト https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&elem=root&typhoon=all&contents=typhoon&lang=en",
+      "notes_ja": [
+        "単語＋URLだけの超短文。SNSや掲示板でよくある共有形式。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5221252,
+      "author": "wallace",
+      "rating": 7,
+      "posted_at": "2026-06-01T08:47:25+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "@Speed It's in the article: The typhoon, the sixth of the season, Thus, typhoon 6",
+      "translation_ja": "＠Speed 記事に書いてあるよ。『今シーズン6個目の台風』って。つまり6号台風だ。",
+      "notes_ja": [
+        "引用のあと「Thus, typhoon 6」と述語を省いた断片文。カンマ直後の大文字は口語的。",
+        "やや突っ込んだ・訂正する口調。"
+      ],
+      "standard_en": "@Speed It's in the article: 'The typhoon, the sixth of the season.' Thus, it's typhoon 6.",
+      "marked_terms": [],
+      "comment_id": 5221691,
+      "author": "masterblaster",
+      "rating": 5,
+      "posted_at": "2026-06-01T13:15:40+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Kansai Tuesday night and Wednesday, heavy rains expected.",
+      "translation_ja": "関西は火曜の夜から水曜にかけて、大雨の見込み。",
+      "notes_ja": [
+        "主語・助動詞を省いたニュース見出し調（telegraphic style）。"
+      ],
+      "standard_en": "Heavy rains are expected in Kansai on Tuesday night and Wednesday.",
+      "marked_terms": [],
+      "comment_id": 5221407,
+      "author": "wallace",
+      "rating": 2,
+      "posted_at": "2026-06-01T10:18:49+09:00"
+    }
+  ]
+}

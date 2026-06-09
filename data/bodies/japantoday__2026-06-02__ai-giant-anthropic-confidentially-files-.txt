@@ -1,0 +1,22 @@
+AI giant Anthropic, the maker of the Claude chatbot, announced Monday that it had filed confidentially for an initial public offering (IPO), as Silicon Valley AI companies look to raise the enormous sums needed to fuel the sector's rapid expansion.
+A confidential filing lets a company submit its IPO paperwork to the Securities and Exchange Commission (SEC) for review without making its financials and business details public until much later in the process.
+"This gives us the option to go public after the Securities and Exchange Commission completes its review," the company said in a statement. "The proposed initial public offering will depend on market conditions and other factors."
+"The number of shares to be offered and the price have not yet been set," the company added.
+The filing came just days after the company said it raised $65 billion in a new funding round that valued the OpenAI rival at $965 billion, putting it on the cusp of a trillion-dollar valuation.
+The latest fundraising round confirmed Anthropic's place as one of the most significant players in AI, having built its reputation by focusing on delivering generative AI to enterprise clients.
+Anthropic's valuation puts it ahead of OpenAI, which was valued at $852 billion in March and is also aiming to go public, with a filing expected imminently.
+Asked by CNBC about his own company's IPO efforts, OpenAI CEO Sam Altman said that "going public is a financing event. I don't think that's one that we're focused on."
+"I assume we'll do it (at some point)," Altman added.
+Founded in 2021 by siblings Dario and Daniela Amodei and other former executives at OpenAI, Anthropic has positioned itself as a safety-focused alternative in the AI race.
+Claude Code, its coding assistant for developers, has become one of its most popular products, helping push its projected annual revenue to $47 billion.
+Anthropic's commercial success has been accompanied by difficulties meeting demand for computing power, amid a shortage of chips and servers.
+In recent months, the company has faced criticism from users complaining that they were exhausting their usage quotas too quickly and having to pay high prices to continue.
+In response, Anthropic has struck deals to secure several gigawatts of computing capacity from Amazon, Google and Broadcom.
+Last month, the company signed a surprise agreement with tech billionaire Elon Musk.
+Musk, who is embroiled in a legal battle against the founders of OpenAI, is leasing access to his Colossus data centers to Anthropic for $1.25 billion per month.
+Located in Memphis, Tennessee, the facility had been underutilized by his xAI lab, the creator of the Grok chatbot.
+Anthropic and OpenAI's IPOs would likely follow Elon Musk's SpaceX to Wall Street.
+SpaceX, which absorbed Musk's AI company xAI, could see shares begin trading as early as June 12. The company is targeting a valuation of approximately $1.75 trillion in what would be the largest IPO in history.
+"We believe this represents an opening of the floodgates for the IPO market, which has been relatively dormant for a few years," said Dan Ives of Wedbush Securities.
+Anthropic's IPO filing comes as it navigates a legal dispute with the Pentagon, which designated the company a supply chain risk after it refused to grant the military unfettered access to its AI models.
+Anthropic called the Defense Department's move unconstitutional retaliation.

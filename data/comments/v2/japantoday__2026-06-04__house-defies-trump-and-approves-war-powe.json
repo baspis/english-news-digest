@@ -1,0 +1,97 @@
+{
+  "article_id": "japantoday:2026-06-04:house-defies-trump-and-approves-war-powe",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:31:09+09:00",
+  "fetched_at": "2026-06-09T22:36:46+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Trump can't control Iran. Trump can't control Israel. Trump can't control a Republican majority Congress. This war will be Trump's downfall. Too proud to pull out in defeat, but with no way of winning.",
+      "translation_ja": "トランプはイランをコントロールできない。イスラエルもコントロールできない。共和党多数派の議会すらコントロールできない。この戦争がトランプの没落になるだろう。敗北を認めて撤退するにはプライドが高すぎるのに、勝ち目がない。",
+      "notes_ja": [
+        "「Trump can't control…」の反復は、列挙による強調の修辞。",
+        "最後の「Too proud to…」は主語省略の断片文。pull out はここでは戦争からの撤退。"
+      ],
+      "standard_en": "He is too proud to withdraw in defeat, but he has no way of winning.",
+      "marked_terms": [],
+      "comment_id": 5224664,
+      "author": "Ah_so",
+      "rating": 26,
+      "posted_at": "2026-06-04T07:01:55+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "This is good. Trump and Hegseth are out of their depth.",
+      "translation_ja": "これは良いことだ。トランプもヘグセスも、手に負えない状況にいる。",
+      "notes_ja": [
+        "out of their depth は慣用句で「能力・立場を超えて手に負えない」。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5224689,
+      "author": "Underworld",
+      "rating": 23,
+      "posted_at": "2026-06-04T07:14:55+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Even MAGA cult members are breaking with Trump.",
+      "translation_ja": "MAGAカルトの信者すら、トランプと決裂し始めている。",
+      "notes_ja": [
+        "breaking with は「（支持・同盟から）決別する」。",
+        "Even … は「そういう人たちまでも」という驚き・強調。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "cult",
+          "symbol": "※",
+          "note_ja": "宗教団体を侮蔑的に呼ぶ語。政治文脈でも敵対的・扇動的に聞こえる。"
+        }
+      ],
+      "comment_id": 5224646,
+      "author": "TaiwanIsNotChina",
+      "rating": 22,
+      "posted_at": "2026-06-04T06:51:25+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Trump killed a bunch of schoolgirls with a tomohaw missile. Does he know what he's doing? Is Hegseth drunk again?",
+      "translation_ja": "トランプはトマホークミサイルで女子学生を何人も殺した。彼は自分が何をしているのか分かっているのか？ヘグセスはまた酔っ払っているのか？",
+      "notes_ja": [
+        "tomohaw は Tomahawk（巡航ミサイル名）のスペルミス。",
+        "a bunch of は口語で「たくさんの」。drunk again は「また酔っているのか」という皮肉・非難。"
+      ],
+      "standard_en": "Trump killed many schoolgirls with a Tomahawk missile. Does he know what he is doing? Is Hegseth drunk again?",
+      "marked_terms": [
+        {
+          "term": "drunk",
+          "symbol": "◇",
+          "note_ja": "酔っている、の口語。公式・丁寧な場では言い換えた方がよい。"
+        }
+      ],
+      "comment_id": 5224682,
+      "author": "nishikat",
+      "rating": 22,
+      "posted_at": "2026-06-04T07:13:40+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Should have stayed with the Obama deal. Will FOX take back Hegseth? He killed a bunch of schoolgirls.",
+      "translation_ja": "オバマ政権の合意を維持すべきだった。FOXはヘグセスをまた起用するのか？彼は女子学生を何人も殺したのに。",
+      "notes_ja": [
+        "Should have stayed… は主語省略（They/We should have…）。",
+        "take back はここではテレビ局が再放送・再雇用する、という意味。"
+      ],
+      "standard_en": "They should have stayed with the Obama deal. Will FOX take Hegseth back?",
+      "marked_terms": [],
+      "comment_id": 5224706,
+      "author": "nishikat",
+      "rating": 22,
+      "posted_at": "2026-06-04T07:23:56+09:00"
+    }
+  ]
+}

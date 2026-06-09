@@ -1,0 +1,333 @@
+{
+  "summary_ja": "愛知県豊川市の警察は、知人の14歳の少年に性的暴行をした疑いで、24歳の中学校教師を再逮捕した。逮捕状によると事件は昨年7月3日の駐車場内の車中で起きたとされ、渡辺亮容疑者は認めたという。同容疑者は今年に香川県警から児童買春・ポルノ禁止法違反で3度逮捕され起訴され、5月には別の中学生へのわいせつ行為の疑いでも逮捕されている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Police in Toyokawa City, Aichi Prefecture, have re-arrested a 24-year-old junior high school teacher on suspicion of sexually assaulting a 14-year-old boy whom he knew.",
+      "translation_ja": "愛知県豊川市の警察は、知人の14歳の少年に性的暴行をした疑いで、24歳の中学校教師を再逮捕した。",
+      "grammar_ja": "have re-arrested は現在完了で「再逮捕した（結果として今その状態）」。on suspicion of ～ing は「～の疑いで」という報道の定番表現。whom he knew は関係代名詞節で boy を修飾。",
+      "chunks": [
+        {
+          "text": "Police in Toyokawa City, Aichi Prefecture",
+          "role_ja": "主語",
+          "literal_ja": "愛知県豊川市の警察は",
+          "note_ja": "地名＋Police の構造。in Aichi Prefecture は県名を補足する前置詞句。"
+        },
+        {
+          "text": "have re-arrested",
+          "role_ja": "述語（現在完了）",
+          "literal_ja": "再逮捕した",
+          "note_ja": "re- は「再び」。arrest は受動的なニュース表現でも能動で「逮捕した」と書く。"
+        },
+        {
+          "text": "a 24-year-old junior high school teacher",
+          "role_ja": "目的語",
+          "literal_ja": "24歳の中学校教師を",
+          "note_ja": "24-year-old はハイフンでつなぐ複合形容詞。junior high school は中学校。"
+        },
+        {
+          "text": "on suspicion of sexually assaulting",
+          "role_ja": "理由を示す前置詞句",
+          "literal_ja": "性的暴行の疑いで",
+          "note_ja": "on suspicion of ＋名詞/動名詞。crime reporting で非常に頻出。"
+        },
+        {
+          "text": "a 14-year-old boy",
+          "role_ja": "assaulting の目的語",
+          "literal_ja": "14歳の少年に",
+          "note_ja": "年齢＋year-old boy の定型。"
+        },
+        {
+          "text": "whom he knew",
+          "role_ja": "関係代名詞節（boy を修飾）",
+          "literal_ja": "彼が知っていた（少年）",
+          "note_ja": "whom は目的格関係代名詞。that he knew でも可。知人だった点が重要な文脈。"
+        }
+      ],
+      "deep_dive_ja": "日本語報道の「再逮捕」に対応する re-arrested は、以前に逮捕・釈放された後の再逮捕を指す。sexually assaulting は法的・報道用語として assault（暴行）に sexually を付けた表現。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The arrest warrant alleges that the incident occurred between 8:15 p.m. and 8:40 p.m. on July 3 last year, in a car parked in a parking lot in Toyokawa City, NTV reported.",
+      "translation_ja": "逮捕状は、事件が昨年7月3日午後8時15分から8時40分の間、豊川市の駐車場に停められた車の中で起きたと主張していると、日本テレビが報じた。",
+      "grammar_ja": "alleges that ～ は「～だと主張する」という法的・報道文体。文末の NTV reported は倒置された報道引用（「～と報じた」）。between A and B on 日付 は時刻・日付の範囲指定。",
+      "chunks": [
+        {
+          "text": "The arrest warrant",
+          "role_ja": "主語",
+          "literal_ja": "逮捕状は",
+          "note_ja": "warrant は裁判所が出す令状。arrest warrant＝逮捕状。"
+        },
+        {
+          "text": "alleges that the incident occurred",
+          "role_ja": "述語＋that節",
+          "literal_ja": "事件が起きたと主張する",
+          "note_ja": "allege は「（まだ確定していない事実を）申し立てる」。say より慎重なニュアンス。"
+        },
+        {
+          "text": "between 8:15 p.m. and 8:40 p.m. on July 3 last year",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "昨年7月3日の午後8時15分から8時40分の間に",
+          "note_ja": "between ... and ... で時間帯。last year は「昨年」。"
+        },
+        {
+          "text": "in a car parked in a parking lot in Toyokawa City",
+          "role_ja": "場所を示す前置詞句",
+          "literal_ja": "豊川市の駐車場に停められた車の中で",
+          "note_ja": "parked in ... は過去分詞で car を後置修飾。in の連鎖で場所を細かく特定。"
+        },
+        {
+          "text": "NTV reported",
+          "role_ja": "引用の出典（文末）",
+          "literal_ja": "日本テレビが報じた",
+          "note_ja": "英語ニュースでは情報源を文末に置くことが多い。主語述語が前の節全体を修飾。"
+        }
+      ],
+      "deep_dive_ja": "日本語では「～と報じた」を文末に置くが、英語も NTV reported を最後に置くことで同じ効果を出す。occurred は happen よりフォーマルで事件報道向き。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Police said Ryo Watanabe, a teacher at Ichinomiya Junior High School, has admitted to the allegation.",
+      "translation_ja": "警察によると、一宮中学校の教師である渡辺亮容疑者は、その容疑を認めたという。",
+      "grammar_ja": "Police said ～ は間接話法の定番。同格 a teacher at ... で Watanabe を補足説明。has admitted to the allegation は現在完了で「認めた（その状態が続く）」。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節（引用の枠）",
+          "literal_ja": "警察は言った",
+          "note_ja": "報道では said / stated / according to police が頻出。"
+        },
+        {
+          "text": "Ryo Watanabe",
+          "role_ja": "said の目的語節の主語",
+          "literal_ja": "渡辺亮は",
+          "note_ja": "日本人名は姓＋名の順でそのまま表記。"
+        },
+        {
+          "text": "a teacher at Ichinomiya Junior High School",
+          "role_ja": "同格（Watanabe を説明）",
+          "literal_ja": "一宮中学校の教師である",
+          "note_ja": "名詞＋同格名詞句。who is a teacher ... の省略形。"
+        },
+        {
+          "text": "has admitted to the allegation",
+          "role_ja": "述語（現在完了）",
+          "literal_ja": "その申し立てを認めた",
+          "note_ja": "admit to ～ で「～を認める」。allegation は「（まだ証明されていない）申し立て・容疑」。"
+        }
+      ],
+      "deep_dive_ja": "admit the crime ではなく admit to the allegation とすると、まだ裁判で確定していない段階であることが明確になる。日本語の「容疑を認める」に近い。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The incident came to light after a complaint was filed by a relative of the boy.",
+      "translation_ja": "その事件は、少年の親族から告発がなされた後に明らかになった。",
+      "grammar_ja": "came to light は慣用句「明らかになった」。after ＋過去の出来事は過去形/過去完了。was filed は受動態で complaint の主語が不明（by ～で行為者を示す）。",
+      "chunks": [
+        {
+          "text": "The incident",
+          "role_ja": "主語",
+          "literal_ja": "その事件は",
+          "note_ja": "前文の事件を the incident で受ける。"
+        },
+        {
+          "text": "came to light",
+          "role_ja": "述語（慣用表現）",
+          "literal_ja": "明らかになった",
+          "note_ja": "be revealed / become known と同義。ニュースでよく使う。"
+        },
+        {
+          "text": "after a complaint was filed",
+          "role_ja": "時を示す副詞節",
+          "literal_ja": "告発がなされた後に",
+          "note_ja": "file a complaint で「告発・申し立てをする」。受動態 was filed。"
+        },
+        {
+          "text": "by a relative of the boy",
+          "role_ja": "動作主を示す by 句",
+          "literal_ja": "少年の親族によって",
+          "note_ja": "relative は親族全般。of the boy で「その少年の」。"
+        }
+      ],
+      "deep_dive_ja": "come to light は「（隠れていたことが）表面化する」のニュアンス。日本語の「発覚した」「明らかになった」に相当。complaint は民事だけでなく刑事告発の文脈でも使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "According to police, between February and April of this year, Watanabe was arrested three times by Kagawa Prefectural Police on suspicion of violating the Child Prostitution and Pornography Prohibition Law, and subsequently indicted.",
+      "translation_ja": "警察によると、今年2月から4月の間、渡辺容疑者は児童買春・児童ポルノ禁止法違反の疑いで香川県警に3度逮捕され、その後起訴された。",
+      "grammar_ja": "According to police で情報源提示。was arrested ... and (was) subsequently indicted は受動の並列（indicted 前の was 省略）。on suspicion of violating ～ は再登場。three times は回数表現。",
+      "chunks": [
+        {
+          "text": "According to police",
+          "role_ja": "情報源（文頭の副詞句）",
+          "literal_ja": "警察によると",
+          "note_ja": "According to ～ は報道の定番。客観的な距離感を出す。"
+        },
+        {
+          "text": "between February and April of this year",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "今年の2月から4月の間に",
+          "note_ja": "of this year で「今年の」。期間の幅を示す。"
+        },
+        {
+          "text": "was arrested three times by Kagawa Prefectural Police",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "香川県警に3度逮捕された",
+          "note_ja": "Prefectural Police は県警察。three times は「3回」。"
+        },
+        {
+          "text": "on suspicion of violating the Child Prostitution and Pornography Prohibition Law",
+          "role_ja": "理由を示す前置詞句",
+          "literal_ja": "児童買春・児童ポルノ禁止法違反の疑いで",
+          "note_ja": "violating ＋法律名。長い固有名詞は報道では正式名称をそのまま使う。"
+        },
+        {
+          "text": "and subsequently indicted",
+          "role_ja": "並列述語（受動・was 省略）",
+          "literal_ja": "その後起訴された",
+          "note_ja": "subsequently は「その後」。indict は「起訴する」の法律用語。"
+        }
+      ],
+      "deep_dive_ja": "3度逮捕（three times）は別件・別タイミングの逮捕があったことを示唆する。subsequently indicted は逮捕後に検察が起訴した流れを簡潔に示す報道表現。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Watanabe was also arrested in May for allegedly committing indecent acts against another 14-year-old male middle school student.",
+      "translation_ja": "渡辺容疑者は、別の14歳の男子中学生に対するわいせつ行為の疑いで、5月にも逮捕されている。",
+      "grammar_ja": "was also arrested は「また逮捕された」で前段の逮捕歴を受ける。for allegedly committing ～ は「～した疑いで」。against ～ は被害者・対象を示す。male middle school student は「男子中学生」。",
+      "chunks": [
+        {
+          "text": "Watanabe was also arrested in May",
+          "role_ja": "主語＋述語（受動）",
+          "literal_ja": "渡辺は5月にも逮捕された",
+          "note_ja": "also が前の逮捕歴との追加関係を示す。"
+        },
+        {
+          "text": "for allegedly committing indecent acts",
+          "role_ja": "理由を示す for 句",
+          "literal_ja": "わいせつ行為をした疑いで",
+          "note_ja": "allegedly は「疑いがあるが未確定」。commit an act で「行為を行う」。"
+        },
+        {
+          "text": "against another 14-year-old male middle school student",
+          "role_ja": "対象を示す against 句",
+          "literal_ja": "別の14歳の男子中学生に対して",
+          "note_ja": "another は「別の（別人の）」。male で性別を明示。"
+        }
+      ],
+      "deep_dive_ja": "indecent acts は日本の「わいせつ行為」に相当する報道用語。against は暴力・犯罪の対象を示す前置詞で、to より攻撃・侵害のニュアンスが強い。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "re-arrest",
+      "pronunciation": "/ˌriː əˈrest/",
+      "meaning_ja": "再逮捕する",
+      "example": "Police have re-arrested the suspect on new charges.",
+      "example_ja": "警察は新たな容疑で容疑者を再逮捕した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃn ɒv/",
+      "meaning_ja": "～の疑いで",
+      "example": "He was detained on suspicion of fraud.",
+      "example_ja": "彼は詐欺の疑いで拘留された。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "arrest warrant",
+      "pronunciation": "/əˈrest ˈwɒrənt/",
+      "meaning_ja": "逮捕状",
+      "example": "The arrest warrant alleges the crime took place at night.",
+      "example_ja": "逮捕状は犯罪が夜に行われたと申し立てている。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "allege",
+      "pronunciation": "/əˈledʒ/",
+      "meaning_ja": "（未確定の事実として）申し立てる、主張する",
+      "example": "The warrant alleges that the incident occurred in a car.",
+      "example_ja": "令状は事件が車の中で起きたと主張している。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "come to light",
+      "pronunciation": "/kʌm tuː laɪt/",
+      "meaning_ja": "明らかになる、発覚する",
+      "example": "The incident came to light after a complaint was filed.",
+      "example_ja": "告発がなされた後、その事件は明らかになった。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "indict",
+      "pronunciation": "/ɪnˈdaɪt/",
+      "meaning_ja": "起訴する",
+      "example": "He was subsequently indicted by prosecutors.",
+      "example_ja": "彼はその後、検察により起訴された。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "indecent acts",
+      "pronunciation": "/ɪnˈdiːsnt ækts/",
+      "meaning_ja": "わいせつ行為",
+      "example": "He was arrested for allegedly committing indecent acts.",
+      "example_ja": "彼はわいせつ行為の疑いで逮捕された。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "allegedly",
+      "pronunciation": "/əˈledʒɪdli/",
+      "meaning_ja": "疑いがあるが未確定として；～したとされる",
+      "example": "He allegedly assaulted a student last year.",
+      "example_ja": "彼は昨年、生徒を暴行した疑いがある。",
+      "source_sentence_id": "s006"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "on-suspicion-of-gerund",
+      "title": "on suspicion of + gerund/noun",
+      "rule": "Use 'on suspicion of' followed by a gerund (-ing) or noun to state the alleged crime in news reports.",
+      "example": "He was arrested on suspicion of sexually assaulting a minor.",
+      "meaning_ja": "犯罪報道で「～の疑いで」と理由を示す定型表現。of の後は動名詞や名詞が続く。"
+    },
+    {
+      "id": "passive-crime-reporting",
+      "title": "Passive voice in crime news",
+      "rule": "News often uses passive constructions (was arrested, was filed, was indicted) to focus on the event and official actions rather than emphasizing the agent.",
+      "example": "Watanabe was arrested three times by Kagawa Prefectural Police.",
+      "meaning_ja": "事件報道では受動態で「誰が」より「何が起きたか」を前面に出す。行為者は by 句で補足することが多い。"
+    },
+    {
+      "id": "reporting-clause-end",
+      "title": "Reporting clause with source at the end",
+      "rule": "In journalism, the reporting verb and source (e.g., 'NTV reported', 'Police said') often appear at the end or frame the main information.",
+      "example": "The incident occurred in July, NTV reported.",
+      "meaning_ja": "情報源を文末に置く倒置は英語ニュースの特徴。日本語の「～と報じた」に相当する。"
+    },
+    {
+      "id": "appositive-identity",
+      "title": "Appositive for identification",
+      "rule": "A noun phrase placed after a name (set off by commas) gives extra identifying information equivalent to 'who is...'.",
+      "example": "Ryo Watanabe, a teacher at Ichinomiya Junior High School, has admitted to the allegation.",
+      "meaning_ja": "名前の直後にカンマで挟んだ名詞句で職業・身元を補足する同格構文。関係代名詞節の短縮形として機能する。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 6,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:27:52+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:school-teacher-re-arrested-in-aichi-for-"
+}

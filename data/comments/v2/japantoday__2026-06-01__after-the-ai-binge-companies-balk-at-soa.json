@@ -1,0 +1,98 @@
+{
+  "article_id": "japantoday:2026-06-01:after-the-ai-binge-companies-balk-at-soa",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:11:06+09:00",
+  "fetched_at": "2026-06-09T22:15:55+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "The nature of this ”AI” is random and hallucinating, so ”agent” is nothing but a brute-force loop to loop over the ”AI” to try and force the desired output. That is why it costs a lot more than a chat. Not because it’s better, but because it’s running in a loop. It’s just a hack as the ”AI” has nothing to do with intelligence.",
+      "translation_ja": "この「AI」の性質はランダムで幻覚（でたらめな出力）を起こすものだから、「エージェント」とは結局、望む結果を無理やり出そうと「AI」を何度も回す力任せのループに過ぎない。だからチャットよりずっと高くつく。性能が良いからではなく、ループで回し続けているからだ。AIは知性とは無関係なので、ただの小手先の裏技（ハック）にすぎない。",
+      "notes_ja": [
+        "「Not because it's better, but because...」は主語・動詞のない断片文で、前の文を補強する口語的な強調。",
+        "「hallucinating」はAI用語で、事実ではない内容をもっともらしく生成することを指す。"
+      ],
+      "standard_en": "Not because it is better, but because it is running in a loop.",
+      "marked_terms": [
+        {
+          "term": "hack",
+          "symbol": "◇",
+          "note_ja": "ITスラングで「裏技・力技の回避策」。フォーマルな文脈では避けた方がよい。"
+        }
+      ],
+      "comment_id": 5221145,
+      "author": "WeiWei",
+      "rating": 2,
+      "posted_at": "2026-06-01T07:47:29+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Sick and tired of AI already. One issue that seems to be under-reported is the outrage at the boom of AI data centers. They are opening up all over the U.S. and in several parts of the world. They are huge, noisy, expensive, energy-wasting, and just plain bad for the environment. As a result there is outrage. However, since Trump and Musk came in and DOGED every federal department, people who are outraged are finding it difficult to find places they can go to lodge complaints. These centers have to go. The impact on the land and the discomfort and impact on people's health is not worth it.",
+      "translation_ja": "もうAIにはうんざりだ。あまり報じられていない問題の一つが、AIデータセンターの急増への怒りだ。米国中や世界のいくつかの地域に次々と建設されている。巨大で、騒がしく、高コストで、エネルギーを無駄遣いし、環境にもまったく良くない。だから怒りが起きている。しかしトランプとマスクが政権に入り、連邦省庁をDOGE化してしまったせいで、怒っている人々は苦情を申し立てる場を見つけにくくなっている。こうした施設はなくさなければならない。土地への影響、不快さ、健康への影響に見合う価値はない。",
+      "notes_ja": [
+        "「Sick and tired of」は強いうんざり・嫌気の口語表現。",
+        "「DOGED」はDOGE（政府効率化部門）を動詞化したネット・時事用語で、省庁を切り崩したという意味。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5222027,
+      "author": "patkim",
+      "rating": 2,
+      "posted_at": "2026-06-01T20:38:19+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Geeter Mckluskie The DATA centers drive up the demand for water and power, along with prices. Great thing for Japan seeing that it is an island nation surrounded by water. DATA centers need clean, non-saltwater for cooling. Using untreated salt water directly in these systems causes rapid mineral buildup, clogs membranes, and causes severe metal corrosion. Many communities in the US with super sized DATA centers are seeing an increase in their power and water bills. The resulting strain on local infrastructure forces utility companies to pass grid upgrade and capacity costs onto residential ratepayers.",
+      "translation_ja": "Geeter Mckluskie データセンターは水と電力の需要を押し上げ、価格も上がる。周りを水に囲まれた島国の日本にとっては最高だね（皮肉）。データセンターの冷却には塩分のない真水が必要だ。処理していない海水をそのまま使うと、ミネラルが急速に蓄積し、膜が詰まり、金属が深刻に腐食する。米国で巨大なデータセンターがある地域では、電気・水道料金の値上げが起きている。地域インフラへの負荷の結果、電力会社は送電網の更新・増強費用を一般家庭の利用者に転嫁せざるを得なくなっている。",
+      "notes_ja": [
+        "「Great thing for Japan...」は文法的には肯定だが、前後の文脈から明らかな皮肉（sarcasm）。",
+        "「DATA」を大文字にして強調している。返信先の名前のあと句読点がなく、掲示板特有の書き方。"
+      ],
+      "standard_en": "It would be a great thing for Japan, given that it is an island nation surrounded by water.",
+      "marked_terms": [],
+      "comment_id": 5223085,
+      "author": "wallace",
+      "rating": 2,
+      "posted_at": "2026-06-02T16:11:02+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Sakura The usual suckers, us no doubt",
+      "translation_ja": "Sakura いつものカモだね。間違いなく俺たちだ。",
+      "notes_ja": [
+        "主語・動詞のない超短い断片文。掲示板での返信形式。",
+        "「us no doubt」は「間違いなく（カモなのは）俺たちだ」という自嘲・皮肉のニュアンス。"
+      ],
+      "standard_en": "The usual suckers — us, no doubt.",
+      "marked_terms": [
+        {
+          "term": "suckers",
+          "symbol": "◇",
+          "note_ja": "「だまされやすい人・カモ」を指す俗語。軽い侮辱だが、丁寧な場では使わない。"
+        }
+      ],
+      "comment_id": 5221109,
+      "author": "falseflagsteve",
+      "rating": 1,
+      "posted_at": "2026-06-01T07:33:52+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Perhaps, not yet...but it could do my job and the job of many others including those in companies \"balking at soaring bills\" Badly? single tasks with subpar quality? sure, which is why they are until now considered a very deficient option from people doing their jobs properly, they are used because they have been also extremely cheap. If a company can get an AI agent to badly do a task of 10 people for the cost of 1 or 2 that is what they are going to pay (and what their clients unfortunately are going to get), but if the agent now cost the same as the salaries it is saving, what is the point of giving worse service?",
+      "translation_ja": "たぶん、まだではないが……でも私の仕事も、請求額の高騰に「ためらっている」企業の人たちを含む多くの人の仕事もこなせるかもしれない。下手に？単発の作業を質の低い水準で？確かに。だから今まで、仕事をきちんとやる人たちから見れば非常に欠陥の多い選択肢とみなされてきた。使われているのは、これまで驚くほど安かったからだ。会社が10人分の仕事をAIエージェントに下手でもいいから1〜2人分のコストでやらせられるなら、それにお金を払う（そして顧客が残念ながら受け取ることになる）。だが、エージェントのコストが節約できる給与と同じになったら、より悪いサービスを提供する意味は何だ？",
+      "notes_ja": [
+        "「Badly?」「single tasks with subpar quality? sure,」は疑問形の断片が続く口語・論点列挙。カンマで文をつなぐカンマスプライスが多い。",
+        "「what is the point of giving worse service?」で論旨を締める、議論投稿特有のリズム。"
+      ],
+      "standard_en": "Perhaps not yet, but it could do my job and the jobs of many others, including those at companies balking at soaring bills. Badly? Single tasks with subpar quality? Sure — which is why, until now, they have been considered a very deficient option by people who do their jobs properly. They are used because they have also been extremely cheap.",
+      "marked_terms": [],
+      "comment_id": 5222424,
+      "author": "virusrex",
+      "rating": 1,
+      "posted_at": "2026-06-02T07:41:58+09:00"
+    }
+  ]
+}

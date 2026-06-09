@@ -1,0 +1,937 @@
+{
+  "summary_ja": "台北で開催された巨大IT見本市Computexでは、AIエージェント、半導体不足、株価高騰、サプライチェーンの地政学リスク、ヒューマノイドロボットの5つの話題が注目された。クアルコムやエヌビディアのトップは「2026年はエージェントの年」と語り、メモリ不足や台湾情勢への懸念も浮き彫りになった。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "From laptops designed for the artificial intelligence era to advances in robotics and sky-high tech shares, here are five hot topics at Taipei's huge Computex trade show:",
+      "translation_ja": "人工知能時代向けのノートパソコンから、ロボット工学の進歩、急騰するテック株まで、台北で開催された巨大なComputex見本市における5つの注目トピックを紹介する。",
+      "grammar_ja": "From A to B, here are... は導入部の典型的な並列構造。designed for は「〜向けに設計された」、sky-high は比喩的に「青天井の・異常に高い」。",
+      "chunks": [
+        {
+          "text": "From laptops designed for the artificial intelligence era",
+          "role_ja": "前置き句（範囲の一端）",
+          "literal_ja": "人工知能時代向けに設計されたノートパソコンから",
+          "note_ja": "From A to B で話題の幅を示す。designed for = 〜のために設計された"
+        },
+        {
+          "text": "to advances in robotics and sky-high tech shares",
+          "role_ja": "前置き句（範囲の他端）",
+          "literal_ja": "ロボット工学の進歩と、青天井のテック株まで",
+          "note_ja": "advances in = 〜における進歩。sky-high は株価の高騰を強調"
+        },
+        {
+          "text": "here are five hot topics",
+          "role_ja": "主部",
+          "literal_ja": "ここに5つの注目トピックがある",
+          "note_ja": "here are は「以下が〜です」という紹介表現"
+        },
+        {
+          "text": "at Taipei's huge Computex trade show",
+          "role_ja": "場所の修飾語",
+          "literal_ja": "台北の巨大なComputex見本市で",
+          "note_ja": "trade show = 見本市・展示会"
+        }
+      ],
+      "deep_dive_ja": "見出し・リード文でよく使われる「列挙の予告」パターン。読者にこれから何が来るかを先に示すニュース文体。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"2026 is the year of agents,\" Qualcomm CEO Cristiano Amon said on stage -- referring to the emerging world of AI systems that can carry out real-life tasks for users, from sending emails to online shopping.",
+      "translation_ja": "クアルコムのCEOクリスティアーノ・アモンはステージで「2026年はエージェントの年だ」と述べ、メール送信からオンラインショッピングまで、ユーザーに代わって現実のタスクを実行できるAIシステムの新興分野を指した。",
+      "grammar_ja": "直接話法＋said on stage。referring to は付加説明の分詞構文。that節＋from A to B の例示。",
+      "chunks": [
+        {
+          "text": "\"2026 is the year of agents,\"",
+          "role_ja": "直接話法（引用）",
+          "literal_ja": "「2026年はエージェントの年だ」",
+          "note_ja": "the year of X = Xの年（Xが主役の年）"
+        },
+        {
+          "text": "Qualcomm CEO Cristiano Amon said on stage",
+          "role_ja": "主節（述語）",
+          "literal_ja": "クアルコムCEOクリスティアーノ・アモンはステージで述べた",
+          "note_ja": "on stage = 会場のステージ上で（公式発表のニュアンス）"
+        },
+        {
+          "text": "referring to the emerging world of AI systems",
+          "role_ja": "付加説明（分詞構文）",
+          "literal_ja": "新興のAIシステムの世界を指して",
+          "note_ja": "emerging = 台頭しつつある。refer to = 〜を指す"
+        },
+        {
+          "text": "that can carry out real-life tasks for users",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "ユーザーに代わって現実のタスクを実行できる",
+          "note_ja": "carry out = 実行する。real-life tasks = 実生活の作業"
+        },
+        {
+          "text": "from sending emails to online shopping",
+          "role_ja": "例示",
+          "literal_ja": "メール送信からオンラインショッピングまで",
+          "note_ja": "動名詞の並列で具体例を列挙"
+        }
+      ],
+      "deep_dive_ja": "agent はここでは「ユーザーの代わりに行動するAI」。chatbot より能動的な意味。ダッシュ（--）は補足説明を加えるニュース記事の書き方。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The agent craze has been fueled by the sudden global popularity of OpenClaw, an agent tool known for its red lobster mascot.",
+      "translation_ja": "エージェントブームは、赤いロブスターのマスコットで知られるエージェントツールOpenClawの世界的な急激な人気によって押し上げられてきた。",
+      "grammar_ja": "現在完了受動態 has been fueled by。同格の an agent tool known for... で OpenClaw を説明。",
+      "chunks": [
+        {
+          "text": "The agent craze",
+          "role_ja": "主語",
+          "literal_ja": "エージェントブーム",
+          "note_ja": "craze = 一時的な熱狂・ブーム"
+        },
+        {
+          "text": "has been fueled by",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "〜によって燃料を供給されてきた／押し上げられてきた",
+          "note_ja": "fuel は比喩的に「勢いを与える」"
+        },
+        {
+          "text": "the sudden global popularity of OpenClaw",
+          "role_ja": "動作主",
+          "literal_ja": "OpenClawの突然の世界的な人気",
+          "note_ja": "popularity of = 〜の人気"
+        },
+        {
+          "text": "an agent tool known for its red lobster mascot",
+          "role_ja": "同格",
+          "literal_ja": "赤いロブスターのマスコットで知られるエージェントツール",
+          "note_ja": "known for = 〜で知られている。過去分詞で後置修飾"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Tech bosses including Rene Haas of British semiconductor design giant Arm said agentic AI -- which has moved the technology beyond a simple chatbot to one that acts on your behalf -- was ramping up demand for computer processors.",
+      "translation_ja": "英国の半導体設計大手アームのレネ・ハースを含むテック業界の重役たちは、単なるチャットボットからユーザーに代わって行動する技術へと進化させたエージェント型AIが、コンピューター用プロセッサーの需要を押し上げていると述べた。",
+      "grammar_ja": "including で例示。挿入の関係代名詞節 which...。was ramping up は過去進行形で当時進行中の傾向。on your behalf = あなたに代わって。",
+      "chunks": [
+        {
+          "text": "Tech bosses including Rene Haas of British semiconductor design giant Arm",
+          "role_ja": "主語",
+          "literal_ja": "英国の半導体設計大手アームのレネ・ハースを含むテック重役たち",
+          "note_ja": "including = 〜を含めて。giant = 大手"
+        },
+        {
+          "text": "agentic AI",
+          "role_ja": "節の主語",
+          "literal_ja": "エージェント型AI",
+          "note_ja": "agentic = 能動的に行動する性質を持つ（造語的）"
+        },
+        {
+          "text": "which has moved the technology beyond a simple chatbot to one that acts on your behalf",
+          "role_ja": "関係代名詞節（挿入）",
+          "literal_ja": "技術を単なるチャットボットを超え、あなたに代わって行動するものへ移した",
+          "note_ja": "move beyond A to B = Aを超えてBへ。on your behalf = 代理で"
+        },
+        {
+          "text": "was ramping up demand for computer processors",
+          "role_ja": "述語",
+          "literal_ja": "コンピュータープロセッサーへの需要を押し上げていた",
+          "note_ja": "ramp up = 段階的に増やす・強化する"
+        }
+      ],
+      "deep_dive_ja": "agentic AI は B2 学習者にとって新語。動詞 act on your behalf で「代行する」意味を押さえると理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "\"Agents, unlike humans, don't sleep,\" Haas said.",
+      "translation_ja": "ハースは「エージェントは人間と違って眠らない」と述べた。",
+      "grammar_ja": "unlike humans は挿入の比較表現。短い引用で印象を強調する修辞。",
+      "chunks": [
+        {
+          "text": "Agents",
+          "role_ja": "主語",
+          "literal_ja": "エージェントは",
+          "note_ja": ""
+        },
+        {
+          "text": "unlike humans",
+          "role_ja": "挿入の比較語",
+          "literal_ja": "人間とは違って",
+          "note_ja": "unlike + 名詞 = 〜と違って"
+        },
+        {
+          "text": "don't sleep",
+          "role_ja": "述語",
+          "literal_ja": "眠らない",
+          "note_ja": "24時間稼働できる利点を示す比喩"
+        },
+        {
+          "text": "Haas said",
+          "role_ja": "主節",
+          "literal_ja": "ハースは述べた",
+          "note_ja": "引用の後に話者を置く倒置に近い配置"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "U.S. hardware titan Nvidia unveiled a chip on Monday for next-generation Windows laptops that it says can easily run agent tools.",
+      "translation_ja": "米国のハードウェア大手エヌビディアは月曜日、次世代Windowsノートパソコン向けのチップを発表し、同社はこれがエージェントツールを容易に動かせると述べた。",
+      "grammar_ja": "unveiled は「正式に発表した」。that節の中の it says は挿入の主節。for next-generation... は用途を示す。",
+      "chunks": [
+        {
+          "text": "U.S. hardware titan Nvidia",
+          "role_ja": "主語",
+          "literal_ja": "米国のハードウェア巨人エヌビディア",
+          "note_ja": "titan = 業界の巨人・最大手"
+        },
+        {
+          "text": "unveiled a chip on Monday",
+          "role_ja": "述語",
+          "literal_ja": "月曜日にチップを発表した",
+          "note_ja": "unveil = 正式にお披露目する"
+        },
+        {
+          "text": "for next-generation Windows laptops",
+          "role_ja": "目的・用途",
+          "literal_ja": "次世代Windowsノートパソコン向けに",
+          "note_ja": "next-generation = 次世代の"
+        },
+        {
+          "text": "that it says can easily run agent tools",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "同社が言うにはエージェントツールを容易に動かせる",
+          "note_ja": "it says が関係節に挿入される構造"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nvidia said PCs containing its new RTX Spark chip, made by the likes of Dell, Asus and Lenovo, will go on sale this autumn.",
+      "translation_ja": "エヌビディアは、デル、アスース、レノボなどが製造する新しいRTX Sparkチップを搭載したPCが今年秋に発売されると述べた。",
+      "grammar_ja": "containing は現在分詞の後置修飾。made by the likes of = 〜のような企業によって製造された。go on sale = 発売される。",
+      "chunks": [
+        {
+          "text": "PCs containing its new RTX Spark chip",
+          "role_ja": "節の主語",
+          "literal_ja": "新しいRTX Sparkチップを搭載したPC",
+          "note_ja": "contain = 搭載する"
+        },
+        {
+          "text": "made by the likes of Dell, Asus and Lenovo",
+          "role_ja": "後置修飾",
+          "literal_ja": "デル、アスース、レノボのような企業によって製造された",
+          "note_ja": "the likes of = 〜のような（人・企業）"
+        },
+        {
+          "text": "will go on sale this autumn",
+          "role_ja": "述語",
+          "literal_ja": "今年秋に発売される",
+          "note_ja": "go on sale = 販売開始される"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Prices have not been announced, but could be pushed up by the global shortage of memory chips created by the race to build AI data centers.",
+      "translation_ja": "価格はまだ発表されていないが、AIデータセンター建設競争によって生じた世界的なメモリチップ不足により値上がりする可能性がある。",
+      "grammar_ja": "but で逆接。受動態 could be pushed up。created by は過去分詞の後置修飾。the race to build = 〜を建設しようとする競争。",
+      "chunks": [
+        {
+          "text": "Prices have not been announced",
+          "role_ja": "主節1",
+          "literal_ja": "価格は発表されていない",
+          "note_ja": "受動態で公式発表がまだないことを示す"
+        },
+        {
+          "text": "could be pushed up",
+          "role_ja": "主節2の述語",
+          "literal_ja": "押し上げられる可能性がある",
+          "note_ja": "push up prices = 価格を押し上げる"
+        },
+        {
+          "text": "by the global shortage of memory chips",
+          "role_ja": "原因",
+          "literal_ja": "世界的なメモリチップ不足によって",
+          "note_ja": "shortage of = 〜の不足"
+        },
+        {
+          "text": "created by the race to build AI data centers",
+          "role_ja": "後置修飾",
+          "literal_ja": "AIデータセンター建設競争によって生じた",
+          "note_ja": "the race to do = 〜しようとする競争"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Massive demand has sent profits skyrocketing for memory chip makers like South Korea's SK hynix and Samsung Electronics, whose workers' union recently agreed a deal on bonuses after threatening to strike.",
+      "translation_ja": "巨大な需要により、韓国のSK hynixやサムスン電子などのメモリチップメーカーの利益は急騰しており、サムスンの労働組合は最近ストライキをちらつかせた後、賞与に関する合意に至った。",
+      "grammar_ja": "send + O + -ing（Oを〜の状態にする）。skyrocketing は比喩。whose節で労組の動きを説明。agree a deal on = 〜について合意する。",
+      "chunks": [
+        {
+          "text": "Massive demand has sent profits skyrocketing",
+          "role_ja": "主節",
+          "literal_ja": "巨大な需要が利益を急騰させた",
+          "note_ja": "send profits skyrocketing = 利益を急上昇させる"
+        },
+        {
+          "text": "for memory chip makers like South Korea's SK hynix and Samsung Electronics",
+          "role_ja": "対象",
+          "literal_ja": "韓国のSK hynixやサムスン電子のようなメモリチップメーカーにとって",
+          "note_ja": ""
+        },
+        {
+          "text": "whose workers' union recently agreed a deal on bonuses",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "その労働組合が最近賞与について合意した",
+          "note_ja": "agree a deal on = 〜に関する合意に達する"
+        },
+        {
+          "text": "after threatening to strike",
+          "role_ja": "時間・理由",
+          "literal_ja": "ストライキをちらつかせた後",
+          "note_ja": "threaten to strike = ストを威嚇する"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "To address the shortage, \"we will double our total production capacity (of silicon wafers, which power AI technology) within the next five years\", Chey Tae-won, chair of SK hynix's parent company, told reporters at Computex.",
+      "translation_ja": "不足に対応するため、SK hynixの親会社の会長チェ・テウォンはComputexで記者団に「今後5年以内に（AI技術を支えるシリコンウェハーの）総生産能力を2倍にする」と述べた。",
+      "grammar_ja": "To address... は目的の不定詞。直接話法の引用。which power... は非制限用法の関係代名詞。within the next five years = 今後5年以内に。",
+      "chunks": [
+        {
+          "text": "To address the shortage",
+          "role_ja": "目的",
+          "literal_ja": "不足に対処するために",
+          "note_ja": "address = 問題に対処する"
+        },
+        {
+          "text": "we will double our total production capacity",
+          "role_ja": "引用の核心",
+          "literal_ja": "総生産能力を2倍にする",
+          "note_ja": "double = 2倍にする"
+        },
+        {
+          "text": "of silicon wafers, which power AI technology",
+          "role_ja": "付加説明",
+          "literal_ja": "AI技術を動かすシリコンウェハーの",
+          "note_ja": "power = 動力を供する・支える"
+        },
+        {
+          "text": "within the next five years",
+          "role_ja": "時間",
+          "literal_ja": "今後5年以内に",
+          "note_ja": ""
+        },
+        {
+          "text": "Chey Tae-won, chair of SK hynix's parent company, told reporters at Computex",
+          "role_ja": "主節",
+          "literal_ja": "チェ・テウォン会長はComputexで記者に述べた",
+          "note_ja": "同格で肩書きを挿入"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Chey also reiterated his prediction that memory shortages could persist until 2030, with chip factories taking at least three years to build.",
+      "translation_ja": "チェ氏はまた、チップ工場の建設に少なくとも3年かかることから、メモリ不足は2030年まで続く可能性があるという自身の予測を改めて述べた。",
+      "grammar_ja": "reiterate = 繰り返し述べる。that節で予測内容。with + O + -ing は付帯状況（独立分詞構文）。",
+      "chunks": [
+        {
+          "text": "Chey also reiterated his prediction",
+          "role_ja": "主節",
+          "literal_ja": "チェ氏はまた予測を繰り返し述べた",
+          "note_ja": "reiterate = 改めて強調して言う"
+        },
+        {
+          "text": "that memory shortages could persist until 2030",
+          "role_ja": "同格that節",
+          "literal_ja": "メモリ不足は2030年まで続く可能性がある",
+          "note_ja": "persist = 長期間続く"
+        },
+        {
+          "text": "with chip factories taking at least three years to build",
+          "role_ja": "付帯状況",
+          "literal_ja": "チップ工場の建設に少なくとも3年かかるという状況で",
+          "note_ja": "with +名詞+ -ing で背景理由を示す"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nvidia head Jensen Huang, who will visit South Korea from Friday, signed a memory chip display at the SK hynix booth in Taipei, writing: \"Please make more\".",
+      "translation_ja": "金曜日から韓国を訪問する予定のエヌビディアのジェンセン・フアン最高経営責任者は、台北のSK hynixブースでメモリチップの展示物に「もっと作ってください」と書き込んだ。",
+      "grammar_ja": "who will visit... は非制限用法。writing: は付随動作の分詞。Please make more は口語的な要請。",
+      "chunks": [
+        {
+          "text": "Nvidia head Jensen Huang",
+          "role_ja": "主語",
+          "literal_ja": "エヌビディアのトップ、ジェンセン・フアン",
+          "note_ja": "head = 最高責任者"
+        },
+        {
+          "text": "who will visit South Korea from Friday",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "金曜日から韓国を訪問する",
+          "note_ja": "from Friday = 金曜日から（以降）"
+        },
+        {
+          "text": "signed a memory chip display at the SK hynix booth in Taipei",
+          "role_ja": "述語",
+          "literal_ja": "台北のSK hynixブースでメモリチップ展示に署名した",
+          "note_ja": "booth = 展示ブース"
+        },
+        {
+          "text": "writing: \"Please make more\"",
+          "role_ja": "付随動作",
+          "literal_ja": "「もっと作って」と書き込んで",
+          "note_ja": "ユーモラスな要望として報道される典型表現"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "This year's edition of Computex is the biggest yet, with more than 1,500 exhibitors from across the chip supply chain.",
+      "translation_ja": "今年のComputexは過去最大規模で、チップのサプライチェーン全体から1,500社以上の出展者が参加している。",
+      "grammar_ja": "the biggest yet = これまでで最大。with + 名詞句で付加情報。from across = 〜全体から。",
+      "chunks": [
+        {
+          "text": "This year's edition of Computex",
+          "role_ja": "主語",
+          "literal_ja": "今年のComputex",
+          "note_ja": "edition = （イベントの）回・開催"
+        },
+        {
+          "text": "is the biggest yet",
+          "role_ja": "述語",
+          "literal_ja": "これまでで最大だ",
+          "note_ja": "yet = これまでのところ"
+        },
+        {
+          "text": "with more than 1,500 exhibitors",
+          "role_ja": "付加情報",
+          "literal_ja": "1,500社以上の出展者を伴って",
+          "note_ja": "exhibitor = 出展者"
+        },
+        {
+          "text": "from across the chip supply chain",
+          "role_ja": "修飾語",
+          "literal_ja": "チップサプライチェーン全体から",
+          "note_ja": "supply chain = 供給網"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Although major players have not reported significant disruption from the war in the Middle East, concerns have been raised over supplies of chipmaking materials sourced from the region, such as helium and hydrogen.",
+      "translation_ja": "主要企業は中東の戦争による大きな混乱は報告していないものの、ヘリウムや水素など、その地域から調達されるチップ製造材料の供給をめぐる懸念が提起されている。",
+      "grammar_ja": "Although で譲歩。concerns have been raised over = 〜について懸念が提起された（受動）。sourced from = 〜から調達される。",
+      "chunks": [
+        {
+          "text": "Although major players have not reported significant disruption from the war in the Middle East",
+          "role_ja": "譲歩節",
+          "literal_ja": "主要プレイヤーは中東の戦争からの重大な混乱を報告していないが",
+          "note_ja": "disruption = 供給・事業の混乱"
+        },
+        {
+          "text": "concerns have been raised over supplies of chipmaking materials",
+          "role_ja": "主節",
+          "literal_ja": "チップ製造材料の供給について懸念が提起された",
+          "note_ja": "raise concerns over = 〜について懸念を提起する"
+        },
+        {
+          "text": "sourced from the region",
+          "role_ja": "後置修飾",
+          "literal_ja": "その地域から調達される",
+          "note_ja": "source = 調達する"
+        },
+        {
+          "text": "such as helium and hydrogen",
+          "role_ja": "例示",
+          "literal_ja": "ヘリウムや水素など",
+          "note_ja": "半導体製造に必要なガス"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "And with many chips produced in Taiwan, the risk of a potential invasion or blockade by China, which considers the self-ruled island its territory, could also pose a threat to the booming industry.",
+      "translation_ja": "また多くのチップが台湾で生産されていることから、自治を保つ島を自国の領土と見なす中国による潜在的な侵攻や封鎖のリスクも、急成長する産業への脅威となり得る。",
+      "grammar_ja": "with + O + 過去分詞 で背景状況。which considers... は中国を説明する非制限用法。pose a threat to = 〜への脅威となる。",
+      "chunks": [
+        {
+          "text": "with many chips produced in Taiwan",
+          "role_ja": "背景状況",
+          "literal_ja": "多くのチップが台湾で生産されているという状況で",
+          "note_ja": "with構文で前提を示す"
+        },
+        {
+          "text": "the risk of a potential invasion or blockade by China",
+          "role_ja": "主語",
+          "literal_ja": "中国による潜在的な侵攻や封鎖のリスク",
+          "note_ja": "blockade = 海上封鎖"
+        },
+        {
+          "text": "which considers the self-ruled island its territory",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "自治する島を自国の領土と見なす",
+          "note_ja": "consider O (to be) C の構文"
+        },
+        {
+          "text": "could also pose a threat to the booming industry",
+          "role_ja": "述語",
+          "literal_ja": "急成長する産業への脅威ともなり得る",
+          "note_ja": "booming = 急成長している"
+        }
+      ],
+      "deep_dive_ja": "地政学リスクを慎重に述べるニュース英語。self-ruled island は台湾の政治的立場を示す定型的な表現。",
+      "difficulty": "hard",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "\"Everybody's supply chain should be as diversified... as possible, so that we can have resilience,\" Nvidia's Huang said when asked about a possible future Taiwan crisis.",
+      "translation_ja": "将来の台湾危機の可能性について問われた際、エヌビディアのフアンは「誰もがサプライチェーンを可能な限り多様化し、回復力を持てるべきだ」と述べた。",
+      "grammar_ja": "as diversified as possible = 可能な限り多様化された。so that = 目的・結果。when asked about = 〜について尋ねられたとき（省略された受動）。",
+      "chunks": [
+        {
+          "text": "Everybody's supply chain should be as diversified... as possible",
+          "role_ja": "引用（主張）",
+          "literal_ja": "誰もがサプライチェーンを可能な限り多様化すべきだ",
+          "note_ja": "as ... as possible = 可能な限り〜"
+        },
+        {
+          "text": "so that we can have resilience",
+          "role_ja": "目的節",
+          "literal_ja": "回復力を持てるように",
+          "note_ja": "resilience = 逆境から立ち直る力"
+        },
+        {
+          "text": "Nvidia's Huang said",
+          "role_ja": "主節",
+          "literal_ja": "エヌビディアのフアンは述べた",
+          "note_ja": ""
+        },
+        {
+          "text": "when asked about a possible future Taiwan crisis",
+          "role_ja": "時間・状況",
+          "literal_ja": "将来の台湾危機の可能性について尋ねられたとき",
+          "note_ja": "when asked = when he was asked の省略"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nvidia's most top-of-the-range AI chips, the Blackwell and Rubin series, are banned from export to China, which has been busy developing its own semiconductor industry.",
+      "translation_ja": "エヌビディアの最高級AIチップであるBlackwellとRubinシリーズは中国への輸出が禁止されているが、中国は独自の半導体産業の開発に注力している。",
+      "grammar_ja": "top-of-the-range = 最高級の。be banned from export = 輸出禁止。which節で中国の動きを補足。has been busy -ing。",
+      "chunks": [
+        {
+          "text": "Nvidia's most top-of-the-range AI chips",
+          "role_ja": "主語",
+          "literal_ja": "エヌビディアの最高級AIチップ",
+          "note_ja": "top-of-the-range = 最上位モデル"
+        },
+        {
+          "text": "the Blackwell and Rubin series",
+          "role_ja": "同格",
+          "literal_ja": "BlackwellとRubinシリーズ",
+          "note_ja": "製品名の同格説明"
+        },
+        {
+          "text": "are banned from export to China",
+          "role_ja": "述語",
+          "literal_ja": "中国への輸出が禁止されている",
+          "note_ja": "ban from export = 輸出を禁じる"
+        },
+        {
+          "text": "which has been busy developing its own semiconductor industry",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "独自の半導体産業の開発に忙しい",
+          "note_ja": "be busy doing = 〜するのに忙しい"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Red-hot share prices for AI-related companies have made many tech investors very rich, very quickly.",
+      "translation_ja": "AI関連企業の過熱した株価により、多くのテック投資家が短期間で非常に裕福になった。",
+      "grammar_ja": "Red-hot は比喩的に「過熱した」。make + O + 形容詞（第5文型）。very rich, very quickly の反復で強調。",
+      "chunks": [
+        {
+          "text": "Red-hot share prices for AI-related companies",
+          "role_ja": "主語",
+          "literal_ja": "AI関連企業の過熱した株価",
+          "note_ja": "red-hot = 異常に高い・過熱"
+        },
+        {
+          "text": "have made many tech investors very rich",
+          "role_ja": "述語＋補語",
+          "literal_ja": "多くのテック投資家を非常に裕福にした",
+          "note_ja": "make O + 形容詞"
+        },
+        {
+          "text": "very quickly",
+          "role_ja": "副詞句",
+          "literal_ja": "非常に速く",
+          "note_ja": "very の反復で勢いを強調"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Nvidia's market value is now $5 trillion -- more than the gross domestic product of Japan or India -- and within the past month, Samsung, Micron and SK hynix have all become $1 trillion companies.",
+      "translation_ja": "エヌビディアの時価総額は現在5兆ドルで、日本やインドの国内総生産を上回る水準であり、過去1か月のうちにサムスン、マイクロン、SK hynixもすべて時価総額1兆ドル企業となった。",
+      "grammar_ja": "ダッシュで挿入説明。more than で比較。within the past month = 過去1か月以内に。become + 名詞。",
+      "chunks": [
+        {
+          "text": "Nvidia's market value is now $5 trillion",
+          "role_ja": "主節1",
+          "literal_ja": "エヌビディアの時価総額は今5兆ドルだ",
+          "note_ja": "market value = 時価総額"
+        },
+        {
+          "text": "more than the gross domestic product of Japan or India",
+          "role_ja": "挿入比較",
+          "literal_ja": "日本やインドのGDPより多い",
+          "note_ja": "gross domestic product (GDP) = 国内総生産"
+        },
+        {
+          "text": "within the past month",
+          "role_ja": "時間",
+          "literal_ja": "過去1か月以内に",
+          "note_ja": ""
+        },
+        {
+          "text": "Samsung, Micron and SK hynix have all become $1 trillion companies",
+          "role_ja": "主節2",
+          "literal_ja": "サムスン、マイクロン、SK hynixはすべて1兆ドル企業になった",
+          "note_ja": "trillion-dollar company = 時価総額1兆ドル企業"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "US chipmaker Marvell Technology soared more than 32 percent after Huang hailed it as the next trillion-dollar firm on stage at Computex, sparking fresh fears of an AI share price bubble that could eventually burst.",
+      "translation_ja": "米国のチップメーカーMarvell Technologyは、フアンがComputexのステージで同社を次の時価総額1兆ドル企業として称賛した後、32％以上急騰し、いずれ崩壊しかねないAI株価バブルへの新たな懸念を呼び起こした。",
+      "grammar_ja": "soar = 急騰する。hail A as B = AをBとして称える。sparking... は結果を示す分詞。that could eventually burst は bubble を修飾。",
+      "chunks": [
+        {
+          "text": "US chipmaker Marvell Technology soared more than 32 percent",
+          "role_ja": "主節",
+          "literal_ja": "米チップメーカーMarvell Technologyは32％以上急騰した",
+          "note_ja": "soar = 株価などが急上昇する"
+        },
+        {
+          "text": "after Huang hailed it as the next trillion-dollar firm on stage at Computex",
+          "role_ja": "時間節",
+          "literal_ja": "フアンがComputexで次の1兆ドル企業として称賛した後",
+          "note_ja": "hail as = 〜として称える"
+        },
+        {
+          "text": "sparking fresh fears of an AI share price bubble",
+          "role_ja": "結果（分詞）",
+          "literal_ja": "AI株価バブルへの新たな懸念を呼び起こして",
+          "note_ja": "spark fears = 懸念を引き起こす"
+        },
+        {
+          "text": "that could eventually burst",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "いずれ崩壊し得る",
+          "note_ja": "bubble burst = バブルが崩れる"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Taiwan's stock exchange has grown to become the fifth largest in the world, and is still on the up.",
+      "translation_ja": "台湾の証券取引所は世界第5位の規模に成長し、依然として上昇基調にある。",
+      "grammar_ja": "grow to become = 〜になるまで成長する。on the up = 上昇傾向にある（イディオム）。",
+      "chunks": [
+        {
+          "text": "Taiwan's stock exchange",
+          "role_ja": "主語",
+          "literal_ja": "台湾の証券取引所",
+          "note_ja": ""
+        },
+        {
+          "text": "has grown to become the fifth largest in the world",
+          "role_ja": "述語",
+          "literal_ja": "世界第5位になるまで成長した",
+          "note_ja": "grow to become = 次第に〜になる"
+        },
+        {
+          "text": "is still on the up",
+          "role_ja": "述語（並列）",
+          "literal_ja": "依然として上昇中だ",
+          "note_ja": "on the up = 上向き・好調"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Humanoid robots that can dance in unison, perform backflips or pull heavy objects without falling over are perfect fodder for viral videos.",
+      "translation_ja": "一斉に踊ったり、バク宙を決めたり、倒れずに重い物体を引っ張ったりできるヒューマノイドロボットは、バイラル動画にぴったりのネタだ。",
+      "grammar_ja": "that節内に動詞の並列（dance, perform, pull）。in unison = 一斉に。fodder for = 〜の材料・ネタ。",
+      "chunks": [
+        {
+          "text": "Humanoid robots",
+          "role_ja": "主語",
+          "literal_ja": "ヒューマノイドロボット",
+          "note_ja": "humanoid = 人型の"
+        },
+        {
+          "text": "that can dance in unison, perform backflips or pull heavy objects without falling over",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "一斉に踊り、バク宙を決め、倒れずに重い物を引っ張れる",
+          "note_ja": "in unison = 一斉に。backflip = 後方宙返り"
+        },
+        {
+          "text": "are perfect fodder for viral videos",
+          "role_ja": "述語",
+          "literal_ja": "バイラル動画に最適なネタである",
+          "note_ja": "fodder for = 〜の材料（やや比喩的）"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But most of these impressive displays are remotely operated or pre-programmed, with autonomous motion using so-called physical AI still rare.",
+      "translation_ja": "しかしこれらの印象的な披露の多くは遠隔操作または事前プログラムされたもので、いわゆる物理AIを使った自律的な動きは依然として稀だ。",
+      "grammar_ja": "remotely operated / pre-programmed は受動の形容詞化。with + 名詞 + 形容詞（付帯状況）。so-called = いわゆる。",
+      "chunks": [
+        {
+          "text": "most of these impressive displays",
+          "role_ja": "主語",
+          "literal_ja": "これらの印象的な披露の大部分",
+          "note_ja": "display = 実演・展示"
+        },
+        {
+          "text": "are remotely operated or pre-programmed",
+          "role_ja": "述語",
+          "literal_ja": "遠隔操作されるか事前プログラムされている",
+          "note_ja": "remotely operated = 遠隔操作の"
+        },
+        {
+          "text": "with autonomous motion using so-called physical AI still rare",
+          "role_ja": "付帯状況",
+          "literal_ja": "いわゆる物理AIを使った自律運動は依然稀であるという状況で",
+          "note_ja": "physical AI = 物理世界で動くAI"
+        }
+      ],
+      "deep_dive_ja": "見せ場と実用のギャップを示す But 文。so-called は話者が用語に距離を置くときのニュアンス。",
+      "difficulty": "hard",
+      "sentence_id": "s023"
+    },
+    {
+      "text": "Companies at Computex were keen to show off how they are integrating AI capabilities into robotics, with Nvidia announcing a new partnership with Chinese startup Unitree on a humanoid for researchers.",
+      "translation_ja": "Computexの企業はAI機能をロボット工学に統合している様子を積極的にアピールしており、エヌビディアは研究者向けヒューマノイドをめぐり中国のスタートアップUnitreeとの新たな提携を発表した。",
+      "grammar_ja": "be keen to = 〜したがる。show off how... = 〜している様子を見せびらかす。with + O + -ing で具体例を付加。",
+      "chunks": [
+        {
+          "text": "Companies at Computex were keen to show off",
+          "role_ja": "主節",
+          "literal_ja": "Computexの企業は見せびらかしたがっていた",
+          "note_ja": "be keen to = 強く望む"
+        },
+        {
+          "text": "how they are integrating AI capabilities into robotics",
+          "role_ja": "疑問詞節",
+          "literal_ja": "AI機能をロボットに統合している方法",
+          "note_ja": "integrate A into B = AをBに統合する"
+        },
+        {
+          "text": "with Nvidia announcing a new partnership with Chinese startup Unitree",
+          "role_ja": "付加例",
+          "literal_ja": "エヌビディアが中国スタートアップUnitreeとの新提携を発表するという形で",
+          "note_ja": "with構文で具体的事例"
+        },
+        {
+          "text": "on a humanoid for researchers",
+          "role_ja": "修飾",
+          "literal_ja": "研究者向けヒューマノイドについて",
+          "note_ja": ""
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Taiwan's Asus unveiled what it called \"a new generation of AI-powered service robotics that provide care- and service-related support\" to help elderly people and other users with \"a wide range of tasks\".",
+      "translation_ja": "台湾のアスースは、高齢者や他の利用者が「幅広い作業」をこなすのを助ける「介護・サービス関連の支援を提供する新世代のAI搭載サービスロボット」と呼ぶものを発表した。",
+      "grammar_ja": "unveiled what it called... は間接的な自己表現。AI-powered = AI搭載の。care- and service-related = 複合形容詞の並列。",
+      "chunks": [
+        {
+          "text": "Taiwan's Asus unveiled what it called",
+          "role_ja": "主節",
+          "literal_ja": "台湾のアスースは、〜と呼ぶものを発表した",
+          "note_ja": "what it called = 同社がそう名付けたもの"
+        },
+        {
+          "text": "a new generation of AI-powered service robotics",
+          "role_ja": "同格",
+          "literal_ja": "AI搭載サービスロボットの新世代",
+          "note_ja": "AI-powered = AIによって動かされる"
+        },
+        {
+          "text": "that provide care- and service-related support",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "介護・サービス関連の支援を提供する",
+          "note_ja": "care-related / service-related の並列"
+        },
+        {
+          "text": "to help elderly people and other users with \"a wide range of tasks\"",
+          "role_ja": "目的",
+          "literal_ja": "高齢者や他の利用者が幅広い作業をこなすのを助けるために",
+          "note_ja": "help O with tasks = Oが作業するのを助ける"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "agent",
+      "pronunciation": "/ˈeɪdʒənt/",
+      "meaning_ja": "（ここでは）ユーザーの代わりにタスクを実行するAIシステム",
+      "example": "2026 is the year of agents.",
+      "example_ja": "2026年はエージェントの年だ。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "ramp up",
+      "pronunciation": "/ræmp ʌp/",
+      "meaning_ja": "（需要・生産などを）段階的に押し上げる、強化する",
+      "example": "Agentic AI was ramping up demand for computer processors.",
+      "example_ja": "エージェント型AIがプロセッサー需要を押し上げていた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "shortage",
+      "pronunciation": "/ˈʃɔːrtɪdʒ/",
+      "meaning_ja": "不足、品薄",
+      "example": "Memory shortages could persist until 2030.",
+      "example_ja": "メモリ不足は2030年まで続く可能性がある。",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "supply chain",
+      "pronunciation": "/səˈplaɪ tʃeɪn/",
+      "meaning_ja": "サプライチェーン、供給網",
+      "example": "Everybody's supply chain should be as diversified as possible.",
+      "example_ja": "誰もがサプライチェーンを可能な限り多様化すべきだ。",
+      "source_sentence_id": "s016"
+    },
+    {
+      "word": "resilience",
+      "pronunciation": "/rɪˈzɪliəns/",
+      "meaning_ja": "回復力、逆境に耐える力",
+      "example": "We can have resilience if supply chains are diversified.",
+      "example_ja": "サプライチェーンが多様化されていれば回復力を持てる。",
+      "source_sentence_id": "s016"
+    },
+    {
+      "word": "soar",
+      "pronunciation": "/sɔːr/",
+      "meaning_ja": "（株価などが）急騰する",
+      "example": "Marvell Technology soared more than 32 percent.",
+      "example_ja": "Marvell Technologyは32％以上急騰した。",
+      "source_sentence_id": "s020"
+    },
+    {
+      "word": "humanoid",
+      "pronunciation": "/ˈhjuːmənɔɪd/",
+      "meaning_ja": "人型の（ロボット）",
+      "example": "Humanoid robots that can dance in unison are perfect fodder for viral videos.",
+      "example_ja": "一斉に踊れるヒューマノイドロボットはバイラル動画の絶好のネタだ。",
+      "source_sentence_id": "s022"
+    },
+    {
+      "word": "unveil",
+      "pronunciation": "/ʌnˈveɪl/",
+      "meaning_ja": "（新製品などを）正式に発表する、お披露目する",
+      "example": "Nvidia unveiled a chip for next-generation Windows laptops.",
+      "example_ja": "エヌビディアは次世代Windowsノート向けチップを発表した。",
+      "source_sentence_id": "s006"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news",
+      "title": "Passive voice in news writing",
+      "rule": "Use be + past participle to focus on events/results rather than agents (e.g., has been fueled, have been raised, are banned).",
+      "example": "Concerns have been raised over supplies of chipmaking materials.",
+      "meaning_ja": "ニュースでは受動態で「誰が」より「何が起きたか・何が懸念されるか」を前面に出す。能動態より客観的でフォーマルな印象になる。"
+    },
+    {
+      "id": "participial-addition",
+      "title": "Participial phrases for extra information",
+      "rule": "Use -ing/-ed phrases or 'with + noun + participle/adjective' to add context without new clauses.",
+      "example": "Referring to the emerging world of AI systems, ... / with chip factories taking at least three years to build.",
+      "meaning_ja": "分詞構文や with 構文で、主節を重くせずに背景・理由・付随状況を追加できる。長いニュース文で頻出。"
+    },
+    {
+      "id": "relative-nonrestrictive",
+      "title": "Non-restrictive relative clauses",
+      "rule": "Use commas (or dashes) with which/who clauses to add parenthetical explanation.",
+      "example": "China, which considers the self-ruled island its territory, could also pose a threat.",
+      "meaning_ja": "カンマやダッシュで挟んだ関係代名詞節は補足説明。なくても文の骨格は成立する。地政学・技術説明で多用される。"
+    },
+    {
+      "id": "make-causative",
+      "title": "Causative make + object + complement",
+      "rule": "make + someone/something + adjective means 'cause to become'.",
+      "example": "Red-hot share prices have made many tech investors very rich, very quickly.",
+      "meaning_ja": "make + 目的語 + 形容詞で「〜を…な状態にする」という使役・結果の意味。ビジネス記事で影響・変化を簡潔に述べる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 25,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:51:23+09:00"
+  },
+  "article_id": "japantoday:2026-06-04:robots-supply-strain-5-hot-topics-at-com"
+}

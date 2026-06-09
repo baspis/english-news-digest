@@ -1,0 +1,41 @@
+{
+  "article_id": "japantoday:2026-06-02:ai-giant-anthropic-confidentially-files-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:17:12+09:00",
+  "fetched_at": "2026-06-09T22:21:14+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I'm sick and tired of this AI lark. We should all call for it to be banned, there's enough cause to form the devastating environmental damage already caused.",
+      "translation_ja": "このAIごときにはうんざりだ。みんなで禁止を求めるべきだ。すでに起きている壊滅的な環境被害だけでも、十分な理由がある。",
+      "notes_ja": [
+        "「sick and tired of」は「もううんざり」という強い不満の慣用表現。",
+        "後半は文法的に不自然。「cause to form」はおそらく cause given / from の誤用で、理由を述べる文が途中で崩れている。"
+      ],
+      "standard_en": "I'm sick and tired of this AI nonsense. We should all call for it to be banned; there's enough cause given the devastating environmental damage already caused.",
+      "marked_terms": [],
+      "comment_id": 5223293,
+      "author": "falseflagsteve",
+      "rating": -1,
+      "posted_at": "2026-06-02T23:48:17+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Let's the bubble begun!",
+      "translation_ja": "さあ、バブルが始まったぞ！",
+      "notes_ja": [
+        "正しくは Let the bubble begin!（さあバブルが始まるぞ）のはず。Let's と begun の組み合わせは文法的に誤り。",
+        "投資バブル（過熱）を皮肉って言っている。"
+      ],
+      "standard_en": "Let the bubble begin!",
+      "marked_terms": [],
+      "comment_id": 5222348,
+      "author": "sakurasuki",
+      "rating": -2,
+      "posted_at": "2026-06-02T07:07:01+09:00"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "summary_ja": "北海道千歳市で、21歳のインドネシア人女性が刺されて死亡した事件で、27歳のインドネシア人男性が殺人未遂の疑いで逮捕されました。警察官や知人も負傷し、女性は刺される前後でマンションの階段から転落した可能性もあると消防が述べています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Police arrested a 27-year-old man Thursday on suspicion of attempted murder after the stabbing of a 21-year-old woman in Chitose on Japan's northernmost main island of Hokkaido, police said.",
+      "translation_ja": "警察は、日本最北の本州級の島である北海道・千歳市で21歳の女性が刺された事件を受け、殺人未遂の疑いで27歳の男性を木曜日に逮捕したと発表しました。",
+      "grammar_ja": "ニュース定型の「主文＋police said」構造。on suspicion of（〜の疑いで）、after the stabbing of（〜が刺された後）の名詞句、on Japan's northernmost main island of Hokkaido は地名の修飾が重なる典型例。",
+      "chunks": [
+        {
+          "text": "Police",
+          "role_ja": "主語",
+          "literal_ja": "警察は",
+          "note_ja": "犯罪報道では具体的な警察署名を出さず Police と総称することが多い"
+        },
+        {
+          "text": "arrested a 27-year-old man Thursday",
+          "role_ja": "述語＋目的語＋時",
+          "literal_ja": "27歳の男性を木曜日に逮捕した",
+          "note_ja": "年齢はハイフン付き 27-year-old man。Thursday は文頭に置かず文末近くに来る"
+        },
+        {
+          "text": "on suspicion of attempted murder",
+          "role_ja": "理由・状況の修飾",
+          "literal_ja": "殺人未遂の疑いで",
+          "note_ja": "on suspicion of ＋名詞は逮捕理由の定番表現。attempted murder は「殺人未遂」"
+        },
+        {
+          "text": "after the stabbing of a 21-year-old woman",
+          "role_ja": "時間・原因の修飾",
+          "literal_ja": "21歳の女性が刺された後",
+          "note_ja": "the stabbing of ... で「〜への刺傷事件」。of 以下が被害者"
+        },
+        {
+          "text": "in Chitose on Japan's northernmost main island of Hokkaido",
+          "role_ja": "場所の修飾",
+          "literal_ja": "北海道という日本最北の本州級の島の千歳市で",
+          "note_ja": "小地名→大地名の順。northernmost main island は読者向けの地理説明"
+        },
+        {
+          "text": "police said",
+          "role_ja": "引用・出典",
+          "literal_ja": "警察は述べた",
+          "note_ja": "英語ニュースの attribution（情報源明示）。主語 Police と重なるが別節"
+        }
+      ],
+      "deep_dive_ja": "日本語報道なら「警察当局は〜と発表した」が自然。attempted murder と書いても後文で死亡が確認されるため、後に殺人罪に変更される流れがよくある。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The woman, identified as Sri Rahayu, an Indonesian, was later confirmed dead at a hospital.",
+      "translation_ja": "その女性はスリ・ラハユと名乗るインドネシア人で、のちに病院で死亡が確認されました。",
+      "grammar_ja": "identified as ... の挿入句（同格）、was confirmed dead は受動態＋補語。later は「その後」という時間の後追い。",
+      "chunks": [
+        {
+          "text": "The woman",
+          "role_ja": "主語",
+          "literal_ja": "その女性は",
+          "note_ja": "前の文の被害者を受ける the"
+        },
+        {
+          "text": "identified as Sri Rahayu, an Indonesian",
+          "role_ja": "同格の挿入句",
+          "literal_ja": "スリ・ラハユというインドネシア人と確認された",
+          "note_ja": "identified as は身元確認のニュース表現。an Indonesian は国籍"
+        },
+        {
+          "text": "was later confirmed dead",
+          "role_ja": "述語",
+          "literal_ja": "のちに死亡が確認された",
+          "note_ja": "confirm dead は「死亡を確認する」。受動態で事実を客観的に述べる"
+        },
+        {
+          "text": "at a hospital",
+          "role_ja": "場所の修飾",
+          "literal_ja": "病院で",
+          "note_ja": "治療・確認の場所。in a hospital より at も可"
+        }
+      ],
+      "deep_dive_ja": "confirmed dead は died より報道では慎重な言い方。同格のカンマ挿入は読みやすくするため名前と国籍を分ける。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The suspect, Mahmudi Agung Laksana Aji, also of Indonesian nationality, is believed to have been acquainted with her, according to the police.",
+      "translation_ja": "容疑者のマフムディ・アグン・ラクサナ・アジもインドネシア国籍で、警察によると彼女と面識があったとみられています。",
+      "grammar_ja": "is believed to have been ... は「〜だったとみられる」という間接伝聞。acquainted with は「面識がある」というややフォーマルな表現。according to the police は文末の出典。",
+      "chunks": [
+        {
+          "text": "The suspect, Mahmudi Agung Laksana Aji, also of Indonesian nationality",
+          "role_ja": "主語＋同格",
+          "literal_ja": "容疑者のマフムディ・アグン・ラクサナ・アジもインドネシア国籍で",
+          "note_ja": "also of Indonesian nationality は前の被害者と同国籍だったことを示す"
+        },
+        {
+          "text": "is believed to have been acquainted with her",
+          "role_ja": "述語",
+          "literal_ja": "彼女と面識があったと信じられている",
+          "note_ja": "be believed to have been ... は不確実な情報の典型形。acquainted with は know より距離感がある"
+        },
+        {
+          "text": "according to the police",
+          "role_ja": "出典",
+          "literal_ja": "警察によれば",
+          "note_ja": "情報の出所を限定し、断定を避ける"
+        }
+      ],
+      "deep_dive_ja": "know each other より acquainted の方がニュース向き。日本語の「知人」に近いが、必ずしも親しい友人とは限らない点に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Police had earlier responded to a call reporting a man with a knife.",
+      "translation_ja": "警察はそれより前、刃物を持った男がいるとの通報に対応していました。",
+      "grammar_ja": "過去完了 had responded で、逮捕より前の出来事。reporting a man with a knife は現在分詞で call の内容を説明。respond to a call は緊急通報対応のコロケーション。",
+      "chunks": [
+        {
+          "text": "Police",
+          "role_ja": "主語",
+          "literal_ja": "警察は",
+          "note_ja": "前出の Police と同じ主体"
+        },
+        {
+          "text": "had earlier responded",
+          "role_ja": "述語（過去完了）",
+          "literal_ja": "それより前に対応していた",
+          "note_ja": "earlier で時系列を前に戻す。had responded はその後の逮捕より前"
+        },
+        {
+          "text": "to a call",
+          "role_ja": "目的・対象",
+          "literal_ja": "通報に",
+          "note_ja": "emergency call / 110番通報の意味"
+        },
+        {
+          "text": "reporting a man with a knife",
+          "role_ja": "分詞句（call を修飾）",
+          "literal_ja": "刃物を持った男がいると伝える",
+          "note_ja": "a call reporting ... = a call that reported ... の省略形"
+        }
+      ],
+      "deep_dive_ja": "with a knife は「ナイフで」ではなく「ナイフを持った」状態。a man with a knife は危険人物通報の定番描写。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "A police officer sustained injuries while attempting to restrain the suspect, they said, adding that a male acquaintance of the woman was also injured.",
+      "translation_ja": "容疑者を制圧しようとする際に警察官がけがを負ったほか、女性の知人とみられる男性も負傷したと、当局は述べました。",
+      "grammar_ja": "sustain injuries は「けがを負う」のフォーマル表現。while attempting to ... は「〜しようとしての間に」。adding that ... は「〜も〜したと付け加えて」という付帯説明。",
+      "chunks": [
+        {
+          "text": "A police officer sustained injuries",
+          "role_ja": "主文の主語・述語",
+          "literal_ja": "警察官がけがを負った",
+          "note_ja": "sustain injuries は get injured より報道文体"
+        },
+        {
+          "text": "while attempting to restrain the suspect",
+          "role_ja": "時間・状況",
+          "literal_ja": "容疑者を制圧しようとしている間に",
+          "note_ja": "restrain は physically stop の意味。attempting to は試みた最中"
+        },
+        {
+          "text": "they said",
+          "role_ja": "引用",
+          "literal_ja": "彼らは述べた",
+          "note_ja": "they = police authorities"
+        },
+        {
+          "text": "adding that a male acquaintance of the woman was also injured",
+          "role_ja": "付加節",
+          "literal_ja": "女性の男性の知人も負傷したと付け加えて",
+          "note_ja": "adding that ... はニュースで追加情報を載せる型。also で複数被害"
+        }
+      ],
+      "deep_dive_ja": "sustain は「維持する」の基本義だが sustain injuries で「被る」に。日本語の「負傷した」とほぼ同じ硬さ。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The fire department said the woman may have fallen from the staircase of an apartment building before or after she was stabbed.",
+      "translation_ja": "消防当局は、女性は刺される前か後に、マンションの階段から転落した可能性があると述べました。",
+      "grammar_ja": "may have fallen は過去の推量（〜したかもしれない）。before or after she was stabbed で出来事の前後関係が不明であることを示す。",
+      "chunks": [
+        {
+          "text": "The fire department said",
+          "role_ja": "主節",
+          "literal_ja": "消防当局は述べた",
+          "note_ja": "警察以外の当局の発言を紹介"
+        },
+        {
+          "text": "the woman may have fallen",
+          "role_ja": "従属節の主部",
+          "literal_ja": "女性は転落したかもしれない",
+          "note_ja": "may have + 過去分詞で、過去の不確実な推測"
+        },
+        {
+          "text": "from the staircase of an apartment building",
+          "role_ja": "場所",
+          "literal_ja": "マンションの階段から",
+          "note_ja": "staircase は階段全体。apartment building は集合住宅"
+        },
+        {
+          "text": "before or after she was stabbed",
+          "role_ja": "時間の修飾",
+          "literal_ja": "彼女が刺される前か後に",
+          "note_ja": "事件の経緯が未確定であることを明示"
+        }
+      ],
+      "deep_dive_ja": "may have fallen と might have fallen はほぼ同義だが、報道では may の方がやや控えめ。before or after の並列は調査中の不確実性を伝える。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "\"I saw a woman collapsed on the road,\" a neighbor in her 50s said.",
+      "translation_ja": "「道路で女性が倒れているのを見た」と、50代の近所の女性は話しました。",
+      "grammar_ja": "直接話法＋叙述文。a woman collapsed は saw の目的語節（省略された that）。in her 50s は「50代の」年齢表現。",
+      "chunks": [
+        {
+          "text": "I saw a woman collapsed on the road",
+          "role_ja": "直接話法",
+          "literal_ja": "私は道路で倒れた女性を見た",
+          "note_ja": "see + 名詞 + 過去分詞 で「〜しているのを見る」。collapsed on the road は路上倒れ"
+        },
+        {
+          "text": "a neighbor in her 50s",
+          "role_ja": "主語（引用の後）",
+          "literal_ja": "50代の近所の人が",
+          "note_ja": "英語ニュースは目撃者年齢を in one's 50s と書くことが多い"
+        },
+        {
+          "text": "said",
+          "role_ja": "述語",
+          "literal_ja": "述べた",
+          "note_ja": "引用動詞は引用文の後に置くのが英語の基本"
+        }
+      ],
+      "deep_dive_ja": "日本語報道では「近隣住民」だが、英語は a neighbor と具体化。collapsed は fall down より倒れた状態の描写として硬い。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "\"Then an ambulance came and emergency workers were performing CPR.\"",
+      "translation_ja": "「そのあと救急車が来て、救急隊員が心肺蘇生を行っていた。」",
+      "grammar_ja": "Then で時間の推移。were performing はその時点で進行中だった動作。CPR は cardiopulmonary resuscitation の略。",
+      "chunks": [
+        {
+          "text": "Then",
+          "role_ja": "接続・時間",
+          "literal_ja": "そのとき",
+          "note_ja": "目撃談の時系列をつなぐ"
+        },
+        {
+          "text": "an ambulance came",
+          "role_ja": "主節1",
+          "literal_ja": "救急車が来た",
+          "note_ja": "come は到着の意味。arrived より口語的"
+        },
+        {
+          "text": "emergency workers were performing CPR",
+          "role_ja": "主節2",
+          "literal_ja": "救急隊員が心肺蘇生をしていた",
+          "note_ja": "perform CPR は「蘇生処置を行う」の決まり文句"
+        }
+      ],
+      "deep_dive_ja": "emergency workers は paramedics / first responders とも言える。performing は過去進行形で、その場面が目に浮かぶ。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "The incident occurred in a residential area about 1.8 kilometers northwest of JR Chitose Station.",
+      "translation_ja": "事件はJR千歳駅から北西約1.8キロの住宅街で起きました。",
+      "grammar_ja": "occur in で出来事の場所。about 1.8 kilometers northwest of ... は方位＋距離の立地説明。JR は日本の鉄道会社名としてそのまま使う。",
+      "chunks": [
+        {
+          "text": "The incident occurred",
+          "role_ja": "主語・述語",
+          "literal_ja": "事件は起きた",
+          "note_ja": "occur は happen より報道でやや硬い"
+        },
+        {
+          "text": "in a residential area",
+          "role_ja": "場所",
+          "literal_ja": "住宅街で",
+          "note_ja": "residential area は住居が多い地域"
+        },
+        {
+          "text": "about 1.8 kilometers northwest of JR Chitose Station",
+          "role_ja": "場所の詳細修飾",
+          "literal_ja": "JR千歳駅から北西約1.8キロの",
+          "note_ja": "方位＋距離＋基準地点の順が英語の立地表現"
+        }
+      ],
+      "deep_dive_ja": "about は概算距離。northwest of は地図上の位置関係を示し、日本の犯罪記事でよく見る「現場は〜から〜」に相当。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "on suspicion of",
+      "pronunciation": "/ɒn səˈspɪʃən əv/",
+      "meaning_ja": "〜の疑いで（逮捕理由など）",
+      "example": "He was arrested on suspicion of attempted murder.",
+      "example_ja": "彼は殺人未遂の疑いで逮捕された。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "attempted murder",
+      "pronunciation": "/əˈtemptɪd ˈmɜːrdər/",
+      "meaning_ja": "殺人未遂",
+      "example": "Police arrested him on suspicion of attempted murder.",
+      "example_ja": "警察は殺人未遂の疑いで彼を逮捕した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "acquainted with",
+      "pronunciation": "/əˈkweɪntɪd wɪð/",
+      "meaning_ja": "〜と面識がある、知り合いである",
+      "example": "The suspect is believed to have been acquainted with her.",
+      "example_ja": "容疑者は彼女と面識があったとみられている。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "restrain",
+      "pronunciation": "/rɪˈstreɪn/",
+      "meaning_ja": "（力づくで）制圧する、抑える",
+      "example": "A police officer was injured while attempting to restrain the suspect.",
+      "example_ja": "警察官は容疑者を制圧しようとしてけがを負った。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "sustain injuries",
+      "pronunciation": "/səˈsteɪn ˈɪndʒəriz/",
+      "meaning_ja": "けがを負う、負傷する",
+      "example": "A police officer sustained injuries during the incident.",
+      "example_ja": "警察官が事件でけがを負った。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "collapsed",
+      "pronunciation": "/kəˈlæpst/",
+      "meaning_ja": "倒れた、崩れ落ちた",
+      "example": "I saw a woman collapsed on the road.",
+      "example_ja": "道路で女性が倒れているのを見た。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "CPR",
+      "pronunciation": "/ˌsiː piː ˈɑːr/",
+      "meaning_ja": "心肺蘇生（cardiopulmonary resuscitation）",
+      "example": "Emergency workers were performing CPR.",
+      "example_ja": "救急隊員が心肺蘇生を行っていた。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "residential area",
+      "pronunciation": "/ˌrezɪˈdenʃl ˈeriə/",
+      "meaning_ja": "住宅街、住居地域",
+      "example": "The incident occurred in a residential area.",
+      "example_ja": "事件は住宅街で起きた。",
+      "source_sentence_id": "s009"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "news-attribution",
+      "title": "News attribution (..., police said / according to ...)",
+      "rule": "Place the source (police said, according to the police) at the end or after a comma to show where information comes from.",
+      "example": "The suspect is believed to have been acquainted with her, according to the police.",
+      "meaning_ja": "英語の犯罪ニュースでは、情報の出所を文末や挿入句で示し、記者の断定を避ける。police said / according to the police はほぼ同機能。"
+    },
+    {
+      "id": "passive-for-facts",
+      "title": "Passive voice for confirmed facts",
+      "rule": "Use passive forms (was confirmed dead, was stabbed, was injured) to report outcomes objectively.",
+      "example": "The woman was later confirmed dead at a hospital.",
+      "meaning_ja": "被害者の死亡確認や負傷など、事実報道では受動態で客観性を出す。日本語の「〜と確認された」「〜された」に近い。"
+    },
+    {
+      "id": "modal-perfect-past-speculation",
+      "title": "Modal + have + past participle (past speculation)",
+      "rule": "Use may/might have + past participle to express uncertain past events.",
+      "example": "The woman may have fallen from the staircase before or after she was stabbed.",
+      "meaning_ja": "may have fallen は「転落した可能性がある」という過去の推量。調査中で確定していない事実を伝えるときに使う。"
+    },
+    {
+      "id": "participial-phrases",
+      "title": "Participial phrases (-ing / -ed) for extra detail",
+      "rule": "Use present or past participles to add information without starting a new sentence.",
+      "example": "Police responded to a call reporting a man with a knife, adding that another man was injured.",
+      "meaning_ja": "reporting ...（通報の内容）、adding that ...（付け加え）のように分詞句を使い、1文に情報を圧縮するのがニュース英語の特徴。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 9,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:40:07+09:00"
+  },
+  "article_id": "japantoday:2026-06-05:man-arrested-after-woman-fatally-stabbed"
+}

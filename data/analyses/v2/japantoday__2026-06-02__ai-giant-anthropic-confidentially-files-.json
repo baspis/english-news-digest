@@ -1,0 +1,835 @@
+{
+  "summary_ja": "AI大手アンソロピックが、Claudeチャットボットの開発元として月曜日に機密提出でIPO（新規株式公開）手続きを行ったと発表した。同社は直前に650億ドルの資金調達で企業価値9650億ドルに達しており、OpenAIを上回る評価額で上場を目指す。一方、計算資源不足や国防総省との法的争いなど、成長に伴う課題も抱えている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "AI giant Anthropic, the maker of the Claude chatbot, announced Monday that it had filed confidentially for an initial public offering (IPO), as Silicon Valley AI companies look to raise the enormous sums needed to fuel the sector's rapid expansion.",
+      "translation_ja": "Claudeチャットボットの開発元であるAI大手アンソロピックは月曜日、機密提出により新規株式公開（IPO）の手続きを行ったと発表した。これは、シリコンバレーのAI企業が業界の急成長を支えるために巨額の資金を調達しようとしている流れの中でのことだ。",
+      "grammar_ja": "同格の挿入句（the maker of...）、that節の間接話法、過去完了（had filed）、as節による背景説明。",
+      "chunks": [
+        {
+          "text": "AI giant Anthropic",
+          "role_ja": "主語",
+          "literal_ja": "AI大手アンソロピック",
+          "note_ja": "giantは「巨大企業・大手」のニュアンス。ニュース見出しでもよく使われる。"
+        },
+        {
+          "text": "the maker of the Claude chatbot",
+          "role_ja": "同格の挿入句（主語の説明）",
+          "literal_ja": "Claudeチャットボットの開発元",
+          "note_ja": "カンマで挟む同格構文。関係代名詞を使わず簡潔に説明できる。"
+        },
+        {
+          "text": "announced Monday that it had filed confidentially",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "月曜日、機密提出したと発表した",
+          "note_ja": "announce + that節。file confidentiallyは「非公開（機密）方式で提出する」。"
+        },
+        {
+          "text": "for an initial public offering (IPO)",
+          "role_ja": "目的・内容",
+          "literal_ja": "新規株式公開（IPO）のために",
+          "note_ja": "IPOはInitial Public Offeringの略。初めて株式を一般公開すること。"
+        },
+        {
+          "text": "as Silicon Valley AI companies look to raise the enormous sums",
+          "role_ja": "背景を示す副詞節",
+          "literal_ja": "シリコンバレーのAI企業が巨額の資金を調達しようとしている一方で",
+          "note_ja": "look to doは「〜しようとする・〜を目指す」。asは「〜という状況の中で」。"
+        },
+        {
+          "text": "needed to fuel the sector's rapid expansion",
+          "role_ja": "形容詞句（sumsを修飾）",
+          "literal_ja": "業界の急成長を支えるために必要な",
+          "note_ja": "fuelは名詞だけでなく動詞で「〜を促進する・燃料を供給する」。"
+        }
+      ],
+      "deep_dive_ja": "見出し調の長文は、主語の同格説明→発表内容→業界背景の順で情報を積み上げる典型構造です。confidentially filed for an IPOは金融ニュースの定番表現で、「まだ詳細は非公開だが上場準備を始めた」という意味になります。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "A confidential filing lets a company submit its IPO paperwork to the Securities and Exchange Commission (SEC) for review without making its financials and business details public until much later in the process.",
+      "translation_ja": "機密提出とは、企業がIPO関連書類を証券取引委員会（SEC）に審査のため提出しながらも、財務情報や事業内容を手続きのかなり後の段階まで公開しない方法のことだ。",
+      "grammar_ja": "let + 目的語 + 動詞原形、without + -ing、until節。",
+      "chunks": [
+        {
+          "text": "A confidential filing",
+          "role_ja": "主語",
+          "literal_ja": "機密提出という制度",
+          "note_ja": "confidential filingはIPO文脈の専門用語。"
+        },
+        {
+          "text": "lets a company submit its IPO paperwork",
+          "role_ja": "述語（使役）",
+          "literal_ja": "企業がIPO書類を提出することを可能にする",
+          "note_ja": "let + O + 原形。paperworkは「書類一式」。"
+        },
+        {
+          "text": "to the Securities and Exchange Commission (SEC)",
+          "role_ja": "方向・宛先",
+          "literal_ja": "証券取引委員会（SEC）へ",
+          "note_ja": "米国の証券規制当局。"
+        },
+        {
+          "text": "for review",
+          "role_ja": "目的",
+          "literal_ja": "審査のために",
+          "note_ja": "for + 名詞で目的を示す。"
+        },
+        {
+          "text": "without making its financials and business details public",
+          "role_ja": "付帯状況",
+          "literal_ja": "財務・事業詳細を公開せずに",
+          "note_ja": "without + -ing。financialsは複数形で「財務情報」。"
+        },
+        {
+          "text": "until much later in the process",
+          "role_ja": "時間",
+          "literal_ja": "手続きのかなり後の段階まで",
+          "note_ja": "much laterで「ずっと後まで」というニュアンスを強調。"
+        }
+      ],
+      "deep_dive_ja": "説明文では一般現在形で制度を説明します。financialsは「財務諸表・財務データ」の総称としてよく使われます。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "\"This gives us the option to go public after the Securities and Exchange Commission completes its review,\" the company said in a statement.",
+      "translation_ja": "「これにより、証券取引委員会の審査が完了した後に上場する選択肢が得られる」と同社は声明で述べた。",
+      "grammar_ja": "間接話法、go public、after節（未来の出来事でも現在形）。",
+      "chunks": [
+        {
+          "text": "This gives us the option to go public",
+          "role_ja": "引用句の主部",
+          "literal_ja": "これは私たちに上場する選択肢を与える",
+          "note_ja": "give + O + the option to do。「〜する選択肢を与える」。"
+        },
+        {
+          "text": "after the Securities and Exchange Commission completes its review",
+          "role_ja": "時間の副詞節",
+          "literal_ja": "SECが審査を完了した後に",
+          "note_ja": "after節では未来でも現在形（completes）を使う。"
+        },
+        {
+          "text": "the company said in a statement",
+          "role_ja": "主節（発言の報道）",
+          "literal_ja": "同社は声明で述べた",
+          "note_ja": "ニュースではsaid in a statementが定型。"
+        }
+      ],
+      "deep_dive_ja": "go publicは「株式を公開する・上場する」の口語的だがビジネスでも標準的な表現です。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "\"The proposed initial public offering will depend on market conditions and other factors.\"",
+      "translation_ja": "「予定されている新規株式公開は、市場環境やその他の要因次第となる。」",
+      "grammar_ja": "proposed（過去分詞の形容詞用法）、depend on、未来形。",
+      "chunks": [
+        {
+          "text": "The proposed initial public offering",
+          "role_ja": "主語",
+          "literal_ja": "予定されている新規株式公開",
+          "note_ja": "proposedは「提案されている・予定されている」。"
+        },
+        {
+          "text": "will depend on market conditions and other factors",
+          "role_ja": "述語",
+          "literal_ja": "市場環境とその他の要因に依存する",
+          "note_ja": "depend onは「〜次第だ・〜によって決まる」。"
+        }
+      ],
+      "deep_dive_ja": "企業声明では不確実性を示すためwill depend onやother factorsを並べるのが一般的です。",
+      "difficulty": "easy",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "\"The number of shares to be offered and the price have not yet been set,\" the company added.",
+      "translation_ja": "「発行する株式数と価格はまだ決まっていない」と同社は付け加えた。",
+      "grammar_ja": "受動態（have been set）、to be offered（不定詞の受動）、add（発言の追加）。",
+      "chunks": [
+        {
+          "text": "The number of shares to be offered and the price",
+          "role_ja": "主語",
+          "literal_ja": "発行される予定の株式数と価格",
+          "note_ja": "to be offeredは「提供・発行される予定の」。"
+        },
+        {
+          "text": "have not yet been set",
+          "role_ja": "述語（受動・現在完了）",
+          "literal_ja": "まだ設定されていない",
+          "note_ja": "set a priceは「価格を設定する」。受動で「決まっていない」。"
+        },
+        {
+          "text": "the company added",
+          "role_ja": "主節",
+          "literal_ja": "同社は付け加えた",
+          "note_ja": "addedは前の発言に続く情報を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The filing came just days after the company said it raised $65 billion in a new funding round that valued the OpenAI rival at $965 billion, putting it on the cusp of a trillion-dollar valuation.",
+      "translation_ja": "この提出は、同社が新たな資金調達ラウンドで650億ドルを調達し、OpenAIのライバル企業の評価額を9650億ドルに押し上げ、1兆ドル評価の目前に迫ったと発表してからわずか数日後のことだった。",
+      "grammar_ja": "関係代名詞that、分詞構文（putting...）、on the cusp of。",
+      "chunks": [
+        {
+          "text": "The filing came just days after",
+          "role_ja": "主節",
+          "literal_ja": "提出はわずか数日後に起きた",
+          "note_ja": "just days afterで「ほんの数日前の出来事の直後」。"
+        },
+        {
+          "text": "the company said it raised $65 billion in a new funding round",
+          "role_ja": "従属節",
+          "literal_ja": "同社が新ラウンドで650億ドル調達したと述べた",
+          "note_ja": "funding roundは「資金調達ラウンド」。"
+        },
+        {
+          "text": "that valued the OpenAI rival at $965 billion",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "OpenAIのライバルを9650億ドルと評価した",
+          "note_ja": "value A at Bは「AをBと評価する」。"
+        },
+        {
+          "text": "putting it on the cusp of a trillion-dollar valuation",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "1兆ドル評価の目前に置く結果として",
+          "note_ja": "on the cusp ofは「〜の瀬戸際・目前」。"
+        }
+      ],
+      "deep_dive_ja": "1文に時系列・金額・評価額・比喩が詰まった高密度の金融ニュース文です。cuspは「境界・境目」のイメージです。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The latest fundraising round confirmed Anthropic's place as one of the most significant players in AI, having built its reputation by focusing on delivering generative AI to enterprise clients.",
+      "translation_ja": "最新の資金調達ラウンドは、企業向けに生成AIを提供することに注力して評判を築いてきたアンソロピックが、AI分野で最も重要なプレーヤーの一つである地位を改めて示した。",
+      "grammar_ja": "分詞構文（having built...）、by focusing on、one of the most + 形容詞 + 名詞。",
+      "chunks": [
+        {
+          "text": "The latest fundraising round confirmed Anthropic's place",
+          "role_ja": "主節",
+          "literal_ja": "最新の資金調達が同社の地位を確認した",
+          "note_ja": "confirmはここで「裏付けた・明らかにした」。"
+        },
+        {
+          "text": "as one of the most significant players in AI",
+          "role_ja": "補語",
+          "literal_ja": "AI分野で最も重要なプレーヤーの一つとして",
+          "note_ja": "playerは「市場での主要参加者」。"
+        },
+        {
+          "text": "having built its reputation",
+          "role_ja": "分詞構文（理由）",
+          "literal_ja": "評判を築いてきたことにより",
+          "note_ja": "having + 過去分詞で先行する理由・背景。"
+        },
+        {
+          "text": "by focusing on delivering generative AI to enterprise clients",
+          "role_ja": "方法",
+          "literal_ja": "企業顧客への生成AI提供に注力することで",
+          "note_ja": "enterprise clientsは「法人・企業顧客」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Anthropic's valuation puts it ahead of OpenAI, which was valued at $852 billion in March and is also aiming to go public, with a filing expected imminently.",
+      "translation_ja": "アンソロピックの企業評価額はOpenAIを上回っており、OpenAIは3月に8520億ドルと評価され、こちらも上場を目指しており、提出は間もなくと見られている。",
+      "grammar_ja": "関係代名詞which、with + 名詞 + 過去分詞（付帯状況）、imminently。",
+      "chunks": [
+        {
+          "text": "Anthropic's valuation puts it ahead of OpenAI",
+          "role_ja": "主節",
+          "literal_ja": "アンソロピックの評価額が同社をOpenAIより前に置く",
+          "note_ja": "put A ahead of Bは「AをBより上位にする」。"
+        },
+        {
+          "text": "which was valued at $852 billion in March",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "3月に8520億ドルと評価された",
+          "note_ja": "be valued atで企業価値を示す。"
+        },
+        {
+          "text": "and is also aiming to go public",
+          "role_ja": "関係代名詞節（続き）",
+          "literal_ja": "こちらも上場を目指している",
+          "note_ja": "aim to doは「〜を目指す」。"
+        },
+        {
+          "text": "with a filing expected imminently",
+          "role_ja": "付帯状況",
+          "literal_ja": "提出が間もなく予想される状況で",
+          "note_ja": "with + O + 過去分詞。imminentlyは「間もなく・目前に」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Asked by CNBC about his own company's IPO efforts, OpenAI CEO Sam Altman said that \"going public is a financing event.",
+      "translation_ja": "CNBCに自社のIPO取り組みについて問われたOpenAIのCEOサム・アルトマンは、「上場は資金調達のイベントだ」と述べた。",
+      "grammar_ja": "過去分詞による省略構文（When he was asked...）、間接話法。",
+      "chunks": [
+        {
+          "text": "Asked by CNBC about his own company's IPO efforts",
+          "role_ja": "分詞構文（理由・条件）",
+          "literal_ja": "CNBCに自社のIPO努力について尋ねられた",
+          "note_ja": "主語Sam Altmanが尋ねられた側。When asked by...の省略。"
+        },
+        {
+          "text": "OpenAI CEO Sam Altman said that",
+          "role_ja": "主節",
+          "literal_ja": "OpenAIのCEOサム・アルトマンは〜と述べた",
+          "note_ja": "役職＋名前の語順。"
+        },
+        {
+          "text": "going public is a financing event",
+          "role_ja": "引用内容",
+          "literal_ja": "上場することは資金調達の出来事である",
+          "note_ja": "動名詞going publicが主語。financing eventは「資金調達の場」。"
+        }
+      ],
+      "deep_dive_ja": "ニュースインタビューでは冒頭をAsked by...で始め、誰が何に答えたかを先に示します。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "I don't think that's one that we're focused on.\"",
+      "translation_ja": "「それは私たちが注力しているものではないと思う。」",
+      "grammar_ja": "thinkの否定移動、関係代名詞that、be focused on。",
+      "chunks": [
+        {
+          "text": "I don't think",
+          "role_ja": "主節",
+          "literal_ja": "私は〜と思わない",
+          "note_ja": "否定移動：実際は「that節の内容を否定」。"
+        },
+        {
+          "text": "that's one that we're focused on",
+          "role_ja": "従属節（否定の対象）",
+          "literal_ja": "それは私たちが注力しているものだ",
+          "note_ja": "one = event/thing。be focused onは「〜に注力している」。"
+        }
+      ],
+      "deep_dive_ja": "英語ではI don't think that's...と言い、日本語では「〜ではないと思う」と訳すのが自然です。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "\"I assume we'll do it (at some point),\" Altman added.",
+      "translation_ja": "「いつかはそうするだろうと思う」とアルトマンは付け加えた。",
+      "grammar_ja": "assume + that節（that省略）、at some point。",
+      "chunks": [
+        {
+          "text": "I assume we'll do it",
+          "role_ja": "引用句",
+          "literal_ja": "私たちはそれをするだろうと思う",
+          "note_ja": "assumeは「〜だろうと思う・想定する」。"
+        },
+        {
+          "text": "(at some point)",
+          "role_ja": "副詞句",
+          "literal_ja": "いつかは",
+          "note_ja": "括弧は補足的なニュアンス。緊急性は低い。"
+        },
+        {
+          "text": "Altman added",
+          "role_ja": "主節",
+          "literal_ja": "アルトマンは付け加えた",
+          "note_ja": "前の発言への追加。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Founded in 2021 by siblings Dario and Daniela Amodei and other former executives at OpenAI, Anthropic has positioned itself as a safety-focused alternative in the AI race.",
+      "translation_ja": "2021年にダリオとダニエラ・アモデイ兄妹やOpenAIの元幹部らによって設立されたアンソロピックは、AI競争において安全性重視の選択肢として自らを位置づけてきた。",
+      "grammar_ja": "過去分詞構文（Founded...）、position oneself as、-focused。",
+      "chunks": [
+        {
+          "text": "Founded in 2021 by siblings Dario and Daniela Amodei and other former executives at OpenAI",
+          "role_ja": "過去分詞構文（背景）",
+          "literal_ja": "2021年にアモデイ兄妹とOpenAI元幹部らによって設立されて",
+          "note_ja": "siblingsは「兄妹・きょうだい」。"
+        },
+        {
+          "text": "Anthropic has positioned itself",
+          "role_ja": "主節",
+          "literal_ja": "アンソロピックは自らを位置づけてきた",
+          "note_ja": "position oneself asで「〜として位置づける」。"
+        },
+        {
+          "text": "as a safety-focused alternative in the AI race",
+          "role_ja": "補語",
+          "literal_ja": "AI競争における安全性重視の選択肢として",
+          "note_ja": "-focusedは「〜重視の」。the AI raceは「AI開発競争」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Claude Code, its coding assistant for developers, has become one of its most popular products, helping push its projected annual revenue to $47 billion.",
+      "translation_ja": "開発者向けコーディングアシスタントであるClaude Codeは、同社で最も人気の製品の一つとなり、予想年間売上を470億ドルまで押し上げる一因となっている。",
+      "grammar_ja": "同格の挿入句、分詞構文（helping...）、push ... to。",
+      "chunks": [
+        {
+          "text": "Claude Code, its coding assistant for developers",
+          "role_ja": "主語＋同格説明",
+          "literal_ja": "Claude Code、その開発者向けコーディング助手",
+          "note_ja": "itsはAnthropic's。"
+        },
+        {
+          "text": "has become one of its most popular products",
+          "role_ja": "述語",
+          "literal_ja": "最も人気の製品の一つになった",
+          "note_ja": "become + 補語。"
+        },
+        {
+          "text": "helping push its projected annual revenue to $47 billion",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "予想年間売上を470億ドルに押し上げるのに寄与して",
+          "note_ja": "projected annual revenueは「予想年間売上」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Anthropic's commercial success has been accompanied by difficulties meeting demand for computing power, amid a shortage of chips and servers.",
+      "translation_ja": "アンソロピックの商業的成功には、チップやサーバーの不足の中で計算能力の需要に応える難しさも伴っている。",
+      "grammar_ja": "be accompanied by、動名詞meeting、amid。",
+      "chunks": [
+        {
+          "text": "Anthropic's commercial success has been accompanied by difficulties",
+          "role_ja": "主節",
+          "literal_ja": "商業的成功には困難が伴ってきた",
+          "note_ja": "be accompanied byは「〜が伴う」。"
+        },
+        {
+          "text": "meeting demand for computing power",
+          "role_ja": "動名詞（difficultiesの内容）",
+          "literal_ja": "計算能力の需要に応えること",
+          "note_ja": "meet demandは「需要に応える」。"
+        },
+        {
+          "text": "amid a shortage of chips and servers",
+          "role_ja": "前置詞句",
+          "literal_ja": "チップとサーバーの不足の最中に",
+          "note_ja": "amidは「〜の中で・〜の状況下で」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In recent months, the company has faced criticism from users complaining that they were exhausting their usage quotas too quickly and having to pay high prices to continue.",
+      "translation_ja": "ここ数か月、同社は利用者から、利用枠をあっという間に使い切り、継続するには高額を支払わなければならないと訴える批判に直面している。",
+      "grammar_ja": "現在完了、分詞complaining、that節、have to。",
+      "chunks": [
+        {
+          "text": "In recent months, the company has faced criticism from users",
+          "role_ja": "主節",
+          "literal_ja": "ここ数か月、同社は利用者からの批判に直面した",
+          "note_ja": "face criticismは「批判を受ける」。"
+        },
+        {
+          "text": "complaining that they were exhausting their usage quotas too quickly",
+          "role_ja": "分詞句（usersを修飾）",
+          "literal_ja": "利用枠を速すぎるほど使い切っていると訴えて",
+          "note_ja": "usage quotaは「利用上限・利用枠」。exhaustは「使い切る」。"
+        },
+        {
+          "text": "and having to pay high prices to continue",
+          "role_ja": "分詞句（並列）",
+          "literal_ja": "継続するために高額を払わなければならないと",
+          "note_ja": "having toは「〜しなければならない状況」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In response, Anthropic has struck deals to secure several gigawatts of computing capacity from Amazon, Google and Broadcom.",
+      "translation_ja": "これを受けて、アンソロピックはアマゾン、グーグル、ブロードコムから数ギガワットの計算能力を確保する契約を結んだ。",
+      "grammar_ja": "In response、現在完了、strike deals、不定詞の目的用法。",
+      "chunks": [
+        {
+          "text": "In response",
+          "role_ja": "副詞句",
+          "literal_ja": "これに応じて",
+          "note_ja": "前文の問題への対応を示す。"
+        },
+        {
+          "text": "Anthropic has struck deals",
+          "role_ja": "主節",
+          "literal_ja": "アンソロピックは契約を結んだ",
+          "note_ja": "strike a dealは「契約を結ぶ」。"
+        },
+        {
+          "text": "to secure several gigawatts of computing capacity",
+          "role_ja": "目的",
+          "literal_ja": "数ギガワットの計算能力を確保するために",
+          "note_ja": "gigawattは電力・計算規模の単位。"
+        },
+        {
+          "text": "from Amazon, Google and Broadcom",
+          "role_ja": "前置詞句",
+          "literal_ja": "アマゾン、グーグル、ブロードコムから",
+          "note_ja": "複数社名の並列。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Last month, the company signed a surprise agreement with tech billionaire Elon Musk.",
+      "translation_ja": "先月、同社はテック界の億万長者イーロン・マスクと意外な契約を結んだ。",
+      "grammar_ja": "surpriseの形容詞用法（agreementを修飾）、sign an agreement with。",
+      "chunks": [
+        {
+          "text": "Last month, the company signed a surprise agreement",
+          "role_ja": "主節",
+          "literal_ja": "先月、同社は意外な契約に署名した",
+          "note_ja": "surprise agreementは「想定外の契約」。"
+        },
+        {
+          "text": "with tech billionaire Elon Musk",
+          "role_ja": "前置詞句",
+          "literal_ja": "テック界の億万長者イーロン・マスクと",
+          "note_ja": "tech billionaireは「テック業界の億万長者」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Musk, who is embroiled in a legal battle against the founders of OpenAI, is leasing access to his Colossus data centers to Anthropic for $1.25 billion per month.",
+      "translation_ja": "OpenAI創業者らとの法的争いに巻き込まれているマスクは、自社のColossusデータセンターへのアクセスを月12億5千万ドルでアンソロピックに貸し出している。",
+      "grammar_ja": "関係代名詞who、be embroiled in、lease ... to。",
+      "chunks": [
+        {
+          "text": "Musk, who is embroiled in a legal battle against the founders of OpenAI",
+          "role_ja": "主語＋関係代名詞節",
+          "literal_ja": "OpenAI創業者らとの法的争いに巻き込まれたマスク",
+          "note_ja": "be embroiled inは「〜に巻き込まれている」。"
+        },
+        {
+          "text": "is leasing access to his Colossus data centers to Anthropic",
+          "role_ja": "述語",
+          "literal_ja": "Colossusデータセンターへのアクセスをアンソロピックに貸し出している",
+          "note_ja": "lease A to Bは「Aの利用権をBに貸す」。"
+        },
+        {
+          "text": "for $1.25 billion per month",
+          "role_ja": "前置詞句（価格）",
+          "literal_ja": "月12億5千万ドルで",
+          "note_ja": "per monthは「月あたり」。"
+        }
+      ],
+      "deep_dive_ja": "ライバル関係にある人物・企業間の取引を報じる典型文です。embroiledは「深く関わり苦しんでいる」ニュアンスがあります。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "Located in Memphis, Tennessee, the facility had been underutilized by his xAI lab, the creator of the Grok chatbot.",
+      "translation_ja": "テネシー州メンフィスにあるその施設は、Grokチャットボットの開発元である彼のxAI研究所によって十分に使われていなかった。",
+      "grammar_ja": "過去分詞構文（Located...）、過去完了受動、underutilized。",
+      "chunks": [
+        {
+          "text": "Located in Memphis, Tennessee",
+          "role_ja": "過去分詞構文",
+          "literal_ja": "テネシー州メンフィスに位置して",
+          "note_ja": "所在地の前置き。"
+        },
+        {
+          "text": "the facility had been underutilized by his xAI lab",
+          "role_ja": "主節",
+          "literal_ja": "その施設はxAI研究所によって十分活用されていなかった",
+          "note_ja": "underutilizedは「十分に使われていない」。"
+        },
+        {
+          "text": "the creator of the Grok chatbot",
+          "role_ja": "同格",
+          "literal_ja": "Grokチャットボットの開発元",
+          "note_ja": "xAI labの説明。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Anthropic and OpenAI's IPOs would likely follow Elon Musk's SpaceX to Wall Street.",
+      "translation_ja": "アンソロピックとOpenAIのIPOは、おそらくイーロン・マスクのSpaceXに続いてウォール街（株式市場）に上場することになるだろう。",
+      "grammar_ja": "would likely、follow ... to、所有格の並列。",
+      "chunks": [
+        {
+          "text": "Anthropic and OpenAI's IPOs",
+          "role_ja": "主語",
+          "literal_ja": "アンソロピックとOpenAIのIPO",
+          "note_ja": "OpenAI'sが両社にかかる解釈もあるが、文脈上は両社のIPO。"
+        },
+        {
+          "text": "would likely follow Elon Musk's SpaceX to Wall Street",
+          "role_ja": "述語",
+          "literal_ja": "おそらくマスクのSpaceXに続いてウォール街へ行く",
+          "note_ja": "Wall Streetは比喩で「米国株式市場」。followは「〜に続く」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "SpaceX, which absorbed Musk's AI company xAI, could see shares begin trading as early as June 12.",
+      "translation_ja": "マスクのAI企業xAIを吸収したSpaceXは、早ければ6月12日に株式の取引が始まる可能性がある。",
+      "grammar_ja": "関係代名詞which、see + O + 動詞原形、as early as。",
+      "chunks": [
+        {
+          "text": "SpaceX, which absorbed Musk's AI company xAI",
+          "role_ja": "主語＋関係代名詞節",
+          "literal_ja": "マスクのAI企業xAIを吸収したSpaceX",
+          "note_ja": "absorbは「吸収合併する」。"
+        },
+        {
+          "text": "could see shares begin trading",
+          "role_ja": "述語",
+          "literal_ja": "株式の取引開始を見る可能性がある",
+          "note_ja": "see + O + 原形で「〜が〜するのを見る・経験する」。"
+        },
+        {
+          "text": "as early as June 12",
+          "role_ja": "副詞句",
+          "literal_ja": "早ければ6月12日に",
+          "note_ja": "as early asは「早ければ〜」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The company is targeting a valuation of approximately $1.75 trillion in what would be the largest IPO in history.",
+      "translation_ja": "同社はおよそ1兆7500億ドルの企業価値を目指しており、それは史上最大のIPOとなるだろう。",
+      "grammar_ja": "target a valuation、in what would be...（関係代名詞what）、approximately。",
+      "chunks": [
+        {
+          "text": "The company is targeting a valuation of approximately $1.75 trillion",
+          "role_ja": "主節",
+          "literal_ja": "同社は約1.75兆ドルの評価額を目指している",
+          "note_ja": "targetは「〜を目標にする」。"
+        },
+        {
+          "text": "in what would be the largest IPO in history",
+          "role_ja": "副詞句",
+          "literal_ja": "史上最大のIPOとなるものとして",
+          "note_ja": "what would beは「〜となるであろうもの」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We believe this represents an opening of the floodgates for the IPO market, which has been relatively dormant for a few years,\" said Dan Ives of Wedbush Securities.",
+      "translation_ja": "「これはここ数年比較的低迷していたIPO市場にとって、堰き止めが外れるような転機だと私たちは考えている」とウェドブッシュ・セキュリティーズのダン・アイブスは述べた。",
+      "grammar_ja": "believe + that節、関係代名詞which、比喩opening of the floodgates。",
+      "chunks": [
+        {
+          "text": "We believe this represents an opening of the floodgates for the IPO market",
+          "role_ja": "引用句",
+          "literal_ja": "これはIPO市場にとって堰の開放を表すと信じる",
+          "note_ja": "open the floodgatesは「抑えていたものが一気に溢れる」比喩。"
+        },
+        {
+          "text": "which has been relatively dormant for a few years",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "ここ数年比較的 dormant だった",
+          "note_ja": "dormantは「活動が止まっている・休眠状態の」。"
+        },
+        {
+          "text": "said Dan Ives of Wedbush Securities",
+          "role_ja": "主節",
+          "literal_ja": "ウェドブッシュのダン・アイブスは述べた",
+          "note_ja": "専門家コメントの定型構文。"
+        }
+      ],
+      "deep_dive_ja": "opening of the floodgatesは英語の慣用表現で、長期間控えめだった市場が一気に活況になるイメージです。",
+      "difficulty": "hard",
+      "sentence_id": "s023"
+    },
+    {
+      "text": "Anthropic's IPO filing comes as it navigates a legal dispute with the Pentagon, which designated the company a supply chain risk after it refused to grant the military unfettered access to its AI models.",
+      "translation_ja": "アンソロピックのIPO提出は、同社が国防総省との法的紛争に対応している最中に行われた。国防総省は、同社が軍にAIモデルへの無制限アクセスを許可することを拒否した後、同社をサプライチェーンリスクに指定した。",
+      "grammar_ja": "comes as（〜という状況で起きる）、関係代名詞which、grant access to、unfettered。",
+      "chunks": [
+        {
+          "text": "Anthropic's IPO filing comes as it navigates a legal dispute with the Pentagon",
+          "role_ja": "主節",
+          "literal_ja": "IPO提出は国防総省との法的紛争を乗り越えている最中に来た",
+          "note_ja": "come asは「〜という状況の中で起こる」。navigateは「困難を切り抜ける」。"
+        },
+        {
+          "text": "which designated the company a supply chain risk",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "同社をサプライチェーンリスクと指定した",
+          "note_ja": "designate A Bは「AをBと指定する」。"
+        },
+        {
+          "text": "after it refused to grant the military unfettered access to its AI models",
+          "role_ja": "時間節",
+          "literal_ja": "軍にAIモデルへの無制限アクセスを与えることを拒否した後",
+          "note_ja": "unfetteredは「束縛のない・無制限の」。grant access to。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Anthropic called the Defense Department's move unconstitutional retaliation.",
+      "translation_ja": "アンソロピックは国防総省の措置を違憲的な報復だと呼んだ。",
+      "grammar_ja": "call + O + C（第5文型）、retaliation。",
+      "chunks": [
+        {
+          "text": "Anthropic called the Defense Department's move",
+          "role_ja": "主節",
+          "literal_ja": "アンソロピックは国防総省の措置を〜と呼んだ",
+          "note_ja": "call O Cで「OをCと呼ぶ・評する」。"
+        },
+        {
+          "text": "unconstitutional retaliation",
+          "role_ja": "補語",
+          "literal_ja": "違憲的な報復",
+          "note_ja": "retaliationは「報復・仕返し」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "confidential filing",
+      "pronunciation": "/ˌkɒnfɪˈdenʃl ˈfaɪlɪŋ/",
+      "meaning_ja": "機密提出（IPO書類を非公開でSECに提出する手続き）",
+      "example": "Anthropic had filed confidentially for an IPO.",
+      "example_ja": "アンソロピックは機密提出でIPO手続きを行っていた。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "go public",
+      "pronunciation": "/ɡəʊ ˈpʌblɪk/",
+      "meaning_ja": "株式を公開する、上場する",
+      "example": "Silicon Valley AI companies are aiming to go public.",
+      "example_ja": "シリコンバレーのAI企業が上場を目指している。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "valuation",
+      "pronunciation": "/ˌvæljuˈeɪʃn/",
+      "meaning_ja": "企業評価額、評価",
+      "example": "The funding round valued the company at $965 billion.",
+      "example_ja": "資金調達ラウンドは同社を9650億ドルと評価した。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "on the cusp of",
+      "pronunciation": "/ɒn ðə kʌsp əv/",
+      "meaning_ja": "〜の目前に、〜の瀬戸際に",
+      "example": "The company is on the cusp of a trillion-dollar valuation.",
+      "example_ja": "同社は1兆ドル評価の目前にある。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "fundraising round",
+      "pronunciation": "/ˈfʌndreɪzɪŋ raʊnd/",
+      "meaning_ja": "資金調達ラウンド",
+      "example": "The latest fundraising round confirmed its market position.",
+      "example_ja": "最新の資金調達ラウンドが市場での地位を裏付けた。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "embroiled in",
+      "pronunciation": "/ɪmˈbrɔɪld ɪn/",
+      "meaning_ja": "〜に巻き込まれている、〜の渦中にある",
+      "example": "Musk is embroiled in a legal battle against OpenAI's founders.",
+      "example_ja": "マスクはOpenAI創業者らとの法的争いに巻き込まれている。",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "open the floodgates",
+      "pronunciation": "/ˈəʊpən ðə ˈflʌdɡeɪts/",
+      "meaning_ja": "堰き止めを外す、一気に溢れ出させる（比喩）",
+      "example": "This could represent an opening of the floodgates for the IPO market.",
+      "example_ja": "これはIPO市場の堰き止めが外れる転機となる可能性がある。",
+      "source_sentence_id": "s023"
+    },
+    {
+      "word": "supply chain risk",
+      "pronunciation": "/səˈplaɪ tʃeɪn rɪsk/",
+      "meaning_ja": "サプライチェーン（調達網）リスク",
+      "example": "The Pentagon designated the company a supply chain risk.",
+      "example_ja": "国防総省は同社をサプライチェーンリスクに指定した。",
+      "source_sentence_id": "s024"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-fronting",
+      "title": "Participial phrase at sentence start",
+      "rule": "A past participle or -ing phrase can open a sentence to add background (Founded in..., Asked by..., Located in...).",
+      "example": "Founded in 2021 by siblings Dario and Daniela Amodei, Anthropic has positioned itself as a safety-focused alternative.",
+      "meaning_ja": "文頭の過去分詞や-ing句で背景情報を先に示す手法。日本語の「〜によって設立された〜は」のように訳すと自然。"
+    },
+    {
+      "id": "reported-speech-news",
+      "title": "Reporting verbs in news (said, added, announced)",
+      "rule": "Use said/added/announced + that-clause (or direct quote) to attribute statements; tense may shift in indirect speech.",
+      "example": "\"The number of shares to be offered and the price have not yet been set,\" the company added.",
+      "meaning_ja": "ニュースでは発言を伝える動詞が定型。直接引用なら時制はそのまま、間接話法なら文脈で時制がずれることがある。"
+    },
+    {
+      "id": "relative-clause-nonessential",
+      "title": "Non-defining relative clauses with commas",
+      "rule": "Use which/who clauses set off by commas to add extra information about a noun; no 'that' for non-defining clauses.",
+      "example": "Anthropic's valuation puts it ahead of OpenAI, which was valued at $852 billion in March.",
+      "meaning_ja": "カンマで挟む関係代名詞節は補足説明。日本語では別の文や「〜で、こちらは…」と分けて訳すと読みやすい。"
+    },
+    {
+      "id": "with-absolute",
+      "title": "With + noun + past participle",
+      "rule": "'With + object + past participle' describes an accompanying circumstance or expectation.",
+      "example": "Anthropic's valuation puts it ahead of OpenAI, with a filing expected imminently.",
+      "meaning_ja": "with + 名詞 + 過去分詞で「〜という状況で／〜と見られて」という付帯状況を簡潔に表す。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 25,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:20:58+09:00"
+  },
+  "article_id": "japantoday:2026-06-02:ai-giant-anthropic-confidentially-files-"
+}

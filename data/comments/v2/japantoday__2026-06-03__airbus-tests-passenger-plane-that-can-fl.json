@@ -1,0 +1,85 @@
+{
+  "article_id": "japantoday:2026-06-03:airbus-tests-passenger-plane-that-can-fl",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:28:13+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "That is a long time to spend packed up like a sardine.",
+      "translation_ja": "サバ缶のようにギュウギュウ詰めの状態で、そんなに長い時間を過ごすなんて大変だね。",
+      "notes_ja": [
+        "packed up like a sardine は packed in like sardines（身動きが取れないほど詰め込まれる）という慣用句の言い換え",
+        "packed up は本来「荷造りする」の意味だが、ここでは窮屈に押し込まれるイメージ"
+      ],
+      "standard_en": "That is a long time to spend packed in like sardines.",
+      "marked_terms": [],
+      "comment_id": 5223588,
+      "author": "1glenn",
+      "rating": 10,
+      "posted_at": "2026-06-03T08:23:29+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I could not sit on any plane for 22 hours. I would need a stopover.",
+      "translation_ja": "22時間もどんな飛行機でも座り続けるなんて無理だ。途中で降りるストップオーバーが必要だ。",
+      "notes_ja": [
+        "sit on a plane は「飛行機に乗ったまま座り続ける／そのままいる」という口語的な言い方"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223867,
+      "author": "wallace",
+      "rating": 6,
+      "posted_at": "2026-06-03T10:10:11+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "What is the point? Unless everyone can sleep on flat bed quarters, use showers, I don't see this as a need for many people who fly economy.",
+      "translation_ja": "意味あるの？ 全員がフラットベッドで寝られて、シャワーも使えるのでなければ、エコノミーで飛ぶ多くの人にとって必要なものとは思えない。",
+      "notes_ja": [
+        "flat bed quarters は非標準の言い回しで、おそらく lie-flat beds（完全に寝られる座席）の意味",
+        "Unless の後をコンマでつなぐのは口語的で、教科書では and can use showers と書くことが多い"
+      ],
+      "standard_en": "What is the point? Unless everyone can sleep in lie-flat beds and use showers, I don't see this as something many economy passengers need.",
+      "marked_terms": [],
+      "comment_id": 5224073,
+      "author": "SDCA",
+      "rating": 2,
+      "posted_at": "2026-06-03T12:14:04+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "What is the point? Unless everyone can sleep on flat bed quarters, use showers, I don't see this as a need for many people who fly economy. Because many people will prefer to take one 22hr flight instead of several flights to reach their destination. Personally on long haul I prefer to break the trip up with a transfer despite it adding hours to the trip, but there are occasions when I just take the pain and do it in one shot. This plane increases the options.",
+      "translation_ja": "意味あるの？ 全員がフラットベッドで寝られて、シャワーも使えるのでなければ、エコノミーで飛ぶ多くの人にとって必要なものとは思えない。でも多くの人は、目的地までいくつもの便に乗り継ぐより、22時間の一本便を選ぶだろう。個人的には長距離便は乗り継ぎで区切る方が好きだが、時間は増える。それでも辛抱して一気にやり切るときもある。この飛行機は選択肢を増やすだけだ。",
+      "notes_ja": [
+        "Because で文を始めるのは口語的（接続詞の前にピリオドを置くカンマスプライスに近い）",
+        "take the pain and do it in one shot は「我慢して一発で済ませる」という口語の慣用表現"
+      ],
+      "standard_en": "What is the point? Unless everyone can sleep in lie-flat beds and use showers, I don't see this as something many economy passengers need. Many people will prefer to take one 22-hour flight instead of several flights to reach their destination.",
+      "marked_terms": [],
+      "comment_id": 5224086,
+      "author": "ClippetyClop",
+      "rating": 2,
+      "posted_at": "2026-06-03T12:28:39+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "That is a long time to spend packed up like a sardine. Plenty of room to walk around on those planes. try spending 24-48 hours locked down in a main battle tank (armoured vehicle). Now thats restrictive! And no meal and drink service or restrooms in a tank.",
+      "translation_ja": "サバ缶のようにギュウギュウ詰めの状態で、そんなに長い時間を過ごすなんて大変だね。ああいう飛行機には歩き回るスペースがたっぷりある。主戦車（装甲車）の中で24〜48時間閉じ込められてみろよ。あれこそ窮屈だ！ しかも戦車には食事や飲み物のサービスもトイレもない。",
+      "notes_ja": [
+        "try spending... は「〜してみろよ」という口語の命令形で、相手を論破する比喩",
+        "thats は口語の that's（アポストロフィ省略）"
+      ],
+      "standard_en": "Try spending 24–48 hours locked down in a main battle tank (armored vehicle). Now that's restrictive!",
+      "marked_terms": [],
+      "comment_id": 5224487,
+      "author": "Peter14",
+      "rating": 2,
+      "posted_at": "2026-06-03T19:32:21+09:00"
+    }
+  ]
+}

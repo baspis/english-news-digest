@@ -1,0 +1,1266 @@
+{
+  "summary_ja": "債券市場の金利上昇が、トランプ政権の巨額の予算赤字とインフレ懸念を浮き彫りにし、住宅ローンや借入コストの負担を増やしています。トランプ政権は関税や不正支出削減で赤字を減らすと主張しますが、経済学者はその効果に懐疑的で、金利上昇は11月の中間選挙でも民主党の攻撃材料になっています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The world is getting more uptight about lending money to President Donald Trump's government — causing interest rates to climb in ways that are worsening affordability pressures, hampering economic growth and creating a new risk for Republicans in November's midterm elections.",
+      "translation_ja": "世界はトランプ政権への融資にますます神経質になりつつあり、金利上昇が生活負担を悪化させ、経済成長を阻み、11月の中間選挙で共和党に新たなリスクをもたらしています。",
+      "grammar_ja": "get + 形容詞で変化を表す。em dash（—）後の現在分詞 causing が結果を示す。worsening / hampering / creating は並列の現在分詞。",
+      "chunks": [
+        {
+          "text": "The world",
+          "role_ja": "主語",
+          "literal_ja": "世界は",
+          "note_ja": "ここでは国際金融市場・投資家全体を指す"
+        },
+        {
+          "text": "is getting more uptight about lending money",
+          "role_ja": "述語",
+          "literal_ja": "お金を貸すことについてますます神経質になっている",
+          "note_ja": "uptight は口語的だが経済記事でも「慎重・神経質」の意味で使われる"
+        },
+        {
+          "text": "to President Donald Trump's government",
+          "role_ja": "対象",
+          "literal_ja": "トランプ政権に",
+          "note_ja": "government = 連邦政府・政権"
+        },
+        {
+          "text": "causing interest rates to climb",
+          "role_ja": "結果",
+          "literal_ja": "金利上昇を引き起こし",
+          "note_ja": "cause + O + to不定詞"
+        },
+        {
+          "text": "in ways that are worsening affordability pressures",
+          "role_ja": "方法・様態",
+          "literal_ja": "生活負担を悪化させる形で",
+          "note_ja": "affordability = 手が届く価格・購買力"
+        },
+        {
+          "text": "hampering economic growth and creating a new risk for Republicans",
+          "role_ja": "並列の結果",
+          "literal_ja": "経済成長を阻み共和党に新リスクを生む",
+          "note_ja": "midterm elections = 中間選挙（大統領選の2年後）"
+        }
+      ],
+      "deep_dive_ja": "uptight は日常会話寄りだが、ここでは債券市場の警戒感を擬人化している。affordability pressures は住宅・物価・借入コストの総合的な負担を指す経済記事の定型表現。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "The energy price spike triggered by the Iran war has seeped into the price of bonds that help fund the U.S. government.",
+      "translation_ja": "イラン戦争が引き起こしたエネルギー価格の急騰が、米国政府の資金調達に使われる国債の価格にも染み出しています。",
+      "grammar_ja": "過去分詞 triggered by が spike を修飾。seep into は「徐々に浸透する」の慣用表現。that節が bonds を修飾。",
+      "chunks": [
+        {
+          "text": "The energy price spike",
+          "role_ja": "主語",
+          "literal_ja": "エネルギー価格の急騰が",
+          "note_ja": "spike = 急激な上昇"
+        },
+        {
+          "text": "triggered by the Iran war",
+          "role_ja": "後置修飾",
+          "literal_ja": "イラン戦争によって引き起こされた",
+          "note_ja": "受動の意味を過去分詞で表す"
+        },
+        {
+          "text": "has seeped into the price of bonds",
+          "role_ja": "述語",
+          "literal_ja": "国債価格に染み出してきた",
+          "note_ja": "seep into = ゆっくり広がる・影響する"
+        },
+        {
+          "text": "that help fund the U.S. government",
+          "role_ja": "関係詞節",
+          "literal_ja": "米国政府の資金調達に役立つ",
+          "note_ja": "fund = 資金を供給する"
+        }
+      ],
+      "deep_dive_ja": "seep は本来「染み出す」。エネルギー市場の混乱が債券市場に波及する様子を視覚的に表現している。",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Interest rates on a 10-year U.S.",
+      "translation_ja": "10年物米国",
+      "grammar_ja": "次文とつながる文の断片。Treasury note（国債）の修飾句。",
+      "chunks": [
+        {
+          "text": "Interest rates",
+          "role_ja": "主語（次文へ）",
+          "literal_ja": "金利が",
+          "note_ja": "本文全体の主題"
+        },
+        {
+          "text": "on a 10-year U.S.",
+          "role_ja": "前置詞句",
+          "literal_ja": "10年物米国の",
+          "note_ja": "U.S. Treasury note = 米国10年国債"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "Treasury note are topping 4.44%, up from 3.95% before the war started at the end of February.",
+      "translation_ja": "国債の金利は4.44%を超え、2月末の戦争開始前の3.95%から上昇しています。",
+      "grammar_ja": "top = 上回る。up from は前の水準との比較。before the war started は時を表す副詞節。",
+      "chunks": [
+        {
+          "text": "Treasury note",
+          "role_ja": "主語の一部",
+          "literal_ja": "国債の",
+          "note_ja": "前の文と合わせて 10-year U.S. Treasury note"
+        },
+        {
+          "text": "are topping 4.44%",
+          "role_ja": "述語",
+          "literal_ja": "4.44%を上回っている",
+          "note_ja": "top を動詞で「〜を超える」"
+        },
+        {
+          "text": "up from 3.95%",
+          "role_ja": "比較",
+          "literal_ja": "3.95%から上昇して",
+          "note_ja": "up from = 以前の水準からの上昇"
+        },
+        {
+          "text": "before the war started at the end of February",
+          "role_ja": "時",
+          "literal_ja": "2月末に戦争が始まる前",
+          "note_ja": "at the end of February = 2月末"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "Average mortgage rates have climbed to their highest levels in nine months, while auto sales are slumping.",
+      "translation_ja": "平均的な住宅ローン金利は9か月ぶりの高水準に上昇し、自動車販売は低迷しています。",
+      "grammar_ja": "現在完了 have climbed。while は対比を示す。slump = 急減・低迷。",
+      "chunks": [
+        {
+          "text": "Average mortgage rates",
+          "role_ja": "主語",
+          "literal_ja": "平均的な住宅ローン金利は",
+          "note_ja": "mortgage = 住宅ローン"
+        },
+        {
+          "text": "have climbed to their highest levels in nine months",
+          "role_ja": "述語",
+          "literal_ja": "9か月ぶりの最高水準まで上昇した",
+          "note_ja": "in nine months = 9か月という期間内で"
+        },
+        {
+          "text": "while auto sales are slumping",
+          "role_ja": "対比",
+          "literal_ja": "一方で自動車販売は低迷している",
+          "note_ja": "slump = 落ち込む・不振になる"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "The challenge is global in scale, as interest rates have risen for multiple countries as the world has been adjusting to the prospect of higher inflation, mounting questions about the sustainability of government debt and a dramatic surge in investment in artificial intelligence.",
+      "translation_ja": "この課題は世界的な規模であり、世界がインフレ上昇の見通し、政府債務の持続可能性への疑問の高まり、AIへの投資急増に適応する中、複数国で金利が上昇しています。",
+      "grammar_ja": "as節が2つ並ぶ（理由・背景）。mounting questions = 増大する疑問。prospect of = 〜の見通し。",
+      "chunks": [
+        {
+          "text": "The challenge is global in scale",
+          "role_ja": "主節",
+          "literal_ja": "課題は世界的な規模だ",
+          "note_ja": "in scale = 規模の点で"
+        },
+        {
+          "text": "interest rates have risen for multiple countries",
+          "role_ja": "as節内の主節",
+          "literal_ja": "複数国で金利が上昇した",
+          "note_ja": "複数国にまたがる現象"
+        },
+        {
+          "text": "as the world has been adjusting to the prospect of higher inflation",
+          "role_ja": "理由",
+          "literal_ja": "世界がインフレ上昇の見通しに適応している一方で",
+          "note_ja": "has been adjusting = 継続的な適応"
+        },
+        {
+          "text": "mounting questions about the sustainability of government debt",
+          "role_ja": "並列名詞句",
+          "literal_ja": "政府債務の持続可能性への疑問の高まり",
+          "note_ja": "sustainability = 持続可能性"
+        },
+        {
+          "text": "a dramatic surge in investment in artificial intelligence",
+          "role_ja": "並列名詞句",
+          "literal_ja": "AIへの投資の劇的な急増",
+          "note_ja": "surge = 急増"
+        }
+      ],
+      "deep_dive_ja": "一文に複数の as 節があり、背景説明が重なる。B2学習者は節の境界をマークしながら読むと理解しやすい。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Trump has tried to assure Americans that he has a plan to trim the roughly $1.8 trillion annual budget deficit.",
+      "translation_ja": "トランプ氏は、年間約1.8兆ドルの予算赤字を削減する計画があると米国人に安心させようとしています。",
+      "grammar_ja": "assure + O + that節。trim = 削減する（口語的）。roughly = およそ。",
+      "chunks": [
+        {
+          "text": "Trump has tried to assure Americans",
+          "role_ja": "主節",
+          "literal_ja": "トランプは米国人を安心させようとしてきた",
+          "note_ja": "assure = 確信させる・安心させる"
+        },
+        {
+          "text": "that he has a plan",
+          "role_ja": "that節",
+          "literal_ja": "計画があると",
+          "note_ja": "間接話法"
+        },
+        {
+          "text": "to trim the roughly $1.8 trillion annual budget deficit",
+          "role_ja": "不定詞",
+          "literal_ja": "年間約1.8兆ドルの予算赤字を削るために",
+          "note_ja": "trim = cut down。budget deficit = 歳出が歳入を上回る額"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the past, he has pointed to revenue from tariffs, payments from foreigners for his \"Gold Card\" visa, spending cuts made by the Department of Government Efficiency, and faster economic growth.",
+      "translation_ja": "これまで彼は、関税収入、外国人向け「ゴールドカード」ビザの支払い、政府効率化省による支出削減、より速い経済成長を根拠に挙げてきました。",
+      "grammar_ja": "point to = 〜を根拠・例として示す。made by は spending cuts を修飾。並列の名詞句。",
+      "chunks": [
+        {
+          "text": "In the past",
+          "role_ja": "時",
+          "literal_ja": "これまで",
+          "note_ja": "過去の言動を振り返る"
+        },
+        {
+          "text": "he has pointed to revenue from tariffs",
+          "role_ja": "述語＋目的語1",
+          "literal_ja": "関税収入を挙げてきた",
+          "note_ja": "point to = 指し示す・根拠にする"
+        },
+        {
+          "text": "payments from foreigners for his \"Gold Card\" visa",
+          "role_ja": "目的語2",
+          "literal_ja": "外国人のゴールドカードビザ支払い",
+          "note_ja": "固有名詞的な政策名称"
+        },
+        {
+          "text": "spending cuts made by the Department of Government Efficiency",
+          "role_ja": "目的語3",
+          "literal_ja": "政府効率化省による支出削減",
+          "note_ja": "made by = 〜によって行われた"
+        },
+        {
+          "text": "and faster economic growth",
+          "role_ja": "目的語4",
+          "literal_ja": "より速い経済成長",
+          "note_ja": "並列で4つの財源・手段"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "Last week, he said the fraud task force led by Vice President JD Vance would be the key to unlocking massive savings.",
+      "translation_ja": "先週、副大統領JD・ヴァンスが率いる詐欺対策タスクフォースが巨額の節約を実現する鍵になると彼は述べました。",
+      "grammar_ja": "led by は task force を修飾。the key to unlocking = 〜を実現する鍵。",
+      "chunks": [
+        {
+          "text": "Last week",
+          "role_ja": "時",
+          "literal_ja": "先週",
+          "note_ja": "報道の時系列"
+        },
+        {
+          "text": "the fraud task force led by Vice President JD Vance",
+          "role_ja": "主語",
+          "literal_ja": "ヴァンス副大統領が率いる詐欺対策タスクフォースが",
+          "note_ja": "led by = 〜に率いられた"
+        },
+        {
+          "text": "would be the key to unlocking massive savings",
+          "role_ja": "述語",
+          "literal_ja": "巨額の節約を実現する鍵になるだろう",
+          "note_ja": "unlock = 引き出す・実現する"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "\"If he does really great, we'll have a balanced budget without having to do anything,\" Trump said.",
+      "translation_ja": "「彼が本当にうまくやれば、何もしなくても均衡予算にできる」とトランプ氏は言いました。",
+      "grammar_ja": "without having to do anything = 何もしなくても。balanced budget = 収支均衡。",
+      "chunks": [
+        {
+          "text": "If he does really great",
+          "role_ja": "条件節",
+          "literal_ja": "もし彼が本当にうまくやれば",
+          "note_ja": "口語的な really great"
+        },
+        {
+          "text": "we'll have a balanced budget",
+          "role_ja": "主節",
+          "literal_ja": "均衡予算にできる",
+          "note_ja": "balanced budget = 赤字のない予算"
+        },
+        {
+          "text": "without having to do anything",
+          "role_ja": "付加",
+          "literal_ja": "何もしなくても",
+          "note_ja": "without having to = 〜する必要なく"
+        }
+      ],
+      "deep_dive_ja": "トランプ氏の発言は意図的に単純化・楽観的なトーン。記者はその後すぐ経済学者の反論を続ける構成。",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Economists say Trump's strategies to meaningfully curb the deficit are unlikely to deliver the promised results.",
+      "translation_ja": "経済学者は、トランプ氏の赤字を実質的に抑制する戦略は、約束された成果をもたらす可能性は低いと述べています。",
+      "grammar_ja": "meaningfully curb = 実質的に抑制。be unlikely to deliver = 〜する可能性は低い。",
+      "chunks": [
+        {
+          "text": "Economists say",
+          "role_ja": "主節",
+          "literal_ja": "経済学者は言う",
+          "note_ja": "権威ある反論の導入"
+        },
+        {
+          "text": "Trump's strategies to meaningfully curb the deficit",
+          "role_ja": "that節の主語",
+          "literal_ja": "赤字を実質的に抑制するトランプの戦略は",
+          "note_ja": "meaningfully = 実質的に・有意に"
+        },
+        {
+          "text": "are unlikely to deliver the promised results",
+          "role_ja": "述語",
+          "literal_ja": "約束された結果をもたらす可能性は低い",
+          "note_ja": "be unlikely to = 〜しそうにない"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "The cost of servicing the national debt has tripled since 2021 to more than $1 trillion annually, said Jessica Riedl, a budget and tax fellow at the Brookings Institution.",
+      "translation_ja": "ブルッキングス研究所の予算・税制フェロー、ジェシカ・リードル氏は、国債の利払い費用は2021年以降3倍に増え、年間1兆ドルを超えたと述べました。",
+      "grammar_ja": "倒置構文（said が文末）。has tripled since 2021。servicing the debt = 債務の利払い。",
+      "chunks": [
+        {
+          "text": "The cost of servicing the national debt",
+          "role_ja": "主語",
+          "literal_ja": "国債の利払い費用は",
+          "note_ja": "service a debt = 利子を払う"
+        },
+        {
+          "text": "has tripled since 2021 to more than $1 trillion annually",
+          "role_ja": "述語",
+          "literal_ja": "2021年以降3倍になり年間1兆ドル超えた",
+          "note_ja": "triple = 3倍になる"
+        },
+        {
+          "text": "said Jessica Riedl, a budget and tax fellow at the Brookings Institution",
+          "role_ja": "引用動詞＋話者",
+          "literal_ja": "リードル氏は述べた",
+          "note_ja": "fellow = 研究フェロー"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "\"President Trump signed a tax cut bill that will likely add $5 trillion to 10-year deficits — and tariffs are offsetting only a small fraction of those costs,\" she said. \"Budget deficits are still projected to soar past $4 trillion annually within a decade under current policies.\"",
+      "translation_ja": "「トランプ大統領は10年間の赤字に5兆ドル追加する可能性のある減税法案に署名した。関税はそのコストのごく一部にしか充当していない」と彼女は言った。「現行政策のままでは、予算赤字は10年以内に年間4兆ドルを超えて急増すると予測されている。」",
+      "grammar_ja": "offset = 相殺・充当。soar past = 〜を大きく上回って急増。projected to = 〜と予測される。",
+      "chunks": [
+        {
+          "text": "a tax cut bill that will likely add $5 trillion to 10-year deficits",
+          "role_ja": "引用1の内容",
+          "literal_ja": "10年赤字に5兆ドル追加する減税法案",
+          "note_ja": "10-year deficits = 10年間の累積赤字"
+        },
+        {
+          "text": "tariffs are offsetting only a small fraction of those costs",
+          "role_ja": "対比",
+          "literal_ja": "関税はその費用のほんの一部にしか充当していない",
+          "note_ja": "offset = 相殺する"
+        },
+        {
+          "text": "Budget deficits are still projected to soar past $4 trillion annually",
+          "role_ja": "引用2",
+          "literal_ja": "予算赤字は年間4兆ドル超へ急増すると予測",
+          "note_ja": "soar = 急上昇する"
+        },
+        {
+          "text": "within a decade under current policies",
+          "role_ja": "条件",
+          "literal_ja": "現行政策のまま10年以内に",
+          "note_ja": "within a decade = 10年以内"
+        }
+      ],
+      "deep_dive_ja": "二重引用で専門家の批判を強調。fraction は数学的・経済的な「割合」を表す。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Deficits are expected to grow over the next decade as the costs of Social Security and Medicare outstrip tax revenues.",
+      "translation_ja": "社会保障とメディケアの費用が税収を上回るため、赤字は今後10年間拡大すると予想されています。",
+      "grammar_ja": "as = 理由。outstrip = 上回る・凌駕する。be expected to = 〜と予想される。",
+      "chunks": [
+        {
+          "text": "Deficits are expected to grow over the next decade",
+          "role_ja": "主節",
+          "literal_ja": "赤字は今後10年で拡大すると予想される",
+          "note_ja": "over the next decade = 今後10年にわたって"
+        },
+        {
+          "text": "as the costs of Social Security and Medicare outstrip tax revenues",
+          "role_ja": "理由節",
+          "literal_ja": "社会保障とメディケア費が税収を上回るため",
+          "note_ja": "outstrip = exceed。高齢化社会の構造問題"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "Treasury rate climbed as high as 4.67% in the middle of May and has since eased as negotiations over the Iran ceasefire continued — just as rates initially climbed in 2025 because of Trump's \"Liberation Day\" tariffs and then began to decline once Trump backed off the most extreme increases.",
+      "translation_ja": "国債金利は5月中旬に4.67%まで上昇したが、イラン停戦交渉の継続に伴いその後緩和した。2025年にトランプの「解放の日」関税で当初上昇し、最も極端な引き上げを撤回すると低下し始めたのと同様の動きだ。",
+      "grammar_ja": "has since eased = その後緩和した。just as = ちょうど〜のときと同様に。backed off = 後退・撤回した。",
+      "chunks": [
+        {
+          "text": "Treasury rate climbed as high as 4.67% in the middle of May",
+          "role_ja": "主節1",
+          "literal_ja": "国債金利は5月中旬4.67%まで上昇",
+          "note_ja": "as high as = 最大で"
+        },
+        {
+          "text": "has since eased as negotiations over the Iran ceasefire continued",
+          "role_ja": "主節2",
+          "literal_ja": "停戦交渉継続でその後緩和",
+          "note_ja": "since = その後"
+        },
+        {
+          "text": "just as rates initially climbed in 2025 because of Trump's \"Liberation Day\" tariffs",
+          "role_ja": "比較",
+          "literal_ja": "2025年に関税で当初上昇したのと同様に",
+          "note_ja": "固有名詞的な政策ラベル"
+        },
+        {
+          "text": "then began to decline once Trump backed off the most extreme increases",
+          "role_ja": "比較続き",
+          "literal_ja": "極端な引き上げ撤回で低下し始めた",
+          "note_ja": "back off = 引く・撤回する"
+        }
+      ],
+      "deep_dive_ja": "長い一文で過去のパターンと現在を対比。読者はダッシュ（—）で区切って2つの時系列を追うとよい。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "When Kent Smetters, faculty director of the Penn Wharton Budget Model, broke down the math tied to rising 30-year Treasury yields, he estimated that 60% of the increase had come from the expectation that America will continue its outsized borrowing and the other 40% was tied to the inflation driven by the Iran war and Trump's tariffs.",
+      "translation_ja": "ペン・ウォートン予算モデルの研究責任者ケント・スメッターズ氏が30年国債利回り上昇の計算を分解したところ、増加分の60%は米国が過大な借入を続けるとの見通しによるもので、残り40%はイラン戦争とトランプ関税がもたらすインフレに起因すると推定した。",
+      "grammar_ja": "When節が時間の背景。had come from = 〜に由来していた（過去完了）。was tied to = 〜と結びついていた。",
+      "chunks": [
+        {
+          "text": "When Kent Smetters ... broke down the math tied to rising 30-year Treasury yields",
+          "role_ja": "時の副詞節",
+          "literal_ja": "スメッターズ氏が30年国債利回り上昇の計算を分解したとき",
+          "note_ja": "break down = 分解・分析する"
+        },
+        {
+          "text": "60% of the increase had come from the expectation that America will continue its outsized borrowing",
+          "role_ja": "推定1",
+          "literal_ja": "増加の60%は過大な借入継続の見通しによる",
+          "note_ja": "outsized = 通常を超えた規模の"
+        },
+        {
+          "text": "the other 40% was tied to the inflation driven by the Iran war and Trump's tariffs",
+          "role_ja": "推定2",
+          "literal_ja": "残り40%は戦争と関税によるインフレに関連",
+          "note_ja": "be tied to = 〜と結びつく"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "Glenn Hubbard, a former chairman of the White House Council of Economic Advisers during the George W.",
+      "translation_ja": "ジョージ・W・",
+      "grammar_ja": "次文とつながる固有名の断片。",
+      "chunks": [
+        {
+          "text": "Glenn Hubbard",
+          "role_ja": "主語",
+          "literal_ja": "グレン・ハバードは",
+          "note_ja": "経済学者・元政府高官"
+        },
+        {
+          "text": "a former chairman of the White House Council of Economic Advisers during the George W.",
+          "role_ja": "同格",
+          "literal_ja": "ジョージ・W・",
+          "note_ja": "次文の Bush administration と続く"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "Bush administration, worries that the U.S. may no longer have the same borrowing capacity as before to effectively combat an economic crisis, such as the 2008 crash or the coronavirus pandemic.",
+      "translation_ja": "ブッシュ政権時の元ホワイトハウス経済諮問委員会議長は、米国が2008年の金融危機やコロナ禍のような経済危機に効果的に対処するための、以前と同じ借入余力をもはや持てないかもしれないと懸念しています。",
+      "grammar_ja": "may no longer have = もはや〜を持てないかもしれない。borrowing capacity = 借入余力。combat a crisis = 危機に対処する。",
+      "chunks": [
+        {
+          "text": "Bush administration",
+          "role_ja": "時・所属",
+          "literal_ja": "ブッシュ政権時代の",
+          "note_ja": "前の文と合わせて固有名"
+        },
+        {
+          "text": "worries that the U.S. may no longer have the same borrowing capacity as before",
+          "role_ja": "主節",
+          "literal_ja": "米国が以前と同じ借入余力を持てないかもと懸念",
+          "note_ja": "as before = 以前のように"
+        },
+        {
+          "text": "to effectively combat an economic crisis",
+          "role_ja": "目的",
+          "literal_ja": "経済危機に効果的に対処するために",
+          "note_ja": "combat = 戦う・対処する"
+        },
+        {
+          "text": "such as the 2008 crash or the coronavirus pandemic",
+          "role_ja": "例示",
+          "literal_ja": "2008年危機やコロナ禍など",
+          "note_ja": "具体例で説明"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "\"I don't think we have the space that we had in 2008 or 2020 to deal with it,\" said Hubbard, now a professor at Columbia University's Business School. \"Washington doesn't seem to be full of ideas — good or bad — to solve it.\"",
+      "translation_ja": "「2008年や2020年にあったような対処の余地はないと思う」と、現在コロンビア大学ビジネススクール教授のハバード氏は言った。「ワシントンには、良い悪いを問わず、それを解決するアイデアがあふれているようには見えない。」",
+      "grammar_ja": "the space = 余地・余力（比喩）。be full of ideas = アイデアにあふれている。good or bad は皮肉を含む。",
+      "chunks": [
+        {
+          "text": "I don't think we have the space that we had in 2008 or 2020 to deal with it",
+          "role_ja": "引用1",
+          "literal_ja": "2008年や2020年のような対処余地はない",
+          "note_ja": "space = room/margin for action"
+        },
+        {
+          "text": "said Hubbard, now a professor at Columbia University's Business School",
+          "role_ja": "話者",
+          "literal_ja": "ハバード教授は述べた",
+          "note_ja": "now = 現在は"
+        },
+        {
+          "text": "Washington doesn't seem to be full of ideas — good or bad — to solve it",
+          "role_ja": "引用2",
+          "literal_ja": "ワシントンは解決策のアイデアに乏しい",
+          "note_ja": "皮肉：良い悪いどちらの案もない"
+        }
+      ],
+      "deep_dive_ja": "space は物理的空間ではなく財政・政策の「余力」。good or bad の挿入は政権批判のニュアンス。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Higher interest rates are giving Democratic candidates in the races to determine control of the House and Senate another line of attack at a time when voters are concerned about high costs for food and gasoline.",
+      "translation_ja": "金利上昇は、有権者が食料やガソリンの高騰を懸念する中、下院と上院の支配権を争う選挙で民主党候補に新たな攻撃材料を与えています。",
+      "grammar_ja": "give + O + another line of attack。races to determine control = 支配権を決める選挙。at a time when = 〜している時に。",
+      "chunks": [
+        {
+          "text": "Higher interest rates are giving Democratic candidates",
+          "role_ja": "主節",
+          "literal_ja": "金利上昇が民主党候補に与えている",
+          "note_ja": "give の第4文型"
+        },
+        {
+          "text": "in the races to determine control of the House and Senate",
+          "role_ja": "場所",
+          "literal_ja": "上下院支配権を争う選挙で",
+          "note_ja": "midterm の文脈"
+        },
+        {
+          "text": "another line of attack",
+          "role_ja": "直接目的語",
+          "literal_ja": "もう一つの攻撃材料を",
+          "note_ja": "line of attack = 攻撃の口実・論点"
+        },
+        {
+          "text": "at a time when voters are concerned about high costs for food and gasoline",
+          "role_ja": "時",
+          "literal_ja": "有権者が食料・ガソリン高を懸念する時に",
+          "note_ja": "生活コストが選挙争点"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "In Colorado's fifth congressional district, Democrat Jessica Killin is leaning into the message that the persistent deficits and higher interest rates make it harder to buy or renovate a home, afford a new car or manage credit card debt.",
+      "translation_ja": "コロラド州第5選挙区では、民主党のジェシカ・キリン氏が、慢性化した赤字と金利上昇が住宅の購入・改修、新車の購入、クレジットカード債務の管理をより困難にしているというメッセージを前面に出しています。",
+      "grammar_ja": "lean into = 〜を前面に押し出す。make it harder to = 〜するのをより困難にする。並列の不定詞。",
+      "chunks": [
+        {
+          "text": "In Colorado's fifth congressional district",
+          "role_ja": "場所",
+          "literal_ja": "コロラド第5選挙区で",
+          "note_ja": "congressional district = 連邦議会選挙区"
+        },
+        {
+          "text": "Democrat Jessica Killin is leaning into the message",
+          "role_ja": "主節",
+          "literal_ja": "キリン氏がメッセージを前面に出している",
+          "note_ja": "lean into = 積極的に訴える"
+        },
+        {
+          "text": "that the persistent deficits and higher interest rates make it harder to buy or renovate a home",
+          "role_ja": "that節",
+          "literal_ja": "赤字と金利上昇が住宅購入・改修を困難にする",
+          "note_ja": "make it + 形容詞 + to不定詞"
+        },
+        {
+          "text": "afford a new car or manage credit card debt",
+          "role_ja": "並列",
+          "literal_ja": "新車購入やカード債務管理も",
+          "note_ja": "具体的生活負担を列挙"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "\"Things are already expensive,\" said Killin, an Army veteran who was a top aide to Doug Emhoff, the former second gentleman. \"We can already talk about gas, but the cost of borrowing only makes that worse.\"",
+      "translation_ja": "「物価はすでに高い」と、元セカンドジェントルマン・ダグ・エムホフ氏の側近だった陸軍退役軍人のキリン氏は言った。「ガソリンの話はできるが、借入コストがそれをさらに悪化させる。」",
+      "grammar_ja": "second gentleman = 副大統領の配偶者（男性）。the cost of borrowing = 借入コスト・金利負担。",
+      "chunks": [
+        {
+          "text": "\"Things are already expensive,\" said Killin",
+          "role_ja": "引用1",
+          "literal_ja": "「すでに高い」とキリンは言った",
+          "note_ja": "already で現状の厳しさ"
+        },
+        {
+          "text": "an Army veteran who was a top aide to Doug Emhoff, the former second gentleman",
+          "role_ja": "同格",
+          "literal_ja": "エムホフ元セカンドジェントルマンの側近だった退役軍人",
+          "note_ja": "経歴で信頼性を補強"
+        },
+        {
+          "text": "\"We can already talk about gas, but the cost of borrowing only makes that worse.\"",
+          "role_ja": "引用2",
+          "literal_ja": "ガソリンの話はできるが借入コストが悪化させる",
+          "note_ja": "only = さらに・その上"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "Joe Reagan, an Army veteran also seeking the Democratic nomination, said in an email that he is talking \"a lot about fiscal stewardship\" in his campaign. \"Every dollar spent paying interest is a dollar that isn't being invested in infrastructure, education, veterans' services, or economic growth,\" he said.",
+      "translation_ja": "民主党候補を目指す退役軍人のジョー・レーガン氏もメールで、選挙戦で「財政管理」をたびたび訴えていると述べた。「利払いに使われる1ドルは、インフラ、教育、退役軍人サービス、経済成長に投資されない1ドルだ」と彼は言った。",
+      "grammar_ja": "fiscal stewardship = 財政管理・財政規律。Every X is a Y that... の対句構文。",
+      "chunks": [
+        {
+          "text": "Joe Reagan ... said in an email that he is talking \"a lot about fiscal stewardship\" in his campaign",
+          "role_ja": "主節",
+          "literal_ja": "レーガン氏は財政管理を訴えていると述べた",
+          "note_ja": "fiscal stewardship = 財政の健全な運営"
+        },
+        {
+          "text": "\"Every dollar spent paying interest is a dollar that isn't being invested in infrastructure, education, veterans' services, or economic growth,\"",
+          "role_ja": "引用",
+          "literal_ja": "利払いの1ドルは投資されない1ドル",
+          "note_ja": "対句で財政の機会費用を強調"
+        },
+        {
+          "text": "he said",
+          "role_ja": "引用動詞",
+          "literal_ja": "彼は言った",
+          "note_ja": "メール引用の締め"
+        }
+      ],
+      "deep_dive_ja": "Every A is a B that isn't... は政治スピーチでよく使われるリズムのある構文。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "They are challenging Republican Rep.",
+      "translation_ja": "彼らは共和党の",
+      "grammar_ja": "次文とつながる断片。challenging = 立候補して対決する。",
+      "chunks": [
+        {
+          "text": "They",
+          "role_ja": "主語",
+          "literal_ja": "彼らは",
+          "note_ja": "キリンら民主党候補"
+        },
+        {
+          "text": "are challenging Republican Rep.",
+          "role_ja": "述語",
+          "literal_ja": "共和党の下院議員に挑戦している",
+          "note_ja": "Rep. = Representative"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "Jeff Crank in a district that their party views as a potential pickup.",
+      "translation_ja": "ジェフ・クランク氏に、党が獲得の可能性があると見る選挙区で対決しています。",
+      "grammar_ja": "views as = 〜と見なす。potential pickup = 奪取可能な議席。",
+      "chunks": [
+        {
+          "text": "Jeff Crank",
+          "role_ja": "目的語",
+          "literal_ja": "ジェフ・クランクに",
+          "note_ja": "現職共和党議員"
+        },
+        {
+          "text": "in a district that their party views as a potential pickup",
+          "role_ja": "場所",
+          "literal_ja": "党が奪取可能と見る選挙区で",
+          "note_ja": "pickup = 他党から奪う議席"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "Killin said the deficit is an example of how \"Trump says one thing and does the opposite.\"",
+      "translation_ja": "キリン氏は、赤字は「トランプは一方で言い、反対のことをする」典型例だと述べました。",
+      "grammar_ja": "says one thing and does the opposite = 言行不一致の慣用表現。",
+      "chunks": [
+        {
+          "text": "Killin said",
+          "role_ja": "主節",
+          "literal_ja": "キリンは言った",
+          "note_ja": "攻撃的メッセージ"
+        },
+        {
+          "text": "the deficit is an example of how",
+          "role_ja": "that節",
+          "literal_ja": "赤字は〜の典型例だ",
+          "note_ja": "example of how = 〜の仕方の例"
+        },
+        {
+          "text": "\"Trump says one thing and does the opposite.\"",
+          "role_ja": "引用",
+          "literal_ja": "言行不一致",
+          "note_ja": "選挙キャンペーンの定番批判"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "In his March 2025 address to Congress, Trump declared that \"in the near future, I want to do what has not been done in 24 years: balance the federal budget.",
+      "translation_ja": "2025年3月の議会演説で、トランプ氏は「近い将来、24年間誰も成し遂げられなかったことをしたい。連邦予算の均衡を取る。そうするつもりだ」と宣言しました。",
+      "grammar_ja": "what has not been done = 関係代名詞what。コロン後が具体内容。",
+      "chunks": [
+        {
+          "text": "In his March 2025 address to Congress",
+          "role_ja": "時・場所",
+          "literal_ja": "2025年3月の議会演説で",
+          "note_ja": "address = 公式演説"
+        },
+        {
+          "text": "Trump declared that",
+          "role_ja": "主節",
+          "literal_ja": "トランプは宣言した",
+          "note_ja": "declared = 公式に宣言"
+        },
+        {
+          "text": "\"in the near future, I want to do what has not been done in 24 years: balance the federal budget.\"",
+          "role_ja": "引用",
+          "literal_ja": "24年ぶりに連邦予算均衡を",
+          "note_ja": "balance the budget = 収支均衡"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "We're going to balance it.\"",
+      "translation_ja": "均衡を取るつもりだ。」",
+      "grammar_ja": "前の引用の続き。We're going to = 〜するつもりだ。",
+      "chunks": [
+        {
+          "text": "We're going to balance it.",
+          "role_ja": "引用の続き",
+          "literal_ja": "均衡を取るつもりだ",
+          "note_ja": "it = the federal budget"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "Crank, the Republican incumbent, did not reply to requests for comment.",
+      "translation_ja": "共和党現職のクランク氏はコメント依頼に応じませんでした。",
+      "grammar_ja": "incumbent = 現職。did not reply to requests for comment = 報道の定型句。",
+      "chunks": [
+        {
+          "text": "Crank, the Republican incumbent",
+          "role_ja": "主語",
+          "literal_ja": "共和党現職のクランクは",
+          "note_ja": "incumbent = 現職者"
+        },
+        {
+          "text": "did not reply to requests for comment",
+          "role_ja": "述語",
+          "literal_ja": "コメント依頼に応じなかった",
+          "note_ja": "ニュース記事の決まり文句"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "The administration maintains that it is going to steadily reduce budget deficits.",
+      "translation_ja": "政権は予算赤字を着実に削減していくと主張しています。",
+      "grammar_ja": "maintains that = 〜と主張する。steadily reduce = 着実に削減する。",
+      "chunks": [
+        {
+          "text": "The administration maintains",
+          "role_ja": "主節",
+          "literal_ja": "政権は主張する",
+          "note_ja": "maintain = 一貫して主張する"
+        },
+        {
+          "text": "that it is going to steadily reduce budget deficits",
+          "role_ja": "that節",
+          "literal_ja": "赤字を着実に削減するつもりだと",
+          "note_ja": "be going to = 〜する予定・意図"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "As a share of the overall economy, the deficit last year was lower than it was in 2024, though that drop depended in part on tariff revenues that are subject to refunds after the Supreme Court ruled them to be illegal.",
+      "translation_ja": "経済全体に占める割合では昨年の赤字は2024年より低かったが、その減少は一部関税収入に依存しており、最高裁が違法と判決した後返金の対象となっている。",
+      "grammar_ja": "As a share of = 〜に占める割合として。be subject to = 〜の対象となる。ruled them to be illegal = 違法と判決した。",
+      "chunks": [
+        {
+          "text": "As a share of the overall economy, the deficit last year was lower than it was in 2024",
+          "role_ja": "主節",
+          "literal_ja": "経済比では昨年の赤字は2024年より低かった",
+          "note_ja": "GDP比で比較"
+        },
+        {
+          "text": "though that drop depended in part on tariff revenues",
+          "role_ja": "譲歩",
+          "literal_ja": "ただし減少は一部関税収入に依存",
+          "note_ja": "in part = 部分的に"
+        },
+        {
+          "text": "that are subject to refunds after the Supreme Court ruled them to be illegal",
+          "role_ja": "関係詞節",
+          "literal_ja": "最高裁違法判決後に返金対象となる",
+          "note_ja": "subject to = 〜の対象"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "Treasury Secretary Scott Bessent last week cited a report showing that there was as much as $500 billion annually in fraudulent government spending that could be eliminated, \"so that would reduce the deficit substantially.\"",
+      "translation_ja": "財務長官スコット・ベッセント氏は先週、年間最大5000億ドルの不正な政府支出を排除できれば「赤字を大幅に削減できる」とする報告書を引用した。",
+      "grammar_ja": "cited a report showing that...。as much as = 最大で。substantially = 大幅に。",
+      "chunks": [
+        {
+          "text": "Treasury Secretary Scott Bessent last week cited a report",
+          "role_ja": "主節",
+          "literal_ja": "ベッセント財務長官が報告を引用",
+          "note_ja": "cite = 引用・根拠に挙げる"
+        },
+        {
+          "text": "showing that there was as much as $500 billion annually in fraudulent government spending that could be eliminated",
+          "role_ja": "分詞句",
+          "literal_ja": "年間最大5000億ドルの不正支出を排除できると示す",
+          "note_ja": "fraudulent = 不正な"
+        },
+        {
+          "text": "\"so that would reduce the deficit substantially.\"",
+          "role_ja": "引用",
+          "literal_ja": "赤字を大幅に削減できる",
+          "note_ja": "substantially = かなりの程度"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "Bessent appeared to draw that conclusion from a 2024 report by the Government Accountability Office that estimated there had been between $233 billion to $521 billion each year in fraudulent spending.",
+      "translation_ja": "ベッセント氏はその結論を、年間2330億〜5210億ドルの不正支出があったと推定した政府会計監査局の2024年報告書から導いたように見えた。",
+      "grammar_ja": "appeared to draw = 〜から導いたように見えた。estimated there had been = 〜があったと推定した。",
+      "chunks": [
+        {
+          "text": "Bessent appeared to draw that conclusion from a 2024 report",
+          "role_ja": "主節",
+          "literal_ja": "ベッセントは2024年報告から結論を導いたようだった",
+          "note_ja": "appeared to = 〜のように見えた"
+        },
+        {
+          "text": "by the Government Accountability Office",
+          "role_ja": "修飾",
+          "literal_ja": "政府会計監査局による",
+          "note_ja": "GAO = 連邦の監査機関"
+        },
+        {
+          "text": "that estimated there had been between $233 billion to $521 billion each year in fraudulent spending",
+          "role_ja": "関係詞節",
+          "literal_ja": "年間2330億〜5210億ドルの不正支出を推定",
+          "note_ja": "between A to B = AからBの間"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "text": "But those numbers were drawn in part from the pandemic era when the government borrowed heavily to stabilize the economy.",
+      "translation_ja": "しかしその数字は、政府が経済安定のため大量に借り入れしたパンデミック期のデータを一部含んでいた。",
+      "grammar_ja": "were drawn in part from = 一部〜から引き出された。borrowed heavily = 大量に借り入れした。",
+      "chunks": [
+        {
+          "text": "But those numbers were drawn in part from the pandemic era",
+          "role_ja": "主節",
+          "literal_ja": "しかし数字は一部パンデミック期から得られた",
+          "note_ja": "記者の事実確認・批判"
+        },
+        {
+          "text": "when the government borrowed heavily to stabilize the economy",
+          "role_ja": "時の関係詞節",
+          "literal_ja": "政府が経済安定のため大量借入した時期",
+          "note_ja": "stabilize = 安定させる"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "The White House and Treasury did not respond to questions about the source of Bessent's claims.",
+      "translation_ja": "ホワイトハウスと財務省は、ベッセント氏の主張の出所についての質問に答えませんでした。",
+      "grammar_ja": "did not respond to questions about = 〜についての質問に答えなかった。",
+      "chunks": [
+        {
+          "text": "The White House and Treasury",
+          "role_ja": "主語",
+          "literal_ja": "ホワイトハウスと財務省は",
+          "note_ja": "両機関"
+        },
+        {
+          "text": "did not respond to questions about the source of Bessent's claims",
+          "role_ja": "述語",
+          "literal_ja": "主張の出所についての質問に答えなかった",
+          "note_ja": "報道の事実確認が不十分な示唆"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "text": "On deficits, Bessent told reporters at the White House that the administration was essentially dealt a bad hand from former President Joe Biden, a Democrat. \"We inherited the worst budget deficit in history — in history — when we were not in a recession or not at war,\" Bessent said.",
+      "translation_ja": "赤字についてベッセント氏はホワイトハウスで記者に、政権は実質的に民主党のジョー・バイデン前大統領から不利な状況を引き継いだと述べた。「不況でも戦争でもないのに、史上最大の予算赤字を引き継いだ」とベッセントは言った。",
+      "grammar_ja": "was dealt a bad hand = 不利な状況を与えられた（ポーカー比喩）。inherited = 引き継いだ。",
+      "chunks": [
+        {
+          "text": "On deficits, Bessent told reporters at the White House",
+          "role_ja": "主節導入",
+          "literal_ja": "赤字についてベッセントは記者に述べた",
+          "note_ja": "On deficits = 赤字問題について"
+        },
+        {
+          "text": "that the administration was essentially dealt a bad hand from former President Joe Biden",
+          "role_ja": "that節",
+          "literal_ja": "政権はバイデンから不利な状況を与えられた",
+          "note_ja": "deal a bad hand = 悪い手札を配る"
+        },
+        {
+          "text": "\"We inherited the worst budget deficit in history — in history — when we were not in a recession or not at war,\"",
+          "role_ja": "引用",
+          "literal_ja": "不況でも戦争でもないのに史上最大赤字を引き継いだ",
+          "note_ja": "in history の反復で強調"
+        }
+      ],
+      "deep_dive_ja": "dealt a bad hand は責任転嫁の比喩。not in a recession or not at war は通常なら赤字が許容されない状況だったと主張。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Bessent had previously announced that the administration would aim to reduce the annual deficit to 3% of overall U.S. gross domestic product.",
+      "translation_ja": "ベッセント氏は以前、政権が年間赤字を米国GDP全体の3%まで削減することを目指すと発表していました。",
+      "grammar_ja": "aim to reduce = 削減を目指す。as a share of GDP = GDP比で。",
+      "chunks": [
+        {
+          "text": "Bessent had previously announced",
+          "role_ja": "主節",
+          "literal_ja": "ベッセントは以前発表した",
+          "note_ja": "過去完了で以前の発言"
+        },
+        {
+          "text": "that the administration would aim to reduce the annual deficit to 3% of overall U.S. gross domestic product",
+          "role_ja": "that節",
+          "literal_ja": "年間赤字をGDPの3%まで削減する目標",
+          "note_ja": "gross domestic product = 国内総生産"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "It's roughly double that percentage currently and Bessent did not directly answer a question about the timeline for hitting his target.",
+      "translation_ja": "現在はおおよそその2倍の水準であり、ベッセント氏は目標達成の時期についての質問に直接答えませんでした。",
+      "grammar_ja": "It's roughly double = おおよそ2倍。did not directly answer = 直接答えなかった。",
+      "chunks": [
+        {
+          "text": "It's roughly double that percentage currently",
+          "role_ja": "主節1",
+          "literal_ja": "現在はおおよそその2倍だ",
+          "note_ja": "that percentage = 3%"
+        },
+        {
+          "text": "Bessent did not directly answer a question about the timeline for hitting his target",
+          "role_ja": "主節2",
+          "literal_ja": "目標達成時期の質問に直接答えなかった",
+          "note_ja": "timeline = スケジュール・時期"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "As of now, investors continue to buy shares in U.S. companies, causing the stock market to increase in value in a sign of confidence in America's economic potential.",
+      "translation_ja": "現時点では投資家は米国企業の株式を買い続けており、株価上昇は米国の経済潜在力への信頼の表れとなっています。",
+      "grammar_ja": "As of now = 現時点では。causing ... in a sign of = 〜の兆しとして。",
+      "chunks": [
+        {
+          "text": "As of now, investors continue to buy shares in U.S. companies",
+          "role_ja": "主節",
+          "literal_ja": "投資家は米国株を買い続けている",
+          "note_ja": "債券と株の対比の導入"
+        },
+        {
+          "text": "causing the stock market to increase in value",
+          "role_ja": "結果",
+          "literal_ja": "株価上昇をもたらし",
+          "note_ja": "cause + O + to不定詞"
+        },
+        {
+          "text": "in a sign of confidence in America's economic potential",
+          "role_ja": "意味",
+          "literal_ja": "経済潜在力への信頼の表れとして",
+          "note_ja": "in a sign of = 〜の兆候として"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "But the increase in interest rates also suggests that investors view the national debt as a vulnerability for the U.S.",
+      "translation_ja": "しかし金利上昇は、投資家が国債を米国の脆弱性と見ていることも示唆しています。",
+      "grammar_ja": "suggests that = 〜を示唆する。view ... as = 〜を〜と見なす。vulnerability = 脆弱性。",
+      "chunks": [
+        {
+          "text": "But the increase in interest rates also suggests",
+          "role_ja": "主節",
+          "literal_ja": "しかし金利上昇も示唆する",
+          "note_ja": "But で対比"
+        },
+        {
+          "text": "that investors view the national debt as a vulnerability for the U.S.",
+          "role_ja": "that節",
+          "literal_ja": "投資家が国債を米国の脆弱性と見ている",
+          "note_ja": "view A as B"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "The financial markets might be able to inflict enough pain with higher rates in order to compel political leaders to address the systemic imbalances.",
+      "translation_ja": "金融市場は金利上昇で十分な痛みを与え、政治指導者に体系的な不均衡への対処を迫れるかもしれません。",
+      "grammar_ja": "inflict pain = 痛みを与える。in order to compel = 〜を強いるために。systemic imbalances = 体系的な不均衡。",
+      "chunks": [
+        {
+          "text": "The financial markets might be able to inflict enough pain with higher rates",
+          "role_ja": "主節",
+          "literal_ja": "金融市場は金利上昇で十分な痛みを与えられるかも",
+          "note_ja": "inflict = 与える（ネガティブ）"
+        },
+        {
+          "text": "in order to compel political leaders to address the systemic imbalances",
+          "role_ja": "目的",
+          "literal_ja": "政治家に体系的不均衡への対処を強いるために",
+          "note_ja": "compel = 強制する"
+        }
+      ],
+      "deep_dive_ja": "市場が「政治的圧力装置」として機能するという経済ジャーナリズムの典型論点。",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Multiple economists said they expected that markets would force the deficit issue before voters would.",
+      "translation_ja": "複数の経済学者は、有権者より先に市場が赤字問題を解決を迫ると予想していると述べました。",
+      "grammar_ja": "expected that = 〜と予想した。force the issue = 問題を前に出させる・解決を迫る。",
+      "chunks": [
+        {
+          "text": "Multiple economists said they expected",
+          "role_ja": "主節",
+          "literal_ja": "複数の経済学者は予想していると述べた",
+          "note_ja": "権威ある見通し"
+        },
+        {
+          "text": "that markets would force the deficit issue before voters would",
+          "role_ja": "that節",
+          "literal_ja": "市場が有権者より先に赤字問題を迫る",
+          "note_ja": "force the issue = 問題を顕在化させる"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "Hubbard emphasized that the whole bond market system rests on the trust that the debt will be repaid.",
+      "translation_ja": "ハバード氏は、債券市場全体の仕組みは債務が返済されるという信頼の上に成り立っていると強調しました。",
+      "grammar_ja": "rests on = 〜に依存して成り立つ。emphasized that = 〜と強調した。",
+      "chunks": [
+        {
+          "text": "Hubbard emphasized",
+          "role_ja": "主節",
+          "literal_ja": "ハバードは強調した",
+          "note_ja": "結論部の核心的メッセージ"
+        },
+        {
+          "text": "that the whole bond market system rests on the trust that the debt will be repaid",
+          "role_ja": "that節",
+          "literal_ja": "債券市場は返済への信頼の上に成り立つ",
+          "note_ja": "rest on = 基盤とする"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "text": "He noted that the word \"credit\" is linked to a Latin term that is also the root of the word creed about a system of beliefs.",
+      "translation_ja": "彼は「credit（信用）」という語が、信念体系を意味する creed（信条）と同じ語源のラテン語にもつながると指摘した。",
+      "grammar_ja": "is linked to = 〜と結びついている。the root of = 〜の語源・根。",
+      "chunks": [
+        {
+          "text": "He noted that the word \"credit\"",
+          "role_ja": "主節",
+          "literal_ja": "creditという語は",
+          "note_ja": "語源学的な説明"
+        },
+        {
+          "text": "is linked to a Latin term",
+          "role_ja": "述語",
+          "literal_ja": "ラテン語に結びついている",
+          "note_ja": "linked to = 関連する"
+        },
+        {
+          "text": "that is also the root of the word creed about a system of beliefs",
+          "role_ja": "関係詞節",
+          "literal_ja": "信条creedの語源でもある",
+          "note_ja": "credere（信じる）が語源"
+        }
+      ],
+      "deep_dive_ja": "credit / creed / credible はラテン語 credere（信じる）に由来。経済記事の締めくくりに知的な比喩を添えている。",
+      "difficulty": "medium"
+    },
+    {
+      "text": "\"That is what debt is about: I believe you will pay me back,\" Hubbard said. \"That works until it doesn't.\"",
+      "translation_ja": "「それが債務の本質だ。返してくれると信じている。うまくいく限りはね」とハバード氏は言った。",
+      "grammar_ja": "That is what ... is about = それが〜の本質だ。That works until it doesn't = うまくいくまでの話（皮肉）。",
+      "chunks": [
+        {
+          "text": "\"That is what debt is about: I believe you will pay me back,\"",
+          "role_ja": "引用1",
+          "literal_ja": "債務は返済への信頼だ",
+          "note_ja": "what ... is about = 本質"
+        },
+        {
+          "text": "Hubbard said.",
+          "role_ja": "話者",
+          "literal_ja": "ハバードは言った",
+          "note_ja": ""
+        },
+        {
+          "text": "\"That works until it doesn't.\"",
+          "role_ja": "引用2",
+          "literal_ja": "うまくいく限りは",
+          "note_ja": "簡潔な警鐘。信頼崩壊のリスク"
+        }
+      ],
+      "deep_dive_ja": "記事全体を締める名文。until it doesn't は口語的だが、財政・債券市場の信頼の脆弱性を一言で表す。",
+      "difficulty": "medium"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "budget deficit",
+      "pronunciation": "/ˈbʌdʒɪt ˈdɛfəsɪt/",
+      "meaning_ja": "予算赤字（政府の支出が収入を上回る額）",
+      "example": "Trump has tried to assure Americans that he has a plan to trim the roughly $1.8 trillion annual budget deficit.",
+      "example_ja": "トランプ氏は年間約1.8兆ドルの予算赤字を削減する計画があると米国人に安心させようとしている。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "Treasury note",
+      "pronunciation": "/ˈtrɛʒəri noʊt/",
+      "meaning_ja": "米国国債（特に中長期の債券）",
+      "example": "Treasury note are topping 4.44%, up from 3.95% before the war started.",
+      "example_ja": "国債の金利は4.44%を超え、戦争開始前の3.95%から上昇している。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "offset",
+      "pronunciation": "/ˈɔːfset/",
+      "meaning_ja": "相殺する、（費用などを）一部充当する",
+      "example": "Tariffs are offsetting only a small fraction of those costs.",
+      "example_ja": "関税はそのコストのごく一部にしか充当していない。",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "outstrip",
+      "pronunciation": "/aʊtˈstrɪp/",
+      "meaning_ja": "〜を上回る、凌駕する",
+      "example": "Deficits are expected to grow as the costs of Social Security and Medicare outstrip tax revenues.",
+      "example_ja": "社会保障とメディケアの費用が税収を上回るため、赤字は拡大すると予想される。",
+      "source_sentence_id": "s014"
+    },
+    {
+      "word": "fiscal stewardship",
+      "pronunciation": "/ˈfɪskəl ˈstjuːərdʃɪp/",
+      "meaning_ja": "財政管理、財政規律",
+      "example": "He is talking \"a lot about fiscal stewardship\" in his campaign.",
+      "example_ja": "彼は選挙戦で「財政管理」をたびたび訴えている。",
+      "source_sentence_id": "s023"
+    },
+    {
+      "word": "servicing (the debt)",
+      "pronunciation": "/ˈsɜːrvɪsɪŋ/",
+      "meaning_ja": "（国債などの）利払い、債務の利息支払い",
+      "example": "The cost of servicing the national debt has tripled since 2021.",
+      "example_ja": "国債の利払い費用は2021年以降3倍になった。",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "lean into",
+      "pronunciation": "/liːn ˈɪntuː/",
+      "meaning_ja": "（メッセージなどを）前面に押し出す、積極的に訴える",
+      "example": "Democrat Jessica Killin is leaning into the message that persistent deficits make it harder to buy a home.",
+      "example_ja": "キリン氏は慢性化した赤字が住宅購入を困難にしているというメッセージを前面に出している。",
+      "source_sentence_id": "s021"
+    },
+    {
+      "word": "vulnerability",
+      "pronunciation": "/ˌvʌlnərəˈbɪləti/",
+      "meaning_ja": "脆弱性、弱点",
+      "example": "Investors view the national debt as a vulnerability for the U.S.",
+      "example_ja": "投資家は国債を米国の脆弱性と見ている。",
+      "source_sentence_id": "s040"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "present-participle-result",
+      "title": "Present participle for result (-ing clause)",
+      "rule": "A comma or dash followed by -ing phrases can show result or consequence (e.g., causing..., hampering...).",
+      "example": "Interest rates are climbing, causing affordability pressures and hampering economic growth.",
+      "meaning_ja": "カンマやダッシュの後に現在分詞を置くと、結果・帰結を示せる。ニュース英語で因果関係を簡潔に述べるときによく使われる。"
+    },
+    {
+      "id": "reporting-verbs-inversion",
+      "title": "Reporting verb placement (end position)",
+      "rule": "In news writing, the reporting clause (said X) often comes at the end after a long quote or fact.",
+      "example": "The cost of servicing the national debt has tripled since 2021, said Jessica Riedl.",
+      "meaning_ja": "報道英語では引用動詞（said 〜）を文末に置き、事実や数字を先に示す。日本語の語順とは異なるので注意。"
+    },
+    {
+      "id": "view-as-pattern",
+      "title": "view/see/regard A as B",
+      "rule": "Use view/see/regard + object + as + noun/adjective to express how something is perceived.",
+      "example": "Investors view the national debt as a vulnerability for the U.S.",
+      "meaning_ja": "view A as B で「AをBと見なす」。経済・政治記事で評価や認識を述べる頻出パターン。"
+    },
+    {
+      "id": "be-unlikely-to",
+      "title": "be unlikely to + verb",
+      "rule": "Use be unlikely to to express low probability in a formal, objective tone.",
+      "example": "Trump's strategies are unlikely to deliver the promised results.",
+      "meaning_ja": "be unlikely to は「〜する可能性は低い」。probably won't より客観的・フォーマルで、分析記事向き。"
+    }
+  ]
+}

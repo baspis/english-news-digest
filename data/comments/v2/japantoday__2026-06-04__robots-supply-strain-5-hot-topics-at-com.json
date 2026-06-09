@@ -1,0 +1,26 @@
+{
+  "article_id": "japantoday:2026-06-04:robots-supply-strain-5-hot-topics-at-com",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:31:09+09:00",
+  "fetched_at": "2026-06-09T22:51:55+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "five hot topics at Taipei's huge Computex trade show Qualcomm CEO Cristiano Amon said on stage - Nvidia said PCs containing its new RTX Spark chip, Massive demand has sent profits skyrocketing for memory chip makers like South Korea's SK hynix and Samsung Electronics, So trade show is being held in Taiwan, and non of any Japanese companies in spotlight. What's happened to Japan, which identic to robot?",
+      "translation_ja": "台北の巨大なコンピュテックス見本市で話題の5テーマ——ステージでクアルコムのクリスティアーノ・アモンCEOが語り、エヌビディアは新しいRTX Sparkチップ搭載PCについて述べ、需要の急増で韓国のSKハイニックスやサムスン電子などのメモリーチップメーカーの利益が急上昇している。見本市は台湾で開催されているのに、スポットライトを浴びている日本企業は一社もない。ロボット大国のはずの日本はどうなってしまったのか？",
+      "notes_ja": [
+        "記事の見出しや抜粋をつなぎ合わせたような断片的な英文で、主語・述語の対応が崩れている（ネイティブの速記・コピペ風）。",
+        "\"non of\" は \"none of\" の誤り。\"which identic to robot\" は \"which is identical to robots\" の省略・誤用（be動詞と複数形が欠けている）。"
+      ],
+      "standard_en": "Five hot topics at Taipei's huge Computex trade show: Qualcomm CEO Cristiano Amon spoke on stage, Nvidia talked about PCs with its new RTX Spark chip, and massive demand has sent profits skyrocketing for memory chip makers like South Korea's SK hynix and Samsung Electronics. The trade show is being held in Taiwan, yet none of the companies in the spotlight are Japanese. What's happened to Japan, which is known for robots?",
+      "marked_terms": [],
+      "comment_id": 5224772,
+      "author": "sakurasuki",
+      "rating": -4,
+      "posted_at": "2026-06-04T07:39:33+09:00"
+    }
+  ]
+}

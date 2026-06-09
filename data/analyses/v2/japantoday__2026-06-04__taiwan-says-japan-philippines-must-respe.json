@@ -1,0 +1,503 @@
+{
+  "summary_ja": "台湾は、日本とフィリピンが海上境界の協議を行う際に台湾の権利と領土を尊重するよう求めた。両国の交渉区域は台湾の排他的経済水域と重なるため、台湾は主権と国際法上の権利が「争いの余地がない」と主張している。中国の反発と海上警備隊の動きに対し、台湾は中国の代表発言を認めず、地域の平和と安定を損なう行為を許さないと述べた。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Taiwan has asked that Japan and the Philippines respect its rights and territory when they hold talks on their maritime border, Taipei's foreign ministry said on Wednesday.",
+      "translation_ja": "台湾は、日本とフィリピンが海上境界について協議を行う際に、台湾の権利と領土を尊重するよう求めたと、台北の外務省が水曜日に述べた。",
+      "grammar_ja": "has asked that + 動詞の原形は「要求・要請」の仮定法。when節は「〜する際に」。文末の said on Wednesday は報道文の倒置（間接話法）。",
+      "chunks": [
+        {
+          "text": "Taiwan has asked",
+          "role_ja": "主語＋述語",
+          "literal_ja": "台湾は求めてきた",
+          "note_ja": "ask that ... は公式な要請を表す。has asked は最近の行動を示す現在完了。"
+        },
+        {
+          "text": "that Japan and the Philippines respect its rights and territory",
+          "role_ja": "that節（内容）",
+          "literal_ja": "日本とフィリピンがその権利と領土を尊重すること",
+          "note_ja": "that節内は仮定法で respect（原形）。its は台湾を指す。"
+        },
+        {
+          "text": "when they hold talks on their maritime border",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "彼らが海上境界について協議を行うとき",
+          "note_ja": "hold talks on ... は「〜について協議する」の定番表現。maritime border は海上境界。"
+        },
+        {
+          "text": "Taipei's foreign ministry said on Wednesday",
+          "role_ja": "引用の出所（倒置）",
+          "literal_ja": "台北の外務省は水曜日に述べた",
+          "note_ja": "ニュース英語では発言者を文末に置く倒置が頻出。"
+        }
+      ],
+      "deep_dive_ja": "respect its rights and territory は外交文書でよく使われる定型表現。learners は ask to respect と混同しがちだが、that節を使うとより公式・強い要請になる。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Japan and the Philippines said last month they would begin formal talks on delimiting the maritime boundary of the exclusive economic zone and the continental shelf between the two countries \"in accordance with international law\".",
+      "translation_ja": "日本とフィリピンは先月、両国間の排他的経済水域と大陸棚の海上境界を画定するための正式な協議を、国際法に従って開始する予定だと述べた。",
+      "grammar_ja": "said の後は間接話法で would begin。on delimiting は「〜することについて」の動名詞。in accordance with は公式文書の決まり文句。",
+      "chunks": [
+        {
+          "text": "Japan and the Philippines said last month",
+          "role_ja": "主語＋述語＋時",
+          "literal_ja": "日本とフィリピンは先月述べた",
+          "note_ja": "said last month で過去の発表時期を明示。"
+        },
+        {
+          "text": "they would begin formal talks",
+          "role_ja": "間接話法のthat節",
+          "literal_ja": "彼らは正式な協議を始めるだろう",
+          "note_ja": "would は未来の予定を過去時点から見た間接話法。"
+        },
+        {
+          "text": "on delimiting the maritime boundary",
+          "role_ja": "前置詞句（話題）",
+          "literal_ja": "海上境界を画定することについて",
+          "note_ja": "delimit は境界を決める専門用語。talks on + 動名詞。"
+        },
+        {
+          "text": "of the exclusive economic zone and the continental shelf",
+          "role_ja": "修飾語",
+          "literal_ja": "排他的経済水域と大陸棚の",
+          "note_ja": "EEZ と continental shelf は国際法の基本語彙。"
+        },
+        {
+          "text": "between the two countries",
+          "role_ja": "場所・関係の修飾",
+          "literal_ja": "両国の間の",
+          "note_ja": "the two countries は直前の日本とフィリピンを受ける。"
+        },
+        {
+          "text": "\"in accordance with international law\"",
+          "role_ja": "引用句（条件・根拠）",
+          "literal_ja": "国際法に従って",
+          "note_ja": "外交声明で頻出の格式ある表現。"
+        }
+      ],
+      "deep_dive_ja": "delimiting the maritime boundary は「海上境界を画定する」。begin talks on ... と set phrase として覚えると読みやすい。in accordance with は according to より公式。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "China, which views democratically governed Taiwan as its own territory, has condemned the move and this week sent coast guard ships off Taiwan's east coast in response, drawing an angry reaction from Taipei.",
+      "translation_ja": "民主的に統治される台湾を自国の領土と見なす中国は、この動きを非難し、今週は対抗措置として台湾東岸沖に海上警備隊の船を派遣し、台北の強い反発を招いた。",
+      "grammar_ja": "which による非制限的関係代名詞。views A as B は「AをBと見なす」。sent ... in response と drawing ... は結果・付随を表す分詞構文。",
+      "chunks": [
+        {
+          "text": "China",
+          "role_ja": "主語",
+          "literal_ja": "中国は",
+          "note_ja": "文の主語。後続の関係節で修飾される。"
+        },
+        {
+          "text": "which views democratically governed Taiwan as its own territory",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "民主的に統治される台湾を自国の領土と見なす",
+          "note_ja": "view ... as ... は認識・立場の表現。democratically governed は過去分詞の形容詞用法。"
+        },
+        {
+          "text": "has condemned the move",
+          "role_ja": "述語（前半）",
+          "literal_ja": "その動きを非難してきた",
+          "note_ja": "the move は前の日菲協議開始のこと。"
+        },
+        {
+          "text": "and this week sent coast guard ships off Taiwan's east coast in response",
+          "role_ja": "述語（後半）",
+          "literal_ja": "そして今週、対抗して台湾東岸沖に海上警備隊の船を送った",
+          "note_ja": "off は「〜沖に」。in response は「それに対応して」。"
+        },
+        {
+          "text": "drawing an angry reaction from Taipei",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "台北の怒りの反応を引き起こし",
+          "note_ja": "現在分詞で結果を付加するニュース文体。"
+        }
+      ],
+      "deep_dive_ja": "coast guard ships は「海上警備隊の船」。Taipei は首都名で政府・当局を代弁するメトニミー。angry reaction は diplomatic protest の婉曲な言い方。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Taiwan's foreign ministry said its representative offices in Japan and the Philippines would seek confirmation that the negotiation process and outcomes of any future agreements \"will not affect the sovereign rights Taiwan enjoys under international law\".",
+      "translation_ja": "台湾の外務省は、日本とフィリピンにある代表部局が、今後の合意の交渉過程と結果について、国際法の下で台湾が享受する主権的権利に影響を与えないことを確認しようとすると述べた。",
+      "grammar_ja": "would seek confirmation that ... は間接話法＋名詞節。enjoys under international law は権利の法的根拠を示す。outcomes of any future agreements は複数の名詞が連なる長い名詞句。",
+      "chunks": [
+        {
+          "text": "Taiwan's foreign ministry said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "台湾の外務省は述べた",
+          "note_ja": "発言の出所を示す定型句。"
+        },
+        {
+          "text": "its representative offices in Japan and the Philippines",
+          "role_ja": "主語（間接話法内）",
+          "literal_ja": "日本とフィリピンにあるその代表部局は",
+          "note_ja": "representative office は大使館に準じる在外機関。"
+        },
+        {
+          "text": "would seek confirmation",
+          "role_ja": "述語",
+          "literal_ja": "確認を求めるだろう",
+          "note_ja": "seek confirmation は公式に確認を取る表現。"
+        },
+        {
+          "text": "that the negotiation process and outcomes of any future agreements",
+          "role_ja": "that節（確認内容の主語部分）",
+          "literal_ja": "今後の合意の交渉過程と結果が",
+          "note_ja": "process and outcomes を並列で列挙。"
+        },
+        {
+          "text": "\"will not affect the sovereign rights Taiwan enjoys under international law\"",
+          "role_ja": "that節（述語部分）",
+          "literal_ja": "国際法の下で台湾が享受する主権的権利に影響しない",
+          "note_ja": "sovereign rights は主権に基づく権利。enjoy rights は権利を有する。"
+        }
+      ],
+      "deep_dive_ja": "seek confirmation that ... は外交交渉で「〜でないことを確認する」という慎重な表現。enjoys は「楽しむ」以外に権利・地位を「有する」意味でも使われる。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Taiwan's sovereignty over its territory and relevant waters, as well as its rights under international law, are \"indisputable\", the ministry said.",
+      "translation_ja": "領土と関連水域に対する台湾の主権、ならびに国際法上の権利は「争いの余地がない」と、同省は述べた。",
+      "grammar_ja": "主語が複数要素（sovereignty ... as well as rights）なので動詞は are。over / under は前置詞で対象・根拠を示す。indisputable は外交声明の強い断定語。",
+      "chunks": [
+        {
+          "text": "Taiwan's sovereignty over its territory and relevant waters",
+          "role_ja": "主語（部分1）",
+          "literal_ja": "領土と関連水域に対する台湾の主権",
+          "note_ja": "sovereignty over ... は「〜に対する主権」。relevant waters は関連海域。"
+        },
+        {
+          "text": "as well as its rights under international law",
+          "role_ja": "主語（部分2）",
+          "literal_ja": "国際法の下でのその権利もまた",
+          "note_ja": "as well as は追加・並列。under international law は法的枠組み。"
+        },
+        {
+          "text": "are \"indisputable\"",
+          "role_ja": "述語",
+          "literal_ja": "争いの余地がない",
+          "note_ja": "外交文書で立場を強く示す形容詞。"
+        },
+        {
+          "text": "the ministry said",
+          "role_ja": "引用の出所",
+          "literal_ja": "省は述べた",
+          "note_ja": "the ministry は前出の外務省を受ける。"
+        }
+      ],
+      "deep_dive_ja": "indisputable は undisputed と似ているが、より「議論の余地がない」という断定的な響き。主語が長いので動詞の一致に注意。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Given that the maritime area where Japan and the Philippines intend to negotiate boundaries overlaps with Taiwan's exclusive economic zone off its eastern coast, the ministry said it calls on both countries to fully consider Taiwan's rights and interests and engage in talks.",
+      "translation_ja": "日本とフィリピンが境界交渉を行う予定の海域が、台湾東岸沖の排他的経済水域と重なっていることを踏まえ、同省は両国に対し、台湾の権利と利益を十分に考慮し、協議に参加するよう求めたと述べた。",
+      "grammar_ja": "Given that ... は理由・背景を示す。where節は area を修飾。calls on A to do B は「AにBするよう要請する」。engage in talks は「協議に関与する」。",
+      "chunks": [
+        {
+          "text": "Given that",
+          "role_ja": "接続（理由）",
+          "literal_ja": "〜を踏まえて／〜ということを考慮すると",
+          "note_ja": "文頭で背景条件を示す書き出し。"
+        },
+        {
+          "text": "the maritime area where Japan and the Philippines intend to negotiate boundaries",
+          "role_ja": "名詞句（主語）",
+          "literal_ja": "日本とフィリピンが境界交渉を行う予定の海域",
+          "note_ja": "intend to + 動詞原形。where は関係副詞。"
+        },
+        {
+          "text": "overlaps with Taiwan's exclusive economic zone off its eastern coast",
+          "role_ja": "述語（Given that節内）",
+          "literal_ja": "台湾東岸沖の排他的経済水域と重なる",
+          "note_ja": "overlap with は地理的に重なる。off its eastern coast は「東岸沖」。"
+        },
+        {
+          "text": "the ministry said it calls on both countries",
+          "role_ja": "主節",
+          "literal_ja": "省は両国に要請すると述べた",
+          "note_ja": "call on は公式な呼びかけ。"
+        },
+        {
+          "text": "to fully consider Taiwan's rights and interests and engage in talks",
+          "role_ja": "不定詞（目的・要請内容）",
+          "literal_ja": "台湾の権利と利益を十分に考慮し、協議に関与するよう",
+          "note_ja": "consider ... and engage in ... の並列不定詞。"
+        }
+      ],
+      "deep_dive_ja": "この文は背景（Given that）＋主張（calls on）の二層構造。off its eastern coast の its は台湾を指す。engage in talks は participate in negotiations より報道でよく見る。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Asked about Taiwan's concerns, Japanese Chief Cabinet Secretary Minoru Kihara said earlier on Wednesday that if Japan and the Philippines agree on the maritime boundaries it \"would not be legally binding on third parties\".",
+      "translation_ja": "台湾の懸念について問われた日本の木原稔官房長官は、水曜日の早い時間に、日本とフィリピンが海上境界で合意したとしても、それは「第三者に対して法的拘束力を持たない」と述べた。",
+      "grammar_ja": "文頭の Asked about ... は過去分詞による省略（Being asked ...）。if節＋would は仮定・間接話法。legally binding on third parties は国際法の重要概念。",
+      "chunks": [
+        {
+          "text": "Asked about Taiwan's concerns",
+          "role_ja": "分詞構文（状況）",
+          "literal_ja": "台湾の懸念について問われて",
+          "note_ja": "受動の分詞構文でインタビュー状況を示す。"
+        },
+        {
+          "text": "Japanese Chief Cabinet Secretary Minoru Kihara said earlier on Wednesday",
+          "role_ja": "主語＋述語",
+          "literal_ja": "日本の官房長官木原稔は水曜日の早い時間に述べた",
+          "note_ja": "Chief Cabinet Secretary は官房長官。"
+        },
+        {
+          "text": "that if Japan and the Philippines agree on the maritime boundaries",
+          "role_ja": "that節（条件）",
+          "literal_ja": "もし日本とフィリピンが海上境界で合意すれば",
+          "note_ja": "agree on は「〜について合意する」。"
+        },
+        {
+          "text": "it \"would not be legally binding on third parties\"",
+          "role_ja": "that節（主張）",
+          "literal_ja": "それは第三者に対して法的拘束力を持たないだろう",
+          "note_ja": "legally binding on ... は国際法で頻出。third parties は第三国（ここでは台湾など）。"
+        }
+      ],
+      "deep_dive_ja": "would not be legally binding on third parties は、日菲合意が台湾を直接縛らないという日本の立場を示す核心表現。it は the agreement を受ける。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "The Philippines' foreign ministry did not immediately respond to a request for comment.",
+      "translation_ja": "フィリピンの外務省は、コメントを求める要請に直ちには応じなかった。",
+      "grammar_ja": "did not respond to は過去の単純否定。immediately は「即座に」で遅延を示唆する報道の婉曲表現。a request for comment は取材定型句。",
+      "chunks": [
+        {
+          "text": "The Philippines' foreign ministry",
+          "role_ja": "主語",
+          "literal_ja": "フィリピンの外務省",
+          "note_ja": "Philippines' は所有格。アポストロフィに注意。"
+        },
+        {
+          "text": "did not immediately respond",
+          "role_ja": "述語",
+          "literal_ja": "直ちには応じなかった",
+          "note_ja": "immediately の否定は「まだ回答なし」をほのめかす。"
+        },
+        {
+          "text": "to a request for comment",
+          "role_ja": "前置詞句",
+          "literal_ja": "コメントを求める要請に",
+          "note_ja": "報道で標準的なフレーズ。"
+        }
+      ],
+      "deep_dive_ja": "did not immediately respond は事実上「無回答」と読める報道の決まり文句。後から回答がある可能性も残す婉曲な書き方。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Taiwan's foreign ministry added that China had no right to claim to speak on its behalf over the maritime boundary issue.",
+      "translation_ja": "台湾の外務省はさらに、中国が海上境界問題について台湾に代わって発言する権利はないと主張したと付け加えた。",
+      "grammar_ja": "added that ... で追加発言。had no right to claim to speak は権利否定の三重構造。on its behalf は「代理として」。over the issue は「〜問題について」。",
+      "chunks": [
+        {
+          "text": "Taiwan's foreign ministry added",
+          "role_ja": "主語＋述語",
+          "literal_ja": "台湾の外務省は付け加えた",
+          "note_ja": "added は前の発言に続く情報。"
+        },
+        {
+          "text": "that China had no right",
+          "role_ja": "that節",
+          "literal_ja": "中国には権利がなかった",
+          "note_ja": "have no right to ... は権利の否定。"
+        },
+        {
+          "text": "to claim to speak on its behalf",
+          "role_ja": "不定詞（修飾）",
+          "literal_ja": "代理として発言すると主張すること",
+          "note_ja": "claim to speak は「発言権があると主張する」。its は台湾。"
+        },
+        {
+          "text": "over the maritime boundary issue",
+          "role_ja": "前置詞句",
+          "literal_ja": "海上境界問題について",
+          "note_ja": "over は話題・争点を示す。"
+        }
+      ],
+      "deep_dive_ja": "speak on its behalf は「台湾に代わって発言する」。中国の代表権を否定する外交上の核心表現。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "\"Taiwan will not tolerate China's attempts to undermine regional peace and stability through so-called coast guard law enforcement and military power projection,\" the ministry said.",
+      "translation_ja": "「台湾は、いわゆる海上警備隊による法執行や軍事力の誇示を通じて地域の平和と安定を損なおうとする中国の試みを容認しない」と同省は述べた。",
+      "grammar_ja": "will not tolerate は強い拒否。attempts to undermine ... through ... の構造。so-called は疑念・批判のニュアンス。power projection は軍事用語。",
+      "chunks": [
+        {
+          "text": "Taiwan will not tolerate",
+          "role_ja": "主語＋述語",
+          "literal_ja": "台湾は容認しない",
+          "note_ja": "will not tolerate は断固たる姿勢。"
+        },
+        {
+          "text": "China's attempts to undermine regional peace and stability",
+          "role_ja": "目的語",
+          "literal_ja": "地域の平和と安定を損なおうとする中国の試み",
+          "note_ja": "attempt to + 動詞。undermine は「弱体化させる・損なう」。"
+        },
+        {
+          "text": "through so-called coast guard law enforcement and military power projection",
+          "role_ja": "手段",
+          "literal_ja": "いわゆる海上警備隊の法執行と軍事力の誇示を通じて",
+          "note_ja": "so-called は公式名称への疑い。power projection は軍事的威嚇。"
+        },
+        {
+          "text": "the ministry said",
+          "role_ja": "引用の出所",
+          "literal_ja": "省は述べた",
+          "note_ja": "直接引用の後に発言者を置く。"
+        }
+      ],
+      "deep_dive_ja": "so-called は報道でも批判的ニュアンスを含むことが多い。military power projection は「軍事力の誇示・威嚇的展開」と訳すのが自然。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Taiwan's government rejects Beijing's sovereignty claims.",
+      "translation_ja": "台湾政府は北京の主権主張を拒否している。",
+      "grammar_ja": "現在形 rejects は一般的な立場・政策を示す。Beijing は中国政府のメトニミー。sovereignty claims は「主権主張」。",
+      "chunks": [
+        {
+          "text": "Taiwan's government",
+          "role_ja": "主語",
+          "literal_ja": "台湾政府は",
+          "note_ja": "主語。所有格で所属を示す。"
+        },
+        {
+          "text": "rejects",
+          "role_ja": "述語",
+          "literal_ja": "拒否する",
+          "note_ja": "現在形で継続的な立場。"
+        },
+        {
+          "text": "Beijing's sovereignty claims",
+          "role_ja": "目的語",
+          "literal_ja": "北京の主権主張を",
+          "note_ja": "Beijing = 中国政府。sovereignty claims は領土・主権に関する主張。"
+        }
+      ],
+      "deep_dive_ja": "短い締めの文だが、記事全体の台湾の基本姿勢を要約する。Beijing を China government と言い換えるのが報道の常套。",
+      "difficulty": "easy",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "maritime boundary",
+      "pronunciation": "/ˈmærɪtaɪm ˈbaʊndəri/",
+      "meaning_ja": "海上境界",
+      "example": "talks on their maritime border",
+      "example_ja": "両国の海上境界についての協議",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "exclusive economic zone",
+      "pronunciation": "/ɪkˈskluːsɪv ˌiːkəˈnɒmɪk zəʊn/",
+      "meaning_ja": "排他的経済水域（EEZ）",
+      "example": "Taiwan's exclusive economic zone off its eastern coast",
+      "example_ja": "台湾東岸沖の排他的経済水域",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "delimit",
+      "pronunciation": "/dɪˈlɪmɪt/",
+      "meaning_ja": "（境界を）画定する",
+      "example": "formal talks on delimiting the maritime boundary",
+      "example_ja": "海上境界を画定するための正式な協議",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "sovereignty",
+      "pronunciation": "/ˈsɒv.rən.ti/",
+      "meaning_ja": "主権",
+      "example": "Taiwan's sovereignty over its territory and relevant waters",
+      "example_ja": "領土と関連水域に対する台湾の主権",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "legally binding",
+      "pronunciation": "/ˈliːɡəli ˈbaɪndɪŋ/",
+      "meaning_ja": "法的拘束力のある",
+      "example": "it would not be legally binding on third parties",
+      "example_ja": "それは第三者に対して法的拘束力を持たない",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "call on",
+      "pronunciation": "/kɔːl ɒn/",
+      "meaning_ja": "（公式に）〜するよう要請する",
+      "example": "it calls on both countries to fully consider Taiwan's rights",
+      "example_ja": "両国に台湾の権利を十分に考慮するよう要請する",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "undermine",
+      "pronunciation": "/ˌʌndəˈmaɪn/",
+      "meaning_ja": "（基盤・信頼などを）損なう、弱体化させる",
+      "example": "attempts to undermine regional peace and stability",
+      "example_ja": "地域の平和と安定を損なおうとする試み",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "in accordance with",
+      "pronunciation": "/ɪn əˈkɔːd.ns wɪð/",
+      "meaning_ja": "〜に従って、〜に即して",
+      "example": "in accordance with international law",
+      "example_ja": "国際法に従って",
+      "source_sentence_id": "s002"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "ask-that-subjunctive",
+      "title": "ask that + 動詞の原形（仮定法）",
+      "rule": "Use 'ask that + subject + base verb' for formal requests or demands.",
+      "example": "Taiwan has asked that Japan and the Philippines respect its rights.",
+      "meaning_ja": "公式な要請を表すとき、that節の動詞を原形にする仮定法が使われる。ask Japan to respect より格式が高い。"
+    },
+    {
+      "id": "reported-speech-news",
+      "title": "報道の間接話法と倒置",
+      "rule": "News reports use 'Subject said that ...' or place '..., X said' at the end.",
+      "example": "The ministry said it calls on both countries to engage in talks.",
+      "meaning_ja": "said / added / stated の後は時制が一段階過去になることが多く、発言者は文末に置く倒置が一般的。"
+    },
+    {
+      "id": "participial-openers",
+      "title": "分詞構文による文頭の省略",
+      "rule": "Past participles at the start can replace 'When/If + passive clause'.",
+      "example": "Asked about Taiwan's concerns, ... / Given that the maritime area overlaps, ...",
+      "meaning_ja": "Asked about ...（〜について問われて）、Given that ...（〜を踏まえて）のように、背景や状況を簡潔に示す。"
+    },
+    {
+      "id": "view-as-structure",
+      "title": "view A as B / in accordance with",
+      "rule": "'view + object + as + noun' expresses perception; 'in accordance with' shows legal basis.",
+      "example": "China views Taiwan as its own territory; talks would be held in accordance with international law.",
+      "meaning_ja": "view A as B は「AをBと見なす」。in accordance with は外交・法律文書で根拠を示す定番表現。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:34:08+09:00"
+  },
+  "article_id": "japantoday:2026-06-04:taiwan-says-japan-philippines-must-respe"
+}

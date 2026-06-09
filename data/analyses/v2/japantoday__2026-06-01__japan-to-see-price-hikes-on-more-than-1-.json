@@ -1,0 +1,437 @@
+{
+  "summary_ja": "帝国データバンクの調査によると、日本では6月に1,078品目の食品・飲料が値上げされ、5月の84品目から大幅に増加する。中東情勢に伴うコスト上昇を消費者に転嫁する動きが背景にあり、年間では1万品目超の見込み。調味料や加工食品が特に多い。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Price hikes in Japan for food and beverage items in June will total 1,078 products, up from 84 in May, amid moves to pass on higher costs stemming from the Middle East crisis to consumers, a research institute says.",
+      "translation_ja": "調査機関によると、日本では6月に食品・飲料の値上げが1,078品目にのぼり、5月の84品目から増加する。中東情勢に起因するコスト上昇を消費者に転嫁しようとする動きの中でのことだ。",
+      "grammar_ja": "冒頭の名詞句が主語で、will total が述語。up from は「前月比で増加」のニュース表現。amid moves to ... は「〜する動きの中で」。stemming from は現在分詞で原因を示す。",
+      "chunks": [
+        {
+          "text": "Price hikes in Japan for food and beverage items in June",
+          "role_ja": "主語（名詞句）",
+          "literal_ja": "日本における6月の食品・飲料の値上げ",
+          "note_ja": "price hike は「値上げ」。food and beverage items は食品・飲料品目。"
+        },
+        {
+          "text": "will total 1,078 products",
+          "role_ja": "述語",
+          "literal_ja": "1,078品目に合計する",
+          "note_ja": "total を動詞で使うと「合計〜に達する」。will で将来の見込み。"
+        },
+        {
+          "text": "up from 84 in May",
+          "role_ja": "補足（比較）",
+          "literal_ja": "5月の84から上がって",
+          "note_ja": "ニュースで前月比を示す定型表現。up from + 数字 + in + 月。"
+        },
+        {
+          "text": "amid moves to pass on higher costs",
+          "role_ja": "状況を示す前置詞句",
+          "literal_ja": "より高いコストを転嫁しようとする動きの中で",
+          "note_ja": "amid = 〜の最中に／〜の中で。pass on costs = コストを（価格に反映して）転嫁する。"
+        },
+        {
+          "text": "stemming from the Middle East crisis",
+          "role_ja": "後置修飾（現在分詞）",
+          "literal_ja": "中東危機に由来して",
+          "note_ja": "stem from = 〜に起因する。crisis はここでは中東情勢・危機。"
+        },
+        {
+          "text": "to consumers",
+          "role_ja": "目的・方向",
+          "literal_ja": "消費者に",
+          "note_ja": "pass on ... to consumers で「消費者に負担を回す」。"
+        },
+        {
+          "text": "a research institute says",
+          "role_ja": "引用・出典",
+          "literal_ja": "調査機関が述べる",
+          "note_ja": "ニュース英語で情報源を文末に置くパターン。主語は単数扱い。"
+        }
+      ],
+      "deep_dive_ja": "日本語ニュースの「〜とのことだ」に相当する、a research institute says の倒置は英語記事の典型。pass on は「渡す」だけでなくビジネス英語では「コスト転嫁」が頻出。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Teikoku Databank Ltd now expects the number of such products to surpass 10,000 for the full year.",
+      "translation_ja": "帝国データバンクは、年間ではそのような品目の数が1万を超えると見込んでいる。",
+      "grammar_ja": "expect + 目的語 + to不定詞。such products は前文の値上げ対象品目を受ける。for the full year は「通年で」。",
+      "chunks": [
+        {
+          "text": "Teikoku Databank Ltd",
+          "role_ja": "主語",
+          "literal_ja": "帝国データバンク社",
+          "note_ja": "Ltd = Limited（株式会社）。固有名詞はそのまま読む。"
+        },
+        {
+          "text": "now expects",
+          "role_ja": "述語",
+          "literal_ja": "今は見込んでいる",
+          "note_ja": "now は見通しが更新されたニュアンス。"
+        },
+        {
+          "text": "the number of such products",
+          "role_ja": "目的語（名詞句）",
+          "literal_ja": "そのような品目の数",
+          "note_ja": "such は直前の文脈を受ける指示語。"
+        },
+        {
+          "text": "to surpass 10,000",
+          "role_ja": "不定詞（補足）",
+          "literal_ja": "1万を超える",
+          "note_ja": "surpass = exceed よりややフォーマル。expect A to do B の形。"
+        },
+        {
+          "text": "for the full year",
+          "role_ja": "時間の範囲",
+          "literal_ja": "通年で",
+          "note_ja": "6月だけでなく年間通算の見通しを示す。"
+        }
+      ],
+      "deep_dive_ja": "the number of ... は単数扱いなので expects が正しい。日本語では「品目数」と訳すと自然。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "\"We expect a broad wave of price hikes to continue in summer onwards,\" an official at the institute said.",
+      "translation_ja": "同研究所の担当者は「夏以降も値上げの広がりが続くと見ている」と述べた。",
+      "grammar_ja": "直接話法の引用＋said の倒置。expect A to continue。in summer onwards は「夏以降」。a broad wave of は比喩的表現。",
+      "chunks": [
+        {
+          "text": "We expect",
+          "role_ja": "引用内の主語＋述語",
+          "literal_ja": "私たちは見込む",
+          "note_ja": "機関の見通しを we で述べるのは英語の慣用。"
+        },
+        {
+          "text": "a broad wave of price hikes",
+          "role_ja": "目的語",
+          "literal_ja": "値上げの広い波",
+          "note_ja": "wave は比喩で「一連・広がり」。broad で範囲の広さを強調。"
+        },
+        {
+          "text": "to continue",
+          "role_ja": "不定詞",
+          "literal_ja": "続く",
+          "note_ja": "expect + 名詞 + to不定詞。"
+        },
+        {
+          "text": "in summer onwards",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "夏以降",
+          "note_ja": "onwards = 以降。from summer onwards も可。"
+        },
+        {
+          "text": "an official at the institute said",
+          "role_ja": "主節（引用の出典）",
+          "literal_ja": "研究所の担当者が述べた",
+          "note_ja": "英語は引用文の後に話者を置くのが一般的。"
+        }
+      ],
+      "deep_dive_ja": "日本語記事では「広範な値上げラッシュ」と訳すことが多い。a broad wave of はニュースでトレンドを描写する好ましい表現。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "As of the end of May, 22.7 percent of the items were affected by the Iran war that began with the U.S.-Israeli strikes in February, which has led to a supply crunch of naphtha, according to a report by the institute.",
+      "translation_ja": "研究所の報告によると、5月末時点で品目の22.7％が、2月の米以協力攻撃で始まったイラン戦争の影響を受けており、それがナフサの供給不足につながっている。",
+      "grammar_ja": "As of で基準日。were affected by の受動態。関係代名詞 that と which の連鎖。according to で出典。supply crunch はコロケーション。",
+      "chunks": [
+        {
+          "text": "As of the end of May",
+          "role_ja": "時点を示す前置詞句",
+          "literal_ja": "5月末時点で",
+          "note_ja": "as of = 〜時点では。統計・報道で頻出。"
+        },
+        {
+          "text": "22.7 percent of the items",
+          "role_ja": "主語",
+          "literal_ja": "品目の22.7パーセント",
+          "note_ja": "percent of + 複数名詞。小数点表記に慣れる。"
+        },
+        {
+          "text": "were affected by the Iran war",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "イラン戦争の影響を受けた",
+          "note_ja": "be affected by = 〜の影響を受ける。"
+        },
+        {
+          "text": "that began with the U.S.-Israeli strikes in February",
+          "role_ja": "関係節（war を修飾）",
+          "literal_ja": "2月の米以協力攻撃で始まった",
+          "note_ja": "begin with = 〜をきっかけに始まる。"
+        },
+        {
+          "text": "which has led to a supply crunch of naphtha",
+          "role_ja": "関係節（前の節全体を受ける）",
+          "literal_ja": "それがナフサの供給不足につながった",
+          "note_ja": "lead to = 〜につながる。supply crunch = 供給不足・逼迫。"
+        },
+        {
+          "text": "according to a report by the institute",
+          "role_ja": "出典",
+          "literal_ja": "研究所の報告によれば",
+          "note_ja": "according to は客観的出典。by the institute で作成者。"
+        }
+      ],
+      "deep_dive_ja": "which が war ではなく「戦争が始まったという事実全体」を受ける読み方が自然。naphtha は石油由来の原料で、食品包装のプラスチック原料にも関係する。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The oil-derived raw ingredient is used to make chemicals for manufacturing a wide range of products, such as plastic packaging for food items.",
+      "translation_ja": "その石油由来の原料は、食品用プラスチック包装など幅広い製品の製造に使われる化学品を作るために用いられている。",
+      "grammar_ja": "oil-derived は複合形容詞。is used to make の受動態。for manufacturing は目的。such as で例示。a wide range of は定番コロケーション。",
+      "chunks": [
+        {
+          "text": "The oil-derived raw ingredient",
+          "role_ja": "主語",
+          "literal_ja": "石油由来の原料",
+          "note_ja": "oil-derived = 石油由来の。ハイフンで形容詞化。"
+        },
+        {
+          "text": "is used to make chemicals",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "化学品を作るために使われる",
+          "note_ja": "be used to do = 〜するために使われる。"
+        },
+        {
+          "text": "for manufacturing a wide range of products",
+          "role_ja": "目的を示す前置詞句",
+          "literal_ja": "幅広い製品の製造のために",
+          "note_ja": "a wide range of = 幅広い〜。manufacturing は動名詞。"
+        },
+        {
+          "text": "such as plastic packaging for food items",
+          "role_ja": "例示",
+          "literal_ja": "食品用プラスチック包装のような",
+          "note_ja": "such as で具体例。packaging は不可算名詞。"
+        }
+      ],
+      "deep_dive_ja": "前の文の naphtha を受ける the ingredient。食品値上げの記事だが、間接的に包装コストにも波及する流れを説明している。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "By category, seasonings, including spices, accounted for the largest proportion at 450, followed by 304 processed foods, such as instant noodles, for June.",
+      "translation_ja": "6月の品目別では、香辛料を含む調味料が450品目で最大の割合を占め、次いでインスタント麺などの加工食品が304品目となった。",
+      "grammar_ja": "By category で切り口を示す。account for = 占める。followed by で順位の2位を示す。including / such as で挿入・例示。",
+      "chunks": [
+        {
+          "text": "By category",
+          "role_ja": "状況・切り口",
+          "literal_ja": "カテゴリー別に",
+          "note_ja": "統計の分類方法を示す前置詞句。"
+        },
+        {
+          "text": "seasonings, including spices,",
+          "role_ja": "主語",
+          "literal_ja": "香辛料を含む調味料",
+          "note_ja": "including はカンマで挿入する同格の説明。"
+        },
+        {
+          "text": "accounted for the largest proportion at 450",
+          "role_ja": "述語",
+          "literal_ja": "450で最大の割合を占めた",
+          "note_ja": "account for = （割合・原因などを）説明する／占める。"
+        },
+        {
+          "text": "followed by 304 processed foods",
+          "role_ja": "続く順位",
+          "literal_ja": "次いで304の加工食品が続く",
+          "note_ja": "followed by はランキング2位以降の簡潔な書き方。"
+        },
+        {
+          "text": "such as instant noodles",
+          "role_ja": "例示",
+          "literal_ja": "インスタント麺のような",
+          "note_ja": "processed foods の具体例。"
+        },
+        {
+          "text": "for June",
+          "role_ja": "時間の限定",
+          "literal_ja": "6月について",
+          "note_ja": "文頭の月と呼応し、対象期間を明示。"
+        }
+      ],
+      "deep_dive_ja": "account for the largest proportion はニュース統計の定番。followed by だけで「2位は〜」と書けるのは英語の効率的な列挙法。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The annual total, including items facing price hikes through October, already stands at 9,361.",
+      "translation_ja": "10月までに値上げが予定されている品目を含めた年間の合計は、すでに9,361に達している。",
+      "grammar_ja": "including ... で付加説明。facing price hikes は現在分詞の後置修飾。stand at = 〜に達している。through October は10月まで継続。",
+      "chunks": [
+        {
+          "text": "The annual total",
+          "role_ja": "主語",
+          "literal_ja": "年間の合計",
+          "note_ja": "annual total = 年間累計。"
+        },
+        {
+          "text": "including items facing price hikes through October",
+          "role_ja": "挿入（同格）",
+          "literal_ja": "10月まで値上げが予定されている品目を含め",
+          "note_ja": "face price hikes = 値上げの対象となる。through = 〜まで（期間を通して）。"
+        },
+        {
+          "text": "already stands at 9,361",
+          "role_ja": "述語",
+          "literal_ja": "すでに9,361に立っている",
+          "note_ja": "stand at + 数字 = （数値が）〜に達する。already で時点の早さを強調。"
+        }
+      ],
+      "deep_dive_ja": "stand at は数字の「現在位置」を表すビジネス英語。日本語では「のぼる」「達する」と訳すと自然。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "If the figure exceeds 10,000 this year, it will be the fifth consecutive year to do so since 2022, when the institute started taking records.",
+      "translation_ja": "今年その数字が1万を超えれば、研究所が記録を取り始めた2022年以降、5年連続となる。",
+      "grammar_ja": "If 節＋主節の条件文。consecutive year to do so は前文の exceed を受ける。since 2022 は起点。when で2022年を説明する関係副詞節。",
+      "chunks": [
+        {
+          "text": "If the figure exceeds 10,000 this year",
+          "role_ja": "条件節",
+          "literal_ja": "もし今年その数字が1万を超えれば",
+          "note_ja": "the figure は直前の annual total を指す。exceed = surpass と同義。"
+        },
+        {
+          "text": "it will be the fifth consecutive year",
+          "role_ja": "主節の述語部",
+          "literal_ja": "それは5年連続の年となる",
+          "note_ja": "consecutive = 連続した。the fifth consecutive year で「5年連続」。"
+        },
+        {
+          "text": "to do so",
+          "role_ja": "不定詞（代用）",
+          "literal_ja": "そうする",
+          "note_ja": "do so = exceed 10,000 を受ける。冗長回避の重要表現。"
+        },
+        {
+          "text": "since 2022",
+          "role_ja": "起点",
+          "literal_ja": "2022年以来",
+          "note_ja": "連続年数の基準年を示す。"
+        },
+        {
+          "text": "when the institute started taking records",
+          "role_ja": "関係副詞節",
+          "literal_ja": "研究所が記録を取り始めたとき",
+          "note_ja": "when = その年に。take records = 記録をつける。"
+        }
+      ],
+      "deep_dive_ja": "to do so は B2 では必須の代用表現。日本語では「1万超えが5年連続」と意訳すると読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "price hike",
+      "pronunciation": "/ˈpraɪs haɪk/",
+      "meaning_ja": "値上げ",
+      "example": "A broad wave of price hikes is expected in summer.",
+      "example_ja": "夏には広範な値上げが予想されている。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "pass on",
+      "pronunciation": "/pæs ɒn/",
+      "meaning_ja": "（コストなどを）転嫁する、価格に反映する",
+      "example": "Companies are passing on higher costs to consumers.",
+      "example_ja": "企業は上昇したコストを消費者に転嫁している。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "stem from",
+      "pronunciation": "/stem frɒm/",
+      "meaning_ja": "〜に起因する、〜が原因である",
+      "example": "Higher costs stemming from the crisis affect food prices.",
+      "example_ja": "危機に起因するコスト上昇が食品価格に影響している。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "supply crunch",
+      "pronunciation": "/səˈplaɪ krʌntʃ/",
+      "meaning_ja": "供給不足、供給逼迫",
+      "example": "The war has led to a supply crunch of naphtha.",
+      "example_ja": "戦争がナフサの供給不足につながった。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "account for",
+      "pronunciation": "/əˈkaʊnt fɔːr/",
+      "meaning_ja": "（割合・数の）〜を占める",
+      "example": "Seasonings accounted for the largest proportion.",
+      "example_ja": "調味料が最大の割合を占めた。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "as of",
+      "pronunciation": "/æz ɒv/",
+      "meaning_ja": "〜時点で",
+      "example": "As of the end of May, 22.7 percent were affected.",
+      "example_ja": "5月末時点で22.7％が影響を受けていた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "consecutive",
+      "pronunciation": "/kənˈsekjətɪv/",
+      "meaning_ja": "連続した",
+      "example": "It will be the fifth consecutive year to exceed 10,000.",
+      "example_ja": "1万超えは5年連続となる。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "stand at",
+      "pronunciation": "/stænd æt/",
+      "meaning_ja": "（数値が）〜に達する、〜にある",
+      "example": "The annual total already stands at 9,361.",
+      "example_ja": "年間合計はすでに9,361に達している。",
+      "source_sentence_id": "s007"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "news-source-attribution",
+      "title": "News source attribution (says / according to)",
+      "rule": "Place the source at the end (X says) or beginning (According to X) to show where information comes from.",
+      "example": "..., a research institute says. / According to a report by the institute, ...",
+      "meaning_ja": "英語のニュースでは情報源を文末や文頭で明示する。a research institute says や according to a report の形が典型。"
+    },
+    {
+      "id": "passive-for-impact",
+      "title": "Passive voice for events and impact (be affected by / be used to)",
+      "rule": "Use passive structures to focus on what happens to products or people rather than who caused it.",
+      "example": "22.7 percent of the items were affected by the Iran war.",
+      "meaning_ja": "影響や用途を述べるとき受動態を使い、原因や主体より結果に焦点を当てる。"
+    },
+    {
+      "id": "participle-clauses",
+      "title": "Participle clauses (stemming from / including / facing)",
+      "rule": "Use -ing or past participle phrases to add cause, examples, or description without a new clause.",
+      "example": "costs stemming from the Middle East crisis / items facing price hikes",
+      "meaning_ja": "現在分詞や過去分詞の句で原因・例・説明を簡潔に付け加える。関係代名詞節の短縮形として機能する。"
+    },
+    {
+      "id": "do-so-substitution",
+      "title": "Do so substitution",
+      "rule": "Use do so to avoid repeating a verb phrase mentioned earlier.",
+      "example": "If the figure exceeds 10,000, it will be the fifth consecutive year to do so.",
+      "meaning_ja": "先に出た動詞句を繰り返さず do so で代用する。フォーマルな文章で重要。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 8,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:13:30+09:00"
+  },
+  "article_id": "japantoday:2026-06-01:japan-to-see-price-hikes-on-more-than-1-"
+}

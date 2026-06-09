@@ -1,0 +1,321 @@
+{
+  "summary_ja": "東京のバスで乗客同士の口論の末、60〜70代の男性が折りたたみナイフのような凶器で別の乗客の左頬を切りつけて逃走した事件が月曜日に発生した。被害者と運転手は交番に助けを求め、警察は後に容疑者を逮捕した。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "A bus passenger suffered a knife wound to his face after a dispute with another passenger in Tokyo on Monday.",
+      "translation_ja": "東京で月曜日、バスの乗客が別の乗客との口論のあと、顔にナイフの傷を負った。",
+      "grammar_ja": "suffered（過去形）＋ a knife wound to his face（部位を示す前置詞句）。after a dispute with... で「〜のあとに」という時間関係。犯罪ニュースでよく使われる簡潔な見出し調の文。",
+      "chunks": [
+        {
+          "text": "A bus passenger",
+          "role_ja": "主語",
+          "literal_ja": "バスの乗客が",
+          "note_ja": "passenger は乗客。bus passenger で「バスに乗っていた人」。"
+        },
+        {
+          "text": "suffered a knife wound to his face",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "顔にナイフの傷を負った",
+          "note_ja": "suffer a wound/injury は「傷を負う」。receive より被害・不幸を受けるニュアンスが強い。"
+        },
+        {
+          "text": "after a dispute with another passenger",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "別の乗客との口論のあと",
+          "note_ja": "dispute は argument より少しフォーマル。with で相手を示す。"
+        },
+        {
+          "text": "in Tokyo on Monday",
+          "role_ja": "場所・時間の副詞句",
+          "literal_ja": "東京で月曜日に",
+          "note_ja": "ニュースでは場所→時間の順が一般的。"
+        }
+      ],
+      "deep_dive_ja": "見出し文は who・what・where・when を一度に入れる。wound は怪我全般ではなく「切り傷・刺し傷」を連想させる語。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The incident occurred at around 10:15 a.m. as the two men were getting off the bus at a stop in Ota Ward, Sankei Shimbun reported.",
+      "translation_ja": "産経新聞によると、事件は大田区のバス停で二人の男性がバスを降りる最中の午前10時15分ごろに起きた。",
+      "grammar_ja": "occur（発生する）の過去形。as 節は「〜している最中に」。文末の Sankei Shimbun reported は報道の出典を示す倒置（journalistic attribution）。",
+      "chunks": [
+        {
+          "text": "The incident occurred",
+          "role_ja": "主語＋述語",
+          "literal_ja": "事件が起きた",
+          "note_ja": "incident は accident より事件・出来事全般。犯罪報道で頻出。"
+        },
+        {
+          "text": "at around 10:15 a.m.",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "午前10時15分ごろに",
+          "note_ja": "at around で「およそ〜頃」。正確な時刻が未確定のときに使う。"
+        },
+        {
+          "text": "as the two men were getting off the bus",
+          "role_ja": "時間の従属節",
+          "literal_ja": "二人の男性がバスを降りている最中に",
+          "note_ja": "as ＋過去進行形で同時進行。「〜しているときに」。"
+        },
+        {
+          "text": "at a stop in Ota Ward",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "大田区のバス停で",
+          "note_ja": "Ward は東京23区の「区」。Ota Ward = 大田区。"
+        },
+        {
+          "text": "Sankei Shimbun reported",
+          "role_ja": "出典の述部（倒置）",
+          "literal_ja": "産経新聞が報じた",
+          "note_ja": "英語ニュースでは情報源を文末に置くことが多い。日本語では冒頭の「〜によると」に相当。"
+        }
+      ],
+      "deep_dive_ja": "英語報道では主語を The incident に置き、人ではなく出来事を中心に書く。get off the bus は「バスを降りる」で on/off の前置詞に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "According to reports, a man in his 60s or 70s had an argument with the victim on the bus.",
+      "translation_ja": "報道によると、60代か70代の男性がバス内で被害者と口論になった。",
+      "grammar_ja": "According to reports で情報源を示す定番表現。in his 60s or 70s は年齢の幅。had an argument with は dispute より口語的で日常的。",
+      "chunks": [
+        {
+          "text": "According to reports",
+          "role_ja": "副詞句（出典）",
+          "literal_ja": "報道によると",
+          "note_ja": "複数の報道をまとめて引用する際の定型句。"
+        },
+        {
+          "text": "a man in his 60s or 70s",
+          "role_ja": "主語",
+          "literal_ja": "60代か70代の男性",
+          "note_ja": "in one's 60s = 60代。or 70s で幅を示す。日本の報道の「60〜70代」と同じ。"
+        },
+        {
+          "text": "had an argument with the victim",
+          "role_ja": "述語＋補語",
+          "literal_ja": "被害者と口論した",
+          "note_ja": "have an argument with は dispute より口語的。victim は被害者。"
+        },
+        {
+          "text": "on the bus",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "バス内で",
+          "note_ja": "乗り物の中は on（in ではない場合もあるが bus は on が一般的）。"
+        }
+      ],
+      "deep_dive_ja": "犯罪記事では加害者を特定する前に a man in his 60s のように年齢だけ示す。the victim は前の文の bus passenger を指す。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "When the two men got off at the stop near a police box, the man allegedly slashed the male passenger's left cheek with a folding knife-like weapon and fled.",
+      "translation_ja": "二人が交番近くのバス停で降りたとき、男性は折りたたみナイフのような凶器で乗客の左頬を切りつけたとみられ、その場から逃走した。",
+      "grammar_ja": "When 節＋主節の時系列。allegedly は「〜したとされる」で容疑段階の慎重な表現。slashed ... with ... and fled は二つの動作を and で連結。",
+      "chunks": [
+        {
+          "text": "When the two men got off at the stop near a police box",
+          "role_ja": "時間の従属節",
+          "literal_ja": "二人が交番近くの停留所で降りたとき",
+          "note_ja": "police box は日本の「交番」。near で近接を示す。"
+        },
+        {
+          "text": "the man allegedly",
+          "role_ja": "主語＋副詞",
+          "literal_ja": "その男性は〜したとされるが",
+          "note_ja": "allegedly は起訴前・捜査中の報道で必須級。法的に「まだ確定していない」ニュアンス。"
+        },
+        {
+          "text": "slashed the male passenger's left cheek",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "男性乗客の左頬を切りつけた",
+          "note_ja": "slash は刃物で「切りつける」。stab は刺す、と区別。"
+        },
+        {
+          "text": "with a folding knife-like weapon",
+          "role_ja": "手段の副詞句",
+          "literal_ja": "折りたたみナイフのような凶器で",
+          "note_ja": "folding knife = 折りたたみナイフ。-like で「〜のような」形状・性質。"
+        },
+        {
+          "text": "and fled",
+          "role_ja": "並列の述語",
+          "literal_ja": "そして逃走した",
+          "note_ja": "flee の過去形 fled。犯罪報道の定番語。"
+        }
+      ],
+      "deep_dive_ja": "交番のすぐそばで犯行→すぐ助けを求められる、という流れが次の文につながる。male passenger は victim を再度明示し、読者の混乱を防ぐ。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The bus driver and the injured male passenger sought help at the police box.",
+      "translation_ja": "バスの運転手と負傷した男性乗客は、交番に助けを求めた。",
+      "grammar_ja": "主語が and で並列。injured は過去分詞の形容詞用法。seek help は seek assistance より簡潔で報道向き。",
+      "chunks": [
+        {
+          "text": "The bus driver and the injured male passenger",
+          "role_ja": "主語（並列）",
+          "literal_ja": "バスの運転手と負傷した男性乗客",
+          "note_ja": "injured = けがをした。the injured passenger で被害者を再指定。"
+        },
+        {
+          "text": "sought help",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "助けを求めた",
+          "note_ja": "seek の過去形 sought。ask for help よりややフォーマル。"
+        },
+        {
+          "text": "at the police box",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "交番で",
+          "note_ja": "前の文の near a police box と呼応。実際に交番に行った。"
+        }
+      ],
+      "deep_dive_ja": "短い一文で事件後の対応をまとめるのがニュース文体。driver が加わることで、目撃者・関係者がいることが示される。",
+      "difficulty": "easy",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Police said the victim told them he did not know the assailant who was later apprehended by police.",
+      "translation_ja": "警察は、被害者から犯人とは面識がなかったと聞き、のちにその犯人を逮捕したと発表した。",
+      "grammar_ja": "二重の間接話法：Police said ＋ the victim told them ＋ he did not know...。関係代名詞 who は the assailant を修飾。was later apprehended は受動態。",
+      "chunks": [
+        {
+          "text": "Police said",
+          "role_ja": "主節の述部",
+          "literal_ja": "警察は〜と述べた",
+          "note_ja": "報道の公式発表を伝える定型表現。"
+        },
+        {
+          "text": "the victim told them he did not know the assailant",
+          "role_ja": "間接話法の従属節",
+          "literal_ja": "被害者は犯人を知らなかったと彼らに話した",
+          "note_ja": "told them の them は警察。did not know で面識なし。"
+        },
+        {
+          "text": "the assailant",
+          "role_ja": "目的語",
+          "literal_ja": "加害者・犯人",
+          "note_ja": "assailant は攻撃者。crime reporting のフォーマルな語。"
+        },
+        {
+          "text": "who was later apprehended by police",
+          "role_ja": "関係詞節（非制限的）",
+          "literal_ja": "その人はのちに警察に逮捕された",
+          "note_ja": "apprehend = 逮捕する（formal）。later でその後の展開を示す。"
+        }
+      ],
+      "deep_dive_ja": "一文に「被害者の証言」と「逮捕」の両方を入れる圧縮構文。日本語では二文に分けた方が自然になりやすい。面識がない＝動機が個人間トラブルだった可能性を示唆。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "suffer",
+      "pronunciation": "/ˈsʌfər/",
+      "meaning_ja": "（怪我・損害などを）被る、負う",
+      "example": "A bus passenger suffered a knife wound to his face.",
+      "example_ja": "バスの乗客が顔にナイフの傷を負った。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "dispute",
+      "pronunciation": "/dɪˈspjuːt/",
+      "meaning_ja": "口論、争い",
+      "example": "after a dispute with another passenger",
+      "example_ja": "別の乗客との口論のあと",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "occur",
+      "pronunciation": "/əˈkɜːr/",
+      "meaning_ja": "（事件などが）起こる、発生する",
+      "example": "The incident occurred at around 10:15 a.m.",
+      "example_ja": "事件は午前10時15分ごろに起きた。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "allegedly",
+      "pronunciation": "/əˈledʒɪdli/",
+      "meaning_ja": "〜したとされる、〜したという疑いがある",
+      "example": "the man allegedly slashed the passenger's cheek",
+      "example_ja": "男性が乗客の頬を切りつけたとみられる",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "slash",
+      "pronunciation": "/slæʃ/",
+      "meaning_ja": "（刃物で）切りつける、斬る",
+      "example": "he slashed the passenger's left cheek with a knife",
+      "example_ja": "彼はナイフで乗客の左頬を切りつけた",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "flee",
+      "pronunciation": "/fliː/",
+      "meaning_ja": "逃走する、逃げる",
+      "example": "he slashed the victim and fled.",
+      "example_ja": "彼は被害者を切りつけて逃走した。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "assailant",
+      "pronunciation": "/əˈseɪlənt/",
+      "meaning_ja": "加害者、襲撃者",
+      "example": "he did not know the assailant",
+      "example_ja": "彼は加害者を知らなかった",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "apprehend",
+      "pronunciation": "/ˌæprɪˈhend/",
+      "meaning_ja": "（犯人を）逮捕する",
+      "example": "the assailant was later apprehended by police",
+      "example_ja": "加害者はのちに警察に逮捕された",
+      "source_sentence_id": "s006"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "past-simple-news",
+      "title": "Past Simple in crime reporting",
+      "rule": "Use past simple for completed events in news narratives (suffered, occurred, slashed, fled).",
+      "example": "A bus passenger suffered a knife wound after a dispute.",
+      "meaning_ja": "犯罪・事件の報道では、起きた出来事を過去形で時系列に沿って述べる。進行中の捜査でも「事件そのもの」は過去形で書くのが基本。"
+    },
+    {
+      "id": "according-to-attribution",
+      "title": "According to / reported attribution",
+      "rule": "Place source attribution at the start (According to reports) or end (..., X reported) of the sentence.",
+      "example": "According to reports, a man in his 60s had an argument with the victim.",
+      "meaning_ja": "情報の出所を明示する表現。According to reports は文頭、Sankei Shimbun reported は文末に置くなど、英語ニュース特有の引用の仕方。"
+    },
+    {
+      "id": "time-clause-when-as",
+      "title": "Time clauses with when / as",
+      "rule": "When/As + past (simple/progressive) introduces the time frame for the main clause action.",
+      "example": "When the two men got off at the stop, the man allegedly slashed the passenger.",
+      "meaning_ja": "when は「〜したときに」、as + 過去進行形は「〜している最中に」。主節の出来事がいつ起きたかを従属節で示す。"
+    },
+    {
+      "id": "reported-speech-nested",
+      "title": "Nested reported speech",
+      "rule": "Police said + (someone told them + that-clause) embeds multiple levels of reporting.",
+      "example": "Police said the victim told them he did not know the assailant.",
+      "meaning_ja": "「警察は、被害者が〜と話したと述べた」という二重の間接話法。英語では接続詞 that を省略することが多い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 6,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:13:06+09:00"
+  },
+  "article_id": "japantoday:2026-06-01:bus-passenger-in-tokyo-suffers-minor-inj"
+}

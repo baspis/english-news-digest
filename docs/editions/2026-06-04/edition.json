@@ -1,0 +1,117 @@
+{
+  "edition_date": "2026-06-04",
+  "status": "selected",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-04",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-04:japanese-intolerance-of-muslims-increase",
+    "japantoday:2026-06-04:video-of-man-spraying-liquid-on-conveyor",
+    "japantoday:2026-06-04:spacex-s-ipo-is-set-to-be-biggest-ever-a",
+    "japantoday:2026-06-04:taiwan-says-japan-philippines-must-respe",
+    "japantoday:2026-06-04:house-defies-trump-and-approves-war-powe",
+    "japantoday:2026-06-04:robots-supply-strain-5-hot-topics-at-com"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-04:japanese-intolerance-of-muslims-increase",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles",
+      "title": "Japanese intolerance of Muslims increases as population doubles",
+      "slug": "01-japanese-intolerance-of-muslims-increases-as-population-doubles",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_133",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-04:video-of-man-spraying-liquid-on-conveyor",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama",
+      "title": "Video of man spraying liquid on conveyor belt sushi leads to arrest in Saitama",
+      "slug": "02-video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_15",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-04:spacex-s-ipo-is-set-to-be-biggest-ever-a",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/spacex's-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire",
+      "title": "SpaceX's IPO is set to be biggest ever and could make Elon Musk a trillionaire",
+      "slug": "03-spacex-s-ipo-is-set-to-be-biggest-ever-and-could-make-elon-musk-a-tril",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_13",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-04:taiwan-says-japan-philippines-must-respe",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks",
+      "title": "Taiwan says Japan, Philippines must respect its rights in maritime border talks",
+      "slug": "04-taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-bord",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_20",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-04:house-defies-trump-and-approves-war-powe",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/house-again-considers-war-powers-resolution-to-halt-military-action-against-iran",
+      "title": "House defies Trump and approves war powers resolution to halt military action against Iran",
+      "slug": "05-house-defies-trump-and-approves-war-powers-resolution-to-halt-military",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_63",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-04:robots-supply-strain-5-hot-topics-at-com",
+      "edition_date": "2026-06-04",
+      "source_published_date_jst": "2026-06-04",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/robots-supply-strain-five-hot-topics-at-computex",
+      "title": "Robots, supply strain: 5 hot topics at Computex",
+      "slug": "06-robots-supply-strain-5-hot-topics-at-computex",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_1",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T22:31:09+09:00",
+  "warnings": [
+    "processing failed japantoday:2026-06-04:robots-supply-strain-5-hot-topics-at-com: Expecting value: line 1 column 1 (char 0)"
+  ]
+}

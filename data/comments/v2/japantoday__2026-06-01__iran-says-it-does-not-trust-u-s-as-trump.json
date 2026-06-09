@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-01:iran-says-it-does-not-trust-u-s-as-trump",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:11:06+09:00",
+  "fetched_at": "2026-06-09T22:17:07+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "You’re not alone, Iran. Few nations trust the US these days.",
+      "translation_ja": "イラン、あなたは一人じゃない。近ごろ、米国を信頼している国はほとんどない。",
+      "notes_ja": [
+        "「You're not alone」は慰め・連帯の定番表現。",
+        "「these days」で「最近は」と、今の状況への不信感を強調している。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5221047,
+      "author": "Cooked",
+      "rating": 23,
+      "posted_at": "2026-06-01T06:51:52+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Trump has said his priorities include stopping Iran from developing any nuclear weapon and reopening the Hormuz shipping lane, which Iran has blockaded since the war began. Trump should have stuck with Obama's JCPOA Iran deal.",
+      "translation_ja": "トランプは、優先事項にイランの核兵器開発阻止と、戦争開始以来イランが封鎖しているホルムズ海峡の航路再開を挙げている。トランプはオバマのJCPOA（イラン核合意）を維持すべきだった。",
+      "notes_ja": [
+        "JCPOA = Joint Comprehensive Plan of Action（2015年のイラン核合意）。",
+        "「should have stuck with」= 本来〜を続けるべきだった（過去の選択への後悔・批判）。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5221090,
+      "author": "Underworld",
+      "rating": 17,
+      "posted_at": "2026-06-01T07:15:12+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "“Trump has said his priorities include stopping Iran from developing any nuclear weapon and reopening the Hormuz shipping lane, which Iran has blockaded since the war began.” He says a lot of things. Mainly a cycle of claiming something then contradicting himself later. For example “their army and their whole military are obliterated” yesterday became “we left their military alone”",
+      "translation_ja": "「トランプは、優先事項にイランの核兵器開発阻止と、戦争開始以来イランが封鎖しているホルムズ海峡の航路再開を挙げている」と。彼はいろいろ言うが、主に何かを主張しては後で自分と矛盾する、というサイクルだ。たとえば昨日の「彼らの軍隊も軍全体も壊滅した」が、今日は「軍には手を出さなかった」になった。",
+      "notes_ja": [
+        "冒頭は記事の一文を引用し、その後に皮肉っぽく反論する構成。",
+        "「claiming something then contradicting himself」は口語的だが、書き言葉としてもよく見る批判の言い方。"
+      ],
+      "standard_en": "He says a lot of things. Mainly, it is a cycle of claiming something and then contradicting himself later.",
+      "marked_terms": [],
+      "comment_id": 5221100,
+      "author": "Bob Fosse",
+      "rating": 17,
+      "posted_at": "2026-06-01T07:26:15+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Trust goes both ways, and there was more of it under Obama's JCPOA Iran deal. The Strait of Hormuz was even stable under the Obama deal. But Trump has a very bad history of being untruthful. This big mess was all on Trump. Trump is losing the war. Remember, everything Trump touches dies. Correct.",
+      "translation_ja": "信頼は相互のものだし、オバマのJCPOA合意の下ではもっと信頼があった。ホルムズ海峡もオバマ合意の下では安定していた。だがトランプは嘘をつく悪い前歴がある。この大混乱はすべてトランプの責任だ。トランプは戦争に負けている。覚えておけ、トランプが触れたものはすべて死ぬ。まさにその通りだ。",
+      "notes_ja": [
+        "「everything Trump touches dies」は「ミダスの手」の逆転版のような強い決め台詞（スローガン調）。",
+        "最後の「Correct.」は一文だけの断片で、自分の主張を強く肯定している。"
+      ],
+      "standard_en": "Correct. → That is correct.",
+      "marked_terms": [],
+      "comment_id": 5221154,
+      "author": "nishikat",
+      "rating": 17,
+      "posted_at": "2026-06-01T07:50:45+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "The disastrous decision to attack Iran has not cost many American lives, but it has caused oil prices to rise globally, which is hitting Trump hard - his promise to lower gas prices now haunts him. And he is the only one responsible. Trump thought the war would be over in days, and yet Iran holds the cards. Trump has not weakened the regime, but made it stronger.",
+      "translation_ja": "イラン攻撃という悲惨な決断はアメリカ人の命を多くは奪っていないが、世界の原油価格を押し上げ、それがトランプを強く打っている。ガソリン価格を下げるという公約が今、彼を苦しめている。責任は彼一人にある。トランプは戦争が数日で終わると思っていたのに、主導権を握っているのはイランだ。政権を弱体化させたどころか、むしろ強くしてしまった。",
+      "notes_ja": [
+        "「holds the cards」= 主導権・切り札を握っている（イディオム）。",
+        "「haunts him」= 過去の発言や約束が今の痛みになっている、という比喩。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5221140,
+      "author": "Ah_so",
+      "rating": 16,
+      "posted_at": "2026-06-01T07:45:19+09:00"
+    }
+  ]
+}

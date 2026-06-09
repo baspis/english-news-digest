@@ -1,0 +1,356 @@
+{
+  "summary_ja": "日本政府の有識者会議は、ソーシャルメディア事業者に厳格な年齢確認と機能制限を求める一方、他国のような一律の年齢制限は適切でないと示しました。総務省の会議が作成した報告書案は、未成年の利用依存を減らし心身への負担を軽減する施策を盛り込んでいます。最終報告は夏頃を見込み、こども家庭庁が具体的な措置や法改正の要否を判断します。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan must strengthen the responsibilities of social media operators by requiring them to perform stricter age verification and restrict some features, but a blanket age-based ban, such as those seen in other countries, may not be appropriate, a government panel said Tuesday.",
+      "translation_ja": "日本政府の有識者会議は火曜日、日本はソーシャルメディア事業者の責任を強化し、より厳格な年齢確認の実施と一部機能の制限を義務づける必要があると述べた。ただし、他国で見られるような年齢に基づく一律の禁止措置は適切でない可能性があるとも指摘した。",
+      "grammar_ja": "must + 動詞原形で義務・必要性を示す政策提言。by requiring them to perform... and (to) restrict... は「〜を求めることによって」という手段。but で主張を対比。such as those seen in other countries は関係代名詞の省略（those that are seen）。文末の a government panel said Tuesday は報道文の倒置（発言者＋時点）。",
+      "chunks": [
+        {
+          "text": "Japan must strengthen the responsibilities of social media operators",
+          "role_ja": "主節（主張の核心）",
+          "literal_ja": "日本は／強化しなければならない／ソーシャルメディア事業者の責任を",
+          "note_ja": "strengthen responsibilities は「責任を強める」＝事業者に求める義務を厳しくする、という政策文の定番表現。"
+        },
+        {
+          "text": "by requiring them to perform stricter age verification",
+          "role_ja": "手段を示す副詞句",
+          "literal_ja": "〜を求めることによって／彼らに／より厳格な年齢確認を行わせる",
+          "note_ja": "require + 人 + to不定詞。age verification は「年齢確認」。stricter は比較級。"
+        },
+        {
+          "text": "and restrict some features",
+          "role_ja": "並列する不定詞（目的）",
+          "literal_ja": "そして／一部の機能を制限する",
+          "note_ja": "perform と restrict が並列。restrict features はアプリの機能制限を指す。"
+        },
+        {
+          "text": "but a blanket age-based ban",
+          "role_ja": "対比節の主語",
+          "literal_ja": "しかし／一律の年齢に基づく禁止",
+          "note_ja": "blanket ban は「包括的・一律の禁止」。age-based は複合形容詞。"
+        },
+        {
+          "text": "such as those seen in other countries",
+          "role_ja": "同格の例示",
+          "literal_ja": "他国で見られるようなもの",
+          "note_ja": "those = bans。seen in other countries は過去分詞で後置修飾。"
+        },
+        {
+          "text": "may not be appropriate",
+          "role_ja": "述語",
+          "literal_ja": "適切でないかもしれない",
+          "note_ja": "may not be は推量の否定。政策判断では「必ずしも適切ではない」という婉曲な否定。"
+        },
+        {
+          "text": "a government panel said Tuesday",
+          "role_ja": "発言者・時点（倒置）",
+          "literal_ja": "政府の有識者会議が火曜日述べた",
+          "note_ja": "報道英語では発言内容を先に置き、said + 時点 を文末に置く。"
+        }
+      ],
+      "deep_dive_ja": "長い1文に政策の「推進する側」と「見送る側」が but で同居するのがニュース英語の典型です。learners は blanket を「毛布」と訳しがちですが、ここでは「包括的・一律の」意味。operators は「運営者・事業者」です。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "A draft report prepared by the panel of the communications ministry outlined measures to protect underage social media users, aiming to reduce youth dependency on such services to mitigate the burden on their mental and physical health.",
+      "translation_ja": "総務省の会議が作成した報告書案は、未成年のソーシャルメディア利用者を守るための施策を示し、若者のこうしたサービスへの依存を減らして心身への負担を軽減することを目指している。",
+      "grammar_ja": "過去分詞 prepared by... が report を後置修飾。outlined が主動詞（過去形）。aiming to... は分詞構文で目的。to protect / to reduce / to mitigate が目的の不定詞の連鎖。underage users は「未成年利用者」。",
+      "chunks": [
+        {
+          "text": "A draft report prepared by the panel of the communications ministry",
+          "role_ja": "主語",
+          "literal_ja": "報告書案／総務省の会議によって作成された",
+          "note_ja": "draft report は「報告書案」。communications ministry は総務省。"
+        },
+        {
+          "text": "outlined measures to protect underage social media users",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "示した／施策を／未成年のSNS利用者を守るための",
+          "note_ja": "outline measures は「施策の概要を示す」。underage は legal な文脈で「未成年」。"
+        },
+        {
+          "text": "aiming to reduce youth dependency on such services",
+          "role_ja": "付帯状況（目的）",
+          "literal_ja": "目指して／若者の依存を減らすことを／こうしたサービスへの",
+          "note_ja": "dependency on は「〜への依存」。such services は前文の social media を受ける。"
+        },
+        {
+          "text": "to mitigate the burden on their mental and physical health",
+          "role_ja": "さらなる目的",
+          "literal_ja": "軽減するために／負担を／彼らの心身の健康への",
+          "note_ja": "mitigate the burden は「負担を和らげる」。mental and physical health は「心身の健康」。"
+        }
+      ],
+      "deep_dive_ja": "1文に3つの to不定詞（protect, reduce, mitigate）が層になっており、政策目的が積み上がる構造です。such は直前の名詞を受けず、広く social media services を指します。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The move comes as the widespread adoption of smartphones and social media have raised concerns over their harmful effects, including the involvement of minors in criminal activities.",
+      "translation_ja": "この動きは、スマートフォンとソーシャルメディアの普及により、未成年の犯罪関与を含む有害な影響への懸念が高まっていることに伴うものだ。",
+      "grammar_ja": "The move comes as... は「〜という状況の中でこの動きが出てきた」。as は理由・背景の接続詞。主語 adoption と concerns の数一致に注意（文法的には has が自然だが、複合主語で have も見られる）。including は付加説明。involvement in は「〜への関与」。",
+      "chunks": [
+        {
+          "text": "The move comes as",
+          "role_ja": "主節",
+          "literal_ja": "この動きは／〜という状況で生じている",
+          "note_ja": "the move は直前の政策検討を指す。comes as は報道で「〜の流れの中で起きている」。"
+        },
+        {
+          "text": "the widespread adoption of smartphones and social media",
+          "role_ja": "背景節の主語",
+          "literal_ja": "広く普及した／スマホとSNSの",
+          "note_ja": "adoption はここでは「普及・導入」。widespread adoption は定番コロケーション。"
+        },
+        {
+          "text": "have raised concerns over their harmful effects",
+          "role_ja": "背景節の述語",
+          "literal_ja": "懸念を高めてきた／その有害な影響について",
+          "note_ja": "raise concerns over/about は「〜への懸念を呼び起こす」。their は smartphones and social media を指す。"
+        },
+        {
+          "text": "including the involvement of minors in criminal activities",
+          "role_ja": "付加説明",
+          "literal_ja": "含めて／未成年の犯罪活動への関与",
+          "note_ja": "including + 名詞句。involvement in criminal activities は「犯罪への関与」。"
+        }
+      ],
+      "deep_dive_ja": "come as は B2 学習者にとって難しいパターンで、「〜という時期に」「〜という背景で」という時間・状況の枠組みを示します。harmful effects は政策・社会問題記事の頻出語です。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Still, the panel ruled out an age-based blanket restriction, given the role of social media as an important communication tool.",
+      "translation_ja": "それでも会議は、ソーシャルメディアが重要なコミュニケーション手段であることを踏まえ、年齢に基づく一律の制限は除外した。",
+      "grammar_ja": "Still で前文の懸念に対し転換。rule out は「除外する・採用しない」。given は前置詞で「〜を考慮して」。the role of A as B は「AがBとして果たす役割」。",
+      "chunks": [
+        {
+          "text": "Still, the panel ruled out an age-based blanket restriction",
+          "role_ja": "主節",
+          "literal_ja": "それでも／会議は除外した／年齢に基づく一律の制限を",
+          "note_ja": "rule out は phrasal verb。blanket restriction は s001 の blanket ban と同系。"
+        },
+        {
+          "text": "given the role of social media",
+          "role_ja": "理由を示す前置詞句",
+          "literal_ja": "〜を考慮して／ソーシャルメディアの役割",
+          "note_ja": "given = considering / in view of。理由を簡潔に付加する報道表現。"
+        },
+        {
+          "text": "as an important communication tool",
+          "role_ja": "役割の内容",
+          "literal_ja": "重要なコミュニケーション手段として",
+          "note_ja": "role of X as Y は「XがYとしての役割」。communication tool は「通信・交流の手段」。"
+        }
+      ],
+      "deep_dive_ja": "Still は however より口語的で、記事では「とはいえ」「それでも」と前文を受けて立場を示します。given は because より簡潔で、公式文書・報道で好まれます。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Existing measures have mostly been limited to filtering services by mobile carriers to block access to harmful websites, and parental monitoring at home.",
+      "role_ja": "誤",
+      "translation_ja": "既存の対策は、主に携帯電話会社による有害サイトへのアクセスを遮断するフィルタリングサービスと、家庭での保護者による監視に限られてきた。",
+      "grammar_ja": "have been limited to は受動態の現在完了で「〜に限られてきた」。mostly は程度副詞。filtering services は「フィルタリングサービス」。to block access to... は目的の不定詞。and parental monitoring は filtering services と並列の名詞句。",
+      "chunks": [
+        {
+          "text": "Existing measures have mostly been limited to",
+          "role_ja": "主節（受動）",
+          "literal_ja": "既存の対策は／主に〜に限られてきた",
+          "note_ja": "be limited to は「〜の範囲にとどまる」。existing measures は「これまでの施策」。"
+        },
+        {
+          "text": "filtering services by mobile carriers",
+          "role_ja": "limit の対象1",
+          "literal_ja": "携帯キャリアによるフィルタリングサービス",
+          "note_ja": "mobile carriers は日本語の「携帯電話事業者」。by は「〜による」。"
+        },
+        {
+          "text": "to block access to harmful websites",
+          "role_ja": "目的",
+          "literal_ja": "有害サイトへのアクセスを遮断するために",
+          "note_ja": "block access to は「〜へのアクセスを遮断する」。harmful websites は児童保護文脈の定番語。"
+        },
+        {
+          "text": "and parental monitoring at home",
+          "role_ja": "limit の対象2",
+          "literal_ja": "そして／家庭での保護者による監視",
+          "note_ja": "parental monitoring は「親による見守り・監視」。at home で場所を限定。"
+        }
+      ],
+      "deep_dive_ja": "limited to A and B の構造で、現状の対策が2つに絞られていることを示します。carrier は「運送業者」以外に通信では「事業者・キャリア」の意味が頻出です。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Since last year, the Ministry of Internal Affairs and Communications has been discussing expanding the role of social media platforms and providers of smartphone operating systems in protecting young users.",
+      "translation_ja": "総務省は昨年以降、若い利用者を守るうえでソーシャルメディアプラットフォームとスマートフォンOS提供事業者の役割を拡大することについて議論を続けている。",
+      "grammar_ja": "Since last year + 現在完了進行形 has been discussing で「昨年から現在に至る継続」。discussing の後ろは動名詞 expanding。the role of A and B in protecting... は「〜におけるAとBの役割」。providers of smartphone operating systems は「スマホOS提供事業者」。",
+      "chunks": [
+        {
+          "text": "Since last year",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "昨年以降",
+          "note_ja": "Since + 時点 は現在完了（進行）とセットで「それ以来ずっと」。"
+        },
+        {
+          "text": "the Ministry of Internal Affairs and Communications has been discussing",
+          "role_ja": "主節",
+          "literal_ja": "総務省は／議論し続けてきた",
+          "note_ja": "日本の省庁名は固有名詞として英訳が定着。has been discussing は継続中の検討。"
+        },
+        {
+          "text": "expanding the role of social media platforms and providers of smartphone operating systems",
+          "role_ja": "動名詞（discussing の目的語）",
+          "literal_ja": "役割を拡大すること／SNSプラットフォームとスマホOS提供事業者の",
+          "note_ja": "expand the role は「役割・責任範囲を広げる」。providers of... は「〜の提供事業者」。"
+        },
+        {
+          "text": "in protecting young users",
+          "role_ja": "場面・領域",
+          "literal_ja": "若い利用者を守ることにおいて",
+          "note_ja": "in + 動名詞 で「〜する点で・〜の場面で」。young users は underage users より広い表現。"
+        }
+      ],
+      "deep_dive_ja": "省庁名が長いのが日本ニュース英語の特徴で、略さず正式名称を使います。operating systems は OS のことで、Apple や Google も規制対象に含める議論を示唆します。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The Children and Families Agency will determine specific measures and whether legal revisions are necessary when the final report, expected by summer, is submitted.",
+      "translation_ja": "こども家庭庁は、夏頃の提出が見込まれる最終報告書が提出された際に、具体的な措置と法改正の要否を判断する。",
+      "grammar_ja": "will determine が未来の述語。determine A and B で並列（measures / whether節）。when節は時を表す。expected by summer は report を後置修飾する過去分詞句（挿入）。is submitted は受動態。",
+      "chunks": [
+        {
+          "text": "The Children and Families Agency will determine",
+          "role_ja": "主節",
+          "literal_ja": "こども家庭庁は／判断するだろう",
+          "note_ja": "Children and Families Agency は2023年設立のこども家庭庁。determine は「判断・決定する」。"
+        },
+        {
+          "text": "specific measures and whether legal revisions are necessary",
+          "role_ja": "目的語（並列）",
+          "literal_ja": "具体的な措置と／法改正が必要かどうか",
+          "note_ja": "whether節は名詞節。legal revisions は「法改正」。"
+        },
+        {
+          "text": "when the final report, expected by summer, is submitted",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "最終報告書が提出されたとき／夏頃が見込まれる",
+          "note_ja": "expected by summer はカンマで挿入された付加情報。by summer は「夏までに・夏頃までに」。"
+        }
+      ],
+      "deep_dive_ja": "報道では expected by summer のように期限をカンマ挿入で挟むと読みやすくなります。whether ... are necessary は「必要かどうかを判断する」という公式な言い回しです。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "age verification",
+      "pronunciation": "/eɪdʒ ˌverɪfɪˈkeɪʃn/",
+      "meaning_ja": "年齢確認",
+      "example": "requiring them to perform stricter age verification",
+      "example_ja": "より厳格な年齢確認の実施を義務づける",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "blanket ban",
+      "pronunciation": "/ˈblæŋkɪt bæn/",
+      "meaning_ja": "一律の包括的禁止",
+      "example": "a blanket age-based ban, such as those seen in other countries",
+      "example_ja": "他国で見られるような年齢に基づく一律の禁止",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "underage",
+      "pronunciation": "/ˈʌndəreɪdʒ/",
+      "meaning_ja": "未成年の",
+      "example": "measures to protect underage social media users",
+      "example_ja": "未成年のソーシャルメディア利用者を守る施策",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "mitigate",
+      "pronunciation": "/ˈmɪtɪɡeɪt/",
+      "meaning_ja": "（悪影響・負担を）軽減する、和らげる",
+      "example": "to mitigate the burden on their mental and physical health",
+      "example_ja": "心身への負担を軽減するために",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "rule out",
+      "pronunciation": "/ruːl aʊt/",
+      "meaning_ja": "除外する、採用しないとする",
+      "example": "the panel ruled out an age-based blanket restriction",
+      "example_ja": "会議は年齢に基づく一律の制限を除外した",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "widespread adoption",
+      "pronunciation": "/ˈwaɪdspred əˈdɒpʃn/",
+      "meaning_ja": "広範な普及・導入",
+      "example": "the widespread adoption of smartphones and social media",
+      "example_ja": "スマートフォンとソーシャルメディアの広範な普及",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "legal revisions",
+      "pronunciation": "/ˈliːɡl rɪˈvɪʒnz/",
+      "meaning_ja": "法改正",
+      "example": "whether legal revisions are necessary",
+      "example_ja": "法改正が必要かどうか",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "parental monitoring",
+      "pronunciation": "/pəˈrentl ˈmɒnɪtərɪŋ/",
+      "meaning_ja": "保護者による監視・見守り",
+      "example": "parental monitoring at home",
+      "example_ja": "家庭での保護者による監視",
+      "source_sentence_id": "s005"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-inversion",
+      "title": "Reporting clause at end (indirect speech)",
+      "rule": "In news writing, the source and time often come at the end: '[Content], [source] said [time].'",
+      "example": "a blanket age-based ban may not be appropriate, a government panel said Tuesday.",
+      "meaning_ja": "報道英語では発言・判断の内容を先に長く述べ、文末に「誰が・いつ」と置く倒置が多い。日本語では「〜と会議は述べた」と自然に訳す。"
+    },
+    {
+      "id": "participle-purpose-chain",
+      "title": "Participial and infinitive purpose chains",
+      "rule": "Use -ing phrases and to-infinitives to stack policy goals: 'aiming to..., to mitigate...'",
+      "example": "aiming to reduce youth dependency on such services to mitigate the burden",
+      "meaning_ja": "分詞構文（aiming to）と不定詞（to mitigate）を重ね、政策の目的を層状に示す。B2では「なぜそうするのか」の論理追跡が重要。"
+    },
+    {
+      "id": "given-reason",
+      "title": "Given + noun phrase (reason)",
+      "rule": "'Given' introduces a reason more formally than 'because': 'Given the role of X as Y, ...'",
+      "example": "given the role of social media as an important communication tool",
+      "meaning_ja": "given は「〜を踏まえて・〜を考慮すると」という前置詞。公式報道や政策文で because より簡潔に理由を添える。"
+    },
+    {
+      "id": "present-perfect-progressive-since",
+      "title": "Present perfect progressive with Since",
+      "rule": "Since + past time point + have/has been + -ing shows an action continuing from then until now.",
+      "example": "Since last year, the Ministry ... has been discussing expanding the role",
+      "meaning_ja": "Since + 過去の時点 + 現在完了進行形で「その時以来ずっと〜し続けている」。継続中の政府検討を表すのに適した時制。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 7,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:28:18+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:japan-eyes-stricter-social-media-age-che"
+}

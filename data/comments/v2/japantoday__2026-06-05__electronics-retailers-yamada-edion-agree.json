@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-05:electronics-retailers-yamada-edion-agree",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:37:09+09:00",
+  "fetched_at": "2026-06-09T22:40:42+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I bought a clothes washing machine from Yamada Denki...it was the cheapest one, and a floor model, the last unit they had. I was very pleased with the price (￥22,000 if I remember) and with their service.",
+      "translation_ja": "ヤマダ電機で洗濯機を買った……一番安いモデルで、店頭展示品、在庫最後の1台だった。値段（たしか2万2,000円）もサービスもとても満足だった。",
+      "notes_ja": [
+        "「clothes washing machine」はややくどい言い方で、普通は washing machine だけで十分。",
+        "「...it」は省略記号の直後に続く書き言葉風のつなぎ。「floor model」は店頭展示品のこと。"
+      ],
+      "standard_en": "I bought a washing machine from Yamada Denki... It was the cheapest model, a floor display unit—the last one they had. I was very pleased with the price (¥22,000, if I remember correctly) and with their service.",
+      "marked_terms": [],
+      "comment_id": 5227323,
+      "author": "3RENSHO",
+      "rating": 2,
+      "posted_at": "2026-06-05T19:32:09+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Will Miyu Honda still be doing the Edion ads? That's all that mattters.",
+      "translation_ja": "本田美優さんはこれからもエディオンのCMをやるの？それさえ分かればいいんだけど。",
+      "notes_ja": [
+        "「That's all that matters」で本題よりCM出演者の方が大事、という軽い皮肉・半冗談のトーン。",
+        "「mattters」は matters のスペルミス。"
+      ],
+      "standard_en": "Will Miyu Honda still be doing the Edion ads? That's all that matters.",
+      "marked_terms": [],
+      "comment_id": 5227337,
+      "author": "shogun36",
+      "rating": 2,
+      "posted_at": "2026-06-05T19:52:51+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Will wait for BIC and Yodabashi to merge in response. Competition, what competition??",
+      "translation_ja": "ビックとヨドバシが対抗して合併するのを待つよ。競争？何それ？？",
+      "notes_ja": [
+        "冒頭の「Will wait」は I will wait の主語省略。口語・ネット投稿でよくある短縮。",
+        "「Competition, what competition??」は皮肉な反語で、実質的な競争はないと言っている。"
+      ],
+      "standard_en": "I'll wait for BIC and Yodobashi to merge in response. Competition? What competition??",
+      "marked_terms": [],
+      "comment_id": 5227374,
+      "author": "tora",
+      "rating": 2,
+      "posted_at": "2026-06-05T20:29:59+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "I think this is the second time edion merged. Before they were EIDEN. Then they merged with some other company. I do like edion.",
+      "translation_ja": "エディオンが合併するのは、これで2回目だと思う。以前はエイデンという名前だった。それから別の会社と合併した。個人的にはエディオンが好きだ。",
+      "notes_ja": [
+        "短い文を並べる話し言葉スタイル。「I do like」は do で好きさを少し強調。",
+        "edion を小文字で書いているのはカジュアルな表記。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227390,
+      "author": "Abe234",
+      "rating": 2,
+      "posted_at": "2026-06-05T21:24:59+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "I've bought from Yamada but not Edion.",
+      "translation_ja": "ヤマダでは買ったことがあるけど、エディオンでは買ったことがない。",
+      "notes_ja": [
+        "I've bought は have bought の現在完了で、これまでの経験を述べている。",
+        "文法的に標準的で、特に直す必要はない。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5227316,
+      "author": "wallace",
+      "rating": 0,
+      "posted_at": "2026-06-05T19:19:09+09:00"
+    }
+  ]
+}

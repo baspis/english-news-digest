@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-04:spacex-s-ipo-is-set-to-be-biggest-ever-a",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:31:09+09:00",
+  "fetched_at": "2026-06-09T22:35:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "That's obscene that one person can have that much money. If he gave money away to charity's that would be a good thing.",
+      "translation_ja": "一人がそんなに莫大な金を持てるなんて、ありえない話だ。もし彼が慈善団体に寄付するなら、それは良いことだろう。",
+      "notes_ja": [
+        "「charity's」は所有格の形だが、ここでは複数形の charities の誤りと思われる。",
+        "「If he gave...」は現実と違う仮定なので、仮定法過去（would be）とセットでよく使われる。"
+      ],
+      "standard_en": "If he gave money away to charities, that would be a good thing.",
+      "marked_terms": [],
+      "comment_id": 5224963,
+      "author": "runner3",
+      "rating": 10,
+      "posted_at": "2026-06-04T08:27:38+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Ive been waiting for the effects of trickle down economics to show themselves for nearly 50 years now. Nothing is trickling down. Tax the ultra-rich.",
+      "translation_ja": "たとえ兆長者になっても、彼は正当な分の税金を払わない理由を見つけ出すだろう。トリクルダウン経済の効果が現れるのを、もうほぼ50年待ち続けている。何も下に流れ落ちてこない。超富裕層に課税しろ。",
+      "notes_ja": [
+        "「Ive」は口語的な省略で、正式には I've（I have）と書く。",
+        "最後の「Tax the ultra-rich.」は主語・動詞のない命令文で、SNSやコメント欄でよく見る断片的な文体。"
+      ],
+      "standard_en": "I've been waiting for the effects of trickle-down economics to show themselves for nearly 50 years now.",
+      "marked_terms": [],
+      "comment_id": 5225167,
+      "author": "Derek Grebe",
+      "rating": 10,
+      "posted_at": "2026-06-04T09:40:44+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Musk is making the world worse. He merely piggybacks off the ideas of greater minds and he’s got the world’s biggest customer funding him. Perhaps if Musk and others paid taxes at the rate they should, the government wouldn’t have to issue bonds to those same wealthy gluttons and pay them interest for loaning the government money they wouldn’t pay into the government.",
+      "translation_ja": "マスクは世界を悪くしている。優れた頭脳のアイデアにただ便乗しているだけで、世界最大の顧客に資金を出してもらっている。もしマスクたちが本来払うべき税率で税金を払っていたら、政府は同じ富裕な強欲な連中に国債を発行して、政府に払わなかったお金を貸し付けた見返りに利子を払う必要もなかったかもしれない。",
+      "notes_ja": [
+        "「piggyback off」は「～の成果に便乗する」という口語的な表現。",
+        "長い一文だが、perhaps if ～ wouldn't have to の仮定法と、those same wealthy gluttons への言及が論点の中心。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "gluttons",
+          "symbol": "※",
+          "note_ja": "「大食漢・強欲な人」を罵る言葉。議論では使われても、丁寧な会話では避けた方がよい。"
+        }
+      ],
+      "comment_id": 5225008,
+      "author": "Namorada",
+      "rating": 8,
+      "posted_at": "2026-06-04T08:39:04+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Derek, Elon Musk paid an estimated $11 billion in federal income taxes for 2021. This massive single-year bill is widely considered the largest ever paid by an individual in U.S. history.",
+      "translation_ja": "たとえ兆長者になっても、彼は正当な分の税金を払わない理由を見つけ出すだろう。デレック、イーロン・マスクは2021年に連邦所得税として推定110億ドルを支払った。この巨額の単年分の税額は、米国史上個人が払った最大額と広く見なされている。",
+      "notes_ja": [
+        "冒頭は Derek のコメントへの反論として、同じ文を繰り返してから事実を提示している。",
+        "「Derek,」のように名前を呼んで直接話しかける、コメント欄特有の書き方。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5225266,
+      "author": "Would I lie to you?",
+      "rating": 6,
+      "posted_at": "2026-06-04T10:04:51+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "How come he gets away with little or no tax and the people who make his money for him get taxed up to the hilt?",
+      "translation_ja": "どうして彼はほとんど税金を払わずに済ませられるのに、彼の金を稼いでいる人たちは税金を徹底的に搾り取られるのか？",
+      "notes_ja": [
+        "「How come」は口語の「どうして～なのか」。",
+        "「get away with」は「（悪いこと・不利なことを）うまく逃れる」、「up to the hilt」は「徹底的に・限界まで」という強い口語表現。"
+      ],
+      "standard_en": "How come he gets away with paying little or no tax, while the people who make his money for him get taxed heavily?",
+      "marked_terms": [],
+      "comment_id": 5226158,
+      "author": "BertieWooster",
+      "rating": 3,
+      "posted_at": "2026-06-04T19:57:17+09:00"
+    }
+  ]
+}

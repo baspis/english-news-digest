@@ -1,0 +1,108 @@
+{
+  "article_id": "japantoday:2026-06-03:japan-eyes-stricter-social-media-age-che",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:29:03+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "As I think about it, I'm happy that I didn't grow up now in such an age with cyber bullying being what it is. Growing up was hard enough without it.",
+      "translation_ja": "よく考えると、今の時代に子ども時代を過ごさなくてよかったと思う。サイバーいじめがこんな状態なのに。それなしでも、成長するのは十分大変だった。",
+      "notes_ja": [
+        "「with cyber bullying being what it is」は「いじめがこんな有様なのに」という含みのある言い方。",
+        "2文目は前の内容を受けた短い付け足しで、口語ではよくある省略的な構造。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223439,
+      "author": "stormcrow",
+      "rating": 6,
+      "posted_at": "2026-06-03T07:20:19+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "The yutes and whippersnappers? JT will have nothing to worry about, with the average age of us old timers being so high.",
+      "translation_ja": "若い連中とか？Japan Todayの読者層は年寄りばかりで平均年齢も高いんだから、心配する必要なんてないよ。",
+      "notes_ja": [
+        "冒頭の疑問文は皮肉・からかいのトーンで、若者の話題に対する「関係ないでしょ」という含み。",
+        "「yutes」は映画由来の俗語的な「若者」、「whippersnappers」「old timers」は年配者が若者をからかう／自分たちを呼ぶくだけた言い方。"
+      ],
+      "standard_en": "The young people? Japan Today will have nothing to worry about, since the average age of us older readers is so high.",
+      "marked_terms": [
+        {
+          "term": "yutes",
+          "symbol": "◇",
+          "note_ja": "若者を指すくだけた俗語。映画『マイ・カズン・ヴィニー』由来で、日常会話ではあまり使わない。"
+        },
+        {
+          "term": "whippersnappers",
+          "symbol": "◇",
+          "note_ja": "「若造」「若い奴ら」といった、やや古風でからかい気味の呼び方。"
+        },
+        {
+          "term": "old timers",
+          "symbol": "◇",
+          "note_ja": "「年寄り」「古参者」のくだけた言い方。丁寧な場では避けた方がよい。"
+        }
+      ],
+      "comment_id": 5223581,
+      "author": "TorafusuTorasan",
+      "rating": 6,
+      "posted_at": "2026-06-03T08:19:56+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "So… they are going to require government ID if you want to continue using your social media accounts?",
+      "translation_ja": "つまり…ソーシャルメディアのアカウントを使い続けたいなら、政府発行の身分証明書が必要になるってこと？",
+      "notes_ja": [
+        "「So…」で始まる確認の疑問文。驚きや不安を含んだ口語。",
+        "文末の「?」は事実確認というより「まさかそんなことするの？」という含み。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223681,
+      "author": "Oops I Posted Again",
+      "rating": 5,
+      "posted_at": "2026-06-03T08:56:24+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "The only possible way they can restrict social media to an individual, is to do it the same way South Korea restricts Google searches and YouTube to viewers. By having a government issued ID and a phone number tied to that ID number only. I really hope they don't do that on here, tho. All in the name of \"protecting\" the children.",
+      "translation_ja": "ソーシャルメディアを個人単位で制限する唯一の方法は、韓国がGoogle検索やYouTubeを視聴者に制限しているのと同じやり方しかない。政府発行の身分証と、そのID番号に紐づいた電話番号だけを使う方法だ。日本でもそんなことにならないことを本当に願うけど。「子どもを守る」という名目のためにね。",
+      "notes_ja": [
+        "「By having…」で始まる文は前の文から続く説明の断片で、口語ではよくある。",
+        "最後の \"protecting\" は引用符付きで、保護を名目にしただけだという皮肉。"
+      ],
+      "standard_en": "The only possible way they can restrict social media to an individual is to do it the same way South Korea restricts Google searches and YouTube to viewers: by requiring a government-issued ID and a phone number tied to that ID number only. I really hope they don't do that here, though—all in the name of \"protecting\" the children.",
+      "marked_terms": [
+        {
+          "term": "tho",
+          "symbol": "◇",
+          "note_ja": "though のチャット・SNS向け短縮形。フォーマルな文章では使わない。"
+        }
+      ],
+      "comment_id": 5223731,
+      "author": "Garthgoyle",
+      "rating": 5,
+      "posted_at": "2026-06-03T09:08:46+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "I'm against censorship but is it wise for a primary school or junior high school student to have an internet unrestricted access phone?",
+      "translation_ja": "検閲には反対だけど、小学生や中学生がインターネットに制限なくアクセスできるスマホを持つのは賢明なのか？",
+      "notes_ja": [
+        "「internet unrestricted access phone」は語順が不自然で、本来は「a phone with unrestricted internet access」の方が自然。",
+        "「I'm against… but is it wise…」は口語では接続詞 that を省略した形。"
+      ],
+      "standard_en": "I'm against censorship, but is it wise for a primary school or junior high school student to have a phone with unrestricted internet access?",
+      "marked_terms": [],
+      "comment_id": 5223372,
+      "author": "kurisupisu",
+      "rating": 4,
+      "posted_at": "2026-06-03T06:55:59+09:00"
+    }
+  ]
+}

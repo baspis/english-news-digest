@@ -1,0 +1,19 @@
+World Wide Web pioneer Tim Berners-Lee says he wants to see artificial intelligence preserve "the original values" of his invention while allowing users to filter personal data sent to tech giants.
+The primacy "of the person, of the individual" was at the heart of the internet and should apply to AI too, he told AFP on the sidelines of the SXSW tech festival in London.
+The British physicist-turned-computer scientist conceived the web in 1989 while working at CERN, the European particle physics lab in Switzerland.
+Berners-Lee hailed AI as an "exciting" development -- but one that would benefit from being regulated.
+AI models "use the fact that the web has got so much data on it to be trained", he said.
+"It's important that people use this technology to make sure that their customers, their citizens, have got control over their own data," he said.
+Berners-Lee said that AI does not have anything like the World Wide Web Consortium, the international internet standards organization he founded.
+As a result, AI pioneers have not been able to "benefit from the collaboration that they would get if they did have something like that".
+Berners-Lee originally proposed his world-changing invention as a way for scientists around the world to share information about their research.
+He named this new network the World Wide Web (WWW), joining forces with Belgian Robert Cailliau in 1990 to develop it.
+The web was based on two pillars: the HTML language that allows the creation of a website, and the HTTP hypertext system that lets the user request and then receive a web page.
+Determined to make the web freely available to everyone, he did not patent his program, ensuring it took off and spread rapidly.
+With the use of personal data by AI models preoccupying authorities, particularly in Europe, Berners-Lee has made data protection his main cause in recent years, notably through the startup Inrupt.
+"Without data, (AI models) can't exist. And they've had unfettered access to everybody's data now, and if we don't watch it, we're going to get to a really bad spot," warned the company's co-founder John Bruce.
+Launched in 2018, Inrupt relies on secure data wallets that remain in the hands of users.
+It is also working to create an AI assistant called Charlie that will be able to filter users' requests to tools such as ChatGPT or Claude.
+"When you ask a question... it looks at what the question is... and decides which information to send" to the AI tool, Berners-Lee said.
+If there is personal information in there, Charlie will "tweak it" so the AI tool "gets a picture... but then it can't really use that to identify you".
+"Charlie is about preserving the original values of the web," he added.

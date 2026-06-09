@@ -1,0 +1,103 @@
+{
+  "article_id": "japantoday:2026-06-03:takaichi-s-office-starts-new-social-medi",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:46:59+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Well, so long it's a team of people whose job is to post info, and not the PM, fine. We don't want another unhinged oyaji manically posting from bed at night.",
+      "translation_ja": "まあ、総理本人じゃなくて、情報を投稿する仕事のチームなら問題ない。夜中にベッドから狂ったように投稿する、またあの手のおやじはもう御免だ。",
+      "notes_ja": [
+        "so long it's は口語で so long as it's（〜である限り）の省略形。",
+        "oyaji は日本語の「おやじ」（年配の男・おじさん）を英語文にそのまま入れた表現。"
+      ],
+      "standard_en": "Well, so long as it's a team of people whose job is to post info, and not the PM, that's fine. We don't want another unhinged old man manically posting from bed at night.",
+      "marked_terms": [
+        {
+          "term": "unhinged",
+          "symbol": "◇",
+          "note_ja": "「常識外れ・狂気じみた」という強い口語表現。フォーマルな場では避ける。"
+        },
+        {
+          "term": "oyaji",
+          "symbol": "◇",
+          "note_ja": "日本語由来の俗っぽい呼び方。丁寧な英語では old man などに言い換える。"
+        }
+      ],
+      "comment_id": 5223772,
+      "author": "Garthgoyle",
+      "rating": 11,
+      "posted_at": "2026-06-03T09:31:41+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "So Trumpism has finally crossed the Pacific and is now trending here: Takaichi's \"TLUSu SOUSHARU\" is just what we need to keep us sleepless in Japan. The gaslighting never stops.",
+      "translation_ja": "ついにトランプ主義が太平洋を渡って、こっちでも流行り始めたな。高市の「TLUSu SOUSHARU」なんて、まさに日本で眠れない夜を過ごすのにぴったりだ。ガスライティングは終わらない。",
+      "notes_ja": [
+        "sleepless in Japan は映画『Sleepless in Seattle』をもじった皮肉。",
+        "TLUSu SOUSHARU はソーシャルメディア名をからかった、ローマ字混じりの造語。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223793,
+      "author": "u_s__reamer",
+      "rating": 5,
+      "posted_at": "2026-06-03T09:45:14+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Will_Rendle Then having a system in place, where the PM is allowed to posts only at a specific time of the day, say from 14:00 to 17:00 on specific days. Only allowed to post about specific topics AND authorized info only. If the PM decided to post her personal opinion about anything and confidencial info, then the PM's permission to post on that account gets revoked.",
+      "translation_ja": "Will_Rendle なら、総理が投稿できるのは決まった時間帯だけ、たとえば特定の日の14時から17時まで、という仕組みを作るべきだ。投稿できるのは特定のテーマと、許可された情報だけ。もし総理が個人的な意見や機密情報を投稿したら、そのアカウントへの投稿権限は取り上げる。",
+      "notes_ja": [
+        "allowed to posts は文法的に誤りで、正しくは allowed to post。",
+        "confidencial は confidential のスペルミス。"
+      ],
+      "standard_en": "Will_Rendle Then having a system in place where the PM is allowed to post only at a specific time of the day, say from 14:00 to 17:00 on specific days. She should only be allowed to post about specific topics and authorized information. If the PM decides to post her personal opinion about anything or confidential information, then the PM's permission to post on that account gets revoked.",
+      "marked_terms": [],
+      "comment_id": 5223824,
+      "author": "Garthgoyle",
+      "rating": 5,
+      "posted_at": "2026-06-03T09:58:41+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Will_Rendle Makes her look not like a puppet, but the public servant she is. Remember, prime ministers and presidents are elected to do a job. Not to do whatever they want with absolutely no repercussions nor responsibilities. They are not kings.",
+      "translation_ja": "Will_Rendle そうすれば、操り人形ではなく、本来の公僕として見える。首相や大統領は仕事をするために選ばれたんだ。何でも好き勝手やって、まったく責任も結果も問われないためじゃない。王様じゃない。",
+      "notes_ja": [
+        "Not to do... は前の文 Remember... を受ける断片的な書き方（文頭が大文字でも独立文として未完に見える）。",
+        "nor responsibilities は口語的だが、教科書的には or responsibilities の方が自然な場合もある。"
+      ],
+      "standard_en": "Will_Rendle That makes her look not like a puppet, but like the public servant she is. Remember, prime ministers and presidents are elected to do a job—not to do whatever they want with absolutely no repercussions or responsibilities. They are not kings.",
+      "marked_terms": [
+        {
+          "term": "puppet",
+          "symbol": "◇",
+          "note_ja": "政治文脈で「操り人形・傀儡」の意味。直接人を指して言うと強い侮辱になりうる。"
+        }
+      ],
+      "comment_id": 5224076,
+      "author": "Garthgoyle",
+      "rating": 5,
+      "posted_at": "2026-06-03T12:17:20+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Easier to control her and avoid gaffes.",
+      "translation_ja": "彼女をコントロールしやすくて、失言も防げるからね。",
+      "notes_ja": [
+        "主語・動詞が省略された断片文（It is easier to... の It is が落ちている）。",
+        "カンマなしの短い二文構造で、皮肉めいた口調。"
+      ],
+      "standard_en": "It's easier to control her and avoid gaffes.",
+      "marked_terms": [],
+      "comment_id": 5224040,
+      "author": "Negative Nancy",
+      "rating": 3,
+      "posted_at": "2026-06-03T11:42:25+09:00"
+    }
+  ]
+}

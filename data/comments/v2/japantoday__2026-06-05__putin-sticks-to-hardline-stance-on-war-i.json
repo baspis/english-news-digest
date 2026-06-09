@@ -1,0 +1,109 @@
+{
+  "article_id": "japantoday:2026-06-05:putin-sticks-to-hardline-stance-on-war-i",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:37:09+09:00",
+  "fetched_at": "2026-06-09T23:13:51+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Trump ideas could bring peace! What a joke from a guy that starts a war he can't end, besides didn't he say he was going to end the Russian Ukraine war day one in office!",
+      "translation_ja": "トランプのアイデアで平和がもたらされるなんて！自分では終わらせられない戦争を始めた男の冗談だろ。それに、大統領就任初日にロシア・ウクライナ戦争を終わらせると言ってなかったっけ！",
+      "notes_ja": [
+        "「Trump ideas」は所有格 Trump's が省略された口語的な言い方。",
+        "「besides」で文をつなぐのは口語的。人を指すのに who ではなく that を使うのも日常英語ではよくある。"
+      ],
+      "standard_en": "Trump's ideas could bring peace! What a joke from a guy who starts a war he can't end. Besides, didn't he say he was going to end the Russian-Ukraine war on day one in office?",
+      "marked_terms": [],
+      "comment_id": 5226618,
+      "author": "runner3",
+      "rating": 13,
+      "posted_at": "2026-06-05T09:07:04+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "“. . . Trump ideas could bring peace” What ideas?! Yeah, right. Give up! Surrender!",
+      "translation_ja": "「…トランプのアイデアで平和がもたらされる」って？ どんなアイデアだよ？！ そうだね、まあな。降参しろ！ 降伏しろ！",
+      "notes_ja": [
+        "引用のあと文が途切れ、「What ideas?!」のように断片的な疑問文だけが続く。",
+        "「Yeah, right.」は同意ではなく強い皮肉。最後の Give up! / Surrender! は相手（ウクライナ）への降伏を促す皮肉。"
+      ],
+      "standard_en": "\"...Trump's ideas could bring peace.\" What ideas?! Yeah, right. Give up! Surrender!",
+      "marked_terms": [
+        {
+          "term": "Yeah, right",
+          "symbol": "◇",
+          "note_ja": "文字どおり「そうだね」ではなく「まさか」「そんなわけない」という皮肉の決まり文句"
+        }
+      ],
+      "comment_id": 5226595,
+      "author": "stormcrow",
+      "rating": 11,
+      "posted_at": "2026-06-05T08:58:45+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Trump ideas What could go wrong?",
+      "translation_ja": "トランプのアイデア。何がうまくいかないっていうの？",
+      "notes_ja": [
+        "句読点なしで文が並ぶだけの超短文。",
+        "「What could go wrong?」は文字どおりの心配ではなく「どうせひどいことになるだろ」という皮肉の決まり文句。"
+      ],
+      "standard_en": "Trump's ideas. What could go wrong?",
+      "marked_terms": [
+        {
+          "term": "What could go wrong?",
+          "symbol": "◇",
+          "note_ja": "失敗を予想する皮肉の定型表現。真面目な質問として使わない"
+        }
+      ],
+      "comment_id": 5226533,
+      "author": "Wasabi",
+      "rating": 6,
+      "posted_at": "2026-06-05T08:32:38+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "\"Trump's ideas\"? Surely, suggesting he has ideas is the Russian's attempt at flattery diplomacy. What Putin is probably getting at is that peace is now possible if Zelenskyy does as he was told by Trump and lets Putin keep the piece of Ukraine the Russians hold after sacrificing the lives of 500,000 men. That's serial killing on steroids. Personally, I think justice demands Putin's head among those of others. Too bad there's no more Nuremberg.",
+      "translation_ja": "「トランプのアイデア」？ 彼にアイデアがあると言うのは、ロシア側のお世辞外交の試みに違いない。プーチンが言いたいのはたぶん、ゼレンスキーがトランプに言われたとおりにして、ロシアが50万人の命を犠牲にして手に入れたウクライナの領土をプーチンが保持できるなら平和は可能だ、ということだろう。それはステロイドを打った連続殺人だ。個人的には、正義はプーチンを含む他の者たちの首を要求すると思う。残念ながらもうニュルンベルクはない。",
+      "notes_ja": [
+        "「getting at」は「本当の言いたいことは〜だ」という口語。",
+        "「on steroids」は薬物を連想させる比喩で、程度が極端だと強調する俗語的表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "on steroids",
+          "symbol": "◇",
+          "note_ja": "「〜の強化版」「極端な〜」という俗語的な強調。フォーマルな文章では避ける"
+        },
+        {
+          "term": "Putin's head",
+          "symbol": "※",
+          "note_ja": "処刑・処断を求める暴力的な比喩。公の場や丁寧な会話では使わない"
+        }
+      ],
+      "comment_id": 5226548,
+      "author": "u_s__reamer",
+      "rating": 6,
+      "posted_at": "2026-06-05T08:37:57+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "It’s difficult to believe that the worst President and wartime Commander-in-Chief the United States has ever had could even tie a shoelace, let alone have good ideas about how to stop this war without Ukrainian capitulation. Diplomacy will end this war, but regrettably, it’s going to take more attacks on Russia to bring them to the table in any meaningful way.",
+      "translation_ja": "アメリカ史上もっとも最悪の大統領兼戦時最高司令官が、靴ひもを結べるどころか、ウクライナの降伏なしにこの戦争を止める良い考えを持てるとは信じがたい。外交でこの戦争は終わるだろうが、残念ながらロシアを意味のある交渉の場に引きずり出すには、さらなるロシアへの攻撃が必要になるだろう。",
+      "notes_ja": [
+        "「let alone」は「〜どころか」で、前の否定・低評価をさらに強める構文。",
+        "「bring them to the table」は交渉の場に着席させる、つまり本気の和平交渉に入らせるという慣用表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5226734,
+      "author": "MontiePieThong",
+      "rating": 6,
+      "posted_at": "2026-06-05T09:43:25+09:00"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "japantoday:2026-06-02:stations-facilities-using-ai-system-to-p",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:17:12+09:00",
+  "fetched_at": "2026-06-09T22:20:05+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "the surveillance state is being implemented Does anyone actually think train stations have not been monitored from every possible angle for decades now? AI is not inherently evil, or melodramatically \"demonic\". It's a technology, it all depends on who is using it and for what . And if it helps to actually save lives, why reject that on moralistic grounds?",
+      "translation_ja": "監視国家が実装されつつある。そもそも何十年も前から、駅はあらゆる角度から監視されてきたと本気で思っている人がいるのか？AI自体が悪でも、ドラマチックに「悪魔的」でもない。それは技術であり、誰が何の目的で使うか次第だ。そして本当に命を救うのに役立つなら、道徳論でそれを拒否する理由があるのか？",
+      "notes_ja": [
+        "文頭の the が小文字で、implemented の直後に句点がなく次の文とつながっている（ネット投稿でよくある省略）。",
+        "It's a technology, it all depends... はカンマスプライス（本来はセミコロンか and でつなぐ）。for what . は語尾の余分なスペース。"
+      ],
+      "standard_en": "The surveillance state is being implemented. Does anyone actually think train stations have not been monitored from every possible angle for decades now? AI is not inherently evil, or melodramatically \"demonic\". It's a technology; it all depends on who is using it and for what. And if it helps to actually save lives, why reject that on moralistic grounds?",
+      "marked_terms": [],
+      "comment_id": 5222470,
+      "author": "Firefly",
+      "rating": 8,
+      "posted_at": "2026-06-02T07:58:42+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I am not a big fan of AI, but if it really helps to prevent suicides, especially in children, I am 100% in.",
+      "translation_ja": "AIはあまり好きではないが、本当に自殺、特に子どもの自殺を防ぐのに役立つなら、100パーセント賛成だ。",
+      "notes_ja": [
+        "not a big fan of = 好きではない、あまり乗り気ではない（口語的な言い方）。",
+        "100% in = 完全に賛成する、全面的に支持する（口語イディオム）。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "100% in",
+          "symbol": "◇",
+          "note_ja": "「完全に賛成」の口語。フォーマルな場では I fully support it などと言い換える。"
+        }
+      ],
+      "comment_id": 5222381,
+      "author": "Monty",
+      "rating": 4,
+      "posted_at": "2026-06-02T07:20:13+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "The anime Psycho Pass is becoming a reality as we go along. It was set 90 years in the future in Japan. Look it up, the tech shown there is becoming a reality today. Back on topic, if this particular AI can identify potential jumpers , it can very well be used to identify more nefarious things that are in the interest of a select few. A really dangerous double-edged sword.",
+      "translation_ja": "アニメ『PSYCHO-PASS』が、進むにつれて現実になりつつある。舞台は日本の90年後だった。調べてみてほしい、あそこに描かれた技術が今日現実になっている。本題に戻るが、このAIが飛び降りそうな人を特定できるなら、少数の利益のために、もっと邪悪なことの特定にも十分使える。本当に危険な両刃の剣だ。",
+      "notes_ja": [
+        "as we go along = 時間が経つにつれて、進行するうちに。Back on topic = 話を本題に戻す（掲示板・コメント欄の決まり文句）。",
+        "jumpers = 飛び降り自殺をしようとする人（直接語。ニュースでは jumping や people at risk などと言うことも）。最後の A really dangerous... は文が短く切れているが、前の文の結論として自然。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "jumpers",
+          "symbol": "◇",
+          "note_ja": "自殺未遂者を指す口語・直接語。丁寧な文脈では people at risk of jumping などと言う方が無難。"
+        }
+      ],
+      "comment_id": 5222477,
+      "author": "Toshihiro",
+      "rating": 3,
+      "posted_at": "2026-06-02T08:00:46+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "@sakurasuki So far there is 20 thousands suicide in Japan, that system only saved or only postponed 2 lives? That's only 0.01 % of all numbers. Even if you can only save a single person's life, then for that one person you've just made all the difference in the world.",
+      "translation_ja": "@sakurasuki これまで日本では2万件の自殺があるのに、そのシステムが救った、あるいは先延ばしにしたのは2件だけ？全体の0.01%にすぎない。たとえ1人の命しか救えなくても、その1人にとっては世界が変わるほどの違いをもたらしたことになる。",
+      "notes_ja": [
+        "there is 20 thousands suicide は文法的に不自然（正しくは there have been 20 thousand suicides）。カンマの後も続くのはカンマスプライス。",
+        "all numbers = 全体の件数・数字のことと推測されるが、やや曖昧。前半は数字への懐疑、後半は「1人でも救えれば意味がある」という反論のトーン。"
+      ],
+      "standard_en": "@sakurasuki So far there have been 20 thousand suicides in Japan, and that system only saved—or only postponed—2 lives? That's only 0.01% of the total. Even if you can only save a single person's life, for that one person you've just made all the difference in the world.",
+      "marked_terms": [],
+      "comment_id": 5222793,
+      "author": "raincloud",
+      "rating": 3,
+      "posted_at": "2026-06-02T12:22:46+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "I take it that was sarcasm. There things are NEVER about the children. Did you even read the article??? In another case, a child was found lingering for a long time near a railing on an upper floor of a facility, and a security guard discovered the child had been writing a suicide note, it said.",
+      "translation_ja": "それは皮肉だったんだろうね。こういう話は決して子どものためじゃない。記事を読んだのか？？？別の事例では、施設の上階の手すり付近に長時間うろついている子どもが見つかり、警備員がその子が遺書を書いていたことを発見した、と記事には書いてあった。",
+      "notes_ja": [
+        "There things は These things のタイプミス。NEVER は大文字で強調（怒り・皮肉）。??? はイライラした反論のトーン。",
+        "I take it that... = 〜だったんだろうと理解した。it said = 記事がそう述べていた（文末の報道引用型）。"
+      ],
+      "standard_en": "I take it that was sarcasm. These things are NEVER about the children. Did you even read the article??? In another case, a child was found lingering for a long time near a railing on an upper floor of a facility, and a security guard discovered the child had been writing a suicide note, the article said.",
+      "marked_terms": [],
+      "comment_id": 5222500,
+      "author": "Monty",
+      "rating": 1,
+      "posted_at": "2026-06-02T08:11:05+09:00"
+    }
+  ]
+}

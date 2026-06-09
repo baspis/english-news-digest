@@ -1,0 +1,907 @@
+{
+  "summary_ja": "埼玉県の回転寿司店「はま寿司」で、男性が持参した容器から寿司に液体を吹きかけた動画をTikTokに投稿し、逮捕された事件を報じた記事です。本人は水だったと主張するものの、レーン上での行為は他の客の食べ物に飛散する可能性があり、店の信用を損なうとして業務妨害罪で摘発されました。2023年の「寿司テロ」騒動以降、こうした悪ざつな投稿への社会的な許容はほぼなくなっています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "A lot of things in Japan rely on the country's ability to trust that people will be considerate and respectful.",
+      "translation_ja": "日本では多くのことが、人々が思いやりを持ち礼儀正しく振る舞うと信じられるという前提の上に成り立っています。",
+      "grammar_ja": "rely on は「〜に依存する」。that節はtrustの内容を示す名詞節。considerate and respectful は並列形容詞で「配慮があり礼儀正しい」。",
+      "chunks": [
+        {
+          "text": "A lot of things in Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本では多くのこと",
+          "note_ja": "a lot of は可算名詞 things と組み合わせて「多くのこと」。場所を示す in Japan。"
+        },
+        {
+          "text": "rely on",
+          "role_ja": "述語（動詞句）",
+          "literal_ja": "〜に依存する",
+          "note_ja": "rely on はコロケーション。「信頼する」より「前提として頼る」のニュアンス。"
+        },
+        {
+          "text": "the country's ability to trust",
+          "role_ja": "目的語",
+          "literal_ja": "国が信じる能力",
+          "note_ja": "ability to trust は「信じる力・信頼できる状態」。抽象名詞の ability + to不定詞。"
+        },
+        {
+          "text": "that people will be considerate and respectful",
+          "role_ja": "同格節",
+          "literal_ja": "人々が思いやり深く礼儀正しいということ",
+          "note_ja": "that節が trust の内容を説明。will be は一般的な期待を表す。"
+        }
+      ],
+      "deep_dive_ja": "記事の導入で、日本社会の「信頼」というテーマを提示しています。ニュース解説では抽象的な主張から具体例へ進む構成がよく使われます。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Perhaps nowhere is this more clearly displayed than in the existence of conveyor belt sushi restaurants, in which automated delivery of food to customers is carried out under the assumption that no one will do anything disruptive or unsanitary along the way.",
+      "translation_ja": "そのことが最もはっきり表れているのは、おそらく回転寿司店の存在でしょう。そこでは料理が自動的に客のもとへ届けられますが、途中で誰も迷惑行為や不衛生なことをしないという前提の上に成り立っています。",
+      "grammar_ja": "倒置構文 nowhere is this more... than...。関係代名詞 in which は場所・状況を修飾。under the assumption that は「〜という前提の下で」。",
+      "chunks": [
+        {
+          "text": "Perhaps nowhere is this more clearly displayed",
+          "role_ja": "主部（倒置）",
+          "literal_ja": "おそらくどこよりもこれが明確に示されている場所はない",
+          "note_ja": "nowhere を文頭に置き this is と倒置。more clearly displayed は比較級 + 受動態。"
+        },
+        {
+          "text": "than in the existence of conveyor belt sushi restaurants",
+          "role_ja": "比較対象",
+          "literal_ja": "回転寿司店の存在においてより",
+          "note_ja": "than in ... で比較。conveyor belt sushi は「回転寿司」。"
+        },
+        {
+          "text": "in which automated delivery of food to customers is carried out",
+          "role_ja": "関係節",
+          "literal_ja": "その中で料理の自動配達が行われる",
+          "note_ja": "非限定用法の関係代名詞 which (= restaurants)。is carried out は受動態。"
+        },
+        {
+          "text": "under the assumption that no one will do anything disruptive or unsanitary",
+          "role_ja": "状況を示す前置詞句",
+          "literal_ja": "誰も迷惑・不衛生なことをしないという前提の下で",
+          "note_ja": "under the assumption that は硬めの表現。disruptive / unsanitary はニュースでよく使われる形容詞。"
+        },
+        {
+          "text": "along the way",
+          "role_ja": "副詞句",
+          "literal_ja": "その過程で",
+          "note_ja": "直訳「道の途中で」ではなく「（配達の）途中で」の意味。"
+        }
+      ],
+      "deep_dive_ja": "一文が長いので、関係節と前提（assumption）の部分に分けて読むと理解しやすいです。displayed は「展示される」より「（特徴として）現れる」の意味です。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "In other words, one of Japan's most popular restaurant genres is dependent on people refraining from behavior within the \"jerk\" and \"jackass \" sections of the societal spectrum.",
+      "translation_ja": "言い換えれば、日本で最も人気のある飲食ジャンルの一つは、社会的な振る舞いのうち「最低な人」「嫌な奴」レベルの行動を慎むことにかかっているのです。",
+      "grammar_ja": "In other words は前文の言い換え。be dependent on + 動名詞 refraining。within ... sections of は「〜の範囲内で」。口語的な jerk / jackass が対比のために使われている。",
+      "chunks": [
+        {
+          "text": "In other words",
+          "role_ja": "接続副詞句",
+          "literal_ja": "言い換えれば",
+          "note_ja": "前文を平易に言い直すときの定型表現。"
+        },
+        {
+          "text": "one of Japan's most popular restaurant genres",
+          "role_ja": "主語",
+          "literal_ja": "日本で最も人気のある飲食ジャンルの一つ",
+          "note_ja": "one of the + 最上級 + 複数名詞 の型。genre は「ジャンル・種類」。"
+        },
+        {
+          "text": "is dependent on",
+          "role_ja": "述語",
+          "literal_ja": "〜に依存している",
+          "note_ja": "rely on と近いが、ややフォーマル。"
+        },
+        {
+          "text": "people refraining from behavior",
+          "role_ja": "目的語（動名詞構文）",
+          "literal_ja": "人々が行動を控えること",
+          "note_ja": "dependent on の後は名詞・動名詞。refrain from は「〜を慎む」。"
+        },
+        {
+          "text": "within the \"jerk\" and \"jackass\" sections of the societal spectrum",
+          "role_ja": "修飾語",
+          "literal_ja": "社会的スペクトルの「最低」「嫌な奴」区分の中で",
+          "note_ja": "スラングを皮肉込みで使う文体。spectrum はここで「段階・範囲」。"
+        }
+      ],
+      "deep_dive_ja": "本来フォーマルな論説調の文に俗語を混ぜ、読者の注意を引く書き方です。日本語訳ではニュアンスを保ちつつ、過度に下品にならないよう調整します。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Unfortunately that proved to be too tall a task for one man, who's now been arrested after posting a disgusting video of his recent visit to Hama Sushi, one of Japan's biggest conveyor belt sushi chains.",
+      "translation_ja": "残念ながら、その「高すぎるハードル」はある男性にとっては高すぎたようで、日本最大級の回転寿司チェーン「はま寿司」への最近の訪問を映した不快な動画を投稿したことで、現在逮捕されています。",
+      "grammar_ja": "prove to be は「〜だと判明する」。too tall a task は too + 形容詞 + a + 名詞 の語順。who's now been arrested は非限定関係節。after posting は前置詞 + 動名詞。",
+      "chunks": [
+        {
+          "text": "Unfortunately",
+          "role_ja": "文副詞",
+          "literal_ja": "残念ながら",
+          "note_ja": "前文の楽観的な話題から転換する接続。"
+        },
+        {
+          "text": "that proved to be too tall a task",
+          "role_ja": "主語＋述語",
+          "literal_ja": "それは高すぎる課題であると判明した",
+          "note_ja": "too tall a task は慣用表現で「難しすぎる要求」。"
+        },
+        {
+          "text": "for one man",
+          "role_ja": "対象を示す前置詞句",
+          "literal_ja": "ある男性にとって",
+          "note_ja": "prove to be ... for は「〜にとって〜だとわかる」。"
+        },
+        {
+          "text": "who's now been arrested",
+          "role_ja": "関係節（述語）",
+          "literal_ja": "彼は今逮捕されている",
+          "note_ja": "現在完了受動態。事件の最新状況を示す。"
+        },
+        {
+          "text": "after posting a disgusting video of his recent visit to Hama Sushi",
+          "role_ja": "時を示す前置詞句",
+          "literal_ja": "はま寿司への最近の訪問の不快な動画を投稿した後",
+          "note_ja": "after + 動名詞。of his recent visit は video の内容を説明。"
+        },
+        {
+          "text": "one of Japan's biggest conveyor belt sushi chains",
+          "role_ja": "同格語",
+          "literal_ja": "日本最大級の回転寿司チェーンの一つ",
+          "note_ja": "Hama Sushi を補足説明する同格構造。"
+        }
+      ],
+      "deep_dive_ja": "too tall a task は直訳しにくい慣用表現です。disgusting は法的評価ではなく、記者・読者の道徳的反応を示しています。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "In the video, which the man posted to TikTok, he can be seen squirting liquid from a dish soap container, which he had brought to the restaurant with him, onto a plate of sushi.",
+      "translation_ja": "男性がTikTokに投稿した動画では、彼が店に持ち込んだ食器用洗剤の容器から液体を寿司の皿に吹きかけている様子が映っています。",
+      "grammar_ja": "which the man posted to TikTok は非限定関係節。can be seen + 現在分詞 squirting は「〜しているのが見える」構文。onto は方向を示す前置詞。",
+      "chunks": [
+        {
+          "text": "In the video",
+          "role_ja": "状況を示す前置詞句",
+          "literal_ja": "動画の中で",
+          "note_ja": "具体描写の導入。"
+        },
+        {
+          "text": "which the man posted to TikTok",
+          "role_ja": "関係節",
+          "literal_ja": "男性がTikTokに投稿した",
+          "note_ja": "関係代名詞の省略：which (he) posted。"
+        },
+        {
+          "text": "he can be seen squirting liquid",
+          "role_ja": "主部",
+          "literal_ja": "彼が液体を吹きかけているのが見える",
+          "note_ja": "can be seen + -ing は受動的知覚構文。"
+        },
+        {
+          "text": "from a dish soap container",
+          "role_ja": "出所を示す前置詞句",
+          "literal_ja": "食器用洗剤の容器から",
+          "note_ja": "dish soap は「食器用洗剤」。"
+        },
+        {
+          "text": "which he had brought to the restaurant with him",
+          "role_ja": "関係節",
+          "literal_ja": "彼が店に持ち込んだ",
+          "note_ja": "過去完了は動画より前の行為を示す。"
+        },
+        {
+          "text": "onto a plate of sushi",
+          "role_ja": "方向を示す前置詞句",
+          "literal_ja": "寿司の皿の上へ",
+          "note_ja": "onto は「〜の上に（接触して）」。"
+        }
+      ],
+      "deep_dive_ja": "関係節が二つ重なる複雑な文です。主節は he can be seen ... onto a plate だけを先に掴むと整理できます。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The video was recorded at a Hama Sushi branch in Saitama Prefecture and posted on May 27.",
+      "translation_ja": "動画は埼玉県内のはま寿司の店舗で撮影され、5月27日に投稿されました。",
+      "grammar_ja": "was recorded ... and posted は受動態の並列。branch はチェーン店の「支店」。on May 27 は日付。",
+      "chunks": [
+        {
+          "text": "The video",
+          "role_ja": "主語",
+          "literal_ja": "動画は",
+          "note_ja": "前文の the video を受ける。"
+        },
+        {
+          "text": "was recorded at a Hama Sushi branch in Saitama Prefecture",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "埼玉県のはま寿司支店で撮影された",
+          "note_ja": "record a video は「動画を撮る」。"
+        },
+        {
+          "text": "and posted on May 27",
+          "role_ja": "述語（受動態・並列）",
+          "literal_ja": "そして5月27日に投稿された",
+          "note_ja": "posted の主語は the video（省略）。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "One week later, the Saitama Prefectural Police have not only identified the man who posted the video as an unemployed 43-year-old resident of the Saitama town of Moroyama, they've also arrested him on charges of forced obstruction of business.",
+      "translation_ja": "1週間後、埼玉県警は動画を投稿した男性が埼玉県茂呂山町在住の無職43歳であると特定しただけでなく、業務妨害の容疑で逮捕しました。",
+      "grammar_ja": "not only ... but also（ここでは they've also）の相関構文。identify A as B は「AをBと特定する」。on charges of は「〜の容疑で」。",
+      "chunks": [
+        {
+          "text": "One week later",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "1週間後",
+          "note_ja": "事件の時系列を示す。"
+        },
+        {
+          "text": "the Saitama Prefectural Police",
+          "role_ja": "主語",
+          "literal_ja": "埼玉県警は",
+          "note_ja": "Prefectural Police は「県警」。"
+        },
+        {
+          "text": "have not only identified the man ... as an unemployed 43-year-old resident",
+          "role_ja": "述語（前半）",
+          "literal_ja": "男性を無職43歳の住民と特定しただけでなく",
+          "note_ja": "identify ... as ... の型。who posted the video が man を修飾。"
+        },
+        {
+          "text": "they've also arrested him",
+          "role_ja": "述語（後半）",
+          "literal_ja": "彼を逮捕もした",
+          "note_ja": "not only と also が対応。"
+        },
+        {
+          "text": "on charges of forced obstruction of business",
+          "role_ja": "理由・容疑を示す前置詞句",
+          "literal_ja": "業務妨害の容疑で",
+          "note_ja": "forced obstruction of business は日本の「業務妨害罪」に相当。"
+        }
+      ],
+      "deep_dive_ja": "ニュースでは identify ... as と arrest ... on charges of がセットでよく出ます。Moroyama は地名の茂呂山町です。",
+      "difficulty": "hard",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "There are a couple of aspects of the incident that warrant further discussion.",
+      "translation_ja": "この事件には、さらに議論に値する点がいくつかあります。",
+      "grammar_ja": "There are 構文。that warrant further discussion は aspects を修飾する関係節。warrant は「〜する正当な理由がある」というやや硬い動詞。",
+      "chunks": [
+        {
+          "text": "There are a couple of aspects of the incident",
+          "role_ja": "主部",
+          "literal_ja": "事件にはいくつかの側面がある",
+          "note_ja": "a couple of は「2〜3の、いくつかの」。"
+        },
+        {
+          "text": "that warrant further discussion",
+          "role_ja": "関係節",
+          "literal_ja": "さらなる議論に値する",
+          "note_ja": "warrant は warrant further discussion で「議論する価値がある」。"
+        }
+      ],
+      "deep_dive_ja": "記事の転換点で、これから詳しく説明するという合図です。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "To start with, the man did not squirt the liquid on sushi that was eaten by another customer.",
+      "translation_ja": "まず第一に、この男性が液体を吹きかけたのは、他の客が食べた寿司ではありませんでした。",
+      "grammar_ja": "To start with は列挙の導入。that was eaten by another customer は sushi を修飾する受動態の関係節。",
+      "chunks": [
+        {
+          "text": "To start with",
+          "role_ja": "接続副詞句",
+          "literal_ja": "まず第一に",
+          "note_ja": "複数の論点を述べるときの最初の項目。"
+        },
+        {
+          "text": "the man did not squirt the liquid on sushi",
+          "role_ja": "主部",
+          "literal_ja": "男性は寿司に液体を吹きかけなかったのではない",
+          "note_ja": "否定文。事件の重要な事実を限定。"
+        },
+        {
+          "text": "that was eaten by another customer",
+          "role_ja": "関係節",
+          "literal_ja": "他の客に食べられた",
+          "note_ja": "どの寿司かを特定。被害の程度を議論する前提。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In recent years, in order to improve efficiency and provide fresher food, many conveyor belt sushi restaurants in Japan have done away with the old system of pre-making sushi pieces and sending them on plates down the belt to be grabbed by whoever wants them.",
+      "translation_ja": "近年、効率化とより新鮮な料理提供のため、日本の多くの回転寿司店は、寿司を事前に作って皿に載せ、ベルトを流して欲しい人が取るという従来の方式を廃止しています。",
+      "grammar_ja": "in order to は目的。have done away with は現在完了で「廃止した」。to be grabbed は目的の受動不定詞。whoever wants them は名詞節。",
+      "chunks": [
+        {
+          "text": "In recent years",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "近年",
+          "note_ja": "背景説明の時間枠。"
+        },
+        {
+          "text": "in order to improve efficiency and provide fresher food",
+          "role_ja": "目的を示す不定詞句",
+          "literal_ja": "効率を上げ、より新鮮な料理を提供するために",
+          "note_ja": "in order to はフォーマルな目的表現。"
+        },
+        {
+          "text": "have done away with the old system",
+          "role_ja": "述語",
+          "literal_ja": "古い方式を廃止した",
+          "note_ja": "do away with は「廃止する・やめる」の句動詞。"
+        },
+        {
+          "text": "of pre-making sushi pieces and sending them on plates down the belt",
+          "role_ja": "system の内容を示す前置詞句",
+          "literal_ja": "寿司を事前に作り、皿に載せてベルトを流す",
+          "note_ja": "pre-making は「事前製造」。"
+        },
+        {
+          "text": "to be grabbed by whoever wants them",
+          "role_ja": "目的・結果を示す不定詞",
+          "literal_ja": "欲しい人に取られるように",
+          "note_ja": "whoever = anyone who。回転寿司の旧来の仕組みを説明。"
+        }
+      ],
+      "deep_dive_ja": "事件理解のための背景説明です。done away with はニュースでもよく使われる句動詞で、do without などと混同しないよう注意。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Instead, the vast majority of the food, and at many conveyor belt sushi restaurants all of it, is made after the customer places an order, then sent down the belt and automatically stops at the table of the diner who ordered it.",
+      "translation_ja": "代わりに、料理の大半は—多くの店では全てが—客が注文してから作られ、ベルトを流され、注文した客のテーブルで自動的に止まります。",
+      "grammar_ja": "Instead で前文と対比。主語と述語の数の一致に注意（majority / food が単数扱い）。places an order は「注文する」。who ordered it は diner を修飾。",
+      "chunks": [
+        {
+          "text": "Instead",
+          "role_ja": "接続副詞",
+          "literal_ja": "代わりに",
+          "note_ja": "新旧システムの対比。"
+        },
+        {
+          "text": "the vast majority of the food",
+          "role_ja": "主語",
+          "literal_ja": "料理の大半は",
+          "note_ja": "vast majority は「圧倒的多数」。"
+        },
+        {
+          "text": "and at many conveyor belt sushi restaurants all of it",
+          "role_ja": "挿入語",
+          "literal_ja": "多くの回転寿司店ではその全てが",
+          "note_ja": "カンマで挟んだ補足情報。"
+        },
+        {
+          "text": "is made after the customer places an order",
+          "role_ja": "述語（前半）",
+          "literal_ja": "客が注文した後に作られる",
+          "note_ja": "place an order は注文の定番表現。"
+        },
+        {
+          "text": "then sent down the belt and automatically stops at the table",
+          "role_ja": "述語（後半・並列）",
+          "literal_ja": "それからベルトを流され、テーブルで自動的に止まる",
+          "note_ja": "is made, (is) sent, (and) stops と省略された並列構造。"
+        },
+        {
+          "text": "of the diner who ordered it",
+          "role_ja": "関係節",
+          "literal_ja": "それを注文した客の",
+          "note_ja": "it は food / order を指す。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That was the case with the sushi the 43-year-old man squirted the liquid onto, as in the video he uploaded the plate has stopped on the belt at his table, and in the video he can be seen taking the plate off the belt and placing it on his table.",
+      "translation_ja": "今回液体を吹きかけられた寿司もそのケースで、彼が投稿した動画では皿がベルト上で彼のテーブル前に止まっており、ベルトから皿を取って自分のテーブルに置いている様子も映っています。",
+      "grammar_ja": "That was the case with ... は「〜もその場合だった」。as は理由・根拠「というのも」。the sushi の後の関係代名詞省略（that/which he squirted...）。",
+      "chunks": [
+        {
+          "text": "That was the case with the sushi",
+          "role_ja": "主部",
+          "literal_ja": "寿司についてもその場合だった",
+          "note_ja": "前文の注文制システムをこの事件に当てはめる。"
+        },
+        {
+          "text": "the 43-year-old man squirted the liquid onto",
+          "role_ja": "関係節（省略）",
+          "literal_ja": "43歳の男性が液体を吹きかけた",
+          "note_ja": "関係代名詞 that/which の省略。"
+        },
+        {
+          "text": "as in the video he uploaded",
+          "role_ja": "理由節",
+          "literal_ja": "というのも彼が投稿した動画では",
+          "note_ja": "as = because / since の意味。"
+        },
+        {
+          "text": "the plate has stopped on the belt at his table",
+          "role_ja": "主節（前半）",
+          "literal_ja": "皿がベルト上で彼のテーブルで止まっている",
+          "note_ja": "動画の状況説明。"
+        },
+        {
+          "text": "he can be seen taking the plate off the belt and placing it on his table",
+          "role_ja": "主節（後半）",
+          "literal_ja": "彼がベルトから皿を取ってテーブルに置くのが見える",
+          "note_ja": "can be seen + -ing 構文の再登場。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "However, the plate was still on the lane when he squirted it, opening up the possibility of whatever the liquid was splashing onto other plates or parts of the restaurant where it could come into contact with other diners' food.",
+      "translation_ja": "しかし、液体を吹きかけた時点では皿はまだレーン上にあり、液体が何であれ他の皿や店内の別の場所に飛び散り、他の客の食べ物に触れる可能性が生じました。",
+      "grammar_ja": "when he squirted it は時の副詞節。opening up ... は結果を示す分詞構文。whatever the liquid was は名詞節。where it could come into contact は parts を修飾。",
+      "chunks": [
+        {
+          "text": "However",
+          "role_ja": "接続副詞",
+          "literal_ja": "しかし",
+          "note_ja": "前文の「本人の寿司」という事実を限定。"
+        },
+        {
+          "text": "the plate was still on the lane when he squirted it",
+          "role_ja": "主節",
+          "literal_ja": "彼が吹きかけた時、皿はまだレーン上にあった",
+          "note_ja": "lane は回転寿司の「レーン」。"
+        },
+        {
+          "text": "opening up the possibility",
+          "role_ja": "分詞構文（結果）",
+          "literal_ja": "可能性を生じさせる",
+          "note_ja": "open up the possibility of は「〜の可能性を生む」。"
+        },
+        {
+          "text": "of whatever the liquid was splashing onto other plates or parts of the restaurant",
+          "role_ja": "前置詞の目的語",
+          "literal_ja": "液体が何であれ他の皿や店内の部分に飛び散る",
+          "note_ja": "whatever は「何であれ」。"
+        },
+        {
+          "text": "where it could come into contact with other diners' food",
+          "role_ja": "関係節",
+          "literal_ja": "他の客の食べ物に接触しうる場所で",
+          "note_ja": "come into contact with は「〜に接触する」。"
+        }
+      ],
+      "deep_dive_ja": "法的・社会的な問題の核心は「他人の寿司かどうか」だけでなく「飛散の危険」にもある、という論点です。",
+      "difficulty": "hard",
+      "sentence_id": "s013"
+    },
+    {
+      "text": "The man, who has admitted to recording and posting the video and said his motive was \"to get a lot of views on social media,\" claims that he had emptied the dishwashing liquid container and refilled it with water prior to squirting it on the sushi, though this isn't something that can be easily confirmed after the fact.",
+      "translation_ja": "動画の撮影と投稿を認め、動機は「ソーシャルメディアでたくさん再生を稼ぐため」と述べた男性は、寿司に吹きかける前に食器用洗剤の容器を空にして水を入れ直したと主張していますが、事後にはそれを簡単に確認することはできません。",
+      "grammar_ja": "who has admitted ... and said ... は非限定関係節。claims that 以下が主張内容。prior to + 動名詞。though は譲歩「だが」。after the fact は「事後には」。",
+      "chunks": [
+        {
+          "text": "The man",
+          "role_ja": "主語",
+          "literal_ja": "その男性は",
+          "note_ja": "事件の当事者。"
+        },
+        {
+          "text": "who has admitted to recording and posting the video",
+          "role_ja": "関係節",
+          "literal_ja": "動画の撮影と投稿を認めた",
+          "note_ja": "admit to + 動名詞。"
+        },
+        {
+          "text": "and said his motive was \"to get a lot of views on social media\"",
+          "role_ja": "関係節（並列）",
+          "literal_ja": "動機はSNSで再生数を稼ぐためだと述べた",
+          "note_ja": "motive は「動機」。"
+        },
+        {
+          "text": "claims that he had emptied the dishwashing liquid container and refilled it with water",
+          "role_ja": "主節の述語",
+          "literal_ja": "容器を空にして水を入れ直したと主張する",
+          "note_ja": "過去完了は吹きかけるより前の行為。"
+        },
+        {
+          "text": "prior to squirting it on the sushi",
+          "role_ja": "時を示す前置詞句",
+          "literal_ja": "寿司に吹きかける前に",
+          "note_ja": "prior to は before よりフォーマル。"
+        },
+        {
+          "text": "though this isn't something that can be easily confirmed after the fact",
+          "role_ja": "譲歩節",
+          "literal_ja": "しかしそれは事後には簡単に確認できない",
+          "note_ja": "after the fact は「後から見ては」のニュアンス。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "One could, perhaps, make the argument that regardless of whether the liquid was dish soap, water, or something else, as long as the man ate the sushi himself, or simply left it uneaten so that it would be thrown out when the restaurant staff cleaned the table, that he didn't do anything wrong, just something weird and potentially damaging to his own stomach.",
+      "translation_ja": "たとえ液体が食器用洗剤でも水でも別の何かでも、男性が自分で寿司を食べた、あるいは食べずに店員がテーブルを片付けるときに捨てられるようにしたのであれば、彼は悪いことをしたのではなく、単に変なこと—自分の胃に悪い可能性のあること—をしただけだ、という主張もできようかもしれません。",
+      "grammar_ja": "One could make the argument that は「〜と主張することもできる」。regardless of whether、as long as、so that と複数の従属節が入れ子。potentially damaging to は分詞構文。",
+      "chunks": [
+        {
+          "text": "One could, perhaps, make the argument",
+          "role_ja": "主部",
+          "literal_ja": "おそらく〜という主張ができる",
+          "note_ja": "仮定の議論を導入。could は婉曲表現。"
+        },
+        {
+          "text": "regardless of whether the liquid was dish soap, water, or something else",
+          "role_ja": "譲歩の従属節",
+          "literal_ja": "液体が洗剤でも水でも他の何かでも関係なく",
+          "note_ja": "regardless of whether は「〜かどうかにかかわらず」。"
+        },
+        {
+          "text": "as long as the man ate the sushi himself",
+          "role_ja": "条件節",
+          "literal_ja": "男性が自分で寿司を食べた限り",
+          "note_ja": "as long as は「〜である限り」。"
+        },
+        {
+          "text": "or simply left it uneaten so that it would be thrown out",
+          "role_ja": "条件節（並列）",
+          "literal_ja": "あるいは食べずに捨てられるようにしたなら",
+          "note_ja": "so that は目的「〜になるように」。"
+        },
+        {
+          "text": "that he didn't do anything wrong",
+          "role_ja": "同格節（主張の内容）",
+          "literal_ja": "彼は悪いことをしなかった",
+          "note_ja": "argument の内容を説明する that節。"
+        },
+        {
+          "text": "just something weird and potentially damaging to his own stomach",
+          "role_ja": "補足",
+          "literal_ja": "単に変で自分の胃に害する可能性のあることだけ",
+          "note_ja": "just は「単に〜だけ」。"
+        }
+      ],
+      "deep_dive_ja": "記者が「一見の反論」を先に述べ、次文でそれを否定する構成です。仮定の議論を理解する練習に適した文です。",
+      "difficulty": "hard",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "However, by posting the video online, his actions could be seen as damaging to the reputation of Hama Sushi.",
+      "translation_ja": "しかし、動画をオンラインに投稿したことにより、彼の行為ははま寿司の評判を傷つけたものと見なされ得ます。",
+      "grammar_ja": "by posting は手段・原因を示す前置詞 + 動名詞。could be seen as は「〜と見なされうる」。damaging to the reputation は「評判を傷つける」。",
+      "chunks": [
+        {
+          "text": "However",
+          "role_ja": "接続副詞",
+          "literal_ja": "しかし",
+          "note_ja": "前の仮説的議論を打ち消す。"
+        },
+        {
+          "text": "by posting the video online",
+          "role_ja": "原因・手段を示す前置詞句",
+          "literal_ja": "動画をオンラインに投稿することによって",
+          "note_ja": "by + -ing で原因を表す。"
+        },
+        {
+          "text": "his actions could be seen as damaging",
+          "role_ja": "主部",
+          "literal_ja": "彼の行為は害を与えるものと見なされうる",
+          "note_ja": "be seen as は評価・解釈の表現。"
+        },
+        {
+          "text": "to the reputation of Hama Sushi",
+          "role_ja": "対象を示す前置詞句",
+          "literal_ja": "はま寿司の評判に",
+          "note_ja": "reputation damage はビジネスニュースの重要語彙。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Any suggestion of unsanitary conditions is extremely damaging to a conveyor belt sushi restaurant, and by extension the chain and even the entire industry.",
+      "translation_ja": "不衛生であるという示唆は、回転寿司店にとって極めて致命的であり、ひいてはチェーン全体、さらには業界全体にも打撃となります。",
+      "grammar_ja": "Any suggestion of は「〜という示唆」。by extension は「その延長で、ひいては」。even は強調。",
+      "chunks": [
+        {
+          "text": "Any suggestion of unsanitary conditions",
+          "role_ja": "主語",
+          "literal_ja": "不衛生という示唆は何であれ",
+          "note_ja": "suggestion of は「〜という印象・示唆」。"
+        },
+        {
+          "text": "is extremely damaging",
+          "role_ja": "述語",
+          "literal_ja": "極めて有害である",
+          "note_ja": "damaging は damaging to とセット。"
+        },
+        {
+          "text": "to a conveyor belt sushi restaurant",
+          "role_ja": "対象",
+          "literal_ja": "回転寿司店にとって",
+          "note_ja": "個店レベルの影響。"
+        },
+        {
+          "text": "and by extension the chain and even the entire industry",
+          "role_ja": "並列・拡大",
+          "literal_ja": "そしてひいてはチェーン、さらには業界全体にも",
+          "note_ja": "by extension は論理・影響の拡大を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A rash of conveyor belt sushi \"prank\" videos occurred in 2023, but though things have quieted down since then, the Moroyama man's actions are definitely not the sort of thing businesses, the police, or the general public have any patience for anymore. \"[His] actions are utterly unacceptable\" said Hama Sushi's parent company Zensho in a statement, while promising to provide all possible cooperation in the investigation and legal procedures.",
+      "translation_ja": "2023年には回転寿司の「いたずら」動画が相次ぎましたが、その後落ち着いたとはいえ、茂呂山の男性の行為は、企業・警察・一般市民がもはや一切容認しない類のものです。はま寿司の親会社ゼンショーは声明で「（彼の）行為は全く許容できない」と述べ、捜査と法的手続きに可能な限り協力すると約束しました。",
+      "grammar_ja": "A rash of は「〜の多発」。though は譲歓「〜だが」。not the sort of thing は「〜の類ではない」。直接話法の引用 + said。while promising は付帯状況の分詞構文。",
+      "chunks": [
+        {
+          "text": "A rash of conveyor belt sushi \"prank\" videos occurred in 2023",
+          "role_ja": "主節（前半）",
+          "literal_ja": "2023年に回転寿司のいたずら動画が相次いだ",
+          "note_ja": "a rash of は「多発・続出」。"
+        },
+        {
+          "text": "though things have quieted down since then",
+          "role_ja": "譲歩節",
+          "literal_ja": "その後状況は落ち着いたとはいえ",
+          "note_ja": "quiet down は「沈静化する」。"
+        },
+        {
+          "text": "the Moroyama man's actions are definitely not the sort of thing ... have any patience for anymore",
+          "role_ja": "主節（後半）",
+          "literal_ja": "茂呂山の男性の行為はもはや誰も容認しない類ではない",
+          "note_ja": "have patience for = 我慢する・許容する。"
+        },
+        {
+          "text": "\"[His] actions are utterly unacceptable\"",
+          "role_ja": "直接引用",
+          "literal_ja": "彼の行為は全く許容できない",
+          "note_ja": "utterly unacceptable は公式声明でよく使われる強い否定。"
+        },
+        {
+          "text": "said Hama Sushi's parent company Zensho in a statement",
+          "role_ja": "引用の導入",
+          "literal_ja": "はま寿司の親会社ゼンショーが声明で述べた",
+          "note_ja": "parent company は「親会社」。"
+        },
+        {
+          "text": "while promising to provide all possible cooperation",
+          "role_ja": "分詞構文",
+          "literal_ja": "可能な限りの協力を提供すると約束しながら",
+          "note_ja": "while + -ing で同時の行為。"
+        }
+      ],
+      "deep_dive_ja": "prank は軽い「いたずら」ですが、文脈では社会的問題として扱われています。have patience for anymore の anymore は「もはや」という否定のニュアンスを強めます。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "Source: Livedoor News/Kyodo, Nitele News, FNN Prime Online",
+      "translation_ja": "出典：ライブドアニュース／共同通信、日本テレビ放送網、FNNプライムオンライン",
+      "grammar_ja": "ニュース記事末尾の出典表記。/Source:/ はメディア名の列挙。",
+      "chunks": [
+        {
+          "text": "Source:",
+          "role_ja": "ラベル",
+          "literal_ja": "出典：",
+          "note_ja": "記事の引用元を示す定型句。"
+        },
+        {
+          "text": "Livedoor News/Kyodo, Nitele News, FNN Prime Online",
+          "role_ja": "出典名",
+          "literal_ja": "各メディア名",
+          "note_ja": "スラッシュは共同配信などを示すことがある。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- Japanese police make first \"sushi terrorism\" arrests for disgusting sushi restaurant prank videos",
+      "translation_ja": "― 日本の警察、不快な寿司店いたずら動画で初の「寿司テロ」逮捕",
+      "grammar_ja": "関連記事リンクの見出し。make arrests for は「〜で逮捕する」。sushi terrorism は造語的な引用語。",
+      "chunks": [
+        {
+          "text": "--",
+          "role_ja": "記号",
+          "literal_ja": "―（関連記事）",
+          "note_ja": "サイト内の関連リンク一覧。"
+        },
+        {
+          "text": "make first \"sushi terrorism\" arrests",
+          "role_ja": "述語部分",
+          "literal_ja": "初の「寿司テロ」逮捕を行う",
+          "note_ja": "make arrests はニュースの定番表現。"
+        },
+        {
+          "text": "for disgusting sushi restaurant prank videos",
+          "role_ja": "理由を示す前置詞句",
+          "literal_ja": "不快な寿司店いたずら動画に関して",
+          "note_ja": "prank video は事件報道のキーワード。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- Is it the end of Japan's conveyor belt sushi as we know it?",
+      "translation_ja": "― 私たちが知る日本の回転寿司の終わりなのか？",
+      "grammar_ja": "修辞疑問文。as we know it は「私たちが知っている（従来の）形での」。",
+      "chunks": [
+        {
+          "text": "--",
+          "role_ja": "記号",
+          "literal_ja": "―",
+          "note_ja": "関連記事リンク。"
+        },
+        {
+          "text": "Is it the end of Japan's conveyor belt sushi",
+          "role_ja": "主部",
+          "literal_ja": "日本の回転寿司の終わりなのか",
+          "note_ja": "the end of は「〜の終焉」。"
+        },
+        {
+          "text": "as we know it",
+          "role_ja": "修飾語",
+          "literal_ja": "私たちが知っているように",
+          "note_ja": "慣用句で「今までの形・常識としての」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "-- The best yakiniku restaurant menu items to order if you're surrounded by lovey-dovey couples",
+      "translation_ja": "― ラブラブカップルに囲まれているなら焼肉店で注文すべき最高のメニュー",
+      "grammar_ja": "見出しの不定詞 to order は形容詞的用法。if you're surrounded by は条件節。lovey-dovey は口語的形容詞「べたべた仲の」。",
+      "chunks": [
+        {
+          "text": "The best yakiniku restaurant menu items to order",
+          "role_ja": "主語相当",
+          "literal_ja": "注文すべき最高の焼肉店メニュー",
+          "note_ja": "to order が items を後置修飾。"
+        },
+        {
+          "text": "if you're surrounded by lovey-dovey couples",
+          "role_ja": "条件節",
+          "literal_ja": "ラブラブなカップルに囲まれているなら",
+          "note_ja": "be surrounded by は「〜に囲まれる」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "conveyor belt sushi",
+      "pronunciation": "/kənˈveɪər belt ˈsuːʃi/",
+      "meaning_ja": "回転寿司",
+      "example": "many conveyor belt sushi restaurants in Japan",
+      "example_ja": "日本の多くの回転寿司店",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "obstruction of business",
+      "pronunciation": "/əbˈstrʌkʃən əv ˈbɪznəs/",
+      "meaning_ja": "業務妨害（罪）",
+      "example": "arrested him on charges of forced obstruction of business",
+      "example_ja": "業務妨害の容疑で彼を逮捕した",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "do away with",
+      "pronunciation": "/duː əˈweɪ wɪð/",
+      "meaning_ja": "（制度・習慣を）廃止する、やめる",
+      "example": "restaurants have done away with the old system",
+      "example_ja": "店は古い方式を廃止した",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "unsanitary",
+      "pronunciation": "/ʌnˈsænɪteri/",
+      "meaning_ja": "不衛生な",
+      "example": "Any suggestion of unsanitary conditions is extremely damaging",
+      "example_ja": "不衛生という示唆は極めて有害だ",
+      "source_sentence_id": "s017"
+    },
+    {
+      "word": "reputation",
+      "pronunciation": "/ˌrepjəˈteɪʃən/",
+      "meaning_ja": "評判、名声",
+      "example": "damaging to the reputation of Hama Sushi",
+      "example_ja": "はま寿司の評判を傷つける",
+      "source_sentence_id": "s016"
+    },
+    {
+      "word": "warrant",
+      "pronunciation": "/ˈwɔːrənt/",
+      "meaning_ja": "〜する正当な理由がある、〜に値する",
+      "example": "aspects that warrant further discussion",
+      "example_ja": "さらなる議論に値する側面",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "by extension",
+      "pronunciation": "/baɪ ɪkˈstenʃən/",
+      "meaning_ja": "ひいては、その延長で",
+      "example": "damaging to a restaurant, and by extension the chain",
+      "example_ja": "店に有害で、ひいてはチェーンにも",
+      "source_sentence_id": "s017"
+    },
+    {
+      "word": "utterly unacceptable",
+      "pronunciation": "/ˈʌtərli ˌʌnkəˈseptəbl/",
+      "meaning_ja": "全く許容できない",
+      "example": "His actions are utterly unacceptable",
+      "example_ja": "彼の行為は全く許容できない",
+      "source_sentence_id": "s018"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-perception",
+      "title": "can be seen + -ing",
+      "rule": "Use 'can be seen + present participle' to describe what is visible in video or photos.",
+      "example": "he can be seen squirting liquid onto a plate of sushi",
+      "meaning_ja": "動画や写真で「〜しているのが見える」と客観的に描写する構文。ニュースや事件報道で頻出します。"
+    },
+    {
+      "id": "not-only-but-also",
+      "title": "not only ... but also / they've also",
+      "rule": "Use 'not only' with the first action and 'also' (or 'but also') with the second to emphasize two related facts.",
+      "example": "have not only identified the man ... they've also arrested him",
+      "meaning_ja": "「〜しただけでなく、…もした」と二つの事実を強調する相関構文。警察報道で容疑者特定と逮捕を並べるときによく使われます。"
+    },
+    {
+      "id": "participial-result",
+      "title": "Present participle for result (-ing clause)",
+      "rule": "A comma + -ing phrase can show the result or consequence of the main clause.",
+      "example": "the plate was still on the lane when he squirted it, opening up the possibility of splashing",
+      "meaning_ja": "主節の結果として起きたことを、分詞構文で続けて説明する書き方。理由や結果を簡潔に足すときに使われます。"
+    },
+    {
+      "id": "by-plus-gerund",
+      "title": "by + -ing (means/cause)",
+      "rule": "Use 'by + gerund' to show how something was done or what caused a result.",
+      "example": "by posting the video online, his actions could be seen as damaging",
+      "meaning_ja": "「〜することによって」と手段や原因を表します。事件の法的・社会的影響を説明するときに有効なパターンです。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 22,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:36:00+09:00"
+  },
+  "article_id": "japantoday:2026-06-04:video-of-man-spraying-liquid-on-conveyor"
+}

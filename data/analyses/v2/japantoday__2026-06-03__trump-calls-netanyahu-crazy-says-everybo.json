@@ -1,0 +1,1013 @@
+{
+  "summary_ja": "トランプ大統領が電話でネタニヤフ首相を「クレイジー」と罵ったと報じられ、イラン戦争をめぐる二人の関係が緊張している。トランプは中間選挙前の経済悪化やMAGA支持者の反発を懸念し戦争からの出口を探す一方、ネタニヤフは政権維持のためトランプへの依存を深めている。専門家は、二人の対立は新しいものではなく、政治的コストの高い同盟の行き詰まりを示している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "They went to war together against Iran, but Donald Trump and Benjamin Netanyahu's relationship is under strain after the U.S. president reportedly called the Israeli premier \"crazy.\"",
+      "translation_ja": "彼らはイランに対して共同で戦争に踏み切ったが、米大統領がイスラエル首相を「クレイジー」と呼んだと報じられた後、ドナルド・トランプとベンヤミン・ネタニヤフの関係は緊張している。",
+      "grammar_ja": "but で対比。under strain は関係が「ひび割れている」という比喩。reportedly は報道ベースの事実を示す副詞。",
+      "chunks": [
+        {
+          "text": "They went to war together against Iran",
+          "role_ja": "主節（前半）",
+          "literal_ja": "彼らは／一緒に／戦争に行った／イランに対して",
+          "note_ja": "go to war は「戦争を始める・参戦する」。together against は「共同で～に対抗して」。"
+        },
+        {
+          "text": "but",
+          "role_ja": "接続詞",
+          "literal_ja": "しかし",
+          "note_ja": "前半の協力関係と後半の緊張を対比する。"
+        },
+        {
+          "text": "Donald Trump and Benjamin Netanyahu's relationship",
+          "role_ja": "主語",
+          "literal_ja": "トランプとネタニヤフの関係",
+          "note_ja": "A and B's は二人に共通するものを指す。ここでは二人の関係。"
+        },
+        {
+          "text": "is under strain",
+          "role_ja": "述語",
+          "literal_ja": "緊張下にある／ひび割れている",
+          "note_ja": "under strain は物理的な「張力」から人間関係の悪化へ転用されるニュース表現。"
+        },
+        {
+          "text": "after the U.S. president reportedly called the Israeli premier \"crazy.\"",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "～の後で／米大統領が／報じられるところによると／イスラエル首相を／クレイジーと呼んだ",
+          "note_ja": "reportedly は「～と報じられた」で出典を曖昧に保つジャーナリズムの定番表現。"
+        }
+      ],
+      "deep_dive_ja": "冒頭で共同参戦を示しつつ直後に関係悪化を書くのは、ニュース記事で「同盟の亀裂」を印象づける典型構成。premier は首相の格式ある呼び方。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Trump unleashed a profane tirade over the phone at Netanyahu over Israel's threats to bomb the Lebanese capital Beirut, fearing it would undermine talks with Tehran, the Axios news outlet and ABC News reported.",
+      "translation_ja": "イスラエルがレバノンの首都ベイルートを爆撃する脅しをかけたことへの怒りから、トランプは電話でネタニヤフに汚い言葉の連発を浴びせた。それはテヘランとの交渉を損なう恐れがあると懸念していたためだと、ニュースサイトAxiosとABCニュースが報じた。",
+      "grammar_ja": "unleashed a tirade at は「～に激しい非難を浴びせた」。fearing 以下は理由を示す分詞構文。文末の reported は報道の帰属。",
+      "chunks": [
+        {
+          "text": "Trump unleashed a profane tirade over the phone at Netanyahu",
+          "role_ja": "主節の核",
+          "literal_ja": "トランプは／解き放った／下品な連発を／電話で／ネタニヤフに向けて",
+          "note_ja": "unleash は「抑えていたものを解き放つ」。tirade は長く激しい非難。"
+        },
+        {
+          "text": "over Israel's threats to bomb the Lebanese capital Beirut",
+          "role_ja": "理由を示す前置詞句",
+          "literal_ja": "～について／イスラエルの脅し／ベイルートを爆撃する",
+          "note_ja": "over は「～をめぐって」。threats to bomb は「爆撃する脅し」。"
+        },
+        {
+          "text": "fearing it would undermine talks with Tehran",
+          "role_ja": "分詞構文（理由）",
+          "literal_ja": "それが／損なうだろうと恐れて／テヘランとの交渉を",
+          "note_ja": "fearing = because he feared。undermine は「弱体化させる・台無しにする」。"
+        },
+        {
+          "text": "the Axios news outlet and ABC News reported",
+          "role_ja": "帰属（報道源）",
+          "literal_ja": "AxiosとABCニュースが／報じた",
+          "note_ja": "英語ニュースでは情報源を文末に置く倒置的な書き方が多い。"
+        }
+      ],
+      "deep_dive_ja": "over the phone は「電話越しに」。profane は宗教的な汚さだけでなく一般的な下品さも含む。複数の報道機関名を並べることで信頼性を高める。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "It underscored the increasingly shaky ties between two right-wing allies with lots to lose politically from the Middle East war -- and who both face criticism for being in hock to the other.",
+      "translation_ja": "これは、中東戦争で政治的に大きな損失を被る可能性のある二人の右翼同盟国の、ますます不安定な関係を改めて浮き彫りにした。二人とも相手に借りを作っていると批判されている。",
+      "grammar_ja": "underscore は「重要性を強調する」。with lots to lose は関係代名詞なしの簡略表現。in hock to は口語的な「～に依存している」。",
+      "chunks": [
+        {
+          "text": "It underscored",
+          "role_ja": "主語＋述語",
+          "literal_ja": "それは／強調した",
+          "note_ja": "it は前の出来事（電話での罵倒）を指す。"
+        },
+        {
+          "text": "the increasingly shaky ties between two right-wing allies",
+          "role_ja": "目的語",
+          "literal_ja": "ますます不安定な関係／二人の右翼同盟国の間の",
+          "note_ja": "shaky ties は「揺らぐ関係」。right-wing allies は政治的立場の一致を示す。"
+        },
+        {
+          "text": "with lots to lose politically from the Middle East war",
+          "role_ja": "形容詞句（allies を修飾）",
+          "literal_ja": "失うものが多い／政治的に／中東戦争から",
+          "note_ja": "have a lot to lose の変形。with + 不定詞で「～すべきことがある」意。"
+        },
+        {
+          "text": "and who both face criticism for being in hock to the other",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "そして二人とも／批判に直面している／相手に借りを作っているとして",
+          "note_ja": "in hock to はもともと金銭的負債だが、ここでは政治的依存を比喩。"
+        }
+      ],
+      "deep_dive_ja": "ダッシュ（--）で追加情報を挿入するのは英語記事の特徴。both ... the other で相互依存を対比。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Trump wants a way out of a war that has badly hit the U.S. economy less than six months before midterm elections, which will decide if his Republican party keeps control of Congress.",
+      "translation_ja": "トランプは、米経済を大きく打ち込んだ戦争からの出口を求めている。それは中間選挙まであと半年を切った時期のことで、その選挙は共和党が議会の支配を維持できるかどうかを決める。",
+      "grammar_ja": "a way out of は「～からの脱出策」。関係代名詞 that と which の連鎖。less than six months before は期限の近さを強調。",
+      "chunks": [
+        {
+          "text": "Trump wants a way out of a war",
+          "role_ja": "主節",
+          "literal_ja": "トランプは望んでいる／出口を／戦争からの",
+          "note_ja": "way out は比喩的に「困難からの脱出手段」。"
+        },
+        {
+          "text": "that has badly hit the U.S. economy",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それが／深刻に打ち込んだ／米経済を",
+          "note_ja": "hit the economy は「経済に打撃を与える」。"
+        },
+        {
+          "text": "less than six months before midterm elections",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "6か月未満前に／中間選挙の",
+          "note_ja": "midterm elections は米国の期中選挙。"
+        },
+        {
+          "text": "which will decide if his Republican party keeps control of Congress",
+          "role_ja": "非制限用法の関係代名詞節",
+          "literal_ja": "それが決める／共和党が議会の支配を維持するかどうかを",
+          "note_ja": "keep control of は「支配権を保つ」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The second-term Republican president, 79, also faces growing criticism from parts of his Make America Great Again (MAGA) coalition that he is doing Israel's bidding in the Iran war.",
+      "translation_ja": "79歳の第二任期の共和党大統領も、自らのMAGA（メイク・アメリカ・グレート・アゲイン）連合の一部から、イラン戦争でイスラエルの思惑通りに動いているとの批判にさらされている。",
+      "grammar_ja": "同格の 79 で年齢を挿入。do someone's bidding は「～の言いなりになる」。that 節は criticism の内容を説明。",
+      "chunks": [
+        {
+          "text": "The second-term Republican president, 79,",
+          "role_ja": "主語",
+          "literal_ja": "第二任期の共和党大統領／79歳",
+          "note_ja": "カンマで挟んだ年齢はニュース記事の定番フォーマット。"
+        },
+        {
+          "text": "also faces growing criticism",
+          "role_ja": "述語",
+          "literal_ja": "また直面している／増大する批判に",
+          "note_ja": "face criticism は「批判を受ける」。"
+        },
+        {
+          "text": "from parts of his Make America Great Again (MAGA) coalition",
+          "role_ja": "前置詞句（批判の出所）",
+          "literal_ja": "～から／彼のMAGA連合の一部",
+          "note_ja": "parts of は「全体の一部（派閥）」。"
+        },
+        {
+          "text": "that he is doing Israel's bidding in the Iran war",
+          "role_ja": "同格節（criticism の内容）",
+          "literal_ja": "彼が／イスラエルの思惑通りに動いている／イラン戦争で",
+          "note_ja": "do someone's bidding は「～の指示に従う」という批判的表現。"
+        }
+      ],
+      "deep_dive_ja": "MAGA はトランプ支持運動の略称として文中で初出説明されている。growing criticism は支持基盤の分裂を示す。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Israel's veteran prime minister meanwhile faces the possible collapse of his right-wing coalition and is under fire for bowing to Trump on matters of security after calling off a plan to attack Beirut.",
+      "translation_ja": "一方、ベテランのイスラエル首相は右翼連立政権の崩壊の可能性に直面し、ベイルート攻撃計画を取りやめた後、安全保障問題でトランプに屈したとして非難を浴びている。",
+      "grammar_ja": "meanwhile で対比。under fire for は「～で非難されている」。calling off は「中止する」。",
+      "chunks": [
+        {
+          "text": "Israel's veteran prime minister meanwhile",
+          "role_ja": "主語",
+          "literal_ja": "イスラエルのベテラン首相／一方で",
+          "note_ja": "veteran は経験豊富な、長年政界にいる意。"
+        },
+        {
+          "text": "faces the possible collapse of his right-wing coalition",
+          "role_ja": "述語（前半）",
+          "literal_ja": "直面している／崩壊の可能性に／右翼連立政権の",
+          "note_ja": "coalition は複数政党の連立政権。"
+        },
+        {
+          "text": "is under fire for bowing to Trump on matters of security",
+          "role_ja": "述語（後半）",
+          "literal_ja": "非難を浴びている／トランプに屈したとして／安全保障問題で",
+          "note_ja": "bow to は「屈服する」。under fire は軍事用語から転じた比喩。"
+        },
+        {
+          "text": "after calling off a plan to attack Beirut",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "～の後で／中止した／ベイルート攻撃計画を",
+          "note_ja": "call off は plans, attacks などによく使う。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "You'd be in prison if it weren't for me.",
+      "translation_ja": "俺がいなければ、お前は刑務所にいるはずだ。",
+      "grammar_ja": "仮定法過去（if it weren't for）は実際とは異なる状況を想定。You'd = You would。",
+      "chunks": [
+        {
+          "text": "You'd be in prison",
+          "role_ja": "主節（結果）",
+          "literal_ja": "あなたは刑務所にいるだろう",
+          "note_ja": "would be は仮定の結果を表す。"
+        },
+        {
+          "text": "if it weren't for me",
+          "role_ja": "条件節",
+          "literal_ja": "もし私がなければ",
+          "note_ja": "if it weren't for は「～がなければ」という慣用表現。口語では wasn't も使われる。"
+        }
+      ],
+      "deep_dive_ja": "トランプの直接引用として非常に口語的・攻撃的。ニュース記事でも引用は原文のまま再現する。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "I'm saving your ass.",
+      "translation_ja": "俺がお前を助けているんだ。",
+      "grammar_ja": "save someone's ass は非常にくだけた「危機から救う」表現。現在進行形で「今まさに助けている」強調。",
+      "chunks": [
+        {
+          "text": "I'm saving",
+          "role_ja": "述語",
+          "literal_ja": "私は救っている／助けている",
+          "note_ja": "進行形で継続的な保護を示す。"
+        },
+        {
+          "text": "your ass",
+          "role_ja": "目的語",
+          "literal_ja": "あなたの（尻／命）",
+          "note_ja": "ass は粗野なスラング。ニュースでも引用としてそのまま載せる。"
+        }
+      ],
+      "deep_dive_ja": "B2学習者は辞書的な save とこのスラングの強さの差に注意。翻訳では意味を自然に和らげることもある。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Everybody hates you now.",
+      "translation_ja": "今や誰もがお前のことを嫌っている。",
+      "grammar_ja": "everybody は単数扱い（hates）。now で「この時点では」というニュアンス。",
+      "chunks": [
+        {
+          "text": "Everybody",
+          "role_ja": "主語",
+          "literal_ja": "誰もが",
+          "note_ja": "不定代名詞だが動詞は単数形。"
+        },
+        {
+          "text": "hates you",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "あなたを嫌っている",
+          "note_ja": "hate は強い感情。政治文脈では支持率低下の比喩。"
+        },
+        {
+          "text": "now",
+          "role_ja": "副詞",
+          "literal_ja": "今は",
+          "note_ja": "以前との対比を暗示。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Everybody hates Israel because of this,\" Axios quoted Trump as shouting at Netanyahu in the call on Monday.",
+      "translation_ja": "「このせいで誰もがイスラエルを嫌っている」と、Axiosはトランプが月曜日の電話でネタニヤフに叫んだと伝えた。",
+      "grammar_ja": "quote A as doing B は「AがBしたと引用する」構文。because of this は前文の戦争・政策を指す。",
+      "chunks": [
+        {
+          "text": "Everybody hates Israel because of this",
+          "role_ja": "直接引用",
+          "literal_ja": "誰もがイスラエルを嫌っている／このせいで",
+          "note_ja": "because of + 名詞 で理由を示す。"
+        },
+        {
+          "text": "Axios quoted Trump as shouting at Netanyahu",
+          "role_ja": "帰属節",
+          "literal_ja": "Axiosは引用した／トランプが叫んだと／ネタニヤフに",
+          "note_ja": "quote ... as -ing は報道英語の頻出パターン。"
+        },
+        {
+          "text": "in the call on Monday",
+          "role_ja": "場所・時間の修飾",
+          "literal_ja": "月曜日の電話で",
+          "note_ja": "in the call は「その通話の中で」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Israeli media have rejected the account of the conversation.",
+      "translation_ja": "イスラエルのメディアは、その会話の内容の報道を否定した。",
+      "grammar_ja": "英米英語では collective noun + have が可能（米国英語では has も）。reject the account は「その説明を退ける」。",
+      "chunks": [
+        {
+          "text": "Israeli media",
+          "role_ja": "主語",
+          "literal_ja": "イスラエルのメディア",
+          "note_ja": "media は複数扱いになりやすい。"
+        },
+        {
+          "text": "have rejected",
+          "role_ja": "述語",
+          "literal_ja": "否定した",
+          "note_ja": "reject は deny より強く「受け入れない」。"
+        },
+        {
+          "text": "the account of the conversation",
+          "role_ja": "目的語",
+          "literal_ja": "会話の内容の報道",
+          "note_ja": "account はここでは「叙述・報道内容」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A White House official referred AFP to Trump's Truth Social posts from Monday when asked to confirm Axios's account of the call and to comment on the state of the relationship with Netanyahu.",
+      "translation_ja": "ホワイトハウス当局者は、Axiosの電話内容の報道を確認し、ネタニヤフとの関係の状態についてコメントするよう求められた際、月曜日のトランプのTruth Social投稿をAFPに紹介した。",
+      "grammar_ja": "refer A to B は「AにBを参照させる」。when asked は「求められたとき」という省略された受動態。",
+      "chunks": [
+        {
+          "text": "A White House official referred AFP to Trump's Truth Social posts from Monday",
+          "role_ja": "主節",
+          "literal_ja": "ホワイトハウス当局者は／AFPに紹介した／トランプの投稿を",
+          "note_ja": "refer to は公式に「～を参照してください」という意味。"
+        },
+        {
+          "text": "when asked to confirm Axios's account of the call",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "確認を求められたとき／Axiosの報道を",
+          "note_ja": "when asked = when they were asked。主語省略の分詞構文。"
+        },
+        {
+          "text": "and to comment on the state of the relationship with Netanyahu",
+          "role_ja": "並列の不定詞",
+          "literal_ja": "そしてコメントする／ネタニヤフとの関係について",
+          "note_ja": "the state of the relationship は「関係の現状」。"
+        }
+      ],
+      "deep_dive_ja": "報道機関への直接回答を避け、SNS投稿へ誘導するのは政治的コミュニケーションの手法。",
+      "difficulty": "hard",
+      "sentence_id": "s012"
+    },
+    {
+      "text": "In his posts, Trump thanked Netanyahu for what he said was an agreement to pull troops back from Beirut and to \"stop the shooting\" with Hezbollah.",
+      "translation_ja": "投稿の中でトランプは、ベイルートから部隊を撤退させ、ヒズボラとの「射撃を止める」という合意があったとネタニヤフに感謝した。",
+      "grammar_ja": "what he said was は「彼が～だったと述べた」という間接説明。pull troops back は「部隊を後退させる」。",
+      "chunks": [
+        {
+          "text": "In his posts, Trump thanked Netanyahu",
+          "role_ja": "主節",
+          "literal_ja": "投稿の中で／トランプは感謝した／ネタニヤフに",
+          "note_ja": "thank A for B で「BについてAに感謝」。"
+        },
+        {
+          "text": "for what he said was an agreement",
+          "role_ja": "目的語節",
+          "literal_ja": "～について／彼が合意だったと言ったもの",
+          "note_ja": "what 節が thank の対象。事実かどうかは留保されている。"
+        },
+        {
+          "text": "to pull troops back from Beirut",
+          "role_ja": "不定詞（agreement の内容）",
+          "literal_ja": "部隊を撤退させる／ベイルートから",
+          "note_ja": "pull back は military の基本語彙。"
+        },
+        {
+          "text": "and to \"stop the shooting\" with Hezbollah",
+          "role_ja": "並列の不定詞",
+          "literal_ja": "そして射撃を止める／ヒズボラとの",
+          "note_ja": "stop the shooting は交戦停止の婉曲表現。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran had reportedly halted peace talks because of Israel's attacks on Lebanon.",
+      "translation_ja": "イスラエルのレバノン攻撃を受け、イランは和平交渉を中断したと報じられている。",
+      "grammar_ja": "過去完了 had halted は報道時点より前の中断を示す。reportedly で情報源を留保。",
+      "chunks": [
+        {
+          "text": "Iran had reportedly halted peace talks",
+          "role_ja": "主節",
+          "literal_ja": "イランは／報じられている／中断した／和平交渉を",
+          "note_ja": "halt は stop より格式的。had halted はその時点で既に中断済み。"
+        },
+        {
+          "text": "because of Israel's attacks on Lebanon",
+          "role_ja": "理由の前置詞句",
+          "literal_ja": "イスラエルのレバノン攻撃のせいで",
+          "note_ja": "attacks on は「～への攻撃」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But analysts said it was not the first time they had fallen out, nor would it be the last.",
+      "translation_ja": "しかしアナリストは、二人が対立するのは初めてではなく、最後でもないだろうと述べた。",
+      "grammar_ja": "fall out は「仲たがいする」。nor would it be で否定の倒置と未来の推量。",
+      "chunks": [
+        {
+          "text": "But analysts said",
+          "role_ja": "主節",
+          "literal_ja": "しかしアナリストは言った",
+          "note_ja": "said 以下に that 省略の名詞節。"
+        },
+        {
+          "text": "it was not the first time they had fallen out",
+          "role_ja": "名詞節（前半）",
+          "literal_ja": "それは初めてではなかった／彼らが仲たがいしたのは",
+          "note_ja": "it is the first time + 過去完了 は経験の文型。"
+        },
+        {
+          "text": "nor would it be the last",
+          "role_ja": "名詞節（後半・倒置）",
+          "literal_ja": "また最後でもあるまい",
+          "note_ja": "nor + 助動詞 + 主語 で形式的な否定の追加。"
+        }
+      ],
+      "deep_dive_ja": "fall out は友人・同盟者の「不和」に使う口語的だがニュースでも頻出のコロケーション。",
+      "difficulty": "medium",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "\"The fact of personal tensions between Netanyahu and US presidents is not new,\" former ambassador to Israel Dan Shapiro, now a distinguished fellow at the Atlantic Council, told AFP.",
+      "translation_ja": "「ネタニヤフと米大統領との個人的な緊張という事実は新しいものではない」と、元駐イスラエル大使で現在アトランティック・カウンシル上級フェローのダン・シャピロ氏はAFPに語った。",
+      "grammar_ja": "The fact of ... is not new は「～という事実は珍しくない」型。同格で肩書きを詳述するのはニュースの人物紹介形式。",
+      "chunks": [
+        {
+          "text": "\"The fact of personal tensions between Netanyahu and US presidents is not new,\"",
+          "role_ja": "直接引用",
+          "literal_ja": "個人的緊張の事実は／新しくない",
+          "note_ja": "the fact of は抽象名詞を主語にする格式表現。"
+        },
+        {
+          "text": "former ambassador to Israel Dan Shapiro",
+          "role_ja": "話者の同格",
+          "literal_ja": "元駐イスラエル大使／ダン・シャピロ",
+          "note_ja": "肩書き＋名前の順序は英語ニュースの標準。"
+        },
+        {
+          "text": "now a distinguished fellow at the Atlantic Council, told AFP",
+          "role_ja": "述語＋帰属",
+          "literal_ja": "現在は上級フェロー／アトランティック・カウンシルで／AFPに語った",
+          "note_ja": "distinguished fellow はシンクタンクの研究員肩書き。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"In fact, he has a perfect record of reaching that point of frustration with every US president he's worked with.\"",
+      "translation_ja": "「実際、彼はこれまで協力してきたすべての米大省と、その苛立ちの境地に達するという点では完璧な実績を持っている。」",
+      "grammar_ja": "a perfect record of -ing は皮肉を込めた表現。he's worked with は関係代名詞の省略（whom/that）。",
+      "chunks": [
+        {
+          "text": "In fact",
+          "role_ja": "副詞句",
+          "literal_ja": "実際のところ",
+          "note_ja": "前の発言を補強・強調。"
+        },
+        {
+          "text": "he has a perfect record of reaching that point of frustration",
+          "role_ja": "主節",
+          "literal_ja": "彼は完璧な実績を持つ／苛立ちの境地に達することで",
+          "note_ja": "perfect record は通常ポジティブだがここは皮肉。"
+        },
+        {
+          "text": "with every US president he's worked with",
+          "role_ja": "前置詞句",
+          "literal_ja": "すべての米大統領と／彼が協力してきた",
+          "note_ja": "関係代名詞省略の短縮形。"
+        }
+      ],
+      "deep_dive_ja": "that point of frustration は「いよいよ限界に達するあの時点」という含み。皮肉は翻訳でも伝える必要がある。",
+      "difficulty": "hard",
+      "sentence_id": "s017"
+    },
+    {
+      "text": "Netanyahu has been trying to persuade U.S. presidents for three decades to attack Iran over its nuclear program, but in Trump he finally found an ideological bedfellow.",
+      "translation_ja": "ネタニヤフは30年にわたり、核開発計画をめぐり米大統領たちにイラン攻撃を説得し続けてきたが、トランプの中でようやく思想的な同志を見つけた。",
+      "grammar_ja": "has been trying は長期継続。in Trump he found は「トランプという人物の中に見出した」という強調構文。",
+      "chunks": [
+        {
+          "text": "Netanyahu has been trying to persuade U.S. presidents for three decades",
+          "role_ja": "主節（前半）",
+          "literal_ja": "ネタニヤフは説得し続けてきた／米大統領たちを／30年にわたり",
+          "note_ja": "現在完了進行形で長年の努力を表す。"
+        },
+        {
+          "text": "to attack Iran over its nuclear program",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "イランを攻撃する／核計画をめぐって",
+          "note_ja": "over は「～に関する問題で」。"
+        },
+        {
+          "text": "but in Trump he finally found an ideological bedfellow",
+          "role_ja": "主節（後半）",
+          "literal_ja": "しかしトランプの中で／彼はついに見つけた／思想的同志を",
+          "note_ja": "in + 人 は「その人という存在の中に」。bedfellow は「同床者」から「利害・思想の一致者」へ。"
+        }
+      ],
+      "deep_dive_ja": "ideological bedfellow はやや文学的な比喩。B2では bedfellow の比喩的用法を覚えると読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "The Israeli premier met Trump on multiple occasions since his return to power and was instrumental in getting the U.S. leader over the line in February when he was still deciding whether to go to war, the New York Times reported recently.",
+      "translation_ja": "ニューヨーク・タイムズが最近報じたところによると、イスラエル首相は政権復帰以降何度もトランプと会談し、2月にまだ参戦するか迷っていた米指導者を説得する上で重要な役割を果たした。",
+      "grammar_ja": "instrumental in getting は「～させる上で不可欠だった」。over the line は「決断を下させる」イディオム。",
+      "chunks": [
+        {
+          "text": "The Israeli premier met Trump on multiple occasions since his return to power",
+          "role_ja": "主節（前半）",
+          "literal_ja": "イスラエル首相は会った／トランプと／何度も／政権復帰以来",
+          "note_ja": "on multiple occasions は「複数回」。his はネタニヤフを指す。"
+        },
+        {
+          "text": "was instrumental in getting the U.S. leader over the line in February",
+          "role_ja": "主節（後半）",
+          "literal_ja": "重要な役割を果たした／米指導者を決断させるのに／2月に",
+          "note_ja": "get someone over the line はスポーツ起源の「ゴールさせる→決断させる」。"
+        },
+        {
+          "text": "when he was still deciding whether to go to war",
+          "role_ja": "時を表す関係副詞節",
+          "literal_ja": "彼がまだ決めていたとき／参戦するかどうかを",
+          "note_ja": "he はトランプ。whether to go to war は参戦の是非。"
+        },
+        {
+          "text": "the New York Times reported recently",
+          "role_ja": "帰属",
+          "literal_ja": "NYTが最近報じた",
+          "note_ja": "長文の後に報道源を置く構造。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "As it drags on, both the war and his alliance with Netanyahu are proving politically costly.",
+      "translation_ja": "戦争が長引くにつれ、戦争そのものもネタニヤフとの同盟も、政治的に高いコストを生んでいる。",
+      "grammar_ja": "As it drags on は「それが長引くにつれ」。prove + 形容詞 は「～であることが判明する」。",
+      "chunks": [
+        {
+          "text": "As it drags on",
+          "role_ja": "副詞節",
+          "literal_ja": "それが長引くにつれ",
+          "note_ja": "drag on は「（嫌なことが）長引く」。"
+        },
+        {
+          "text": "both the war and his alliance with Netanyahu",
+          "role_ja": "主語",
+          "literal_ja": "戦争と／ネタニヤフとの同盟の両方",
+          "note_ja": "both A and B の並列。"
+        },
+        {
+          "text": "are proving politically costly",
+          "role_ja": "述語",
+          "literal_ja": "証明している／政治的に高コストであることを",
+          "note_ja": "prove はここで「次第に～だとわかる」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Former Trump allies like broadcaster Tucker Carlson and ex-congresswoman Marjorie Taylor Greene accuse him of letting Israel drag the United States into another Middle East war.",
+      "translation_ja": "放送局司会者タッカー・カールソンや元下院議員マージョリー・テイラー・グリーンといった元トランプの同盟者たちは、イスラエルが米国をまた中東戦争に引きずり込むのを放置していると彼を非難している。",
+      "grammar_ja": "accuse A of B は「AをBで非難」。let + O + 動詞原形。drag into は「無理やり巻き込む」。",
+      "chunks": [
+        {
+          "text": "Former Trump allies like broadcaster Tucker Carlson and ex-congresswoman Marjorie Taylor Greene",
+          "role_ja": "主語",
+          "literal_ja": "元トランプの同盟者たち／例えばカールソンとグリーン",
+          "note_ja": "ex- は「元～」。like で例示。"
+        },
+        {
+          "text": "accuse him of letting Israel drag the United States into another Middle East war",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "彼を非難する／イスラエルが米国を引きずり込むのを許しているとして",
+          "note_ja": "letting Israel drag ... は causative の連鎖構造。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "This, they say, is against the \"America First\" principles the MAGA movement represents.",
+      "translation_ja": "彼らによると、これはMAGA運動が掲げる「アメリカ第一」の原則に反している。",
+      "grammar_ja": "they say をカンマで挿入（挿入語）。関係代名詞省略の principles (that) the MAGA movement represents。",
+      "chunks": [
+        {
+          "text": "This",
+          "role_ja": "主語",
+          "literal_ja": "これは",
+          "note_ja": "前のイスラエル巻き込みを指す。"
+        },
+        {
+          "text": "they say",
+          "role_ja": "挿入語",
+          "literal_ja": "彼らは言う",
+          "note_ja": "主張の帰属を文中に挿入する技法。"
+        },
+        {
+          "text": "is against the \"America First\" principles",
+          "role_ja": "述語",
+          "literal_ja": "～に反している／アメリカ第一の原則に",
+          "note_ja": "be against は「～に反対・矛盾する」。"
+        },
+        {
+          "text": "the MAGA movement represents",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "MAGA運動が代表する",
+          "note_ja": "that 省略の制限用法。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Support of Israel seems to mean our guys are going to die,\" former Fox News host Megyn Kelly said on her show recently.",
+      "translation_ja": "「イスラエル支持とは、うちの兵士が死ぬことのようだ」と、元フォックス・ニュース司会者メグン・ケリーは最近の番組で述べた。",
+      "grammar_ja": "seem to mean の後に that 省略の節。our guys は米軍・米国人兵士の口語的呼び方。",
+      "chunks": [
+        {
+          "text": "Support of Israel seems to mean",
+          "role_ja": "主節（引用前半）",
+          "literal_ja": "イスラエル支持は意味するようだ",
+          "note_ja": "seem to mean は「～を意味するように見える」。"
+        },
+        {
+          "text": "our guys are going to die",
+          "role_ja": "名詞節",
+          "literal_ja": "うちの人たちが死ぬこと",
+          "note_ja": "going to は近い未来の予測。"
+        },
+        {
+          "text": "former Fox News host Megyn Kelly said on her show recently",
+          "role_ja": "帰属",
+          "literal_ja": "元フォックス司会者ケリーが最近番組で言った",
+          "note_ja": "on her show で発言の場を特定。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Republican party has long been staunchly pro-Israel but it is becoming increasingly divided on the issue.",
+      "translation_ja": "共和党は長年、強固な親イスラエル派だったが、この問題をめぐってますます分裂しつつある。",
+      "grammar_ja": "has long been は長期の状態。staunchly pro-Israel は「強い親イスラエル」。divided on the issue は「その問題で意見が割れている」。",
+      "chunks": [
+        {
+          "text": "The Republican party has long been staunchly pro-Israel",
+          "role_ja": "主節（前半）",
+          "literal_ja": "共和党は長い間／強固な親イスラエル派だった",
+          "note_ja": "pro- + 国名 は「～支持の」。"
+        },
+        {
+          "text": "but it is becoming increasingly divided on the issue",
+          "role_ja": "主節（後半）",
+          "literal_ja": "しかしますます分裂している／この問題で",
+          "note_ja": "become + 形容詞 で変化を表す。on the issue は「その論点について」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Some 57 percent of Republicans ages 18 to 49 have an unfavorable opinion of Israel, up from 50 percent last year, a Pew Research poll showed in April.",
+      "translation_ja": "ピュー・リサーチの4月の世論調査によると、18〜49歳の共和党員の約57％がイスラエルに否定的な見方を持っており、昨年の50％から増加した。",
+      "grammar_ja": "Some 57 percent は「約57％」。up from は「～から上昇して」。ages 18 to 49 は名詞の後置修飾。",
+      "chunks": [
+        {
+          "text": "Some 57 percent of Republicans ages 18 to 49",
+          "role_ja": "主語",
+          "literal_ja": "共和党員の約57％／18〜49歳の",
+          "note_ja": "some + 数字 で「およそ」。"
+        },
+        {
+          "text": "have an unfavorable opinion of Israel",
+          "role_ja": "述語",
+          "literal_ja": "否定的な見方を持っている／イスラエルに対して",
+          "note_ja": "unfavorable opinion of は世論調査の定型表現。"
+        },
+        {
+          "text": "up from 50 percent last year",
+          "role_ja": "補足（比較）",
+          "literal_ja": "昨年の50％から上昇して",
+          "note_ja": "統計記事で頻出の増減表現。"
+        },
+        {
+          "text": "a Pew Research poll showed in April",
+          "role_ja": "帰属",
+          "literal_ja": "ピュー・リサーチの調査が4月に示した",
+          "note_ja": "調査名＋動詞の受動的意味構文。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Iran war's effect on prices threatens Republican chances in November's midterm elections -- and if Democrats retake control of Congress then Trump could face impeachment for the third time.",
+      "translation_ja": "イラン戦争が物価に与える影響は、11月の中間選挙での共和党の勝算を脅かしている。民主党が議会の支配を奪還すれば、トランプは三度目の弾劾訴追に直面する可能性もある。",
+      "grammar_ja": "effect on prices は「物価への影響」。retake control は「支配を奪還する」。face impeachment は「弾劾を受ける危機」。",
+      "chunks": [
+        {
+          "text": "The Iran war's effect on prices",
+          "role_ja": "主語",
+          "literal_ja": "イラン戦争の物価への影響",
+          "note_ja": "所有格で war を修飾。"
+        },
+        {
+          "text": "threatens Republican chances in November's midterm elections",
+          "role_ja": "述語（前半）",
+          "literal_ja": "脅かす／共和党の勝算を／11月の中間選挙で",
+          "note_ja": "chances は「勝つ見込み」。"
+        },
+        {
+          "text": "if Democrats retake control of Congress",
+          "role_ja": "条件節",
+          "literal_ja": "もし民主党が支配を奪還すれば",
+          "note_ja": "retake は take back よりニュース向き。"
+        },
+        {
+          "text": "then Trump could face impeachment for the third time",
+          "role_ja": "主節（結果）",
+          "literal_ja": "そのときトランプは／三度目の弾劾に直面しうる",
+          "note_ja": "could は可能性。for the third time で回数を明示。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "For Netanyahu -- with open war fronts in Lebanon, Iran and Gaza, and a string of corruption charges at home -- the stakes are arguably higher.",
+      "translation_ja": "レバノン、イラン、ガザでの開戦状態と、国内での一連の汚職疑惑を抱えるネタニヤフにとっては、賭けているものはおそらくより大きい。",
+      "grammar_ja": "ダッシュ内は状況の列挙。a string of は「一連の」。arguably は「おそらく・言ってもいいほど」。",
+      "chunks": [
+        {
+          "text": "For Netanyahu",
+          "role_ja": "対象の前置詞句",
+          "literal_ja": "ネタニヤフにとって",
+          "note_ja": "For + 人 で「～にとって」。"
+        },
+        {
+          "text": "with open war fronts in Lebanon, Iran and Gaza, and a string of corruption charges at home",
+          "role_ja": "挿入の状況説明",
+          "literal_ja": "開戦状態の戦線と／国内の汚職疑惑の数々を抱えて",
+          "note_ja": "open war fronts は「進行中の戦争前線」。at home は「国内で」。"
+        },
+        {
+          "text": "the stakes are arguably higher",
+          "role_ja": "主節",
+          "literal_ja": "賭け金は／おそらくより高い",
+          "note_ja": "stakes は「利害・リスク」。high stakes は重要局面。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Netanyahu is dying to stay in power,\" Mairav Zonszein of the International Crisis Group told AFP.",
+      "translation_ja": "「ネタニヤフは政権にしがみつきたいと必死だ」と、国際危機グループのマイラヴ・ゾンザイン氏はAFPに語った。",
+      "grammar_ja": "be dying to は「～したくてたまらない」＝強い欲求。stay in power は「政権を維持する」。",
+      "chunks": [
+        {
+          "text": "Netanyahu is dying to stay in power",
+          "role_ja": "直接引用",
+          "literal_ja": "ネタニヤフは必死だ／権力に留まるために",
+          "note_ja": "dying to は口語的だが分析コメントでよく使われる。"
+        },
+        {
+          "text": "Mairav Zonszein of the International Crisis Group told AFP",
+          "role_ja": "帰属",
+          "literal_ja": "ゾンザイン氏がAFPに語った",
+          "note_ja": "of + 組織名 で所属を示す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s028",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Trump is trying to figure out a way out of it, and he clearly has a lot of leverage over Netanyahu.",
+      "translation_ja": "「トランプはそこからの出口を模索しており、ネタニヤフに対して明らかに大きな影響力を持っている。」",
+      "grammar_ja": "figure out a way out of it は「～からの脱出策を考える」。leverage over は「～に対する影響力・切り札」。",
+      "chunks": [
+        {
+          "text": "Trump is trying to figure out a way out of it",
+          "role_ja": "引用（前半）",
+          "literal_ja": "トランプは模索している／出口を／それからの",
+          "note_ja": "it は戦争・同盟の行き詰まりを指す。"
+        },
+        {
+          "text": "and he clearly has a lot of leverage over Netanyahu",
+          "role_ja": "引用（後半）",
+          "literal_ja": "そして明らかに大きな影響力を持つ／ネタニヤフに対して",
+          "note_ja": "leverage は物理的てこから政治的交渉力へ。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s029",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Netanyahu can't just go against Trump.\"",
+      "translation_ja": "「ネタニヤフは単にトランプに逆らうことはできない。」",
+      "grammar_ja": "can't just は「簡単には～できない」。go against は「～に逆らう・敵対する」。",
+      "chunks": [
+        {
+          "text": "Netanyahu can't just go against Trump",
+          "role_ja": "主節",
+          "literal_ja": "ネタニヤフは単に逆らえない／トランプに",
+          "note_ja": "just は「気軽に・ただ～するだけ」というニュアンスの否定。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s030",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "She added that Trump was \"trying to move forward, and Netanyahu is still trying to go back to war.",
+      "translation_ja": "彼女は、トランプは「前に進もうとしているのに対し、ネタニヤフはまだ戦争に戻ろうとしている」と付け加えた。",
+      "grammar_ja": "added that で追加発言。move forward と go back to war の対比が核心。",
+      "chunks": [
+        {
+          "text": "She added that Trump was \"trying to move forward",
+          "role_ja": "主節＋間接引用（前半）",
+          "literal_ja": "彼女は付け加えた／トランプは前進しようとしていると",
+          "note_ja": "move forward は和平・交渉継続の婉曲表現。"
+        },
+        {
+          "text": "and Netanyahu is still trying to go back to war",
+          "role_ja": "間接引用（後半）",
+          "literal_ja": "そしてネタニヤフはまだ戦争に戻ろうとしている",
+          "note_ja": "still で継続する対立志向を強調。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s031",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "That's the main divergence here.\"",
+      "translation_ja": "「それがここでの主な相違点だ。」",
+      "grammar_ja": "divergence は「意見・方針の乖離」。here でこの状況特有の対立を指す。",
+      "chunks": [
+        {
+          "text": "That's the main divergence",
+          "role_ja": "主節",
+          "literal_ja": "それが主な相違点だ",
+          "note_ja": "divergence は difference より格式的・分析的。"
+        },
+        {
+          "text": "here",
+          "role_ja": "副詞",
+          "literal_ja": "ここでは",
+          "note_ja": "この同盟関係・戦争状況の文脈を限定。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s032",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "under strain",
+      "pronunciation": "/ˈʌndər streɪn/",
+      "meaning_ja": "（関係が）緊張している、ひび割れている",
+      "example": "Their relationship is under strain after the dispute.",
+      "example_ja": "その争いの後、二人の関係は緊張している。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "unleash a tirade",
+      "pronunciation": "/ʌnˈliːʃ ə taɪˈreɪd/",
+      "meaning_ja": "激しい非難の連発を浴びせる",
+      "example": "Trump unleashed a profane tirade over the phone.",
+      "example_ja": "トランプは電話で汚い言葉の連発を浴びせた。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "in hock to",
+      "pronunciation": "/ɪn hɒk tuː/",
+      "meaning_ja": "～に借りを作っている、～に依存している",
+      "example": "Both leaders face criticism for being in hock to the other.",
+      "example_ja": "両指導者とも相手に依存していると批判されている。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "do someone's bidding",
+      "pronunciation": "/duː ˈsʌmwʌnz ˈbɪdɪŋ/",
+      "meaning_ja": "～の言いなりになる、～の思惑通りに動く",
+      "example": "He is accused of doing Israel's bidding in the war.",
+      "example_ja": "彼は戦争でイスラエルの思惑通りに動いていると非難されている。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "ideological bedfellow",
+      "pronunciation": "/ˌaɪdiəˈlɒdʒɪkl ˈbedˌfeloʊ/",
+      "meaning_ja": "思想的な同志、利害や信念を共にする同盟者",
+      "example": "In Trump he finally found an ideological bedfellow.",
+      "example_ja": "トランプの中で彼はようやく思想的な同志を見つけた。",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "leverage",
+      "pronunciation": "/ˈlevərɪdʒ/",
+      "meaning_ja": "（交渉上の）影響力、切り札",
+      "example": "He clearly has a lot of leverage over Netanyahu.",
+      "example_ja": "彼はネタニヤフに対して明らかに大きな影響力を持っている。",
+      "source_sentence_id": "s029"
+    },
+    {
+      "word": "midterm elections",
+      "pronunciation": "/ˈmɪdtɜːrm ɪˈlekʃənz/",
+      "meaning_ja": "（米国の）中間選挙",
+      "example": "The war threatens Republican chances in November's midterm elections.",
+      "example_ja": "戦争は11月の中間選挙での共和党の勝算を脅かしている。",
+      "source_sentence_id": "s026"
+    },
+    {
+      "word": "fall out",
+      "pronunciation": "/fɔːl aʊt/",
+      "meaning_ja": "（人と）仲たがいする、不和になる",
+      "example": "It was not the first time they had fallen out.",
+      "example_ja": "彼らが仲たがいするのは初めてではなかった。",
+      "source_sentence_id": "s015"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-news",
+      "title": "Reported speech in news writing",
+      "rule": "Use patterns like 'X quoted/quoted A as -ing' and 'Y told AFP' to attribute claims without stating them as fact.",
+      "example": "Axios quoted Trump as shouting at Netanyahu in the call on Monday.",
+      "meaning_ja": "ニュース英語では、直接の事実断言を避け、quote ... as -ing や told AFP などで「誰がそう述べたか」を明示する。reportedly も同様に情報源を留保する。"
+    },
+    {
+      "id": "conditional-unreal",
+      "title": "Unreal conditional (if it weren't for)",
+      "rule": "Use 'if it weren't for' + noun to describe a hypothetical situation contrary to reality.",
+      "example": "You'd be in prison if it weren't for me.",
+      "meaning_ja": "if it weren't for は「～がなければ（実際にはあるので結果は違う）」という仮定法。You'd = You would で非現実の結果を表す。政治引用でも攻撃的な脅しの表現として使われる。"
+    },
+    {
+      "id": "participle-reason",
+      "title": "Participle clauses for reason (fearing / when asked)",
+      "rule": "A present participle or past participle phrase can replace a full clause with 'because' or 'when'.",
+      "example": "Trump unleashed a tirade, fearing it would undermine talks with Tehran.",
+      "meaning_ja": "分詞構文は理由や時を簡潔に示す。fearing = because he feared、when asked = when they were asked のように、主語が前後で一致する場合に使う。"
+    },
+    {
+      "id": "relative-clause-chain",
+      "title": "Relative clause chains",
+      "rule": "Multiple relative clauses (that/which/who) can stack to add layers of detail in one sentence.",
+      "example": "Trump wants a way out of a war that has badly hit the U.S. economy, which will decide if his party keeps control of Congress.",
+      "meaning_ja": "関係代名詞 that（制限用法）と which（非制限用法）を連鎖させ、一文に背景・因果・詳細を詰め込むのは英語ニュースの特徴。日本語訳では文を分けた方が自然なことが多い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 32,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:30:35+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:trump-calls-netanyahu-crazy-says-everybo"
+}

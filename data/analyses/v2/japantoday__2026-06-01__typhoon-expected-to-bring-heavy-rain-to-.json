@@ -1,0 +1,517 @@
+{
+  "summary_ja": "台風6号ジャンミは今週、太平洋側の西日本・東日本に大雨をもたらす見込みで、気象庁が日曜に発表した。沖縄から関東にかけて警報級の大雨や強風、高潮、土砂災害などに警戒が必要だ。航空会社はすでに沖縄便の欠航を相次いで発表している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Typhoon Jangmi is forecast to bring heavy rain to western and eastern Japan along the Pacific coast this week, the Japan Meteorological Agency said Sunday, with airlines already cancelling flights.",
+      "translation_ja": "気象庁は日曜、台風6号ジャンミが今週、太平洋側の西日本と東日本に大雨をもたらす見込みだと発表した。航空会社はすでに便の欠航を始めている。",
+      "grammar_ja": "「is forecast to + 動詞」は予報・見通しの定番表現。主節の後ろに「the JMA said Sunday」と挿入される倒置的なニュース文体。with + 現在分詞で付帯状況を追加。",
+      "chunks": [
+        {
+          "text": "Typhoon Jangmi",
+          "role_ja": "主語",
+          "literal_ja": "台風ジャンミが",
+          "note_ja": "台風名は固有名詞として大文字。日本語では「台風○号」と番号で呼ぶことも多い。"
+        },
+        {
+          "text": "is forecast to bring heavy rain",
+          "role_ja": "述語（見通し）",
+          "literal_ja": "大雨をもたらすと予報されている",
+          "note_ja": "forecast は名詞・動詞どちらも使える。be forecast to は気象・経済ニュースで頻出。"
+        },
+        {
+          "text": "to western and eastern Japan along the Pacific coast",
+          "role_ja": "場所の補語",
+          "literal_ja": "太平洋側の西日本・東日本に",
+          "note_ja": "along the Pacific coast は「太平洋側に沿って」。地理の範囲を示す前置詞句。"
+        },
+        {
+          "text": "this week",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "今週",
+          "note_ja": "予報の時間枠を簡潔に示す。"
+        },
+        {
+          "text": "the Japan Meteorological Agency said Sunday",
+          "role_ja": "引用・出典の挿入句",
+          "literal_ja": "気象庁は日曜に述べた",
+          "note_ja": "英語ニュースでは発表元を文中・文末に置く。日本語は冒頭に置くことが多い。"
+        },
+        {
+          "text": "with airlines already cancelling flights",
+          "role_ja": "付帯状況（with + 分詞）",
+          "literal_ja": "航空会社がすでに欠航しているという状況で",
+          "note_ja": "with + O + V-ing で背景情報を添える。already は「すでに」という先行事象を強調。"
+        }
+      ],
+      "deep_dive_ja": "英語の気象記事は情報の核を文頭に置き、発表元を後から差し込む構造が多い。日本語訳では読みやすさのため「気象庁は日曜」と先に出すのが自然。cancel flights は「欠航する／便を欠航にする」の定番コロケーション。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The agency said warning-level heavy rain may fall from the southwestern island of Kyushu to the Kanto region, which includes Tokyo, along the Pacific coast through Wednesday.",
+      "translation_ja": "同庁は、水曜までの間、太平洋側で九州の南西から東京を含む関東地方にかけて、警報級の大雨が降る可能性があると述べた。",
+      "grammar_ja": "warning-level は名詞を修飾するハイフン複合語。may fall で可能性。which includes Tokyo は非制限用法の関係詞節。through Wednesday は「水曜まで（水曜を含む）」。",
+      "chunks": [
+        {
+          "text": "The agency said",
+          "role_ja": "主節",
+          "literal_ja": "同庁は述べた",
+          "note_ja": "前の文の Japan Meteorological Agency を the agency で受ける。"
+        },
+        {
+          "text": "warning-level heavy rain",
+          "role_ja": "主語（that節内）",
+          "literal_ja": "警報級の大雨が",
+          "note_ja": "level を形容詞化した複合語。日本の気象用語「警報級」を英語で表現。"
+        },
+        {
+          "text": "may fall",
+          "role_ja": "述語",
+          "literal_ja": "降る可能性がある",
+          "note_ja": "may は推量・可能性。気象予報では will より控えめな may が好まれることがある。"
+        },
+        {
+          "text": "from the southwestern island of Kyushu to the Kanto region",
+          "role_ja": "範囲を表す前置詞句",
+          "literal_ja": "九州の南西の島から関東地方まで",
+          "note_ja": "from A to B で地理的範囲。the southwestern island of Kyushu は九州南端のニュアンス。"
+        },
+        {
+          "text": "which includes Tokyo",
+          "role_ja": "関係詞節（補足）",
+          "literal_ja": "東京を含む",
+          "note_ja": "カンマ + which は追加情報。日本の読者向けに関東＝東京圏と補足している。"
+        },
+        {
+          "text": "along the Pacific coast through Wednesday",
+          "role_ja": "場所・期間の修飾",
+          "literal_ja": "太平洋側で水曜まで",
+          "note_ja": "through + 曜日は「その日を含めてまで」。until より inclusive な含意。"
+        }
+      ],
+      "deep_dive_ja": "英語の地理説明は前置詞句が長く連なる。日本語では「太平洋側で」「水曜まで」を適切な位置に再配置する。warning-level は日本語の行政用語に近いが、英語圏読者には heavy rain warranting warnings と言い換える記事もある。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "It also urged caution for violent winds, storm surges, landslides and flooded rivers.",
+      "translation_ja": "同庁はまた、猛烈な風、高潮、土砂災害、河川の増水にも警戒するよう呼びかけた。",
+      "grammar_ja": "urge caution for は「～に警戒を呼びかける」の公式・報道表現。also は前段の大雨に加えての注意喚起。並列名詞で災害リスクを列挙。",
+      "chunks": [
+        {
+          "text": "It also urged caution",
+          "role_ja": "主節",
+          "literal_ja": "それもまた警戒を呼びかけた",
+          "note_ja": "urge は公的機関の呼びかけに多い。ask より強いが order ほど強くない。"
+        },
+        {
+          "text": "for violent winds, storm surges, landslides and flooded rivers",
+          "role_ja": "対象（for の補語）",
+          "literal_ja": "猛烈な風、高潮、土砂災害、増水した河川に対して",
+          "note_ja": "storm surge は「高潮」。flooded rivers は「河川の増水・氾濫」ではなく増水した状態を指す。"
+        }
+      ],
+      "deep_dive_ja": "urge caution はニュースの定型句。learners は warn people of と混同しがちだが、urge caution for は機関の公式声明向け。violent winds は strong winds より報道的・警戒を強める語感。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The typhoon, the sixth of the season, is expected to approach the southern island of Okinawa and the Amami Islands on Monday and Tuesday, before it is set to shift course eastward and travel to western and eastern Japan on Wednesday, weakening slightly, the agency said.",
+      "translation_ja": "第6号とされる台風は、月・火曜に沖縄本島南部と奄美諸島に接近する見込みで、その後進路を東に変えて水曜に西日本・東日本へ進み、やや勢力を弱めながら移動すると、同庁は述べた。",
+      "grammar_ja": "同格語 the sixth of the season で台風番号を挿入。be expected to と be set to の二重の見通し表現。before 節で時系列。分詞構文 weakening slightly が付帯動作。",
+      "chunks": [
+        {
+          "text": "The typhoon, the sixth of the season,",
+          "role_ja": "主語（同格語付き）",
+          "literal_ja": "今シーズン6号目の台風は",
+          "note_ja": "カンマで挟んだ同格が番号情報。日本では「台風6号」と呼ぶ。"
+        },
+        {
+          "text": "is expected to approach the southern island of Okinawa and the Amami Islands",
+          "role_ja": "述語（第1段階）",
+          "literal_ja": "沖縄の南の島と奄美諸島に接近すると見込まれる",
+          "note_ja": "approach は「接近する」、hit より手前の段階。"
+        },
+        {
+          "text": "on Monday and Tuesday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "月曜と火曜に",
+          "note_ja": "曜日は on を使う。"
+        },
+        {
+          "text": "before it is set to shift course eastward and travel to western and eastern Japan",
+          "role_ja": "時系列の従属節",
+          "literal_ja": "それが進路を東へ変え西日本・東日本へ進む予定になる前に／その後",
+          "note_ja": "before はここでは「その前に」より「その後まず…してから」の流れで次行動へ。be set to は予定・見込みが固まったニュアンス。"
+        },
+        {
+          "text": "on Wednesday, weakening slightly",
+          "role_ja": "時・付帯状況",
+          "literal_ja": "水曜に、やや弱まりながら",
+          "note_ja": "分詞構文で台風本体の付随動作。slightly は勢力低下の程度が小さいことを示す。"
+        },
+        {
+          "text": "the agency said",
+          "role_ja": "引用句",
+          "literal_ja": "気象庁は述べた",
+          "note_ja": "長文の末尾に発表元を置く典型構造。"
+        }
+      ],
+      "deep_dive_ja": "一文に時系列（月火→水曜）と経路変化が詰まっている。be set to は口語でも「～する予定」だが、報道では予報の確度が高い場合に使われる。shift course eastward の eastward は副詞で「東方向へ」。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Due to a front stalled north of the typhoon, rain may fall in some areas even before the typhoon hits.",
+      "translation_ja": "台風の北で停滞している前線の影響で、台風が直撃する前から一部の地域で雨が降る可能性がある。",
+      "grammar_ja": "Due to + 名詞 で原因。stalled は過去分詞の形容詞用法（停滞した）。even before で「いつもより早い段階」を強調。",
+      "chunks": [
+        {
+          "text": "Due to a front stalled north of the typhoon",
+          "role_ja": "原因（前置詞句）",
+          "literal_ja": "台風の北で停滞している前線のために",
+          "note_ja": "front は気象用語の「前線」。stalled north of は北側で動かない状態。"
+        },
+        {
+          "text": "rain may fall in some areas",
+          "role_ja": "主節",
+          "literal_ja": "一部の地域で雨が降るかもしれない",
+          "note_ja": "may fall で可能性。some areas は特定せず広く。"
+        },
+        {
+          "text": "even before the typhoon hits",
+          "role_ja": "時の従属節",
+          "literal_ja": "台風が襲うより前にさえ",
+          "note_ja": "even は意外性・早さの強調。hit は台風・嵐の「直撃」に使う動詞。"
+        }
+      ],
+      "deep_dive_ja": "気象記事では前線・湿気など台風本体以外の要因も説明する。stalled は stall の過去分詞形容詞で「停止・停滞」。learners は stop と混同しやすいが、front stalled は定番の気象英語。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The agency noted that the duration of rainfall could be prolonged, resulting in high total rainfall.",
+      "translation_ja": "同庁は、降雨が長時間にわたる可能性があり、結果として総雨量が多くなる恐れがあると指摘した。",
+      "grammar_ja": "noted that で公式見解。could be prolonged は受動態で「長引く可能性」。resulting in は結果を示す分詞構文。total rainfall は総雨量。",
+      "chunks": [
+        {
+          "text": "The agency noted that",
+          "role_ja": "主節",
+          "literal_ja": "同庁は～と指摘した",
+          "note_ja": "note は said より「分析・着目」を含む動詞。"
+        },
+        {
+          "text": "the duration of rainfall could be prolonged",
+          "role_ja": "that 節（内容1）",
+          "literal_ja": "降雨の継続時間が長引く可能性がある",
+          "note_ja": "duration は期間。prolong は「延長する」、ここでは受動態。"
+        },
+        {
+          "text": "resulting in high total rainfall",
+          "role_ja": "結果を表す分詞構文",
+          "literal_ja": "高い総雨量という結果をもたらして",
+          "note_ja": "result in A は「Aという結果になる」。total rainfall は気象の専門語。"
+        }
+      ],
+      "deep_dive_ja": "prolonged rainfall と total rainfall は災害リスク説明のキーワード。resulting in は which results in を省略した簡潔なニュース文体。could は可能性と公式の留保を両立。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Some areas are expected to see more than 200 to 300 millimeters of rain.",
+      "translation_ja": "一部の地域では、雨量が200〜300ミリリットルを超える見込みだ。",
+      "grammar_ja": "be expected to see は予想値の報道表現（see を「経験する・記録する」の意味で使用）。more than 200 to 300 は概算レンジの幅を示す。",
+      "chunks": [
+        {
+          "text": "Some areas are expected to see",
+          "role_ja": "主節",
+          "literal_ja": "一部の地域では～が見込まれる",
+          "note_ja": "see は視覚だけでなく「（値が）出る・達する」にも使う。get や receive より報道で好まれる。"
+        },
+        {
+          "text": "more than 200 to 300 millimeters of rain",
+          "role_ja": "目的語",
+          "literal_ja": "200から300ミリを超える雨量を",
+          "note_ja": "mm = millimeters。more than A to B は「A〜B程度を上回る」の概ねの幅。"
+        }
+      ],
+      "deep_dive_ja": "英語の降水量は millimeters、米国記事では inches も多い。are expected to see は数値予報の定型。日本語では単位をミリと訳すのが自然。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "Japan Airlines and All Nippon Airways have reported a series of cancellations for flights to and from Okinawa.",
+      "translation_ja": "日本航空と全日本空輸は、沖縄発着便の相次ぐ欠航を発表した。",
+      "grammar_ja": "現在完了 have reported は直近の発表を報じる。 a series of で「相次ぐ」。to and from Okinawa は「沖縄発着の」。",
+      "chunks": [
+        {
+          "text": "Japan Airlines and All Nippon Airways",
+          "role_ja": "主語",
+          "literal_ja": "日本航空と全日本空輸は",
+          "note_ja": "略称 JAL / ANA は本文では正式名称。"
+        },
+        {
+          "text": "have reported a series of cancellations",
+          "role_ja": "述語・目的語",
+          "literal_ja": "相次ぐ欠航を報告した",
+          "note_ja": "a series of は単発ではなく複数回・複数便のニュアンス。"
+        },
+        {
+          "text": "for flights to and from Okinawa",
+          "role_ja": "修飾語",
+          "literal_ja": "沖縄行き・沖縄発の便について",
+          "note_ja": "to and from は往復・双方向の発着をまとめて表す便利な表現。"
+        }
+      ],
+      "deep_dive_ja": "航空ニュースでは cancellations for flights が頻出。a series of は many より「続けざまに起きた」感じ。report は会社発表をそのまま伝える動詞。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "The 24-hour rainfall forecast through noon on Monday is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu.",
+      "translation_ja": "月曜正午までの24時間予想雨量は、沖縄で100ミリ、奄美と南九州で80ミリだ。",
+      "grammar_ja": "through noon on Monday は月曜正午まで（含む）。主語が長く、述語 is が後ろに来る。地域ごとに in + 地名で量を並列。",
+      "chunks": [
+        {
+          "text": "The 24-hour rainfall forecast through noon on Monday",
+          "role_ja": "主語",
+          "literal_ja": "月曜正午までの24時間の降雨予想",
+          "note_ja": "forecast を名詞として主語化。through noon は期限。"
+        },
+        {
+          "text": "is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu",
+          "role_ja": "述語",
+          "literal_ja": "沖縄では100ミリ、奄美と南九州では80ミリである",
+          "note_ja": "数値予報は is + 量 + in + 地域 の型が定型。"
+        }
+      ],
+      "deep_dive_ja": "気象予報文は主語が長い名詞句になりやすい。日本語では「月曜正午までの24時間」と時間軸を先に整理すると読みやすい。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "By noon Tuesday, 300 mm is expected to fall in Okinawa, Amami, and southern Kyushu.",
+      "translation_ja": "火曜正午までに、沖縄・奄美・南九州では300ミリの降雨が予想される。",
+      "grammar_ja": "By noon Tuesday で期限。受動 is expected to fall で予想雨量。地名は and で列挙。",
+      "chunks": [
+        {
+          "text": "By noon Tuesday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "火曜正午までに",
+          "note_ja": "by は「その時点までに」。on を省略する簡潔な曜日表現も報道であり。"
+        },
+        {
+          "text": "300 mm is expected to fall",
+          "role_ja": "述語",
+          "literal_ja": "300ミリが降ると予想される",
+          "note_ja": "雨量は fall と動詞を組み合わせる。rainfall が主語の文もある。"
+        },
+        {
+          "text": "in Okinawa, Amami, and southern Kyushu",
+          "role_ja": "場所の補語",
+          "literal_ja": "沖縄、奄美、南九州で",
+          "note_ja": "牛津コンマ（最後の and 前のコンマ）あり。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "By noon Wednesday, 300 mm is expected to fall in Shikoku and the Kansai region of western Japan, and 200 mm in regions such as Tokai in central Japan and Kanto.",
+      "translation_ja": "水曜正午までに、四国と西日本の関西では300ミリ、中部の東海や関東などの地域では200ミリの降雨が予想される。",
+      "grammar_ja": "並列構造で地域別雨量を対比。such as で例示。of western Japan / in central Japan で地方区分を修飾。",
+      "chunks": [
+        {
+          "text": "By noon Wednesday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "水曜正午までに",
+          "note_ja": "前の文と同型で時系列を積み上げる。"
+        },
+        {
+          "text": "300 mm is expected to fall in Shikoku and the Kansai region of western Japan",
+          "role_ja": "述語（第1地域群）",
+          "literal_ja": "四国と西日本の関西で300ミリが降る見込み",
+          "note_ja": "the Kansai region of western Japan で関西＝西日本の一部と明示。"
+        },
+        {
+          "text": "and 200 mm in regions such as Tokai in central Japan and Kanto",
+          "role_ja": "述語（第2地域群・省略構文）",
+          "literal_ja": "そして中部日本の東海や関東などの地域で200ミリ",
+          "note_ja": "is expected to fall が省略され、200 mm から始まる並列。such as は「など」を含む例示。"
+        }
+      ],
+      "deep_dive_ja": "英文は数値と地域の並列で省略が起きる。訳すときは「300ミリ」「200ミリ」の対応をはっきりさせる。Tokai は日本の地方名としてそのまま東海と訳す。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "As of Sunday night, the typhoon was moving north at 20 kilometers per hour south of Okinawa.",
+      "translation_ja": "日曜夜時点で、台風は沖縄の南を時速20キロで北へ進んでいた。",
+      "grammar_ja": "As of + 時点 で状況報告の起点。was moving で過去進行形（その時点で進行中）。at 20 kph で速度。south of Okinawa で位置。",
+      "chunks": [
+        {
+          "text": "As of Sunday night",
+          "role_ja": "時点の副詞句",
+          "literal_ja": "日曜夜時点で",
+          "note_ja": "as of は「～時点のところ」。株価・気象のスナップショットに多い。"
+        },
+        {
+          "text": "the typhoon was moving north",
+          "role_ja": "主節",
+          "literal_ja": "台風は北へ移動していた",
+          "note_ja": "move north の north は副詞。was moving はその瞬間の進行。"
+        },
+        {
+          "text": "at 20 kilometers per hour",
+          "role_ja": "速度の副詞句",
+          "literal_ja": "時速20キロで",
+          "note_ja": "per hour で単位。kph は kilometers per hour の略。"
+        },
+        {
+          "text": "south of Okinawa",
+          "role_ja": "場所の副詞句",
+          "literal_ja": "沖縄の南で",
+          "note_ja": "of Okinawa で沖縄を基準にした相対位置。"
+        }
+      ],
+      "deep_dive_ja": "台風の実況は as of + 時点 / was moving / central pressure のセットで続くことが多い。日本語では速度と位置の順序を入れ替えてもよい。",
+      "difficulty": "medium",
+      "sentence_id": "s012"
+    },
+    {
+      "text": "Its central pressure was 975 hectopascals, with a maximum wind speed of 108 kph and a maximum instantaneous wind speed of 162 kph.",
+      "translation_ja": "中心気圧は975ヘクトパスカルで、最大風速は時速108キロ、最大瞬間風速は時速162キロだった。",
+      "grammar_ja": "気象データの列挙。with + 名詞 で付加情報。maximum instantaneous wind speed は最大瞬間風速の定訳に近い。",
+      "chunks": [
+        {
+          "text": "Its central pressure was 975 hectopascals",
+          "role_ja": "主節",
+          "literal_ja": "その中心気圧は975ヘクトパスカルだった",
+          "note_ja": "central pressure は台風の強さの基本指標。hectopascals (hPa)。"
+        },
+        {
+          "text": "with a maximum wind speed of 108 kph",
+          "role_ja": "付加情報",
+          "literal_ja": "最大風速108キロとともに",
+          "note_ja": "with で付帯データを追加する簡潔な列挙法。"
+        },
+        {
+          "text": "and a maximum instantaneous wind speed of 162 kph",
+          "role_ja": "付加情報（並列）",
+          "literal_ja": "そして最大瞬間風速162キロ",
+          "note_ja": "instantaneous は「瞬間の」。突風のピークを示す。"
+        }
+      ],
+      "deep_dive_ja": "台風記事の締めは数値の羅列になりがち。maximum wind speed と maximum instantaneous wind speed の違いは日本の気象用語と対応する。learners は gust と instantaneous wind speed の関係を覚えるとよい。",
+      "difficulty": "medium",
+      "sentence_id": "s013"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "forecast",
+      "pronunciation": "/ˈfɔːrkæst/",
+      "meaning_ja": "予報する、見通し",
+      "example": "Typhoon Jangmi is forecast to bring heavy rain.",
+      "example_ja": "台風ジャンミは大雨をもたらすと予報されている。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "warning-level",
+      "pronunciation": "/ˈwɔːrnɪŋ ˌlevəl/",
+      "meaning_ja": "警報級の",
+      "example": "Warning-level heavy rain may fall along the Pacific coast.",
+      "example_ja": "太平洋側で警報級の大雨が降る可能性がある。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "storm surge",
+      "pronunciation": "/stɔːrm sɜːrdʒ/",
+      "meaning_ja": "高潮（台風・暴風で海水が押し上げる現象）",
+      "example": "The agency urged caution for storm surges.",
+      "example_ja": "気象庁は高潮に警戒するよう呼びかけた。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "shift course",
+      "pronunciation": "/ʃɪft kɔːrs/",
+      "meaning_ja": "進路を変える",
+      "example": "The typhoon is set to shift course eastward.",
+      "example_ja": "台風は進路を東に変える見込みだ。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "stalled",
+      "pronunciation": "/stɔːld/",
+      "meaning_ja": "停滞した、動かなくなった",
+      "example": "Due to a front stalled north of the typhoon.",
+      "example_ja": "台風の北で停滞している前線のために。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "prolonged",
+      "pronunciation": "/prəˈlɔːŋd/",
+      "meaning_ja": "長期にわたる、長引いた",
+      "example": "The duration of rainfall could be prolonged.",
+      "example_ja": "降雨が長時間にわたる可能性がある。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "cancellation",
+      "pronunciation": "/ˌkænsəˈleɪʃən/",
+      "meaning_ja": "欠航、中止、キャンセル",
+      "example": "Airlines reported a series of cancellations for flights.",
+      "example_ja": "航空会社は便の相次ぐ欠航を発表した。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "central pressure",
+      "pronunciation": "/ˈsentrəl ˈpreʃər/",
+      "meaning_ja": "中心気圧（台風の強さの指標）",
+      "example": "Its central pressure was 975 hectopascals.",
+      "example_ja": "中心気圧は975ヘクトパスカルだった。",
+      "source_sentence_id": "s013"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "be-forecast-expected-to",
+      "title": "be forecast / be expected to + 動詞",
+      "rule": "Use passive + to-infinitive to report forecasts and expectations in news.",
+      "example": "The typhoon is expected to approach Okinawa on Monday.",
+      "meaning_ja": "予報・見通しを客観的に伝える定型。forecast は気象、expected はより一般的。日本語の「～見込みだ」「～と予報されている」に対応。"
+    },
+    {
+      "id": "with-participle-phrase",
+      "title": "with + 名詞 + 現在分詞",
+      "rule": "Adds background or accompanying circumstances to the main clause.",
+      "example": "..., with airlines already cancelling flights.",
+      "meaning_ja": "主文に付帯状況を添える構文。「～という状況で」「～も起きており」などと訳す。気象記事でも風速データの列挙に with が使われる。"
+    },
+    {
+      "id": "due-to-cause",
+      "title": "Due to + 名詞",
+      "rule": "Introduces a cause; often starts a sentence in news writing.",
+      "example": "Due to a front stalled north of the typhoon, rain may fall.",
+      "meaning_ja": "原因を示す。because of よりやや格式ばった報道調。後ろに名詞句が続く。過去分詞の形容詞用法（stalled）と組み合わさることが多い。"
+    },
+    {
+      "id": "time-range-through-by",
+      "title": "through / by + 時点",
+      "rule": "through + day = including that day; by + time = no later than that time.",
+      "example": "through Wednesday; By noon Tuesday, 300 mm is expected to fall.",
+      "meaning_ja": "through Wednesday は水曜を含む期間の終わりまで。by noon Tuesday は火曜正午までに（その時点までに）。予報の時間軸を読み取るのに重要。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 13,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:14:09+09:00"
+  },
+  "article_id": "japantoday:2026-06-01:typhoon-expected-to-bring-heavy-rain-to-"
+}

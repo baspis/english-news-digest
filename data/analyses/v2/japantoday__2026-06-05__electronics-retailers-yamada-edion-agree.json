@@ -1,0 +1,485 @@
+{
+  "summary_ja": "日本最大の家電量販店ヤマダホールディングスとエディオンは、2027年10月に設立予定の持株会社の下で合併することで合意したと発表した。合併後の売上高は約2.5兆円となり、業界2位のノジマを大きく上回る規模になる。人口減少やEC競争の激化を背景に、共同調達やPB商品展開で効率化と競争力強化を目指す。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "apan's largest consumer electronics retailer, Yamada Holdings Co, and Edion Corp, another key company in the industry, said Friday they had agreed to merge under a holding company to be established in October 2027.",
+      "translation_ja": "日本最大の家電量販店であるヤマダホールディングスと、業界でも主要企業の一つであるエディオンは金曜日、2027年10月に設立予定の持株会社の下で合併することで合意したと発表した。",
+      "grammar_ja": "said の後に that 省略の内容節。had agreed は「発表時点より前に合意していた」という過去完了。to be established は「これから設立される予定」の受動不定詞。",
+      "chunks": [
+        {
+          "text": "apan's largest consumer electronics retailer, Yamada Holdings Co",
+          "role_ja": "主語（一部）",
+          "literal_ja": "日本最大の家電量販店、ヤマダホールディングス",
+          "note_ja": "consumer electronics retailer は「家電量販店」。同格の名詞句で会社名を説明するニュース文体。"
+        },
+        {
+          "text": "and Edion Corp, another key company in the industry",
+          "role_ja": "主語（一部）",
+          "literal_ja": "とエディオン、業界のもう一つの主要企業",
+          "note_ja": "another key company in the industry で「業界の主要企業の一つ」と補足。"
+        },
+        {
+          "text": "said Friday",
+          "role_ja": "述語",
+          "literal_ja": "金曜日に述べた",
+          "note_ja": "said Friday は said on Friday の省略形。ニュースでは曜日だけ置くことが多い。"
+        },
+        {
+          "text": "they had agreed to merge",
+          "role_ja": "目的語節",
+          "literal_ja": "彼らは合併することに合意していた",
+          "note_ja": "agree to merge は「合併に合意する」。had agreed で発表以前の合意を示す。"
+        },
+        {
+          "text": "under a holding company",
+          "role_ja": "前置詞句",
+          "literal_ja": "持株会社の下で",
+          "note_ja": "under はここで「〜の傘下で・体制の下で」。"
+        },
+        {
+          "text": "to be established in October 2027",
+          "role_ja": "修飾語",
+          "literal_ja": "2027年10月に設立される予定の",
+          "note_ja": "to be established は未来の受動。holding company を後ろから修飾。"
+        }
+      ],
+      "deep_dive_ja": "文頭の apan's は原文どおり Japan's の欠落と思われます。企業ニュースでは社名のあとに役職や地位をカンマで挿入する同格構文が頻出します。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Their combined sales would total around 2.5 trillion yen ($15.6 billion), more than double the 982.80 billion yen posted by No. 2 competitor Nojima Corp in the previous fiscal year.",
+      "translation_ja": "両社を合わせた売上高は約2.5兆円（156億ドル）となり、前会計年度に業界2位の競合ノジマが計上した9,828億円の2倍以上になる。",
+      "grammar_ja": "would total は仮定・見込みの売上を示す。more than double は比較表現。posted by は会計・売上の「計上した」というビジネス用法。",
+      "chunks": [
+        {
+          "text": "Their combined sales",
+          "role_ja": "主語",
+          "literal_ja": "両社合わせた売上",
+          "note_ja": "combined は「合算された」。sales はここで売上高。"
+        },
+        {
+          "text": "would total around 2.5 trillion yen ($15.6 billion)",
+          "role_ja": "述語",
+          "literal_ja": "合計で約2.5兆円になるだろう",
+          "note_ja": "total を動詞で使い「合計する」。金額の後にドル換算を括弧で示すのが金融ニュースの型。"
+        },
+        {
+          "text": "more than double the 982.80 billion yen",
+          "role_ja": "補足説明",
+          "literal_ja": "9,828億円の2倍以上",
+          "note_ja": "more than double A は「Aの2倍以上」。double は名詞・形容詞として使える。"
+        },
+        {
+          "text": "posted by No. 2 competitor Nojima Corp",
+          "role_ja": "関係節相当",
+          "literal_ja": "業界2位の競合ノジマが計上した",
+          "note_ja": "post は「（売上などを）計上する」。No. 2 competitor は「2位の競合他社」。"
+        },
+        {
+          "text": "in the previous fiscal year",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "前会計年度に",
+          "note_ja": "fiscal year は日本語の会計年度。previous で直近の年度を指す。"
+        }
+      ],
+      "deep_dive_ja": "数字の読み方に注意：trillion は兆、billion は十億。日本語記事では円表示が主で、英語ではドル換算を併記するのが一般的です。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The move comes amid intensifying competition with industry rivals and e-commerce platforms as Japan's population shrinks.",
+      "translation_ja": "この動きは、日本の人口が減少する中、業界の競合他社やECプラットフォームとの競争が激化している状況を背景に行われたものだ。",
+      "grammar_ja": "come amid は「〜の最中に起こる」。intensifying は進行中の激化。as は「〜する一方で」の理由・背景。",
+      "chunks": [
+        {
+          "text": "The move",
+          "role_ja": "主語",
+          "literal_ja": "この動き",
+          "note_ja": "the move は直前の合併合意を受ける名詞。ニュースでよく使う指示語。"
+        },
+        {
+          "text": "comes amid intensifying competition",
+          "role_ja": "述語",
+          "literal_ja": "激化する競争の最中に起こる",
+          "note_ja": "amid は「〜の真っ只中で」。intensifying competition は「ますます激しくなる競争」。"
+        },
+        {
+          "text": "with industry rivals and e-commerce platforms",
+          "role_ja": "前置詞句",
+          "literal_ja": "業界の競合他社やECプラットフォームとの",
+          "note_ja": "competition with A は「Aとの競争」。rivals は競合他社。"
+        },
+        {
+          "text": "as Japan's population shrinks",
+          "role_ja": "副詞節",
+          "literal_ja": "日本の人口が縮小する一方で",
+          "note_ja": "as は時間・理由・背景を示す。shrinks は現在形で進行中の傾向。"
+        }
+      ],
+      "deep_dive_ja": "1文に背景（人口減少）と直接要因（競争激化）を重ねるのはビジネス記事の典型です。amid と as の違い：amid は状況の中、as は同時進行・背景。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "The companies hope that the merger will strengthen their product development capabilities and accelerate efficiency as they endeavor to release products under a private brand.",
+      "translation_ja": "両社は、自社ブランド商品の発売に努める中で、合併によって商品開発力を強化し、効率化を加速できると期待している。",
+      "grammar_ja": "hope that + 未来の内容節。endeavor to はややフォーマルな「努める」。under a private brand は「自社ブランド（PB）の下で」。",
+      "chunks": [
+        {
+          "text": "The companies hope that",
+          "role_ja": "主節",
+          "literal_ja": "両社は〜と期待している",
+          "note_ja": "hope that の that 節に期待の内容が続く。"
+        },
+        {
+          "text": "the merger will strengthen their product development capabilities",
+          "role_ja": "目的語節（一部）",
+          "literal_ja": "合併が商品開発力を強化するだろう",
+          "note_ja": "strengthen capabilities は「能力を強化する」というコロケーション。"
+        },
+        {
+          "text": "and accelerate efficiency",
+          "role_ja": "目的語節（一部）",
+          "literal_ja": "そして効率化を加速する",
+          "note_ja": "accelerate efficiency は「効率化を進める・速める」。"
+        },
+        {
+          "text": "as they endeavor to release products",
+          "role_ja": "副詞節",
+          "literal_ja": "商品発売に努める一方で",
+          "note_ja": "endeavor to do は try to do より硬い表現。release products は「商品を発売する」。"
+        },
+        {
+          "text": "under a private brand",
+          "role_ja": "前置詞句",
+          "literal_ja": "自社ブランドの下で",
+          "note_ja": "private brand は PB（プライベートブランド）＝小売店独自のブランド。"
+        }
+      ],
+      "deep_dive_ja": "capabilities と efficiency を並列に置くことで、開発力と運営効率の両方を狙う意図が伝わります。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Noboru Yamada, chairman of Yamada Holdings, is set to become chairman of the holding company, while Masataka Kubo, chairman of Hiroshima-based Edion, will assume the role of president.",
+      "translation_ja": "ヤマダホールディングスの会長である山田昇氏は持株会社の会長に就任予定で、広島に本社を置くエディオンの会長である久保正隆氏は社長を務めることになる。",
+      "grammar_ja": "is set to become は「〜する予定だ」。while で2人の人事を対比。assume the role of は「役職を引き受ける」の硬い表現。",
+      "chunks": [
+        {
+          "text": "Noboru Yamada, chairman of Yamada Holdings",
+          "role_ja": "主語",
+          "literal_ja": "山田昇、ヤマダホールディングス会長",
+          "note_ja": "人名の後に役職をカンマで挿入する同格。"
+        },
+        {
+          "text": "is set to become chairman of the holding company",
+          "role_ja": "述語",
+          "literal_ja": "持株会社の会長になる予定だ",
+          "note_ja": "be set to do は公式発表でよく使う「就任・実施予定」。"
+        },
+        {
+          "text": "while Masataka Kubo, chairman of Hiroshima-based Edion",
+          "role_ja": "接続詞＋主語",
+          "literal_ja": "一方で久保正隆、広島拠点のエディオン会長は",
+          "note_ja": "Hiroshima-based は「広島に本社・拠点がある」。"
+        },
+        {
+          "text": "will assume the role of president",
+          "role_ja": "述語",
+          "literal_ja": "社長の役職を引き受ける",
+          "note_ja": "assume the role of は become president よりフォーマル。人事記事で頻出。"
+        }
+      ],
+      "deep_dive_ja": "会長と社長を別々の人物にする日本企業のガバナンス構造が英語でもそのまま説明されています。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "\"The industrial structure is undergoing major changes, and scale is a significant advantage,\" Yamada said at a press conference.",
+      "translation_ja": "「産業構造は大きく変化しており、規模の大きさは重要な優位性になる」と山田氏は記者会見で述べた。",
+      "grammar_ja": "直接話法＋報道文の語順（発言内容＋ said at a press conference）。is undergoing は進行形で変化の進行中を示す。",
+      "chunks": [
+        {
+          "text": "The industrial structure is undergoing major changes",
+          "role_ja": "引用文（前半）",
+          "literal_ja": "産業構造は大きな変化を遂げている",
+          "note_ja": "undergo changes は「変化を受ける・変わる」。進行形で現在進行中。"
+        },
+        {
+          "text": "and scale is a significant advantage",
+          "role_ja": "引用文（後半）",
+          "literal_ja": "そして規模は重要な優位性だ",
+          "note_ja": "scale はここで「事業規模・スケール」。advantage は競争上の有利さ。"
+        },
+        {
+          "text": "Yamada said at a press conference",
+          "role_ja": "主節",
+          "literal_ja": "山田は記者会見で述べた",
+          "note_ja": "英語ニュースでは引用を先に置き、話者を後に置くのが基本。"
+        }
+      ],
+      "deep_dive_ja": "significant は「統計的に有意」以外に「かなり重要な」という日常・ビジネス用法も多いです。",
+      "difficulty": "easy",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Kubo said they will seek to cut costs through joint procurement, as \"it is important to provide good products at lower prices.\"",
+      "translation_ja": "久保氏は共同調達によってコスト削減を図る方針だと述べ、「より低い価格で良い商品を提供することが重要だ」と語った。",
+      "grammar_ja": "seek to cut costs は「コスト削減を目指す」。through joint procurement は手段。as の後に理由を引用で示す構造。",
+      "chunks": [
+        {
+          "text": "Kubo said they will seek to cut costs",
+          "role_ja": "主節",
+          "literal_ja": "久保はコスト削減を目指すと述べた",
+          "note_ja": "seek to do は「〜しようと努める」。will seek で今後の方針。"
+        },
+        {
+          "text": "through joint procurement",
+          "role_ja": "手段を表す前置詞句",
+          "literal_ja": "共同調達を通じて",
+          "note_ja": "procurement は「調達・購買」。joint は共同の。"
+        },
+        {
+          "text": "as \"it is important to provide good products at lower prices.\"",
+          "role_ja": "理由節",
+          "literal_ja": "より低価格で良い商品を提供することが重要だという理由で",
+          "note_ja": "it is important to do は形式主語 it の定型句。"
+        }
+      ],
+      "deep_dive_ja": "経営者コメントでは手段（共同調達）と顧客価値（低価格・良い商品）をセットで示すのがよくあるパターンです。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "The holding company, whose name has yet to be decided, will be headquartered in Tokyo.",
+      "translation_ja": "持株会社の名称はまだ決まっていないが、本社は東京に置かれる。",
+      "grammar_ja": "whose 関係代名詞の非制限用法。has yet to be decided は「まだ決まっていない」。be headquartered in は本社所在地の硬い表現。",
+      "chunks": [
+        {
+          "text": "The holding company",
+          "role_ja": "主語",
+          "literal_ja": "持株会社は",
+          "note_ja": "前文から持株会社を受ける。"
+        },
+        {
+          "text": "whose name has yet to be decided",
+          "role_ja": "関係節",
+          "literal_ja": "その名称はまだ決定されていないが",
+          "note_ja": "has yet to do = まだ〜していない。decide の受動態。"
+        },
+        {
+          "text": "will be headquartered in Tokyo",
+          "role_ja": "述語",
+          "literal_ja": "東京に本社を置くことになる",
+          "note_ja": "be headquartered in は企業記事の定番。have headquarters in より硬い。"
+        }
+      ],
+      "deep_dive_ja": "カンマで挟んだ whose 節は追加情報で、主文の意味を狭めません（非制限用法）。",
+      "difficulty": "medium",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Existing store brands, including Yamada Denki and Edion, will remain for the time being.",
+      "translation_ja": "ヤマダデンキやエディオンなど既存の店舗ブランドは、当面の間は存続する。",
+      "grammar_ja": "including は付加説明。for the time being は「当面は・しばらくの間」。will remain は存続の未来形。",
+      "chunks": [
+        {
+          "text": "Existing store brands",
+          "role_ja": "主語",
+          "literal_ja": "既存の店舗ブランドは",
+          "note_ja": "store brands は小売店のブランド名・店名。"
+        },
+        {
+          "text": "including Yamada Denki and Edion",
+          "role_ja": "付加語",
+          "literal_ja": "ヤマダデンキやエディオンを含め",
+          "note_ja": "including は「〜を含む」。括弧的に例示する。"
+        },
+        {
+          "text": "will remain",
+          "role_ja": "述語",
+          "literal_ja": "存続する",
+          "note_ja": "remain は「そのまま残る」。合併後もブランド存続を示す。"
+        },
+        {
+          "text": "for the time being",
+          "role_ja": "副詞句",
+          "literal_ja": "当面は",
+          "note_ja": "永久ではなく暫定であることをほのめかす表現。"
+        }
+      ],
+      "deep_dive_ja": "for the time being は「今のところ」と訳すと自然ですが、将来統合・改称の可能性を示唆するニュアンスがあります。",
+      "difficulty": "easy",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "\"Together, we can accomplish transformative changes that neither company could achieve on its own,\" the two companies said in a release.",
+      "translation_ja": "「力を合わせれば、どちらか一方だけでは成し遂げられない変革的な変化を実現できる」と両社はリリースで述べた。",
+      "grammar_ja": "that 関係節で changes を修飾。neither ... on its own は「どちらも単独では」。could achieve は過去の能力・可能性。",
+      "chunks": [
+        {
+          "text": "Together, we can accomplish transformative changes",
+          "role_ja": "引用文（主部）",
+          "literal_ja": "一緒に、私たちは変革的な変化を成し遂げられる",
+          "note_ja": "accomplish changes は「変化を実現する」。transformative は「大きな変革をもたらす」。"
+        },
+        {
+          "text": "that neither company could achieve on its own",
+          "role_ja": "関係節",
+          "literal_ja": "どちらの会社も単独では達成できなかった",
+          "note_ja": "neither company は2社どちらも。on its own は「単独で」。"
+        },
+        {
+          "text": "the two companies said in a release",
+          "role_ja": "主節",
+          "literal_ja": "両社はリリースで述べた",
+          "note_ja": "in a release は公式発表文書での発言。"
+        }
+      ],
+      "deep_dive_ja": "企業声明では we を使い、両社一体の姿勢を強調するのが一般的です。",
+      "difficulty": "medium",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Combined, the group will operate around 10,000 stores, including franchises, and employ approximately 36,000 people.",
+      "translation_ja": "合併後のグループはフランチャイズ店を含め約1万店舗を運営し、およそ3万6千人を雇用する見込みだ。",
+      "grammar_ja": "文頭の Combined は分詞構文（When combined の省略）。operate stores と employ people を and で並列。approximately はおよそ。",
+      "chunks": [
+        {
+          "text": "Combined",
+          "role_ja": "副詞的修飾",
+          "literal_ja": "合併して",
+          "note_ja": "文頭の分詞で「合算すると・一体となれば」の意味。"
+        },
+        {
+          "text": "the group will operate around 10,000 stores",
+          "role_ja": "主節（一部）",
+          "literal_ja": "グループは約1万店舗を運営する",
+          "note_ja": "operate stores は「店舗を運営する」。around は about と同義。"
+        },
+        {
+          "text": "including franchises",
+          "role_ja": "付加語",
+          "literal_ja": "フランチャイズを含め",
+          "note_ja": "franchises は加盟店・フランチャイズ店。"
+        },
+        {
+          "text": "and employ approximately 36,000 people",
+          "role_ja": "主節（一部）",
+          "literal_ja": "そして約3万6千人を雇用する",
+          "note_ja": "employ は「雇用する」。規模を示す締めの文として機能。"
+        }
+      ],
+      "deep_dive_ja": "最後の文で店舗数と従業員数を並べ、合併のスケール感を数字で印象づけるのはM&A記事の定番の締め方です。",
+      "difficulty": "easy",
+      "sentence_id": "s011"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "merger",
+      "pronunciation": "/ˈmɜːrdʒər/",
+      "meaning_ja": "合併、統合",
+      "example": "they had agreed to merge under a holding company",
+      "example_ja": "持株会社の下で合併することに合意していた",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "holding company",
+      "pronunciation": "/ˈhoʊldɪŋ ˈkʌmpəni/",
+      "meaning_ja": "持株会社",
+      "example": "to merge under a holding company to be established in October 2027",
+      "example_ja": "2027年10月に設立予定の持株会社の下で合併する",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "fiscal year",
+      "pronunciation": "/ˈfɪskəl jɪr/",
+      "meaning_ja": "会計年度",
+      "example": "in the previous fiscal year",
+      "example_ja": "前会計年度に",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "intensifying",
+      "pronunciation": "/ɪnˈtensɪfaɪɪŋ/",
+      "meaning_ja": "激化している、ますます激しくなる",
+      "example": "amid intensifying competition with industry rivals",
+      "example_ja": "業界の競合他社との激化する競争の中で",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "endeavor",
+      "pronunciation": "/ɪnˈdevər/",
+      "meaning_ja": "努める、尽力する（ややフォーマル）",
+      "example": "as they endeavor to release products under a private brand",
+      "example_ja": "自社ブランド商品の発売に努める中で",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "procurement",
+      "pronunciation": "/prəˈkjʊrmənt/",
+      "meaning_ja": "調達、購買",
+      "example": "cut costs through joint procurement",
+      "example_ja": "共同調達によってコストを削減する",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "private brand",
+      "pronunciation": "/ˈpraɪvət brænd/",
+      "meaning_ja": "自社ブランド（PB）、プライベートブランド",
+      "example": "release products under a private brand",
+      "example_ja": "自社ブランドの商品を発売する",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "for the time being",
+      "pronunciation": "/fɔːr ðə taɪm ˈbiːɪŋ/",
+      "meaning_ja": "当面の間、しばらくの間",
+      "example": "Existing store brands will remain for the time being.",
+      "example_ja": "既存の店舗ブランドは当面の間存続する。",
+      "source_sentence_id": "s009"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reported-speech-past-perfect",
+      "title": "Reported speech with past perfect",
+      "rule": "Use said + subject + had + past participle when reporting an agreement made before the announcement.",
+      "example": "they said Friday they had agreed to merge",
+      "meaning_ja": "「〜と発表した」の後に had agreed のように過去完了を使うと、「発表より前にすでに合意していた」ことが伝わる。ニュースの企業発表でよく使われる。"
+    },
+    {
+      "id": "more-than-double-comparison",
+      "title": "More than double + noun",
+      "rule": "The pattern more than double + amount compares one figure as over twice another amount.",
+      "example": "more than double the 982.80 billion yen posted by No. 2 competitor",
+      "meaning_ja": "more than double A で「Aの2倍以上」という倍率比較。posted by は売上・数値を「計上した」と訳すビジネス用法。"
+    },
+    {
+      "id": "amid-background",
+      "title": "Come amid + noun phrase",
+      "rule": "Use come amid to show that an event happens in the middle of a wider situation.",
+      "example": "The move comes amid intensifying competition",
+      "meaning_ja": "come amid は「〜という状況の中で起こる」。背景や環境を説明するニュース表現で、because より状況描写に近い。"
+    },
+    {
+      "id": "be-set-to-future-plan",
+      "title": "Be set to + verb",
+      "rule": "Use be set to + base verb to report an official future plan or scheduled change.",
+      "example": "Noboru Yamada is set to become chairman of the holding company",
+      "meaning_ja": "be set to do は「〜する予定だ」「〜に就任する見込みだ」という公式な未来表現。will より発表文書らしい響きがある。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 11,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:40:00+09:00"
+  },
+  "article_id": "japantoday:2026-06-05:electronics-retailers-yamada-edion-agree"
+}

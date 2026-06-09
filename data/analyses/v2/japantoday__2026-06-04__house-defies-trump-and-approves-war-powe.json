@@ -1,0 +1,1041 @@
+{
+  "summary_ja": "米国下院は水曜日、イランへの軍事行動を停止させる戦争権限決議を可決し、トランプ大統領に逆らう形で少数の共和党員が民主党とともに3か月続く戦争の終結を求めた。決議は即時に戦争を止めるものではないが、さらなる軍事行動への象徴的な制約となり得る。一方、政権は停戦宣言を根拠に戦争権限法の適用を否定する姿勢を示している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "The House approved a war powers resolution Wednesday that would halt the U.S. military action against Iran, defying President Donald Trump as a handful of Republicans joined with Democrats to end the three-month-long war that has reordered politics at home and abroad.",
+      "translation_ja": "下院は水曜日、イランに対する米軍の軍事行動を停止させる戦争権限決議を可決した。少数の共和党員が民主党とともに3か月続く戦争の終結に加わり、ドナルド・トランプ大統領に逆らう形となった。この戦争は国内外の政治の様相を大きく変えてきた。",
+      "grammar_ja": "主節＋関係代名詞thatの非制限的用法（2つ）。defyingは分詞構文で結果・様態を示す。join withは「～と協力する」。reorderは「再編する・順序を変える」のニュース用法。",
+      "chunks": [
+        {
+          "text": "The House",
+          "role_ja": "主語",
+          "literal_ja": "下院は",
+          "note_ja": "the House = 米国下院（House of Representatives）。単独で「下院」と訳すのがニュース慣例。"
+        },
+        {
+          "text": "approved a war powers resolution",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "戦争権限決議を可決した",
+          "note_ja": "war powers resolutionは議会が大統領の軍事行動を制限する決議。approveは法案・決議の「可決」。"
+        },
+        {
+          "text": "that would halt the U.S. military action against Iran",
+          "role_ja": "関係節（決議を修飾）",
+          "literal_ja": "イランに対する米軍の軍事行動を停止させる",
+          "note_ja": "wouldは仮定・将来の効果。halt = stop（公式・報道向け）。"
+        },
+        {
+          "text": "defying President Donald Trump",
+          "role_ja": "分詞構文（付帯状況）",
+          "literal_ja": "トランプ大統領に逆らって",
+          "note_ja": "defy = 権威に立ち向かう。分詞で「そのような形で」というニュアンス。"
+        },
+        {
+          "text": "a handful of Republicans joined with Democrats",
+          "role_ja": "副詞節の主部",
+          "literal_ja": "少数の共和党員が民主党と加わり",
+          "note_ja": "a handful of = ごく少数。join withは協力・同調の意味。"
+        },
+        {
+          "text": "to end the three-month-long war",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "3か月続く戦争を終わらせるために",
+          "note_ja": "three-month-longはハイフンでつなぐ複合形容詞。"
+        },
+        {
+          "text": "that has reordered politics at home and abroad",
+          "role_ja": "関係節（戦争を修飾）",
+          "literal_ja": "国内外の政治の様相を変えてきた",
+          "note_ja": "at home and abroad = 国内外。reorderは比喩的に政治地図を組み替えた意。"
+        }
+      ],
+      "deep_dive_ja": "見出し文で誰が・何を・なぜが一度に詰め込まれる典型例。defyingは「公然と反対した」と訳すとニュアンスが強くなる。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "House Speaker Mike Johnson had tried to prevent an outcome that would show the mounting opposition to the war, abruptly shutting down floor action two weeks ago when the war powers resolution was on the verge of approval.",
+      "translation_ja": "下院議長のマイク・ジョンソンは、戦争への反対が高まっていることを示す結果を防ごうとしていた。2週間前、戦争権限決議が可決目前となった際、議会の本会議進行を突然打ち切った。",
+      "grammar_ja": "had triedは過去の試み。prevent A that would Bの構造。分詞構文shutting downは手段・付帯行為。on the verge of = まさに～しそうな。",
+      "chunks": [
+        {
+          "text": "House Speaker Mike Johnson",
+          "role_ja": "主語",
+          "literal_ja": "下院議長マイク・ジョンソンは",
+          "note_ja": "Speaker = 下院議長。役職＋氏名の順。"
+        },
+        {
+          "text": "had tried to prevent an outcome",
+          "role_ja": "述語",
+          "literal_ja": "ある結果を防ごうとしていた",
+          "note_ja": "had triedはその時点より前の試み。outcome = 結果・帰結。"
+        },
+        {
+          "text": "that would show the mounting opposition to the war",
+          "role_ja": "関係節",
+          "literal_ja": "戦争への高まる反対を示す",
+          "note_ja": "mounting = 増大している。opposition to = ～への反対。"
+        },
+        {
+          "text": "abruptly shutting down floor action",
+          "role_ja": "分詞構文",
+          "literal_ja": "本会議の進行を突然停止して",
+          "note_ja": "floor action = 議会本会議での審議・採決。shut down = 中断する。"
+        },
+        {
+          "text": "when the war powers resolution was on the verge of approval",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "戦争権限決議が可決目前だったとき",
+          "note_ja": "on the verge of = まさに～の瀬戸際。approval = 可決。"
+        }
+      ],
+      "deep_dive_ja": "政治記事で「議長が採決を止めた」文脈ではfloor actionを「本会議」を意識して訳す。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "But displeasure has only grown as the conflict drags on and as Trump struggles to negotiate a quick resolution.",
+      "translation_ja": "しかし紛争が長引くにつれ、またトランプが早期解決の交渉に苦戦するなか、不満はむしろ高まる一方だ。",
+      "grammar_ja": "has only grownは「ますます増した」。as節が2つ並列。drag on = 長引く。resolutionは紛争解決の意味（解像度ではない）。",
+      "chunks": [
+        {
+          "text": "displeasure has only grown",
+          "role_ja": "主語＋述語",
+          "literal_ja": "不満はますます高まった",
+          "note_ja": "onlyはここで「かえって・ますます」の強調。"
+        },
+        {
+          "text": "as the conflict drags on",
+          "role_ja": "理由・背景の副詞節",
+          "literal_ja": "紛争が長引くにつれ",
+          "note_ja": "drag on = だらだら続く（ネガティブ）。"
+        },
+        {
+          "text": "as Trump struggles to negotiate a quick resolution",
+          "role_ja": "理由・背景の副詞節",
+          "literal_ja": "トランプが迅速な解決を交渉するのに苦戦するなか",
+          "note_ja": "struggle to = ～しようとして苦労する。resolution = 解決。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The roll call Wednesday was 215-208, and cheers erupted in the House chamber.",
+      "translation_ja": "水曜日の記名投票の結果は215対208で、下院本会議場では歓声が上がった。",
+      "grammar_ja": "roll callは記名投票。eruptedは突然起きる動詞（噴火の比喩）。chamber = 議会の本会議場。",
+      "chunks": [
+        {
+          "text": "The roll call Wednesday",
+          "role_ja": "主語",
+          "literal_ja": "水曜日の記名投票は",
+          "note_ja": "roll call = 議会での記名投票・唱名。"
+        },
+        {
+          "text": "was 215-208",
+          "role_ja": "述語",
+          "literal_ja": "215対208だった",
+          "note_ja": "賛成-反対の票差表記。"
+        },
+        {
+          "text": "cheers erupted in the House chamber",
+          "role_ja": "主節（並列）",
+          "literal_ja": "下院本会議場で歓声が噴き上がった",
+          "note_ja": "erupt = 突然起こる。chamber = chamber of the House。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“This reckless and costly war of choice needs to end today,” House Democratic Leader Hakeem Jeffries of New York said earlier in the week.",
+      "translation_ja": "「この無謀で費用のかかる選択戦争は今日中に終わらせる必要がある」と、ニューヨーク州出身の下院民主党院内総務ハキーム・ジェフリーズは今週初めに述べた。",
+      "grammar_ja": "直接話法。war of choiceは政治用語「選択戦争」。needs to end = 終わらせる必要がある。earlier in the week = 今週の早い段階で。",
+      "chunks": [
+        {
+          "text": "This reckless and costly war of choice",
+          "role_ja": "主語",
+          "literal_ja": "この無謀で費用のかかる選択戦争は",
+          "note_ja": "reckless = 無謀な。war of choice = 必要性より選択で始めた戦争。"
+        },
+        {
+          "text": "needs to end today",
+          "role_ja": "述語",
+          "literal_ja": "今日終わる必要がある",
+          "note_ja": "need to + 動詞原形。todayは「今日中に」。"
+        },
+        {
+          "text": "House Democratic Leader Hakeem Jeffries of New York",
+          "role_ja": "主語（発言者）",
+          "literal_ja": "下院民主党院内総務ハキーム・ジェフリーズ（ニューヨーク州）は",
+          "note_ja": "of New York = 選挙区・出身州の表記。"
+        },
+        {
+          "text": "said earlier in the week",
+          "role_ja": "述語",
+          "literal_ja": "今週初めに述べた",
+          "note_ja": "earlier in the week = 今週のうちの早い時点。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“All we need are a handful of Republicans to join us and we can end this reckless and costly war of choice — a war that has cost the American taxpayer over $100 billion — that’s extraordinary — and left our country in a weaker position relative to Iran.”",
+      "translation_ja": "「必要なのは少数の共和党員が私たちに加わることだけだ。そうすればこの無謀で費用のかかる選択戦争を終わらせられる。米国の納税者に1000億ドル以上の負担を強いた戦争だ。信じられないことだ。そして国をイランに対してより弱い立場にした。」",
+      "grammar_ja": "All we need are...の倒置（強調構文）。ダッシュで挿入句。relative to = ～と比べて。cost the taxpayer = 費用負担をかける。",
+      "chunks": [
+        {
+          "text": "All we need are a handful of Republicans to join us",
+          "role_ja": "主節",
+          "literal_ja": "必要なのは少数の共和党員が私たちに加わることだけだ",
+          "note_ja": "All we need is/are構文。needの後ろは名詞句。"
+        },
+        {
+          "text": "we can end this reckless and costly war of choice",
+          "role_ja": "主節（並列）",
+          "literal_ja": "私たちはこの選択戦争を終わらせられる",
+          "note_ja": "canは可能性・能力。"
+        },
+        {
+          "text": "a war that has cost the American taxpayer over $100 billion",
+          "role_ja": "同格の挿入",
+          "literal_ja": "米国の納税者に1000億ドル超の費用をかけた戦争",
+          "note_ja": "cost + 人 + 金額 = ～に費用を負わせる。"
+        },
+        {
+          "text": "that’s extraordinary",
+          "role_ja": "挿入の評価",
+          "literal_ja": "それは信じられない",
+          "note_ja": "発言の強調。口語的な感嘆。"
+        },
+        {
+          "text": "left our country in a weaker position relative to Iran",
+          "role_ja": "並列述語",
+          "literal_ja": "国をイランに比べ弱い立場にした",
+          "note_ja": "leave O in C = OをCの状態にする。relative to = ～と比較して。"
+        }
+      ],
+      "deep_dive_ja": "政治家のスピーチはダッシュで事実を挟み込む。extraordinaryは「素晴らしい」ではなく「途方もない」文脈。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "It’s the fourth time the House has tried to curb the U.S. war against Iran, and the first time the House was able to pass the measure.",
+      "translation_ja": "下院がイランへの米国の戦争を抑制しようとしたのは4回目で、今回が初めてその法案を可決できた回となった。",
+      "grammar_ja": "It’s the Nth time (that) S have/has...の定型。curb = 抑制する。was able to = 実際にできた（能力＋結果）。",
+      "chunks": [
+        {
+          "text": "It’s the fourth time the House has tried to curb the U.S. war against Iran",
+          "role_ja": "主節",
+          "literal_ja": "下院がイランへの米国の戦争を抑制しようとしたのは4回目だ",
+          "note_ja": "the Nth timeの後は現在完了が多い。"
+        },
+        {
+          "text": "the first time the House was able to pass the measure",
+          "role_ja": "主節（並列）",
+          "literal_ja": "下院がその法案を可決できたのは初めてだ",
+          "note_ja": "measure = 法案・決議。was able toは成功を含む。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Senate advanced its own war powers resolution last month when a handful of GOP senators broke ranks with the Republican president in a rare show of political pushback from his party.",
+      "translation_ja": "上院は先月、独自の戦争権限決議を前進させた。少数の共和党上院議員が共和党大統領と決裂し、党内から政治的な反発を示す珍しい動きとなった。",
+      "grammar_ja": "advanceは法案を「進める」。break ranks with = 党・陣営から離反する。GOP = Grand Old Party（共和党）。pushback = 反発・抵抗。",
+      "chunks": [
+        {
+          "text": "The Senate advanced its own war powers resolution",
+          "role_ja": "主節",
+          "literal_ja": "上院は独自の戦争権限決議を進めた",
+          "note_ja": "advance = 審議を前進させる（可決ではない）。"
+        },
+        {
+          "text": "when a handful of GOP senators broke ranks with the Republican president",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "少数の共和党上院議員が共和党大統領と決裂したとき",
+          "note_ja": "break ranks = 一列を乱す→党に反する。"
+        },
+        {
+          "text": "in a rare show of political pushback from his party",
+          "role_ja": "副詞句",
+          "literal_ja": "党内からの政治的反発という珍しい姿を示して",
+          "note_ja": "a show of = ～を示すこと。pushback = 押し返し・反発。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Each time Democrats have pushed forward the war powers resolution, the vote tallies have inched higher as political unease with the U.S. war swells.",
+      "translation_ja": "民主党が戦争権限決議を推し進めるたびに、米国の戦争への政治的な不安が高まるにつれ、得票数は少しずつ増えてきた。",
+      "grammar_ja": "Each time節＋主節の現在完了。inch higher = わずかに上昇。push forward = 前に進める。unease with = ～への不安。",
+      "chunks": [
+        {
+          "text": "Each time Democrats have pushed forward the war powers resolution",
+          "role_ja": "副詞節",
+          "literal_ja": "民主党が戦争権限決議を推し進めるたびに",
+          "note_ja": "each time = ～するたびに。push forward = 推進する。"
+        },
+        {
+          "text": "the vote tallies have inched higher",
+          "role_ja": "主節",
+          "literal_ja": "得票数はわずかに上がってきた",
+          "note_ja": "tally = 集計・得票。inch = ごく少し動く。"
+        },
+        {
+          "text": "as political unease with the U.S. war swells",
+          "role_ja": "理由の副詞節",
+          "literal_ja": "米国の戦争への政治的な不安が膨らむにつれ",
+          "note_ja": "swell = 増大する。unease with = ～に対する不安。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Trump had campaigned for the White House on a promise to end U.S. entanglements abroad and focus more on domestic issues, but the war has shifted attention back to the Middle East.",
+      "translation_ja": "トランプは大統領選で、海外での米国の関与を終わらせ国内問題に注力する公約で選挙戦を行っていた。しかし戦争によって注目は再び中東へと移った。",
+      "grammar_ja": "had campaignedは過去の選挙戦。on a promise to = ～を公約に。entanglements = 複雑な関与。shift attention back to = 注目を戻す。",
+      "chunks": [
+        {
+          "text": "Trump had campaigned for the White House",
+          "role_ja": "主節（前半）",
+          "literal_ja": "トランプは大統領選で選挙戦をしていた",
+          "note_ja": "campaign for the White House = 大統領選挙。"
+        },
+        {
+          "text": "on a promise to end U.S. entanglements abroad",
+          "role_ja": "副詞句",
+          "literal_ja": "海外での米国の関与を終わらせるという公約で",
+          "note_ja": "entanglement = 絡み合い・関与（しばしば否定的）。"
+        },
+        {
+          "text": "focus more on domestic issues",
+          "role_ja": "不定詞（並列）",
+          "literal_ja": "国内問題にもっと注力する",
+          "note_ja": "domestic issues = 国内問題。"
+        },
+        {
+          "text": "the war has shifted attention back to the Middle East",
+          "role_ja": "主節（後半）",
+          "literal_ja": "戦争は注目を中東に戻した",
+          "note_ja": "shift attention to = 注目を移す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Johnson insisted Trump is “laser focused” on the domestic front, particularly ahead of the midterm elections that will determine control of Congress.",
+      "translation_ja": "ジョンソンは、トランプが国内問題に「レーザーのように集中している」と主張した。特に議会の支配権を決める中間選挙を前にしてだ。",
+      "grammar_ja": "insistedの後はthat省略の間接話法。laser focusedは慣用の強調表現。ahead of = ～を前にして。determine control = 支配権を決定する。",
+      "chunks": [
+        {
+          "text": "Johnson insisted Trump is “laser focused” on the domestic front",
+          "role_ja": "主節",
+          "literal_ja": "ジョンソンはトランプが国内面にレーザーのように集中していると主張した",
+          "note_ja": "laser focused = 一点集中している（比喩）。"
+        },
+        {
+          "text": "particularly ahead of the midterm elections",
+          "role_ja": "副詞句",
+          "literal_ja": "特に中間選挙を前にして",
+          "note_ja": "midterm elections = 中間選挙（大統領選の2年ごと）。"
+        },
+        {
+          "text": "that will determine control of Congress",
+          "role_ja": "関係節",
+          "literal_ja": "議会の支配権を決める",
+          "note_ja": "control of Congress = 上下院の多数派掌握。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The speaker said he spent three hours at the White House with the president this week as Trump is calling on allies to help reopen the Strait of Hormuz for commerce, especially the flow of oil.",
+      "translation_ja": "議長は今週、大統領とともにホワイトハウスで3時間過ごしたと述べた。トランプは同盟国に対し、特に石油の流通のためにホルムズ海峡の商業通航再開を支援するよう求めている。",
+      "grammar_ja": "spent time at/with。asは「～している最中に・一方で」。call on A to do = Aに～するよう要請。reopen for commerce = 商業目的で再開。",
+      "chunks": [
+        {
+          "text": "The speaker said he spent three hours at the White House with the president",
+          "role_ja": "主節",
+          "literal_ja": "議長は今週大統領とホワイトハウスで3時間過ごしたと言った",
+          "note_ja": "spend + 時間 + with = ～と時間を過ごす。"
+        },
+        {
+          "text": "as Trump is calling on allies",
+          "role_ja": "副詞節",
+          "literal_ja": "トランプが同盟国に要請している一方で",
+          "note_ja": "call on = 要請する・呼びかける。"
+        },
+        {
+          "text": "to help reopen the Strait of Hormuz for commerce",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "商業のためにホルムズ海峡の再開を支援するよう",
+          "note_ja": "the Strait of Hormuz = ホルムズ海峡。"
+        },
+        {
+          "text": "especially the flow of oil",
+          "role_ja": "同格・補足",
+          "literal_ja": "特に石油の流通",
+          "note_ja": "flow of oil = 石油の流れ・供給。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran, Americans have seen gas prices spike at the pumps, adding to inflationary pressure on consumer spending.",
+      "translation_ja": "米国がイスラエルとともに2月28日のイラン攻撃を開始して以来、アメリカ人はガソリンスタンドで価格が急騰するのを目にしており、それが消費支出へのインフレ圧力をさらに強めている。",
+      "grammar_ja": "Since節＋現在完了。join A in -ing = Aとともに～する。spike = 急騰。adding toは分詞で結果・付加。inflationary pressure = インフレ圧力。",
+      "chunks": [
+        {
+          "text": "Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "米国がイスラエルとともに2月28日のイラン攻撃を開始して以来",
+          "note_ja": "join in -ing = 共同で行動する。"
+        },
+        {
+          "text": "Americans have seen gas prices spike at the pumps",
+          "role_ja": "主節",
+          "literal_ja": "アメリカ人はスタンドでガソリン価格が急騰するのを見てきた",
+          "note_ja": "see O do = Oが～するのを見る。at the pumps = 給油所で。"
+        },
+        {
+          "text": "adding to inflationary pressure on consumer spending",
+          "role_ja": "分詞構文",
+          "literal_ja": "消費支出へのインフレ圧力を増やして",
+          "note_ja": "add to = ～を増す。consumer spending = 個人消費。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Iran has been able to interrupt shipping through the Strait of Hormuz, a vital channel for a large segment of the world’s oil, natural gas and related products such as fertilizer.",
+      "translation_ja": "イランはホルムズ海峡を通る船舶運航を妨害できている。この海峡は世界の石油・天然ガス、さらに肥料など関連製品の大きな部分にとって極めて重要な水路だ。",
+      "grammar_ja": "has been able to = これまで妨害できてきた。同格a vital channelで海峡を説明。a large segment of = ～の大部分。such as = 例えば。",
+      "chunks": [
+        {
+          "text": "Iran has been able to interrupt shipping through the Strait of Hormuz",
+          "role_ja": "主節",
+          "literal_ja": "イランはホルムズ海峡の船舶運航を妨害できてきた",
+          "note_ja": "interrupt shipping = 海運を妨害する。"
+        },
+        {
+          "text": "a vital channel",
+          "role_ja": "同格",
+          "literal_ja": "極めて重要な水路",
+          "note_ja": "vital = 不可欠な。channel = 水路・海峡。"
+        },
+        {
+          "text": "for a large segment of the world’s oil, natural gas and related products",
+          "role_ja": "前置詞句",
+          "literal_ja": "世界の石油・天然ガスと関連製品の大部分にとって",
+          "note_ja": "segment = 部分・区分。"
+        },
+        {
+          "text": "such as fertilizer",
+          "role_ja": "例示",
+          "literal_ja": "肥料など",
+          "note_ja": "related products = 関連製品（石油化学由来など）。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“We’re working on that final piece,” said Johnson, R-La. “The entire world has an interest in the Strait of Hormuz being reopen for commerce.",
+      "translation_ja": "「最後のピースに取り組んでいる」とルイジアナ州のジョンソンは述べた。「ホルムズ海峡が商業のために再開されることは、世界全体の利益になる。」",
+      "grammar_ja": "work on = 取り組む。R-La. = Republican from Louisiana。has an interest in + 名詞/動名詞。being reopenは原文の表記（reopenedが文法的）。",
+      "chunks": [
+        {
+          "text": "We’re working on that final piece",
+          "role_ja": "直接話法",
+          "literal_ja": "私たちは最後のピースに取り組んでいる",
+          "note_ja": "final piece = 最後の課題・仕上げ。"
+        },
+        {
+          "text": "said Johnson, R-La.",
+          "role_ja": "叙述部",
+          "literal_ja": "ルイジアナ州のジョンソンは述べた",
+          "note_ja": "R-La. = 共和党・ルイジアナ州（議員表記）。"
+        },
+        {
+          "text": "The entire world has an interest in",
+          "role_ja": "主節",
+          "literal_ja": "世界全体は～に関心・利益を持つ",
+          "note_ja": "have an interest in = ～に利害関係がある。"
+        },
+        {
+          "text": "the Strait of Hormuz being reopen for commerce",
+          "role_ja": "動名詞句",
+          "literal_ja": "ホルムズ海峡が商業のために再開されること",
+          "note_ja": "原文はbeing reopenだが、正しくはbeing reopened。"
+        }
+      ],
+      "deep_dive_ja": "議員の州・党表記（R-La.）は米国政治記事の定型。being reopenは誤りだが引用は原文のまま扱う。",
+      "difficulty": "medium",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "That what he’s working on.”",
+      "translation_ja": "「それが彼が取り組んでいることだ。」",
+      "grammar_ja": "口語的な省略・言い直しの断片。That’s what he’s working on.の形が想定される。",
+      "chunks": [
+        {
+          "text": "That",
+          "role_ja": "主語",
+          "literal_ja": "それが",
+          "note_ja": "前文を受ける指示語。"
+        },
+        {
+          "text": "what he’s working on",
+          "role_ja": "補語（名詞節）",
+          "literal_ja": "彼が取り組んでいること",
+          "note_ja": "what節 = ～すること。口語ではThat’s what...が完全形。"
+        }
+      ],
+      "deep_dive_ja": "発言の断片なので文法的に不完全。リスニングでは前の文とつなげて理解する。",
+      "difficulty": "easy",
+      "sentence_id": "s016"
+    },
+    {
+      "text": "While a ceasefire in the conflict was declared in April, it remains uneasy and uncertain.",
+      "translation_ja": "紛争における停戦は4月に宣言されたが、依然として不安定で見通しは不透明だ。",
+      "grammar_ja": "Whileは譲歩「～だが」。was declaredは受動態。remain + 形容詞 = ～のままである。",
+      "chunks": [
+        {
+          "text": "While a ceasefire in the conflict was declared in April",
+          "role_ja": "譲歩の副詞節",
+          "literal_ja": "紛争の停戦が4月に宣言されたが",
+          "note_ja": "ceasefire = 停戦。declare a ceasefire = 停戦を宣言する。"
+        },
+        {
+          "text": "it remains uneasy and uncertain",
+          "role_ja": "主節",
+          "literal_ja": "それは不安定で不確かなままだ",
+          "note_ja": "remainは状態継続。uneasy = 落ち着かない・不安定。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Talks for a more durable end to the fighting have dragged, increasingly complicated by Israel’s broadening war with Iran-backed Hezbollah militants in Lebanon.",
+      "translation_ja": "戦闘のより持続的な終結を目指す交渉は長引いており、レバノンでのイラン支援ヒズボラ戦士との戦争がイスラエル側で拡大するにつれ、ますます複雑になっている。",
+      "grammar_ja": "have dragged = 長引いている。過去分詞complicated byは受動の付帯状況。Iran-backed = イラン支援の。broadening war = 拡大する戦争。",
+      "chunks": [
+        {
+          "text": "Talks for a more durable end to the fighting",
+          "role_ja": "主語",
+          "literal_ja": "戦闘のより持続的な終結のための交渉は",
+          "note_ja": "durable = 持続的な。end to the fighting = 戦闘の終結。"
+        },
+        {
+          "text": "have dragged",
+          "role_ja": "述語",
+          "literal_ja": "長引いてきた",
+          "note_ja": "drag = だらだら続く（交渉など）。"
+        },
+        {
+          "text": "increasingly complicated by Israel’s broadening war",
+          "role_ja": "過去分詞構文",
+          "literal_ja": "イスラエルの拡大する戦争によってますます複雑にされ",
+          "note_ja": "broadening = 拡大している。"
+        },
+        {
+          "text": "with Iran-backed Hezbollah militants in Lebanon",
+          "role_ja": "前置詞句",
+          "literal_ja": "レバノンのイラン支援ヒズボラ戦士との",
+          "note_ja": "Iran-backed = イランが支援する。militants = 戦闘員。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Meanwhile, military strikes between the U.S and Iran continue to flare.",
+      "translation_ja": "その間も、米国とイランの間では軍事攻撃が断続的に再燃し続けている。",
+      "grammar_ja": "Meanwhile = 一方で。continue to flare = 再燃し続ける。flareは火の比喩で急に起きる。",
+      "chunks": [
+        {
+          "text": "Meanwhile",
+          "role_ja": "接続副詞",
+          "literal_ja": "その間",
+          "note_ja": "前段とは別の同時進行の事態を導入。"
+        },
+        {
+          "text": "military strikes between the U.S and Iran",
+          "role_ja": "主語",
+          "literal_ja": "米国とイランの間の軍事攻撃は",
+          "note_ja": "between A and B = AとBの間の。"
+        },
+        {
+          "text": "continue to flare",
+          "role_ja": "述語",
+          "literal_ja": "再燃し続ける",
+          "note_ja": "flare up/flare = 突然燃え上がる→再発する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The war powers resolution from the House would not immediately stop the war, but it would provide a symbolic if not legal step against further military action.",
+      "translation_ja": "下院の戦争権限決議は即座に戦争を止めるものではないが、さらなる軍事行動に対する、法的効力はともかく象徴的な一歩となるだろう。",
+      "grammar_ja": "if not = ～どころか（法的ではないかもしれないが象徴的には）。a step against = ～に対抗する措置。wouldは仮定の効果。",
+      "chunks": [
+        {
+          "text": "The war powers resolution from the House",
+          "role_ja": "主語",
+          "literal_ja": "下院の戦争権限決議は",
+          "note_ja": "from the House = 下院発の。"
+        },
+        {
+          "text": "would not immediately stop the war",
+          "role_ja": "述語",
+          "literal_ja": "即座に戦争を止めないだろう",
+          "note_ja": "immediately = 直ちに。"
+        },
+        {
+          "text": "would provide a symbolic if not legal step",
+          "role_ja": "述語（並列）",
+          "literal_ja": "法的でないにせよ象徴的な一歩を提供するだろう",
+          "note_ja": "if not = 少なくとも～ではないが、という婉曲強調。"
+        },
+        {
+          "text": "against further military action",
+          "role_ja": "前置詞句",
+          "literal_ja": "さらなる軍事行動に対して",
+          "note_ja": "a step against = 対抗措置。"
+        }
+      ],
+      "deep_dive_ja": "symbolic if not legalは「法的効力は限定的だが政治的意味は大きい」という記者の定型的な言い回し。",
+      "difficulty": "hard",
+      "sentence_id": "s020"
+    },
+    {
+      "text": "If approved, it would then go to the Senate, where four Republican senators last month joined Democrats in advancing a similar measure to curtail the U.S. campaign against Iran.",
+      "translation_ja": "可決されれば、次は上院に送られる。上院では先月、4人の共和党上院議員が民主党とともに、イランへの米国の軍事作戦を抑制する類似法案の審議前進に加わった。",
+      "grammar_ja": "If approvedはIf it is approvedの省略。whereは関係副詞でthe Senateを修飾。join A in -ing。curtail = 抑制・縮小する。",
+      "chunks": [
+        {
+          "text": "If approved, it would then go to the Senate",
+          "role_ja": "条件節＋主節",
+          "literal_ja": "可決されれば、それは上院に送られる",
+          "note_ja": "分詞による条件の省略は法案文脈で頻出。"
+        },
+        {
+          "text": "where four Republican senators last month joined Democrats",
+          "role_ja": "関係副詞節",
+          "literal_ja": "そこで4人の共和党上院議員が先月民主党と加わった",
+          "note_ja": "where = 上院では。"
+        },
+        {
+          "text": "in advancing a similar measure",
+          "role_ja": "前置詞句",
+          "literal_ja": "類似法案を前進させることに",
+          "note_ja": "advance a measure = 法案を進める。"
+        },
+        {
+          "text": "to curtail the U.S. campaign against Iran",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "イランへの米国の軍事作戦を抑制するために",
+          "note_ja": "campaign = 軍事作戦・キャンペーン。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Senate has yet to take a final vote to approve or reject its own war powers resolution.",
+      "translation_ja": "上院は独自の戦争権限決議を承認するか否認するかの最終投票をまだ行っていない。",
+      "grammar_ja": "has yet to = まだ～していない。approve or reject = 二者択一。its own = 上院版の。",
+      "chunks": [
+        {
+          "text": "The Senate has yet to take a final vote",
+          "role_ja": "主節",
+          "literal_ja": "上院はまだ最終投票を行っていない",
+          "note_ja": "has yet to do = いまだに～していない。"
+        },
+        {
+          "text": "to approve or reject its own war powers resolution",
+          "role_ja": "不定詞（修飾）",
+          "literal_ja": "独自の戦争権限決議を承認または否認する",
+          "note_ja": "reject = 否認・拒否。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Secretary of State Marco Rubio warned Wednesday testifying at a House Foreign Affairs Committee hearing that the Iranians would think that the administration's “hands are going to be tied” if Congress approved a war powers resolution.",
+      "translation_ja": "マルコ・ルビオ国務長官は水曜日、下院外交委員会の公聴会で証言し、議会が戦争権限決議を可決すれば、イラン側は政権の「手が縛られる」と考えるだろうと警告した。",
+      "grammar_ja": "warn that構文。testifyingは付帯状況の分詞。hands are tied = 手が縛られる（何もできない）。would thinkは仮定の推量。",
+      "chunks": [
+        {
+          "text": "Secretary of State Marco Rubio warned Wednesday",
+          "role_ja": "主節",
+          "literal_ja": "国務長官マルコ・ルビオは水曜日警告した",
+          "note_ja": "Secretary of State = 国務長官。"
+        },
+        {
+          "text": "testifying at a House Foreign Affairs Committee hearing",
+          "role_ja": "分詞構文",
+          "literal_ja": "下院外交委員会の公聴会で証言しながら",
+          "note_ja": "testify at a hearing = 公聴会で証言する。"
+        },
+        {
+          "text": "that the Iranians would think that the administration's “hands are going to be tied”",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "イラン側は政権の手が縛られると考えるだろうと",
+          "note_ja": "hands are tied = 行動の自由がなくなる慣用句。"
+        },
+        {
+          "text": "if Congress approved a war powers resolution",
+          "role_ja": "条件節",
+          "literal_ja": "議会が戦争権限決議を可決すれば",
+          "note_ja": "仮定を過去形で表す間接話法の条件。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He said they would think ”we won’t be able to do anything to them, so why make a deal?”",
+      "translation_ja": "彼は、イラン側は「彼らに何もできなくなるのだから、なぜ合意する必要があるのか」と考えるだろうと述べた。",
+      "grammar_ja": "間接話法内の直接引用。won’t be able to = できなくなる。why make a deal?は修辞疑問（合意する理由はない）。",
+      "chunks": [
+        {
+          "text": "He said they would think",
+          "role_ja": "主節",
+          "literal_ja": "彼は彼らが考えるだろうと言った",
+          "note_ja": "would thinkは相手の推測を伝える。"
+        },
+        {
+          "text": "we won’t be able to do anything to them",
+          "role_ja": "引用文",
+          "literal_ja": "私たちは彼らに何もできなくなる",
+          "note_ja": "be able to = 能力・可能性。do anything to them = 彼らに何か手を打つ。"
+        },
+        {
+          "text": "so why make a deal?",
+          "role_ja": "引用文（結論）",
+          "literal_ja": "だからなぜ合意するのか",
+          "note_ja": "why + 動詞原形 = 修辞的疑問。make a deal = 合意する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It's not the only action Congress is taking in the national security arena as Democrats, in the minority, work to peel off Republican support for measures beyond the war against Iran.",
+      "translation_ja": "議会が国家安全保障の分野で取っている行動はこれだけではない。少数派の民主党は、イランへの戦争を超えた法案について、共和党の支持をくじくよう働きかけている。",
+      "grammar_ja": "in the minority = 少数派として。peel off = （支持などを）一枚ずつ剥がす＝一部を引き離す。beyond = ～を超えて。",
+      "chunks": [
+        {
+          "text": "It's not the only action Congress is taking in the national security arena",
+          "role_ja": "主節",
+          "literal_ja": "議会が国家安全保障分野で取っている行動はこれだけではない",
+          "note_ja": "arena = 分野・舞台。national security = 国家安全保障。"
+        },
+        {
+          "text": "as Democrats, in the minority, work to peel off Republican support",
+          "role_ja": "副詞節",
+          "literal_ja": "少数派の民主党が共和党の支持を引き剥がそうと働く一方で",
+          "note_ja": "in the minority = 議会で少数派。peel off support = 支持を一部奪う。"
+        },
+        {
+          "text": "for measures beyond the war against Iran",
+          "role_ja": "前置詞句",
+          "literal_ja": "イランへの戦争を超えた法案について",
+          "note_ja": "beyond = ～以外にも・超えて。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The House is also voting Wednesday on another Democratic-led effort that would authorize U.S. support for Ukraine's military operations as it battles Russia and to help reconstruct the war-torn country.",
+      "translation_ja": "下院は水曜日、民主党主導の別の法案についても採決している。これはロシアと戦うウクライナの軍事作戦への米国支援を認可し、戦争で荒廃した国の再建を支援する内容だ。",
+      "grammar_ja": "vote on = ～について採決する。Democratic-led = 民主党主導の。authorize support for = 支援を認可する。war-torn = 戦争で荒廃した。",
+      "chunks": [
+        {
+          "text": "The House is also voting Wednesday on another Democratic-led effort",
+          "role_ja": "主節",
+          "literal_ja": "下院は水曜日、別の民主党主導の試みについても採決している",
+          "note_ja": "vote on = ～を採決する。effort = 法案・取り組み。"
+        },
+        {
+          "text": "that would authorize U.S. support for Ukraine's military operations",
+          "role_ja": "関係節",
+          "literal_ja": "ウクライナの軍事作戦への米国支援を認可する",
+          "note_ja": "authorize = 正式に認可する。"
+        },
+        {
+          "text": "as it battles Russia",
+          "role_ja": "副詞節",
+          "literal_ja": "ロシアと戦うなかで",
+          "note_ja": "it = Ukraine。"
+        },
+        {
+          "text": "to help reconstruct the war-torn country",
+          "role_ja": "不定詞（並列）",
+          "literal_ja": "戦争で荒廃した国の再建を支援するために",
+          "note_ja": "war-torn = 戦禍に見舞われた。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The House this week is also expected to consider a war powers resolution to block U.S. action in Lebanon.",
+      "translation_ja": "下院は今週、レバノンでの米国の軍事行動を阻止する戦争権限決議も審議する見込みだ。",
+      "grammar_ja": "be expected to = ～する見込みだ。consider a resolution = 法案を審議する。block action = 行動を阻止する。",
+      "chunks": [
+        {
+          "text": "The House this week is also expected to consider",
+          "role_ja": "主節",
+          "literal_ja": "下院は今週、審議する見込みでもある",
+          "note_ja": "be expected to = 予定・見込み。"
+        },
+        {
+          "text": "a war powers resolution",
+          "role_ja": "目的語",
+          "literal_ja": "戦争権限決議を",
+          "note_ja": "記事内で繰り返されるキーフレーズ。"
+        },
+        {
+          "text": "to block U.S. action in Lebanon",
+          "role_ja": "不定詞（目的）",
+          "literal_ja": "レバノンでの米国の行動を阻止するために",
+          "note_ja": "block = 阻止する。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "While Congress has the authority under the Constitution to declare war, the president also has power as the commander in chief to engage in military action, creating a legal dispute over which branch of government has ultimate say in matters of war and peace.",
+      "translation_ja": "憲法の下で議会には宣戦権がある一方、大統領も最高司令官として軍事行動を取る権限を持つ。このため、戦争と平和について最終的な決定権をどちらの政府部門が持つかをめぐる法的争いが生じている。",
+      "grammar_ja": "Whileは対比。under the Constitution = 憲法に基づき。commander in chief = 最高司令官。creatingは結果を示す分詞。ultimate say = 最終決定権。",
+      "chunks": [
+        {
+          "text": "Congress has the authority under the Constitution to declare war",
+          "role_ja": "副詞節",
+          "literal_ja": "議会は憲法の下で宣戦する権限を持つ",
+          "note_ja": "declare war = 宣戦する。authority to = ～する権限。"
+        },
+        {
+          "text": "the president also has power as the commander in chief to engage in military action",
+          "role_ja": "主節",
+          "literal_ja": "大統領も最高司令官として軍事行動をとる権限を持つ",
+          "note_ja": "engage in = 従事する・行う。"
+        },
+        {
+          "text": "creating a legal dispute",
+          "role_ja": "分詞構文",
+          "literal_ja": "法的争いを生み出して",
+          "note_ja": "結果として生じる状況。"
+        },
+        {
+          "text": "over which branch of government has ultimate say in matters of war and peace",
+          "role_ja": "前置詞句",
+          "literal_ja": "政府のどの部門が戦争と平和の問題で最終決定権を持つかについて",
+          "note_ja": "branch of government = 三権の各部門。ultimate say = 最終発言権。"
+        }
+      ],
+      "deep_dive_ja": "米国の戦争権限を説明する定番文型。learnersはdeclare warとmilitary actionの違いを押さえると理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s028"
+    },
+    {
+      "text": "Under the war powers act, the White House has a 60-day window to seek approval from Congress for military action.",
+      "translation_ja": "戦争権限法の下では、ホワイトハウスは軍事行動について議会の承認を求めるための60日間の猶予がある。",
+      "grammar_ja": "Under the act = 法律の下で。has a window to = ～するための期間がある。seek approval from = 承認を求める。",
+      "chunks": [
+        {
+          "text": "Under the war powers act",
+          "role_ja": "副詞句",
+          "literal_ja": "戦争権限法の下では",
+          "note_ja": "War Powers Act = 1973年の戦争権限法。"
+        },
+        {
+          "text": "the White House has a 60-day window",
+          "role_ja": "主節",
+          "literal_ja": "ホワイトハウスには60日間の猶予がある",
+          "note_ja": "window = 時間的な枠・猶予期間。"
+        },
+        {
+          "text": "to seek approval from Congress for military action",
+          "role_ja": "不定詞",
+          "literal_ja": "軍事行動について議会の承認を求めるために",
+          "note_ja": "seek approval from = ～に承認を求める。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s029",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The administration, however, has indicated that because a ceasefire has been declared in the current conflict in Iran, the hostilities have ceased.",
+      "translation_ja": "しかし政権は、イランでの現在の紛争において停戦が宣言されたため、敵対行為は終わったと示している。",
+      "grammar_ja": "has indicated that。because節で理由。hostilities have ceased = 敵対行為は停止した。howeverは逆接。",
+      "chunks": [
+        {
+          "text": "The administration, however, has indicated that",
+          "role_ja": "主節",
+          "literal_ja": "しかし政権は～と示している",
+          "note_ja": "indicate = 示す・表明する。"
+        },
+        {
+          "text": "because a ceasefire has been declared in the current conflict in Iran",
+          "role_ja": "理由節",
+          "literal_ja": "イランの現在の紛争で停戦が宣言されたので",
+          "note_ja": "current conflict = 現在進行中の紛争。"
+        },
+        {
+          "text": "the hostilities have ceased",
+          "role_ja": "内容節",
+          "literal_ja": "敵対行為は終わった",
+          "note_ja": "hostilities = 敵対行為・戦闘行為。cease = 停止する（格式ばった語）。"
+        }
+      ],
+      "deep_dive_ja": "政権は停戦宣言を根拠に戦争権限法の適用を避けようとする、という記事の締めくくりの論点。",
+      "difficulty": "medium",
+      "sentence_id": "s030"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "war powers resolution",
+      "pronunciation": "/wɔːr ˈpaʊərz ˌrɛzəˈluːʃən/",
+      "meaning_ja": "戦争権限決議（大統領の軍事行動を制限する議会決議）",
+      "example": "The House approved a war powers resolution Wednesday.",
+      "example_ja": "下院は水曜日、戦争権限決議を可決した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
+      "meaning_ja": "（権威に）逆らう、公然と拒む",
+      "example": "A handful of Republicans joined Democrats, defying President Trump.",
+      "example_ja": "少数の共和党員が民主党とともにトランプ大統領に逆らった。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "on the verge of",
+      "pronunciation": "/ɒn ðə vɜːrdʒ əv/",
+      "meaning_ja": "まさに～しそうな、～の瀬戸際で",
+      "example": "The resolution was on the verge of approval.",
+      "example_ja": "その決議は可決目前だった。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "war of choice",
+      "pronunciation": "/wɔːr əv tʃɔɪs/",
+      "meaning_ja": "選択戦争（必要性より政治的判断で始めた戦争）",
+      "example": "This reckless and costly war of choice needs to end today.",
+      "example_ja": "この無謀で費用のかかる選択戦争は今日中に終わらせる必要がある。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "break ranks",
+      "pronunciation": "/breɪk ræŋks/",
+      "meaning_ja": "（党・組織の）一列を乱す、党に反する",
+      "example": "GOP senators broke ranks with the Republican president.",
+      "example_ja": "共和党上院議員が共和党大統領と決裂した。",
+      "source_sentence_id": "s008"
+    },
+    {
+      "word": "curb",
+      "pronunciation": "/kɜːrb/",
+      "meaning_ja": "抑制する、食い止める",
+      "example": "The House has tried to curb the U.S. war against Iran.",
+      "example_ja": "下院はイランへの米国の戦争を抑制しようとしてきた。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "peel off",
+      "pronunciation": "/piːl ɒf/",
+      "meaning_ja": "（支持などを）一部ずつ引き離す",
+      "example": "Democrats work to peel off Republican support.",
+      "example_ja": "民主党は共和党の支持を一部引き離そうとしている。",
+      "source_sentence_id": "s025"
+    },
+    {
+      "word": "hands are tied",
+      "pronunciation": "/hændz ɑːr taɪd/",
+      "meaning_ja": "手が縛られている（何もできない状態）",
+      "example": "The Iranians would think the administration's hands are going to be tied.",
+      "example_ja": "イラン側は政権の手が縛られると考えるだろう。",
+      "source_sentence_id": "s023"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reduced-adverbial-clause",
+      "title": "Reduced adverbial clauses (participles)",
+      "rule": "When the subject is the same, clauses like 'If it is approved' or 'while he was testifying' can shorten to 'If approved' or 'testifying'.",
+      "example": "If approved, it would then go to the Senate, testifying at a House Foreign Affairs Committee hearing.",
+      "meaning_ja": "主語が同じとき、条件や付帯状況の節を分詞で短くできる。政治・法律記事で頻出なので、'If it is approved'と読み替える練習が有効。"
+    },
+    {
+      "id": "relative-clause-news",
+      "title": "Relative clauses (that/which) in news writing",
+      "rule": "Long news sentences often stack multiple 'that' clauses to add facts: 'a resolution that would halt action... a war that has reordered politics'.",
+      "example": "a war powers resolution that would halt the U.S. military action against Iran",
+      "meaning_ja": "関係代名詞thatで情報を次々追加するのがニュース英語の特徴。一文を節ごとに切ってから全体をつなぐと読みやすい。"
+    },
+    {
+      "id": "has-yet-to",
+      "title": "has yet to + verb",
+      "rule": "'has yet to do' means something has not happened so far, often implying it is expected or overdue.",
+      "example": "The Senate has yet to take a final vote to approve or reject its own war powers resolution.",
+      "meaning_ja": "「まだ～していない」だが、単なる否定より「これから必要・予定されている」ニュアンスが乗ることが多い。"
+    },
+    {
+      "id": "symbolic-if-not",
+      "title": "if not (understatement/contrast)",
+      "rule": "'A if not B' suggests A is true, and B may also be true or is being downplayed: 'a symbolic if not legal step'.",
+      "example": "a symbolic if not legal step against further military action",
+      "meaning_ja": "「少なくともAであり、BかもしれないがAである」という婉曲的対比。法的効力は限定的でも政治的意味は大きい、という含み。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 30,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:36:02+09:00"
+  },
+  "article_id": "japantoday:2026-06-04:house-defies-trump-and-approves-war-powe"
+}

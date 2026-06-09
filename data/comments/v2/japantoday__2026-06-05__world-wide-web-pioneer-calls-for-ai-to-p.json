@@ -1,0 +1,77 @@
+{
+  "article_id": "japantoday:2026-06-05:world-wide-web-pioneer-calls-for-ai-to-p",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:37:09+09:00",
+  "fetched_at": "2026-06-09T22:41:33+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Sir Timothy John Berners-Lee's greatest regret is not putting built-in safeguards in the WWW but rather relied on the \"goodness of mankind\" instead Never ever rely on the \"goodness of mankind\" if ya know enough about mankind, lol",
+      "translation_ja": "サー・ティモシー・ジョン・バーナーズ＝リーの最大の後悔は、WWWに組み込みの安全策を入れなかったことではなく、代わりに「人間の善良さ」に頼ったことだ。人間について十分知っているなら、「人間の善良さ」なんて絶対に頼るなよ（笑）",
+      "notes_ja": [
+        "「but rather relied」は主語が抜けており、厳密には but rather he relied の形",
+        "「ya」は you のくだけた言い方、「lol」はネット上の笑いの表現"
+      ],
+      "standard_en": "Sir Timothy John Berners-Lee's greatest regret is not that he failed to put built-in safeguards in the WWW, but rather that he relied on the \"goodness of mankind\" instead. Never ever rely on the \"goodness of mankind\" if you know enough about mankind.",
+      "marked_terms": [
+        {
+          "term": "lol",
+          "symbol": "◇",
+          "note_ja": "ネットスラングで「笑」の意。くだけた書き言葉"
+        }
+      ],
+      "comment_id": 5227322,
+      "author": "lostrune2",
+      "rating": 2,
+      "posted_at": "2026-06-05T19:28:59+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "\"It's important that people use this technology to make sure that their customers, their citizens, have got control over their own data,\" he said. Yes TimBL, which is why I run AI locally on my personal computer. But listen to the most recent comments from Jenson of NVIDIA. He, like others in technology, see a future in which the \"personal computer\" is dead and instead everyone uses an AI terminal to access centrally controlled information on the cloud, with all software being a subscription, with even hardware, the GPU, being a service. I am afraid that the internet you remember is quite dead. They are working hard to maximize profit while minimizing free thought.",
+      "translation_ja": "「人々がこの技術を使って、顧客や市民が自分のデータを自分でコントロールできるようにすることが重要だ」と彼は言った。そうだねティム、だから俺は個人PCでAIをローカル実行している。でもNVIDIAのジェンソンの最近の発言を聞いてみろ。彼も他のテック業界の人たちも、将来は「パソコン」が死に、代わりに誰もがAI端末でクラウド上の中央管理された情報にアクセスし、ソフトは全部サブスク、GPUですらハードウェアもサービス化される未来を見ている。君が覚えているインターネットはもうかなり死んでいるよ。彼らは自由な思考を最小化しながら利益を最大化しようと必死に動いている。",
+      "notes_ja": [
+        "「TimBL」はティム・バーナーズ＝リーの業界での略称",
+        "「Jenson」はJensen Huang（ジェンセン・フアン）の綴りミスの可能性が高い"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5226530,
+      "author": "jeffy",
+      "rating": 1,
+      "posted_at": "2026-06-05T08:27:44+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Sorry TimBL, but there is nothing left to \"preserve\". 50% of web traffic is now bots and the other half is highly moderated and under constant surveillance. It is no longer the wild west of organic free expression it once was. Half of everything is content designed to control our perceptions.",
+      "translation_ja": "ごめんティム、もう「保存」するものなんて何も残っていない。今のWebトラフィックの50%はボットで、残りの半分は厳しくモデレートされ常に監視下にある。かつてのような有機的な自由表現のワイルド・ウェストではもうない。世の中の半分は俺たちの認識を操作するために設計されたコンテンツだ。",
+      "notes_ja": [
+        "「wild west」は西部開拓時代を連想させる慣用句で、無法地帯・規制のない自由な空間の比喩",
+        "「TimBL」はティム・バーナーズ＝リーの略称"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5226502,
+      "author": "jeffy",
+      "rating": 0,
+      "posted_at": "2026-06-05T08:07:08+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "The original values of the web were anonymity and no regulation. We fell off of that path long before AI.",
+      "translation_ja": "Webの本来の価値とは匿名性と規制なしだった。AIが出るずっと前から、もうその道から外れていた。",
+      "notes_ja": [
+        "「fell off of that path」は口語的で「（方針・道筋から）外れる」の意",
+        "「no regulation」を価値と位置づける批判的な主張"
+      ],
+      "standard_en": "The original values of the web were anonymity and the absence of regulation. We strayed from that path long before AI.",
+      "marked_terms": [],
+      "comment_id": 5227449,
+      "author": "TaiwanIsNotChina",
+      "rating": -1,
+      "posted_at": "2026-06-06T02:08:01+09:00"
+    }
+  ]
+}

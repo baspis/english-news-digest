@@ -1,0 +1,84 @@
+{
+  "article_id": "japantoday:2026-06-03:gov-t-banks-given-access-to-latest-anthr",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:29:30+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Just over one month ago, Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, deleted a customer database of a car rental company, violating its own safeguards. It took 9 seconds to delete, and around two days to restore the data from an offsite backup. WIth Japanese banks poor record of IT, Data management and Customer Service, let's hope that they provide better control and manage this AI model.",
+      "translation_ja": "1か月ほど前、AnthropicのClaude Opus 4.6を搭載したAIエージェント「Cursor」が、自社の安全装置を破ってレンタカー会社の顧客データベースを削除した。削除は9秒、オフサイトのバックアップからの復旧には約2日かかった。日本の銀行はIT・データ管理・顧客サービスの実績が芳しくないので、今回はもっとうまく管理・統制してくれることを願うばかりだ。",
+      "notes_ja": [
+        "「WIth Japanese banks poor record of…」は所有格や前置詞が抜けた口語的な書き方（with Japanese banks' poor record / given Japanese banks' poor record が教科書的）。",
+        "「let's hope that they provide better control and manage」は provide と manage が並列でやや不自然だが、統制を強化して管理してほしい、という意味は通じる。"
+      ],
+      "standard_en": "With Japanese banks' poor record of IT, data management, and customer service, let's hope that they provide better control and manage this AI model properly.",
+      "marked_terms": [],
+      "comment_id": 5224432,
+      "author": "wanderlust",
+      "rating": 6,
+      "posted_at": "2026-06-03T18:23:36+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I don't believe that the 'cloud ' is truly safe. Just my humble opinion. Spent most of my life in IT- related jobs.",
+      "rating": 2,
+      "positive_rating": 2,
+      "negative_rating": 0,
+      "posted_at": "2026-06-03T20:38:13+09:00",
+      "notes_ja": [],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5224507,
+      "author": "WuzUrPCGuy"
+    },
+    {
+      "rank": 3,
+      "text_raw": "U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said Wednesday, as concerns mount about cyberattacks led by sophisticated AI There's a lot of wrong in this sentence.",
+      "translation_ja": "「米国のスタートアップAnthropicの新しいClaude Mythos人工知能モデルは高度なサイバーセキュリティ機能を備えており、政府は水曜日こう述べた。高度なAI主導のサイバー攻撃への懸念が高まる中で」——この文にはおかしいところがたくさんある。",
+      "notes_ja": [
+        "前半は記事の文をそのまま貼り付けた断片で、動詞がなく文として未完成。",
+        "「There's a lot of wrong」は教科書では a lot wrong / a lot of things wrong / much wrong が自然。"
+      ],
+      "standard_en": "There's a lot wrong with this sentence.",
+      "marked_terms": [],
+      "comment_id": 5224513,
+      "author": "justasking",
+      "rating": 1,
+      "posted_at": "2026-06-03T20:46:59+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Don't they mean that Anthropic has been granted unfettered access to Japan's most secure institutions?",
+      "translation_ja": "本当の意味は、Anthropicの方が日本の最重要セキュリティ機関に自由無制限のアクセスを与えられた、ということじゃないの？",
+      "notes_ja": [
+        "「Don't they mean…?」は記事の見出しを皮肉たらしく言い換える疑問形。",
+        "unfettered access は「制限のない／自由なアクセス」という強い表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5224427,
+      "author": "Lifer",
+      "rating": -2,
+      "posted_at": "2026-06-03T18:17:36+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "@Lifer Don't they mean that Anthropic has been granted unfettered access to Japan's most secure institutions? Exactly, God knows where those data will go around the \"cloud\".",
+      "translation_ja": "@Lifer 本当の意味は、Anthropicの方が日本の最重要セキュリティ機関に自由無制限のアクセスを与えられた、ということじゃないの？ まさにその通り。神のみぞ知るが、そのデータが「クラウド」のどこを行き来するのか。",
+      "notes_ja": [
+        "Liferの文を繰り返してから Exactly で同意している。@は返信先のユーザー名。",
+        "God knows where… は「誰にも分からない／行方不明」という慣用表現で、宗教的断言ではない。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5224471,
+      "author": "sakurasuki",
+      "rating": -8,
+      "posted_at": "2026-06-03T19:15:20+09:00"
+    }
+  ]
+}

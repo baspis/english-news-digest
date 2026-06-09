@@ -1,0 +1,117 @@
+{
+  "edition_date": "2026-06-02",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-02",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-02:stations-facilities-using-ai-system-to-p",
+    "japantoday:2026-06-02:man-kills-his-mother-s-visiting-caregive",
+    "japantoday:2026-06-02:trump-is-facing-a-new-inflation-warning-",
+    "japantoday:2026-06-02:takaichi-urges-free-passage-through-horm",
+    "japantoday:2026-06-02:more-mandelson-files-released-in-uk-brin",
+    "japantoday:2026-06-02:ai-giant-anthropic-confidentially-files-"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-02:stations-facilities-using-ai-system-to-p",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/japan-stations-facilities-using-ai-system-to-prevent-suicide-by-jumping",
+      "title": "Stations, facilities using AI system to prevent suicide by jumping",
+      "slug": "01-stations-facilities-using-ai-system-to-prevent-suicide-by-jumping",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_20",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-02:man-kills-his-mother-s-visiting-caregive",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/man-kills-his-mother%E2%80%99s-visiting-caregiver-calls-police-then-kills-himself",
+      "title": "Man kills his mother’s visiting caregiver, calls police, then kills himself",
+      "slug": "02-man-kills-his-mother-s-visiting-caregiver-calls-police-then-kills-hims",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_10",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-02:trump-is-facing-a-new-inflation-warning-",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/trump-is-facing-a-new-inflation-warning-from-the-bond-market-adding-to-his-midterm-challenges",
+      "title": "Trump is facing a new inflation warning from the bond market, adding to his midterm challenges",
+      "slug": "03-trump-is-facing-a-new-inflation-warning-from-the-bond-market-adding-to",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_9",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-02:takaichi-urges-free-passage-through-horm",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/update3-japan-pm-urges-free-passage-through-hormuz-in-iran-president-phone-talks",
+      "title": "Takaichi urges free passage through Hormuz in phone talks with Iran president",
+      "slug": "04-takaichi-urges-free-passage-through-hormuz-in-phone-talks-with-iran-pr",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_26",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-02:more-mandelson-files-released-in-uk-brin",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/the-bad-news-keeps-coming-for-keir-starmer-with-new-trove-of-mandelson-files-due-to-be-published",
+      "title": "More Mandelson files released in UK bring bad news for Starmer, but many questions remain unanswered",
+      "slug": "05-more-mandelson-files-released-in-uk-bring-bad-news-for-starmer-but-man",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_28",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-02:ai-giant-anthropic-confidentially-files-",
+      "edition_date": "2026-06-02",
+      "source_published_date_jst": "2026-06-02",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/ai-giant-anthropic-confidentially-files-for-ipo",
+      "title": "AI giant Anthropic confidentially files for IPO",
+      "slug": "06-ai-giant-anthropic-confidentially-files-for-ipo",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_2",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-09T22:17:12+09:00",
+  "warnings": [
+    "processing failed japantoday:2026-06-02:trump-is-facing-a-new-inflation-warning-: Expecting value: line 1 column 1 (char 0)"
+  ]
+}

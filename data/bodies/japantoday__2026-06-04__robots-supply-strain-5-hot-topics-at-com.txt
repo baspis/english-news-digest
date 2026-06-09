@@ -1,0 +1,25 @@
+From laptops designed for the artificial intelligence era to advances in robotics and sky-high tech shares, here are five hot topics at Taipei's huge Computex trade show:
+"2026 is the year of agents," Qualcomm CEO Cristiano Amon said on stage -- referring to the emerging world of AI systems that can carry out real-life tasks for users, from sending emails to online shopping.
+The agent craze has been fueled by the sudden global popularity of OpenClaw, an agent tool known for its red lobster mascot.
+Tech bosses including Rene Haas of British semiconductor design giant Arm said agentic AI -- which has moved the technology beyond a simple chatbot to one that acts on your behalf -- was ramping up demand for computer processors.
+"Agents, unlike humans, don't sleep," Haas said.
+U.S. hardware titan Nvidia unveiled a chip on Monday for next-generation Windows laptops that it says can easily run agent tools.
+Nvidia said PCs containing its new RTX Spark chip, made by the likes of Dell, Asus and Lenovo, will go on sale this autumn.
+Prices have not been announced, but could be pushed up by the global shortage of memory chips created by the race to build AI data centers.
+Massive demand has sent profits skyrocketing for memory chip makers like South Korea's SK hynix and Samsung Electronics, whose workers' union recently agreed a deal on bonuses after threatening to strike.
+To address the shortage, "we will double our total production capacity (of silicon wafers, which power AI technology) within the next five years", Chey Tae-won, chair of SK hynix's parent company, told reporters at Computex.
+Chey also reiterated his prediction that memory shortages could persist until 2030, with chip factories taking at least three years to build.
+Nvidia head Jensen Huang, who will visit South Korea from Friday, signed a memory chip display at the SK hynix booth in Taipei, writing: "Please make more".
+This year's edition of Computex is the biggest yet, with more than 1,500 exhibitors from across the chip supply chain.
+Although major players have not reported significant disruption from the war in the Middle East, concerns have been raised over supplies of chipmaking materials sourced from the region, such as helium and hydrogen.
+And with many chips produced in Taiwan, the risk of a potential invasion or blockade by China, which considers the self-ruled island its territory, could also pose a threat to the booming industry.
+"Everybody's supply chain should be as diversified... as possible, so that we can have resilience," Nvidia's Huang said when asked about a possible future Taiwan crisis.
+Nvidia's most top-of-the-range AI chips, the Blackwell and Rubin series, are banned from export to China, which has been busy developing its own semiconductor industry.
+Red-hot share prices for AI-related companies have made many tech investors very rich, very quickly.
+Nvidia's market value is now $5 trillion -- more than the gross domestic product of Japan or India -- and within the past month, Samsung, Micron and SK hynix have all become $1 trillion companies.
+US chipmaker Marvell Technology soared more than 32 percent after Huang hailed it as the next trillion-dollar firm on stage at Computex, sparking fresh fears of an AI share price bubble that could eventually burst.
+Taiwan's stock exchange has grown to become the fifth largest in the world, and is still on the up.
+Humanoid robots that can dance in unison, perform backflips or pull heavy objects without falling over are perfect fodder for viral videos.
+But most of these impressive displays are remotely operated or pre-programmed, with autonomous motion using so-called physical AI still rare.
+Companies at Computex were keen to show off how they are integrating AI capabilities into robotics, with Nvidia announcing a new partnership with Chinese startup Unitree on a humanoid for researchers.
+Taiwan's Asus unveiled what it called "a new generation of AI-powered service robotics that provide care- and service-related support" to help elderly people and other users with "a wide range of tasks".

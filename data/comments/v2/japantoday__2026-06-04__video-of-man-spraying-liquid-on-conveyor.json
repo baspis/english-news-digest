@@ -1,0 +1,115 @@
+{
+  "article_id": "japantoday:2026-06-04:video-of-man-spraying-liquid-on-conveyor",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:31:09+09:00",
+  "fetched_at": "2026-06-09T22:37:06+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "43 year old and jobless - Instead of doing stupid things like producing disgusting sushi prank videos better look for a job.",
+      "translation_ja": "43歳で無職か。まずい寿司のいたずら動画みたいなバカな真似をするより、仕事を探した方がいい。",
+      "notes_ja": [
+        "冒頭の「43 year old and jobless」は述語のない名詞句で、文法的に不完全。",
+        "「better look for a job」は you should better look for a job の you should が省略された口語的な助言。"
+      ],
+      "standard_en": "He's 43 years old and jobless. Instead of doing stupid things like making disgusting sushi prank videos, he should look for a job.",
+      "marked_terms": [
+        {
+          "term": "stupid",
+          "symbol": "◇",
+          "note_ja": "相手を馬鹿にする言い方。丁寧な場では避ける。"
+        }
+      ],
+      "comment_id": 5226027,
+      "author": "Yohan",
+      "rating": 14,
+      "posted_at": "2026-06-04T17:01:41+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "oldman_13Today 05:42 pm JST And yet Japanese netizens fixate on bad behavior by foreigners but ignore these homegrown ones. BS No they don't. They come down on these ones too.",
+      "translation_ja": "oldman_13Today 05:42 pm JST それでも日本人ネットユーザーは外国人の悪行ばかりに執着して、こういう国内の連中のことは無視するんだ。でたらめだ。いや、そんなことない。こういう連中にもきちんと厳しく当たっている。",
+      "notes_ja": [
+        "Japan Todayの返信引用形式で、ユーザー名・投稿時刻が本文に混ざっている。",
+        "「BS」は bullshit（でたらめ・うそ）の俗語略。文末の「No they don't」は前の主張への強い反論。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "BS",
+          "symbol": "※",
+          "note_ja": "bullshit の略。俗語で、丁寧な場では使わない。"
+        }
+      ],
+      "comment_id": 5226103,
+      "author": "OssanAmerica",
+      "rating": 13,
+      "posted_at": "2026-06-04T18:43:23+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Well KasinoToday 07:00 pm JST OssanAmericaToday 06:43 pm JST oldman_13Today 05:42 pm JST And yet Japanese netizens fixate on bad behavior by foreigners but ignore these homegrown ones. BS No they don't. They come down on these ones too. not to the same degree More BS. Every stupid thing like this done by a J-nat hits the news, just like the stupid thing done by foreigners. Why else do you think posters are thinking \"what again?\"",
+      "translation_ja": "Well KasinoToday 07:00 pm JST OssanAmericaToday 06:43 pm JST oldman_13Today 05:42 pm JST それでも日本人ネットユーザーは外国人の悪行ばかりに執着して、こういう国内の連中のことは無視するんだ。でたらめだ。いや、そんなことない。こういう連中にもきちんと厳しく当たる。ただし同じ程度ではない。またでたらめだ。日本人がやったこういうバカなことも、外国人がやったのと同じようにニュースになる。でなければ投稿者が「またか？」と思うわけがないだろ。",
+      "notes_ja": [
+        "返信が何層にも重なった掲示板形式。投稿者の追記は「not to the same degree」以降。",
+        "「J-nat」は Japanese national（日本人）のネット略語。「what again?」は同種の事件が繰り返されることへのうんざり。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "BS",
+          "symbol": "※",
+          "note_ja": "bullshit の略。俗語で、丁寧な場では使わない。"
+        },
+        {
+          "term": "More BS",
+          "symbol": "※",
+          "note_ja": "前と同じく bullshit。相手の主張を一蹴する強い言い方。"
+        }
+      ],
+      "comment_id": 5226217,
+      "author": "OssanAmerica",
+      "rating": 12,
+      "posted_at": "2026-06-04T21:06:30+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "to get a lot of views on social media Sick and tired of those morons. Social media should be legally obliged to immediately terminate accounts of those morons and forward all the data they have on them to the police.",
+      "translation_ja": "ソーシャルメディアで再生数を稼ぐために。ああいう馬鹿どもにはうんざりだ。ソーシャルメディアは法的に、そういう馬鹿どものアカウントを即座に停止し、持っているデータをすべて警察に渡す義務を負うべきだ。",
+      "notes_ja": [
+        "文頭の「to get a lot of views on social media」は記事の動機への言及の続きで、主語・述語のない不完全文。",
+        "「Sick and tired of」は「うんざりしている」という強い不満の慣用表現。"
+      ],
+      "standard_en": "They do it to get a lot of views on social media. I'm sick and tired of those morons. Social media should be legally obliged to immediately terminate the accounts of those morons and forward all the data they have on them to the police.",
+      "marked_terms": [
+        {
+          "term": "morons",
+          "symbol": "※",
+          "note_ja": "強い侮辱語。丁寧な会話やフォーマルな場では使わない。"
+        }
+      ],
+      "comment_id": 5226098,
+      "author": "ILoveDownvotes",
+      "rating": 11,
+      "posted_at": "2026-06-04T18:37:48+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Disgusting and dangerous. Put him in the stocks and throw bad fish at him.",
+      "translation_ja": "気持ち悪いし危険だ。足枷に入れて、腐った魚を投げつけろ。",
+      "notes_ja": [
+        "「stocks」は中世の公開処刑用の足枷・首枷。ここでは比喩的な厲罰の提案。",
+        "「throw bad fish at him」も文字通りではなく、恥をかかせる罰のイメージ。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5226069,
+      "author": "wallace",
+      "rating": 10,
+      "posted_at": "2026-06-04T17:35:19+09:00"
+    }
+  ]
+}

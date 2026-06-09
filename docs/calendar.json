@@ -1,5 +1,95 @@
 {
   "editions": {
+    "2026-06-01": {
+      "status": "complete",
+      "article_count": 6,
+      "category_counts": {
+        "national": 1,
+        "crime": 1,
+        "business": 1,
+        "politics": 1,
+        "world": 1,
+        "tech": 1
+      },
+      "path": "editions/2026-06-01/index.html",
+      "generated_at": "2026-06-09T22:11:06+09:00",
+      "jt_article_count": 6,
+      "comments_final_count": 6,
+      "comments_item_count": 30,
+      "comments_ready": true
+    },
+    "2026-06-02": {
+      "status": "complete",
+      "article_count": 6,
+      "category_counts": {
+        "national": 1,
+        "crime": 1,
+        "business": 1,
+        "politics": 1,
+        "world": 1,
+        "tech": 1
+      },
+      "path": "editions/2026-06-02/index.html",
+      "generated_at": "2026-06-09T22:17:12+09:00",
+      "jt_article_count": 6,
+      "comments_final_count": 6,
+      "comments_item_count": 27,
+      "comments_ready": true
+    },
+    "2026-06-03": {
+      "status": "complete",
+      "article_count": 6,
+      "category_counts": {
+        "national": 1,
+        "crime": 1,
+        "business": 1,
+        "politics": 1,
+        "world": 1,
+        "tech": 1
+      },
+      "path": "editions/2026-06-03/index.html",
+      "generated_at": "2026-06-09T22:25:34+09:00",
+      "jt_article_count": 6,
+      "comments_final_count": 6,
+      "comments_item_count": 30,
+      "comments_ready": true
+    },
+    "2026-06-04": {
+      "status": "complete",
+      "article_count": 6,
+      "category_counts": {
+        "national": 1,
+        "crime": 1,
+        "business": 1,
+        "politics": 1,
+        "world": 1,
+        "tech": 1
+      },
+      "path": "editions/2026-06-04/index.html",
+      "generated_at": "2026-06-09T22:31:09+09:00",
+      "jt_article_count": 6,
+      "comments_final_count": 6,
+      "comments_item_count": 26,
+      "comments_ready": true
+    },
+    "2026-06-05": {
+      "status": "complete",
+      "article_count": 6,
+      "category_counts": {
+        "national": 1,
+        "crime": 1,
+        "business": 1,
+        "politics": 1,
+        "world": 1,
+        "tech": 1
+      },
+      "path": "editions/2026-06-05/index.html",
+      "generated_at": "2026-06-09T22:37:09+09:00",
+      "jt_article_count": 6,
+      "comments_final_count": 6,
+      "comments_item_count": 29,
+      "comments_ready": true
+    },
     "2026-06-06": {
       "status": "complete",
       "article_count": 6,

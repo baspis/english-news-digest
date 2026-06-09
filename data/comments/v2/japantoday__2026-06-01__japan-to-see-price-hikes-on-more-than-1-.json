@@ -1,0 +1,120 @@
+{
+  "article_id": "japantoday:2026-06-01:japan-to-see-price-hikes-on-more-than-1-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:11:06+09:00",
+  "fetched_at": "2026-06-09T22:14:46+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "It's a dumb stat. A Useful stat would tell us by how much prices will be going up.",
+      "translation_ja": "ばかげた統計だ。役に立つ統計なら、物価がどのくらい上がるのかを教えてくれるはずだ。",
+      "notes_ja": [
+        "「A Useful」の大文字 U は誤字か、強調のタイプミスの可能性",
+        "dumb＝「愚かな」ではなく、ここでは統計の質を「役に立たない・幼稚」と切る口語"
+      ],
+      "standard_en": "It's a dumb stat. A useful stat would tell us by how much prices will be going up.",
+      "marked_terms": [
+        {
+          "term": "dumb",
+          "symbol": "◇",
+          "note_ja": "くだけた言い方で、物事を「ばかげている」と軽く馬鹿にするニュアンス。丁寧な場では避ける"
+        }
+      ],
+      "comment_id": 5221031,
+      "author": "JeffLee",
+      "rating": 25,
+      "posted_at": "2026-06-01T06:28:56+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "It's a dumb stat. A Useful stat would tell us by how much prices will be going up. Yeah, the 1000 products could easily include 100 different salad dressings and 150 different \"tare\" sauces. What matters is how much the ones you buy have gone up. This is usually expressed using averages or ranges. Even better is to look at what a typical basket of food items contains and take an average of that.",
+      "translation_ja": "ばかげた統計だ。役に立つ統計なら、物価がどのくらい上がるのかを教えてくれるはずだ。そうだよ、1000品目には、サラダドレッシング100種類と「タレ」150種類が簡単に含まれ得る。大事なのは、自分が買っているものがどれだけ値上がりしたかだ。それはだいたい平均や幅で示される。さらに良いのは、典型的な買い物かごに何が入っているかを見て、その平均を取ることだ。",
+      "notes_ja": [
+        "冒頭は1位コメントと同文。Yeah で同意しつつ具体例を足す口語構成",
+        "「tare」は日本語の「タレ」を英語記事の中でそのまま引用"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "dumb",
+          "symbol": "◇",
+          "note_ja": "くだけた言い方で、物事を「ばかげている」と軽く馬鹿にするニュアンス。丁寧な場では避ける"
+        }
+      ],
+      "comment_id": 5221355,
+      "author": "kohakuebisu",
+      "rating": 14,
+      "posted_at": "2026-06-01T09:46:23+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Yesterday I went to a supermarket close to my house...one apple 305 Yen!!! (And it was still May) That is crazy!",
+      "translation_ja": "昨日、家の近くのスーパーに行った……りんご一個、305円！！！（しかもまだ5月だった）ありえない！",
+      "notes_ja": [
+        "「one apple 305 Yen」は動詞を省いた話し言葉（= was / cost）",
+        "……で間を取り、!!! と括弧で驚き・呆れのトーンを強調"
+      ],
+      "standard_en": "Yesterday I went to a supermarket close to my house... One apple was 305 yen!!! (And it was still May.) That is crazy!",
+      "marked_terms": [
+        {
+          "term": "crazy",
+          "symbol": "◇",
+          "note_ja": "「狂っている」直訳ではなく、ここでは「ありえない・ひどい」と呆れる口語"
+        }
+      ],
+      "comment_id": 5221089,
+      "author": "Monty",
+      "rating": 11,
+      "posted_at": "2026-06-01T07:12:37+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Japan to see price hikes on more than 1,000 food and beverage items in June with explanation what price will go up As customers we want to to know what item what new price.Some weblink may be helpful so can click on it and check.",
+      "translation_ja": "6月に1000以上の食品・飲料が値上げされるという記事について、何がいくら上がるのかの説明が欲しい。客として、どの商品がいくらになるのか知りたい。「to to」は誤り。リンクがあればクリックして確認できると助かる。",
+      "notes_ja": [
+        "見出しをそのまま書き出し、句読点や接続詞が少ない非ネイティブな文",
+        "「want to to」の重複、主語の省略（so we can...）、what item what new price の冠詞欠落"
+      ],
+      "standard_en": "Japan will see price hikes on more than 1,000 food and beverage items in June. As customers, we want an explanation of which prices will go up. We want to know which items and what the new prices are. Some weblink may be helpful so we can click on it and check.",
+      "marked_terms": [],
+      "comment_id": 5221215,
+      "author": "IVO",
+      "rating": 10,
+      "posted_at": "2026-06-01T08:23:13+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Thank to Bibi and his Zionist war mongers, and we haven't seen the end yet. Bibi and his Neo Con plan is working well keep em starved and they wont have the time to Q? his Genocide. Those who know, know and those who don't will blame it on inflation but it's much more evil than that.",
+      "translation_ja": "ビビとそのシオニストの戦争屋のおかげで、終わりはまだ見えない。ビビとそのネオコン計画はうまくいっている——飢えさせておけば、彼の虐殺に疑問を呈する暇もなくなる。分かる人は分かっているし、分からない人はインフレのせいにするだろう。だがそれはもっと邪悪なことだ。",
+      "notes_ja": [
+        "Thank to＝Thanks to の誤り。keep em＝keep them、wont＝won't の口語・省略",
+        "Q? は question（疑問を呈する）の略と思われる。Those who know, know は「知る者は知っている」という決まり文句"
+      ],
+      "standard_en": "Thanks to Bibi and his Zionist war mongers, and we haven't seen the end yet. Bibi and his Neocon plan is working well: keep them starved and they won't have the time to question his genocide. Those who know, know, and those who don't will blame it on inflation, but it's much more evil than that.",
+      "marked_terms": [
+        {
+          "term": "war mongers",
+          "symbol": "※",
+          "note_ja": "「戦争屋」——強い侮辱。議論を煽る言い方で、丁寧な場では使わない"
+        },
+        {
+          "term": "keep em starved",
+          "symbol": "◇",
+          "note_ja": "em＝them の超口語。starved は「飢えさせる」という強い表現"
+        },
+        {
+          "term": "Genocide",
+          "symbol": "※",
+          "note_ja": "政治的・法的に極めて重い語。ここでは非難のレッテルとして使われている"
+        }
+      ],
+      "comment_id": 5221351,
+      "author": "WoodyLee",
+      "rating": 10,
+      "posted_at": "2026-06-01T09:45:55+09:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-03:school-teacher-re-arrested-in-aichi-for-",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:25:34+09:00",
+  "fetched_at": "2026-06-09T22:28:56+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "How many chances did the Japanese police give this sexual predator? Once again, my respect for them is in the gutter.",
+      "translation_ja": "日本の警察はこの性的加害者に何度チャンスを与えたんだ？またしても、私の彼ら（警察）への敬意はどん底に落ちた。",
+      "notes_ja": [
+        "「in the gutter」は文字通り「排水溝」ではなく「最低・どん底」という慣用表現",
+        "「Once again」で、繰り返し起きたことへの失望・怒りのトーン"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5223821,
+      "author": "Fountain",
+      "rating": 11,
+      "posted_at": "2026-06-03T09:57:32+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "How many chances did the Japanese police give this sexual predator? Once again, my respect for them is in the gutter. The police can only arrest him. Which they did in this case. Blame the prosecutors and the courts.",
+      "translation_ja": "日本の警察はこの性的加害者に何度チャンスを与えたんだ？またしても、私の彼らへの敬意はどん底だ。警察にできるのは逮捕することだけ。今回もそうした。責めるべきは検察と裁判所だ。",
+      "notes_ja": [
+        "「Which they did in this case.」は関係詞だけの短い文で、前の文を受ける（口語・ネット投稿でよく見る）",
+        "警察ではなく検察・裁判所に責任を移すという論点の転換"
+      ],
+      "standard_en": "The police can only arrest him, which they did in this case.",
+      "marked_terms": [],
+      "comment_id": 5224089,
+      "author": "Quo Primum",
+      "rating": 7,
+      "posted_at": "2026-06-03T12:29:42+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "So 2014 it was illegal for child porn in Japan!? What an absolute disgrace…yet there are still the usual suspects trying to justify the lack of punishment carried out against these sadly prevalent predators in Japan!",
+      "translation_ja": "え、2014年まで日本では児童ポルノが違法じゃなかったの!? 本当に恥ずべきことだ…それなのに、相変わらずの連中が、日本でこのように蔓延する加害者への処罰の不十分さを正当化しようとしている！",
+      "notes_ja": [
+        "「So 2014 it was illegal...!?」は語順が口語的で、驚きの修辞疑問",
+        "「the usual suspects」は直訳できない慣用句で、いつも同じ立場を取る特定の人々を指す"
+      ],
+      "standard_en": "So it was only in 2014 that child pornography became illegal in Japan!?",
+      "marked_terms": [],
+      "comment_id": 5224430,
+      "author": "Sanjinosebleed",
+      "rating": 3,
+      "posted_at": "2026-06-03T18:20:00+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Clearly he'd been released twice. Hold on!!! This guy is still teaching after the first time?!?... No. After his first arrest, he was kept in continuous police custody through a succession of re-arrests and indictments.",
+      "translation_ja": "明らかに二度釈放されていたんだ。ちょっと待って!!! この男、初回のあとまだ教えていたの?!?... いや。初回逮捕後は、連続した再逮捕と起訴を経て、警察の拘留のままだった。",
+      "notes_ja": [
+        "「Hold on!!!」は話を止めて訂正する口語の間投詞",
+        "「?!?」は驚きと疑問を強調する記号の重ね；「No.」で自分の誤解を取り消す"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5225783,
+      "author": "Firefly",
+      "rating": 2,
+      "posted_at": "2026-06-04T13:32:06+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "How many chances did the Japanese police give this sexual predator? As the article reads none. The suspect was arrested several times and indicted, nothing in the article indicates he was ever released. In Japan people can be re-arrested when evidence of more crimes appears when the suspect is sill being held.",
+      "translation_ja": "日本の警察はこの性的加害者に何度チャンスを与えたんだ？記事を読む限り、一度もない。容疑者は何度も逮捕・起訴されており、釈放されたという記述は一切ない。日本では、被疑者がまだ勾留中に追加の犯罪の証拠が見つかると再逮捕できる。",
+      "notes_ja": [
+        "「As the article reads none」は「（記事によれば）一度もない」と主語・動詞が省略された口語",
+        "「sill」は「still」のスペルミス"
+      ],
+      "standard_en": "As the article reads, they gave him none.",
+      "marked_terms": [],
+      "comment_id": 5224092,
+      "author": "virusrex",
+      "rating": 1,
+      "posted_at": "2026-06-03T12:34:05+09:00"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "summary_ja": "近年、日本のムスリム人口がほぼ倍増したことを背景に、在住外国人への差別が韓国人・クルド人からムスリムへと広がっている。SNS上の誤情報や憎悪表現、モスクへの嫌がらせ電話などが増え、信者や関係者は不安を募らせている。専門家は、地元の問題がSNSで拡散され不安が広がりやすい構造を指摘し、宗教としてではなく個人として接することが重要だと訴えている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Discrimination toward foreign residents in Japan has expanded from Koreans and Kurds to Muslims as their population has estimated to have nearly doubled in recent years, according to observers and community members.",
+      "translation_ja": "観察者やコミュニティの関係者によると、日本における在住外国人への差別は、韓国人やクルド人に及んでいたものからムスリムへと広がっており、ムスリムの人口は近年ほぼ倍増したと見積もられている。",
+      "grammar_ja": "has expanded（現在完了）は過去から現在への変化を示す。from A to B は範囲の拡大。as は理由・背景を示す従属節。according to は報道文で情報源を示す定型表現。",
+      "chunks": [
+        {
+          "text": "Discrimination toward foreign residents in Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本における在住外国人に対する差別が",
+          "note_ja": "discrimination toward は「〜に対する差別」。toward は against よりやや中立的な響き。"
+        },
+        {
+          "text": "has expanded",
+          "role_ja": "述語",
+          "literal_ja": "広がってきた",
+          "note_ja": "expand は物理的拡大だけでなく、対象範囲の拡大にも使う。"
+        },
+        {
+          "text": "from Koreans and Kurds to Muslims",
+          "role_ja": "補足",
+          "literal_ja": "韓国人・クルド人からムスリムへ",
+          "note_ja": "from ... to ... で対象の移り変わりを表す。"
+        },
+        {
+          "text": "as their population has estimated to have nearly doubled in recent years",
+          "role_ja": "理由節",
+          "literal_ja": "その人口が近年ほぼ倍増したと見積もられるにつれ",
+          "note_ja": "their は Muslims を指す。has estimated to have doubled はやや不自然だが、報道では is estimated to have doubled の誤用と思われる。B2学習者は正しい形を覚えるとよい。"
+        },
+        {
+          "text": "according to observers and community members",
+          "role_ja": "付加情報",
+          "literal_ja": "観察者とコミュニティ関係者によれば",
+          "note_ja": "文末に置くと「〜によると」という出所表示になる。"
+        }
+      ],
+      "deep_dive_ja": "ニュースでは差別の「対象の拡大」を from A to B で簡潔に示す。population has estimated は本来 their population is estimated to have nearly doubled が自然。文法的な誤りがあっても意味は取れるが、試験では正しい受動態を使う。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Misinformation and hate speech are spreading on Japanese social media, and mosques are receiving a barrage of abusive phone calls and emails.",
+      "translation_ja": "誤情報やヘイトスピーチが日本のSNS上で広がっており、モスクには罵倒的な電話やメールが相次いで寄せられている。",
+      "grammar_ja": "are spreading（進行形）で進行中の拡散。barrage of は「集中砲火のように続く〜」という比喩。and で2つの並行する状況を接続。",
+      "chunks": [
+        {
+          "text": "Misinformation and hate speech",
+          "role_ja": "主語",
+          "literal_ja": "誤情報とヘイトスピーチが",
+          "note_ja": "misinformation は意図的でない誤情報、hate speech は憎悪をあおる発言。"
+        },
+        {
+          "text": "are spreading on Japanese social media",
+          "role_ja": "述語",
+          "literal_ja": "日本のSNS上で広がっている",
+          "note_ja": "spread はウイルスや情報の拡散に頻出。"
+        },
+        {
+          "text": "mosques are receiving a barrage of abusive phone calls and emails",
+          "role_ja": "並列節",
+          "literal_ja": "モスクは罵倒的な電話・メールの集中攻撃を受けている",
+          "note_ja": "barrage of は報道で「殺到する〜」と訳すことが多い。abusive は暴力的でなくても攻撃的な内容全般。"
+        }
+      ],
+      "deep_dive_ja": "a barrage of は軍事比喩でニュースの緊迫感を高める。receive a barrage of complaints/criticism も同型で覚えるとよい。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Some are asking why they are suddenly being targeted.",
+      "translation_ja": "突然標的にされている理由を問いかける人もいる。",
+      "grammar_ja": "Some は前文の状況を受けた不定代名詞。why 節は間接疑問。being targeted は受動の進行で「標的にされている状態」。",
+      "chunks": [
+        {
+          "text": "Some",
+          "role_ja": "主語",
+          "literal_ja": "一部の人々は",
+          "note_ja": "前文のムスリムや関係者を指す。"
+        },
+        {
+          "text": "are asking",
+          "role_ja": "述語",
+          "literal_ja": "尋ねている",
+          "note_ja": "ask why ... は「なぜ〜なのかを問う」。"
+        },
+        {
+          "text": "why they are suddenly being targeted",
+          "role_ja": "目的語節",
+          "literal_ja": "なぜ彼らが突然標的にされているのか",
+          "note_ja": "target は動詞で「標的にする」。be targeted は受動態。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Others are afraid to leave their homes.",
+      "translation_ja": "一方、自宅から出るのを恐れる人もいる。",
+      "grammar_ja": "Others は Some と対比。afraid to leave は afraid to do（〜するのを恐れる）の定型。",
+      "chunks": [
+        {
+          "text": "Others",
+          "role_ja": "主語",
+          "literal_ja": "他の人々は",
+          "note_ja": "Some ... Others ... で対比構文。"
+        },
+        {
+          "text": "are afraid to leave their homes",
+          "role_ja": "述語",
+          "literal_ja": "家を出るのを恐れている",
+          "note_ja": "afraid to do は afraid of doing より行動への躊躇を強調しやすい。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Muslims in Japan, including foreign residents and Japanese believers, numbered roughly 420,000 at the end of 2024, up from 230,000 in 2019, according to Hirofumi Tanada, a professor emeritus at Waseda University who studies the faith in Japan.",
+      "translation_ja": "日本のイスラム教を研究する早稲田大学名誉教授の棚田博史氏によると、在住外国人や日本人信者を含む日本のムスリムは2024年末に約42万人で、2019年の23万人から増えている。",
+      "grammar_ja": "including ... は挿入句。numbered は人数を示す報道用法。up from は前年比・過去比の増加。who studies ... は非制限的関係節。",
+      "chunks": [
+        {
+          "text": "Muslims in Japan, including foreign residents and Japanese believers",
+          "role_ja": "主語",
+          "literal_ja": "在住外国人や日本人信者を含む日本のムスリムは",
+          "note_ja": "believers は宗教上の信者。including はカンマで挟む挿入。"
+        },
+        {
+          "text": "numbered roughly 420,000 at the end of 2024",
+          "role_ja": "述語",
+          "literal_ja": "2024年末に約42万人となった",
+          "note_ja": "number を動詞に使うと「〜の数に達する」。"
+        },
+        {
+          "text": "up from 230,000 in 2019",
+          "role_ja": "補足",
+          "literal_ja": "2019年の23万人から増えて",
+          "note_ja": "統計記事で頻出の up from / down from。"
+        },
+        {
+          "text": "according to Hirofumi Tanada, a professor emeritus at Waseda University who studies the faith in Japan",
+          "role_ja": "出所",
+          "literal_ja": "日本の信仰を研究する早稲田大学名誉教授・棚田博史氏によれば",
+          "note_ja": "professor emeritus は名誉教授。the faith は文脈上イスラム教。"
+        }
+      ],
+      "deep_dive_ja": "統計文は主語＋numbered/was estimated at＋数字＋up from の型が多い。roughly は about と同様に概数を示す。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "There are now over 160 mosques nationwide.",
+      "translation_ja": "現在、全国に160以上のモスクがある。",
+      "grammar_ja": "There are 構文で存在を示す。over は「〜以上」。nationwide は副詞で「全国的に」。",
+      "chunks": [
+        {
+          "text": "There are now over 160 mosques",
+          "role_ja": "存在構文",
+          "literal_ja": "今や160以上のモスクがある",
+          "note_ja": "over 160 = more than 160。"
+        },
+        {
+          "text": "nationwide",
+          "role_ja": "副詞",
+          "literal_ja": "全国的に",
+          "note_ja": "形容詞 nationwide もあるが、ここは副詞用法。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Last year in Osaka, a rumor spread that the Muslim call to prayer was being broadcast at high volume from a mosque in the early morning.",
+      "translation_ja": "昨年大阪では、モスクから早朝に礼拝の呼びかけが大音量で放送されているといううわさが広まった。",
+      "grammar_ja": "a rumor spread that ... は「〜といううわさが広まった」。call to prayer は礼拝の時間を知らせるアザーン。was being broadcast は過去進行の受動。",
+      "chunks": [
+        {
+          "text": "a rumor spread",
+          "role_ja": "主述",
+          "literal_ja": "うわさが広まった",
+          "note_ja": "spread の過去形は spread（不規則）。"
+        },
+        {
+          "text": "that the Muslim call to prayer was being broadcast at high volume from a mosque in the early morning",
+          "role_ja": "内容節",
+          "literal_ja": "ムスリムの礼拝の呼びかけが早朝にモスクから大音量で放送されていたという",
+          "note_ja": "call to prayer はイスラム教の礼拝告知。at high volume は音量が大きいこと。"
+        }
+      ],
+      "deep_dive_ja": "うわさの内容は that 節で説明するのが自然。was being broadcast は継続的な放送を想像させ、うわさの具体性を高める。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "In February of this year, a series of suspicious fires broke out at a mosque and a used car dealership operated by Pakistani nationals in Ebetsu, Hokkaido, northern Japan.",
+      "translation_ja": "今年2月、北海道江別市では、パキスタン国籍の人々が経営するモスクと中古車販売店で、相次いで不審火が発生した。",
+      "grammar_ja": "a series of は「一連の」。broke out は火災・戦争などが「発生する」。operated by は過去分詞の後置修飾。",
+      "chunks": [
+        {
+          "text": "a series of suspicious fires",
+          "role_ja": "主語",
+          "literal_ja": "一連の不審火が",
+          "note_ja": "suspicious fires は意図的放火の疑いを含む報道表現。"
+        },
+        {
+          "text": "broke out",
+          "role_ja": "述語",
+          "literal_ja": "発生した",
+          "note_ja": "break out は火災・暴動・戦争に使う。"
+        },
+        {
+          "text": "at a mosque and a used car dealership operated by Pakistani nationals",
+          "role_ja": "場所・修飾",
+          "literal_ja": "パキスタン国籍者が経営するモスクと中古車店で",
+          "note_ja": "operated by は「〜によって運営されている」。"
+        },
+        {
+          "text": "in Ebetsu, Hokkaido, northern Japan",
+          "role_ja": "場所",
+          "literal_ja": "日本北部・北海道江別市で",
+          "note_ja": "小→大の地名順が英語の慣例。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In Fujisawa, Kanagawa Prefecture, near Tokyo, protests and harassment have arisen over the construction of a mosque.",
+      "translation_ja": "東京近郊の神奈川県藤沢市では、モスク建設をめぐって抗議や嫌がらせが起きている。",
+      "grammar_ja": "have arisen（現在完了）は最近起きた問題の継続。over は「〜をめぐって」。arise over は争点が生じる用法。",
+      "chunks": [
+        {
+          "text": "protests and harassment",
+          "role_ja": "主語",
+          "literal_ja": "抗議と嫌がらせが",
+          "note_ja": "harassment は法的・社会的な嫌がらせ全般。"
+        },
+        {
+          "text": "have arisen",
+          "role_ja": "述語",
+          "literal_ja": "生じてきた",
+          "note_ja": "arise は問題・争いが「起きる」。"
+        },
+        {
+          "text": "over the construction of a mosque",
+          "role_ja": "理由・対象",
+          "literal_ja": "モスク建設をめぐって",
+          "note_ja": "protest over / dispute over の collocations。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"The harassment started all of a sudden, as if it had just exploded out of nowhere,\" said Ali, a pseudonym, the leader of a mosque in a town in the northern Kanto region.",
+      "translation_ja": "関東北部のある町でモスクの代表を務めるアリ（仮名）は、「嫌がらせは突然、どこからともなく爆発したかのように始まった」と語った。",
+      "grammar_ja": "直接話法＋said 倒置。as if it had just exploded は仮定法過去完了で「まるで〜したかのように」。all of a sudden / out of nowhere は突然性。",
+      "chunks": [
+        {
+          "text": "The harassment started all of a sudden",
+          "role_ja": "引用文",
+          "literal_ja": "嫌がらせは突然始まった",
+          "note_ja": "all of a sudden = suddenly だがやや口語的・強調的。"
+        },
+        {
+          "text": "as if it had just exploded out of nowhere",
+          "role_ja": "比喩節",
+          "literal_ja": "まるでどこからともなく爆発したかのように",
+          "note_ja": "as if + 過去完了で現実と異なる比喩。out of nowhere は「突然・出所不明に」。"
+        },
+        {
+          "text": "said Ali, a pseudonym, the leader of a mosque in a town in the northern Kanto region",
+          "role_ja": "話者表示",
+          "literal_ja": "関東北部の町のモスク代表・アリ（仮名）は語った",
+          "note_ja": "a pseudonym は匿名保護のための仮名であることを示す。"
+        }
+      ],
+      "deep_dive_ja": "報道では匿名の当事者に a pseudonym と明記する。as if 節は感情の強さを伝える修辞としてよく使われる。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Since last year, he has been receiving five to 10 phone calls and emails a day containing messages such as \"Go back to your country\" and \"Japan doesn't need mosques.\"",
+      "translation_ja": "昨年以降、彼は1日5〜10件、「国に帰れ」「日本にモスクは要らない」といった内容の電話やメールを受け続けている。",
+      "grammar_ja": "Since last year + 現在完了進行形で継続。containing messages such as ... は分詞構文で後置修飾。a day は「1日あたり」。",
+      "chunks": [
+        {
+          "text": "Since last year, he has been receiving",
+          "role_ja": "時制・述語",
+          "literal_ja": "昨年以降、彼は受け続けている",
+          "note_ja": "has been receiving は継続＋反復を強調。"
+        },
+        {
+          "text": "five to 10 phone calls and emails a day",
+          "role_ja": "目的語",
+          "literal_ja": "1日5〜10件の電話とメールを",
+          "note_ja": "five to 10 = 5から10の範囲。"
+        },
+        {
+          "text": "containing messages such as \"Go back to your country\" and \"Japan doesn't need mosques.\"",
+          "role_ja": "修飾",
+          "literal_ja": "「国に帰れ」「日本にモスクは要らない」などのメッセージを含む",
+          "note_ja": "such as は例示。Go back to your country は典型的な排外スローガン。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Ali's mosque was established about 30 years ago.",
+      "translation_ja": "アリのモスクは約30年前に設立された。",
+      "grammar_ja": "受動態 was established で設立の事実。about 30 years ago は概数の過去。",
+      "chunks": [
+        {
+          "text": "Ali's mosque",
+          "role_ja": "主語",
+          "literal_ja": "アリのモスクは",
+          "note_ja": "所有格で人物と施設を結ぶ。"
+        },
+        {
+          "text": "was established about 30 years ago",
+          "role_ja": "述語",
+          "literal_ja": "約30年前に設立された",
+          "note_ja": "establish は組織・施設の設立に使う。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Although members were once in conflict with the local community over issues such as street parking, tensions have eased through collaboration with local authorities and the police.",
+      "translation_ja": "メンバーはかつて路上駐車などの問題で地域住民と対立したこともあったが、自治体や警察との協力により緊張は和らいできた。",
+      "grammar_ja": "Although で譲歩。were once in conflict with は過去の対立。have eased（現在完了）で結果の継続。through collaboration は手段。",
+      "chunks": [
+        {
+          "text": "Although members were once in conflict with the local community over issues such as street parking",
+          "role_ja": "譲歩節",
+          "literal_ja": "メンバーはかつて路上駐車などの問題で地域と対立していたが",
+          "note_ja": "in conflict with は「〜と対立している」。over issues は争点。"
+        },
+        {
+          "text": "tensions have eased",
+          "role_ja": "主述",
+          "literal_ja": "緊張は和らいできた",
+          "note_ja": "ease は緊張・規制が「緩む」。"
+        },
+        {
+          "text": "through collaboration with local authorities and the police",
+          "role_ja": "手段",
+          "literal_ja": "自治体・警察との協力を通じて",
+          "note_ja": "through は手段・経路を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It has also been a place to teach new immigrants about Japanese customs, such as garbage collection and Japan's pension system.",
+      "translation_ja": "また、ごみの出し方や日本の年金制度といった日本の習慣を新入移民に教える場所でもある。",
+      "grammar_ja": "has also been はこれまでの役割の追加。a place to teach ... about ... は不定詞の形容詞用法。such as で例示。",
+      "chunks": [
+        {
+          "text": "It has also been a place to teach new immigrants",
+          "role_ja": "主述",
+          "literal_ja": "それはまた新入移民を教える場所でもある",
+          "note_ja": "a place to do は「〜する場所」。"
+        },
+        {
+          "text": "about Japanese customs, such as garbage collection and Japan's pension system",
+          "role_ja": "内容",
+          "literal_ja": "ごみ収集や年金制度などの日本の習慣について",
+          "note_ja": "teach A about B は teach の重要コロケーション。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"We have always strived to ensure that the mosque serves as a bridge with the local community,\" Ali said.",
+      "translation_ja": "アリは「私たちは常に、モスクが地域社会との架け橋となるよう努めてきた」と述べた。",
+      "grammar_ja": "strive to ensure that ... は努力＋内容節。serve as a bridge は比喩。have always strived は継続的努力。",
+      "chunks": [
+        {
+          "text": "We have always strived to ensure",
+          "role_ja": "主述",
+          "literal_ja": "私たちは常に〜することを確実にしようと努めてきた",
+          "note_ja": "strive to は strive for より目的行動を明示。"
+        },
+        {
+          "text": "that the mosque serves as a bridge with the local community",
+          "role_ja": "目的節",
+          "literal_ja": "モスクが地域社会との架け橋となることを",
+          "note_ja": "serve as は「〜として機能する」。bridge with は双方をつなぐ比喩。"
+        }
+      ],
+      "deep_dive_ja": "serve as a bridge between A and B もよく使う。with は協力関係を強調する選び方。",
+      "difficulty": "medium",
+      "sentence_id": "s015"
+    },
+    {
+      "text": "But intolerance toward Muslims suddenly spiked over the past year.",
+      "translation_ja": "しかし過去1年で、ムスリムへの偏見は突然急増した。",
+      "grammar_ja": "spike は急上昇を表す報道動詞。over the past year は直近1年の期間。",
+      "chunks": [
+        {
+          "text": "intolerance toward Muslims",
+          "role_ja": "主語",
+          "literal_ja": "ムスリムへの偏見が",
+          "note_ja": "intolerance は寛容さの欠如、差別的感情。"
+        },
+        {
+          "text": "suddenly spiked",
+          "role_ja": "述語",
+          "literal_ja": "突然急増した",
+          "note_ja": "spike は株価・犯罪率・偏見などが急上昇する際に使う。"
+        },
+        {
+          "text": "over the past year",
+          "role_ja": "時",
+          "literal_ja": "過去1年で",
+          "note_ja": "over the past year は現在完了と相性がよい期間表現。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"People who don't know each other are causing a commotion on social media,\" said a male university student from Pakistan who had been coming to pray at the mosque.",
+      "translation_ja": "モスクで礼拝に通っていたパキスタン出身の男子大学生は、「互いに知らない人たちがSNSで騒ぎを起こしている」と語った。",
+      "grammar_ja": "who don't know each other は関係節。causing a commotion は騒動を起こす。who had been coming は過去完了進行で継続習慣。",
+      "chunks": [
+        {
+          "text": "People who don't know each other",
+          "role_ja": "主語",
+          "literal_ja": "互いを知らない人々が",
+          "note_ja": "each other は二者・複数間の相互。"
+        },
+        {
+          "text": "are causing a commotion on social media",
+          "role_ja": "述語",
+          "literal_ja": "SNSで騒ぎを起こしている",
+          "note_ja": "cause a commotion / stir は騒動を起こす定型。"
+        },
+        {
+          "text": "a male university student from Pakistan who had been coming to pray at the mosque",
+          "role_ja": "話者",
+          "literal_ja": "モスクに礼拝に来ていたパキスタン出身の男子大学生",
+          "note_ja": "had been coming は当時までの習慣的行為。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"Why is this happening when my friends are so understanding of my faith?\"",
+      "translation_ja": "「友人たちは私の信仰をとても理解してくれているのに、なぜこんなことが起きているのか」",
+      "grammar_ja": "when は「〜なのに」という対比・逆接のニュアンス。understanding of は「〜を理解している」という形容詞＋前置詞。",
+      "chunks": [
+        {
+          "text": "Why is this happening",
+          "role_ja": "疑問文",
+          "literal_ja": "なぜこれが起きているのか",
+          "note_ja": "this はSNS上の騒動・偏見を指す。"
+        },
+        {
+          "text": "when my friends are so understanding of my faith",
+          "role_ja": "対比節",
+          "literal_ja": "友人たちが私の信仰をとても理解しているのに",
+          "note_ja": "when は時間だけでなく「〜というのに」の逆接にもなる。"
+        }
+      ],
+      "deep_dive_ja": "理解している友人がいる現実と、社会全体の敵意とのギャップを when で対比している。understanding of は sympathetic to より穏やか。",
+      "difficulty": "medium",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "A Japanese man of Pakistani descent in his 30s said he is worried that the hostility may escalate into violence.",
+      "translation_ja": "30代のパキスタン系日本人男性は、敵意が暴力へとエスカレートするのではないかと懸念していると語った。",
+      "grammar_ja": "of Pakistani descent は「パキスタン系」。worried that 節。may escalate into は可能性＋段階的悪化。",
+      "chunks": [
+        {
+          "text": "A Japanese man of Pakistani descent in his 30s",
+          "role_ja": "主語",
+          "literal_ja": "30代のパキスタン系の日本人男性が",
+          "note_ja": "of ... descent は血統・出身を示す丁寧な表現。"
+        },
+        {
+          "text": "said he is worried",
+          "role_ja": "述語",
+          "literal_ja": "心配していると語った",
+          "note_ja": "間接話法でも報道では現在形を使うことがある。"
+        },
+        {
+          "text": "that the hostility may escalate into violence",
+          "role_ja": "内容節",
+          "literal_ja": "敵意が暴力へとエスカレートするかもしれないと",
+          "note_ja": "escalate into violence は段階的に暴力へ悪化する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Demand is growing among Muslims across Japan for Islamic burial grounds and halal school meals.",
+      "translation_ja": "日本全国のムスリムの間で、イスラム式の墓地や学校給食のハラール対応への需要が高まっている。",
+      "grammar_ja": "Demand is growing for ... は需要増の定型。among ... across Japan で対象範囲。burial grounds / halal school meals は複合名詞。",
+      "chunks": [
+        {
+          "text": "Demand is growing",
+          "role_ja": "主述",
+          "literal_ja": "需要が高まっている",
+          "note_ja": "demand is growing/rising は経済・社会記事で頻出。"
+        },
+        {
+          "text": "among Muslims across Japan",
+          "role_ja": "範囲",
+          "literal_ja": "日本全国のムスリムの間で",
+          "note_ja": "across Japan は全国的に。"
+        },
+        {
+          "text": "for Islamic burial grounds and halal school meals",
+          "role_ja": "対象",
+          "literal_ja": "イスラム式墓地とハラール学校給食に対する",
+          "note_ja": "halal はイスラム教の戒律に適合した食品。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In Japan, cremation and burial of ashes in Buddhist temple graveyards is the norm.",
+      "translation_ja": "日本では、火葬して寺院の墓地に骨を埋葬するのが一般的だ。",
+      "grammar_ja": "主語は cremation and burial of ashes の名詞句。the norm は「標準・慣習」。",
+      "chunks": [
+        {
+          "text": "cremation and burial of ashes in Buddhist temple graveyards",
+          "role_ja": "主語",
+          "literal_ja": "寺院墓地への火葬と遺骨の埋葬は",
+          "note_ja": "burial of ashes は遺骨を埋葬すること。"
+        },
+        {
+          "text": "is the norm",
+          "role_ja": "述語",
+          "literal_ja": "一般的である",
+          "note_ja": "the norm = what is usual/standard。"
+        }
+      ],
+      "deep_dive_ja": "前文のイスラム式埋葬の需要と対比する一文。文化的差異を簡潔に説明する報道技法。",
+      "difficulty": "medium",
+      "sentence_id": "s021"
+    },
+    {
+      "text": "Michito Ohashi is a visiting researcher at the Aichi Prefectural University institute for multicultural coexistence who specializes in the Muslim community in Japan.",
+      "translation_ja": "大橋道人氏は、愛知県立大学の多文化共生研究所の客員研究員で、日本のムスリムコミュニティを専門としている。",
+      "grammar_ja": "職歴紹介の定型：is a ... at ... who specializes in ...。institute for multicultural coexistence は固有名詞的語群。",
+      "chunks": [
+        {
+          "text": "Michito Ohashi is a visiting researcher",
+          "role_ja": "主述",
+          "literal_ja": "大橋道人は客員研究員である",
+          "note_ja": "visiting researcher は客員・招へい研究員。"
+        },
+        {
+          "text": "at the Aichi Prefectural University institute for multicultural coexistence",
+          "role_ja": "所属",
+          "literal_ja": "愛知県立大学多文化共生研究所の",
+          "note_ja": "institute for ... は〜研究所。"
+        },
+        {
+          "text": "who specializes in the Muslim community in Japan",
+          "role_ja": "関係節",
+          "literal_ja": "日本のムスリム社会を専門とする",
+          "note_ja": "specialize in は専門分野を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"There is a tendency for local issues to be widely shared on social media, which makes it easier for anxiety to spread,\" said Ohashi.",
+      "translation_ja": "大橋氏は「地域の問題がSNSで広く共有される傾向があり、それが不安の拡散を容易にしている」と述べた。",
+      "grammar_ja": "There is a tendency for ... to ... の形式。which 節は非制限的関係節。make it easier for ... to spread は make + O + C 構文。",
+      "chunks": [
+        {
+          "text": "There is a tendency for local issues to be widely shared on social media",
+          "role_ja": "引用主部",
+          "literal_ja": "地域問題がSNSで広く共有される傾向がある",
+          "note_ja": "tendency for A to B は「AがBする傾向」。"
+        },
+        {
+          "text": "which makes it easier for anxiety to spread",
+          "role_ja": "関係節",
+          "literal_ja": "それが不安の拡散を容易にする",
+          "note_ja": "make it + 形容詞 + for ... to ... は難しいが重要な型。"
+        }
+      ],
+      "deep_dive_ja": "専門家コメントでは There is a tendency for ... という客観的・慎重な言い方が好まれる。",
+      "difficulty": "hard",
+      "sentence_id": "s023"
+    },
+    {
+      "text": "He stressed that while laws and ordinances regulating hate speech have had some effect, they have not been sufficiently effective as a deterrent.",
+      "translation_ja": "彼は、ヘイトスピーチを規制する法律や条例は一定の効果はあったものの、抑止力としては十分ではないと強調した。",
+      "grammar_ja": "stressed that で主張。while は譲歩「〜ではあるが」。as a deterrent は「抑止力として」。sufficiently effective は程度副詞＋形容詞。",
+      "chunks": [
+        {
+          "text": "laws and ordinances regulating hate speech",
+          "role_ja": "主語",
+          "literal_ja": "ヘイトスピーチを規制する法律・条例は",
+          "note_ja": "regulating は現在分詞の後置修飾。ordinance は条例。"
+        },
+        {
+          "text": "have had some effect",
+          "role_ja": "譲歩節の述語",
+          "literal_ja": "一定の効果はあった",
+          "note_ja": "have an effect は効果がある。"
+        },
+        {
+          "text": "they have not been sufficiently effective as a deterrent",
+          "role_ja": "主節",
+          "literal_ja": "抑止力としては十分に有効ではない",
+          "note_ja": "deterrent は抑止するもの。deterrent effect もよく使う。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "\"It's important for the local community to engage with Muslims not based on their identity as Muslims but as individuals,\" he said.",
+      "translation_ja": "彼は「地域社会がムスリムと向き合う際、ムスリムというアイデンティティではなく、個人として接することが重要だ」と述べた。",
+      "grammar_ja": "It's important for A to do B。engage with は「関わる・接する」。not A but B の対比。based on は「〜に基づいて」。",
+      "chunks": [
+        {
+          "text": "It's important for the local community to engage with Muslims",
+          "role_ja": "主部",
+          "literal_ja": "地域社会がムスリムと向き合うことは重要である",
+          "note_ja": "engage with は interact with より積極的な関与を示す。"
+        },
+        {
+          "text": "not based on their identity as Muslims but as individuals",
+          "role_ja": "修飾・対比",
+          "literal_ja": "ムスリムというアイデンティティではなく個人として",
+          "note_ja": "not based on ... but (based on) as ... の省略対比。"
+        }
+      ],
+      "deep_dive_ja": "政策・共生の議論で identity as X vs as individuals の対比は頻出。学習者は engage with と based on をセットで覚えるとよい。",
+      "difficulty": "hard",
+      "sentence_id": "s025"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "intolerance",
+      "pronunciation": "/ɪnˈtɒlərəns/",
+      "meaning_ja": "偏見、寛容さの欠如、不寛容",
+      "example": "intolerance toward Muslims suddenly spiked",
+      "example_ja": "ムスリムへの偏見が突然急増した",
+      "source_sentence_id": "s016"
+    },
+    {
+      "word": "barrage",
+      "pronunciation": "/bəˈrɑːʒ/",
+      "meaning_ja": "集中攻撃、殺到（比喩的）",
+      "example": "a barrage of abusive phone calls and emails",
+      "example_ja": "罵倒的な電話やメールの殺到",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "misinformation",
+      "pronunciation": "/ˌmɪsɪnfəˈmeɪʃn/",
+      "meaning_ja": "誤情報（意図的でない誤った情報）",
+      "example": "Misinformation and hate speech are spreading",
+      "example_ja": "誤情報とヘイトスピーチが広がっている",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "harassment",
+      "pronunciation": "/həˈræsmənt/",
+      "meaning_ja": "嫌がらせ、ハラスメント",
+      "example": "protests and harassment have arisen",
+      "example_ja": "抗議と嫌がらせが起きている",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "escalate",
+      "pronunciation": "/ˈeskəleɪt/",
+      "meaning_ja": "エスカレートする、段階的に悪化する",
+      "example": "the hostility may escalate into violence",
+      "example_ja": "敵意が暴力へとエスカレートするかもしれない",
+      "source_sentence_id": "s019"
+    },
+    {
+      "word": "deterrent",
+      "pronunciation": "/dɪˈterənt/",
+      "meaning_ja": "抑止力、抑止するもの",
+      "example": "not been sufficiently effective as a deterrent",
+      "example_ja": "抑止力として十分ではない",
+      "source_sentence_id": "s024"
+    },
+    {
+      "word": "halal",
+      "pronunciation": "/həˈlɑːl/",
+      "meaning_ja": "ハラール（イスラム教の戒律に適合した）",
+      "example": "demand for halal school meals",
+      "example_ja": "ハラール対応の学校給食への需要",
+      "source_sentence_id": "s020"
+    },
+    {
+      "word": "pseudonym",
+      "pronunciation": "/ˈsuːdənɪm/",
+      "meaning_ja": "仮名、ペンネーム",
+      "example": "said Ali, a pseudonym",
+      "example_ja": "アリ（仮名）は語った",
+      "source_sentence_id": "s010"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "present-perfect-progressive-duration",
+      "title": "Present Perfect Progressive (継続)",
+      "rule": "Since/For + have/has been + -ing expresses an action that started in the past and continues to the present.",
+      "example": "Since last year, he has been receiving five to 10 phone calls a day.",
+      "meaning_ja": "Since last year などと組み合わせ、過去から現在まで続く行為や反復を表す。単純現在完了より継続感・反復感が強い。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "According to + source",
+      "rule": "Use 'according to' to attribute information to a person, study, or organization.",
+      "example": "according to observers and community members",
+      "meaning_ja": "情報の出所を示す報道の定型表現。「〜によれば」で訳す。文頭・文末どちらにも置ける。"
+    },
+    {
+      "id": "not-a-but-b-contrast",
+      "title": "not A but B (対比)",
+      "rule": "Use 'not ... but ...' to contrast two ways of thinking, acting, or categorizing.",
+      "example": "not based on their identity as Muslims but as individuals",
+      "meaning_ja": "「AではなくB」という対比。ここでは宗教ラベルではなく個人として見るべきだという主張を際立たせる。"
+    },
+    {
+      "id": "as-if-past-perfect",
+      "title": "as if + past perfect",
+      "rule": "Use 'as if' + past perfect to describe something that did not literally happen, for vivid comparison.",
+      "example": "as if it had just exploded out of nowhere",
+      "meaning_ja": "現実とは異なる仮定的な比喩を表す。まるで〜したかのように、という強い印象を与える。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 25,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:34:30+09:00"
+  },
+  "article_id": "japantoday:2026-06-04:japanese-intolerance-of-muslims-increase"
+}

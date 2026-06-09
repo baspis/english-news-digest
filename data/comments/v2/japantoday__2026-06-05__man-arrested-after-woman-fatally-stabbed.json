@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-05:man-arrested-after-woman-fatally-stabbed",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:37:09+09:00",
+  "fetched_at": "2026-06-09T22:40:53+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "@sakurasuki Don't jump to conclusions!!",
+      "translation_ja": "「@sakurasuki すぐに決めつけるなよ！！」",
+      "notes_ja": [
+        "先頭の @名前 はSNSで特定の人に返信している印。",
+        "!! は怒りや強い注意を込めた強調。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5226496,
+      "author": "dan",
+      "rating": 15,
+      "posted_at": "2026-06-05T08:03:07+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Sounds like blind love of one couple went wrong, not just a random attack. Take it easy, Shakespeare.. LOL",
+      "translation_ja": "ただの無差別攻撃というより、あるカップルの盲目的な愛が行き過ぎた感じだね。落ち着けよ、シェイクスピア…笑",
+      "notes_ja": [
+        "Take it easy, Shakespeare は「大げさだよ／芝居が過ぎるよ」とからかう口語。",
+        "LOL はネットスラングで「笑」。末尾の .. は口語の間。"
+      ],
+      "standard_en": "It sounds like one couple's blind love went wrong, not just a random attack. Calm down, Shakespeare.",
+      "marked_terms": [
+        {
+          "term": "LOL",
+          "symbol": "◇",
+          "note_ja": "ネット上のカジュアルな笑いの表現。フォーマルな文章では使わない。"
+        }
+      ],
+      "comment_id": 5226678,
+      "author": "TokyoLiving",
+      "rating": 11,
+      "posted_at": "2026-06-05T09:26:29+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Jail and deport, (maybe gallows??).. Careful Japan, look Europe madness..",
+      "translation_ja": "投獄して国外退去（ひょっとしたら絞首刑？？）…日本、気をつけろ。ヨーロッパの狂気を見ろ…",
+      "notes_ja": [
+        "文が短く切れており、冠詞や前置詞が抜けた断片的な書き方。",
+        "look Europe madness は look at Europe's madness の省略・誤用に近い口語。"
+      ],
+      "standard_en": "Jail and deport them (maybe the gallows??). Be careful, Japan—look at Europe's madness.",
+      "marked_terms": [],
+      "comment_id": 5226675,
+      "author": "TokyoLiving",
+      "rating": 4,
+      "posted_at": "2026-06-05T09:25:57+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Mmmm , very sad to hear the lady died.",
+      "translation_ja": "うーん、その女性が亡くなったと聞いてとても悲しい。",
+      "notes_ja": [
+        "Mmmm は考えたり同情したりする際の相づち。",
+        "the lady died は that the lady died が省略された口語的言い方。"
+      ],
+      "standard_en": "Mmm, it is very sad to hear that the lady died.",
+      "marked_terms": [],
+      "comment_id": 5226959,
+      "author": "bo",
+      "rating": 2,
+      "posted_at": "2026-06-05T11:24:07+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Arrested for attempted murder of a woman who died?",
+      "translation_ja": "亡くなった女性に対する殺人未遂で逮捕？",
+      "notes_ja": [
+        "主語・助動詞を省いた短い疑問文（見出し調）。",
+        "attempted murder と死亡事実の矛盾を突いている。"
+      ],
+      "standard_en": "Was he arrested for attempted murder of a woman who died?",
+      "marked_terms": [],
+      "comment_id": 5227217,
+      "author": "Gobshite",
+      "rating": 1,
+      "posted_at": "2026-06-05T15:30:06+09:00"
+    }
+  ]
+}

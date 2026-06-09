@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-05:american-college-student-missing-in-kyot",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-10T22:37:09+09:00",
+  "fetched_at": "2026-06-09T22:41:41+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I'm not going to speculate. Hope all is well.",
+      "translation_ja": "憶測はしない。無事であることを願う。",
+      "notes_ja": [
+        "2文目 \"Hope all is well.\" は主語 \"I\" が省略された願望表現（口語・書き込みでよくある）。",
+        "\"speculate\" は根拠のない推測をすること。"
+      ],
+      "standard_en": "I'm not going to speculate. I hope all is well.",
+      "marked_terms": [],
+      "comment_id": 5227189,
+      "author": "Negative Nancy",
+      "rating": 10,
+      "posted_at": "2026-06-05T15:03:00+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "anything is possible. lets hope guy will be found alive and well.",
+      "translation_ja": "何が起きてもおかしくない。彼が無事に見つかることを願おう。",
+      "notes_ja": [
+        "文頭が小文字、\"lets\" は \"let's\" の省略形（アポストロフィなしのカジュアル表記）。",
+        "\"guy\" の前の冠詞 \"the/a\" が省略されている口語用法。"
+      ],
+      "standard_en": "Anything is possible. Let's hope the guy will be found alive and well.",
+      "marked_terms": [],
+      "comment_id": 5227196,
+      "author": "IVO",
+      "rating": 10,
+      "posted_at": "2026-06-05T15:10:21+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "hope he is fine",
+      "translation_ja": "彼が大丈夫だといいな。",
+      "notes_ja": [
+        "主語 \"I\" を省略した短い願いの文。SNSコメントで非常に一般的。",
+        "句読点なしの一行コメント。"
+      ],
+      "standard_en": "I hope he is fine.",
+      "marked_terms": [],
+      "comment_id": 5227245,
+      "author": "Hideyoshi.N",
+      "rating": 7,
+      "posted_at": "2026-06-05T16:00:27+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "nickybuttToday 03:55 pm JST He is also went to a hardware store and bought some \"worrying items\" before he went missing. I don't have a good feeling about this one. What \"worrying items\" did he purchase at the hardware store?? As far as I am aware, neither the police nor Japanese media have publically disclosed what items he purchased.",
+      "translation_ja": "nickybuttToday 03:55 pm JST 彼は行方不明になる前に、ホームセンターに行って「心配な品物」をいくつか買ったそうだ。今回の件は良い予感がしない。「心配な品物」とは一体何を買ったのか？？ 私の知る限り、警察も日本のメディアも、彼が購入した品物について公表していない。",
+      "notes_ja": [
+        "\"He is also went\" は文法的に誤り（正しくは \"He also went\"）。引用・転記ミスの可能性。",
+        "\"publically\" は \"publicly\" のスペルミス。\"??\" は強調の二重疑問符。"
+      ],
+      "standard_en": "nickybuttToday 03:55 pm JST He also went to a hardware store and bought some \"worrying items\" before he went missing. I don't have a good feeling about this one. What \"worrying items\" did he purchase at the hardware store? As far as I am aware, neither the police nor Japanese media have publicly disclosed what items he purchased.",
+      "marked_terms": [],
+      "comment_id": 5227377,
+      "author": "OssanAmerica",
+      "rating": 7,
+      "posted_at": "2026-06-05T20:52:56+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature, he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone cuz it eats up battery and he's in the middle of a forest with no outlets around. He figured with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.",
+      "translation_ja": "今のところの最有力説は、家族がAIで旅程を組んだことに腹を立て、自然の中で一人旅することにした、というものだ。彼自身はソロのアドベンチャー旅行の経験がある。ホームセンターで基本的なキャンプ用品を買い、森へ向かったのは確認されている。森の真ん中でコンセントもないのに、位置情報はバッテリーを食うからオフにしたのだろう。今の日本は気温も快適なので、数日ソロキャンプするのは比較的簡単だと考えたのではないか。",
+      "notes_ja": [
+        "2文目は comma splice（コンマで独立した文をつなげている）口語的な書き方。",
+        "\"cuz\" は \"because\" のカジュアル省略形。\"go solo\" \"eats up battery\" も口語表現。"
+      ],
+      "standard_en": "My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature; he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone because it eats up battery, and he's in the middle of a forest with no outlets around. He figured that with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.",
+      "marked_terms": [
+        {
+          "term": "cuz",
+          "symbol": "◇",
+          "note_ja": "because の口語・チャット省略形。フォーマルな文章や丁寧な会話では使わない。"
+        }
+      ],
+      "comment_id": 5227429,
+      "author": "JeffLee",
+      "rating": 7,
+      "posted_at": "2026-06-05T22:55:58+09:00"
+    }
+  ]
+}

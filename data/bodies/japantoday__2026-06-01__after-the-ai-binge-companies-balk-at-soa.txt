@@ -1,0 +1,22 @@
+Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology.
+Playing by a well-worn Silicon Valley playbook, AI companies charged rock-bottom prices to hook customers after ChatGPT burst onto the scene.
+Kevin Simback of startup incubator Delphi Labs calls it the era of "subsidized intelligence" -- meaning investors were basically footing the bill so companies could offer AI on the cheap.
+"But the tides are beginning to turn," Simback warned and an era where the big AI companies actually need to make money has begun -- with leaders OpenAI and Anthropic looking to go public and attract main street investors later this year.
+Prices are rising across the board, and one big reason is AI agents.
+Unlike a chatbot that just answers questions, agents actually do things -- book appointments, write code, manage files. And they're expensive to run, because one task can spin up dozens of agents all working at once, each racking up charges.
+Those charges are measured in tokens -- the basic unit AI companies use to bill customers. A single agent-powered task can burn through dozens of times' more tokens than a simple chat message.
+Meanwhile, the computer chips and data centers needed to power all this AI can't keep up with demand, creating computing shortages and adding further uncertainty to the nascent industry.
+"Especially in developer circles, the cost to use AI for things like coding has grown exponentially," said Mark Barton of tech consultancy Omniux. "All the costs are really starting to skyrocket."
+Some companies have been so eager to use AI that they've gone overboard in a usage binge called "tokenmaxxing."
+"In some cases people are seeing the cost of tokens exceed the cost of the employee within a month or two of use, just because they're using it too much," says analyst Jack Gold of J.Gold Associates.
+Even Meta -- which earlier this year encouraged employees to use as many tokens as possible as a measure of productivity -- has had second thoughts.
+"Nobody should be using AI tools just for the sake of using them," chief technology officer Andrew Bosworth wrote in a memo to staff, reported by the Wall Street Journal.
+Uber's chief operating officer this week went a step further, raising eyebrows by saying all this AI spending was showing no noticeable increase in productivity.
+To cut costs, some companies are switching to free, open-source AI models that anyone can download -- not as powerful as ChatGPT or Anthropic's Claude, but good enough for many tasks.
+Others are moving to smaller, more specialized models built for specific industries like real estate or finance, rather than giant general-purpose ones.
+And some are simply breaking big AI tasks into smaller steps, handing each piece to the cheapest model that can handle it.
+The price difference can be dramatic.
+"The big large monolithic model, it's $15 per million tokens, but you can get that down to like five cents if you use the smaller mini model," says Adrian Balfour of consultancy Enverso.
+All of this points to AI becoming more like a commodity -- where the specific model matters less than finding the right one at the right price.
+But don't count out the big players and their state-of-the-art models just yet.
+"The most advanced users" will always be willing to pay for the best, says John Belton, a portfolio manager at Gabelli Funds. "It's a growing pie."

@@ -1,0 +1,1315 @@
+{
+  "summary_ja": "英国政府が月曜日に公開したマンデルソン駐米大使起用に関する1500ページ超の文書は、エプスタインとの関係やセキュリティ審査の問題を浮き彫りにし、スターマー首相の判断を追い詰めている。当初はトランプ政権との関係構築に有効と見られた起用だったが、数か月で事態は一変し、野党や党内から辞任要求が強まっている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Peter Mandelson assured the British government it would “never regret” appointing him as UK ambassador to the United States, according to documents released on Monday.",
+      "translation_ja": "月曜日に公開された文書によると、ピーター・マンデルソンは英国政府に対し、自分を駐米英国大使に任命しても「決して後悔しない」と保証していた。",
+      "grammar_ja": "assured + 間接話法（it would never regret）の構文。according to documents released on Monday は文末の出典表現で、ニュース記事でよく使われる。",
+      "chunks": [
+        {
+          "text": "Peter Mandelson",
+          "role_ja": "主語",
+          "literal_ja": "ピーター・マンデルソンが",
+          "note_ja": "英国の元閣僚で、今回の論点の中心人物。"
+        },
+        {
+          "text": "assured the British government",
+          "role_ja": "述語",
+          "literal_ja": "英国政府に保証した",
+          "note_ja": "assure は「確信を与える・保証する」。news style では公式発言の再現に使われる。"
+        },
+        {
+          "text": "it would “never regret” appointing him",
+          "role_ja": "目的語節",
+          "literal_ja": "彼を任命することを決して後悔しないだろうと",
+          "note_ja": "regret + -ing は「〜したことを後悔する」。would は当時の未来・約束のニュアンス。"
+        },
+        {
+          "text": "as UK ambassador to the United States",
+          "role_ja": "補足",
+          "literal_ja": "駐米英国大使として",
+          "note_ja": "appoint A as B の as は役職を示す。"
+        },
+        {
+          "text": "according to documents released on Monday",
+          "role_ja": "修飾語",
+          "literal_ja": "月曜日に公開された文書によれば",
+          "note_ja": "過去分詞 released が documents を後置修飾。"
+        }
+      ],
+      "deep_dive_ja": "「never regret」は強い自信の表明だが、直後の文でその約束が覆される構成は、記事の皮肉を際立たせる手法です。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "His pledge was dramatically proven wrong within months.",
+      "translation_ja": "その誓約は、わずか数か月のうちに劇的に裏切られる形となった。",
+      "grammar_ja": "受動態 was proven wrong。within months は「数か月以内に」という短期間を強調。",
+      "chunks": [
+        {
+          "text": "His pledge",
+          "role_ja": "主語",
+          "literal_ja": "その誓約は",
+          "note_ja": "pledge は promise より formal。"
+        },
+        {
+          "text": "was dramatically proven wrong",
+          "role_ja": "述語",
+          "literal_ja": "劇的に間違いだと証明された",
+          "note_ja": "prove wrong = 誤りだと判明する。dramatically でニュース的な強調。"
+        },
+        {
+          "text": "within months",
+          "role_ja": "時間の副詞句",
+          "literal_ja": "数か月以内に",
+          "note_ja": "within + 期間 で「〜以内に」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s002",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "More than 1,500 pages of files relating to the appointment of Mandelson, a friend of convicted sex offender Jeffrey Epstein, as envoy to Washington at the start of U.S.",
+      "translation_ja": "有罪となった性犯罪者ジェフリー・エプスタインの友人であるマンデルソンの、トランプ米大統領第二期の始まりにワシントンへの特使として起用された件に関する1500ページを超えるファイルが、",
+      "grammar_ja": "長い名詞句の連鎖。relating to, a friend of..., as envoy to... が files を修飾。文は次の文と続く。",
+      "chunks": [
+        {
+          "text": "More than 1,500 pages of files",
+          "role_ja": "主語",
+          "literal_ja": "1500ページを超えるファイルが",
+          "note_ja": "more than で数量の上限を示す。"
+        },
+        {
+          "text": "relating to the appointment of Mandelson",
+          "role_ja": "後置修飾",
+          "literal_ja": "マンデルソンの起用に関する",
+          "note_ja": "relating to = concerning。"
+        },
+        {
+          "text": "a friend of convicted sex offender Jeffrey Epstein",
+          "role_ja": "同格",
+          "literal_ja": "有罪となった性犯罪者エプスタインの友人である（マンデルソン）",
+          "note_ja": "convicted sex offender は報道で人物の背景を示す定型表現。"
+        },
+        {
+          "text": "as envoy to Washington at the start of U.S.",
+          "role_ja": "補足",
+          "literal_ja": "米国の（政権）始まりにワシントンへの特使として",
+          "note_ja": "envoy は ambassador より広い「使節」。文は途中で切れている。"
+        }
+      ],
+      "deep_dive_ja": "同格の挿入句でエプスタインとの関係を強調するのは、読者にスキャンダルの文脈を即座に思い出させる報道技法です。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "President Donald Trump's second term were released by the government to comply with a demand by lawmakers.",
+      "translation_ja": "ドナルド・トランプ大統領第二期の始まりに関するそれらは、議員らの要求に応えるため、政府によって公開された。",
+      "grammar_ja": "前の文の続き。主語は files（複数）なので were released。to comply with a demand は目的を示す不定詞。",
+      "chunks": [
+        {
+          "text": "President Donald Trump's second term",
+          "role_ja": "修飾語",
+          "literal_ja": "ドナルド・トランプ大統領の第二期",
+          "note_ja": "前の文の at the start of U.S. とつながる。"
+        },
+        {
+          "text": "were released by the government",
+          "role_ja": "述語",
+          "literal_ja": "政府によって公開された",
+          "note_ja": "受動態で「誰が公開したか」を明示。"
+        },
+        {
+          "text": "to comply with a demand by lawmakers",
+          "role_ja": "目的",
+          "literal_ja": "議員らの要求に従うために",
+          "note_ja": "comply with = 〜に従う・応える。lawmakers は議員。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "They shed new light on the contentious decision and heap more embarrassment on beleaguered Prime Minister Keir Starmer.",
+      "translation_ja": "それらは物議を醸したこの決定について新たな光を当て、窮地に立つキア・スターマー首相にさらなる恥をもたらしている。",
+      "grammar_ja": "shed light on（明らかにする）と heap embarrassment on（恥を積み重ねる）の並列。beleaguered は「四面楚歌の」。",
+      "chunks": [
+        {
+          "text": "They",
+          "role_ja": "主語",
+          "literal_ja": "それらは",
+          "note_ja": "files を指す。"
+        },
+        {
+          "text": "shed new light on the contentious decision",
+          "role_ja": "述語1",
+          "literal_ja": "物議を醸した決定に新たな光を当てる",
+          "note_ja": "shed light on = 新情報で明らかにする。contentious = 論争の的。"
+        },
+        {
+          "text": "heap more embarrassment on beleaguered Prime Minister Keir Starmer",
+          "role_ja": "述語2",
+          "literal_ja": "窮地のスターマー首相にもっと恥を積み重ねる",
+          "note_ja": "heap A on B。beleaguered = 攻撃・批判にさらされている。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Among the documents is a note from Mandelson to then Foreign Secretary David Lammy in November 2024, before his appointment, pledging that the government would “never regret” giving him the post.",
+      "translation_ja": "文書の中には、2024年11月、自身の任命前に、当時の外相デビッド・ラミー宛てにマンデルソンが送ったメモがあり、政府が彼にその職を与えても「決して後悔しない」と誓っていた。",
+      "grammar_ja": "倒置構文 Among the documents is a note...。pledging は付帯状況。then Foreign Secretary は「当時の外相」。",
+      "chunks": [
+        {
+          "text": "Among the documents is a note",
+          "role_ja": "主部（倒置）",
+          "literal_ja": "文書の中にメモがある",
+          "note_ja": "場所を前に出す倒置で、発見・注目を強調。"
+        },
+        {
+          "text": "from Mandelson to then Foreign Secretary David Lammy",
+          "role_ja": "修飾",
+          "literal_ja": "マンデルソンから当時の外相ラミーへ",
+          "note_ja": "then = 当時の（現職ではない）。"
+        },
+        {
+          "text": "in November 2024, before his appointment",
+          "role_ja": "時間",
+          "literal_ja": "2024年11月、彼の任命前に",
+          "note_ja": "his は Mandelson を指す。"
+        },
+        {
+          "text": "pledging that the government would “never regret” giving him the post",
+          "role_ja": "付帯状況",
+          "literal_ja": "政府が彼にその職を与えても後悔しないと誓いながら",
+          "note_ja": "give someone the post = 職を与える。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s006",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Starmer fired Mandelson after nine months when new details emerged about his friendship with Epstein, and fallout from the misjudged appointment has left the prime minister fighting for his job.",
+      "translation_ja": "エプスタインとの交友関係に関する新たな詳細が明らかになったのを受け、スターマーは9か月後にマンデルソンを解任した。誤った判断による起用の余波は、首相を自身の地位を守る戦いに追い込んでいる。",
+      "grammar_ja": "and で2つの独立節。has left + O + -ing（結果として〜させた）。fighting for his job は慣用表現。",
+      "chunks": [
+        {
+          "text": "Starmer fired Mandelson after nine months",
+          "role_ja": "節1・主述",
+          "literal_ja": "スターマーは9か月後にマンデルソンを解雇した",
+          "note_ja": "fire = 解任する（news style）。"
+        },
+        {
+          "text": "when new details emerged about his friendship with Epstein",
+          "role_ja": "時間節",
+          "literal_ja": "エプスタインとの交友の新詳細が浮上したとき",
+          "note_ja": "emerge = 明らかになる。"
+        },
+        {
+          "text": "fallout from the misjudged appointment",
+          "role_ja": "主語",
+          "literal_ja": "誤判断による起用の余波は",
+          "note_ja": "fallout = 悪影響・余波。misjudged = 判断を誤った。"
+        },
+        {
+          "text": "has left the prime minister fighting for his job",
+          "role_ja": "述語",
+          "literal_ja": "首相を職を守る戦いに追い込んだ",
+          "note_ja": "leave + 人 + -ing = 〜の状態にさせた。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Alex Burghart, a lawmaker for the opposition Conservative Party, said that the decision to appoint Mandelson \"is a failure that will define this prime minister’s premiership.",
+      "translation_ja": "野党・保守党の議員アレックス・バーガートは、マンデルソンを任命した決定は「この首相の政権を定義づける失敗だ」と述べた。",
+      "grammar_ja": "同格 a lawmaker for...。that 関係代名詞節で failure を修飾。premiership は「首相在任期・政権」。",
+      "chunks": [
+        {
+          "text": "Alex Burghart, a lawmaker for the opposition Conservative Party",
+          "role_ja": "主語",
+          "literal_ja": "野党保守党の議員バーガートは",
+          "note_ja": "opposition = 野党。lawmaker = 議員（米国では legislator も可）。"
+        },
+        {
+          "text": "said that the decision to appoint Mandelson",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "マンデルソン任命の決定は…だと言った",
+          "note_ja": "the decision to appoint = 任命という決定。"
+        },
+        {
+          "text": "is a failure that will define this prime minister’s premiership",
+          "role_ja": "内容節",
+          "literal_ja": "この首相の政権を定義する失敗である",
+          "note_ja": "define one's premiership = 在任を象徴する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“It is a failure that will be written as his political epitaph,” he said.",
+      "translation_ja": "「それは彼の政治的な碑文として書き記される失敗だ」と彼は言った。",
+      "grammar_ja": "epitaph（碑文）は比喩。that 節は受動の未来 will be written。",
+      "chunks": [
+        {
+          "text": "It is a failure",
+          "role_ja": "主部",
+          "literal_ja": "それは失敗だ",
+          "note_ja": "前の発言を受けた強調。"
+        },
+        {
+          "text": "that will be written as his political epitaph",
+          "role_ja": "関係節",
+          "literal_ja": "彼の政治的碑文として書かれる",
+          "note_ja": "epitaph = 墓に刻む碑文→遺産・評価の比喩。"
+        },
+        {
+          "text": "he said",
+          "role_ja": "付加節",
+          "literal_ja": "彼は言った",
+          "note_ja": "直接話法の後に he said を置く報道の定型。"
+        }
+      ],
+      "deep_dive_ja": "political epitaph は政治家の評価を歴史に残す比喩で、野党の攻撃として非常に強い表現です。",
+      "difficulty": "medium",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "A first trove of files published in March revealed ministers had been warned that Mandelson’s friendship with Epstein exposed the government to “reputational risk.”",
+      "translation_ja": "3月に公開された最初の一連のファイルは、閣僚らがマンデルソンとエプスタインの交友が政府を「評判上のリスク」にさらすと警告されていたことを明らかにした。",
+      "grammar_ja": "trove = 宝物の山→大量の文書。expose A to B（AをBにさらす）。had been warned は過去完了受動。",
+      "chunks": [
+        {
+          "text": "A first trove of files published in March",
+          "role_ja": "主語",
+          "literal_ja": "3月に公開された最初のファイル群は",
+          "note_ja": "trove は報道で「大量の新資料」に使われる。"
+        },
+        {
+          "text": "revealed ministers had been warned",
+          "role_ja": "述語",
+          "literal_ja": "閣僚が警告されていたことを明らかにした",
+          "note_ja": "間接話法で内容を続ける。"
+        },
+        {
+          "text": "that Mandelson’s friendship with Epstein exposed the government to “reputational risk.”",
+          "role_ja": "内容節",
+          "literal_ja": "マンデルソンのエプスタインとの交友が政府を評判リスクにさらすと",
+          "note_ja": "expose to risk はビジネス・政治記事の頻出コロケーション。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s010",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It was later disclosed that Mandelson had been approved for the ambassador’s job despite failing security checks, a revelation that sparked bitter blame-trading between Starmer and senior civil servants.",
+      "translation_ja": "その後、マンデルソンがセキュリティ審査に不合格だったにもかかわらず大使職に承認されていたことが明らかになり、この事実はスターマーと上級官僚との間で激しい責任のなすり合いを引き起こした。",
+      "grammar_ja": "It was disclosed that... の形式。despite + -ing。blame-trading は責任の押し付け合い。",
+      "chunks": [
+        {
+          "text": "It was later disclosed that",
+          "role_ja": "形式主語構文",
+          "literal_ja": "その後明らかになったのは",
+          "note_ja": "disclose = 公表する・暴露する（formal）。"
+        },
+        {
+          "text": "Mandelson had been approved for the ambassador’s job despite failing security checks",
+          "role_ja": "内容節",
+          "literal_ja": "マンデルソンは審査不合格にもかかわらず大使に承認されていた",
+          "note_ja": "despite failing = 不合格という事実にもかかわらず。"
+        },
+        {
+          "text": "a revelation that sparked bitter blame-trading",
+          "role_ja": "同格",
+          "literal_ja": "激しい責任のなすり合いを引き起こした暴露として",
+          "note_ja": "spark = 引き起こす。blame-trading は報道造語。"
+        },
+        {
+          "text": "between Starmer and senior civil servants",
+          "role_ja": "修飾",
+          "literal_ja": "スターマーと上級官僚の間で",
+          "note_ja": "civil servants = 官僚（英国の常任公務員）。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The files released Monday show officials from multiple departments discussing Mandelson’s security vetting, a process that National Security Adviser Jonathan Powell described in previously released files as “weirdly rushed.”",
+      "translation_ja": "月曜日に公開されたファイルは、複数の省庁の官僚がマンデルソンのセキュリティ審査について議論している様子を示しており、国家安全保障顧問ジョナサン・パウエルは以前公開されたファイルの中で、そのプロセスを「奇妙に急がせた」と述べていた。",
+      "grammar_ja": "show + O + -ing（〜している様子を示す）。a process that... は vetting の同格説明。",
+      "chunks": [
+        {
+          "text": "The files released Monday show",
+          "role_ja": "主述",
+          "literal_ja": "月曜公開のファイルは示している",
+          "note_ja": "released Monday = 月曜に公開された（後置修飾）。"
+        },
+        {
+          "text": "officials from multiple departments discussing Mandelson’s security vetting",
+          "role_ja": "目的語",
+          "literal_ja": "複数省庁の官僚が審査について議論している様子を",
+          "note_ja": "vetting = 身元・安全審査。"
+        },
+        {
+          "text": "a process that National Security Adviser Jonathan Powell described ... as “weirdly rushed.”",
+          "role_ja": "同格",
+          "literal_ja": "パウエルが…奇妙に急がせたと描写したプロセスとして",
+          "note_ja": "describe A as B の構文。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "One senior Foreign Office official said the primary issue was “trying to get 101 things done in a very short period of time.”",
+      "translation_ja": "外務省の上級官僚の一人は、主な問題は「非常に短い期間に101のことをこなそうとしていたこと」だと述べた。",
+      "grammar_ja": "the primary issue was + 動名詞。101 things は「あまりに多くのこと」の慣用表現。",
+      "chunks": [
+        {
+          "text": "One senior Foreign Office official",
+          "role_ja": "主語",
+          "literal_ja": "外務省の上級官僚の一人は",
+          "note_ja": "Foreign Office = 英国外務省。"
+        },
+        {
+          "text": "said the primary issue was",
+          "role_ja": "述語",
+          "literal_ja": "主な問題は…だったと言った",
+          "note_ja": "間接話法で引用内容を続ける。"
+        },
+        {
+          "text": "“trying to get 101 things done in a very short period of time.”",
+          "role_ja": "内容",
+          "literal_ja": "「非常に短時間に101のことをやろうとしていた」",
+          "note_ja": "101 things = やることが多すぎる（英語の慣用）。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In one email, Mandelson asked vetting officials if he needed to tell them about “literally every foreign national I have ever met.” A Foreign Office official suggested he \"send over the handful of names you mentioned. ...",
+      "translation_ja": "あるメールで、マンデルソンは審査担当者に、「出会ったことのある外国人は文字通り全員報告する必要があるのか」と尋ねた。外務省の官僚は彼に「言及した数名の名前を送ってくれればいい」と提案した…。",
+      "grammar_ja": "asked if... の間接疑問文。literally は強調。send over = 送る（口語的）。",
+      "chunks": [
+        {
+          "text": "Mandelson asked vetting officials if he needed to tell them about",
+          "role_ja": "主述",
+          "literal_ja": "マンデルソンは審査官に…報告する必要があるか尋ねた",
+          "note_ja": "vetting officials = 審査担当者。"
+        },
+        {
+          "text": "“literally every foreign national I have ever met.”",
+          "role_ja": "間接疑問の内容",
+          "literal_ja": "「出会った外国人は文字通り全員」",
+          "note_ja": "literally で誇張的強調。現在完了 have ever met。"
+        },
+        {
+          "text": "A Foreign Office official suggested he \"send over the handful of names you mentioned.",
+          "role_ja": "主述",
+          "literal_ja": "外務省官僚は数名の名前を送るよう提案した",
+          "note_ja": "suggest + 原形（仮定法的新用法）。handful of = 少数の。"
+        }
+      ],
+      "deep_dive_ja": "審査の形骸化を示すやり取りで、記事は政府の対応を批判的に描いています。",
+      "difficulty": "hard",
+      "sentence_id": "s014"
+    },
+    {
+      "text": "That will reassure the vetting team that you’ve been comprehensive, even if it’s all quite artificial.”",
+      "translation_ja": "「それで審査チームには、たとえかなり形式的でも、あなたが十分に開示したと安心させられるだろう」と。",
+      "grammar_ja": "reassure A that B。even if で譲歩。comprehensive = 包括的な。artificial = 形式的・作為的。",
+      "chunks": [
+        {
+          "text": "That will reassure the vetting team",
+          "role_ja": "主述",
+          "literal_ja": "それは審査チームを安心させるだろう",
+          "note_ja": "reassure = 安心させる。"
+        },
+        {
+          "text": "that you’ve been comprehensive",
+          "role_ja": "内容節",
+          "literal_ja": "あなたが包括的だったと（思わせる）",
+          "note_ja": "comprehensive = 漏れなく報告した。"
+        },
+        {
+          "text": "even if it’s all quite artificial",
+          "role_ja": "譲歩節",
+          "literal_ja": "たとえすべてかなり形式的でも",
+          "note_ja": "artificial = 本質的でない・見せかけの。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It remains unclear why Mandelson failed security checks.",
+      "translation_ja": "マンデルソンがセキュリティ審査に不合格となった理由は、いまだに不明のままだ。",
+      "grammar_ja": "It remains unclear why... は報道で「未解明」を述べる定型。",
+      "chunks": [
+        {
+          "text": "It remains unclear",
+          "role_ja": "主部",
+          "literal_ja": "不明のままである",
+          "note_ja": "remain + 形容詞 = 〜の状態が続く。"
+        },
+        {
+          "text": "why Mandelson failed security checks",
+          "role_ja": "内容節",
+          "literal_ja": "なぜマンデルソンが審査に落ちたのか",
+          "note_ja": "fail checks = 審査不合格。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The summary of his vetting wasn’t among the documents released, as it's part of a police investigation into Mandelson for alleged misconduct in public office.",
+      "translation_ja": "彼の審査の要約は公開された文書には含まれておらず、公職における不正行為の疑いでマンデルソンを調査する警察の捜査の一部だからだ。",
+      "grammar_ja": "as は理由。misconduct in public office = 公職不正（法律用語）。alleged = 疑われている。",
+      "chunks": [
+        {
+          "text": "The summary of his vetting wasn’t among the documents released",
+          "role_ja": "主部",
+          "literal_ja": "彼の審査要約は公開文書に含まれなかった",
+          "note_ja": "among = 〜の中に（複数の中の一つとして）。"
+        },
+        {
+          "text": "as it's part of a police investigation into Mandelson",
+          "role_ja": "理由節",
+          "literal_ja": "それはマンデルソンに関する警察捜査の一部だから",
+          "note_ja": "investigation into = 〜に関する捜査。"
+        },
+        {
+          "text": "for alleged misconduct in public office",
+          "role_ja": "修飾",
+          "literal_ja": "公職不正の疑いで",
+          "note_ja": "alleged は「申し立てられた・疑われている」。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Officials have said ties to Epstein are not the reason he failed the vetting.",
+      "translation_ja": "当局者は、エプスタインとの関係が彼が審査に落ちた理由ではないと述べている。",
+      "grammar_ja": "have said は現在完了で「これまでに述べてきた」。ties to = 〜との関係。",
+      "chunks": [
+        {
+          "text": "Officials have said",
+          "role_ja": "主述",
+          "literal_ja": "当局者は述べてきた",
+          "note_ja": "現在完了は過去から現在への発言の継続。"
+        },
+        {
+          "text": "ties to Epstein are not the reason",
+          "role_ja": "内容節",
+          "literal_ja": "エプスタインとの関係は理由ではない",
+          "note_ja": "ties = 関係・つながり。"
+        },
+        {
+          "text": "he failed the vetting",
+          "role_ja": "関係節",
+          "literal_ja": "彼が審査に落ちた",
+          "note_ja": "the reason (why) he failed の省略。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s018",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A background report drawn up by officials before Mandelson was appointed, released by the government in March, flagged business ties to Russia and China as a concern.",
+      "translation_ja": "マンデルソン任命前に当局が作成し、政府が3月に公開した背景調査報告書は、ロシアと中国とのビジネス上の関係を懸念事項として指摘していた。",
+      "grammar_ja": "過去分詞の連鎖修飾。flag A as B = AをBとして指摘する。",
+      "chunks": [
+        {
+          "text": "A background report drawn up by officials before Mandelson was appointed",
+          "role_ja": "主語",
+          "literal_ja": "任命前に当局が作成した背景報告書は",
+          "note_ja": "draw up = 作成する。"
+        },
+        {
+          "text": "released by the government in March",
+          "role_ja": "挿入修飾",
+          "literal_ja": "政府が3月に公開した",
+          "note_ja": "カンマで挟んだ追加情報。"
+        },
+        {
+          "text": "flagged business ties to Russia and China as a concern",
+          "role_ja": "述語",
+          "literal_ja": "ロシア・中国とのビジネス関係を懸念として指摘した",
+          "note_ja": "flag as concern = 問題としてマークする。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s019",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Also missing is any record of what measures, if any, were taken to mitigate the risk of giving Mandelson the job.",
+      "translation_ja": "また欠けているのは、マンデルソンにその職を与えるリスクを軽減するために（もしあれば）どのような措置が取られたかの記録だ。",
+      "grammar_ja": "倒置 Also missing is...。if any = もしあれば。mitigate the risk = リスクを軽減する。",
+      "chunks": [
+        {
+          "text": "Also missing is any record",
+          "role_ja": "主部（倒置）",
+          "literal_ja": "欠けているのはいかなる記録も",
+          "note_ja": "missing を前に出して問題点を強調。"
+        },
+        {
+          "text": "of what measures, if any, were taken",
+          "role_ja": "修飾",
+          "literal_ja": "（もしあれば）どんな措置が取られたかの",
+          "note_ja": "if any は「あるとすれば」という留保。"
+        },
+        {
+          "text": "to mitigate the risk of giving Mandelson the job",
+          "role_ja": "目的",
+          "literal_ja": "マンデルソンに職を与えるリスクを和らげるための",
+          "note_ja": "mitigate = 軽減する（formal）。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s020",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Mandelson refused to hand over information from his personal phone to officials, and the government “has no further recourse to search the personal devices of Peter Mandelson,” the documents say.",
+      "translation_ja": "マンデルソンは私用携帯の情報を当局に提出することを拒み、文書によれば政府は「ピーター・マンデルソンの私的端末を捜索するこれ以上の手段を持たない」としている。",
+      "grammar_ja": "hand over = 引き渡す。recourse = 手段・救済。the documents say で引用元を示す。",
+      "chunks": [
+        {
+          "text": "Mandelson refused to hand over information from his personal phone to officials",
+          "role_ja": "節1",
+          "literal_ja": "マンデルソンは私用電話の情報提出を拒んだ",
+          "note_ja": "refuse to = 〜することを拒む。"
+        },
+        {
+          "text": "the government “has no further recourse to search the personal devices",
+          "role_ja": "節2",
+          "literal_ja": "政府には端末を捜索するこれ以上の手段がない",
+          "note_ja": "recourse to = 〜への手段。"
+        },
+        {
+          "text": "the documents say",
+          "role_ja": "付加節",
+          "literal_ja": "文書はそう述べている",
+          "note_ja": "according to the documents と同機能。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s021",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Mandelson, 72, was briefly arrested in February by detectives investigating allegations that he passed sensitive government information to Epstein when he was a Cabinet minister more than 15 years ago.",
+      "translation_ja": "72歳のマンデルソンは2月、15年以上前に閣僚だった際に機密の政府情報をエプスタインに渡したとの疑いを調査する刑事により、一時逮捕された。",
+      "grammar_ja": "同格 72。investigating allegations that...。when he was a Cabinet minister は時間。",
+      "chunks": [
+        {
+          "text": "Mandelson, 72, was briefly arrested in February",
+          "role_ja": "主部",
+          "literal_ja": "72歳のマンデルソンは2月一時逮捕された",
+          "note_ja": "briefly arrested = 一時的に逮捕された。"
+        },
+        {
+          "text": "by detectives investigating allegations that",
+          "role_ja": "行為者",
+          "literal_ja": "…の疑いを調査する刑事によって",
+          "note_ja": "allegations that = 〜という申し立て。"
+        },
+        {
+          "text": "he passed sensitive government information to Epstein",
+          "role_ja": "内容節",
+          "literal_ja": "彼が機密情報をエプスタインに渡した",
+          "note_ja": "pass information to = 情報を渡す。"
+        },
+        {
+          "text": "when he was a Cabinet minister more than 15 years ago",
+          "role_ja": "時間節",
+          "literal_ja": "15年以上前に閣僚だったとき",
+          "note_ja": "Cabinet minister = 閣僚。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "He was released without bail conditions as the investigation continues.",
+      "translation_ja": "捜査が続く中、彼は保釈条件なしで釈放された。",
+      "grammar_ja": "without bail conditions = 保釈条件を付けずに。as = 〜しながら・〜の一方で。",
+      "chunks": [
+        {
+          "text": "He was released without bail conditions",
+          "role_ja": "主部",
+          "literal_ja": "彼は保釈条件なしで釈放された",
+          "note_ja": "bail conditions = 保釈の条件（外出制限など）。"
+        },
+        {
+          "text": "as the investigation continues",
+          "role_ja": "副詞節",
+          "literal_ja": "捜査が続く一方で",
+          "note_ja": "as は同時性・背景を示す。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Critics say Starmer’s decision to appoint Mandelson is evidence of bad judgment by a prime minister who has made repeated missteps since he led the center-left Labour Party to a landslide election victory in July 2024.",
+      "translation_ja": "批評家らは、マンデルソンを任命したスターマーの決定は、2024年7月に中道左派の労働党を圧勝させて以来、度重なる失策を犯してきた首相の判断の悪さの証拠だと言う。",
+      "grammar_ja": "evidence of bad judgment。who 関係代名詞。landslide victory = 圧勝。missteps = 失策。",
+      "chunks": [
+        {
+          "text": "Critics say Starmer’s decision to appoint Mandelson is evidence of bad judgment",
+          "role_ja": "主述",
+          "literal_ja": "批評家は任命決定が悪い判断の証拠だと言う",
+          "note_ja": "evidence of = 〜の証拠。"
+        },
+        {
+          "text": "by a prime minister who has made repeated missteps",
+          "role_ja": "修飾",
+          "literal_ja": "度重なる失策を犯した首相による",
+          "note_ja": "misstep = つまずき・失策。"
+        },
+        {
+          "text": "since he led the center-left Labour Party to a landslide election victory in July 2024",
+          "role_ja": "時間節",
+          "literal_ja": "2024年7月に労働党を選挙圧勝に導いて以来",
+          "note_ja": "lead A to victory = Aを勝利に導く。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "But at the time, many saw it as a savvy move to deal with an unpredictable president.",
+      "translation_ja": "しかし当時、多くの人はそれを、予測しにくい大統領に対処する抜け目ない一手と見なしていた。",
+      "grammar_ja": "see A as B（AをBと見なす）。savvy = 世慣れた・抜け目ない。",
+      "chunks": [
+        {
+          "text": "But at the time",
+          "role_ja": "接続・時間",
+          "literal_ja": "しかし当時は",
+          "note_ja": "前段落との対比。"
+        },
+        {
+          "text": "many saw it as a savvy move",
+          "role_ja": "主述",
+          "literal_ja": "多くの人はそれを抜け目ない一手と見た",
+          "note_ja": "savvy move = 巧みな判断。"
+        },
+        {
+          "text": "to deal with an unpredictable president",
+          "role_ja": "目的",
+          "literal_ja": "予測不能な大統領に対処するために",
+          "note_ja": "deal with = 対処する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s025",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“I fear that navigating Britain’s interests through the Trump administration will require super-human skills and luck and a massive team effort,” Mandelson said in his November 2024 note to Lammy.",
+      "translation_ja": "「トランプ政権の中で英国の利益を導くには、超人的な手腕と運、そして大規模なチーム努力が必要になると恐れている」と、マンデルソンは2024年11月のラミー宛てのメモで述べた。",
+      "grammar_ja": "navigating ... through ...（〜を通じて導く）。super-human = 超人的。massive team effort。",
+      "chunks": [
+        {
+          "text": "I fear that navigating Britain’s interests through the Trump administration",
+          "role_ja": "主部",
+          "literal_ja": "英国の利益をトランプ政権を通じて導くことは…と恐れる",
+          "note_ja": "navigate interests = 利益を外交的に運ぶ。"
+        },
+        {
+          "text": "will require super-human skills and luck and a massive team effort",
+          "role_ja": "内容節",
+          "literal_ja": "超人的技術と運と大チーム努力を要するだろう",
+          "note_ja": "require A and B and C の並列。"
+        },
+        {
+          "text": "Mandelson said in his November 2024 note to Lammy",
+          "role_ja": "付加節",
+          "literal_ja": "マンデルソンは11月のラミー宛メモで言った",
+          "note_ja": "引用の出典を明示。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s026",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Mandelson’s expertise as a former European Union trade chief, charm and network of global contacts were considered assets in securing a trade deal with the Trump administration.",
+      "translation_ja": "元EU貿易担当高官としてのマンデルソンの専門知識、魅力、そして国際的な人脈は、トランプ政権との貿易協定をまとめるうえでの強みと見なされていた。",
+      "grammar_ja": "3つの名詞の並列が主語。be considered assets in -ing。",
+      "chunks": [
+        {
+          "text": "Mandelson’s expertise as a former European Union trade chief, charm and network of global contacts",
+          "role_ja": "主語",
+          "literal_ja": "元EU貿易トップの専門性・魅力・国際人脈は",
+          "note_ja": "trade chief = 貿易担当トップ。"
+        },
+        {
+          "text": "were considered assets",
+          "role_ja": "述語",
+          "literal_ja": "資産（強み）と見なされた",
+          "note_ja": "asset = 強み・有利な要素。"
+        },
+        {
+          "text": "in securing a trade deal with the Trump administration",
+          "role_ja": "修飾",
+          "literal_ja": "トランプ政権との貿易協定を確保するうえで",
+          "note_ja": "secure a deal = 協定をまとめる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s027",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It seemed to pay off, with a successful visit by Starmer to the White House in February 2025 followed by a U.K.-U.S. trade deal announced that May.",
+      "translation_ja": "その判断は実を結んだように見え、2025年2月のスターマーのホワイトハウス訪問の成功、その翌5月に発表された英米貿易協定が続いた。",
+      "grammar_ja": "pay off = 実を結ぶ。with + 名詞句で結果を付加。followed by = 〜に続いて。",
+      "chunks": [
+        {
+          "text": "It seemed to pay off",
+          "role_ja": "主部",
+          "literal_ja": "それは実を結んだように見えた",
+          "note_ja": "pay off = 努力が報われる。"
+        },
+        {
+          "text": "with a successful visit by Starmer to the White House in February 2025",
+          "role_ja": "付加",
+          "literal_ja": "2025年2月のスターマーのホワイトハウス成功訪問とともに",
+          "note_ja": "with で具体例を列挙。"
+        },
+        {
+          "text": "followed by a U.K.-U.S. trade deal announced that May",
+          "role_ja": "付加",
+          "literal_ja": "その5月に発表された英米貿易協定が続いて",
+          "note_ja": "that May = その年の5月。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s028",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "In a letter to Starmer before the trip, Mandelson said “America first is the lodestar of his administration,” and the White House under Trump \"will play the international system by a different set of rules.”",
+      "translation_ja": "訪問前にスターマーへ送った手紙で、マンデルソンは「アメリカ第一主義が彼（トランプ）の政権の指針だ」とし、トランプ下のホワイトハウスは「国際制度を別のルールで動かすだろう」と述べた。",
+      "grammar_ja": "lodestar = 指針・北極星。play ... by a different set of rules = 別のルールで動く。",
+      "chunks": [
+        {
+          "text": "In a letter to Starmer before the trip",
+          "role_ja": "状況",
+          "literal_ja": "訪問前のスターマー宛て手紙で",
+          "note_ja": "文脈設定の前置き。"
+        },
+        {
+          "text": "“America first is the lodestar of his administration,”",
+          "role_ja": "引用1",
+          "literal_ja": "「アメリカ第一が政権の指針だ」",
+          "note_ja": "lodestar = 航海の北極星→指針の比喩。"
+        },
+        {
+          "text": "the White House under Trump \"will play the international system by a different set of rules.”",
+          "role_ja": "引用2",
+          "literal_ja": "「トランプのホワイトハウスは国際制度を別ルールで運ぶ」",
+          "note_ja": "play by the rules = ルールに従って動く。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s029",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Mandelson noted in an email that the prime minister and president had developed a “strong personal bond.”",
+      "translation_ja": "マンデルソンはメールで、首相と大統領が「強い個人的な絆」を築いたと記していた。",
+      "grammar_ja": "noted that + 過去完了 had developed。personal bond = 個人的な信頼関係。",
+      "chunks": [
+        {
+          "text": "Mandelson noted in an email",
+          "role_ja": "主述",
+          "literal_ja": "マンデルソンはメールで記した",
+          "note_ja": "note = 述べる・記す（formal）。"
+        },
+        {
+          "text": "that the prime minister and president had developed a “strong personal bond.”",
+          "role_ja": "内容節",
+          "literal_ja": "首相と大統領が強い個人的絆を築いたと",
+          "note_ja": "develop a bond = 関係を築く。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s030",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Starmer’s relationship with Trump later soured after the U.K. declined to join U.S.-Israeli strikes and other efforts in the Iran war.",
+      "translation_ja": "英国がイラン戦争における米以の攻撃やその他の軍事行動への参加を拒否した後、スターマーとトランプの関係は後に悪化した。",
+      "grammar_ja": "sour = 関係が悪化する。decline to join = 参加を拒む。",
+      "chunks": [
+        {
+          "text": "Starmer’s relationship with Trump later soured",
+          "role_ja": "主部",
+          "literal_ja": "スターマーとトランプの関係は後に悪化した",
+          "note_ja": "sour は関係・雰囲気の悪化に使う。"
+        },
+        {
+          "text": "after the U.K. declined to join U.S.-Israeli strikes",
+          "role_ja": "時間節",
+          "literal_ja": "英国が米以攻撃への参加を拒否した後",
+          "note_ja": "decline to = 〜することを断る。"
+        },
+        {
+          "text": "and other efforts in the Iran war",
+          "role_ja": "並列",
+          "literal_ja": "およびイラン戦争における他の努力へ",
+          "note_ja": "strikes and other efforts の並列。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s031",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Some aspects of the trade deal remain incomplete.",
+      "translation_ja": "貿易協定の一部は未だに未完成のままだ。",
+      "grammar_ja": "remain + 形容詞 = 〜の状態のまま。aspect = 側面・部分。",
+      "chunks": [
+        {
+          "text": "Some aspects of the trade deal",
+          "role_ja": "主語",
+          "literal_ja": "貿易協定のいくつかの側面は",
+          "note_ja": "aspect = 部分・要素。"
+        },
+        {
+          "text": "remain incomplete",
+          "role_ja": "述語",
+          "literal_ja": "未完成のままである",
+          "note_ja": "remain は状態の継続。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s032",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Details about Mandelson’s ties to Epstein, revealed in a huge trove of files published by the U.S.",
+      "translation_ja": "米国が公開した膨大なファイル群で明らかになった、マンデルソンとエプスタインの関係に関する詳細は、",
+      "grammar_ja": "revealed in... は Details を後置修飾。次の文と続く。",
+      "chunks": [
+        {
+          "text": "Details about Mandelson’s ties to Epstein",
+          "role_ja": "主語",
+          "literal_ja": "マンデルソンのエプスタインとの関係の詳細は",
+          "note_ja": "ties to = 〜との関係。"
+        },
+        {
+          "text": "revealed in a huge trove of files published by the U.S.",
+          "role_ja": "後置修飾",
+          "literal_ja": "米国が公開した巨大ファイル群で明らかにされた",
+          "note_ja": "trove = 大量の資料。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s033",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Justice Department in January, raised new questions about Starmer’s judgment, driving opponents and some Labour lawmakers to call for the prime minister’s resignation.",
+      "translation_ja": "1月に司法省から公開されたそれらは、スターマーの判断について新たな疑問を提起し、野党側や一部の労働党議員に首相の辞任を求めさせた。",
+      "grammar_ja": "前の文の続き。driving ... to call for は結果を示す分詞構文。call for resignation = 辞任を要求。",
+      "chunks": [
+        {
+          "text": "Justice Department in January",
+          "role_ja": "修飾（前句の続き）",
+          "literal_ja": "1月の司法省（による公開で）",
+          "note_ja": "U.S. Justice Department とつながる。"
+        },
+        {
+          "text": "raised new questions about Starmer’s judgment",
+          "role_ja": "述語",
+          "literal_ja": "スターマーの判断に新たな疑問を投げかけた",
+          "note_ja": "raise questions about = 疑問を提起する。"
+        },
+        {
+          "text": "driving opponents and some Labour lawmakers to call for the prime minister’s resignation",
+          "role_ja": "結果",
+          "literal_ja": "野党や労働党議員に辞任を求めさせた",
+          "note_ja": "drive A to do B = AにBさせる。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s034",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Those calls intensified after Labour suffered big losses in local elections in May.",
+      "translation_ja": "労働党が5月の地方選挙で大敗を喫した後、そのような辞任要求はさらに強まった。",
+      "grammar_ja": "intensify = 強まる。suffer losses = 敗北を喫する。",
+      "chunks": [
+        {
+          "text": "Those calls intensified",
+          "role_ja": "主述",
+          "literal_ja": "その要求は強まった",
+          "note_ja": "those calls = 辞任要求を指す。"
+        },
+        {
+          "text": "after Labour suffered big losses in local elections in May",
+          "role_ja": "時間節",
+          "literal_ja": "労働党が5月地方選挙で大敗した後",
+          "note_ja": "suffer losses = 損失・敗北を被る。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s035",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "A senior Cabinet minister, Wes Streeting, resigned with the intention of challenging Starmer for the Labour leadership.",
+      "translation_ja": "上級閣僚のウェス・ストリーティングは、労働党党首の座をめぐりスターマーに挑戦する意向で辞任した。",
+      "grammar_ja": "with the intention of -ing = 〜する意向で。challenge A for B = BをめぐりAに挑戦。",
+      "chunks": [
+        {
+          "text": "A senior Cabinet minister, Wes Streeting",
+          "role_ja": "主語",
+          "literal_ja": "上級閣僚ストリーティングは",
+          "note_ja": "Cabinet minister = 閣僚。"
+        },
+        {
+          "text": "resigned with the intention of challenging Starmer for the Labour leadership",
+          "role_ja": "述語",
+          "literal_ja": "党首の座でスターマーに挑戦する意向で辞任した",
+          "note_ja": "leadership = 党首の地位。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s036",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Greater Manchester Mayor Andy Burnham is running for a seat in Parliament in a June 18 special election, and is also expected to challenge Starmer if he wins.",
+      "translation_ja": "グレーター・マンチェスター市長のアンディ・バーナムは6月18日の補選で議会議席に立候補しており、勝利すればスターマーに挑戦するとも見られている。",
+      "grammar_ja": "is running for / is expected to の並列。special election = 補選。if he wins は条件節。",
+      "chunks": [
+        {
+          "text": "Greater Manchester Mayor Andy Burnham is running for a seat in Parliament",
+          "role_ja": "節1",
+          "literal_ja": "バーナム市長は議会議席に立候補している",
+          "note_ja": "run for a seat = 議席選挙に出る。"
+        },
+        {
+          "text": "in a June 18 special election",
+          "role_ja": "修飾",
+          "literal_ja": "6月18日の補選で",
+          "note_ja": "special election = 補欠選挙。"
+        },
+        {
+          "text": "is also expected to challenge Starmer if he wins",
+          "role_ja": "節2",
+          "literal_ja": "勝てばスターマーに挑戦すると予想されている",
+          "note_ja": "be expected to = 〜すると見られている。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s037",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The documents show that behind closed doors, Mandelson didn’t always give Starmer his full-throated support, and that government ministers also despaired at Starmer's lack of leadership within months of him taking office.",
+      "translation_ja": "文書は、表向きではなく裏側で、マンデルソンが常にスターマーを全力で支持していたわけではなかったこと、また政権開始から数か月以内に閣僚らもスターマーのリーダーシップ不足に失望していたことを示している。",
+      "grammar_ja": "behind closed doors = 非公開で。full-throated support = 全力の支持。despair at = 〜に失望する。",
+      "chunks": [
+        {
+          "text": "behind closed doors",
+          "role_ja": "状況",
+          "literal_ja": "非公開の場で",
+          "note_ja": "公の場と対比する慣用句。"
+        },
+        {
+          "text": "Mandelson didn’t always give Starmer his full-throated support",
+          "role_ja": "節1",
+          "literal_ja": "マンデルソンは常に全力支持を送ったわけではなかった",
+          "note_ja": "full-throated = 声を張り上げるほどの、全力の。"
+        },
+        {
+          "text": "government ministers also despaired at Starmer's lack of leadership",
+          "role_ja": "節2",
+          "literal_ja": "閣僚もリーダーシップ不足に失望した",
+          "note_ja": "despair at = 〜に絶望・失望する。"
+        },
+        {
+          "text": "within months of him taking office",
+          "role_ja": "時間",
+          "literal_ja": "彼が就任して数か月以内に",
+          "note_ja": "take office = 就任する。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s038",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“Keir is not leading from the front,” Cabinet minister Pat McFadden said in a May 2025 WhatsApp exchange with Mandelson.",
+      "translation_ja": "「キアは前に立って率いていない」と、閣僚のパット・マクファデンは2025年5月、マンデルソンとのWhatsAppのやり取りで述べた。",
+      "grammar_ja": "lead from the front = 率先して率いる。WhatsApp exchange = メッセージのやり取り。",
+      "chunks": [
+        {
+          "text": "“Keir is not leading from the front,”",
+          "role_ja": "引用",
+          "literal_ja": "「キアは前から率いていない」",
+          "note_ja": "lead from the front = 先頭に立って指導する。"
+        },
+        {
+          "text": "Cabinet minister Pat McFadden said",
+          "role_ja": "主述",
+          "literal_ja": "閣僚マクファデンは言った",
+          "note_ja": "発言者を職名付きで紹介。"
+        },
+        {
+          "text": "in a May 2025 WhatsApp exchange with Mandelson",
+          "role_ja": "状況",
+          "literal_ja": "2025年5月のマンデルソンとのWhatsApp交換で",
+          "note_ja": "exchange = やり取り・会話。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s039",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Mandelson's verdict was \"Keir lacks verve.” He said that the government needed to act, “dare I say it ... in a more Trumpian risk taking and dare devil way.”",
+      "translation_ja": "マンデルソンの評価は「キアには活力が欠けている」だった。彼は政府は「言ってみれば…もっとトランプ的なリスクテイクと向こう見ずなやり方で」動く必要があると述べた。",
+      "grammar_ja": "verve = 活力。dare I say it = 言うなれば（控えめな前置き）。Trumpian = トランプ風の。",
+      "chunks": [
+        {
+          "text": "Mandelson's verdict was \"Keir lacks verve.”",
+          "role_ja": "主部",
+          "literal_ja": "マンデルソンの評決は「キアは活力がない」だった",
+          "note_ja": "verdict = 評価・判定。verve = 活気。"
+        },
+        {
+          "text": "He said that the government needed to act",
+          "role_ja": "主述",
+          "literal_ja": "政府は行動する必要があると彼は言った",
+          "note_ja": "needed to act = 動くべきだった。"
+        },
+        {
+          "text": "“dare I say it ... in a more Trumpian risk taking and dare devil way.”",
+          "role_ja": "引用",
+          "literal_ja": "「言うなれば…もっとトランプ的で向こう見ずなやり方で」",
+          "note_ja": "dare I say it = 控えめに言えば。daredevil = 向こう見ずな。"
+        }
+      ],
+      "deep_dive_ja": "dare I say it は批判を和らげる英語のクッション表現で、私的メッセージの生々しさが記事の説得力を高めています。",
+      "difficulty": "hard",
+      "sentence_id": "s040"
+    },
+    {
+      "text": "In July, he despaired that the government was “beleaguered and bereft,” and ministers don't \"really know what Keir thinks or wants.",
+      "translation_ja": "7月には、彼は政府が「四面楚歌で何も持たない状態」だと嘆き、閣僚は「キアが何を考え、何を望んでいるのか本当には分かっていない」と述べた。",
+      "grammar_ja": "beleaguered and bereft の韻を踏む形容。despair that + 節。",
+      "chunks": [
+        {
+          "text": "In July, he despaired that",
+          "role_ja": "主述",
+          "literal_ja": "7月、彼は…と嘆いた",
+          "note_ja": "despair that = 〜と絶望する。"
+        },
+        {
+          "text": "the government was “beleaguered and bereft,”",
+          "role_ja": "内容1",
+          "literal_ja": "政府は四面楚歌で空虚だと",
+          "note_ja": "bereft = 〜を奪われた・欠如している。"
+        },
+        {
+          "text": "ministers don't \"really know what Keir thinks or wants.",
+          "role_ja": "内容2",
+          "literal_ja": "閣僚はキアの考えや望みを本当は知らないと",
+          "note_ja": "think or wants の並列。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s041",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "“In fact most of them don’t think Keir knows what he wants,” Mandelson said.",
+      "translation_ja": "「実際、彼らの多くはキア自身が何を望んでいるか分かっていないと思っている」とマンデルソンは言った。",
+      "grammar_ja": "In fact で強調。think + 節（Keir knows what he wants）の否定の入れ子。",
+      "chunks": [
+        {
+          "text": "In fact most of them don’t think",
+          "role_ja": "主部",
+          "literal_ja": "実際彼らの多くは…と思わない",
+          "note_ja": "In fact = 実のところ。"
+        },
+        {
+          "text": "Keir knows what he wants",
+          "role_ja": "内容節",
+          "literal_ja": "キアは自分が何を望むか知っている",
+          "note_ja": "what he wants = 彼が望むこと。"
+        },
+        {
+          "text": "Mandelson said",
+          "role_ja": "付加節",
+          "literal_ja": "マンデルソンは言った",
+          "note_ja": "引用の締め。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s042",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Brian Melley and Sylvia Hui contributed to this report.",
+      "translation_ja": "ブライアン・メリーとシルヴィア・フイが本報道に寄稿した。",
+      "grammar_ja": "contribute to a report = 報道に貢献する（記者クレジットの定型句）。",
+      "chunks": [
+        {
+          "text": "Brian Melley and Sylvia Hui",
+          "role_ja": "主語",
+          "literal_ja": "メリーとフイは",
+          "note_ja": "共同記者の名前。"
+        },
+        {
+          "text": "contributed to this report",
+          "role_ja": "述語",
+          "literal_ja": "本報道に寄稿した",
+          "note_ja": "ニュース末尾の標準的なクレジット表現。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s043",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "beleaguered",
+      "pronunciation": "/bɪˈlɪɡərd/",
+      "meaning_ja": "四面楚歌の、窮地に立つ",
+      "example": "beleaguered Prime Minister Keir Starmer",
+      "example_ja": "窮地に立つキア・スターマー首相",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "vetting",
+      "pronunciation": "/ˈvetɪŋ/",
+      "meaning_ja": "（身元・安全などの）審査",
+      "example": "officials discussing Mandelson’s security vetting",
+      "example_ja": "マンデルソンのセキュリティ審査について議論する官僚ら",
+      "source_sentence_id": "s012"
+    },
+    {
+      "word": "fallout",
+      "pronunciation": "/ˈfɔːlaʊt/",
+      "meaning_ja": "（不祥事などの）余波、悪影響",
+      "example": "fallout from the misjudged appointment",
+      "example_ja": "誤った判断による起用の余波",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "reputational risk",
+      "pronunciation": "/ˌrepjəˈteɪʃənl rɪsk/",
+      "meaning_ja": "評判上のリスク、信用失墜の危険",
+      "example": "exposed the government to “reputational risk.”",
+      "example_ja": "政府を「評判上のリスク」にさらした",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "lodestar",
+      "pronunciation": "/ˈloʊdstɑːr/",
+      "meaning_ja": "指針、道しるべ（原義は北極星）",
+      "example": "America first is the lodestar of his administration",
+      "example_ja": "アメリカ第一主義が彼の政権の指針だ",
+      "source_sentence_id": "s029"
+    },
+    {
+      "word": "epitaph",
+      "pronunciation": "/ˈepɪtæf/",
+      "meaning_ja": "碑文、（比喩的に）政治的遺産・評価",
+      "example": "written as his political epitaph",
+      "example_ja": "彼の政治的な碑文として書き記される",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "behind closed doors",
+      "pronunciation": "/bɪˈhaɪnd kloʊzd dɔːrz/",
+      "meaning_ja": "非公開で、内密に",
+      "example": "behind closed doors, Mandelson didn’t always give Starmer his full-throated support",
+      "example_ja": "非公開の場では、マンデルソンは常にスターマーを全力で支持していたわけではなかった",
+      "source_sentence_id": "s038"
+    },
+    {
+      "word": "misstep",
+      "pronunciation": "/mɪsˈstep/",
+      "meaning_ja": "失策、つまずき",
+      "example": "a prime minister who has made repeated missteps",
+      "example_ja": "度重なる失策を犯してきた首相",
+      "source_sentence_id": "s024"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-news-reporting",
+      "title": "Passive voice in news reporting",
+      "rule": "Use be + past participle to focus on events rather than agents (e.g., was released, was disclosed, was arrested).",
+      "example": "More than 1,500 pages of files were released by the government.",
+      "meaning_ja": "ニュースでは受動態で「何が起きたか」を前面に出し、行為者は後回しや省略にすることが多い。"
+    },
+    {
+      "id": "according-to-source",
+      "title": "Attribution with according to / the documents say",
+      "rule": "Place the source (documents, officials, critics) to show where information comes from.",
+      "example": "according to documents released on Monday",
+      "meaning_ja": "情報の出所を明示する構文で、報道の客観性と信頼性を示す。"
+    },
+    {
+      "id": "despite-ing",
+      "title": "despite + gerund/noun",
+      "rule": "despite shows contrast: something happened even though another fact would suggest it should not.",
+      "example": "approved for the ambassador’s job despite failing security checks",
+      "meaning_ja": "「〜にもかかわらず」という譲歩。despite の後は名詞または動名詞。"
+    },
+    {
+      "id": "leave-obj-ing",
+      "title": "leave + object + -ing",
+      "rule": "leave someone doing something = cause someone to be in a continuing state or situation.",
+      "example": "has left the prime minister fighting for his job",
+      "meaning_ja": "「〜を…の状態にさせる」という結果表現。政治記事で政権の窮地を描写する際に使われる。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 43,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:21:22+09:00"
+  },
+  "article_id": "japantoday:2026-06-02:more-mandelson-files-released-in-uk-brin"
+}

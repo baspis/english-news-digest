@@ -1,0 +1,367 @@
+{
+  "summary_ja": "エアバスは、22時間ノンストップで飛行できるA350-1000ULR型ワイドボディ機の初の試験飛行に成功したと発表した。豪航空会社カンタス向けに12機が注文されており、シドニーとロンドン間の直行便を可能にするための機体だ。初号機の引き渡しは2027年4月を予定している。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Airbus said Tuesday its A350-1000ULR widebody aircraft capable of flying up to 22 hours non-stop has successfully completed a first test flight.",
+      "translation_ja": "エアバスは火曜日、最大22時間ノンストップで飛行できるA350-1000ULR型ワイドボディ機の初の試験飛行に成功したと発表した。",
+      "grammar_ja": "said Tuesday は「火曜日に述べた」というニュース文体の時制表現（said on Tuesday より簡潔）。capable of flying は「〜できる能力がある」、has successfully completed は現在完了で「完了した成果」を強調。",
+      "chunks": [
+        {
+          "text": "Airbus",
+          "role_ja": "主語",
+          "literal_ja": "エアバスが",
+          "note_ja": "欧州の航空機メーカー。主語として文頭に置かれる。"
+        },
+        {
+          "text": "said Tuesday",
+          "role_ja": "述語（報道動詞）",
+          "literal_ja": "火曜日に述べた",
+          "note_ja": "ニュース記事では on Tuesday を省略する簡潔な書き方が一般的。"
+        },
+        {
+          "text": "its A350-1000ULR widebody aircraft",
+          "role_ja": "間接話法の内容（主語）",
+          "literal_ja": "そのA350-1000ULR型ワイドボディ機が",
+          "note_ja": "widebody = ワイドボディ機（2通路の大型旅客機）。"
+        },
+        {
+          "text": "capable of flying up to 22 hours non-stop",
+          "role_ja": "後置修飾",
+          "literal_ja": "最大22時間ノンストップで飛行できる",
+          "note_ja": "capable of + 動名詞。up to は「最大で〜まで」。non-stop = 途中着陸なし。"
+        },
+        {
+          "text": "has successfully completed a first test flight",
+          "role_ja": "述語",
+          "literal_ja": "初の試験飛行を無事に完了した",
+          "note_ja": "complete a test flight は航空ニュースの定番コロケーション。"
+        }
+      ],
+      "deep_dive_ja": "ニュースでは said on Tuesday より said Tuesday の方がよく使われる。capable of は able to より「設計上の能力・仕様」を示すニュアンスが強い。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"The aircraft, fitted with special flight test instrumentation, flew for three hours 43 minutes reaching an altitude of slightly above 41,000 feet (12,500 meters),\" the European aircraft manufacturer said in a statement.",
+      "translation_ja": "「特別な試験飛行用計測装置を搭載した当該機は、3時間43分飛行し、高度約41,000フィート（12,500メートル）に達した」と、欧州の航空機メーカーは声明で述べた。",
+      "grammar_ja": "fitted with は過去分詞の後置修飾（= which was fitted with）。reaching は結果を示す分詞構文。slightly above は「わずかに上」のニュアンス。",
+      "chunks": [
+        {
+          "text": "The aircraft, fitted with special flight test instrumentation,",
+          "role_ja": "主語（修飾付き）",
+          "literal_ja": "特別な試験飛行用計測装置を搭載した航空機は",
+          "note_ja": "fitted with = 〜を取り付けられた。instrumentation は「計測装置一式」。"
+        },
+        {
+          "text": "flew for three hours 43 minutes",
+          "role_ja": "述語",
+          "literal_ja": "3時間43分飛行した",
+          "note_ja": "for + 期間。hours と minutes を並べて飛行時間を表す。"
+        },
+        {
+          "text": "reaching an altitude of slightly above 41,000 feet",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "高度約41,000フィートに達して",
+          "note_ja": "reach an altitude は航空記事の定型表現。slightly above = わずかに上。"
+        },
+        {
+          "text": "the European aircraft manufacturer",
+          "role_ja": "主語（引用元）",
+          "literal_ja": "欧州の航空機メーカーが",
+          "note_ja": "Airbus を具体的に説明する同格表現。said in a statement = 声明で述べた。"
+        }
+      ],
+      "deep_dive_ja": "引用符内の文と引用元の説明が入れ替わる（間接話法の倒置）のはビジネスニュースの典型パターン。flight test instrumentation は「試験飛行用の各種センサー・記録装置」の意味。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "The aircraft, marketed with the ULR designation that stands for ultra long-range, is one of 12 ordered by Australian airline Qantas to allow it to carry out non-stop flights between Sydney and London.",
+      "translation_ja": "ULR（ウルトラ・ロングレンジ＝超長距離）の名称で販売されているこの機体は、豪航空会社カンタスが注文した12機のうちの1機で、シドニーとロンドン間のノンストップ便を運航できるようにするためのものだ。",
+      "grammar_ja": "marketed with ... は過去分詞の挿入修飾。stand for は「〜の略・意味」。one of 12 ordered by ... は「〜が注文した12機のうちの1機」。to allow it to carry out は目的を表す不定詞。",
+      "chunks": [
+        {
+          "text": "marketed with the ULR designation",
+          "role_ja": "後置修飾",
+          "literal_ja": "ULRの名称で販売されている",
+          "note_ja": "market はここでは「市場向けに販売・提供する」の意味。"
+        },
+        {
+          "text": "that stands for ultra long-range",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "ウルトラ・ロングレンジを意味する",
+          "note_ja": "stand for は略語の説明に頻出（e.g. ULR stands for ...）。"
+        },
+        {
+          "text": "is one of 12 ordered by Australian airline Qantas",
+          "role_ja": "述語",
+          "literal_ja": "豪航空会社カンタスが注文した12機のうちの1機である",
+          "note_ja": "one of + 複数名詞 + 過去分詞（ordered）の構造。"
+        },
+        {
+          "text": "to allow it to carry out non-stop flights between Sydney and London",
+          "role_ja": "目的（不定詞）",
+          "literal_ja": "シドニーとロンドン間のノンストップ便を運航できるようにするために",
+          "note_ja": "carry out flights = 便を運航する。it は Qantas を指す。"
+        }
+      ],
+      "deep_dive_ja": "世界最長級の路線（シドニー–ロンドン）への言及が、この機体の商業的意義を示す。allow + 目的語 + to不定詞 は B2 レベルで重要なパターン。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "Airbus said it now plans to deliver the first A350-1000ULR to Qantas in April 2027.",
+      "translation_ja": "エアバスは、初のA350-1000ULRを2027年4月にカンタスへ引き渡す計画だと述べた。",
+      "grammar_ja": "said it now plans は間接話法。deliver ... to は「〜に引き渡す」。in April 2027 は将来の具体的時期。",
+      "chunks": [
+        {
+          "text": "Airbus said",
+          "role_ja": "主語＋述語",
+          "literal_ja": "エアバスは述べた",
+          "note_ja": "報道文の基本構文。"
+        },
+        {
+          "text": "it now plans to deliver",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "現在、引き渡す計画である",
+          "note_ja": "now は「現時点の計画」を示す副詞。"
+        },
+        {
+          "text": "the first A350-1000ULR to Qantas",
+          "role_ja": "目的語",
+          "literal_ja": "初のA350-1000ULRをカンタスに",
+          "note_ja": "deliver A to B = AをBに引き渡す。"
+        },
+        {
+          "text": "in April 2027",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2027年4月に",
+          "note_ja": "月と年の順序は英語式。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The airline had initially hoped to start the non-stop Sydney-London service in 2025.",
+      "translation_ja": "同航空会社は当初、2025年にシドニー–ロンドン間のノンストップ便の運航を開始する予定だった。",
+      "grammar_ja": "had hoped は過去完了で「それ以前の予定・希望」を表す。initially は「当初は」。Sydney-London service は路線名としてハイフンで連結。",
+      "chunks": [
+        {
+          "text": "The airline",
+          "role_ja": "主語",
+          "literal_ja": "その航空会社は",
+          "note_ja": "前文の Qantas を受ける the airline。"
+        },
+        {
+          "text": "had initially hoped",
+          "role_ja": "述語（過去完了）",
+          "literal_ja": "当初は望んでいた",
+          "note_ja": "had hoped = その時点より前から望んでいた。計画変更を暗示。"
+        },
+        {
+          "text": "to start the non-stop Sydney-London service",
+          "role_ja": "目的（不定詞）",
+          "literal_ja": "シドニー–ロンドン間のノンストップ便を開始することを",
+          "note_ja": "start a service = 路線・サービスの運航を開始する。"
+        },
+        {
+          "text": "in 2025",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2025年に",
+          "note_ja": "前の文の2027年と対比し、遅延を示す。"
+        }
+      ],
+      "deep_dive_ja": "had hoped と now plans の対比が記事の「スケジュール遅延」というストーリーを構成している。initially は計画変更を示すキーワード。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Tuesday's test flight from Airbus's facility in the southern French city of Toulouse started two months of tests to certify modifications made from the existing three versions of the A350, including for the additional fuel tank that allows it to fly some 18,500 kilometers (11,500 miles).",
+      "translation_ja": "火曜日の試験飛行は、南フランスのトゥールーズにあるエアバスの施設から出発し、既存のA350の3機種から加えられた改造、とりわけ追加燃料タンクにより約18,500キロ（11,500マイル）飛行できるようにするための改造を認証する2か月間の試験を開始した。",
+      "grammar_ja": "Tuesday's test flight が主語で長い修飾句が続く。to certify modifications は目的。made from は「〜を基にして行われた改造」。including for は「〜のための（改造を）含めて」。",
+      "chunks": [
+        {
+          "text": "Tuesday's test flight",
+          "role_ja": "主語",
+          "literal_ja": "火曜日の試験飛行が",
+          "note_ja": "所有格で日付を修飾するニュース表現。"
+        },
+        {
+          "text": "from Airbus's facility in the southern French city of Toulouse",
+          "role_ja": "場所の修飾",
+          "literal_ja": "南フランスの都市トゥールーズにあるエアバスの施設から",
+          "note_ja": "the southern French city of Toulouse = 南フランスの都市トゥールーズ。"
+        },
+        {
+          "text": "started two months of tests",
+          "role_ja": "述語",
+          "literal_ja": "2か月間の試験を開始した",
+          "note_ja": "start tests = 試験を開始する。"
+        },
+        {
+          "text": "to certify modifications made from the existing three versions of the A350",
+          "role_ja": "目的（不定詞）",
+          "literal_ja": "既存のA350の3機種から加えられた改造を認証するために",
+          "note_ja": "certify = 公式に適合を認める。modifications made from = 〜を基にした改造。"
+        },
+        {
+          "text": "including for the additional fuel tank",
+          "role_ja": "付加説明",
+          "literal_ja": "追加燃料タンクのための（改造を）含めて",
+          "note_ja": "including for は「〜に関するものを含む」というやや硬い表現。"
+        },
+        {
+          "text": "that allows it to fly some 18,500 kilometers",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "約18,500キロ飛行できるようにする",
+          "note_ja": "some は「およそ・約」の意味。it は aircraft を指す。"
+        }
+      ],
+      "deep_dive_ja": "全文で最も情報密度が高い文。from（出発地）と made from（基にする）の from の用法が異なる点に注意。certify modifications は航空業界で「型式認証のための試験」を意味する。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The longest commercial flight currently in operation is a Singapore Airlines flight from Singapore to New York, which covers 15,350 kilometers in over 18 hours.",
+      "translation_ja": "現在運航中の最長の定期便は、シンガポールからニューヨークへのシンガポール航空の便で、18時間以上かけて15,350キロを飛行する。",
+      "grammar_ja": "The longest ... currently in operation は「現在運航中で最長の」。関係代名詞 which は flight を受け、covers ... in ... で距離と時間を並記。",
+      "chunks": [
+        {
+          "text": "The longest commercial flight currently in operation",
+          "role_ja": "主語",
+          "literal_ja": "現在運航中の最長の定期便は",
+          "note_ja": "commercial flight = 定期旅客便。in operation = 運航中の。"
+        },
+        {
+          "text": "is a Singapore Airlines flight from Singapore to New York",
+          "role_ja": "述語（補語）",
+          "literal_ja": "シンガポールからニューヨークへのシンガポール航空の便である",
+          "note_ja": "路線の説明は from A to B の順。"
+        },
+        {
+          "text": "which covers 15,350 kilometers",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "15,350キロを飛行する",
+          "note_ja": "cover a distance = その距離を移動する・飛行する。"
+        },
+        {
+          "text": "in over 18 hours",
+          "role_ja": "時間の修飾",
+          "literal_ja": "18時間以上で",
+          "note_ja": "over = 以上。距離と所要時間を対比する文脈で使われる。"
+        }
+      ],
+      "deep_dive_ja": "この文はA350の18,500 km・22時間と比較するためのベンチマーク。currently in operation は「現時点で実際に飛んでいる」という限定を加える。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "non-stop",
+      "pronunciation": "/ˌnɒnˈstɒp/",
+      "meaning_ja": "ノンストップの、途中着陸なしの",
+      "example": "non-stop flights between Sydney and London",
+      "example_ja": "シドニーとロンドン間のノンストップ便",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "widebody",
+      "pronunciation": "/ˈwaɪdbɒdi/",
+      "meaning_ja": "ワイドボディ機（広い胴体の大型旅客機）",
+      "example": "A350-1000ULR widebody aircraft",
+      "example_ja": "A350-1000ULR型ワイドボディ機",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "instrumentation",
+      "pronunciation": "/ˌɪnstrʊmenˈteɪʃən/",
+      "meaning_ja": "計測装置、計器類",
+      "example": "special flight test instrumentation",
+      "example_ja": "特別な試験飛行用計測装置",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "designation",
+      "pronunciation": "/ˌdezɪɡˈneɪʃən/",
+      "meaning_ja": "名称、型式名、呼称",
+      "example": "marketed with the ULR designation",
+      "example_ja": "ULRの名称で販売されている",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "deliver",
+      "pronunciation": "/dɪˈlɪvər/",
+      "meaning_ja": "（製品を顧客に）引き渡す、納入する",
+      "example": "plans to deliver the first A350-1000ULR to Qantas",
+      "example_ja": "初のA350-1000ULRをカンタスに引き渡す計画",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "certify",
+      "pronunciation": "/ˈsɜːrtɪfaɪ/",
+      "meaning_ja": "（基準に適合していると）認証する、認定する",
+      "example": "tests to certify modifications",
+      "example_ja": "改造を認証するための試験",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "modification",
+      "pronunciation": "/ˌmɒdɪfɪˈkeɪʃən/",
+      "meaning_ja": "改造、変更、改修",
+      "example": "modifications made from the existing three versions",
+      "example_ja": "既存の3機種から加えられた改造",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "in operation",
+      "pronunciation": "/ɪn ˌɒpəˈreɪʃən/",
+      "meaning_ja": "運航中の、稼働中の",
+      "example": "the longest commercial flight currently in operation",
+      "example_ja": "現在運航中の最長の定期便",
+      "source_sentence_id": "s007"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "past-participle-post-modifier",
+      "title": "Past participle as post-modifier",
+      "rule": "Past participles (fitted with, marketed with, ordered by) placed after nouns function like reduced relative clauses.",
+      "example": "The aircraft, fitted with special instrumentation, flew for three hours.",
+      "meaning_ja": "名詞の後に過去分詞句を置くと、関係代名詞の省略形（= which was fitted with ...）として働く。ニュース記事で頻出する簡潔な修飾パターン。"
+    },
+    {
+      "id": "reporting-verb-indirect-speech",
+      "title": "Reporting verbs with indirect speech",
+      "rule": "Verbs like said, stated introduce reported content without quotation marks; tense may shift (plans, hoped).",
+      "example": "Airbus said it now plans to deliver the first aircraft in April 2027.",
+      "meaning_ja": "said / stated などの報道動詞の後に that を省略した間接話法が続く。時制は文脈に応じて現在形や過去形にずれる。"
+    },
+    {
+      "id": "capable-of-gerund",
+      "title": "capable of + gerund",
+      "rule": "Use 'capable of + -ing' to describe inherent ability or design capacity.",
+      "example": "aircraft capable of flying up to 22 hours non-stop",
+      "meaning_ja": "capable of + 動名詞で「〜する能力がある（設計上・仕様上）」を表す。able to より仕様・性能を示す硬い表現。"
+    },
+    {
+      "id": "purpose-infinitive",
+      "title": "Infinitive of purpose",
+      "rule": "Use 'to + verb' to express purpose: to allow, to certify, to start.",
+      "example": "ordered to allow it to carry out non-stop flights",
+      "meaning_ja": "to + 動詞の原形で目的を表す。allow + 目的語 + to不定詞 のように不定詞が重なる構造も多い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 7,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:27:35+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:airbus-tests-passenger-plane-that-can-fl"
+}

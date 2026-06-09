@@ -1,0 +1,411 @@
+{
+  "summary_ja": "日本政府と一部の銀行が、高度なサイバーセキュリティ機能を備えた米スタートアップAnthropicの新AIモデル「Claude Mythos」へのアクセスを認められたと、政府が水曜日に明らかにした。高度なAI主導のサイバー攻撃への懸念が高まる中、財務大臣片山さつき氏やサイバーセキュリティ担当大臣松本尚氏が、日本の金融機関や国全体の防衛力強化に資すると歓迎した。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's government and some banks have been given access to U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said Wednesday, as concerns mount about cyberattacks led by sophisticated AI.",
+      "translation_ja": "日本政府と一部の銀行が、高度なサイバーセキュリティ機能を備えた米国スタートアップAnthropicの新AIモデル「Claude Mythos」へのアクセスを認められたと、政府は水曜日に発表した。これは、高度なAIによるサイバー攻撃への懸念が高まる中でのことだ。",
+      "grammar_ja": "have been given access to は受動態＋名詞句で「アクセスを与えられた」。as concerns mount は理由・背景を示す従属節。led by sophisticated AI は過去分詞で cyberattacks を後置修飾する。",
+      "chunks": [
+        {
+          "text": "Japan's government and some banks",
+          "role_ja": "主語",
+          "literal_ja": "日本政府と一部の銀行が",
+          "note_ja": "ニュースでは組織名を主語に置き、誰が対象かを先に示す。"
+        },
+        {
+          "text": "have been given access to",
+          "role_ja": "述語（受動態）",
+          "literal_ja": "～へのアクセスを与えられてきた",
+          "note_ja": "give access to は「利用権限を与える」の定番表現。現在完了受動は最近まで続く状況を示す。"
+        },
+        {
+          "text": "U.S. startup Anthropic's new Claude Mythos artificial intelligence model",
+          "role_ja": "目的語",
+          "literal_ja": "米スタートアップAnthropicの新しいClaude Mythos AIモデル",
+          "note_ja": "所有格 's で企業名＋製品名をつなぐ。固有名詞はそのまま読む。"
+        },
+        {
+          "text": "with advanced cybersecurity capabilities",
+          "role_ja": "後置修飾",
+          "literal_ja": "高度なサイバーセキュリティ機能を備えた",
+          "note_ja": "with + 名詞 で特徴・付帯条件を簡潔に付け足す。"
+        },
+        {
+          "text": "the government said Wednesday",
+          "role_ja": "挿入の報道節",
+          "literal_ja": "政府は水曜日に述べた",
+          "note_ja": "主文の後ろに情報源を置く倒置的な報道文体。"
+        },
+        {
+          "text": "as concerns mount about cyberattacks led by sophisticated AI",
+          "role_ja": "背景を示す従属節",
+          "literal_ja": "高度なAIによるサイバー攻撃への懸念が高まる中で",
+          "note_ja": "mount は「（懸念が）高まる」。led by は「～によって行われる／主導される」。"
+        }
+      ],
+      "deep_dive_ja": "長い一文に情報源・背景・修飾が重なる典型の報道英語。日本語訳では二文に分けると読みやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "\"There is no doubt that this will contribute to strengthening security\" at a time when \"it is unacceptable\" for Japanese financial institutions to fall behind other countries in this field, Finance Minister Satsuki Katayama told reporters.",
+      "translation_ja": "財務大臣の片山さつき氏は記者団に対し、「これは安全保障の強化に間違いなく寄与する」と述べた。同氏は、日本の金融機関がこの分野で他国に遅れをとることは「許されない」時期にあると指摘した。",
+      "grammar_ja": "There is no doubt that... は「～であることは疑いない」。it is unacceptable for A to do B は形式主語 it の構文。at a time when は時期・状況を限定する。",
+      "chunks": [
+        {
+          "text": "There is no doubt that this will contribute to strengthening security",
+          "role_ja": "直接引用（主節の内容）",
+          "literal_ja": "これが安全保障強化に寄与することは疑いの余地がない",
+          "note_ja": "contribute to + 動名詞。security はここでは cyber security の文脈。"
+        },
+        {
+          "text": "at a time when",
+          "role_ja": "時を表す関係副詞節",
+          "literal_ja": "～という時期に",
+          "note_ja": "when は time を修飾し、背景状況を説明する。"
+        },
+        {
+          "text": "it is unacceptable for Japanese financial institutions to fall behind other countries in this field",
+          "role_ja": "引用内の評価文",
+          "literal_ja": "日本の金融機関がこの分野で他国に遅れることは許されない",
+          "note_ja": "fall behind は「遅れをとる」。in this field は「この分野で」。"
+        },
+        {
+          "text": "Finance Minister Satsuki Katayama told reporters",
+          "role_ja": "主節（発言の報道）",
+          "literal_ja": "財務大臣片山さつきは記者に語った",
+          "note_ja": "役職＋氏名の順。発言動詞は文末に置く英語の報道構文。"
+        }
+      ],
+      "deep_dive_ja": "二重引用と形式主語が重なり難度が上がる。日本語では引用を分け、評価部分を独立させると自然。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Hisashi Matsumoto, minister in charge of cybersecurity, also hailed the granting of access to the government and domestic financial institutions, vowing to take steps to \"strengthen the cyber resilience of Japan as a whole.\"",
+      "translation_ja": "サイバーセキュリティ担当大臣の松本尚氏も、政府と国内金融機関へのアクセス許可を歓迎し、「日本全体のサイバー耐性を強化する」ための措置を講じると誓った。",
+      "grammar_ja": "minister in charge of は同格説明。hail the granting of は動名詞を目的語に取る。vowing to... は付帯状況の分詞構文。",
+      "chunks": [
+        {
+          "text": "Hisashi Matsumoto, minister in charge of cybersecurity",
+          "role_ja": "主語（同格あり）",
+          "literal_ja": "サイバーセキュリティ担当大臣・松本尚",
+          "note_ja": "in charge of は「～を担当する」。カンマで役職を挿入する。"
+        },
+        {
+          "text": "also hailed the granting of access",
+          "role_ja": "述語",
+          "literal_ja": "またアクセス許可を歓迎した",
+          "note_ja": "hail は「称賛する・歓迎する」のやや硬い語。the granting of は「～すること／許可」。"
+        },
+        {
+          "text": "to the government and domestic financial institutions",
+          "role_ja": "修飾語",
+          "literal_ja": "政府と国内金融機関への",
+          "note_ja": "access の受益者を to で示す。"
+        },
+        {
+          "text": "vowing to take steps to \"strengthen the cyber resilience of Japan as a whole\"",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "日本全体のサイバー耐性を強化する措置を取ると誓いながら",
+          "note_ja": "take steps to do は「措置を講じる」。resilience は「回復力・耐性」。"
+        }
+      ],
+      "deep_dive_ja": "also は前段の片山氏の発言に続く反応を示す。vowing は別文にせず一文で政策姿勢まで伝える報道表現。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "\"It is a significant step forward that the door opened,\" Matsumoto said, referring to the expansion of access rights granted by Anthropic to like-minded countries, including the Japanese government.",
+      "translation_ja": "松本氏は、「扉が開いたことは大きな前進だ」と述べた。これは、Anthropicが志を同じくする国々（日本政府を含む）に与えたアクセス権の拡大を指している。",
+      "grammar_ja": "It is a significant step forward that... は「～ということは大きな前進だ」。referring to は分詞構文で説明を追加。granted by... to... は二重の前置修飾。",
+      "chunks": [
+        {
+          "text": "It is a significant step forward that the door opened",
+          "role_ja": "直接引用",
+          "literal_ja": "扉が開いたことは大きな前進である",
+          "note_ja": "the door opened は比喩で「利用の機会が与えられた」意。"
+        },
+        {
+          "text": "Matsumoto said",
+          "role_ja": "主節",
+          "literal_ja": "松本は述べた",
+          "note_ja": "引用の直後に話者を置く倒置に近い構文。"
+        },
+        {
+          "text": "referring to the expansion of access rights",
+          "role_ja": "付帯説明（分詞構文）",
+          "literal_ja": "アクセス権拡大について言及しながら",
+          "note_ja": "refer to は「言及する・指す」。"
+        },
+        {
+          "text": "granted by Anthropic to like-minded countries, including the Japanese government",
+          "role_ja": "後置修飾",
+          "literal_ja": "Anthropicによって志を同じくする国々（日本政府を含む）に与えられた",
+          "note_ja": "like-minded countries は「価値観や目的を共有する国」。including で例示。"
+        }
+      ],
+      "deep_dive_ja": "the door opened は直訳せず「利用枠が広がった」と意訳するのが自然。like-minded は外交・政策記事でよく出る。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "The development comes after Katayama said last week that major Japanese banks have been given access to ChatGPT chatbot developer OpenAI's newest GPT-5.5-Cyber model, which is viewed as having similar advanced cybersecurity capabilities to those of Claude Mythos.",
+      "translation_ja": "この動きは、片山氏が先週、大手日本の銀行がChatGPT開発元OpenAIの最新モデル「GPT-5.5-Cyber」へのアクセスを認められたと述べた後に起きたものだ。このモデルは、Claude Mythosと同様の高度なサイバーセキュリティ機能を持つと見なされている。",
+      "grammar_ja": "comes after は時系列の報道表現。that節内に受動態 have been given access to。関係代名詞 which はモデルを修飾し、be viewed as having... で評価を示す。",
+      "chunks": [
+        {
+          "text": "The development comes after",
+          "role_ja": "主節",
+          "literal_ja": "この展開は～の後に起きた",
+          "note_ja": "development は新しい出来事・動きを指す。"
+        },
+        {
+          "text": "Katayama said last week that",
+          "role_ja": "従属節（間接話法）",
+          "literal_ja": "片山は先週～と述べた",
+          "note_ja": "said that で他人の発言内容を伝える。"
+        },
+        {
+          "text": "major Japanese banks have been given access to ChatGPT chatbot developer OpenAI's newest GPT-5.5-Cyber model",
+          "role_ja": "that節の内容",
+          "literal_ja": "大手日本銀行がOpenAIの最新GPT-5.5-Cyberモデルへのアクセスを与えられた",
+          "note_ja": "chatbot developer は同格で OpenAI を説明する。"
+        },
+        {
+          "text": "which is viewed as having similar advanced cybersecurity capabilities to those of Claude Mythos",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "それはClaude Mythosのそれと同様の高度なサイバーセキュリティ機能を持つと見なされている",
+          "note_ja": "be viewed as は「～と見なされる」。those of は those capabilities の代用。"
+        }
+      ],
+      "deep_dive_ja": "those of Claude Mythos の those は capabilities を受ける代名詞。長い固有名詞列は読み飛ばさず区切って理解する。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "Leading Japanese banks, such as MUFG Bank, were expected to have been allowed to use the Anthropic model, according to a source close to the matter.",
+      "translation_ja": "三菱UFJ銀行などの大手日本の銀行が、Anthropicのモデルを利用できるようになると見られていたという。",
+      "grammar_ja": "were expected to have been allowed to は「～されると見込まれていた」の複合構文。such as で例示。according to a source close to the matter は匿名情報源の定型表現。",
+      "chunks": [
+        {
+          "text": "Leading Japanese banks, such as MUFG Bank",
+          "role_ja": "主語",
+          "literal_ja": "三菱UFJ銀行などの大手日本の銀行",
+          "note_ja": "leading は「主要な・大手の」。such as で具体例。"
+        },
+        {
+          "text": "were expected to have been allowed to use the Anthropic model",
+          "role_ja": "述語",
+          "literal_ja": "Anthropicモデルの利用を許可されると見込まれていた",
+          "note_ja": "be expected to は「～と予想される」。be allowed to do は「～することを許可される」。"
+        },
+        {
+          "text": "according to a source close to the matter",
+          "role_ja": "情報源の提示",
+          "literal_ja": "この件に近い筋によると",
+          "note_ja": "close to the matter は「関係者・事情通」。匿名ソースの婉曲表現。"
+        }
+      ],
+      "deep_dive_ja": "報道英語でよく使う「関係者」の言い回し。正式発表前の推測を伝える were expected に注意。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The latest granting of access to Anthropic's model came after U.S.",
+      "translation_ja": "Anthropicのモデルへのアクセス許可の最新の件は、米国の",
+      "grammar_ja": "入力文は途中で切れており、次文と一続きの複文の前半部。came after は「～の後に起きた」。the latest granting of access は名詞化された主語。",
+      "chunks": [
+        {
+          "text": "The latest granting of access to Anthropic's model",
+          "role_ja": "主語",
+          "literal_ja": "Anthropicモデルへのアクセス許可という最新の件",
+          "note_ja": "granting of access を名詞句にして主語化する硬い報道文体。"
+        },
+        {
+          "text": "came after U.S.",
+          "role_ja": "述語（未完）",
+          "literal_ja": "米国の～の後に起きた",
+          "note_ja": "U.S. の後に官職・人名が続く。次文と合わせて読む。"
+        }
+      ],
+      "deep_dive_ja": "紙面改行で文が分割されている例。意味は次文の Treasury Secretary... と結合して理解する。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "Treasury Secretary Scott Bessent said it would come within two weeks when he made a three-day visit to Japan through May 13, according to Katayama.",
+      "translation_ja": "財務長官のスコット・ベッセント氏が5月13日までの3日間の日本訪問の際、「2週間以内に（アクセスが）実現する」と述べた後のことだと、片山氏による。",
+      "grammar_ja": "前句の came after と結びつく。it would come は未来の予定を過去時点から見た表現。when he made a visit は時を表す副詞節。according to Katayama は情報源。",
+      "chunks": [
+        {
+          "text": "Treasury Secretary Scott Bessent",
+          "role_ja": "主語",
+          "literal_ja": "財務長官スコット・ベッセント",
+          "note_ja": "U.S. Treasury Secretary の続きとして読む。"
+        },
+        {
+          "text": "said it would come within two weeks",
+          "role_ja": "述語＋間接話法",
+          "literal_ja": "2週間以内に実現すると述べた",
+          "note_ja": "it は前後文脈のアクセス許可を指す。would come は当時から見た予定。"
+        },
+        {
+          "text": "when he made a three-day visit to Japan through May 13",
+          "role_ja": "時を表す副詞節",
+          "literal_ja": "5月13日までの3日間の日本訪問をした際に",
+          "note_ja": "through May 13 は「5月13日まで（含む）」。"
+        },
+        {
+          "text": "according to Katayama",
+          "role_ja": "情報源",
+          "literal_ja": "片山氏によれば",
+          "note_ja": "誰の発言・説明かを文末で示す。"
+        }
+      ],
+      "deep_dive_ja": "前句と合わせると The latest granting... came after Bessent said... の時系列構文になる。it の指示対象を文脈から補う練習に適する。",
+      "difficulty": "hard",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "The Claude Mythos model is seen as highly capable of finding security vulnerabilities, and Anthropic initially limited access to IT companies such as Google LLC and certain financial institutions after its April unveiling, due to concerns it could be misused for cyberattacks.",
+      "translation_ja": "Claude Mythosモデルはセキュリティ上の脆弱性を見つける能力が非常に高いと見なされている。Anthropicは4月の公開後、サイバー攻撃に悪用される恐れがあるとして、当初はGoogleなどのIT企業や一部の金融機関にのみアクセスを限定した。",
+      "grammar_ja": "is seen as capable of は能力の評価。and で二つの事実を並列。due to concerns it could be misused は理由節。after its April unveiling の its はモデルを指す。",
+      "chunks": [
+        {
+          "text": "The Claude Mythos model is seen as highly capable of finding security vulnerabilities",
+          "role_ja": "主節（評価）",
+          "literal_ja": "Claude Mythosモデルは脆弱性発見に非常に長けていると見なされている",
+          "note_ja": "capable of + 動名詞。vulnerabilities は「脆弱性」。"
+        },
+        {
+          "text": "Anthropic initially limited access to IT companies such as Google LLC and certain financial institutions",
+          "role_ja": "並列節",
+          "literal_ja": "Anthropicは当初IT企業や一部金融機関へのアクセスを限定した",
+          "note_ja": "limit access to は「利用を限定する」。initially は「当初は」。"
+        },
+        {
+          "text": "after its April unveiling",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "4月の公開後",
+          "note_ja": "unveiling は「発表・公開」。its はモデルの。"
+        },
+        {
+          "text": "due to concerns it could be misused for cyberattacks",
+          "role_ja": "理由",
+          "literal_ja": "サイバー攻撃に悪用される恐れへの懸念のため",
+          "note_ja": "due to + 名詞。concerns の後の it could be misused は that 省略の内容節。"
+        }
+      ],
+      "deep_dive_ja": "良い用途と悪用リスクの対比が記事の論点。misused for cyberattacks は技術記事で頻出の collocation。",
+      "difficulty": "hard",
+      "sentence_id": "s009"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "cybersecurity capabilities",
+      "pronunciation": "/ˈsaɪbərsɪˌkjʊrəti ˌkeɪpəˈbɪlətiz/",
+      "meaning_ja": "サイバーセキュリティ上の能力・機能",
+      "example": "advanced cybersecurity capabilities",
+      "example_ja": "高度なサイバーセキュリティ機能",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "mount",
+      "pronunciation": "/maʊnt/",
+      "meaning_ja": "（懸念・圧力などが）高まる、増大する",
+      "example": "concerns mount about cyberattacks",
+      "example_ja": "サイバー攻撃への懸念が高まる",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "hail",
+      "pronunciation": "/heɪl/",
+      "meaning_ja": "（成果や決定を）歓迎する、称賛する",
+      "example": "Matsumoto hailed the granting of access",
+      "example_ja": "松本氏はアクセス許可を歓迎した",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "resilience",
+      "pronunciation": "/rɪˈzɪliəns/",
+      "meaning_ja": "（攻撃などからの）耐性、回復力",
+      "example": "strengthen the cyber resilience of Japan",
+      "example_ja": "日本のサイバー耐性を強化する",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "like-minded",
+      "pronunciation": "/ˈlaɪkˈmaɪndɪd/",
+      "meaning_ja": "志を同じくする、考え方が近い",
+      "example": "like-minded countries",
+      "example_ja": "志を同じくする国々",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "vulnerability",
+      "pronunciation": "/ˌvʌlnərəˈbɪləti/",
+      "meaning_ja": "脆弱性、弱点",
+      "example": "finding security vulnerabilities",
+      "example_ja": "セキュリティ上の脆弱性を見つけること",
+      "source_sentence_id": "s009"
+    },
+    {
+      "word": "fall behind",
+      "pronunciation": "/fɔːl bɪˈhaɪnd/",
+      "meaning_ja": "遅れをとる、後れを取る",
+      "example": "fall behind other countries in this field",
+      "example_ja": "この分野で他国に遅れをとる",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "unveiling",
+      "pronunciation": "/ʌnˈveɪlɪŋ/",
+      "meaning_ja": "公開、発表（式）",
+      "example": "after its April unveiling",
+      "example_ja": "4月の公開後",
+      "source_sentence_id": "s009"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "passive-access",
+      "title": "Passive: have been given access to",
+      "rule": "Use 'be given access to + noun' to report that permission to use something has been granted.",
+      "example": "Major Japanese banks have been given access to the new AI model.",
+      "meaning_ja": "「～へのアクセスを与えられた」は報道でよく使う受動表現。誰が与えたかは文脈や別節で示されることが多い。"
+    },
+    {
+      "id": "reporting-clauses",
+      "title": "Reporting clauses with said / according to",
+      "rule": "Place the source (said..., according to...) near the reported information, often at the end or after a quote.",
+      "example": "The government said Wednesday, as concerns mount...",
+      "meaning_ja": "情報源を文末や引用の後に置くのが英語ニュースの典型。日本語より主語・述語の順が入れ替わることがある。"
+    },
+    {
+      "id": "participle-clauses",
+      "title": "Participial clauses (vowing / referring / led by)",
+      "rule": "Use -ing or past participle phrases to add background, reason, or manner without starting a new sentence.",
+      "example": "Matsumoto hailed the move, vowing to take steps to strengthen resilience.",
+      "meaning_ja": "分詞構文で背景や付帯行為を簡潔に足す。日本語では「～しながら」「～について」と訳すことが多い。"
+    },
+    {
+      "id": "formal-it-clauses",
+      "title": "Formal 'it' patterns: It is ... that / for ... to",
+      "rule": "Use 'It is + adjective + that/for...' to emphasize evaluation or judgment.",
+      "example": "It is unacceptable for institutions to fall behind other countries.",
+      "meaning_ja": "It is unacceptable for A to do B は「AがBすることは許されない」。評価・判断を客観的に述べる硬い表現。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 9,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-09T22:28:55+09:00"
+  },
+  "article_id": "japantoday:2026-06-03:gov-t-banks-given-access-to-latest-anthr"
+}
