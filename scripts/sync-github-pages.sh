@@ -8,5 +8,6 @@ cd "$ROOT"
 rm -rf docs
 mkdir -p docs
 cp -R dist/. docs/
+touch docs/.nojekyll
 
 echo "Synced dist/ -> docs/ ($(find docs -name '*.html' | wc -l | tr -d ' ') HTML files)"
