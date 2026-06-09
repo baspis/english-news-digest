@@ -1,229 +1,411 @@
 {
-  "article_id": "japantoday:2026-06-09:japan-s-april-current-account-surplus-at",
-  "schema_version": 2,
-  "analysis_level": "standard_with_deep_chunks",
+  "summary_ja": "日本は4月の経常収支が3兆9100億円の黒字となったと財務省が発表した。海外投資の収益や輸出の増加が押し上げ要因で、前年比64.9%の大幅増となった。一方、中東向け貿易や旅行者数の減少も見られたが、中東情勢の影響を断定するのは難しいと当局は述べた。",
   "reading_level": "B2",
-  "summary_ja": "日本は4月、海外投資の好調なリターンと輸出増を背景に、経常収支が3兆9100億円の黒字となったと財務省が発表した。黒字は前年比64.9%増と大幅に拡大した一方、中東向け輸出入や旅行者数の減少もデータに反映されている。主要項目では第一次所得が増加し、貿易収支も黒字に転じた。",
   "sentences": [
     {
-      "sentence_id": "s001",
       "text": "Japan posted a current account surplus of 3.91 trillion yen ($24.4 billion) in April, thanks to returns from robust overseas investments and rises in exports, the Finance Ministry said Monday.",
-      "translation_ja": "財務省は月曜日、堅調な海外投資の収益と輸出増を背景に、日本の4月の経常収支が3兆9100億円（244億ドル）の黒字となったと発表した。",
-      "grammar_ja": "posted はニュースで「〜を記録した」の意味。thanks to は原因・要因を示す。文末の the Finance Ministry said Monday は報道文体の倒置（発言元＋時点）。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "財務省は月曜日、堅調な海外投資の収益と輸出の増加により、日本の4月の経常収支が3兆9100億円（244億ドル）の黒字となったと発表した。",
+      "grammar_ja": "「posted a surplus」は経済ニュースで「黒字を計上した」の定番表現。「thanks to」は原因・要因を示す前置き句。「the Finance Ministry said Monday」は報道文の末尾に置く倒置的な引用構文。",
+      "chunks": [
+        {
+          "text": "Japan",
+          "role_ja": "主語",
+          "literal_ja": "日本は",
+          "note_ja": "国名が主語。経済統計の主語として頻出。"
+        },
+        {
+          "text": "posted a current account surplus of 3.91 trillion yen ($24.4 billion)",
+          "role_ja": "述語（核心）",
+          "literal_ja": "経常収支黒字3兆9100億円を計上した",
+          "note_ja": "post = 公表・計上する。current account surplus = 経常収支の黒字。括弧内はドル換算。"
+        },
+        {
+          "text": "in April",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "4月に",
+          "note_ja": "統計の対象期間を示す。"
+        },
+        {
+          "text": "thanks to returns from robust overseas investments and rises in exports",
+          "role_ja": "原因を表す副詞句",
+          "literal_ja": "堅調な海外投資の収益と輸出増加のおかげで",
+          "note_ja": "thanks to = 〜のおかげで。robust = 堅調な・力強い。returns = 投資収益。"
+        },
+        {
+          "text": "the Finance Ministry said Monday",
+          "role_ja": "引用・出典",
+          "literal_ja": "財務省は月曜日そう述べた",
+          "note_ja": "ニュース英語では発言元を文末に置くのが一般的。"
+        }
+      ],
+      "deep_dive_ja": "「said Monday」は「on Monday said」より簡潔で、報道英語の定型。B2学習者は thanks to と because of の使い分けに注意：thanks to はやや肯定的な要因に使われることが多い。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
     },
     {
-      "sentence_id": "s002",
       "text": "The surplus surged 64.9 percent from a year earlier as increases in returns on foreign investments by Japanese financial institutions and trading houses expanded, the Finance Ministry said in a preliminary report.",
-      "translation_ja": "財務省の速報によると、日本の金融機関や商社による海外投資収益の増加が拡大したことで、黒字は前年同期比64.9%急増した。",
-      "grammar_ja": "surged は急増を表す動詞。from a year earlier は前年同期比。as 節は理由・背景。in a preliminary report は正式確定前の速報値であることを示す。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "財務省の速報によると、日本の金融機関や商社による海外投資収益の増加が拡大したことで、黒字は前年比64.9%急増した。",
+      "grammar_ja": "「surged ... from a year earlier」は前年比の急増を表す定番。「as」は理由・背景の従属節。「in a preliminary report」は発表形式を限定する修飾。",
+      "chunks": [
+        {
+          "text": "The surplus",
+          "role_ja": "主語",
+          "literal_ja": "その黒字は",
+          "note_ja": "前文の current account surplus を受ける。"
+        },
+        {
+          "text": "surged 64.9 percent from a year earlier",
+          "role_ja": "述語",
+          "literal_ja": "前年比64.9%急増した",
+          "note_ja": "surge = 急増する。from a year earlier = 前年同期比。"
+        },
+        {
+          "text": "as increases in returns on foreign investments ... expanded",
+          "role_ja": "理由の従属節",
+          "literal_ja": "海外投資収益の増加が拡大したので",
+          "note_ja": "as = 〜したので・〜に伴い。returns on investments = 投資収益。"
+        },
+        {
+          "text": "by Japanese financial institutions and trading houses",
+          "role_ja": "動作主・出所",
+          "literal_ja": "日本の金融機関と商社による",
+          "note_ja": "trading houses = 総合商社（三菱商事など）。"
+        },
+        {
+          "text": "the Finance Ministry said in a preliminary report",
+          "role_ja": "引用・出典",
+          "literal_ja": "財務省は速報でそう述べた",
+          "note_ja": "preliminary report = 速報・暫定値。"
+        }
+      ],
+      "deep_dive_ja": "長い as 節が主語 increases を中心に構成されている。学習者は surged と increased の強さの違いを押さえると良い：surge はより劇的な増加を示唆する。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
     },
     {
-      "sentence_id": "s003",
       "text": "A ministry official said the April data reflected falls in Japan's exports to the Middle East and imports from the region, both shedding over 55 percent year over year, as well as a 20 percent decline in the number of travelers from the area.",
-      "translation_ja": "省の担当者は、4月のデータには中東向け輸出と同地域からの輸入がともに前年比55%超の減少を示したことや、同地域からの旅行者数が20%減ったことも反映されていると述べた。",
-      "grammar_ja": "reflect は「〜を反映する」。both shedding ... は独立分詞構文で両方の減少を補足。year over year（前年同期比）は経済記事の定番表現。as well as で追加要素を列挙。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "財務省の幹部は、4月のデータは中東向け輸出と同地域からの輸入の減少（いずれも前年比55%超の落ち込み）に加え、同地域からの旅行者数20%減を反映していると述べた。",
+      "grammar_ja": "「reflected falls」はデータが現象を映し出すという報道表現。「both shedding ...」は独立分詞構文で両方の減少率を補足。「as well as」で追加要素を列挙。",
+      "chunks": [
+        {
+          "text": "A ministry official said",
+          "role_ja": "主節（引用）",
+          "literal_ja": "省の幹部は述べた",
+          "note_ja": "匿名の当局者発言。official = 当局者・幹部。"
+        },
+        {
+          "text": "the April data reflected falls",
+          "role_ja": "従属節の述語",
+          "literal_ja": "4月のデータは減少を反映していた",
+          "note_ja": "reflect = 〜を反映する・示す。"
+        },
+        {
+          "text": "in Japan's exports to the Middle East and imports from the region",
+          "role_ja": "falls の内容",
+          "literal_ja": "日本の中東向け輸出と同地域からの輸入における",
+          "note_ja": "the region = 直前の the Middle East を受ける。"
+        },
+        {
+          "text": "both shedding over 55 percent year over year",
+          "role_ja": "補足説明（分詞構文）",
+          "literal_ja": "両方とも前年比55%超の減少を示して",
+          "note_ja": "year over year (YoY) = 前年同期比。shed = 落とす・減らす。"
+        },
+        {
+          "text": "as well as a 20 percent decline in the number of travelers from the area",
+          "role_ja": "追加要素",
+          "literal_ja": "および同地域からの旅行者数20%減も",
+          "note_ja": "as well as = 〜に加えて。the area = 中東地域。"
+        }
+      ],
+      "deep_dive_ja": "一文に複数の数字と地域参照（the region, the area）が入る典型の経済報道文。both ... as well as の構造を図式化すると理解しやすい。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
     },
     {
-      "sentence_id": "s004",
       "text": "But it is hard to say how the Middle East conflict, stemming from the launch of U.S.-Israeli attacks on Iran in late February, impacted the overall figure, the official said.",
-      "translation_ja": "ただし担当者は、2月下旬の米以共同攻撃によるイラン攻撃を発端とする中東情勢が全体の数値にどう影響したかは、断定しにくいと述べた。",
-      "grammar_ja": "it is hard to say how ... は「〜かどうか言いにくい」。stemming from は現在分詞で原因を挿入。impacted は影響を与えた（過去形）。カンマで挟んだ挿入句がニュース記事でよく使われる。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "しかし幹部は、2月下旬の米以によるイラン攻撃の開始に端を発する中東の紛争が、全体の数値にどの程度影響したかは断定しにくいと述べた。",
+      "grammar_ja": "「it is hard to say how ...」は断定を避ける報道表現。「stemming from」は現在分詞で原因を後置修飾。「impacted」は動詞としての impact（影響した）。",
+      "chunks": [
+        {
+          "text": "But it is hard to say",
+          "role_ja": "主節",
+          "literal_ja": "しかし〜と言うのは難しい",
+          "note_ja": "it is hard to say = 断定しにくい・言い切れない。"
+        },
+        {
+          "text": "how the Middle East conflict ... impacted the overall figure",
+          "role_ja": "say の内容（間接疑問文）",
+          "literal_ja": "中東紛争が全体数値にどう影響したか",
+          "note_ja": "how 節が say の目的語。overall figure = 全体の数値。"
+        },
+        {
+          "text": "stemming from the launch of U.S.-Israeli attacks on Iran in late February",
+          "role_ja": "conflict の後置修飾",
+          "literal_ja": "2月下旬の米以イラン攻撃開始に由来する",
+          "note_ja": "stem from = 〜に端を発する。launch = 開始・発動。"
+        },
+        {
+          "text": "the official said",
+          "role_ja": "引用",
+          "literal_ja": "幹部は述べた",
+          "note_ja": "前文の ministry official を the official で受ける。"
+        }
+      ],
+      "deep_dive_ja": "報道では因果関係を断定しない表現が重要。学習者は impact を名詞だけと思いがちだが、ここでは動詞。stem from / result from をセットで覚えると良い。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
     },
     {
-      "sentence_id": "s005",
       "text": "Primary income, which reflects how much Japan earned from overseas investments, rose 15.3 percent from a year earlier to 4.21 trillion yen, it said.",
-      "translation_ja": "海外投資から日本がいくら稼いだかを示す第一次所得は、前年同期比15.3%増の4兆2100億円となったと発表された。",
-      "grammar_ja": "非制限的関係代名詞 which が用語を説明。rose ... to ... は増加後の水準を示す典型パターン。it said は前文の主語（省）を受ける報道の省略表現。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "海外投資から日本がいくら稼いだかを示す一次所得は、前年比15.3%増の4兆2100億円となったと発表された。",
+      "grammar_ja": "「Primary income」は経常収支の主要項目。非制限用法の関係代名詞 which が説明を挿入。「rose ... to」は増加後の水準を示す。",
+      "chunks": [
+        {
+          "text": "Primary income",
+          "role_ja": "主語",
+          "literal_ja": "一次所得は",
+          "note_ja": "経常収支における投資収益などの項目名。"
+        },
+        {
+          "text": "which reflects how much Japan earned from overseas investments",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "海外投資から日本がいくら得たかを反映する",
+          "note_ja": "reflect = 〜を示す・反映する。how much = いくら。"
+        },
+        {
+          "text": "rose 15.3 percent from a year earlier to 4.21 trillion yen",
+          "role_ja": "述語",
+          "literal_ja": "前年比15.3%増し4兆2100億円となった",
+          "note_ja": "rise to = 〜まで上昇した。from a year earlier で比較基準。"
+        },
+        {
+          "text": "it said",
+          "role_ja": "引用",
+          "literal_ja": "そう発表された",
+          "note_ja": "it = the Finance Ministry（前文からの省略）。"
+        }
+      ],
+      "deep_dive_ja": "経済用語 primary income は「初回所得」と直訳しがちだが、実際は投資・雇用による海外からの所得。which 節が長いので、まず述語 rose ... to を先に掴む読み方が有効。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
     },
     {
-      "sentence_id": "s006",
       "text": "Among other key components, the goods trade balance swung to black with a surplus of 395.7 billion yen compared to a deficit of 700 million yen the previous year.",
-      "translation_ja": "他の主要項目では、貿易収支が前年の70億円の赤字から転じ、3957億円の黒字となった。",
-      "grammar_ja": "swung to black は会計・経済の慣用表現で黒字化。compared to で前年との対比。Among other key components で段落内の別項目へ移行。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "他の主要項目の中では、商品貿易収支は前年の7億円の赤字から転じ、3957億円の黒字となった。",
+      "grammar_ja": "「swung to black」は貿易赤字から黒字への転換を表す慣用表現。「compared to」で前年との対比。",
+      "chunks": [
+        {
+          "text": "Among other key components",
+          "role_ja": "副詞句（範囲）",
+          "literal_ja": "他の主要項目の中で",
+          "note_ja": "among = 〜の中で。components = 構成要素・項目。"
+        },
+        {
+          "text": "the goods trade balance",
+          "role_ja": "主語",
+          "literal_ja": "商品貿易収支は",
+          "note_ja": "goods trade = 商品貿易（サービス貿易と対比）。"
+        },
+        {
+          "text": "swung to black with a surplus of 395.7 billion yen",
+          "role_ja": "述語",
+          "literal_ja": "3957億円の黒字に転じた",
+          "note_ja": "swing to black = 黒字に転じる（in the red の反対）。"
+        },
+        {
+          "text": "compared to a deficit of 700 million yen the previous year",
+          "role_ja": "比較",
+          "literal_ja": "前年の7億円赤字と比べて",
+          "note_ja": "compared to = 〜と比較して。deficit = 赤字。"
+        }
+      ],
+      "deep_dive_ja": "swing to black / in the black は会計・貿易ニュースの色比喩。日本語の「黒字転換」と対応させて覚えると実務英語で役立つ。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
     },
     {
-      "sentence_id": "s007",
       "text": "Exports expanded 13.9 percent to 10.11 trillion yen and imports rose 9.5 percent to 9.71 trillion yen.",
       "translation_ja": "輸出は13.9%増の10兆1100億円、輸入は9.5%増の9兆7100億円となった。",
-      "grammar_ja": "expanded / rose はともに増加。パーセント＋to＋金額で率と絶対額を並記する経済記事の定型構文。and で対になる2指標を簡潔に並列。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "grammar_ja": "並列構文で輸出・輸入を対比。「expanded/r rose ... percent to」は率と絶対額を一文で示す経済報道の型。",
+      "chunks": [
+        {
+          "text": "Exports expanded 13.9 percent to 10.11 trillion yen",
+          "role_ja": "並列節1",
+          "literal_ja": "輸出は13.9%拡大し10兆1100億円となった",
+          "note_ja": "expand = 拡大する（輸出の増加に多用）。"
+        },
+        {
+          "text": "and",
+          "role_ja": "並列接続",
+          "literal_ja": "そして",
+          "note_ja": "輸入の節と並列。"
+        },
+        {
+          "text": "imports rose 9.5 percent to 9.71 trillion yen",
+          "role_ja": "並列節2",
+          "literal_ja": "輸入は9.5%増し9兆7100億円となった",
+          "note_ja": "rise = 増加する。to で到達水準を示す。"
+        }
+      ],
+      "deep_dive_ja": "数字の読み方：trillion yen は「兆円」。expanded と rose はほぼ同義だが、輸出には expand、一般的な増加には rise が選ばれやすい。",
+      "difficulty": "easy",
+      "sentence_id": "s007"
     },
     {
-      "sentence_id": "s008",
       "text": "The current account balance is one of the widest gauges of international trade.",
-      "translation_ja": "経常収支は、国際貿易を測る最も広い指標の一つである。",
-      "grammar_ja": "one of the widest gauges は「最も広範な指標の一つ」。現在形で一般的な定義・説明。gauge は名詞で「尺度・指標」。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "経常収支は国際貿易を測る最も広範な指標の一つである。",
+      "grammar_ja": "「one of the widest gauges」は最上級を含む one of 構文。gauge = 指標・尺度。",
+      "chunks": [
+        {
+          "text": "The current account balance",
+          "role_ja": "主語",
+          "literal_ja": "経常収支は",
+          "note_ja": "記事全体のキーワードの定義文。"
+        },
+        {
+          "text": "is one of the widest gauges",
+          "role_ja": "述語",
+          "literal_ja": "最も広範な指標の一つである",
+          "note_ja": "one of the + 最上級 + 複数名詞。"
+        },
+        {
+          "text": "of international trade",
+          "role_ja": "修飾語",
+          "literal_ja": "国際貿易の",
+          "note_ja": "gauge of = 〜を測る指標。"
+        }
+      ],
+      "deep_dive_ja": "記事末尾の背景説明としてよく使われる一文型。wide gauge は「幅広い指標」＝貿易だけでなく投資収益なども含むという含意。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
     },
     {
-      "sentence_id": "s009",
-      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
-      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。アロハ風のライブミュージック（SHEN）と、飲み放題・ビュッフェをお楽しみください。",
-      "grammar_ja": "Join us for ... は広告の呼びかけ。aloha-inspired は複合形容詞（ハイフン）。free flowing は飲み放題のニュアンス。場所は at で示す。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s010",
       "text": "July 2 (Thurs), 7pm to 9:30pm.",
-      "translation_ja": "7月2日（木）19:00〜21:30。",
-      "grammar_ja": "日時の省略表記。括弧内の曜日略記。to で終了時刻を示す広告・案内の定型フォーマット。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s011",
-      "text": "Get your ticket now for a 50% Discount.",
-      "translation_ja": "今すぐチケットを購入して50%オフ。",
-      "grammar_ja": "命令文 Get ... now で行動を促す。for a 50% Discount は割引目的を示す。広告文では冠詞 a が割引額の前に付くことがある。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s012",
-      "text": "Only 50 Early Bird Tickets Available.",
-      "translation_ja": "早割チケットは50枚限定。",
-      "grammar_ja": "Only で数量限定を強調。形容詞＋名詞の後に Available が続く見出し体（述語動詞なし）の広告表現。Early Bird は先行販売割引の慣用語。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s013",
-      "text": "Use your Facebook account to login or register with JapanToday.",
-      "translation_ja": "FacebookアカウントでJapanTodayにログインまたは登録してください。",
-      "grammar_ja": "Use ... to ... は手段と目的。login or register は並列の動詞。with JapanToday でサービス名を示す（正しくは log in と2語の場合も多い）。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s014",
-      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
-      "translation_ja": "その際、ニュース速報の配信案内メールも届きます。",
-      "grammar_ja": "By doing so は前文の行為を受ける。inviting you to receive は現在分詞で email を修飾する名詞句。you will receive は将来の付随結果を述べる。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "7月2日（木）午後7時〜9時30分。",
+      "grammar_ja": "イベント告知の省略文。動詞なしの時刻・日付の名詞句のみ。括弧内は曜日、to は終了時刻を示す。",
+      "chunks": [
+        {
+          "text": "July 2 (Thurs)",
+          "role_ja": "日付",
+          "literal_ja": "7月2日（木曜）",
+          "note_ja": "英語圏では月/日の順。括弧で曜日を補足。"
+        },
+        {
+          "text": "7pm to 9:30pm",
+          "role_ja": "時間帯",
+          "literal_ja": "午後7時から9時30分まで",
+          "note_ja": "pm = post meridiem（午後）。to で時間範囲。"
+        }
+      ],
+      "deep_dive_ja": "本文の広告部分から切り出された断片。英語のイベント案内では動詞を省略し日時だけ並べるのが普通。記事本文の分析とは無関係だが、告知英語の読み方として有用。",
+      "difficulty": "easy",
+      "sentence_id": "s009"
     }
   ],
   "vocabulary": [
     {
       "word": "current account surplus",
       "pronunciation": "/ˈkʌrənt əˈkaʊnt ˈsɜːrpləs/",
-      "meaning_ja": "経常収支の黒字（対外取引全体の収入が支出を上回る状態）",
+      "meaning_ja": "経常収支の黒字",
       "example": "Japan posted a current account surplus of 3.91 trillion yen in April.",
-      "example_ja": "日本は4月、経常収支が3兆9100億円の黒字となった。"
+      "example_ja": "日本は4月の経常収支が3兆9100億円の黒字となった。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "surge",
+      "pronunciation": "/sɜːrdʒ/",
+      "meaning_ja": "急増する、急上昇する",
+      "example": "The surplus surged 64.9 percent from a year earlier.",
+      "example_ja": "黒字は前年比64.9%急増した。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "preliminary report",
+      "pronunciation": "/prɪˈlɪmɪneri rɪˈpɔːrt/",
+      "meaning_ja": "速報、暫定報告",
+      "example": "The Finance Ministry said in a preliminary report.",
+      "example_ja": "財務省は速報でそう述べた。",
+      "source_sentence_id": "s002"
     },
     {
       "word": "year over year",
       "pronunciation": "/jɪr ˈoʊvər jɪr/",
       "meaning_ja": "前年同期比で",
-      "example": "Both exports and imports fell over 55 percent year over year.",
-      "example_ja": "輸出と輸入はともに前年同期比で55%超の減少となった。"
-    },
-    {
-      "word": "preliminary report",
-      "pronunciation": "/prɪˈlɪmɪneri rɪˈpɔːrt/",
-      "meaning_ja": "速報・暫定報告（後日修正される可能性がある初回発表）",
-      "example": "The Finance Ministry said in a preliminary report.",
-      "example_ja": "財務省は速報で発表した。"
+      "example": "Exports shed over 55 percent year over year.",
+      "example_ja": "輸出は前年比55%超減少した。",
+      "source_sentence_id": "s003"
     },
     {
       "word": "primary income",
       "pronunciation": "/ˈpraɪmeri ˈɪnkʌm/",
-      "meaning_ja": "第一次所得（海外投資の配当・利子などの収益）",
-      "example": "Primary income rose 15.3 percent from a year earlier.",
-      "example_ja": "第一次所得は前年同期比15.3%増となった。"
+      "meaning_ja": "一次所得（海外投資などによる収益）",
+      "example": "Primary income rose 15.3 percent to 4.21 trillion yen.",
+      "example_ja": "一次所得は15.3%増の4兆2100億円となった。",
+      "source_sentence_id": "s005"
     },
     {
       "word": "swing to black",
       "pronunciation": "/swɪŋ tu blæk/",
-      "meaning_ja": "黒字に転じる（赤字から黒字になる）",
+      "meaning_ja": "黒字に転じる",
       "example": "The goods trade balance swung to black with a surplus.",
-      "example_ja": "貿易収支は黒字に転じた。"
+      "example_ja": "商品貿易収支は黒字に転じた。",
+      "source_sentence_id": "s006"
     },
     {
-      "word": "trading house",
-      "pronunciation": "/ˈtreɪdɪŋ haʊs/",
+      "word": "trading houses",
+      "pronunciation": "/ˈtreɪdɪŋ ˈhaʊzɪz/",
       "meaning_ja": "総合商社",
-      "example": "Returns on foreign investments by trading houses expanded.",
-      "example_ja": "商社による海外投資の収益が拡大した。"
+      "example": "Returns on foreign investments by Japanese trading houses expanded.",
+      "example_ja": "日本の商社による海外投資収益が拡大した。",
+      "source_sentence_id": "s002"
     },
     {
       "word": "gauge",
       "pronunciation": "/ɡeɪdʒ/",
-      "meaning_ja": "指標・尺度",
+      "meaning_ja": "指標、尺度",
       "example": "The current account balance is one of the widest gauges of international trade.",
-      "example_ja": "経常収支は国際貿易を測る最も広い指標の一つだ。"
-    },
-    {
-      "word": "stem from",
-      "pronunciation": "/stem frəm/",
-      "meaning_ja": "〜に起因する、〜を発端とする",
-      "example": "The conflict stemmed from attacks on Iran in late February.",
-      "example_ja": "紛争は2月下旬のイラン攻撃を発端としている。"
+      "example_ja": "経常収支は国際貿易を測る最も広範な指標の一つだ。",
+      "source_sentence_id": "s008"
     }
   ],
   "grammar_points": [
     {
-      "id": "thanks-to",
-      "title": "thanks to + noun phrase",
-      "rule": "Use 'thanks to' to show a positive cause or contributing factor.",
-      "example": "Japan posted a surplus, thanks to returns from robust overseas investments.",
-      "meaning_ja": "thanks to は「〜のおかげで」と原因・要因を示す。because of より成果への寄与がポジティブなニュアンスになりやすい。"
+      "id": "attribution-end",
+      "title": "End-position attribution (..., X said)",
+      "rule": "Place the source of information at the end of the sentence: [fact], the Ministry said.",
+      "example": "The surplus surged 64.9 percent, the Finance Ministry said.",
+      "meaning_ja": "報道英語では発言元・情報源を文末に置くのが標準。日本語の「〜と財務省が述べた」に相当し、事実を先に、出典を後に伝える。"
     },
     {
-      "id": "reported-speech-inversion",
-      "title": "Reported speech with end placement",
-      "rule": "In news writing, the source (e.g., 'the ministry said') often comes at the end of the sentence.",
-      "example": "The surplus surged 64.9 percent, the Finance Ministry said.",
-      "meaning_ja": "報道英語では発言元を文末に置く倒置が頻出。日本語訳では文頭に「〜によると」と訳すと自然。"
+      "id": "yoy-comparison",
+      "title": "Year-over-year comparison patterns",
+      "rule": "Use 'from a year earlier' or 'year over year' to compare with the same period last year.",
+      "example": "Primary income rose 15.3 percent from a year earlier.",
+      "meaning_ja": "経済統計では前年同期比を from a year earlier や year over year で表す。日本の「前年比」と同じ概念。"
+    },
+    {
+      "id": "thanks-to-causation",
+      "title": "Thanks to + cause",
+      "rule": "'Thanks to' introduces a positive or neutral contributing factor before the main result.",
+      "example": "Japan posted a surplus, thanks to returns from robust overseas investments.",
+      "meaning_ja": "thanks to は「〜のおかげで」と原因・要因を示す。because of よりやや肯定的な響きがあり、好材料を述べる際に多用される。"
     },
     {
       "id": "non-defining-relative",
       "title": "Non-defining relative clauses (which ...)",
-      "rule": "Use commas + 'which' to add extra information about a noun without restricting its meaning.",
-      "example": "Primary income, which reflects how much Japan earned, rose 15.3 percent.",
-      "meaning_ja": "カンマで挟んだ which 節は補足説明。訳すときは「〜という、」や括弧的に挿入すると読みやすい。"
-    },
-    {
-      "id": "participial-phrase",
-      "title": "Participial phrases for cause/background",
-      "rule": "Present participles (-ing) and past participles can add background or cause in concise news style.",
-      "example": "The conflict, stemming from the launch of attacks on Iran, impacted the figure.",
-      "meaning_ja": "stemming from や shedding など分詞構文で、理由や付加情報をコンパクトに挿入するのがニュース文体の特徴。"
+      "rule": "Use commas + 'which' to add extra information without restricting the noun.",
+      "example": "Primary income, which reflects how much Japan earned from overseas investments, rose 15.3 percent.",
+      "meaning_ja": "カンマで挟んだ which 節は補足説明（非制限用法）。主語の定義や背景を挿入する際、経済記事で頻出。"
     }
   ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
   "quality": {
-    "sentence_count": 14,
+    "sentence_count": 9,
     "noise_flags": [],
     "ai_model": "cursor-agent",
-    "generated_at": "2026-06-09T16:47:54+09:00"
-  }
+    "generated_at": "2026-06-09T18:04:16+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:japan-s-april-current-account-surplus-at"
 }

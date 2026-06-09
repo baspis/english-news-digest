@@ -1,220 +1,359 @@
 {
-  "article_id": "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid",
-  "schema_version": 2,
-  "analysis_level": "standard_with_deep_chunks",
+  "summary_ja": "北海道の病院2施設が、患者や職員の情報が入ったハードディスクがオンラインで売られていたことを確認した。影響を受けた可能性のある人数は最大51万人にのぼる。廃棄業者がデータ消去を確認せずにリサイクル業者へ渡した可能性があり、病院団体は刑事告訴を行った。",
   "reading_level": "B2",
-  "summary_ja": "北海道の2病院が、患者・職員の情報が入ったハードディスクがオンラインで売られていたことを確認した。影響を受けた可能性のある人数は最大51万人にのぼる。廃棄業者がデータを確実に破棄せずリサイクル業者に渡した疑いがあり、病院側は刑事告訴を行った。",
   "sentences": [
     {
-      "sentence_id": "s001",
       "text": "Two hospitals on Japan's northernmost main island of Hokkaido said Monday that information on around 186,000 people was confirmed to be on hard disks sold online, with the potential number of affected people estimated at up to 510,000.",
-      "translation_ja": "日本最北の本州級の島である北海道の2病院は月曜日、約18万6千人分の情報がオンラインで売られていたハードディスク上にあることが確認されたと発表した。影響を受けた可能性のある人数は最大51万人と見積もられている。",
-      "grammar_ja": "said Monday that ... の間接話法。was confirmed to be は「〜であることが確認された」という受動の報道表現。sold online は過去分詞で hard disks を後置修飾。with ... estimated at は付帯状況を示す with 句で、主節に付け足すニュース文体。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "日本最北の本州級の島である北海道にある病院2施設は月曜日、約18万6千人分の情報がオンラインで売られていたハードディスク上にあることが確認されたと発表した。影響を受けた可能性のある人数は最大51万人と推定されている。",
+      "grammar_ja": "said Monday that ... の間接話法。was confirmed to be on ... は「〜上にあることが確認された」。with the potential number ... estimated at ... は付帯情報を示す with + 過去分詞構文。up to は「最大で」。",
+      "chunks": [
+        {
+          "text": "Two hospitals on Japan's northernmost main island of Hokkaido",
+          "role_ja": "主語",
+          "literal_ja": "日本の最北の本島である北海道にある病院2施設",
+          "note_ja": "on Japan's ... island of Hokkaido は地名を修飾する前置詞句。northernmost は「最北の」。"
+        },
+        {
+          "text": "said Monday",
+          "role_ja": "述語（報道の時制）",
+          "literal_ja": "月曜日に述べた",
+          "note_ja": "ニュースでは said Monday のように曜日だけを付ける書き方が一般的。"
+        },
+        {
+          "text": "that information on around 186,000 people was confirmed to be on hard disks sold online",
+          "role_ja": "that節（内容）",
+          "literal_ja": "約18万6千人に関する情報がオンラインで売られたハードディスク上にあることが確認された",
+          "note_ja": "information on ... は「〜に関する情報」。sold online は過去分詞で disks を後置修飾。"
+        },
+        {
+          "text": "with the potential number of affected people estimated at up to 510,000",
+          "role_ja": "付帯状況",
+          "literal_ja": "影響を受けた可能性のある人数が最大51万人と推定されて",
+          "note_ja": "affected people は「影響を受けた人々」。estimated at は数値の推定を示す。"
+        }
+      ],
+      "deep_dive_ja": "1文に確認事実と推定人数の両方を入れるのはニュースの定番構文。around と up to を使い分け、確定値と上限推定を区別している点に注意。",
+      "difficulty": "hard",
+      "sentence_id": "s001"
     },
     {
-      "sentence_id": "s002",
       "text": "The disks contain information on patients and hospital staff, the Hokkaido Medical Center and Hokkaido Cancer Center said.",
-      "translation_ja": "北海道医療センターと北海道がんセンターは、ディスクには患者と病院職員の情報が含まれていると述べた。",
-      "grammar_ja": "主語＋動詞、＋引用元 の語順で、引用元を文末に置く倒置（ニュース英語の典型）。contain information on は「〜に関する情報を含む」のコロケーション。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "そのディスクには患者と病院職員の情報が含まれていると、北海道医療センターと北海道がんセンターが述べた。",
+      "grammar_ja": "主節＋倒置の発言者表現（..., X said）。contain information on ... は「〜に関する情報を含む」。",
+      "chunks": [
+        {
+          "text": "The disks",
+          "role_ja": "主語",
+          "literal_ja": "そのディスクは",
+          "note_ja": "前の文の hard disks を受ける the。"
+        },
+        {
+          "text": "contain information on patients and hospital staff",
+          "role_ja": "述語",
+          "literal_ja": "患者と病院職員に関する情報を含む",
+          "note_ja": "information on は about とほぼ同義。staff は集合名詞。"
+        },
+        {
+          "text": "the Hokkaido Medical Center and Hokkaido Cancer Center",
+          "role_ja": "主語（発言者）",
+          "literal_ja": "北海道医療センターと北海道がんセンターが",
+          "note_ja": "文末に発言者を置く倒置は報道英語で頻出。"
+        }
+      ],
+      "deep_dive_ja": "日本語訳では発言者を先に出すが、英語原文は事実を先に置いて読みやすくしている。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
     },
     {
-      "sentence_id": "s003",
       "text": "There have been no reports of unauthorized use of the data or any secondary damage.",
-      "translation_ja": "データの不正利用や二次的な被害の報告はこれまでない。",
-      "grammar_ja": "There have been no reports of ... は「〜の報告はない」という現在完了。unauthorized use と secondary damage は並列の of 句。報道では事実確認の否定を丁寧に述べる定型表現。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "データの不正利用や二次的な被害についての報告はない。",
+      "grammar_ja": "There have been no reports of ... は「〜の報告はない」という存在構文。現在完了は「今のところ」のニュアンス。secondary damage は「二次被害」。",
+      "chunks": [
+        {
+          "text": "There have been no reports",
+          "role_ja": "存在構文の主部",
+          "literal_ja": "報告はこれまでない",
+          "note_ja": "There have been は「これまで〜があった」だが no と組み合わせて否定。"
+        },
+        {
+          "text": "of unauthorized use of the data",
+          "role_ja": "reports の後置修飾",
+          "literal_ja": "データの不正利用についての",
+          "note_ja": "unauthorized use は「無断利用・不正使用」。"
+        },
+        {
+          "text": "or any secondary damage",
+          "role_ja": "並列の修飾語",
+          "literal_ja": "またはいかなる二次被害についての",
+          "note_ja": "secondary damage は情報漏えい後の追加的な被害を指すニュース用語。"
+        }
+      ],
+      "deep_dive_ja": "漏えい報道では影響範囲のあとに「悪用報告なし」を添える定型句としてよく使われる。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
     },
     {
-      "sentence_id": "s004",
       "text": "The Sapporo-based hospitals, both part of the National Hospital Organization network, had contracted Reprowork Co., a waste disposal company in the city of Ishikari, to dispose of the disks, but said the company may have passed them to a recycling firm without ensuring they were destroyed.",
-      "translation_ja": "札幌に拠点を置く両病院は、いずれも国立病院機構のネットワークに属しており、石狩市の廃棄物処理会社レプロワークにディスクの処分を委託していたが、同社が確実に破棄したかどうかを確認せずにリサイクル業者に渡した可能性があると述べた。",
-      "grammar_ja": "Sapporo-based はハイフン複合形容詞。挿入句 both part of ... は主語を補足。had contracted A to do B は過去完了で「以前委託していた」。may have passed は過去の推量。without ensuring (that) they were destroyed は動名詞＋従属節。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "札幌に拠点を置く両病院は、全国病院機構のネットワークの一部であり、石狩市の廃棄処理会社レプロワークにディスクの廃棄を委託していたが、同社が消去を確認せずにリサイクル業者へ渡した可能性があると述べた。",
+      "grammar_ja": "had contracted ... to dispose of は過去完了＋不定詞の目的。both part of ... は同格の挿入句。may have passed は過去の推量。without ensuring they were destroyed は「〜を確認しないまま」。",
+      "chunks": [
+        {
+          "text": "The Sapporo-based hospitals",
+          "role_ja": "主語",
+          "literal_ja": "札幌に拠点を置く病院たちは",
+          "note_ja": "Sapporo-based は複合形容詞「札幌拠点の」。"
+        },
+        {
+          "text": "both part of the National Hospital Organization network",
+          "role_ja": "同格挿入句",
+          "literal_ja": "どちらも全国病院機構ネットワークの一部で",
+          "note_ja": "both part of ... は主語を補足説明するカンマ挿入。"
+        },
+        {
+          "text": "had contracted Reprowork Co., a waste disposal company in the city of Ishikari, to dispose of the disks",
+          "role_ja": "述語（過去の契約）",
+          "literal_ja": "石狩市の廃棄処理会社レプロワークにディスクの処分を委託していた",
+          "note_ja": "contract A to do B は「AにBを請け負わせる」。dispose of は「廃棄する」。"
+        },
+        {
+          "text": "but said the company may have passed them to a recycling firm",
+          "role_ja": "対比の述語＋that節",
+          "literal_ja": "しかし同社がそれらをリサイクル業者に渡したかもしれないと述べた",
+          "note_ja": "may have + 過去分詞は過去の可能性。them は disks を受ける。"
+        },
+        {
+          "text": "without ensuring they were destroyed",
+          "role_ja": "状況（手段の欠如）",
+          "literal_ja": "それらが破壊されたことを確認しないまま",
+          "note_ja": "ensure + that節/過去分詞で「確実に〜する／〜を確認する」。"
+        }
+      ],
+      "deep_dive_ja": "長文だが、主語の特定→委託関係→問題点の順で読むと整理しやすい。passed them to は give them to より「中継・横流し」のニュアンスが強い。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
     },
     {
-      "sentence_id": "s005",
       "text": "The organization, which manages 140 hospitals nationwide according to its website, filed a criminal complaint with police against the disposal company on Monday.",
-      "translation_ja": "同機構は、ウェブサイトによると全国140病院を運営しており、月曜日に廃棄業者に対して警察へ刑事告訴を提出した。",
-      "grammar_ja": "非制限用法の関係代名詞 which manages ... は主語に付加情報を加える。filed a complaint with police against ... は「警察に〜に対する告訴を提出した」の固定表現。according to its website は出典を示す報道表現。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "ウェブサイトによると全国140病院を運営するその団体は、月曜日、廃棄業者に対して警察へ刑事告訴を提出した。",
+      "grammar_ja": "関係代名詞 which の非制限用法。file a criminal complaint with police against ... は「〜に対し警察へ刑事告訴する」という法務ニュースの定型表現。",
+      "chunks": [
+        {
+          "text": "The organization",
+          "role_ja": "主語",
+          "literal_ja": "その団体は",
+          "note_ja": "前段の National Hospital Organization を受ける。"
+        },
+        {
+          "text": "which manages 140 hospitals nationwide according to its website",
+          "role_ja": "関係詞節（補足）",
+          "literal_ja": "ウェブサイトによれば全国140病院を管理する",
+          "note_ja": "according to its website は情報源の明示。nationwide は「全国的に」。"
+        },
+        {
+          "text": "filed a criminal complaint with police against the disposal company",
+          "role_ja": "述語",
+          "literal_ja": "廃棄業者に対する刑事告訴を警察に提出した",
+          "note_ja": "file with ... against ... の前置詞の組み合わせに注意。"
+        },
+        {
+          "text": "on Monday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "月曜日に",
+          "note_ja": "文頭の said Monday と対応する時系列の手がかり。"
+        }
+      ],
+      "deep_dive_ja": "criminal complaint は民事ではなく刑事手続の申告。日本語の「告訴」に近いが、制度差はある。",
+      "difficulty": "medium",
+      "sentence_id": "s005"
     },
     {
-      "sentence_id": "s006",
       "text": "According to the organization, it received information between last June and August from two individuals who had purchased the disks at auction, saying they contained data that appeared to belong to the medical centers.",
-      "translation_ja": "機構によると、昨年6月から8月の間、オークションでディスクを購入した2人から連絡を受け、医療センターに属するように見えるデータが入っていたとのことだった。",
-      "grammar_ja": "According to ... で情報源を明示。who had purchased は過去完了（それ以前の購入）。saying 以下は分詞構文で individuals の発言内容を付加。that appeared to belong to は「〜に属するように見える」という慎重な報道表現。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "団体によると、昨年6月から8月の間に、オークションでそのディスクを購入した2人から連絡を受け、ディスクには医療センターに属すると思われるデータが入っていたとのことだった。",
+      "grammar_ja": "According to ... で情報源提示。who had purchased は過去完了で「その時点より前に購入」。saying 以下は分詞構文で付随内容。saying they contained data that appeared to belong to ... は多段の that 節。",
+      "chunks": [
+        {
+          "text": "According to the organization",
+          "role_ja": "副詞句（情報源）",
+          "literal_ja": "団体によると",
+          "note_ja": "報道の客観性を示す定番フレーズ。"
+        },
+        {
+          "text": "it received information between last June and August",
+          "role_ja": "主節",
+          "literal_ja": "それは昨年6月から8月の間に情報を受け取った",
+          "note_ja": "between A and B は期間。last June は「昨年の6月」。"
+        },
+        {
+          "text": "from two individuals who had purchased the disks at auction",
+          "role_ja": "情報源を示す前置詞句＋関係詞節",
+          "literal_ja": "オークションでディスクを購入していた2人から",
+          "note_ja": "at auction は「オークションで（落札して）」。"
+        },
+        {
+          "text": "saying they contained data that appeared to belong to the medical centers",
+          "role_ja": "付帯状況（分詞構文）",
+          "literal_ja": "それらには医療センターに属するように見えるデータが含まれていると言って",
+          "note_ja": "appear to belong to は「〜のものらしい」。断定を避ける表現。"
+        }
+      ],
+      "deep_dive_ja": "appeared to belong は法的・報道上の慎重さを示す。日本語では「〜と思われるデータ」と訳すのが自然。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
     },
     {
-      "sentence_id": "s007",
       "text": "Of the 90 similar hard disks recovered by the medical centers, 33 contained information including patients' names, dates of birth and medical conditions.",
       "translation_ja": "医療センターが回収した同様のハードディスク90台のうち、33台には患者名、生年月日、病状などの情報が含まれていた。",
-      "grammar_ja": "Of the 90 ... , 33 ... は「全体のうちいくつ」の部分表現。recovered by は過去分詞の受動修飾。including ... は「〜を含む」という付加説明。dates of birth は複数形の慣用表現。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "grammar_ja": "Of the 90 ... , 33 ... の部分表現。recovered by ... は過去分詞の後置修飾。including ... は具体例の列挙。dates of birth は複数形の慣用。",
+      "chunks": [
+        {
+          "text": "Of the 90 similar hard disks recovered by the medical centers",
+          "role_ja": "部分の範囲",
+          "literal_ja": "医療センターによって回収された同様のハードディスク90台のうち",
+          "note_ja": "Of + 全体, 数字 + 述語 は「〜のうち○が」の構文。"
+        },
+        {
+          "text": "33 contained information",
+          "role_ja": "主語＋述語",
+          "literal_ja": "33台は情報を含んでいた",
+          "note_ja": "主語の 33 は disks を省略して数だけ。"
+        },
+        {
+          "text": "including patients' names, dates of birth and medical conditions",
+          "role_ja": "information の具体化",
+          "literal_ja": "患者名、生年月日、病状などを含む",
+          "note_ja": "medical conditions は「病状・診断情報」。個人情報の典型例として列挙。"
+        }
+      ],
+      "deep_dive_ja": "数字の提示順は「全体→該当数→内容詳細」で、漏えい規模を段階的に示す書き方。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
     },
     {
-      "sentence_id": "s008",
-      "text": "Join us for an unforgettable evening of networking, aloha-inspired live music by SHEN and free flowing drinks and buffet at TWO ROOMS NIHOMBASHI.",
-      "translation_ja": "日本橋のTWO ROOMS NIHOMBASHIで、忘れられないネットワーキングの夜を。SHENによるアロハ風ライブ音楽、飲み放題、ビュッフェをお楽しみください。",
-      "grammar_ja": "Join us for ... はイベント招待の命令文。aloha-inspired はハイフン複合形容詞。free flowing drinks は広告特有のハイフンなし表記。and で並列の名詞句を重ねる宣伝文体。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s009",
       "text": "July 2 (Thurs), 7pm to 9:30pm.",
-      "translation_ja": "7月2日（木）午後7時〜9時30分。",
-      "grammar_ja": "見出し・キャプション型の省略文。動詞なしで日時のみを示す。to は時間範囲（from ... to ... の to 部分）を表す。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s010",
-      "text": "Get your ticket now for a 50% Discount.",
-      "translation_ja": "今すぐチケットを購入して50％割引を受けましょう。",
-      "grammar_ja": "Get ... now for a ... Discount は販促の命令文。for a discount は「割引価格で」という目的・条件の意味。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s011",
-      "text": "Only 50 Early Bird Tickets Available.",
-      "translation_ja": "早割チケットは残り50枚のみ。",
-      "grammar_ja": "Only 50 ... Available は主語＋形容詞のみの省略文（Tickets are が省略）。Early Bird は「早期購入者向け」の広告用語。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s012",
-      "text": "Use your Facebook account to login or register with JapanToday.",
-      "translation_ja": "Facebookアカウントを使ってJapanTodayにログインまたは登録してください。",
-      "grammar_ja": "Use A to do B は「Aを使ってBする」の目的不定詞。login or register with はサイトへのログイン・登録のコロケーション（本来は log in と分けるのが正式）。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
-    },
-    {
-      "sentence_id": "s013",
-      "text": "By doing so, you will also receive an email inviting you to receive our news alerts.",
-      "translation_ja": "そうすることで、ニュース速報を受け取るよう案内するメールも届きます。",
-      "grammar_ja": "By doing so は直前の行動を受ける手段表現。inviting you to receive は現在分詞で email を後置修飾。you will receive は将来の結果を述べる。",
-      "chunks": [],
-      "deep_dive_ja": "",
-      "difficulty": "medium"
+      "translation_ja": "7月2日（木）、午後7時から9時30分まで。",
+      "grammar_ja": "イベント告知の日時表記。省略された動詞・名詞のある見出し文。",
+      "chunks": [
+        {
+          "text": "July 2 (Thurs)",
+          "role_ja": "日付",
+          "literal_ja": "7月2日（木曜日）",
+          "note_ja": "英語圏では曜日略記 Thurs が括弧内に入ることがある。"
+        },
+        {
+          "text": "7pm to 9:30pm",
+          "role_ja": "時間範囲",
+          "literal_ja": "午後7時から9時30分まで",
+          "note_ja": "to は終了時刻を示す。pm は午後。"
+        }
+      ],
+      "deep_dive_ja": "本文中の広告文が混入した断片。ニュース記事の広告欄では名詞句・日時だけの短文がよく見られる。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
     }
   ],
   "vocabulary": [
     {
-      "word": "leaked",
-      "pronunciation": "/liːkt/",
-      "meaning_ja": "（情報が）漏えいした、流出した",
-      "example": "Patient data was possibly leaked online.",
-      "example_ja": "患者データがオンラインに漏えいした可能性がある。"
+      "word": "leak",
+      "pronunciation": "/liːk/",
+      "meaning_ja": "（情報などが）漏えいする、漏らす",
+      "example": "patient data leaked online",
+      "example_ja": "患者データがオンラインに漏えいした",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "affected",
+      "pronunciation": "/əˈfektɪd/",
+      "meaning_ja": "影響を受けた",
+      "example": "the number of affected people",
+      "example_ja": "影響を受けた人数",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "unauthorized",
+      "pronunciation": "/ʌnˈɔːθəraɪzd/",
+      "meaning_ja": "無断の、不正な、許可されていない",
+      "example": "unauthorized use of the data",
+      "example_ja": "データの不正利用",
+      "source_sentence_id": "s003"
     },
     {
       "word": "dispose of",
       "pronunciation": "/dɪˈspoʊz əv/",
-      "meaning_ja": "（廃棄物などを）処分する",
-      "example": "They contracted a company to dispose of the disks.",
-      "example_ja": "彼らはディスクを処分するために業者に委託した。"
+      "meaning_ja": "廃棄する、処分する",
+      "example": "contracted a company to dispose of the disks",
+      "example_ja": "ディスクの廃棄を会社に委託した",
+      "source_sentence_id": "s004"
     },
     {
-      "word": "unauthorized use",
-      "pronunciation": "/ʌnˈɔːθəraɪzd juːs/",
-      "meaning_ja": "不正利用、無断使用",
-      "example": "There have been no reports of unauthorized use of the data.",
-      "example_ja": "データの不正利用の報告はない。"
+      "word": "criminal complaint",
+      "pronunciation": "/ˈkrɪmɪnəl kəmˈpleɪnt/",
+      "meaning_ja": "刑事告訴",
+      "example": "filed a criminal complaint with police",
+      "example_ja": "警察に刑事告訴を提出した",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "at auction",
+      "pronunciation": "/ət ˈɔːkʃən/",
+      "meaning_ja": "オークションで（落札して）",
+      "example": "purchased the disks at auction",
+      "example_ja": "オークションでディスクを購入した",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "recover",
+      "pronunciation": "/rɪˈkʌvər/",
+      "meaning_ja": "回収する、取り戻す",
+      "example": "hard disks recovered by the medical centers",
+      "example_ja": "医療センターが回収したハードディスク",
+      "source_sentence_id": "s007"
     },
     {
       "word": "secondary damage",
       "pronunciation": "/ˈsekəndri ˈdæmɪdʒ/",
-      "meaning_ja": "二次的な被害、派生被害",
-      "example": "No secondary damage has been reported.",
-      "example_ja": "二次的な被害の報告はない。"
-    },
-    {
-      "word": "file a criminal complaint",
-      "pronunciation": "/faɪl ə ˈkrɪmɪnl kəmˈpleɪnt/",
-      "meaning_ja": "刑事告訴を提出する",
-      "example": "The organization filed a criminal complaint with police.",
-      "example_ja": "機構は警察に刑事告訴を提出した。"
-    },
-    {
-      "word": "affected people",
-      "pronunciation": "/əˈfektɪd ˈpiːpl/",
-      "meaning_ja": "影響を受けた人々",
-      "example": "The number of affected people is estimated at up to 510,000.",
-      "example_ja": "影響を受けた可能性のある人数は最大51万人と見積もられている。"
-    },
-    {
-      "word": "at auction",
-      "pronunciation": "/æt ˈɔːkʃn/",
-      "meaning_ja": "オークションで（競売で）",
-      "example": "Two individuals had purchased the disks at auction.",
-      "example_ja": "2人がオークションでディスクを購入していた。"
-    },
-    {
-      "word": "medical conditions",
-      "pronunciation": "/ˈmedɪkl kənˈdɪʃnz/",
-      "meaning_ja": "病状、健康状態",
-      "example": "The disks contained patients' medical conditions.",
-      "example_ja": "ディスクには患者の病状が含まれていた。"
+      "meaning_ja": "二次被害",
+      "example": "no reports of any secondary damage",
+      "example_ja": "二次被害の報告はない",
+      "source_sentence_id": "s003"
     }
   ],
   "grammar_points": [
     {
-      "id": "reported-speech",
-      "title": "Reported speech in news (said that ...)",
-      "rule": "Use 'said/reported/stated that + clause' to report what an organization or person announced. Tense may shift back (backshift) in formal reporting.",
-      "example": "The hospitals said that information was confirmed to be on hard disks sold online.",
-      "meaning_ja": "報道では said that ... で発表内容を間接的に伝える。that 以下の時制は、発言時より前の事実なら過去形にずらす（時制の一致）ことが多い。"
+      "id": "reporting-said-that",
+      "title": "Reporting verbs with that-clauses",
+      "rule": "Use said/reported/stated + that + clause to report information indirectly.",
+      "example": "The hospitals said that information was confirmed to be on the disks.",
+      "meaning_ja": "said that ... で間接話法として他者の発言・発表内容を伝える。ニュースでは said Monday のように時点も添える。"
     },
     {
-      "id": "passive-news",
-      "title": "Passive voice for events and confirmations",
-      "rule": "News writing often uses passive forms (was confirmed, were destroyed, were recovered) to focus on what happened rather than who did it.",
-      "example": "Information was confirmed to be on hard disks sold online.",
-      "meaning_ja": "ニュースでは受動態で「何が確認されたか・何が回収されたか」を主語に置き、行為者より事象を前面に出す。"
+      "id": "past-modal-perfect",
+      "title": "may have + past participle",
+      "rule": "Use may have + V-ed to express a possible past action or state.",
+      "example": "The company may have passed them to a recycling firm.",
+      "meaning_ja": "過去の出来事について「〜したかもしれない」と推量する構文。確定ではなく可能性を示す。"
     },
     {
-      "id": "participial-modifiers",
-      "title": "Past participles as reduced relative clauses",
-      "rule": "Past participles (sold, recovered, based) after nouns shorten relative clauses: 'disks (that were) sold online'.",
-      "example": "The Sapporo-based hospitals recovered 90 similar hard disks.",
-      "meaning_ja": "過去分詞を名詞の後に置くと関係代名詞＋be動詞を省略した形になる。Sapporo-based = based in Sapporo、sold online = that were sold online。"
+      "id": "participle-without",
+      "title": "without + -ing",
+      "rule": "Use without + gerund to show that an expected action was not done.",
+      "example": "without ensuring they were destroyed",
+      "meaning_ja": "「〜することなく」本来すべき確認や手続きをしなかったことを表す。"
     },
     {
-      "id": "of-quantity",
-      "title": "Of + total, number + part (partial amounts)",
-      "rule": "Pattern 'Of the [total number] ..., [smaller number] ...' shows how many belong to a larger group.",
-      "example": "Of the 90 similar hard disks recovered, 33 contained information.",
-      "meaning_ja": "Of the 90 ... , 33 ... は「90のうち33」という部分と全体の関係を示す。日本語の「〜のうち」に相当する。"
+      "id": "of-partitive",
+      "title": "Of + whole, number + verb (partitive)",
+      "rule": "Use Of the X ..., Y ... to show how many of a total group.",
+      "example": "Of the 90 hard disks, 33 contained information.",
+      "meaning_ja": "全体のうち一部がどうだったかを示す部分表現。日本語の「〜のうち○が」に対応する。"
     }
   ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
   "quality": {
-    "sentence_count": 13,
+    "sentence_count": 8,
     "noise_flags": [],
     "ai_model": "cursor-agent",
-    "generated_at": "2026-06-09T16:47:54+09:00"
-  }
+    "generated_at": "2026-06-09T18:05:31+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:data-on-510-000-people-linked-to-hokkaid"
 }
