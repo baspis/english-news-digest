@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-08</a>
       <span class="sep">/</span>
       <span>Tsunami waves arrive in Japan after M7.8 quak...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Tsunami waves arrive in Japan after M7.8 quak..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge national">national</span>
-      <h1>Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines</h1>
-      <div class="meta">Japan Today National · 2026-06-08</div>
+      <div class="title-head">
+        <span class="badge national">national</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="national" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines</h1>
+        <button type="button" class="speak-btn" data-text="Tsunami waves arrive in Japan after M7.8 quake strikes off Philippines" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today National<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today National" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-08</p>
       <div class="summary-ja">フィリピン南方沖で発生したマグニチュード7.8の地震を受け、月曜日に沖縄など日本各地で津波が観測されました。気象庁は広範囲に津波注意報を発表し、午後には解除。フィリピンでは死者19人以上、負傷者130人以上が出たと報じられています。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/national/update2-tsunami-waves-arrive-in-japan-after-m7.8-quake-off-philippines" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Tsunami waves arrived in Okinawa and other parts of Japan on Monday after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines, according to Japanese and U.S. authorities."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Tsunami waves arrived in Okinawa and other parts of Japan on Monday after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines, according to Japanese and U.S. authorities." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Tsunami waves arrived in Okinawa and other parts of Japan on Monday after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines, according to Japanese and U.S. authorities.</p>
       <p class="translation">日本と米国の当局によると、フィリピン南方沖でマグニチュード7.8と推定される地震が起きたあと、月曜日に沖縄や日本のその他の地域に津波が到達した。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Tsunami waves</td><td class='chunk-role'>主語</td><td>津波が</td><td>wave は波だが、津波報道では waves と複数形で使うことが多い</td></tr><tr><td class='chunk-en'>arrived in Okinawa and other parts of Japan</td><td class='chunk-role'>述語</td><td>沖縄と日本の他の地域に到達した</td><td>arrive in + 場所。hit より到達・襲来のニュアンス</td></tr><tr><td class='chunk-en'>on Monday</td><td class='chunk-role'>時を表す副詞句</td><td>月曜日に</td><td>報道では具体的な曜日で時系列を示す</td></tr><tr><td class='chunk-en'>after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines</td><td class='chunk-role'>時を表す副詞節</td><td>マグニチュード7.8の地震がフィリピン南方沖で起きたあと</td><td>preliminary magnitude は確定前の震度。struck off = 沖合で発生</td></tr><tr><td class='chunk-en'>according to Japanese and U.S. authorities</td><td class='chunk-role'>付加情報（情報源）</td><td>日本と米国の当局によると</td><td>ニュース英語で頻出。文頭に置くこともある</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Tsunami waves<button type="button" class="speak-btn speak-btn--inline" data-text="Tsunami waves" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>津波が</td><td>wave は波だが、津波報道では waves と複数形で使うことが多い</td></tr><tr><td class='chunk-en'><span class='speak-line'>arrived in Okinawa and other parts of Japan<button type="button" class="speak-btn speak-btn--inline" data-text="arrived in Okinawa and other parts of Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>沖縄と日本の他の地域に到達した</td><td>arrive in + 場所。hit より到達・襲来のニュアンス</td></tr><tr><td class='chunk-en'><span class='speak-line'>on Monday<button type="button" class="speak-btn speak-btn--inline" data-text="on Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>月曜日に</td><td>報道では具体的な曜日で時系列を示す</td></tr><tr><td class='chunk-en'><span class='speak-line'>after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines<button type="button" class="speak-btn speak-btn--inline" data-text="after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>マグニチュード7.8の地震がフィリピン南方沖で起きたあと</td><td>preliminary magnitude は確定前の震度。struck off = 沖合で発生</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to Japanese and U.S. authorities<button type="button" class="speak-btn speak-btn--inline" data-text="according to Japanese and U.S. authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（情報源）</td><td>日本と米国の当局によると</td><td>ニュース英語で頻出。文頭に置くこともある</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Tsunami waves</div>
+              <div class="chunk-en speak-line">Tsunami waves<button type="button" class="speak-btn speak-btn--inline" data-text="Tsunami waves" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 津波が</div>
               <div>wave は波だが、津波報道では waves と複数形で使うことが多い</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">arrived in Okinawa and other parts of Japan</div>
+              <div class="chunk-en speak-line">arrived in Okinawa and other parts of Japan<button type="button" class="speak-btn speak-btn--inline" data-text="arrived in Okinawa and other parts of Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 沖縄と日本の他の地域に到達した</div>
               <div>arrive in + 場所。hit より到達・襲来のニュアンス</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on Monday</div>
+              <div class="chunk-en speak-line">on Monday<button type="button" class="speak-btn speak-btn--inline" data-text="on Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 月曜日に</div>
               <div>報道では具体的な曜日で時系列を示す</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines</div>
+              <div class="chunk-en speak-line">after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines<button type="button" class="speak-btn speak-btn--inline" data-text="after an earthquake with a preliminary magnitude of 7.8 struck off the southern Philippines" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · マグニチュード7.8の地震がフィリピン南方沖で起きたあと</div>
               <div>preliminary magnitude は確定前の震度。struck off = 沖合で発生</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to Japanese and U.S. authorities</div>
+              <div class="chunk-en speak-line">according to Japanese and U.S. authorities<button type="button" class="speak-btn speak-btn--inline" data-text="according to Japanese and U.S. authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（情報源） · 日本と米国の当局によると</div>
               <div>ニュース英語で頻出。文頭に置くこともある</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Japan Meteorological Agency said at a press conference that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m. after the agency issued a tsunami advisory for the Pacific coast along the eastern, western and southern parts of the country."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Japan Meteorological Agency said at a press conference that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m. after the agency issued a tsunami advisory for the Pacific coast along the eastern, western and southern parts of the country." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Japan Meteorological Agency said at a press conference that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m. after the agency issued a tsunami advisory for the Pacific coast along the eastern, western and southern parts of the country.</p>
       <p class="translation">気象庁は記者会見で、同庁が国の東部・西部・南部に沿った太平洋沿岸に津波注意報を発表したあと、沖縄本島で小規模な津波が午後12時18分ごろ観測されたと述べた。</p>
@@ -115,35 +124,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The Japan Meteorological Agency</td><td class='chunk-role'>主語</td><td>気象庁は</td><td>日本の公式機関名。the を付ける</td></tr><tr><td class='chunk-en'>said at a press conference</td><td class='chunk-role'>述語</td><td>記者会見で述べた</td><td>at a press conference で発言の場を特定</td></tr><tr><td class='chunk-en'>that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m.</td><td class='chunk-role'>that節（内容）</td><td>沖縄本島で小規模な津波が午後12時18分ごろ観測されたと</td><td>minor tsunami = 小規模な津波。at around = およそ</td></tr><tr><td class='chunk-en'>after the agency issued a tsunami advisory</td><td class='chunk-role'>時を表す副詞節</td><td>気象庁が津波注意報を発表したあと</td><td>issue an advisory = 注意報・勧告を出す</td></tr><tr><td class='chunk-en'>for the Pacific coast along the eastern, western and southern parts of the country</td><td class='chunk-role'>修飾語</td><td>国の東部・西部・南部に沿った太平洋沿岸に対して</td><td>along + 地域 = 〜に沿って</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The Japan Meteorological Agency<button type="button" class="speak-btn speak-btn--inline" data-text="The Japan Meteorological Agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>気象庁は</td><td>日本の公式機関名。the を付ける</td></tr><tr><td class='chunk-en'><span class='speak-line'>said at a press conference<button type="button" class="speak-btn speak-btn--inline" data-text="said at a press conference" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>記者会見で述べた</td><td>at a press conference で発言の場を特定</td></tr><tr><td class='chunk-en'><span class='speak-line'>that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節（内容）</td><td>沖縄本島で小規模な津波が午後12時18分ごろ観測されたと</td><td>minor tsunami = 小規模な津波。at around = およそ</td></tr><tr><td class='chunk-en'><span class='speak-line'>after the agency issued a tsunami advisory<button type="button" class="speak-btn speak-btn--inline" data-text="after the agency issued a tsunami advisory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>気象庁が津波注意報を発表したあと</td><td>issue an advisory = 注意報・勧告を出す</td></tr><tr><td class='chunk-en'><span class='speak-line'>for the Pacific coast along the eastern, western and southern parts of the country<button type="button" class="speak-btn speak-btn--inline" data-text="for the Pacific coast along the eastern, western and southern parts of the country" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>修飾語</td><td>国の東部・西部・南部に沿った太平洋沿岸に対して</td><td>along + 地域 = 〜に沿って</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The Japan Meteorological Agency</div>
+              <div class="chunk-en speak-line">The Japan Meteorological Agency<button type="button" class="speak-btn speak-btn--inline" data-text="The Japan Meteorological Agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 気象庁は</div>
               <div>日本の公式機関名。the を付ける</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said at a press conference</div>
+              <div class="chunk-en speak-line">said at a press conference<button type="button" class="speak-btn speak-btn--inline" data-text="said at a press conference" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 記者会見で述べた</div>
               <div>at a press conference で発言の場を特定</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m.</div>
+              <div class="chunk-en speak-line">that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="that a minor tsunami was observed on the main island of Okinawa at around 12:18 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節（内容） · 沖縄本島で小規模な津波が午後12時18分ごろ観測されたと</div>
               <div>minor tsunami = 小規模な津波。at around = およそ</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after the agency issued a tsunami advisory</div>
+              <div class="chunk-en speak-line">after the agency issued a tsunami advisory<button type="button" class="speak-btn speak-btn--inline" data-text="after the agency issued a tsunami advisory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 気象庁が津波注意報を発表したあと</div>
               <div>issue an advisory = 注意報・勧告を出す</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for the Pacific coast along the eastern, western and southern parts of the country</div>
+              <div class="chunk-en speak-line">for the Pacific coast along the eastern, western and southern parts of the country<button type="button" class="speak-btn speak-btn--inline" data-text="for the Pacific coast along the eastern, western and southern parts of the country" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">修飾語 · 国の東部・西部・南部に沿った太平洋沿岸に対して</div>
               <div>along + 地域 = 〜に沿って</div>
             </div>
@@ -156,8 +165,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Also, a 20-centimeter tsunami was observed at Chichijima Island of the Ogasawara Islands in the Pacific, about 1,000 kilometers south of central Tokyo, around 1:46 p.m."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Also, a 20-centimeter tsunami was observed at Chichijima Island of the Ogasawara Islands in the Pacific, about 1,000 kilometers south of central Tokyo, around 1:46 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Also, a 20-centimeter tsunami was observed at Chichijima Island of the Ogasawara Islands in the Pacific, about 1,000 kilometers south of central Tokyo, around 1:46 p.m.</p>
       <p class="translation">また、東京の中心部から南へ約1000キロの太平洋上の小笠原諸島・父島で、高さ20センチの津波が午後1時46分ごろ観測された。</p>
@@ -170,35 +178,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Also</td><td class='chunk-role'>接続副詞</td><td>また</td><td>前の観測事例に加えて別の地点を報じる</td></tr><tr><td class='chunk-en'>a 20-centimeter tsunami</td><td class='chunk-role'>主語</td><td>高さ20センチの津波が</td><td>ハイフンで単位と名詞をつなぐ報道表現</td></tr><tr><td class='chunk-en'>was observed at Chichijima Island of the Ogasawara Islands in the Pacific</td><td class='chunk-role'>述語</td><td>太平洋の小笠原諸島・父島で観測された</td><td>of で所属関係。in the Pacific で海域を示す</td></tr><tr><td class='chunk-en'>about 1,000 kilometers south of central Tokyo</td><td class='chunk-role'>場所の修飾語</td><td>東京の中心部から南へ約1000キロのところで</td><td>south of = 〜の南。読者の位置感を補う</td></tr><tr><td class='chunk-en'>around 1:46 p.m.</td><td class='chunk-role'>時を表す副詞句</td><td>午後1時46分ごろに</td><td>around はおよその時刻</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Also<button type="button" class="speak-btn speak-btn--inline" data-text="Also" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>接続副詞</td><td>また</td><td>前の観測事例に加えて別の地点を報じる</td></tr><tr><td class='chunk-en'><span class='speak-line'>a 20-centimeter tsunami<button type="button" class="speak-btn speak-btn--inline" data-text="a 20-centimeter tsunami" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>高さ20センチの津波が</td><td>ハイフンで単位と名詞をつなぐ報道表現</td></tr><tr><td class='chunk-en'><span class='speak-line'>was observed at Chichijima Island of the Ogasawara Islands in the Pacific<button type="button" class="speak-btn speak-btn--inline" data-text="was observed at Chichijima Island of the Ogasawara Islands in the Pacific" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>太平洋の小笠原諸島・父島で観測された</td><td>of で所属関係。in the Pacific で海域を示す</td></tr><tr><td class='chunk-en'><span class='speak-line'>about 1,000 kilometers south of central Tokyo<button type="button" class="speak-btn speak-btn--inline" data-text="about 1,000 kilometers south of central Tokyo" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の修飾語</td><td>東京の中心部から南へ約1000キロのところで</td><td>south of = 〜の南。読者の位置感を補う</td></tr><tr><td class='chunk-en'><span class='speak-line'>around 1:46 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="around 1:46 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>午後1時46分ごろに</td><td>around はおよその時刻</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Also</div>
+              <div class="chunk-en speak-line">Also<button type="button" class="speak-btn speak-btn--inline" data-text="Also" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">接続副詞 · また</div>
               <div>前の観測事例に加えて別の地点を報じる</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a 20-centimeter tsunami</div>
+              <div class="chunk-en speak-line">a 20-centimeter tsunami<button type="button" class="speak-btn speak-btn--inline" data-text="a 20-centimeter tsunami" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 高さ20センチの津波が</div>
               <div>ハイフンで単位と名詞をつなぐ報道表現</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was observed at Chichijima Island of the Ogasawara Islands in the Pacific</div>
+              <div class="chunk-en speak-line">was observed at Chichijima Island of the Ogasawara Islands in the Pacific<button type="button" class="speak-btn speak-btn--inline" data-text="was observed at Chichijima Island of the Ogasawara Islands in the Pacific" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 太平洋の小笠原諸島・父島で観測された</div>
               <div>of で所属関係。in the Pacific で海域を示す</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">about 1,000 kilometers south of central Tokyo</div>
+              <div class="chunk-en speak-line">about 1,000 kilometers south of central Tokyo<button type="button" class="speak-btn speak-btn--inline" data-text="about 1,000 kilometers south of central Tokyo" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の修飾語 · 東京の中心部から南へ約1000キロのところで</div>
               <div>south of = 〜の南。読者の位置感を補う</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">around 1:46 p.m.</div>
+              <div class="chunk-en speak-line">around 1:46 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="around 1:46 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 午後1時46分ごろに</div>
               <div>around はおよその時刻</div>
             </div>
@@ -211,8 +219,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The agency alerted the public earlier in the day that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The agency alerted the public earlier in the day that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The agency alerted the public earlier in the day that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere.</p>
       <p class="translation">気象庁はその日の早い時間帯、宮古島や沖縄の八重山諸島などに最大1メートルの津波が到達する可能性があると国民に警告した。</p>
@@ -225,23 +232,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The agency</td><td class='chunk-role'>主語</td><td>気象庁は</td><td>前文から agency = Japan Meteorological Agency</td></tr><tr><td class='chunk-en'>alerted the public earlier in the day</td><td class='chunk-role'>述語</td><td>その日の早いうちに国民に警告した</td><td>earlier in the day = 同日の午前中など</td></tr><tr><td class='chunk-en'>that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere</td><td class='chunk-role'>that節（内容）</td><td>最大1メートルの津波が宮古島や沖縄の八重山諸島などに到達しうると</td><td>up to = 最大で。elsewhere = その他の地域も</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The agency<button type="button" class="speak-btn speak-btn--inline" data-text="The agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>気象庁は</td><td>前文から agency = Japan Meteorological Agency</td></tr><tr><td class='chunk-en'><span class='speak-line'>alerted the public earlier in the day<button type="button" class="speak-btn speak-btn--inline" data-text="alerted the public earlier in the day" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>その日の早いうちに国民に警告した</td><td>earlier in the day = 同日の午前中など</td></tr><tr><td class='chunk-en'><span class='speak-line'>that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere<button type="button" class="speak-btn speak-btn--inline" data-text="that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節（内容）</td><td>最大1メートルの津波が宮古島や沖縄の八重山諸島などに到達しうると</td><td>up to = 最大で。elsewhere = その他の地域も</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The agency</div>
+              <div class="chunk-en speak-line">The agency<button type="button" class="speak-btn speak-btn--inline" data-text="The agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 気象庁は</div>
               <div>前文から agency = Japan Meteorological Agency</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">alerted the public earlier in the day</div>
+              <div class="chunk-en speak-line">alerted the public earlier in the day<button type="button" class="speak-btn speak-btn--inline" data-text="alerted the public earlier in the day" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · その日の早いうちに国民に警告した</div>
               <div>earlier in the day = 同日の午前中など</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere</div>
+              <div class="chunk-en speak-line">that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere<button type="button" class="speak-btn speak-btn--inline" data-text="that tsunami waves of up to 1 meter could reach Miyako Island and the Yaeyama islets in Okinawa and elsewhere" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節（内容） · 最大1メートルの津波が宮古島や沖縄の八重山諸島などに到達しうると</div>
               <div>up to = 最大で。elsewhere = その他の地域も</div>
             </div>
@@ -254,8 +261,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The advisory, which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa, was lifted in the afternoon."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The advisory, which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa, was lifted in the afternoon." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The advisory, which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa, was lifted in the afternoon.</p>
       <p class="translation">東京近郊の茨城県から日本最南端の島県である沖縄まで広がる地域を対象とした注意報は、午後に解除された。</p>
@@ -268,23 +274,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The advisory</td><td class='chunk-role'>主語</td><td>注意報は</td><td>前文の tsunami advisory を受ける</td></tr><tr><td class='chunk-en'>which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa</td><td class='chunk-role'>関係代名詞節（主語の説明）</td><td>東京近郊の茨城県から日本最南端の沖縄県まで及ぶ地域を対象とした</td><td>stretch from A to B = AからBまで広がる。southernmost = 最南端の</td></tr><tr><td class='chunk-en'>was lifted in the afternoon</td><td class='chunk-role'>述語</td><td>午後に解除された</td><td>lift an advisory/warning = 警報・注意報を解除する</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The advisory<button type="button" class="speak-btn speak-btn--inline" data-text="The advisory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>注意報は</td><td>前文の tsunami advisory を受ける</td></tr><tr><td class='chunk-en'><span class='speak-line'>which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節（主語の説明）</td><td>東京近郊の茨城県から日本最南端の沖縄県まで及ぶ地域を対象とした</td><td>stretch from A to B = AからBまで広がる。southernmost = 最南端の</td></tr><tr><td class='chunk-en'><span class='speak-line'>was lifted in the afternoon<button type="button" class="speak-btn speak-btn--inline" data-text="was lifted in the afternoon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>午後に解除された</td><td>lift an advisory/warning = 警報・注意報を解除する</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The advisory</div>
+              <div class="chunk-en speak-line">The advisory<button type="button" class="speak-btn speak-btn--inline" data-text="The advisory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 注意報は</div>
               <div>前文の tsunami advisory を受ける</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa</div>
+              <div class="chunk-en speak-line">which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="which covered areas stretching from Ibaraki Prefecture near Tokyo to Japan&#x27;s southernmost island prefecture of Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節（主語の説明） · 東京近郊の茨城県から日本最南端の沖縄県まで及ぶ地域を対象とした</div>
               <div>stretch from A to B = AからBまで広がる。southernmost = 最南端の</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was lifted in the afternoon</div>
+              <div class="chunk-en speak-line">was lifted in the afternoon<button type="button" class="speak-btn speak-btn--inline" data-text="was lifted in the afternoon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 午後に解除された</div>
               <div>lift an advisory/warning = 警報・注意報を解除する</div>
             </div>
@@ -297,8 +303,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The quake struck 26 km southwest of Kablalan in the Philippines at a depth of 55.2 km at around 7:37 a.m. local time, according to the U.S."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The quake struck 26 km southwest of Kablalan in the Philippines at a depth of 55.2 km at around 7:37 a.m. local time, according to the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The quake struck 26 km southwest of Kablalan in the Philippines at a depth of 55.2 km at around 7:37 a.m. local time, according to the U.S.</p>
       <p class="translation">米国当局によると、地震は現地時間午前7時37分ごろ、フィリピンのカブラランの南西26キロ、深さ55.2キロの地点で発生した。</p>
@@ -311,35 +316,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The quake</td><td class='chunk-role'>主語</td><td>地震は</td><td>quake は earthquake の短縮形で報道で多用</td></tr><tr><td class='chunk-en'>struck 26 km southwest of Kablalan in the Philippines</td><td class='chunk-role'>述語＋場所</td><td>フィリピンのカブラランの南西26キロで発生した</td><td>southwest of = 〜の南西</td></tr><tr><td class='chunk-en'>at a depth of 55.2 km</td><td class='chunk-role'>場所の修飾語</td><td>深さ55.2キロで</td><td>震源の深さを示す報道の決まり文句</td></tr><tr><td class='chunk-en'>at around 7:37 a.m. local time</td><td class='chunk-role'>時を表す副詞句</td><td>現地時間午前7時37分ごろに</td><td>local time は国際報道で重要</td></tr><tr><td class='chunk-en'>according to the U.S.</td><td class='chunk-role'>付加情報（情報源）</td><td>米国当局によると</td><td>原文では U.S. で短縮。文脈上は U.S. Geological Survey</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The quake<button type="button" class="speak-btn speak-btn--inline" data-text="The quake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>地震は</td><td>quake は earthquake の短縮形で報道で多用</td></tr><tr><td class='chunk-en'><span class='speak-line'>struck 26 km southwest of Kablalan in the Philippines<button type="button" class="speak-btn speak-btn--inline" data-text="struck 26 km southwest of Kablalan in the Philippines" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋場所</td><td>フィリピンのカブラランの南西26キロで発生した</td><td>southwest of = 〜の南西</td></tr><tr><td class='chunk-en'><span class='speak-line'>at a depth of 55.2 km<button type="button" class="speak-btn speak-btn--inline" data-text="at a depth of 55.2 km" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の修飾語</td><td>深さ55.2キロで</td><td>震源の深さを示す報道の決まり文句</td></tr><tr><td class='chunk-en'><span class='speak-line'>at around 7:37 a.m. local time<button type="button" class="speak-btn speak-btn--inline" data-text="at around 7:37 a.m. local time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>現地時間午前7時37分ごろに</td><td>local time は国際報道で重要</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="according to the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（情報源）</td><td>米国当局によると</td><td>原文では U.S. で短縮。文脈上は U.S. Geological Survey</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The quake</div>
+              <div class="chunk-en speak-line">The quake<button type="button" class="speak-btn speak-btn--inline" data-text="The quake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 地震は</div>
               <div>quake は earthquake の短縮形で報道で多用</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">struck 26 km southwest of Kablalan in the Philippines</div>
+              <div class="chunk-en speak-line">struck 26 km southwest of Kablalan in the Philippines<button type="button" class="speak-btn speak-btn--inline" data-text="struck 26 km southwest of Kablalan in the Philippines" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋場所 · フィリピンのカブラランの南西26キロで発生した</div>
               <div>southwest of = 〜の南西</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at a depth of 55.2 km</div>
+              <div class="chunk-en speak-line">at a depth of 55.2 km<button type="button" class="speak-btn speak-btn--inline" data-text="at a depth of 55.2 km" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の修飾語 · 深さ55.2キロで</div>
               <div>震源の深さを示す報道の決まり文句</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at around 7:37 a.m. local time</div>
+              <div class="chunk-en speak-line">at around 7:37 a.m. local time<button type="button" class="speak-btn speak-btn--inline" data-text="at around 7:37 a.m. local time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 現地時間午前7時37分ごろに</div>
               <div>local time は国際報道で重要</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the U.S.</div>
+              <div class="chunk-en speak-line">according to the U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="according to the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（情報源） · 米国当局によると</div>
               <div>原文では U.S. で短縮。文脈上は U.S. Geological Survey</div>
             </div>
@@ -352,8 +357,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Philippine authorities said at least 19 people died and more than 130 were injured."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Philippine authorities said at least 19 people died and more than 130 were injured." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Philippine authorities said at least 19 people died and more than 130 were injured.</p>
       <p class="translation">フィリピンの当局は、少なくとも19人が死亡し、130人以上が負傷したと発表した。</p>
@@ -366,29 +370,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Philippine authorities</td><td class='chunk-role'>主語</td><td>フィリピンの当局は</td><td>authorities = 当局・関係機関</td></tr><tr><td class='chunk-en'>said</td><td class='chunk-role'>述語</td><td>述べた</td><td>reported / announced とも言えるが said が中立</td></tr><tr><td class='chunk-en'>at least 19 people died</td><td class='chunk-role'>内容節（前半）</td><td>少なくとも19人が死亡したと</td><td>at least = 最低でも</td></tr><tr><td class='chunk-en'>more than 130 were injured</td><td class='chunk-role'>内容節（後半）</td><td>130人以上が負傷したと</td><td>be injured は受動態。numbers は報道では更新される</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Philippine authorities<button type="button" class="speak-btn speak-btn--inline" data-text="Philippine authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>フィリピンの当局は</td><td>authorities = 当局・関係機関</td></tr><tr><td class='chunk-en'><span class='speak-line'>said<button type="button" class="speak-btn speak-btn--inline" data-text="said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>述べた</td><td>reported / announced とも言えるが said が中立</td></tr><tr><td class='chunk-en'><span class='speak-line'>at least 19 people died<button type="button" class="speak-btn speak-btn--inline" data-text="at least 19 people died" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節（前半）</td><td>少なくとも19人が死亡したと</td><td>at least = 最低でも</td></tr><tr><td class='chunk-en'><span class='speak-line'>more than 130 were injured<button type="button" class="speak-btn speak-btn--inline" data-text="more than 130 were injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節（後半）</td><td>130人以上が負傷したと</td><td>be injured は受動態。numbers は報道では更新される</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Philippine authorities</div>
+              <div class="chunk-en speak-line">Philippine authorities<button type="button" class="speak-btn speak-btn--inline" data-text="Philippine authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · フィリピンの当局は</div>
               <div>authorities = 当局・関係機関</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said</div>
+              <div class="chunk-en speak-line">said<button type="button" class="speak-btn speak-btn--inline" data-text="said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 述べた</div>
               <div>reported / announced とも言えるが said が中立</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at least 19 people died</div>
+              <div class="chunk-en speak-line">at least 19 people died<button type="button" class="speak-btn speak-btn--inline" data-text="at least 19 people died" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節（前半） · 少なくとも19人が死亡したと</div>
               <div>at least = 最低でも</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">more than 130 were injured</div>
+              <div class="chunk-en speak-line">more than 130 were injured<button type="button" class="speak-btn speak-btn--inline" data-text="more than 130 were injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節（後半） · 130人以上が負傷したと</div>
               <div>be injured は受動態。numbers は報道では更新される</div>
             </div>
@@ -401,8 +405,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="In December 2023, an M7.6 quake hit the area, according to the USGS."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="In December 2023, an M7.6 quake hit the area, according to the USGS." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">In December 2023, an M7.6 quake hit the area, according to the USGS.</p>
       <p class="translation">米国地質調査所（USGS）によると、2023年12月にもマグニチュード7.6の地震がこの地域を襲った。</p>
@@ -415,29 +418,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>In December 2023</td><td class='chunk-role'>時を表す副詞句</td><td>2023年12月に</td><td>過去の出来事の時点を明示</td></tr><tr><td class='chunk-en'>an M7.6 quake</td><td class='chunk-role'>主語</td><td>マグニチュード7.6の地震が</td><td>M = magnitude の略。報道の標準表記</td></tr><tr><td class='chunk-en'>hit the area</td><td class='chunk-role'>述語</td><td>この地域を襲った</td><td>the area = 先に述べたフィリピン南方の地域</td></tr><tr><td class='chunk-en'>according to the USGS</td><td class='chunk-role'>付加情報（情報源）</td><td>USGSによると</td><td>U.S. Geological Survey の略称</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>In December 2023<button type="button" class="speak-btn speak-btn--inline" data-text="In December 2023" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>2023年12月に</td><td>過去の出来事の時点を明示</td></tr><tr><td class='chunk-en'><span class='speak-line'>an M7.6 quake<button type="button" class="speak-btn speak-btn--inline" data-text="an M7.6 quake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>マグニチュード7.6の地震が</td><td>M = magnitude の略。報道の標準表記</td></tr><tr><td class='chunk-en'><span class='speak-line'>hit the area<button type="button" class="speak-btn speak-btn--inline" data-text="hit the area" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>この地域を襲った</td><td>the area = 先に述べたフィリピン南方の地域</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the USGS<button type="button" class="speak-btn speak-btn--inline" data-text="according to the USGS" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（情報源）</td><td>USGSによると</td><td>U.S. Geological Survey の略称</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">In December 2023</div>
+              <div class="chunk-en speak-line">In December 2023<button type="button" class="speak-btn speak-btn--inline" data-text="In December 2023" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 2023年12月に</div>
               <div>過去の出来事の時点を明示</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">an M7.6 quake</div>
+              <div class="chunk-en speak-line">an M7.6 quake<button type="button" class="speak-btn speak-btn--inline" data-text="an M7.6 quake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · マグニチュード7.6の地震が</div>
               <div>M = magnitude の略。報道の標準表記</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">hit the area</div>
+              <div class="chunk-en speak-line">hit the area<button type="button" class="speak-btn speak-btn--inline" data-text="hit the area" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · この地域を襲った</div>
               <div>the area = 先に述べたフィリピン南方の地域</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the USGS</div>
+              <div class="chunk-en speak-line">according to the USGS<button type="button" class="speak-btn speak-btn--inline" data-text="according to the USGS" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（情報源） · USGSによると</div>
               <div>U.S. Geological Survey の略称</div>
             </div>
@@ -450,8 +453,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japanese Prime Minister Sanae Takaichi said on social media she has instructed relevant ministries and agencies to take measures to prevent damage."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japanese Prime Minister Sanae Takaichi said on social media she has instructed relevant ministries and agencies to take measures to prevent damage." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japanese Prime Minister Sanae Takaichi said on social media she has instructed relevant ministries and agencies to take measures to prevent damage.</p>
       <p class="translation">高市早苗首相はソーシャルメディアで、関係省庁や機関に被害防止のための措置を取るよう指示したと投稿した。</p>
@@ -464,29 +466,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japanese Prime Minister Sanae Takaichi</td><td class='chunk-role'>主語</td><td>高市早苗首相は</td><td>役職＋氏名の英語表記。姓が後</td></tr><tr><td class='chunk-en'>said on social media</td><td class='chunk-role'>述語</td><td>ソーシャルメディアで述べた</td><td>政治家の発言経路を明示する現代的な表現</td></tr><tr><td class='chunk-en'>she has instructed relevant ministries and agencies</td><td class='chunk-role'>内容節（前半）</td><td>彼女は関係省庁や機関に指示したと</td><td>instruct + O + to不定詞</td></tr><tr><td class='chunk-en'>to take measures to prevent damage</td><td class='chunk-role'>不定詞句（目的）</td><td>被害を防ぐための措置を取るよう</td><td>take measures = 措置を講じる。prevent damage = 被害防止</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japanese Prime Minister Sanae Takaichi<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese Prime Minister Sanae Takaichi" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>高市早苗首相は</td><td>役職＋氏名の英語表記。姓が後</td></tr><tr><td class='chunk-en'><span class='speak-line'>said on social media<button type="button" class="speak-btn speak-btn--inline" data-text="said on social media" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>ソーシャルメディアで述べた</td><td>政治家の発言経路を明示する現代的な表現</td></tr><tr><td class='chunk-en'><span class='speak-line'>she has instructed relevant ministries and agencies<button type="button" class="speak-btn speak-btn--inline" data-text="she has instructed relevant ministries and agencies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節（前半）</td><td>彼女は関係省庁や機関に指示したと</td><td>instruct + O + to不定詞</td></tr><tr><td class='chunk-en'><span class='speak-line'>to take measures to prevent damage<button type="button" class="speak-btn speak-btn--inline" data-text="to take measures to prevent damage" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞句（目的）</td><td>被害を防ぐための措置を取るよう</td><td>take measures = 措置を講じる。prevent damage = 被害防止</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japanese Prime Minister Sanae Takaichi</div>
+              <div class="chunk-en speak-line">Japanese Prime Minister Sanae Takaichi<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese Prime Minister Sanae Takaichi" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 高市早苗首相は</div>
               <div>役職＋氏名の英語表記。姓が後</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said on social media</div>
+              <div class="chunk-en speak-line">said on social media<button type="button" class="speak-btn speak-btn--inline" data-text="said on social media" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ソーシャルメディアで述べた</div>
               <div>政治家の発言経路を明示する現代的な表現</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">she has instructed relevant ministries and agencies</div>
+              <div class="chunk-en speak-line">she has instructed relevant ministries and agencies<button type="button" class="speak-btn speak-btn--inline" data-text="she has instructed relevant ministries and agencies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節（前半） · 彼女は関係省庁や機関に指示したと</div>
               <div>instruct + O + to不定詞</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to take measures to prevent damage</div>
+              <div class="chunk-en speak-line">to take measures to prevent damage<button type="button" class="speak-btn speak-btn--inline" data-text="to take measures to prevent damage" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞句（目的） · 被害を防ぐための措置を取るよう</div>
               <div>take measures = 措置を講じる。prevent damage = 被害防止</div>
             </div>
@@ -499,8 +501,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa, were urged to evacuate at one point, according to the Fire and Disaster Management Agency."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa, were urged to evacuate at one point, according to the Fire and Disaster Management Agency." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa, were urged to evacuate at one point, according to the Fire and Disaster Management Agency.</p>
       <p class="translation">消防庁によると、千葉・高知・沖縄など10都道府県で、一時的に19万人以上が避難を呼びかけられた。</p>
@@ -513,29 +514,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa</td><td class='chunk-role'>主語</td><td>千葉・高知・沖縄など10都道府県の19万人以上が</td><td>over = 〜以上。including は括弧的な追加説明</td></tr><tr><td class='chunk-en'>were urged to evacuate</td><td class='chunk-role'>述語</td><td>避難を促された</td><td>urge + O + to不定詞。受動態で国民が主語</td></tr><tr><td class='chunk-en'>at one point</td><td class='chunk-role'>時を表す副詞句</td><td>ある時点では</td><td>ピーク時の人数・状態を示し、その後変化した含意</td></tr><tr><td class='chunk-en'>according to the Fire and Disaster Management Agency</td><td class='chunk-role'>付加情報（情報源）</td><td>消防庁によると</td><td>日本の総務省消防庁の英語名</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>千葉・高知・沖縄など10都道府県の19万人以上が</td><td>over = 〜以上。including は括弧的な追加説明</td></tr><tr><td class='chunk-en'><span class='speak-line'>were urged to evacuate<button type="button" class="speak-btn speak-btn--inline" data-text="were urged to evacuate" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>避難を促された</td><td>urge + O + to不定詞。受動態で国民が主語</td></tr><tr><td class='chunk-en'><span class='speak-line'>at one point<button type="button" class="speak-btn speak-btn--inline" data-text="at one point" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>ある時点では</td><td>ピーク時の人数・状態を示し、その後変化した含意</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the Fire and Disaster Management Agency<button type="button" class="speak-btn speak-btn--inline" data-text="according to the Fire and Disaster Management Agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（情報源）</td><td>消防庁によると</td><td>日本の総務省消防庁の英語名</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa</div>
+              <div class="chunk-en speak-line">Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="Over 190,000 people in 10 prefectures, including Chiba, Kochi and Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 千葉・高知・沖縄など10都道府県の19万人以上が</div>
               <div>over = 〜以上。including は括弧的な追加説明</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">were urged to evacuate</div>
+              <div class="chunk-en speak-line">were urged to evacuate<button type="button" class="speak-btn speak-btn--inline" data-text="were urged to evacuate" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 避難を促された</div>
               <div>urge + O + to不定詞。受動態で国民が主語</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at one point</div>
+              <div class="chunk-en speak-line">at one point<button type="button" class="speak-btn speak-btn--inline" data-text="at one point" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · ある時点では</div>
               <div>ピーク時の人数・状態を示し、その後変化した含意</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the Fire and Disaster Management Agency</div>
+              <div class="chunk-en speak-line">according to the Fire and Disaster Management Agency<button type="button" class="speak-btn speak-btn--inline" data-text="according to the Fire and Disaster Management Agency" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（情報源） · 消防庁によると</div>
               <div>日本の総務省消防庁の英語名</div>
             </div>
@@ -548,134 +549,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>preliminary magnitude</h3>
-                <button type="button" class="speak-btn" data-text="preliminary magnitude"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="preliminary magnitude" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/prɪˈlɪmɪnəri ˈmæɡnɪtjuːd/</div>
               <p>（地震の）暫定マグニチュード、推定震度</p>
-              <p class="example-en"><em>an earthquake with a preliminary magnitude of 7.8</em></p>
+              <p class="example-en speak-line"><em>an earthquake with a preliminary magnitude of 7.8</em><button type="button" class="speak-btn speak-btn--inline" data-text="an earthquake with a preliminary magnitude of 7.8" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">マグニチュード7.8と推定される地震</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>tsunami advisory</h3>
-                <button type="button" class="speak-btn" data-text="tsunami advisory"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="tsunami advisory" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/tsuːˈnɑːmi ədˈvaɪzəri/</div>
               <p>津波注意報</p>
-              <p class="example-en"><em>the agency issued a tsunami advisory for the Pacific coast</em></p>
+              <p class="example-en speak-line"><em>the agency issued a tsunami advisory for the Pacific coast</em><button type="button" class="speak-btn speak-btn--inline" data-text="the agency issued a tsunami advisory for the Pacific coast" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">気象庁が太平洋沿岸に津波注意報を発表した</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>observe</h3>
-                <button type="button" class="speak-btn" data-text="observe"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="observe" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/əbˈzɜːrv/</div>
               <p>（津波・現象を）観測する</p>
-              <p class="example-en"><em>a minor tsunami was observed on the main island of Okinawa</em></p>
+              <p class="example-en speak-line"><em>a minor tsunami was observed on the main island of Okinawa</em><button type="button" class="speak-btn speak-btn--inline" data-text="a minor tsunami was observed on the main island of Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">沖縄本島で小規模な津波が観測された</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>lift</h3>
-                <button type="button" class="speak-btn" data-text="lift"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="lift" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/lɪft/</div>
               <p>（警報・制限を）解除する</p>
-              <p class="example-en"><em>The advisory was lifted in the afternoon.</em></p>
+              <p class="example-en speak-line"><em>The advisory was lifted in the afternoon.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The advisory was lifted in the afternoon." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">注意報は午後に解除された。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>strike</h3>
-                <button type="button" class="speak-btn" data-text="strike"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="strike" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/straɪk/</div>
               <p>（地震が）発生する、襲う</p>
-              <p class="example-en"><em>The quake struck 26 km southwest of Kablalan.</em></p>
+              <p class="example-en speak-line"><em>The quake struck 26 km southwest of Kablalan.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The quake struck 26 km southwest of Kablalan." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">地震はカブラランの南西26キロで発生した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>instruct</h3>
-                <button type="button" class="speak-btn" data-text="instruct"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="instruct" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɪnˈstrʌkt/</div>
               <p>（正式に）指示する</p>
-              <p class="example-en"><em>she has instructed relevant ministries to take measures</em></p>
+              <p class="example-en speak-line"><em>she has instructed relevant ministries to take measures</em><button type="button" class="speak-btn speak-btn--inline" data-text="she has instructed relevant ministries to take measures" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">関係省庁に措置を取るよう指示した</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>urge</h3>
-                <button type="button" class="speak-btn" data-text="urge"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="urge" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɜːrdʒ/</div>
               <p>強く勧める、促す</p>
-              <p class="example-en"><em>people were urged to evacuate</em></p>
+              <p class="example-en speak-line"><em>people were urged to evacuate</em><button type="button" class="speak-btn speak-btn--inline" data-text="people were urged to evacuate" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">人々に避難が呼びかけられた</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>at one point</h3>
-                <button type="button" class="speak-btn" data-text="at one point"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="at one point" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/æt wʌn pɔɪnt/</div>
               <p>ある時点では、一時的に</p>
-              <p class="example-en"><em>Over 190,000 people were urged to evacuate at one point.</em></p>
+              <p class="example-en speak-line"><em>Over 190,000 people were urged to evacuate at one point.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Over 190,000 people were urged to evacuate at one point." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">一時的に19万人以上が避難を促された。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Passive voice for reported events</h3>
-              <p>Use &#x27;was/were + past participle&#x27; (e.g., was observed, were injured, were urged) to focus on what happened rather than who did it.</p>
-              <p class="example-en"><em>A minor tsunami was observed on the main island of Okinawa.</em></p>
+              <div class="grammar-head">
+                <h3>Passive voice for reported events</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Passive voice for reported events" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;was/were + past participle&#x27; (e.g., was observed, were injured, were urged) to focus on what happened rather than who did it.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;was/were + past participle&#x27; (e.g., was observed, were injured, were urged) to focus on what happened rather than who did it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>A minor tsunami was observed on the main island of Okinawa.</em><button type="button" class="speak-btn speak-btn--inline" data-text="A minor tsunami was observed on the main island of Okinawa." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>観測・負傷・避難勧告など、行為者より結果・現象を前面に出すとき、受動態がよく使われる。災害報道では特に頻出。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Attribution with &#x27;according to&#x27;</h3>
-              <p>Place &#x27;according to + source&#x27; at the beginning or end of a sentence to show where information comes from.</p>
-              <p class="example-en"><em>Tsunami waves arrived in Okinawa, according to Japanese and U.S. authorities.</em></p>
+              <div class="grammar-head">
+                <h3>Attribution with &#x27;according to&#x27;</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Attribution with &#x27;according to&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Place &#x27;according to + source&#x27; at the beginning or end of a sentence to show where information comes from.<button type="button" class="speak-btn speak-btn--inline" data-text="Place &#x27;according to + source&#x27; at the beginning or end of a sentence to show where information comes from." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Tsunami waves arrived in Okinawa, according to Japanese and U.S. authorities.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Tsunami waves arrived in Okinawa, according to Japanese and U.S. authorities." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>情報の出所を明示する定型表現。文頭・文末どちらにも置ける。ニュースでは客観性を保つために多用される。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Time sequence with &#x27;after&#x27;</h3>
-              <p>Use &#x27;after + subject + past verb&#x27; to show one event happened following another.</p>
-              <p class="example-en"><em>Tsunami waves arrived after an earthquake struck off the southern Philippines.</em></p>
+              <div class="grammar-head">
+                <h3>Time sequence with &#x27;after&#x27;</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Time sequence with &#x27;after&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;after + subject + past verb&#x27; to show one event happened following another.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;after + subject + past verb&#x27; to show one event happened following another." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Tsunami waves arrived after an earthquake struck off the southern Philippines.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Tsunami waves arrived after an earthquake struck off the southern Philippines." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>after + 主語 + 動詞の過去形で「〜したあとに」。原因（地震）と結果（津波）の時系列を示す。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Non-defining relative clauses with &#x27;which&#x27;</h3>
-              <p>Use &#x27;, which + clause,&#x27; (with commas) to add extra information about a noun without changing the core meaning.</p>
-              <p class="example-en"><em>The advisory, which covered areas stretching from Ibaraki to Okinawa, was lifted.</em></p>
+              <div class="grammar-head">
+                <h3>Non-defining relative clauses with &#x27;which&#x27;</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Non-defining relative clauses with &#x27;which&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;, which + clause,&#x27; (with commas) to add extra information about a noun without changing the core meaning.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;, which + clause,&#x27; (with commas) to add extra information about a noun without changing the core meaning." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The advisory, which covered areas stretching from Ibaraki to Okinawa, was lifted.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The advisory, which covered areas stretching from Ibaraki to Okinawa, was lifted." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>カンマで挟んだ which 節は補足説明。注意報の対象範囲など、読者に追加情報を与えるときに使う。</p>
             </div>
             </div>
@@ -684,53 +689,53 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Firefly
                 · score 10</div>
-              <p class="comment-raw">what a joke! This is emergency, no excuses Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.</p>
+              <p class="comment-raw speak-line">what a joke! This is emergency, no excuses Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.<button type="button" class="speak-btn" data-text="what a joke! This is emergency, no excuses Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">ふざけんな！緊急事態なんだ、言い訳は通用しない。繰り返すが、外国の援助が頼まれもしないのに勝手にやって来るわけにはいかない。フィリピンのOCD（民間防衛局）が、いつ・どこに・何を送るかを決める。承認が下り次第、日本が必要なものを全部供給するのは間違いない。</p>
               <ul class='comment-notes'><li>「what a joke!」は冗談の意味ではなく「ふざけんな／馬鹿げてる」という怒り・皮肉の言い方。</li><li>「This is emergency」は冠詞 the/an が抜けた口語的な言い回し。「Again,」で話題を切り替えている。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> What a joke! This is an emergency—no excuses. Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> What a joke! This is an emergency—no excuses. Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared.<button type="button" class="speak-btn speak-btn--inline" data-text="What a joke! This is an emergency—no excuses. Again, foreign aid cannot just show up unrequested. The Philippine OCD dictates what, when, and where help is deployed. There is no doubt Japan will supply whatever is needed the moment it is cleared." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · Firefly
                 · score 8</div>
-              <p class="comment-raw">Send help to Philippines immediately As per official diplomatic statement, Japan &quot;stands ready to provide all possible assistance&quot;. But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.</p>
+              <p class="comment-raw speak-line">Send help to Philippines immediately As per official diplomatic statement, Japan &quot;stands ready to provide all possible assistance&quot;. But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.<button type="button" class="speak-btn" data-text="Send help to Philippines immediately As per official diplomatic statement, Japan &quot;stands ready to provide all possible assistance&quot;. But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">フィリピンに直ちに援助を送れ。公式の外交声明によれば、日本は「あらゆる可能な支援を提供する用意がある」としている。だが、外国が部隊やヘリ、物資を持って勝手にやって来ることはできない。必要なものは評価され、調整され、正式に要請されなければならない。</p>
               <ul class='comment-notes'><li>冒頭「Send help to Philippines immediately」は命令形の断片で、the が抜けている（ネット投稿でよくある省略）。</li><li>「As per」はやや堅いビジネス・公文書調。「The needs need to」は need の重複だが文法的には正しい。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Send help to the Philippines immediately. As per the official diplomatic statement, Japan &quot;stands ready to provide all possible assistance.&quot; But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Send help to the Philippines immediately. As per the official diplomatic statement, Japan &quot;stands ready to provide all possible assistance.&quot; But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested.<button type="button" class="speak-btn speak-btn--inline" data-text="Send help to the Philippines immediately. As per the official diplomatic statement, Japan &quot;stands ready to provide all possible assistance.&quot; But foreign countries cannot just show up with troops, helicopters, and supplies. The needs need to be assessed, coordinated, and formally requested." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#3 · Firefly
                 · score 7</div>
-              <p class="comment-raw">You are not joking, are you? I am not. If you actually think dumping random uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try understanding how the real world works.</p>
+              <p class="comment-raw speak-line">You are not joking, are you? I am not. If you actually think dumping random uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try understanding how the real world works.<button type="button" class="speak-btn" data-text="You are not joking, are you? I am not. If you actually think dumping random uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try understanding how the real world works." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">冗談なんて言ってないよね？してないよ。バラバラで調整もされていない物資を、壊れた滑走路に投げ込めば被災地の助けになると本気で思うなら、そっちが冗談だ。現実世界がどう回っているか、ちゃんと理解してみなよ。</p>
               <ul class='comment-notes'><li>「You are not joking, are you?」は文末の are you? が付くタグ疑問文。相手の発言を疑う・呆れるニュアンス。</li><li>「Try understanding...」は命令形だが、教科書的な Try to understand より突き放した・上から目線の口調。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> You are not joking, are you? I am not. If you actually think dumping random, uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try to understand how the real world works.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> You are not joking, are you? I am not. If you actually think dumping random, uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try to understand how the real world works.<button type="button" class="speak-btn speak-btn--inline" data-text="You are not joking, are you? I am not. If you actually think dumping random, uncoordinated cargo onto a broken runway helps a disaster zone, that is the joke. Try to understand how the real world works." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · Firefly
                 · score 3</div>
-              <p class="comment-raw">China already send in , no question asked Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people&quot;, no questions asked. As for other assistance, nope. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)</p>
+              <p class="comment-raw speak-line">China already send in , no question asked Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people&quot;, no questions asked. As for other assistance, nope. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)<button type="button" class="speak-btn" data-text="China already send in , no question asked Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people&quot;, no questions asked. As for other assistance, nope. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">中国はもう何も聞かずに送り込んだ　そうだね。中国大使館はマニラで「フィリピン国民に心からの哀悼の意を表する」と公式に発表した、何の質問もなしに。他の援助については、いや、まだだ。フィリピン政府はまだ外国の災害援助を公式に受け入れたり要請したりしていない。（もちろん、火曜の朝には変わるかもしれない。）</p>
               <ul class='comment-notes'><li>「China already send in」は send→sent の時制ミスと、相手のコメントへの短い返答の断片。カンマ前の余分なスペースもそのまま。</li><li>「Correct.」で相手の言い分を認めてから訂正する、議論スレッド特有の書き方。「nope」はカジュアルな否定。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> China already sent aid in, no questions asked. Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people,&quot; no questions asked. As for other assistance, no. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>nope</strong> — 口語の「いや／だめ」で、カジュアルな会話向き。フォーマルな文章では no や not yet を使う</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> China already sent aid in, no questions asked. Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people,&quot; no questions asked. As for other assistance, no. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)<button type="button" class="speak-btn speak-btn--inline" data-text="China already sent aid in, no questions asked. Correct. The Chinese embassy in Manila has officially sent &quot;heartfelt condolences to the Philippine people,&quot; no questions asked. As for other assistance, no. The Philippine government has not yet officially accepted or requested foreign disaster aid. (This may, of course, change by Tuesday morning.)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>nope</strong><button type="button" class="speak-btn speak-btn--inline" data-text="nope" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 口語の「いや／だめ」で、カジュアルな会話向き。フォーマルな文章では no や not yet を使う</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · Toshihiro
                 · score 2</div>
-              <p class="comment-raw">Japan, we need your help on this. That province is one of the poorest in the country and this is one of the most powerful quakes that island has ever faced in recent memory. Good thing it was during a time when the flag raising was done, so most people were outside when it struck. The Philippines can&#x27;t do this alone. Sincerely, a Filipino.</p>
+              <p class="comment-raw speak-line">Japan, we need your help on this. That province is one of the poorest in the country and this is one of the most powerful quakes that island has ever faced in recent memory. Good thing it was during a time when the flag raising was done, so most people were outside when it struck. The Philippines can&#x27;t do this alone. Sincerely, a Filipino.<button type="button" class="speak-btn" data-text="Japan, we need your help on this. That province is one of the poorest in the country and this is one of the most powerful quakes that island has ever faced in recent memory. Good thing it was during a time when the flag raising was done, so most people were outside when it struck. The Philippines can&#x27;t do this alone. Sincerely, a Filipino." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">日本、これについて助けが必要です。その州は国内でも最も貧しい地域の一つで、今回の地震はその島が近年経験した中でも最も強力なものの一つです。国旗掲揚の時間だったので、多くの人が外にいて地震が来たのは幸いでした。フィリピンだけではこれを乗り切れません。心より、フィリピン人より。</p>
               <ul class='comment-notes'><li>「flag raising」は学校や職場などでの朝の国旗掲揚式を指すと思われる。文脈から外にいた人が多かった理由の説明。</li><li>全体的に丁寧で感情的な訴え。最後の「Sincerely, a Filipino.」は手紙の結びのような署名。</li></ul>
               
@@ -741,7 +746,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-08</footer>
+    <footer class="speak-line">English News Digest · 2026-06-08
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

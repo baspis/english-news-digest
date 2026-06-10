@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-09</a>
       <span class="sep">/</span>
       <span>Ukrainian strikes hit oil sites in Russia and...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian strikes hit oil sites in Russia and..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge world">world</span>
-      <h1>Ukrainian strikes hit oil sites in Russia and Crimea</h1>
-      <div class="meta">Japan Today World · 2026-06-09</div>
+      <div class="title-head">
+        <span class="badge world">world</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="world" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Ukrainian strikes hit oil sites in Russia and Crimea</h1>
+        <button type="button" class="speak-btn" data-text="Ukrainian strikes hit oil sites in Russia and Crimea" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today World<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today World" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-09</p>
       <div class="summary-ja">ウクライナ軍はロシアと占領下のウクライナで石油施設を攻撃し、戦争の経済的代償をモスクワに払わせる作戦の一環だと両国当局が述べた。ゼレンスキー大統領はアブラモビッチ氏がキーウとモスクワの仲介役を果たしたと認め、EUは新たな制裁案を発表した。一方、両国のドローン攻撃や列車への攻撃で民間人の死傷も相次いでいる。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/world/ukrainian-strikes-hit-oil-sites-in-russia-and-crimea" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Ukrainian forces struck oil facilities in Russia and occupied Ukraine, Ukrainian and Russian officials said Monday, as part of their campaign to make Moscow pay an economic cost for the war."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Ukrainian forces struck oil facilities in Russia and occupied Ukraine, Ukrainian and Russian officials said Monday, as part of their campaign to make Moscow pay an economic cost for the war." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Ukrainian forces struck oil facilities in Russia and occupied Ukraine, Ukrainian and Russian officials said Monday, as part of their campaign to make Moscow pay an economic cost for the war.</p>
       <p class="translation">ウクライナ軍がロシアと占領下のウクライナで石油施設を攻撃したと、ウクライナとロシアの当局者が月曜日に述べた。これは戦争の経済的代償をモスクワに払わせる作戦の一環だ。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Ukrainian forces</td><td class='chunk-role'>主語</td><td>ウクライナ軍が</td><td>forces は軍隊・部隊。news では government troops の意味でよく使う。</td></tr><tr><td class='chunk-en'>struck oil facilities in Russia and occupied Ukraine</td><td class='chunk-role'>述語＋目的語＋場所</td><td>ロシアと占領下のウクライナで石油施設を攻撃した</td><td>strike は hit/attack の硬い報道語。occupied Ukraine はロシア占領下の地域を指す。</td></tr><tr><td class='chunk-en'>Ukrainian and Russian officials said Monday</td><td class='chunk-role'>挿入句（情報源）</td><td>ウクライナとロシアの当局者が月曜日に述べた</td><td>主節の後ろに情報源を置く報道英語の型。</td></tr><tr><td class='chunk-en'>as part of their campaign</td><td class='chunk-role'>副詞句</td><td>作戦の一環として</td><td>campaign は選挙だけでなく軍事・政治作戦にも使う。</td></tr><tr><td class='chunk-en'>to make Moscow pay an economic cost for the war</td><td class='chunk-role'>不定詞（目的）</td><td>モスクワに戦争の経済的代償を払わせるために</td><td>make + O + 原形。pay a cost はコロケーション。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Ukrainian forces<button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian forces" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ウクライナ軍が</td><td>forces は軍隊・部隊。news では government troops の意味でよく使う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>struck oil facilities in Russia and occupied Ukraine<button type="button" class="speak-btn speak-btn--inline" data-text="struck oil facilities in Russia and occupied Ukraine" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語＋場所</td><td>ロシアと占領下のウクライナで石油施設を攻撃した</td><td>strike は hit/attack の硬い報道語。occupied Ukraine はロシア占領下の地域を指す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Ukrainian and Russian officials said Monday<button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian and Russian officials said Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句（情報源）</td><td>ウクライナとロシアの当局者が月曜日に述べた</td><td>主節の後ろに情報源を置く報道英語の型。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as part of their campaign<button type="button" class="speak-btn speak-btn--inline" data-text="as part of their campaign" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>作戦の一環として</td><td>campaign は選挙だけでなく軍事・政治作戦にも使う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to make Moscow pay an economic cost for the war<button type="button" class="speak-btn speak-btn--inline" data-text="to make Moscow pay an economic cost for the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>モスクワに戦争の経済的代償を払わせるために</td><td>make + O + 原形。pay a cost はコロケーション。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Ukrainian forces</div>
+              <div class="chunk-en speak-line">Ukrainian forces<button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian forces" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ウクライナ軍が</div>
               <div>forces は軍隊・部隊。news では government troops の意味でよく使う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">struck oil facilities in Russia and occupied Ukraine</div>
+              <div class="chunk-en speak-line">struck oil facilities in Russia and occupied Ukraine<button type="button" class="speak-btn speak-btn--inline" data-text="struck oil facilities in Russia and occupied Ukraine" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語＋場所 · ロシアと占領下のウクライナで石油施設を攻撃した</div>
               <div>strike は hit/attack の硬い報道語。occupied Ukraine はロシア占領下の地域を指す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Ukrainian and Russian officials said Monday</div>
+              <div class="chunk-en speak-line">Ukrainian and Russian officials said Monday<button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian and Russian officials said Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句（情報源） · ウクライナとロシアの当局者が月曜日に述べた</div>
               <div>主節の後ろに情報源を置く報道英語の型。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as part of their campaign</div>
+              <div class="chunk-en speak-line">as part of their campaign<button type="button" class="speak-btn speak-btn--inline" data-text="as part of their campaign" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 作戦の一環として</div>
               <div>campaign は選挙だけでなく軍事・政治作戦にも使う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to make Moscow pay an economic cost for the war</div>
+              <div class="chunk-en speak-line">to make Moscow pay an economic cost for the war<button type="button" class="speak-btn speak-btn--inline" data-text="to make Moscow pay an economic cost for the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · モスクワに戦争の経済的代償を払わせるために</div>
               <div>make + O + 原形。pay a cost はコロケーション。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Separately, Ukraine’s President Volodymyr Zelenskyy has confirmed that Roman Abramovich acted as a go-between for messages between Kyiv and Moscow."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Separately, Ukraine’s President Volodymyr Zelenskyy has confirmed that Roman Abramovich acted as a go-between for messages between Kyiv and Moscow." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Separately, Ukraine’s President Volodymyr Zelenskyy has confirmed that Roman Abramovich acted as a go-between for messages between Kyiv and Moscow.</p>
       <p class="translation">別件として、ウクライナのゼレンスキー大統領は、ロマン・アブラモビッチ氏がキーウとモスクワの間のメッセージの仲介役を果たしたことを認めた。</p>
@@ -115,35 +124,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Separately</td><td class='chunk-role'>副詞（接続）</td><td>別件として</td><td>Meanwhile と似ているが、より明確に別トピックへ移る。</td></tr><tr><td class='chunk-en'>Ukraine’s President Volodymyr Zelenskyy</td><td class='chunk-role'>主語</td><td>ウクライナのゼレンスキー大統領は</td><td>固有名の前に役職＋氏名を置く報道の型。</td></tr><tr><td class='chunk-en'>has confirmed that</td><td class='chunk-role'>述語</td><td>～を認めた</td><td>確認済みの新情報を示す現在完了。</td></tr><tr><td class='chunk-en'>acted as a go-between</td><td class='chunk-role'>that節内の述語</td><td>仲介役を果たした</td><td>go-between = intermediary。動詞は act as。</td></tr><tr><td class='chunk-en'>for messages between Kyiv and Moscow</td><td class='chunk-role'>補足</td><td>キーウとモスクワの間のメッセージの</td><td>between A and B で両者間のやり取り。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Separately<button type="button" class="speak-btn speak-btn--inline" data-text="Separately" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞（接続）</td><td>別件として</td><td>Meanwhile と似ているが、より明確に別トピックへ移る。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Ukraine’s President Volodymyr Zelenskyy<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine’s President Volodymyr Zelenskyy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ウクライナのゼレンスキー大統領は</td><td>固有名の前に役職＋氏名を置く報道の型。</td></tr><tr><td class='chunk-en'><span class='speak-line'>has confirmed that<button type="button" class="speak-btn speak-btn--inline" data-text="has confirmed that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>～を認めた</td><td>確認済みの新情報を示す現在完了。</td></tr><tr><td class='chunk-en'><span class='speak-line'>acted as a go-between<button type="button" class="speak-btn speak-btn--inline" data-text="acted as a go-between" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節内の述語</td><td>仲介役を果たした</td><td>go-between = intermediary。動詞は act as。</td></tr><tr><td class='chunk-en'><span class='speak-line'>for messages between Kyiv and Moscow<button type="button" class="speak-btn speak-btn--inline" data-text="for messages between Kyiv and Moscow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補足</td><td>キーウとモスクワの間のメッセージの</td><td>between A and B で両者間のやり取り。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Separately</div>
+              <div class="chunk-en speak-line">Separately<button type="button" class="speak-btn speak-btn--inline" data-text="Separately" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞（接続） · 別件として</div>
               <div>Meanwhile と似ているが、より明確に別トピックへ移る。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Ukraine’s President Volodymyr Zelenskyy</div>
+              <div class="chunk-en speak-line">Ukraine’s President Volodymyr Zelenskyy<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine’s President Volodymyr Zelenskyy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ウクライナのゼレンスキー大統領は</div>
               <div>固有名の前に役職＋氏名を置く報道の型。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">has confirmed that</div>
+              <div class="chunk-en speak-line">has confirmed that<button type="button" class="speak-btn speak-btn--inline" data-text="has confirmed that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ～を認めた</div>
               <div>確認済みの新情報を示す現在完了。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">acted as a go-between</div>
+              <div class="chunk-en speak-line">acted as a go-between<button type="button" class="speak-btn speak-btn--inline" data-text="acted as a go-between" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節内の述語 · 仲介役を果たした</div>
               <div>go-between = intermediary。動詞は act as。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for messages between Kyiv and Moscow</div>
+              <div class="chunk-en speak-line">for messages between Kyiv and Moscow<button type="button" class="speak-btn speak-btn--inline" data-text="for messages between Kyiv and Moscow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補足 · キーウとモスクワの間のメッセージの</div>
               <div>between A and B で両者間のやり取り。</div>
             </div>
@@ -156,8 +165,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Zelenskyy told Sky News that the former owner of Premier League team Chelsea traveled to Kyiv with a message from Russian President Vladimir Putin."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Zelenskyy told Sky News that the former owner of Premier League team Chelsea traveled to Kyiv with a message from Russian President Vladimir Putin." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Zelenskyy told Sky News that the former owner of Premier League team Chelsea traveled to Kyiv with a message from Russian President Vladimir Putin.</p>
       <p class="translation">ゼレンスキー氏はスカイニュースに対し、プレミアリーグのチェルシー元オーナーがロシアのプーチン大統領からのメッセージを携えてキーウを訪れたと述べた。</p>
@@ -170,29 +178,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Zelenskyy told Sky News</td><td class='chunk-role'>主語＋述語＋間接目的語</td><td>ゼレンスキー氏はスカイニュースに述べた</td><td>tell は say より「誰に伝えたか」を明示しやすい。</td></tr><tr><td class='chunk-en'>the former owner of Premier League team Chelsea</td><td class='chunk-role'>that節の主語</td><td>プレミアリーグのチェルシー元オーナーが</td><td>former は ex- と同様「以前の」。</td></tr><tr><td class='chunk-en'>traveled to Kyiv</td><td class='chunk-role'>述語</td><td>キーウを訪れた</td><td>travel to は公式・報道でも自然。</td></tr><tr><td class='chunk-en'>with a message from Russian President Vladimir Putin</td><td class='chunk-role'>付帯状況</td><td>ロシアのプーチン大統領からのメッセージを携えて</td><td>with + 名詞 で持参・同伴を表す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Zelenskyy told Sky News<button type="button" class="speak-btn speak-btn--inline" data-text="Zelenskyy told Sky News" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語＋間接目的語</td><td>ゼレンスキー氏はスカイニュースに述べた</td><td>tell は say より「誰に伝えたか」を明示しやすい。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the former owner of Premier League team Chelsea<button type="button" class="speak-btn speak-btn--inline" data-text="the former owner of Premier League team Chelsea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節の主語</td><td>プレミアリーグのチェルシー元オーナーが</td><td>former は ex- と同様「以前の」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>traveled to Kyiv<button type="button" class="speak-btn speak-btn--inline" data-text="traveled to Kyiv" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>キーウを訪れた</td><td>travel to は公式・報道でも自然。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with a message from Russian President Vladimir Putin<button type="button" class="speak-btn speak-btn--inline" data-text="with a message from Russian President Vladimir Putin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>ロシアのプーチン大統領からのメッセージを携えて</td><td>with + 名詞 で持参・同伴を表す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Zelenskyy told Sky News</div>
+              <div class="chunk-en speak-line">Zelenskyy told Sky News<button type="button" class="speak-btn speak-btn--inline" data-text="Zelenskyy told Sky News" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語＋間接目的語 · ゼレンスキー氏はスカイニュースに述べた</div>
               <div>tell は say より「誰に伝えたか」を明示しやすい。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the former owner of Premier League team Chelsea</div>
+              <div class="chunk-en speak-line">the former owner of Premier League team Chelsea<button type="button" class="speak-btn speak-btn--inline" data-text="the former owner of Premier League team Chelsea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節の主語 · プレミアリーグのチェルシー元オーナーが</div>
               <div>former は ex- と同様「以前の」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">traveled to Kyiv</div>
+              <div class="chunk-en speak-line">traveled to Kyiv<button type="button" class="speak-btn speak-btn--inline" data-text="traveled to Kyiv" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · キーウを訪れた</div>
               <div>travel to は公式・報道でも自然。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with a message from Russian President Vladimir Putin</div>
+              <div class="chunk-en speak-line">with a message from Russian President Vladimir Putin<button type="button" class="speak-btn speak-btn--inline" data-text="with a message from Russian President Vladimir Putin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · ロシアのプーチン大統領からのメッセージを携えて</div>
               <div>with + 名詞 で持参・同伴を表す。</div>
             </div>
@@ -205,8 +213,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Zelenskyy said Abramovich brought the message that the Russians “want to understand what we are ready to do,” and had offered to take a reply to Putin."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Zelenskyy said Abramovich brought the message that the Russians “want to understand what we are ready to do,” and had offered to take a reply to Putin." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Zelenskyy said Abramovich brought the message that the Russians “want to understand what we are ready to do,” and had offered to take a reply to Putin.</p>
       <p class="translation">ゼレンスキー氏によると、アブラモビッチ氏はロシア側が「我々が何をする用意があるのかを理解したい」とのメッセージを持参し、プーチンへ返答を届ける申し出もしていたという。</p>
@@ -219,23 +226,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>brought the message that</td><td class='chunk-role'>述語＋同格that節</td><td>～というメッセージを持参した</td><td>message that ～ で内容を説明。</td></tr><tr><td class='chunk-en'>want to understand what we are ready to do</td><td class='chunk-role'>that節内</td><td>我々が何をする用意があるのかを理解したい</td><td>be ready to do = ～する用意がある。</td></tr><tr><td class='chunk-en'>had offered to take a reply to Putin</td><td class='chunk-role'>並列述語（過去完了）</td><td>プーチンへ返答を届ける申し出をしていた</td><td>take a reply = 返答を届ける。offer to の後は動詞原形。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>brought the message that<button type="button" class="speak-btn speak-btn--inline" data-text="brought the message that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋同格that節</td><td>～というメッセージを持参した</td><td>message that ～ で内容を説明。</td></tr><tr><td class='chunk-en'><span class='speak-line'>want to understand what we are ready to do<button type="button" class="speak-btn speak-btn--inline" data-text="want to understand what we are ready to do" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節内</td><td>我々が何をする用意があるのかを理解したい</td><td>be ready to do = ～する用意がある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>had offered to take a reply to Putin<button type="button" class="speak-btn speak-btn--inline" data-text="had offered to take a reply to Putin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列述語（過去完了）</td><td>プーチンへ返答を届ける申し出をしていた</td><td>take a reply = 返答を届ける。offer to の後は動詞原形。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">brought the message that</div>
+              <div class="chunk-en speak-line">brought the message that<button type="button" class="speak-btn speak-btn--inline" data-text="brought the message that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋同格that節 · ～というメッセージを持参した</div>
               <div>message that ～ で内容を説明。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">want to understand what we are ready to do</div>
+              <div class="chunk-en speak-line">want to understand what we are ready to do<button type="button" class="speak-btn speak-btn--inline" data-text="want to understand what we are ready to do" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節内 · 我々が何をする用意があるのかを理解したい</div>
               <div>be ready to do = ～する用意がある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">had offered to take a reply to Putin</div>
+              <div class="chunk-en speak-line">had offered to take a reply to Putin<button type="button" class="speak-btn speak-btn--inline" data-text="had offered to take a reply to Putin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列述語（過去完了） · プーチンへ返答を届ける申し出をしていた</div>
               <div>take a reply = 返答を届ける。offer to の後は動詞原形。</div>
             </div>
@@ -248,8 +255,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Meanwhile, the European Union’s foreign policy chief said a new proposed round of sanctions against Russia includes 80 listings targeting Russia’s “military industrial complex, human rights violators and propagandists.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Meanwhile, the European Union’s foreign policy chief said a new proposed round of sanctions against Russia includes 80 listings targeting Russia’s “military industrial complex, human rights violators and propagandists.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Meanwhile, the European Union’s foreign policy chief said a new proposed round of sanctions against Russia includes 80 listings targeting Russia’s “military industrial complex, human rights violators and propagandists.”</p>
       <p class="translation">一方、欧州連合の外交政策担当トップは、ロシアに対する新たな制裁案の一連の措置には、ロシアの「軍事産業複合体、人権侵害者、プロパガンド関係者」を標的とする80件の指定が含まれると述べた。</p>
@@ -262,29 +268,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>the European Union’s foreign policy chief</td><td class='chunk-role'>主語</td><td>EUの外交政策担当トップ</td><td>chief は長官・責任者の硬い表現。</td></tr><tr><td class='chunk-en'>a new proposed round of sanctions against Russia</td><td class='chunk-role'>目的語</td><td>ロシアに対する新たな制裁案の一連の措置</td><td>round of ～ = ～の一連・新たな波。</td></tr><tr><td class='chunk-en'>includes 80 listings</td><td class='chunk-role'>述語</td><td>80件の指定を含む</td><td>listing は制裁リストへの掲載。</td></tr><tr><td class='chunk-en'>targeting Russia’s “military industrial complex, human rights violators and propagandists”</td><td class='chunk-role'>分詞句（後置修飾）</td><td>ロシアの軍事産業複合体などを標的とする</td><td>現在分詞で listings の内容を具体化。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>the European Union’s foreign policy chief<button type="button" class="speak-btn speak-btn--inline" data-text="the European Union’s foreign policy chief" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>EUの外交政策担当トップ</td><td>chief は長官・責任者の硬い表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a new proposed round of sanctions against Russia<button type="button" class="speak-btn speak-btn--inline" data-text="a new proposed round of sanctions against Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語</td><td>ロシアに対する新たな制裁案の一連の措置</td><td>round of ～ = ～の一連・新たな波。</td></tr><tr><td class='chunk-en'><span class='speak-line'>includes 80 listings<button type="button" class="speak-btn speak-btn--inline" data-text="includes 80 listings" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>80件の指定を含む</td><td>listing は制裁リストへの掲載。</td></tr><tr><td class='chunk-en'><span class='speak-line'>targeting Russia’s “military industrial complex, human rights violators and propagandists”<button type="button" class="speak-btn speak-btn--inline" data-text="targeting Russia’s “military industrial complex, human rights violators and propagandists”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句（後置修飾）</td><td>ロシアの軍事産業複合体などを標的とする</td><td>現在分詞で listings の内容を具体化。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">the European Union’s foreign policy chief</div>
+              <div class="chunk-en speak-line">the European Union’s foreign policy chief<button type="button" class="speak-btn speak-btn--inline" data-text="the European Union’s foreign policy chief" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · EUの外交政策担当トップ</div>
               <div>chief は長官・責任者の硬い表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a new proposed round of sanctions against Russia</div>
+              <div class="chunk-en speak-line">a new proposed round of sanctions against Russia<button type="button" class="speak-btn speak-btn--inline" data-text="a new proposed round of sanctions against Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語 · ロシアに対する新たな制裁案の一連の措置</div>
               <div>round of ～ = ～の一連・新たな波。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">includes 80 listings</div>
+              <div class="chunk-en speak-line">includes 80 listings<button type="button" class="speak-btn speak-btn--inline" data-text="includes 80 listings" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 80件の指定を含む</div>
               <div>listing は制裁リストへの掲載。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">targeting Russia’s “military industrial complex, human rights violators and propagandists”</div>
+              <div class="chunk-en speak-line">targeting Russia’s “military industrial complex, human rights violators and propagandists”<button type="button" class="speak-btn speak-btn--inline" data-text="targeting Russia’s “military industrial complex, human rights violators and propagandists”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句（後置修飾） · ロシアの軍事産業複合体などを標的とする</div>
               <div>現在分詞で listings の内容を具体化。</div>
             </div>
@@ -297,8 +303,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Kaja Kallas told a news conference after a meeting of EU defense ministers Monday that Western sanctions have already cost Moscow an estimated $1.2 to 1.5 trillion."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Kaja Kallas told a news conference after a meeting of EU defense ministers Monday that Western sanctions have already cost Moscow an estimated $1.2 to 1.5 trillion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Kaja Kallas told a news conference after a meeting of EU defense ministers Monday that Western sanctions have already cost Moscow an estimated $1.2 to 1.5 trillion.</p>
       <p class="translation">カヤ・カラス氏は月曜日のEU国防相会合の後の記者会見で、西側の制裁はすでにモスクワに推定1.2兆から1.5兆ドルの損失を与えていると述べた。</p>
@@ -311,29 +316,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>told a news conference</td><td class='chunk-role'>述語</td><td>記者会見で述べた</td><td>speak at より told a news conference がニュースで多い。</td></tr><tr><td class='chunk-en'>after a meeting of EU defense ministers Monday</td><td class='chunk-role'>時状語</td><td>月曜日のEU国防相会合の後</td><td>曜日は文末に置かれることも多い。</td></tr><tr><td class='chunk-en'>Western sanctions have already cost Moscow</td><td class='chunk-role'>that節</td><td>西側の制裁はすでにモスクワに損失を与えている</td><td>cost は「費用がかかる」だけでなく「損失を与える」。</td></tr><tr><td class='chunk-en'>an estimated $1.2 to 1.5 trillion</td><td class='chunk-role'>目的語（金額）</td><td>推定1.2兆から1.5兆ドル</td><td>estimated は推定値のニュアンス。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>told a news conference<button type="button" class="speak-btn speak-btn--inline" data-text="told a news conference" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>記者会見で述べた</td><td>speak at より told a news conference がニュースで多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>after a meeting of EU defense ministers Monday<button type="button" class="speak-btn speak-btn--inline" data-text="after a meeting of EU defense ministers Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時状語</td><td>月曜日のEU国防相会合の後</td><td>曜日は文末に置かれることも多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Western sanctions have already cost Moscow<button type="button" class="speak-btn speak-btn--inline" data-text="Western sanctions have already cost Moscow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>西側の制裁はすでにモスクワに損失を与えている</td><td>cost は「費用がかかる」だけでなく「損失を与える」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>an estimated $1.2 to 1.5 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="an estimated $1.2 to 1.5 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語（金額）</td><td>推定1.2兆から1.5兆ドル</td><td>estimated は推定値のニュアンス。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">told a news conference</div>
+              <div class="chunk-en speak-line">told a news conference<button type="button" class="speak-btn speak-btn--inline" data-text="told a news conference" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 記者会見で述べた</div>
               <div>speak at より told a news conference がニュースで多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after a meeting of EU defense ministers Monday</div>
+              <div class="chunk-en speak-line">after a meeting of EU defense ministers Monday<button type="button" class="speak-btn speak-btn--inline" data-text="after a meeting of EU defense ministers Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時状語 · 月曜日のEU国防相会合の後</div>
               <div>曜日は文末に置かれることも多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Western sanctions have already cost Moscow</div>
+              <div class="chunk-en speak-line">Western sanctions have already cost Moscow<button type="button" class="speak-btn speak-btn--inline" data-text="Western sanctions have already cost Moscow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · 西側の制裁はすでにモスクワに損失を与えている</div>
               <div>cost は「費用がかかる」だけでなく「損失を与える」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">an estimated $1.2 to 1.5 trillion</div>
+              <div class="chunk-en speak-line">an estimated $1.2 to 1.5 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="an estimated $1.2 to 1.5 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語（金額） · 推定1.2兆から1.5兆ドル</div>
               <div>estimated は推定値のニュアンス。</div>
             </div>
@@ -346,8 +351,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Russia’s Defense Ministry said its forces shot down 310 Ukrainian drones overnight into Monday, including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Russia’s Defense Ministry said its forces shot down 310 Ukrainian drones overnight into Monday, including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Russia’s Defense Ministry said its forces shot down 310 Ukrainian drones overnight into Monday, including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas.</p>
       <p class="translation">ロシア国防省は、月曜日に及ぶ夜間のうちに自軍がウクライナ製ドローン310機を撃墜したと発表した。モスクワ地方、ロシア西部・南西部、ロシア占領下のクリミア、黒海とアゾフ海の上空も含まれる。</p>
@@ -360,23 +364,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>shot down 310 Ukrainian drones</td><td class='chunk-role'>that節の述語</td><td>ウクライナ製ドローン310機を撃墜した</td><td>shoot down = 撃墜する。</td></tr><tr><td class='chunk-en'>overnight into Monday</td><td class='chunk-role'>時状語</td><td>月曜日に及ぶ夜間に</td><td>into は「～に入って」の時間の伸び。</td></tr><tr><td class='chunk-en'>including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas</td><td class='chunk-role'>付加説明</td><td>モスクワ地方などの上空も含め</td><td>including は前文全体を受ける。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>shot down 310 Ukrainian drones<button type="button" class="speak-btn speak-btn--inline" data-text="shot down 310 Ukrainian drones" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節の述語</td><td>ウクライナ製ドローン310機を撃墜した</td><td>shoot down = 撃墜する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>overnight into Monday<button type="button" class="speak-btn speak-btn--inline" data-text="overnight into Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時状語</td><td>月曜日に及ぶ夜間に</td><td>into は「～に入って」の時間の伸び。</td></tr><tr><td class='chunk-en'><span class='speak-line'>including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas<button type="button" class="speak-btn speak-btn--inline" data-text="including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加説明</td><td>モスクワ地方などの上空も含め</td><td>including は前文全体を受ける。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">shot down 310 Ukrainian drones</div>
+              <div class="chunk-en speak-line">shot down 310 Ukrainian drones<button type="button" class="speak-btn speak-btn--inline" data-text="shot down 310 Ukrainian drones" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節の述語 · ウクライナ製ドローン310機を撃墜した</div>
               <div>shoot down = 撃墜する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">overnight into Monday</div>
+              <div class="chunk-en speak-line">overnight into Monday<button type="button" class="speak-btn speak-btn--inline" data-text="overnight into Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時状語 · 月曜日に及ぶ夜間に</div>
               <div>into は「～に入って」の時間の伸び。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas</div>
+              <div class="chunk-en speak-line">including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas<button type="button" class="speak-btn speak-btn--inline" data-text="including over the Moscow region, western and southwestern Russia, Russian-occupied Crimea and the Black and Azov seas" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加説明 · モスクワ地方などの上空も含め</div>
               <div>including は前文全体を受ける。</div>
             </div>
@@ -389,8 +393,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Russia targeted Ukraine with 155 drones, of which Ukrainian air defenses shot down or suppressed 124, according to its air force."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Russia targeted Ukraine with 155 drones, of which Ukrainian air defenses shot down or suppressed 124, according to its air force." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Russia targeted Ukraine with 155 drones, of which Ukrainian air defenses shot down or suppressed 124, according to its air force.</p>
       <p class="translation">ロシアは155機のドローンでウクライナを標的にしたが、そのうち124機はウクライナの防空が撃墜または無力化したと、同国の空軍が述べた。</p>
@@ -403,23 +406,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>targeted Ukraine with 155 drones</td><td class='chunk-role'>主節</td><td>155機のドローンでウクライナを標的にした</td><td>target は動詞で「標的にする」。</td></tr><tr><td class='chunk-en'>of which Ukrainian air defenses shot down or suppressed 124</td><td class='chunk-role'>関係節</td><td>そのうち124機をウクライナの防空が撃墜または無力化した</td><td>of which = そのうち。suppress は軍事報道語。</td></tr><tr><td class='chunk-en'>according to its air force</td><td class='chunk-role'>挿入句（情報源）</td><td>同国の空軍によると</td><td>its は Ukraine&#x27;s を指す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>targeted Ukraine with 155 drones<button type="button" class="speak-btn speak-btn--inline" data-text="targeted Ukraine with 155 drones" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>155機のドローンでウクライナを標的にした</td><td>target は動詞で「標的にする」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>of which Ukrainian air defenses shot down or suppressed 124<button type="button" class="speak-btn speak-btn--inline" data-text="of which Ukrainian air defenses shot down or suppressed 124" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>そのうち124機をウクライナの防空が撃墜または無力化した</td><td>of which = そのうち。suppress は軍事報道語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to its air force<button type="button" class="speak-btn speak-btn--inline" data-text="according to its air force" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句（情報源）</td><td>同国の空軍によると</td><td>its は Ukraine&#x27;s を指す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">targeted Ukraine with 155 drones</div>
+              <div class="chunk-en speak-line">targeted Ukraine with 155 drones<button type="button" class="speak-btn speak-btn--inline" data-text="targeted Ukraine with 155 drones" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 155機のドローンでウクライナを標的にした</div>
               <div>target は動詞で「標的にする」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">of which Ukrainian air defenses shot down or suppressed 124</div>
+              <div class="chunk-en speak-line">of which Ukrainian air defenses shot down or suppressed 124<button type="button" class="speak-btn speak-btn--inline" data-text="of which Ukrainian air defenses shot down or suppressed 124" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · そのうち124機をウクライナの防空が撃墜または無力化した</div>
               <div>of which = そのうち。suppress は軍事報道語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to its air force</div>
+              <div class="chunk-en speak-line">according to its air force<button type="button" class="speak-btn speak-btn--inline" data-text="according to its air force" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句（情報源） · 同国の空軍によると</div>
               <div>its は Ukraine&#x27;s を指す。</div>
             </div>
@@ -432,8 +435,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Ukraine’s General Staff said Ukrainian forces had struck Russia’s Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Ukraine’s General Staff said Ukrainian forces had struck Russia’s Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Ukraine’s General Staff said Ukrainian forces had struck Russia’s Krasnodar Krai region overnight, hitting the Grushovaya oil transshipment base near Novorossiysk.</p>
       <p class="translation">ウクライナ総参謀部は、ウクライナ軍が夜のうちにロシアのクラスノダール地方を攻撃し、ノヴォロシースク近郊のグルショヴァヤ石油転送基地を命中させたと発表した。</p>
@@ -446,23 +448,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Ukraine’s General Staff</td><td class='chunk-role'>主語</td><td>ウクライナ総参謀部は</td><td>General Staff = 総参謀部。</td></tr><tr><td class='chunk-en'>had struck Russia’s Krasnodar Krai region overnight</td><td class='chunk-role'>that節</td><td>夜のうちにクラスノダール地方を攻撃した</td><td>過去完了は報道時点から見た過去。</td></tr><tr><td class='chunk-en'>hitting the Grushovaya oil transshipment base near Novorossiysk</td><td class='chunk-role'>分詞句</td><td>ノヴォロシースク近郊の転送基地を命中させ</td><td>hitting は具体的な被害対象を補足。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Ukraine’s General Staff<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine’s General Staff" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ウクライナ総参謀部は</td><td>General Staff = 総参謀部。</td></tr><tr><td class='chunk-en'><span class='speak-line'>had struck Russia’s Krasnodar Krai region overnight<button type="button" class="speak-btn speak-btn--inline" data-text="had struck Russia’s Krasnodar Krai region overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>夜のうちにクラスノダール地方を攻撃した</td><td>過去完了は報道時点から見た過去。</td></tr><tr><td class='chunk-en'><span class='speak-line'>hitting the Grushovaya oil transshipment base near Novorossiysk<button type="button" class="speak-btn speak-btn--inline" data-text="hitting the Grushovaya oil transshipment base near Novorossiysk" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句</td><td>ノヴォロシースク近郊の転送基地を命中させ</td><td>hitting は具体的な被害対象を補足。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Ukraine’s General Staff</div>
+              <div class="chunk-en speak-line">Ukraine’s General Staff<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine’s General Staff" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ウクライナ総参謀部は</div>
               <div>General Staff = 総参謀部。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">had struck Russia’s Krasnodar Krai region overnight</div>
+              <div class="chunk-en speak-line">had struck Russia’s Krasnodar Krai region overnight<button type="button" class="speak-btn speak-btn--inline" data-text="had struck Russia’s Krasnodar Krai region overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · 夜のうちにクラスノダール地方を攻撃した</div>
               <div>過去完了は報道時点から見た過去。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">hitting the Grushovaya oil transshipment base near Novorossiysk</div>
+              <div class="chunk-en speak-line">hitting the Grushovaya oil transshipment base near Novorossiysk<button type="button" class="speak-btn speak-btn--inline" data-text="hitting the Grushovaya oil transshipment base near Novorossiysk" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句 · ノヴォロシースク近郊の転送基地を命中させ</div>
               <div>hitting は具体的な被害対象を補足。</div>
             </div>
@@ -475,8 +477,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The complex is one of the largest transshipment hubs in southern Russia for oil and petroleum products."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The complex is one of the largest transshipment hubs in southern Russia for oil and petroleum products." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The complex is one of the largest transshipment hubs in southern Russia for oil and petroleum products.</p>
       <p class="translation">この複合施設は、石油や石油製品についてロシア南部最大級の転送拠点の一つだ。</p>
@@ -489,23 +490,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The complex</td><td class='chunk-role'>主語</td><td>この複合施設は</td><td>前文の基地を受ける。</td></tr><tr><td class='chunk-en'>is one of the largest transshipment hubs</td><td class='chunk-role'>述語</td><td>最大級の転送拠点の一つだ</td><td>one of the + 最上級は頻出パターン。</td></tr><tr><td class='chunk-en'>in southern Russia for oil and petroleum products</td><td class='chunk-role'>場所・対象</td><td>ロシア南部で石油・石油製品向けの</td><td>for は「～向け・～用の」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The complex<button type="button" class="speak-btn speak-btn--inline" data-text="The complex" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>この複合施設は</td><td>前文の基地を受ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>is one of the largest transshipment hubs<button type="button" class="speak-btn speak-btn--inline" data-text="is one of the largest transshipment hubs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>最大級の転送拠点の一つだ</td><td>one of the + 最上級は頻出パターン。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in southern Russia for oil and petroleum products<button type="button" class="speak-btn speak-btn--inline" data-text="in southern Russia for oil and petroleum products" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所・対象</td><td>ロシア南部で石油・石油製品向けの</td><td>for は「～向け・～用の」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The complex</div>
+              <div class="chunk-en speak-line">The complex<button type="button" class="speak-btn speak-btn--inline" data-text="The complex" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · この複合施設は</div>
               <div>前文の基地を受ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">is one of the largest transshipment hubs</div>
+              <div class="chunk-en speak-line">is one of the largest transshipment hubs<button type="button" class="speak-btn speak-btn--inline" data-text="is one of the largest transshipment hubs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 最大級の転送拠点の一つだ</div>
               <div>one of the + 最上級は頻出パターン。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in southern Russia for oil and petroleum products</div>
+              <div class="chunk-en speak-line">in southern Russia for oil and petroleum products<button type="button" class="speak-btn speak-btn--inline" data-text="in southern Russia for oil and petroleum products" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所・対象 · ロシア南部で石油・石油製品向けの</div>
               <div>for は「～向け・～用の」。</div>
             </div>
@@ -518,8 +519,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Russian regional authorities confirmed a Ukrainian drone sparked a fire at the facility, adding that there were no casualties."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Russian regional authorities confirmed a Ukrainian drone sparked a fire at the facility, adding that there were no casualties." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Russian regional authorities confirmed a Ukrainian drone sparked a fire at the facility, adding that there were no casualties.</p>
       <p class="translation">ロシアの地方当局は、ウクライナのドローンが施設で火災を起こしたことを認め、死者・負伤者はいなかったと付け加えた。</p>
@@ -532,17 +532,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>confirmed a Ukrainian drone sparked a fire at the facility</td><td class='chunk-role'>述語＋節</td><td>ウクライナのドローンが施設で火災を起こしたことを認めた</td><td>spark は cause/trigger の硬い語。</td></tr><tr><td class='chunk-en'>adding that there were no casualties</td><td class='chunk-role'>分詞句</td><td>死者・負伤者はいなかったと付け加えて</td><td>casualty は軍事・災害報道の基本語彙。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>confirmed a Ukrainian drone sparked a fire at the facility<button type="button" class="speak-btn speak-btn--inline" data-text="confirmed a Ukrainian drone sparked a fire at the facility" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋節</td><td>ウクライナのドローンが施設で火災を起こしたことを認めた</td><td>spark は cause/trigger の硬い語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>adding that there were no casualties<button type="button" class="speak-btn speak-btn--inline" data-text="adding that there were no casualties" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句</td><td>死者・負伤者はいなかったと付け加えて</td><td>casualty は軍事・災害報道の基本語彙。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">confirmed a Ukrainian drone sparked a fire at the facility</div>
+              <div class="chunk-en speak-line">confirmed a Ukrainian drone sparked a fire at the facility<button type="button" class="speak-btn speak-btn--inline" data-text="confirmed a Ukrainian drone sparked a fire at the facility" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋節 · ウクライナのドローンが施設で火災を起こしたことを認めた</div>
               <div>spark は cause/trigger の硬い語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">adding that there were no casualties</div>
+              <div class="chunk-en speak-line">adding that there were no casualties<button type="button" class="speak-btn speak-btn--inline" data-text="adding that there were no casualties" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句 · 死者・負伤者はいなかったと付け加えて</div>
               <div>casualty は軍事・災害報道の基本語彙。</div>
             </div>
@@ -555,8 +555,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="While they did not comment on the extent of damage, they said 130 rescue workers were involved in putting out the blaze."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="While they did not comment on the extent of damage, they said 130 rescue workers were involved in putting out the blaze." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">While they did not comment on the extent of damage, they said 130 rescue workers were involved in putting out the blaze.</p>
       <p class="translation">被害の程度についてはコメントしなかったものの、130人の救助隊員が消火に当たったと当局は述べた。</p>
@@ -569,17 +568,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>While they did not comment on the extent of damage</td><td class='chunk-role'>譲歩節</td><td>被害の程度にはコメントしなかったが</td><td>extent of damage = 被害の程度。</td></tr><tr><td class='chunk-en'>130 rescue workers were involved in putting out the blaze</td><td class='chunk-role'>主節</td><td>130人の救助隊員が消火に当たった</td><td>blaze は fire より大きな火災のイメージ。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>While they did not comment on the extent of damage<button type="button" class="speak-btn speak-btn--inline" data-text="While they did not comment on the extent of damage" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>譲歩節</td><td>被害の程度にはコメントしなかったが</td><td>extent of damage = 被害の程度。</td></tr><tr><td class='chunk-en'><span class='speak-line'>130 rescue workers were involved in putting out the blaze<button type="button" class="speak-btn speak-btn--inline" data-text="130 rescue workers were involved in putting out the blaze" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>130人の救助隊員が消火に当たった</td><td>blaze は fire より大きな火災のイメージ。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">While they did not comment on the extent of damage</div>
+              <div class="chunk-en speak-line">While they did not comment on the extent of damage<button type="button" class="speak-btn speak-btn--inline" data-text="While they did not comment on the extent of damage" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">譲歩節 · 被害の程度にはコメントしなかったが</div>
               <div>extent of damage = 被害の程度。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">130 rescue workers were involved in putting out the blaze</div>
+              <div class="chunk-en speak-line">130 rescue workers were involved in putting out the blaze<button type="button" class="speak-btn speak-btn--inline" data-text="130 rescue workers were involved in putting out the blaze" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 130人の救助隊員が消火に当たった</div>
               <div>blaze は fire より大きな火災のイメージ。</div>
             </div>
@@ -592,8 +591,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Asked whether the Kremlin is worried about the fuel crisis in Crimea, Kremlin spokesman Dmitry Peskov said the Energy Ministry and other agencies are working on a set of measures to respond to the situation."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Asked whether the Kremlin is worried about the fuel crisis in Crimea, Kremlin spokesman Dmitry Peskov said the Energy Ministry and other agencies are working on a set of measures to respond to the situation." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Asked whether the Kremlin is worried about the fuel crisis in Crimea, Kremlin spokesman Dmitry Peskov said the Energy Ministry and other agencies are working on a set of measures to respond to the situation.</p>
       <p class="translation">クリミアの燃料危機をクレムリンが懸念しているかという問いに対し、クレムリン報道官のドミトリー・ペスコフ氏は、エネルギー省などが状況に対応する一連の措置を検討していると述べた。</p>
@@ -606,23 +604,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Asked whether the Kremlin is worried about the fuel crisis in Crimea</td><td class='chunk-role'>過去分詞句（状況）</td><td>クリミアの燃料危機を懸念しているかと問われ</td><td>文頭の過去分詞は「～と尋ねられたとき」の省略。</td></tr><tr><td class='chunk-en'>the Energy Ministry and other agencies are working on a set of measures</td><td class='chunk-role'>that節</td><td>エネルギー省などが一連の措置を検討している</td><td>work on = ～に取り組む。</td></tr><tr><td class='chunk-en'>to respond to the situation</td><td class='chunk-role'>不定詞（目的）</td><td>状況に対応するために</td><td>respond to は deal with の硬い言い換え。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Asked whether the Kremlin is worried about the fuel crisis in Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="Asked whether the Kremlin is worried about the fuel crisis in Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>過去分詞句（状況）</td><td>クリミアの燃料危機を懸念しているかと問われ</td><td>文頭の過去分詞は「～と尋ねられたとき」の省略。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the Energy Ministry and other agencies are working on a set of measures<button type="button" class="speak-btn speak-btn--inline" data-text="the Energy Ministry and other agencies are working on a set of measures" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>エネルギー省などが一連の措置を検討している</td><td>work on = ～に取り組む。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to respond to the situation<button type="button" class="speak-btn speak-btn--inline" data-text="to respond to the situation" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>状況に対応するために</td><td>respond to は deal with の硬い言い換え。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Asked whether the Kremlin is worried about the fuel crisis in Crimea</div>
+              <div class="chunk-en speak-line">Asked whether the Kremlin is worried about the fuel crisis in Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="Asked whether the Kremlin is worried about the fuel crisis in Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">過去分詞句（状況） · クリミアの燃料危機を懸念しているかと問われ</div>
               <div>文頭の過去分詞は「～と尋ねられたとき」の省略。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the Energy Ministry and other agencies are working on a set of measures</div>
+              <div class="chunk-en speak-line">the Energy Ministry and other agencies are working on a set of measures<button type="button" class="speak-btn speak-btn--inline" data-text="the Energy Ministry and other agencies are working on a set of measures" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · エネルギー省などが一連の措置を検討している</div>
               <div>work on = ～に取り組む。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to respond to the situation</div>
+              <div class="chunk-en speak-line">to respond to the situation<button type="button" class="speak-btn speak-btn--inline" data-text="to respond to the situation" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 状況に対応するために</div>
               <div>respond to は deal with の硬い言い換え。</div>
             </div>
@@ -635,8 +633,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“There are indeed certain problems at the moment,” Peskov said. “Measures are being taken.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“There are indeed certain problems at the moment,” Peskov said. “Measures are being taken.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“There are indeed certain problems at the moment,” Peskov said. “Measures are being taken.”</p>
       <p class="translation">ペスコフ氏は「確かに現時点で一定の問題がある」「対策は講じられている」と述べた。</p>
@@ -649,23 +646,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>There are indeed certain problems at the moment</td><td class='chunk-role'>引用句</td><td>確かに現時点で一定の問題がある</td><td>indeed は「確かに」。there are 構文。</td></tr><tr><td class='chunk-en'>Measures are being taken</td><td class='chunk-role'>引用句</td><td>対策が講じられている</td><td>受動の進行形で「今まさに対応中」。</td></tr><tr><td class='chunk-en'>Peskov said</td><td class='chunk-role'>主節</td><td>ペスコフ氏は述べた</td><td>引用の後に話者を置く型。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>There are indeed certain problems at the moment<button type="button" class="speak-btn speak-btn--inline" data-text="There are indeed certain problems at the moment" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句</td><td>確かに現時点で一定の問題がある</td><td>indeed は「確かに」。there are 構文。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Measures are being taken<button type="button" class="speak-btn speak-btn--inline" data-text="Measures are being taken" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句</td><td>対策が講じられている</td><td>受動の進行形で「今まさに対応中」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Peskov said<button type="button" class="speak-btn speak-btn--inline" data-text="Peskov said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ペスコフ氏は述べた</td><td>引用の後に話者を置く型。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">There are indeed certain problems at the moment</div>
+              <div class="chunk-en speak-line">There are indeed certain problems at the moment<button type="button" class="speak-btn speak-btn--inline" data-text="There are indeed certain problems at the moment" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句 · 確かに現時点で一定の問題がある</div>
               <div>indeed は「確かに」。there are 構文。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Measures are being taken</div>
+              <div class="chunk-en speak-line">Measures are being taken<button type="button" class="speak-btn speak-btn--inline" data-text="Measures are being taken" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句 · 対策が講じられている</div>
               <div>受動の進行形で「今まさに対応中」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Peskov said</div>
+              <div class="chunk-en speak-line">Peskov said<button type="button" class="speak-btn speak-btn--inline" data-text="Peskov said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ペスコフ氏は述べた</div>
               <div>引用の後に話者を置く型。</div>
             </div>
@@ -678,8 +675,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Krasny Yar “linear production and dispatching station” in the Volgograd region was also hit, the General Staff said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Krasny Yar “linear production and dispatching station” in the Volgograd region was also hit, the General Staff said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Krasny Yar “linear production and dispatching station” in the Volgograd region was also hit, the General Staff said.</p>
       <p class="translation">ヴォルゴグラード州のクラスニー・ヤールにある「線内生産・配電所」も攻撃を受けたと、総参謀部が述べた。</p>
@@ -692,23 +688,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The Krasny Yar “linear production and dispatching station”</td><td class='chunk-role'>主語</td><td>クラスニー・ヤールの線内生産・配電所</td><td>長い固有名詞はそのまま訳す。</td></tr><tr><td class='chunk-en'>in the Volgograd region</td><td class='chunk-role'>場所</td><td>ヴォルゴグラード州の</td><td>region はロシアの州（krai/oblast）に相当。</td></tr><tr><td class='chunk-en'>was also hit</td><td class='chunk-role'>述語（受動）</td><td>も攻撃を受けた</td><td>hit は struck と同系の報道語。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The Krasny Yar “linear production and dispatching station”<button type="button" class="speak-btn speak-btn--inline" data-text="The Krasny Yar “linear production and dispatching station”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>クラスニー・ヤールの線内生産・配電所</td><td>長い固有名詞はそのまま訳す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the Volgograd region<button type="button" class="speak-btn speak-btn--inline" data-text="in the Volgograd region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ヴォルゴグラード州の</td><td>region はロシアの州（krai/oblast）に相当。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was also hit<button type="button" class="speak-btn speak-btn--inline" data-text="was also hit" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（受動）</td><td>も攻撃を受けた</td><td>hit は struck と同系の報道語。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The Krasny Yar “linear production and dispatching station”</div>
+              <div class="chunk-en speak-line">The Krasny Yar “linear production and dispatching station”<button type="button" class="speak-btn speak-btn--inline" data-text="The Krasny Yar “linear production and dispatching station”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · クラスニー・ヤールの線内生産・配電所</div>
               <div>長い固有名詞はそのまま訳す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the Volgograd region</div>
+              <div class="chunk-en speak-line">in the Volgograd region<button type="button" class="speak-btn speak-btn--inline" data-text="in the Volgograd region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ヴォルゴグラード州の</div>
               <div>region はロシアの州（krai/oblast）に相当。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was also hit</div>
+              <div class="chunk-en speak-line">was also hit<button type="button" class="speak-btn speak-btn--inline" data-text="was also hit" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（受動） · も攻撃を受けた</div>
               <div>hit は struck と同系の報道語。</div>
             </div>
@@ -721,8 +717,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="A fire broke out at the site, according to the statement."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="A fire broke out at the site, according to the statement." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">A fire broke out at the site, according to the statement.</p>
       <p class="translation">声明によると、現場で火災が発生した。</p>
@@ -735,17 +730,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>A fire broke out at the site</td><td class='chunk-role'>主節</td><td>現場で火災が発生した</td><td>break out ≠ break up。発生の意味。</td></tr><tr><td class='chunk-en'>according to the statement</td><td class='chunk-role'>挿入句</td><td>声明によると</td><td>公式発表の出所を示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>A fire broke out at the site<button type="button" class="speak-btn speak-btn--inline" data-text="A fire broke out at the site" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>現場で火災が発生した</td><td>break out ≠ break up。発生の意味。</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the statement<button type="button" class="speak-btn speak-btn--inline" data-text="according to the statement" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句</td><td>声明によると</td><td>公式発表の出所を示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">A fire broke out at the site</div>
+              <div class="chunk-en speak-line">A fire broke out at the site<button type="button" class="speak-btn speak-btn--inline" data-text="A fire broke out at the site" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 現場で火災が発生した</div>
               <div>break out ≠ break up。発生の意味。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the statement</div>
+              <div class="chunk-en speak-line">according to the statement<button type="button" class="speak-btn speak-btn--inline" data-text="according to the statement" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句 · 声明によると</div>
               <div>公式発表の出所を示す。</div>
             </div>
@@ -758,8 +753,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Andrei Bocharov didn’t specify what the facility produces, but said there were no injuries."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Andrei Bocharov didn’t specify what the facility produces, but said there were no injuries." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Andrei Bocharov didn’t specify what the facility produces, but said there were no injuries.</p>
       <p class="translation">アンドレイ・ボチャロフ氏は施設が何を生産しているかは明言しなかったが、負伤者はいないと述べた。</p>
@@ -772,17 +766,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>didn’t specify what the facility produces</td><td class='chunk-role'>述語＋節</td><td>施設が何を生産するかは明言しなかった</td><td>specify = 具体的に述べる。</td></tr><tr><td class='chunk-en'>but said there were no injuries</td><td class='chunk-role'>並列述語</td><td>しかし負伤者はいないと述べた</td><td>injury は負傷全般。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>didn’t specify what the facility produces<button type="button" class="speak-btn speak-btn--inline" data-text="didn’t specify what the facility produces" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋節</td><td>施設が何を生産するかは明言しなかった</td><td>specify = 具体的に述べる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but said there were no injuries<button type="button" class="speak-btn speak-btn--inline" data-text="but said there were no injuries" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列述語</td><td>しかし負伤者はいないと述べた</td><td>injury は負傷全般。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">didn’t specify what the facility produces</div>
+              <div class="chunk-en speak-line">didn’t specify what the facility produces<button type="button" class="speak-btn speak-btn--inline" data-text="didn’t specify what the facility produces" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋節 · 施設が何を生産するかは明言しなかった</div>
               <div>specify = 具体的に述べる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but said there were no injuries</div>
+              <div class="chunk-en speak-line">but said there were no injuries<button type="button" class="speak-btn speak-btn--inline" data-text="but said there were no injuries" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列述語 · しかし負伤者はいないと述べた</div>
               <div>injury は負傷全般。</div>
             </div>
@@ -795,8 +789,7 @@
     <article class="sentence-block" id="s018">
       <div class="sentence-head">
         <div class="sentence-num">18</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Ukraine also carried out strikes overnight in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula on Sunday night, sparking a fire at the facility."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Ukraine also carried out strikes overnight in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula on Sunday night, sparking a fire at the facility." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Ukraine also carried out strikes overnight in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula on Sunday night, sparking a fire at the facility.</p>
       <p class="translation">ウクライナは日曜夜、ロシア占領下のクリミア半島にあるセミコロデツカヤ石油基地でも夜間攻撃を行い、施設で火災を起こした。</p>
@@ -809,23 +802,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>carried out strikes overnight</td><td class='chunk-role'>述語</td><td>夜間攻撃を実施した</td><td>carry out + attack/strike は定型。</td></tr><tr><td class='chunk-en'>in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula</td><td class='chunk-role'>場所</td><td>ロシア占領下のクリミア半島の石油基地で</td><td>occupied は占領下を明示。</td></tr><tr><td class='chunk-en'>sparking a fire at the facility</td><td class='chunk-role'>分詞句（結果）</td><td>施設で火災を起こし</td><td>結果を一文で圧縮する報道技法。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>carried out strikes overnight<button type="button" class="speak-btn speak-btn--inline" data-text="carried out strikes overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>夜間攻撃を実施した</td><td>carry out + attack/strike は定型。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula<button type="button" class="speak-btn speak-btn--inline" data-text="in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ロシア占領下のクリミア半島の石油基地で</td><td>occupied は占領下を明示。</td></tr><tr><td class='chunk-en'><span class='speak-line'>sparking a fire at the facility<button type="button" class="speak-btn speak-btn--inline" data-text="sparking a fire at the facility" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句（結果）</td><td>施設で火災を起こし</td><td>結果を一文で圧縮する報道技法。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">carried out strikes overnight</div>
+              <div class="chunk-en speak-line">carried out strikes overnight<button type="button" class="speak-btn speak-btn--inline" data-text="carried out strikes overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 夜間攻撃を実施した</div>
               <div>carry out + attack/strike は定型。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula</div>
+              <div class="chunk-en speak-line">in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula<button type="button" class="speak-btn speak-btn--inline" data-text="in the Semykolodezkaya oil base in the Russian-occupied Crimean Peninsula" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ロシア占領下のクリミア半島の石油基地で</div>
               <div>occupied は占領下を明示。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">sparking a fire at the facility</div>
+              <div class="chunk-en speak-line">sparking a fire at the facility<button type="button" class="speak-btn speak-btn--inline" data-text="sparking a fire at the facility" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句（結果） · 施設で火災を起こし</div>
               <div>結果を一文で圧縮する報道技法。</div>
             </div>
@@ -838,8 +831,7 @@
     <article class="sentence-block" id="s019">
       <div class="sentence-head">
         <div class="sentence-num">19</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The base is used to store fuel reserves supplying the Russian military, according to the statement posted on Telegram."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The base is used to store fuel reserves supplying the Russian military, according to the statement posted on Telegram." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The base is used to store fuel reserves supplying the Russian military, according to the statement posted on Telegram.</p>
       <p class="translation">基地はロシア軍に供給する燃料備蓄の保管に使われていると、テレグラムに投稿された声明によれば。</p>
@@ -852,23 +844,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>is used to store fuel reserves</td><td class='chunk-role'>述語</td><td>燃料備蓄の保管に使われている</td><td>be used to + 動詞原形。</td></tr><tr><td class='chunk-en'>supplying the Russian military</td><td class='chunk-role'>分詞句（後置修飾）</td><td>ロシア軍に供給する</td><td>supply O with ～ とも言える。</td></tr><tr><td class='chunk-en'>according to the statement posted on Telegram</td><td class='chunk-role'>挿入句</td><td>テレグラム投稿の声明によると</td><td>SNS経由の公式発表が増えた報道表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>is used to store fuel reserves<button type="button" class="speak-btn speak-btn--inline" data-text="is used to store fuel reserves" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>燃料備蓄の保管に使われている</td><td>be used to + 動詞原形。</td></tr><tr><td class='chunk-en'><span class='speak-line'>supplying the Russian military<button type="button" class="speak-btn speak-btn--inline" data-text="supplying the Russian military" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句（後置修飾）</td><td>ロシア軍に供給する</td><td>supply O with ～ とも言える。</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the statement posted on Telegram<button type="button" class="speak-btn speak-btn--inline" data-text="according to the statement posted on Telegram" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句</td><td>テレグラム投稿の声明によると</td><td>SNS経由の公式発表が増えた報道表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">is used to store fuel reserves</div>
+              <div class="chunk-en speak-line">is used to store fuel reserves<button type="button" class="speak-btn speak-btn--inline" data-text="is used to store fuel reserves" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 燃料備蓄の保管に使われている</div>
               <div>be used to + 動詞原形。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">supplying the Russian military</div>
+              <div class="chunk-en speak-line">supplying the Russian military<button type="button" class="speak-btn speak-btn--inline" data-text="supplying the Russian military" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句（後置修飾） · ロシア軍に供給する</div>
               <div>supply O with ～ とも言える。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the statement posted on Telegram</div>
+              <div class="chunk-en speak-line">according to the statement posted on Telegram<button type="button" class="speak-btn speak-btn--inline" data-text="according to the statement posted on Telegram" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句 · テレグラム投稿の声明によると</div>
               <div>SNS経由の公式発表が増えた報道表現。</div>
             </div>
@@ -881,8 +873,7 @@
     <article class="sentence-block" id="s020">
       <div class="sentence-head">
         <div class="sentence-num">20</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Ukrainian forces also struck an oil depot near Feodosia in Crimea, the General Staff said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Ukrainian forces also struck an oil depot near Feodosia in Crimea, the General Staff said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Ukrainian forces also struck an oil depot near Feodosia in Crimea, the General Staff said.</p>
       <p class="translation">ウクライナ軍はクリミアのフェオドシア近郊の石油貯蔵施設も攻撃したと、総参謀部が述べた。</p>
@@ -895,17 +886,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>struck an oil depot near Feodosia in Crimea</td><td class='chunk-role'>述語＋目的語</td><td>クリミアのフェオドシア近郊の石油貯蔵施設を攻撃した</td><td>depot = 貯蔵・基地。</td></tr><tr><td class='chunk-en'>the General Staff said</td><td class='chunk-role'>挿入句</td><td>総参謀部が述べた</td><td>主語＋動詞の語順で情報源を閉じる。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>struck an oil depot near Feodosia in Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="struck an oil depot near Feodosia in Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語</td><td>クリミアのフェオドシア近郊の石油貯蔵施設を攻撃した</td><td>depot = 貯蔵・基地。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the General Staff said<button type="button" class="speak-btn speak-btn--inline" data-text="the General Staff said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句</td><td>総参謀部が述べた</td><td>主語＋動詞の語順で情報源を閉じる。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">struck an oil depot near Feodosia in Crimea</div>
+              <div class="chunk-en speak-line">struck an oil depot near Feodosia in Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="struck an oil depot near Feodosia in Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語 · クリミアのフェオドシア近郊の石油貯蔵施設を攻撃した</div>
               <div>depot = 貯蔵・基地。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the General Staff said</div>
+              <div class="chunk-en speak-line">the General Staff said<button type="button" class="speak-btn speak-btn--inline" data-text="the General Staff said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句 · 総参謀部が述べた</div>
               <div>主語＋動詞の語順で情報源を閉じる。</div>
             </div>
@@ -918,8 +909,7 @@
     <article class="sentence-block" id="s021">
       <div class="sentence-head">
         <div class="sentence-num">21</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Zelenskyy said his message was that he would meet Putin “any time” in any location other than Russia or Belarus, and either bilaterally or with U.S."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Zelenskyy said his message was that he would meet Putin “any time” in any location other than Russia or Belarus, and either bilaterally or with U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Zelenskyy said his message was that he would meet Putin “any time” in any location other than Russia or Belarus, and either bilaterally or with U.S.</p>
       <p class="translation">ゼレンスキー氏は、自分のメッセージはプーチン氏と「いつでも」会う用意があるというもので、場所はロシアかベラルーシ以外ならどこでもよく、米国大統領や欧州首脳とともにでも、二国間でも構わないと述べた。</p>
@@ -932,23 +922,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>his message was that he would meet Putin “any time”</td><td class='chunk-role'>that節</td><td>メッセージはプーチンといつでも会うというものだった</td><td>would は当時の意思・条件。</td></tr><tr><td class='chunk-en'>in any location other than Russia or Belarus</td><td class='chunk-role'>場所</td><td>ロシアかベラルーシ以外のどの場所でも</td><td>other than = except。</td></tr><tr><td class='chunk-en'>either bilaterally or with U.S.</td><td class='chunk-role'>並列</td><td>二国間でも、米国とともにでも</td><td>文が途中で切れ、次行に続く。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>his message was that he would meet Putin “any time”<button type="button" class="speak-btn speak-btn--inline" data-text="his message was that he would meet Putin “any time”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>メッセージはプーチンといつでも会うというものだった</td><td>would は当時の意思・条件。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in any location other than Russia or Belarus<button type="button" class="speak-btn speak-btn--inline" data-text="in any location other than Russia or Belarus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ロシアかベラルーシ以外のどの場所でも</td><td>other than = except。</td></tr><tr><td class='chunk-en'><span class='speak-line'>either bilaterally or with U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="either bilaterally or with U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列</td><td>二国間でも、米国とともにでも</td><td>文が途中で切れ、次行に続く。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">his message was that he would meet Putin “any time”</div>
+              <div class="chunk-en speak-line">his message was that he would meet Putin “any time”<button type="button" class="speak-btn speak-btn--inline" data-text="his message was that he would meet Putin “any time”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · メッセージはプーチンといつでも会うというものだった</div>
               <div>would は当時の意思・条件。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in any location other than Russia or Belarus</div>
+              <div class="chunk-en speak-line">in any location other than Russia or Belarus<button type="button" class="speak-btn speak-btn--inline" data-text="in any location other than Russia or Belarus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ロシアかベラルーシ以外のどの場所でも</div>
               <div>other than = except。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">either bilaterally or with U.S.</div>
+              <div class="chunk-en speak-line">either bilaterally or with U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="either bilaterally or with U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列 · 二国間でも、米国とともにでも</div>
               <div>文が途中で切れ、次行に続く。</div>
             </div>
@@ -961,8 +951,7 @@
     <article class="sentence-block" id="s022">
       <div class="sentence-head">
         <div class="sentence-num">22</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="President Donald Trump and European leaders."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="President Donald Trump and European leaders." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">President Donald Trump and European leaders.</p>
       <p class="translation">ドナルド・トランプ米大統領と欧州首脳たち。</p>
@@ -975,17 +964,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>President Donald Trump</td><td class='chunk-role'>名詞句</td><td>ドナルド・トランプ大統領</td><td>with U.S. President の U.S. と分かれた改行。</td></tr><tr><td class='chunk-en'>and European leaders</td><td class='chunk-role'>並列名詞</td><td>と欧州首脳たち</td><td>either ～ or with ～ の後半。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>名詞句</td><td>ドナルド・トランプ大統領</td><td>with U.S. President の U.S. と分かれた改行。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and European leaders<button type="button" class="speak-btn speak-btn--inline" data-text="and European leaders" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列名詞</td><td>と欧州首脳たち</td><td>either ～ or with ～ の後半。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">President Donald Trump</div>
+              <div class="chunk-en speak-line">President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">名詞句 · ドナルド・トランプ大統領</div>
               <div>with U.S. President の U.S. と分かれた改行。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and European leaders</div>
+              <div class="chunk-en speak-line">and European leaders<button type="button" class="speak-btn speak-btn--inline" data-text="and European leaders" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列名詞 · と欧州首脳たち</div>
               <div>either ～ or with ～ の後半。</div>
             </div>
@@ -998,8 +987,7 @@
     <article class="sentence-block" id="s023">
       <div class="sentence-head">
         <div class="sentence-num">23</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="But he said Ukraine would not surrender the Donbas region, currently part-occupied by Russia."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="But he said Ukraine would not surrender the Donbas region, currently part-occupied by Russia." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">But he said Ukraine would not surrender the Donbas region, currently part-occupied by Russia.</p>
       <p class="translation">しかし彼は、ウクライナは現在ロシアに一部占領されているドンバス地方を明け渡すつもりはないと述べた。</p>
@@ -1012,17 +1000,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Ukraine would not surrender the Donbas region</td><td class='chunk-role'>that節</td><td>ウクライナはドンバス地方を明け渡さない</td><td>surrender は降伏だけでなく領土の割譲にも使う。</td></tr><tr><td class='chunk-en'>currently part-occupied by Russia</td><td class='chunk-role'>後置修飾</td><td>現在ロシアに一部占領されている</td><td>part-occupied は報道の造語的複合語。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Ukraine would not surrender the Donbas region<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine would not surrender the Donbas region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>ウクライナはドンバス地方を明け渡さない</td><td>surrender は降伏だけでなく領土の割譲にも使う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>currently part-occupied by Russia<button type="button" class="speak-btn speak-btn--inline" data-text="currently part-occupied by Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>後置修飾</td><td>現在ロシアに一部占領されている</td><td>part-occupied は報道の造語的複合語。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Ukraine would not surrender the Donbas region</div>
+              <div class="chunk-en speak-line">Ukraine would not surrender the Donbas region<button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine would not surrender the Donbas region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · ウクライナはドンバス地方を明け渡さない</div>
               <div>surrender は降伏だけでなく領土の割譲にも使う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">currently part-occupied by Russia</div>
+              <div class="chunk-en speak-line">currently part-occupied by Russia<button type="button" class="speak-btn speak-btn--inline" data-text="currently part-occupied by Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">後置修飾 · 現在ロシアに一部占領されている</div>
               <div>part-occupied は報道の造語的複合語。</div>
             </div>
@@ -1035,8 +1023,7 @@
     <article class="sentence-block" id="s024">
       <div class="sentence-head">
         <div class="sentence-num">24</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“It was the key message."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“It was the key message." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“It was the key message.</p>
       <p class="translation">「それが重要なメッセージだった。」</p>
@@ -1049,11 +1036,11 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It was the key message</td><td class='chunk-role'>引用句</td><td>それが重要なメッセージだった</td><td>key = 最重要の。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It was the key message<button type="button" class="speak-btn speak-btn--inline" data-text="It was the key message" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句</td><td>それが重要なメッセージだった</td><td>key = 最重要の。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It was the key message</div>
+              <div class="chunk-en speak-line">It was the key message<button type="button" class="speak-btn speak-btn--inline" data-text="It was the key message" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句 · それが重要なメッセージだった</div>
               <div>key = 最重要の。</div>
             </div>
@@ -1066,8 +1053,7 @@
     <article class="sentence-block" id="s025">
       <div class="sentence-head">
         <div class="sentence-num">25</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="I said we will not leave and we will not go out from our territory,” Zelenskyy told Sky News."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="I said we will not leave and we will not go out from our territory,” Zelenskyy told Sky News." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">I said we will not leave and we will not go out from our territory,” Zelenskyy told Sky News.</p>
       <p class="translation">「我々は去らず、自国の領土から出て行かないと述べた」とゼレンスキー氏はスカイニュースに語った。</p>
@@ -1080,23 +1066,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>we will not leave</td><td class='chunk-role'>引用句</td><td>我々は去らない</td><td>leave は退去・放棄の強い含意。</td></tr><tr><td class='chunk-en'>we will not go out from our territory</td><td class='chunk-role'>引用句（並列）</td><td>領土から出て行かない</td><td>go out from は leave の言い換え・強調。</td></tr><tr><td class='chunk-en'>Zelenskyy told Sky News</td><td class='chunk-role'>主節</td><td>ゼレンスキー氏はスカイニュースに語った</td><td>told は said より具体的な相手先。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>we will not leave<button type="button" class="speak-btn speak-btn--inline" data-text="we will not leave" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句</td><td>我々は去らない</td><td>leave は退去・放棄の強い含意。</td></tr><tr><td class='chunk-en'><span class='speak-line'>we will not go out from our territory<button type="button" class="speak-btn speak-btn--inline" data-text="we will not go out from our territory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句（並列）</td><td>領土から出て行かない</td><td>go out from は leave の言い換え・強調。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Zelenskyy told Sky News<button type="button" class="speak-btn speak-btn--inline" data-text="Zelenskyy told Sky News" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ゼレンスキー氏はスカイニュースに語った</td><td>told は said より具体的な相手先。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">we will not leave</div>
+              <div class="chunk-en speak-line">we will not leave<button type="button" class="speak-btn speak-btn--inline" data-text="we will not leave" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句 · 我々は去らない</div>
               <div>leave は退去・放棄の強い含意。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">we will not go out from our territory</div>
+              <div class="chunk-en speak-line">we will not go out from our territory<button type="button" class="speak-btn speak-btn--inline" data-text="we will not go out from our territory" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句（並列） · 領土から出て行かない</div>
               <div>go out from は leave の言い換え・強調。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Zelenskyy told Sky News</div>
+              <div class="chunk-en speak-line">Zelenskyy told Sky News<button type="button" class="speak-btn speak-btn--inline" data-text="Zelenskyy told Sky News" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ゼレンスキー氏はスカイニュースに語った</div>
               <div>told は said より具体的な相手先。</div>
             </div>
@@ -1109,8 +1095,7 @@
     <article class="sentence-block" id="s026">
       <div class="sentence-head">
         <div class="sentence-num">26</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Putin said last week that a Russian businessman, who he didn’t identify, traveled to Kyiv last month and met with Zelenskyy to hear his offer of a personal meeting."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Putin said last week that a Russian businessman, who he didn’t identify, traveled to Kyiv last month and met with Zelenskyy to hear his offer of a personal meeting." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Putin said last week that a Russian businessman, who he didn’t identify, traveled to Kyiv last month and met with Zelenskyy to hear his offer of a personal meeting.</p>
       <p class="translation">プーチン氏は先週、名指しはしなかったロシア人実業家が先月キーウを訪れ、個人的会談の申し出を聞くためにゼレンスキー氏と会ったと述べた。</p>
@@ -1123,23 +1108,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>a Russian businessman, who he didn’t identify</td><td class='chunk-role'>目的語＋関係節</td><td>名指ししなかったロシア人実業家</td><td>identify = 特定・名指しする。</td></tr><tr><td class='chunk-en'>traveled to Kyiv last month and met with Zelenskyy</td><td class='chunk-role'>述語（並列）</td><td>先月キーウを訪れゼレンスキー氏と会った</td><td>met with は meet の自然なコロケーション。</td></tr><tr><td class='chunk-en'>to hear his offer of a personal meeting</td><td class='chunk-role'>不定詞（目的）</td><td>個人的会談の申し出を聞くために</td><td>offer of ～ = ～の申し出。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>a Russian businessman, who he didn’t identify<button type="button" class="speak-btn speak-btn--inline" data-text="a Russian businessman, who he didn’t identify" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語＋関係節</td><td>名指ししなかったロシア人実業家</td><td>identify = 特定・名指しする。</td></tr><tr><td class='chunk-en'><span class='speak-line'>traveled to Kyiv last month and met with Zelenskyy<button type="button" class="speak-btn speak-btn--inline" data-text="traveled to Kyiv last month and met with Zelenskyy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（並列）</td><td>先月キーウを訪れゼレンスキー氏と会った</td><td>met with は meet の自然なコロケーション。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to hear his offer of a personal meeting<button type="button" class="speak-btn speak-btn--inline" data-text="to hear his offer of a personal meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>個人的会談の申し出を聞くために</td><td>offer of ～ = ～の申し出。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">a Russian businessman, who he didn’t identify</div>
+              <div class="chunk-en speak-line">a Russian businessman, who he didn’t identify<button type="button" class="speak-btn speak-btn--inline" data-text="a Russian businessman, who he didn’t identify" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語＋関係節 · 名指ししなかったロシア人実業家</div>
               <div>identify = 特定・名指しする。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">traveled to Kyiv last month and met with Zelenskyy</div>
+              <div class="chunk-en speak-line">traveled to Kyiv last month and met with Zelenskyy<button type="button" class="speak-btn speak-btn--inline" data-text="traveled to Kyiv last month and met with Zelenskyy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（並列） · 先月キーウを訪れゼレンスキー氏と会った</div>
               <div>met with は meet の自然なコロケーション。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to hear his offer of a personal meeting</div>
+              <div class="chunk-en speak-line">to hear his offer of a personal meeting<button type="button" class="speak-btn speak-btn--inline" data-text="to hear his offer of a personal meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 個人的会談の申し出を聞くために</div>
               <div>offer of ～ = ～の申し出。</div>
             </div>
@@ -1152,8 +1137,7 @@
     <article class="sentence-block" id="s027">
       <div class="sentence-head">
         <div class="sentence-num">27</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Russian leader rejected the idea of a meeting, saying he saw no point in it."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Russian leader rejected the idea of a meeting, saying he saw no point in it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Russian leader rejected the idea of a meeting, saying he saw no point in it.</p>
       <p class="translation">ロシアの指導者は会談の考えを拒否し、意味がないと考えると述べた。</p>
@@ -1166,17 +1150,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>rejected the idea of a meeting</td><td class='chunk-role'>述語</td><td>会談の考えを拒否した</td><td>the idea of ～ing/名詞。</td></tr><tr><td class='chunk-en'>saying he saw no point in it</td><td class='chunk-role'>分詞句</td><td>それに意味はないと述べて</td><td>see no point = 意味を見出さない。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>rejected the idea of a meeting<button type="button" class="speak-btn speak-btn--inline" data-text="rejected the idea of a meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>会談の考えを拒否した</td><td>the idea of ～ing/名詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>saying he saw no point in it<button type="button" class="speak-btn speak-btn--inline" data-text="saying he saw no point in it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句</td><td>それに意味はないと述べて</td><td>see no point = 意味を見出さない。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">rejected the idea of a meeting</div>
+              <div class="chunk-en speak-line">rejected the idea of a meeting<button type="button" class="speak-btn speak-btn--inline" data-text="rejected the idea of a meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 会談の考えを拒否した</div>
               <div>the idea of ～ing/名詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">saying he saw no point in it</div>
+              <div class="chunk-en speak-line">saying he saw no point in it<button type="button" class="speak-btn speak-btn--inline" data-text="saying he saw no point in it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句 · それに意味はないと述べて</div>
               <div>see no point = 意味を見出さない。</div>
             </div>
@@ -1189,8 +1173,7 @@
     <article class="sentence-block" id="s028">
       <div class="sentence-head">
         <div class="sentence-num">28</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Two people were killed and at least 18 injured, including four children aged 5, 10, 13 and 12, by a Russian drone attack in the central Zaporizhzhia region that damaged residential buildings and vehicles and destroyed market kiosks, said the regional military administration head, Ivan Fedorov."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Two people were killed and at least 18 injured, including four children aged 5, 10, 13 and 12, by a Russian drone attack in the central Zaporizhzhia region that damaged residential buildings and vehicles and destroyed market kiosks, said the regional military administration head, Ivan Fedorov." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Two people were killed and at least 18 injured, including four children aged 5, 10, 13 and 12, by a Russian drone attack in the central Zaporizhzhia region that damaged residential buildings and vehicles and destroyed market kiosks, said the regional military administration head, Ivan Fedorov.</p>
       <p class="translation">中央ザポリージャ州でのロシアのドローン攻撃により、住宅や車両が損傷し市場のキオスクが破壊され、2人が死亡、少なくとも18人が負傷した。5歳、10歳、13歳、12歳の子ども4人も含まれると、同州軍政当局のイヴァン・フェドロフ氏が述べた。</p>
@@ -1203,29 +1186,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Two people were killed and at least 18 injured</td><td class='chunk-role'>主部（受動）</td><td>2人が死亡、少なくとも18人が負傷</td><td>injured 前の were が省略される並列。</td></tr><tr><td class='chunk-en'>including four children aged 5, 10, 13 and 12</td><td class='chunk-role'>付加</td><td>5歳などの子ども4人を含め</td><td>aged + 数字 = ～歳の。</td></tr><tr><td class='chunk-en'>by a Russian drone attack in the central Zaporizhzhia region</td><td class='chunk-role'>施動者・場所</td><td>中央ザポリージャ州のロシアのドローン攻撃で</td><td>by + 攻撃で原因者を示す。</td></tr><tr><td class='chunk-en'>that damaged residential buildings and vehicles and destroyed market kiosks</td><td class='chunk-role'>関係節</td><td>住宅や車を損傷し市場のキオスクを破壊した</td><td>被害の列挙が長い典型戦争報道文。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Two people were killed and at least 18 injured<button type="button" class="speak-btn speak-btn--inline" data-text="Two people were killed and at least 18 injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部（受動）</td><td>2人が死亡、少なくとも18人が負傷</td><td>injured 前の were が省略される並列。</td></tr><tr><td class='chunk-en'><span class='speak-line'>including four children aged 5, 10, 13 and 12<button type="button" class="speak-btn speak-btn--inline" data-text="including four children aged 5, 10, 13 and 12" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加</td><td>5歳などの子ども4人を含め</td><td>aged + 数字 = ～歳の。</td></tr><tr><td class='chunk-en'><span class='speak-line'>by a Russian drone attack in the central Zaporizhzhia region<button type="button" class="speak-btn speak-btn--inline" data-text="by a Russian drone attack in the central Zaporizhzhia region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>施動者・場所</td><td>中央ザポリージャ州のロシアのドローン攻撃で</td><td>by + 攻撃で原因者を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that damaged residential buildings and vehicles and destroyed market kiosks<button type="button" class="speak-btn speak-btn--inline" data-text="that damaged residential buildings and vehicles and destroyed market kiosks" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>住宅や車を損傷し市場のキオスクを破壊した</td><td>被害の列挙が長い典型戦争報道文。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Two people were killed and at least 18 injured</div>
+              <div class="chunk-en speak-line">Two people were killed and at least 18 injured<button type="button" class="speak-btn speak-btn--inline" data-text="Two people were killed and at least 18 injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部（受動） · 2人が死亡、少なくとも18人が負傷</div>
               <div>injured 前の were が省略される並列。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">including four children aged 5, 10, 13 and 12</div>
+              <div class="chunk-en speak-line">including four children aged 5, 10, 13 and 12<button type="button" class="speak-btn speak-btn--inline" data-text="including four children aged 5, 10, 13 and 12" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加 · 5歳などの子ども4人を含め</div>
               <div>aged + 数字 = ～歳の。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">by a Russian drone attack in the central Zaporizhzhia region</div>
+              <div class="chunk-en speak-line">by a Russian drone attack in the central Zaporizhzhia region<button type="button" class="speak-btn speak-btn--inline" data-text="by a Russian drone attack in the central Zaporizhzhia region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">施動者・場所 · 中央ザポリージャ州のロシアのドローン攻撃で</div>
               <div>by + 攻撃で原因者を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that damaged residential buildings and vehicles and destroyed market kiosks</div>
+              <div class="chunk-en speak-line">that damaged residential buildings and vehicles and destroyed market kiosks<button type="button" class="speak-btn speak-btn--inline" data-text="that damaged residential buildings and vehicles and destroyed market kiosks" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 住宅や車を損傷し市場のキオスクを破壊した</div>
               <div>被害の列挙が長い典型戦争報道文。</div>
             </div>
@@ -1238,8 +1221,7 @@
     <article class="sentence-block" id="s029">
       <div class="sentence-head">
         <div class="sentence-num">29</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="In Nikopol. a Russian attack killed a 49-year-old woman and injured four other people, according to the State Emergency Service."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="In Nikopol. a Russian attack killed a 49-year-old woman and injured four other people, according to the State Emergency Service." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">In Nikopol. a Russian attack killed a 49-year-old woman and injured four other people, according to the State Emergency Service.</p>
       <p class="translation">ニコポリでは、ロシアの攻撃で49歳の女性が死亡し、他に4人が負傷したと、国家非常事態サービスが伝えた。</p>
@@ -1252,23 +1234,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>In Nikopol</td><td class='chunk-role'>場所</td><td>ニコポリでは</td><td>地名 + 前置詞で文頭に場所を置く。</td></tr><tr><td class='chunk-en'>a Russian attack killed a 49-year-old woman and injured four other people</td><td class='chunk-role'>主節</td><td>ロシアの攻撃で49歳女性が死亡し他4人が負傷</td><td>年齢はハイフンつなぎ形容詞。</td></tr><tr><td class='chunk-en'>according to the State Emergency Service</td><td class='chunk-role'>挿入句</td><td>国家非常事態サービスによると</td><td>ウクライナの救急・災害対応機関。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>In Nikopol<button type="button" class="speak-btn speak-btn--inline" data-text="In Nikopol" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ニコポリでは</td><td>地名 + 前置詞で文頭に場所を置く。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a Russian attack killed a 49-year-old woman and injured four other people<button type="button" class="speak-btn speak-btn--inline" data-text="a Russian attack killed a 49-year-old woman and injured four other people" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ロシアの攻撃で49歳女性が死亡し他4人が負傷</td><td>年齢はハイフンつなぎ形容詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>according to the State Emergency Service<button type="button" class="speak-btn speak-btn--inline" data-text="according to the State Emergency Service" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句</td><td>国家非常事態サービスによると</td><td>ウクライナの救急・災害対応機関。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">In Nikopol</div>
+              <div class="chunk-en speak-line">In Nikopol<button type="button" class="speak-btn speak-btn--inline" data-text="In Nikopol" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ニコポリでは</div>
               <div>地名 + 前置詞で文頭に場所を置く。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a Russian attack killed a 49-year-old woman and injured four other people</div>
+              <div class="chunk-en speak-line">a Russian attack killed a 49-year-old woman and injured four other people<button type="button" class="speak-btn speak-btn--inline" data-text="a Russian attack killed a 49-year-old woman and injured four other people" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ロシアの攻撃で49歳女性が死亡し他4人が負傷</div>
               <div>年齢はハイフンつなぎ形容詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">according to the State Emergency Service</div>
+              <div class="chunk-en speak-line">according to the State Emergency Service<button type="button" class="speak-btn speak-btn--inline" data-text="according to the State Emergency Service" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句 · 国家非常事態サービスによると</div>
               <div>ウクライナの救急・災害対応機関。</div>
             </div>
@@ -1281,8 +1263,7 @@
     <article class="sentence-block" id="s030">
       <div class="sentence-head">
         <div class="sentence-num">30</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The service also reported that four people were injured in the Dnipropetrovsk region when strikes hit residential buildings."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The service also reported that four people were injured in the Dnipropetrovsk region when strikes hit residential buildings." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The service also reported that four people were injured in the Dnipropetrovsk region when strikes hit residential buildings.</p>
       <p class="translation">同サービスはまた、ドニプロペトロフスク州で攻撃が住宅に命中し、4人が負傷したとも伝えた。</p>
@@ -1295,23 +1276,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>reported that four people were injured</td><td class='chunk-role'>述語＋節</td><td>4人が負傷したと伝えた</td><td>report は公式発表向け。</td></tr><tr><td class='chunk-en'>in the Dnipropetrovsk region</td><td class='chunk-role'>場所</td><td>ドニプロペトロフスク州で</td><td>ウクライナ中部の州。</td></tr><tr><td class='chunk-en'>when strikes hit residential buildings</td><td class='chunk-role'>時状語節</td><td>攻撃が住宅に命中したとき</td><td>when = ～した際に。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>reported that four people were injured<button type="button" class="speak-btn speak-btn--inline" data-text="reported that four people were injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋節</td><td>4人が負傷したと伝えた</td><td>report は公式発表向け。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the Dnipropetrovsk region<button type="button" class="speak-btn speak-btn--inline" data-text="in the Dnipropetrovsk region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ドニプロペトロフスク州で</td><td>ウクライナ中部の州。</td></tr><tr><td class='chunk-en'><span class='speak-line'>when strikes hit residential buildings<button type="button" class="speak-btn speak-btn--inline" data-text="when strikes hit residential buildings" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時状語節</td><td>攻撃が住宅に命中したとき</td><td>when = ～した際に。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">reported that four people were injured</div>
+              <div class="chunk-en speak-line">reported that four people were injured<button type="button" class="speak-btn speak-btn--inline" data-text="reported that four people were injured" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋節 · 4人が負傷したと伝えた</div>
               <div>report は公式発表向け。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the Dnipropetrovsk region</div>
+              <div class="chunk-en speak-line">in the Dnipropetrovsk region<button type="button" class="speak-btn speak-btn--inline" data-text="in the Dnipropetrovsk region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ドニプロペトロフスク州で</div>
               <div>ウクライナ中部の州。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">when strikes hit residential buildings</div>
+              <div class="chunk-en speak-line">when strikes hit residential buildings<button type="button" class="speak-btn speak-btn--inline" data-text="when strikes hit residential buildings" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時状語節 · 攻撃が住宅に命中したとき</div>
               <div>when = ～した際に。</div>
             </div>
@@ -1324,8 +1305,7 @@
     <article class="sentence-block" id="s031">
       <div class="sentence-head">
         <div class="sentence-num">31</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="In Odesa, three people were wounded after a Russian drone struck a public transport stop."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="In Odesa, three people were wounded after a Russian drone struck a public transport stop." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">In Odesa, three people were wounded after a Russian drone struck a public transport stop.</p>
       <p class="translation">オデッサでは、ロシアのドローンが公共交通の停留所を攻撃し、3人が負傷した。</p>
@@ -1338,17 +1318,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>In Odesa, three people were wounded</td><td class='chunk-role'>主部</td><td>オデッサで3人が負傷</td><td>wounded は injured とほぼ同義。</td></tr><tr><td class='chunk-en'>after a Russian drone struck a public transport stop</td><td class='chunk-role'>時状語節</td><td>ロシアのドローンが公共交通停留所を攻撃した後</td><td>public transport stop = バス停など。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>In Odesa, three people were wounded<button type="button" class="speak-btn speak-btn--inline" data-text="In Odesa, three people were wounded" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>オデッサで3人が負傷</td><td>wounded は injured とほぼ同義。</td></tr><tr><td class='chunk-en'><span class='speak-line'>after a Russian drone struck a public transport stop<button type="button" class="speak-btn speak-btn--inline" data-text="after a Russian drone struck a public transport stop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時状語節</td><td>ロシアのドローンが公共交通停留所を攻撃した後</td><td>public transport stop = バス停など。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">In Odesa, three people were wounded</div>
+              <div class="chunk-en speak-line">In Odesa, three people were wounded<button type="button" class="speak-btn speak-btn--inline" data-text="In Odesa, three people were wounded" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · オデッサで3人が負傷</div>
               <div>wounded は injured とほぼ同義。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after a Russian drone struck a public transport stop</div>
+              <div class="chunk-en speak-line">after a Russian drone struck a public transport stop<button type="button" class="speak-btn speak-btn--inline" data-text="after a Russian drone struck a public transport stop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時状語節 · ロシアのドローンが公共交通停留所を攻撃した後</div>
               <div>public transport stop = バス停など。</div>
             </div>
@@ -1361,8 +1341,7 @@
     <article class="sentence-block" id="s032">
       <div class="sentence-head">
         <div class="sentence-num">32</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Russian drone strikes overnight also injured civilians and damaged buildings and businesses in the Kharkiv, Odesa and Chernihiv regions, regional authorities said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Russian drone strikes overnight also injured civilians and damaged buildings and businesses in the Kharkiv, Odesa and Chernihiv regions, regional authorities said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Russian drone strikes overnight also injured civilians and damaged buildings and businesses in the Kharkiv, Odesa and Chernihiv regions, regional authorities said.</p>
       <p class="translation">ロシアのドローンによる夜間攻撃は、ハルキウ、オデッサ、チェルニーヒウの各州で民間人を負傷させ、建物や店舗も損傷したとも、地方当局が述べた。</p>
@@ -1375,23 +1354,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Russian drone strikes overnight</td><td class='chunk-role'>主語</td><td>ロシアのドローンによる夜間攻撃は</td><td>overnight は名詞句の後ろでも可。</td></tr><tr><td class='chunk-en'>injured civilians and damaged buildings and businesses</td><td class='chunk-role'>述語（並列）</td><td>民間人を負傷させ建物や店舗を損傷した</td><td>一つの主語に複数動詞。</td></tr><tr><td class='chunk-en'>in the Kharkiv, Odesa and Chernihiv regions</td><td class='chunk-role'>場所</td><td>ハルキウ、オデッサ、チェルニーヒウ各州で</td><td>地域名の列挙。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Russian drone strikes overnight<button type="button" class="speak-btn speak-btn--inline" data-text="Russian drone strikes overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ロシアのドローンによる夜間攻撃は</td><td>overnight は名詞句の後ろでも可。</td></tr><tr><td class='chunk-en'><span class='speak-line'>injured civilians and damaged buildings and businesses<button type="button" class="speak-btn speak-btn--inline" data-text="injured civilians and damaged buildings and businesses" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（並列）</td><td>民間人を負傷させ建物や店舗を損傷した</td><td>一つの主語に複数動詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the Kharkiv, Odesa and Chernihiv regions<button type="button" class="speak-btn speak-btn--inline" data-text="in the Kharkiv, Odesa and Chernihiv regions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>ハルキウ、オデッサ、チェルニーヒウ各州で</td><td>地域名の列挙。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Russian drone strikes overnight</div>
+              <div class="chunk-en speak-line">Russian drone strikes overnight<button type="button" class="speak-btn speak-btn--inline" data-text="Russian drone strikes overnight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ロシアのドローンによる夜間攻撃は</div>
               <div>overnight は名詞句の後ろでも可。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">injured civilians and damaged buildings and businesses</div>
+              <div class="chunk-en speak-line">injured civilians and damaged buildings and businesses<button type="button" class="speak-btn speak-btn--inline" data-text="injured civilians and damaged buildings and businesses" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（並列） · 民間人を負傷させ建物や店舗を損傷した</div>
               <div>一つの主語に複数動詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the Kharkiv, Odesa and Chernihiv regions</div>
+              <div class="chunk-en speak-line">in the Kharkiv, Odesa and Chernihiv regions<button type="button" class="speak-btn speak-btn--inline" data-text="in the Kharkiv, Odesa and Chernihiv regions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · ハルキウ、オデッサ、チェルニーヒウ各州で</div>
               <div>地域名の列挙。</div>
             </div>
@@ -1404,8 +1383,7 @@
     <article class="sentence-block" id="s033">
       <div class="sentence-head">
         <div class="sentence-num">33</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Meanwhile, a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea, injuring the driver and killing the driver’s assistant, Kremlin-installed regional leader Sergei Aksyonov reported early Monday."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Meanwhile, a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea, injuring the driver and killing the driver’s assistant, Kremlin-installed regional leader Sergei Aksyonov reported early Monday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Meanwhile, a Ukrainian drone overnight struck a passenger train traveling from Moscow to Simferopol in occupied Crimea, injuring the driver and killing the driver’s assistant, Kremlin-installed regional leader Sergei Aksyonov reported early Monday.</p>
       <p class="translation">一方、占領下のクリミアでモスクワからシンフェロポリ行きの旅客列車を走行中にウクライナのドローンが夜間攻撃し、運転士を負傷させ、助手を死亡させたと、クレムリン派の地方指導者セルゲイ・アクショノフ氏が月曜早朝に報じた。</p>
@@ -1418,29 +1396,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>a Ukrainian drone overnight struck a passenger train</td><td class='chunk-role'>主部</td><td>ウクライナのドローンが夜間旅客列車を攻撃した</td><td>overnight の位置は flexible。</td></tr><tr><td class='chunk-en'>traveling from Moscow to Simferopol in occupied Crimea</td><td class='chunk-role'>分詞句（後置修飾）</td><td>占領下クリミアのモスクワ発シンフェロポリ行きの</td><td>現在分詞で列車の路線を説明。</td></tr><tr><td class='chunk-en'>injuring the driver and killing the driver’s assistant</td><td class='chunk-role'>分詞句（結果）</td><td>運転士を負傷させ助手を死亡させ</td><td>被害者を一文に圧縮。</td></tr><tr><td class='chunk-en'>Kremlin-installed regional leader Sergei Aksyonov reported early Monday</td><td class='chunk-role'>主節（情報源）</td><td>アクショノフ氏が月曜早朝に報じた</td><td>installed = 据え置かれた（傀儡政権の含意）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>a Ukrainian drone overnight struck a passenger train<button type="button" class="speak-btn speak-btn--inline" data-text="a Ukrainian drone overnight struck a passenger train" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>ウクライナのドローンが夜間旅客列車を攻撃した</td><td>overnight の位置は flexible。</td></tr><tr><td class='chunk-en'><span class='speak-line'>traveling from Moscow to Simferopol in occupied Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="traveling from Moscow to Simferopol in occupied Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句（後置修飾）</td><td>占領下クリミアのモスクワ発シンフェロポリ行きの</td><td>現在分詞で列車の路線を説明。</td></tr><tr><td class='chunk-en'><span class='speak-line'>injuring the driver and killing the driver’s assistant<button type="button" class="speak-btn speak-btn--inline" data-text="injuring the driver and killing the driver’s assistant" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞句（結果）</td><td>運転士を負傷させ助手を死亡させ</td><td>被害者を一文に圧縮。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Kremlin-installed regional leader Sergei Aksyonov reported early Monday<button type="button" class="speak-btn speak-btn--inline" data-text="Kremlin-installed regional leader Sergei Aksyonov reported early Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（情報源）</td><td>アクショノフ氏が月曜早朝に報じた</td><td>installed = 据え置かれた（傀儡政権の含意）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">a Ukrainian drone overnight struck a passenger train</div>
+              <div class="chunk-en speak-line">a Ukrainian drone overnight struck a passenger train<button type="button" class="speak-btn speak-btn--inline" data-text="a Ukrainian drone overnight struck a passenger train" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · ウクライナのドローンが夜間旅客列車を攻撃した</div>
               <div>overnight の位置は flexible。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">traveling from Moscow to Simferopol in occupied Crimea</div>
+              <div class="chunk-en speak-line">traveling from Moscow to Simferopol in occupied Crimea<button type="button" class="speak-btn speak-btn--inline" data-text="traveling from Moscow to Simferopol in occupied Crimea" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句（後置修飾） · 占領下クリミアのモスクワ発シンフェロポリ行きの</div>
               <div>現在分詞で列車の路線を説明。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">injuring the driver and killing the driver’s assistant</div>
+              <div class="chunk-en speak-line">injuring the driver and killing the driver’s assistant<button type="button" class="speak-btn speak-btn--inline" data-text="injuring the driver and killing the driver’s assistant" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞句（結果） · 運転士を負傷させ助手を死亡させ</div>
               <div>被害者を一文に圧縮。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Kremlin-installed regional leader Sergei Aksyonov reported early Monday</div>
+              <div class="chunk-en speak-line">Kremlin-installed regional leader Sergei Aksyonov reported early Monday<button type="button" class="speak-btn speak-btn--inline" data-text="Kremlin-installed regional leader Sergei Aksyonov reported early Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（情報源） · アクショノフ氏が月曜早朝に報じた</div>
               <div>installed = 据え置かれた（傀儡政権の含意）。</div>
             </div>
@@ -1453,8 +1431,7 @@
     <article class="sentence-block" id="s034">
       <div class="sentence-head">
         <div class="sentence-num">34</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Akysyonov added that no passengers were hurt."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Akysyonov added that no passengers were hurt." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Akysyonov added that no passengers were hurt.</p>
       <p class="translation">アクショノフ氏は、乗客に怪我はなかったと付け加えた。</p>
@@ -1467,17 +1444,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>added that</td><td class='chunk-role'>述語</td><td>～と付け加えた</td><td>前の発言に続けて言う。</td></tr><tr><td class='chunk-en'>no passengers were hurt</td><td class='chunk-role'>that節</td><td>乗客は怪我しなかった</td><td>hurt は injured より口語的。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>added that<button type="button" class="speak-btn speak-btn--inline" data-text="added that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>～と付け加えた</td><td>前の発言に続けて言う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>no passengers were hurt<button type="button" class="speak-btn speak-btn--inline" data-text="no passengers were hurt" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>乗客は怪我しなかった</td><td>hurt は injured より口語的。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">added that</div>
+              <div class="chunk-en speak-line">added that<button type="button" class="speak-btn speak-btn--inline" data-text="added that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ～と付け加えた</div>
               <div>前の発言に続けて言う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">no passengers were hurt</div>
+              <div class="chunk-en speak-line">no passengers were hurt<button type="button" class="speak-btn speak-btn--inline" data-text="no passengers were hurt" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · 乗客は怪我しなかった</div>
               <div>hurt は injured より口語的。</div>
             </div>
@@ -1490,8 +1467,7 @@
     <article class="sentence-block" id="s035">
       <div class="sentence-head">
         <div class="sentence-num">35</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="But all passenger train traffic in Crimea was halted following the attack, with passengers evacuated and replacement buses provided, Russian operator Grand Service Express reported on Telegram that same morning."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="But all passenger train traffic in Crimea was halted following the attack, with passengers evacuated and replacement buses provided, Russian operator Grand Service Express reported on Telegram that same morning." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">But all passenger train traffic in Crimea was halted following the attack, with passengers evacuated and replacement buses provided, Russian operator Grand Service Express reported on Telegram that same morning.</p>
       <p class="translation">しかし攻撃を受け、クリミアの旅客列車はすべて運休となり、乗客は避難させ、代替バスが手配されたと、ロシアの鉄道事業者グランド・サービス・エクスプレスが同日朝、テレグラムで報告した。</p>
@@ -1504,23 +1480,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>all passenger train traffic in Crimea was halted following the attack</td><td class='chunk-role'>主部</td><td>クリミアの旅客列車は攻撃後すべて運休した</td><td>halt = stop。traffic は交通・運行。</td></tr><tr><td class='chunk-en'>with passengers evacuated and replacement buses provided</td><td class='chunk-role'>付帯状況</td><td>乗客が避難し代替バスが提供され</td><td>with 構文で対応措置を列挙。</td></tr><tr><td class='chunk-en'>Grand Service Express reported on Telegram that same morning</td><td class='chunk-role'>主節（情報源）</td><td>グランド・サービス・エクスプレスが同日朝テレグラムで報告</td><td>that same morning で当日の朝。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>all passenger train traffic in Crimea was halted following the attack<button type="button" class="speak-btn speak-btn--inline" data-text="all passenger train traffic in Crimea was halted following the attack" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>クリミアの旅客列車は攻撃後すべて運休した</td><td>halt = stop。traffic は交通・運行。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with passengers evacuated and replacement buses provided<button type="button" class="speak-btn speak-btn--inline" data-text="with passengers evacuated and replacement buses provided" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>乗客が避難し代替バスが提供され</td><td>with 構文で対応措置を列挙。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Grand Service Express reported on Telegram that same morning<button type="button" class="speak-btn speak-btn--inline" data-text="Grand Service Express reported on Telegram that same morning" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（情報源）</td><td>グランド・サービス・エクスプレスが同日朝テレグラムで報告</td><td>that same morning で当日の朝。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">all passenger train traffic in Crimea was halted following the attack</div>
+              <div class="chunk-en speak-line">all passenger train traffic in Crimea was halted following the attack<button type="button" class="speak-btn speak-btn--inline" data-text="all passenger train traffic in Crimea was halted following the attack" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · クリミアの旅客列車は攻撃後すべて運休した</div>
               <div>halt = stop。traffic は交通・運行。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with passengers evacuated and replacement buses provided</div>
+              <div class="chunk-en speak-line">with passengers evacuated and replacement buses provided<button type="button" class="speak-btn speak-btn--inline" data-text="with passengers evacuated and replacement buses provided" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · 乗客が避難し代替バスが提供され</div>
               <div>with 構文で対応措置を列挙。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Grand Service Express reported on Telegram that same morning</div>
+              <div class="chunk-en speak-line">Grand Service Express reported on Telegram that same morning<button type="button" class="speak-btn speak-btn--inline" data-text="Grand Service Express reported on Telegram that same morning" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（情報源） · グランド・サービス・エクスプレスが同日朝テレグラムで報告</div>
               <div>that same morning で当日の朝。</div>
             </div>
@@ -1533,134 +1509,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>strike</h3>
-                <button type="button" class="speak-btn" data-text="strike"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="strike" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/straɪk/</div>
               <p>攻撃する、打撃を与える</p>
-              <p class="example-en"><em>Ukrainian forces struck oil facilities in Russia.</em></p>
+              <p class="example-en speak-line"><em>Ukrainian forces struck oil facilities in Russia.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian forces struck oil facilities in Russia." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ウクライナ軍がロシアの石油施設を攻撃した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>go-between</h3>
-                <button type="button" class="speak-btn" data-text="go-between"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="go-between" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈɡoʊ bɪtwiːn/</div>
               <p>仲介者、取り次ぎ役</p>
-              <p class="example-en"><em>Abramovich acted as a go-between for messages.</em></p>
+              <p class="example-en speak-line"><em>Abramovich acted as a go-between for messages.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Abramovich acted as a go-between for messages." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">アブラモビッチ氏がメッセージの仲介役を果たした。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>sanctions</h3>
-                <button type="button" class="speak-btn" data-text="sanctions"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="sanctions" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈsæŋkʃənz/</div>
               <p>制裁（措置）</p>
-              <p class="example-en"><em>a new proposed round of sanctions against Russia</em></p>
+              <p class="example-en speak-line"><em>a new proposed round of sanctions against Russia</em><button type="button" class="speak-btn speak-btn--inline" data-text="a new proposed round of sanctions against Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ロシアに対する新たな制裁案</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>shot down</h3>
-                <button type="button" class="speak-btn" data-text="shot down"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="shot down" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ʃɒt daʊn/</div>
               <p>撃墜する</p>
-              <p class="example-en"><em>its forces shot down 310 Ukrainian drones</em></p>
+              <p class="example-en speak-line"><em>its forces shot down 310 Ukrainian drones</em><button type="button" class="speak-btn speak-btn--inline" data-text="its forces shot down 310 Ukrainian drones" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">自軍がウクライナ製ドローン310機を撃墜した</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>transshipment</h3>
-                <button type="button" class="speak-btn" data-text="transshipment"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="transshipment" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/trænsˈʃɪpmənt/</div>
               <p>積み替え、転送</p>
-              <p class="example-en"><em>the Grushovaya oil transshipment base</em></p>
+              <p class="example-en speak-line"><em>the Grushovaya oil transshipment base</em><button type="button" class="speak-btn speak-btn--inline" data-text="the Grushovaya oil transshipment base" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">グルショヴァヤ石油転送基地</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>casualties</h3>
-                <button type="button" class="speak-btn" data-text="casualties"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="casualties" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈkæʒuəltiz/</div>
               <p>死傷者</p>
-              <p class="example-en"><em>there were no casualties</em></p>
+              <p class="example-en speak-line"><em>there were no casualties</em><button type="button" class="speak-btn speak-btn--inline" data-text="there were no casualties" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">死傷者はいなかった</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>surrender</h3>
-                <button type="button" class="speak-btn" data-text="surrender"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="surrender" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/səˈrendər/</div>
               <p>明け渡す、降伏する</p>
-              <p class="example-en"><em>Ukraine would not surrender the Donbas region</em></p>
+              <p class="example-en speak-line"><em>Ukraine would not surrender the Donbas region</em><button type="button" class="speak-btn speak-btn--inline" data-text="Ukraine would not surrender the Donbas region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ウクライナはドンバス地方を明け渡さない</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>evacuated</h3>
-                <button type="button" class="speak-btn" data-text="evacuated"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="evacuated" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɪˈvækjueɪtɪd/</div>
               <p>避難させた、撤离させた</p>
-              <p class="example-en"><em>with passengers evacuated</em></p>
+              <p class="example-en speak-line"><em>with passengers evacuated</em><button type="button" class="speak-btn speak-btn--inline" data-text="with passengers evacuated" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">乗客を避難させ</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Reported speech with late attribution</h3>
-              <p>News often states the claim first, then adds &#x27;X said/told/reported&#x27; mid-sentence or at the end.</p>
-              <p class="example-en"><em>Ukrainian forces struck oil facilities..., Ukrainian and Russian officials said Monday.</em></p>
+              <div class="grammar-head">
+                <h3>Reported speech with late attribution</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reported speech with late attribution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">News often states the claim first, then adds &#x27;X said/told/reported&#x27; mid-sentence or at the end.<button type="button" class="speak-btn speak-btn--inline" data-text="News often states the claim first, then adds &#x27;X said/told/reported&#x27; mid-sentence or at the end." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Ukrainian forces struck oil facilities..., Ukrainian and Russian officials said Monday.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian forces struck oil facilities..., Ukrainian and Russian officials said Monday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>英語ニュースでは事実や発言内容を先に述べ、情報源（誰が言ったか）を文末や句読点後に置くことが多い。日本語では情報源を先に置くことが多いので、語順の違いに注意。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Participial phrases for results and extra detail</h3>
-              <p>Use -ing/-ed phrases (e.g., hitting..., sparking..., injuring...) to add results without a new clause.</p>
-              <p class="example-en"><em>Ukrainian forces struck the region overnight, hitting the oil transshipment base.</em></p>
+              <div class="grammar-head">
+                <h3>Participial phrases for results and extra detail</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Participial phrases for results and extra detail" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use -ing/-ed phrases (e.g., hitting..., sparking..., injuring...) to add results without a new clause.<button type="button" class="speak-btn speak-btn--inline" data-text="Use -ing/-ed phrases (e.g., hitting..., sparking..., injuring...) to add results without a new clause." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Ukrainian forces struck the region overnight, hitting the oil transshipment base.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Ukrainian forces struck the region overnight, hitting the oil transshipment base." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>現在分詞や過去分詞の句を使い、主節に「結果として」「同時に」を追加情報として付ける。一文に多くの情報を詰める報道英語の特徴。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Passive voice in casualty reporting</h3>
-              <p>Victims are often the grammatical subject with passive verbs: &#x27;Two people were killed and 18 injured.&#x27;</p>
-              <p class="example-en"><em>Two people were killed and at least 18 injured by a Russian drone attack.</em></p>
+              <div class="grammar-head">
+                <h3>Passive voice in casualty reporting</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Passive voice in casualty reporting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Victims are often the grammatical subject with passive verbs: &#x27;Two people were killed and 18 injured.&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="Victims are often the grammatical subject with passive verbs: &#x27;Two people were killed and 18 injured.&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Two people were killed and at least 18 injured by a Russian drone attack.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Two people were killed and at least 18 injured by a Russian drone attack." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>被害報道では被害者を主語にし、受動態で「殺された」「負傷した」と述べる。日本語では「攻撃で～が死亡」のように原因を先に置くことも多い。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>with + noun for means and accompaniment</h3>
-              <p>&#x27;with&#x27; can show means (with 155 drones), accompaniment (with a message), or accompanying circumstances (with passengers evacuated).</p>
-              <p class="example-en"><em>Russia targeted Ukraine with 155 drones, of which air defenses shot down 124.</em></p>
+              <div class="grammar-head">
+                <h3>with + noun for means and accompaniment</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="with + noun for means and accompaniment" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">&#x27;with&#x27; can show means (with 155 drones), accompaniment (with a message), or accompanying circumstances (with passengers evacuated).<button type="button" class="speak-btn speak-btn--inline" data-text="&#x27;with&#x27; can show means (with 155 drones), accompaniment (with a message), or accompanying circumstances (with passengers evacuated)." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Russia targeted Ukraine with 155 drones, of which air defenses shot down 124.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Russia targeted Ukraine with 155 drones, of which air defenses shot down 124." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>with は手段（～で）、同伴（～を持って）、付随状況（～されて）など文脈で意味が変わる。多義語なので後ろの名詞と動詞の関係で判断する。</p>
             </div>
             </div>
@@ -1669,56 +1649,56 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Cooked
                 · score 9</div>
-              <p class="comment-raw">Kiev cant win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kiev (sic) does it.</p>
+              <p class="comment-raw speak-line">Kiev cant win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kiev (sic) does it.<button type="button" class="speak-btn" data-text="Kiev cant win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kiev (sic) does it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">キエフは民間の列車への必死の攻撃でロシアに勝てない…モスクワがやるときは「戦略的」なのに、キエフ（原文表記）がやると「必死」になる、というわけか。</p>
               <ul class='comment-notes'><li>cant は can&#x27;t の省略形（アポストロフィなしの口語表記）。</li><li>末尾の (sic) は投稿者が Kiev という表記を意図的に残していることを示す注記。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Kyiv can&#x27;t win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kyiv does it.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Kyiv can&#x27;t win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kyiv does it.<button type="button" class="speak-btn speak-btn--inline" data-text="Kyiv can&#x27;t win over Russia by desperate attacks on civilian trains… it&#x27;s strategic when Moscow does it, but it&#x27;s desperate when Kyiv does it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · Cooked
                 · score 6</div>
-              <p class="comment-raw">&quot;There are indeed certain problems at the moment,&quot; Peskov said. Bit of a master of understatement he is.</p>
+              <p class="comment-raw speak-line">&quot;There are indeed certain problems at the moment,&quot; Peskov said. Bit of a master of understatement he is.<button type="button" class="speak-btn" data-text="&quot;There are indeed certain problems at the moment,&quot; Peskov said. Bit of a master of understatement he is." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">「確かに今、いくつか問題がある」とペスコフは言った。控えめな言い方の達人というわけだ。</p>
               <ul class='comment-notes'><li>後半は語順が入れ替わった口語（Bit of a master of understatement he is = He is a bit of a master of understatement）。</li><li>understatement は深刻な状況をあえて軽く言うこと；ここでは皮肉。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Peskov said, &quot;There are indeed certain problems at the moment.&quot; He is a bit of a master of understatement.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Peskov said, &quot;There are indeed certain problems at the moment.&quot; He is a bit of a master of understatement.<button type="button" class="speak-btn speak-btn--inline" data-text="Peskov said, &quot;There are indeed certain problems at the moment.&quot; He is a bit of a master of understatement." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#3 · Underworld
                 · score 5</div>
-              <p class="comment-raw">okinawarides Ukrainian drone overnight struck a passenger train ....was that a train full of civilians? You really shouldn be talking about that too much, it will punch holes in the UA is not hitting civilian targets narrative here. Russia targets civilians, Ukraine does not.</p>
+              <p class="comment-raw speak-line">okinawarides Ukrainian drone overnight struck a passenger train ....was that a train full of civilians? You really shouldn be talking about that too much, it will punch holes in the UA is not hitting civilian targets narrative here. Russia targets civilians, Ukraine does not.<button type="button" class="speak-btn" data-text="okinawarides Ukrainian drone overnight struck a passenger train ....was that a train full of civilians? You really shouldn be talking about that too much, it will punch holes in the UA is not hitting civilian targets narrative here. Russia targets civilians, Ukraine does not." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">okinawarides ウクライナのドローンが一晩で旅客列車を攻撃した…民間人でいっぱいの列車だったのか？そんなことあまり言わない方がいいよ。ここで「ウクライナは民間標的を攻撃していない」という話に穴が開くから。ロシアは民間人を標的にする。ウクライナはしない。</p>
               <ul class='comment-notes'><li>okinawarides はユーザー名への返信と思われる（Regarding などの誤記の可能性）。shouldn は shouldn&#x27;t の省略。</li><li>punch holes in は「（主張などに）穴を開ける」という慣用表現。UA は Ukraine の略。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Regarding the Ukrainian drone that overnight struck a passenger train… was that a train full of civilians? You really shouldn&#x27;t be talking about that too much; it will punch holes in the &quot;Ukraine is not hitting civilian targets&quot; narrative here. Russia targets civilians; Ukraine does not.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Regarding the Ukrainian drone that overnight struck a passenger train… was that a train full of civilians? You really shouldn&#x27;t be talking about that too much; it will punch holes in the &quot;Ukraine is not hitting civilian targets&quot; narrative here. Russia targets civilians; Ukraine does not.<button type="button" class="speak-btn speak-btn--inline" data-text="Regarding the Ukrainian drone that overnight struck a passenger train… was that a train full of civilians? You really shouldn&#x27;t be talking about that too much; it will punch holes in the &quot;Ukraine is not hitting civilian targets&quot; narrative here. Russia targets civilians; Ukraine does not." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · Underworld
                 · score 5</div>
-              <p class="comment-raw">Blacklabel Russia targets civilians, Ukraine does not. yet- not what the article says. Is the article lying? &quot;a Ukrainian drone overnight struck a passenger train&quot; ... Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So, we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter.</p>
+              <p class="comment-raw speak-line">Blacklabel Russia targets civilians, Ukraine does not. yet- not what the article says. Is the article lying? &quot;a Ukrainian drone overnight struck a passenger train&quot; ... Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So, we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter.<button type="button" class="speak-btn" data-text="Blacklabel Russia targets civilians, Ukraine does not. yet- not what the article says. Is the article lying? &quot;a Ukrainian drone overnight struck a passenger train&quot; ... Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So, we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">Blacklabel ロシアは民間人を標的にする。ウクライナはしない、と言うが—記事の内容は違う。「記事は嘘をついているのか？」「ウクライナのドローンが一晩で旅客列車を攻撃した」…クレムリン派の地域指導者セルゲイ・アクショノフが月曜早朝に報告した。だから、本当のことはわからない。ロシアが独立した調査を認めれば、真相にたどり着けるかもしれない。</p>
               <ul class='comment-notes'><li>Blacklabel は別ユーザーへの返信。yet- の後は文が途切れたまま続く口語。</li><li>引用のあと ... で情報源の報道を示している。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Blacklabel, you say Russia targets civilians and Ukraine does not—yet that&#x27;s not what the article says. Is the article lying? It says, &quot;a Ukrainian drone overnight struck a passenger train&quot; … as Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Blacklabel, you say Russia targets civilians and Ukraine does not—yet that&#x27;s not what the article says. Is the article lying? It says, &quot;a Ukrainian drone overnight struck a passenger train&quot; … as Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter.<button type="button" class="speak-btn speak-btn--inline" data-text="Blacklabel, you say Russia targets civilians and Ukraine does not—yet that&#x27;s not what the article says. Is the article lying? It says, &quot;a Ukrainian drone overnight struck a passenger train&quot; … as Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So we don&#x27;t really know. If Russia allows an independent investigation, we may get to the truth of the matter." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · Underworld
                 · score 5</div>
-              <p class="comment-raw">Blacklabel A guy now wants &quot;investigations&quot; but only when his side targets civilians over and over despite his incessant denials of fact, No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.</p>
+              <p class="comment-raw speak-line">Blacklabel A guy now wants &quot;investigations&quot; but only when his side targets civilians over and over despite his incessant denials of fact, No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.<button type="button" class="speak-btn" data-text="Blacklabel A guy now wants &quot;investigations&quot; but only when his side targets civilians over and over despite his incessant denials of fact, No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">Blacklabel ある男が今さら「調査」を求めているが、自分の側が何度も民間人を標的にしているのに、事実をひたすら否定し続けている。まだ事実は確定していない。ウクライナは領内でのロシアのドローン・ミサイルによる民間標的攻撃の調査を認めて事実を明らかにしようとしている。ロシアはそうしない。</p>
               <ul class='comment-notes'><li>investigations の引用符は「本当の調査ではない」という皮肉。</li><li>despite his incessant denials of fact のあとカンマでつながるのはカンマスプライス（口語的なつなぎ）。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Blacklabel, a guy now wants &quot;investigations,&quot; but only when his side targets civilians over and over, despite his incessant denials of fact. No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Blacklabel, a guy now wants &quot;investigations,&quot; but only when his side targets civilians over and over, despite his incessant denials of fact. No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.<button type="button" class="speak-btn speak-btn--inline" data-text="Blacklabel, a guy now wants &quot;investigations,&quot; but only when his side targets civilians over and over, despite his incessant denials of fact. No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
@@ -1726,7 +1706,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-09</footer>
+    <footer class="speak-line">English News Digest · 2026-06-09
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

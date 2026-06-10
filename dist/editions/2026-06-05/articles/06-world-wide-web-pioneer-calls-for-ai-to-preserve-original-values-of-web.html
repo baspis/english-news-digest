@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-05</a>
       <span class="sep">/</span>
       <span>World Wide Web pioneer calls for AI to preser...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="World Wide Web pioneer calls for AI to preser..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge tech">tech</span>
-      <h1>World Wide Web pioneer calls for AI to preserve &#x27;original values&#x27; of web</h1>
-      <div class="meta">Japan Today Tech · 2026-06-05</div>
+      <div class="title-head">
+        <span class="badge tech">tech</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="tech" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>World Wide Web pioneer calls for AI to preserve &#x27;original values&#x27; of web</h1>
+        <button type="button" class="speak-btn" data-text="World Wide Web pioneer calls for AI to preserve &#x27;original values&#x27; of web" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today Tech<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today Tech" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-05</p>
       <div class="summary-ja">ワールドワイドウェブの生みの親ティム・バーナーズ＝リーは、AIがウェブの「本来の価値」を守りつつ、個人データをテック大手に送る前にユーザーが選別できる仕組みが必要だと訴えている。彼はAIにはW3Cのような標準化の枠組みがなく、個人データの管理が急務だと指摘し、スタートアップInruptのAIアシスタント「Charlie」でその実現を目指している。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/tech/tim-berners-lee-calls-for-ai-to-preserve-&#x27;original-values&#x27;-of-web" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="World Wide Web pioneer Tim Berners-Lee says he wants to see artificial intelligence preserve &quot;the original values&quot; of his invention while allowing users to filter personal data sent to tech giants."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="World Wide Web pioneer Tim Berners-Lee says he wants to see artificial intelligence preserve &quot;the original values&quot; of his invention while allowing users to filter personal data sent to tech giants." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">World Wide Web pioneer Tim Berners-Lee says he wants to see artificial intelligence preserve &quot;the original values&quot; of his invention while allowing users to filter personal data sent to tech giants.</p>
       <p class="translation">ワールドワイドウェブの開拓者であるティム・バーナーズ＝リーは、人工知能が自分の発明の「本来の価値」を守りつつ、ユーザーがテック大手に送る個人データを選別できるようにしたいと述べた。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>World Wide Web pioneer Tim Berners-Lee</td><td class='chunk-role'>主語</td><td>ワールドワイドウェブの開拓者ティム・バーナーズ＝リーが</td><td>pioneer は「先駆者」。固有名詞の前に職業・肩書きを置くニュース文体。</td></tr><tr><td class='chunk-en'>says he wants to see</td><td class='chunk-role'>述語（間接話法）</td><td>〜したいと述べる</td><td>want to see + 原形は「〜が実現するのを望む」。that 省略の間接話法。</td></tr><tr><td class='chunk-en'>artificial intelligence preserve &quot;the original values&quot; of his invention</td><td class='chunk-role'>目的語節</td><td>AIが発明の本来の価値を守る</td><td>preserve は「維持・保全する」。original values は比喩的にウェブの理念を指す。</td></tr><tr><td class='chunk-en'>while allowing users to filter personal data</td><td class='chunk-role'>付帯状況</td><td>ユーザーが個人データを選別することを許しながら</td><td>allow + O + to不定詞。filter はここで「送る前に選別・制限する」。</td></tr><tr><td class='chunk-en'>sent to tech giants</td><td class='chunk-role'>後置修飾</td><td>テック大手に送られる</td><td>tech giants は Google、Meta など巨大IT企業。過去分詞で data を修飾。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>World Wide Web pioneer Tim Berners-Lee<button type="button" class="speak-btn speak-btn--inline" data-text="World Wide Web pioneer Tim Berners-Lee" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ワールドワイドウェブの開拓者ティム・バーナーズ＝リーが</td><td>pioneer は「先駆者」。固有名詞の前に職業・肩書きを置くニュース文体。</td></tr><tr><td class='chunk-en'><span class='speak-line'>says he wants to see<button type="button" class="speak-btn speak-btn--inline" data-text="says he wants to see" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（間接話法）</td><td>〜したいと述べる</td><td>want to see + 原形は「〜が実現するのを望む」。that 省略の間接話法。</td></tr><tr><td class='chunk-en'><span class='speak-line'>artificial intelligence preserve &quot;the original values&quot; of his invention<button type="button" class="speak-btn speak-btn--inline" data-text="artificial intelligence preserve &quot;the original values&quot; of his invention" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語節</td><td>AIが発明の本来の価値を守る</td><td>preserve は「維持・保全する」。original values は比喩的にウェブの理念を指す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>while allowing users to filter personal data<button type="button" class="speak-btn speak-btn--inline" data-text="while allowing users to filter personal data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>ユーザーが個人データを選別することを許しながら</td><td>allow + O + to不定詞。filter はここで「送る前に選別・制限する」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>sent to tech giants<button type="button" class="speak-btn speak-btn--inline" data-text="sent to tech giants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>後置修飾</td><td>テック大手に送られる</td><td>tech giants は Google、Meta など巨大IT企業。過去分詞で data を修飾。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">World Wide Web pioneer Tim Berners-Lee</div>
+              <div class="chunk-en speak-line">World Wide Web pioneer Tim Berners-Lee<button type="button" class="speak-btn speak-btn--inline" data-text="World Wide Web pioneer Tim Berners-Lee" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ワールドワイドウェブの開拓者ティム・バーナーズ＝リーが</div>
               <div>pioneer は「先駆者」。固有名詞の前に職業・肩書きを置くニュース文体。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">says he wants to see</div>
+              <div class="chunk-en speak-line">says he wants to see<button type="button" class="speak-btn speak-btn--inline" data-text="says he wants to see" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（間接話法） · 〜したいと述べる</div>
               <div>want to see + 原形は「〜が実現するのを望む」。that 省略の間接話法。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">artificial intelligence preserve &quot;the original values&quot; of his invention</div>
+              <div class="chunk-en speak-line">artificial intelligence preserve &quot;the original values&quot; of his invention<button type="button" class="speak-btn speak-btn--inline" data-text="artificial intelligence preserve &quot;the original values&quot; of his invention" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語節 · AIが発明の本来の価値を守る</div>
               <div>preserve は「維持・保全する」。original values は比喩的にウェブの理念を指す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">while allowing users to filter personal data</div>
+              <div class="chunk-en speak-line">while allowing users to filter personal data<button type="button" class="speak-btn speak-btn--inline" data-text="while allowing users to filter personal data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · ユーザーが個人データを選別することを許しながら</div>
               <div>allow + O + to不定詞。filter はここで「送る前に選別・制限する」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">sent to tech giants</div>
+              <div class="chunk-en speak-line">sent to tech giants<button type="button" class="speak-btn speak-btn--inline" data-text="sent to tech giants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">後置修飾 · テック大手に送られる</div>
               <div>tech giants は Google、Meta など巨大IT企業。過去分詞で data を修飾。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The primacy &quot;of the person, of the individual&quot; was at the heart of the internet and should apply to AI too, he told AFP on the sidelines of the SXSW tech festival in London."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The primacy &quot;of the person, of the individual&quot; was at the heart of the internet and should apply to AI too, he told AFP on the sidelines of the SXSW tech festival in London." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The primacy &quot;of the person, of the individual&quot; was at the heart of the internet and should apply to AI too, he told AFP on the sidelines of the SXSW tech festival in London.</p>
       <p class="translation">「個人」「一人ひとり」を最優先する考え方がインターネットの核心にあり、AIにも当てはまるべきだと、彼はロンドンで開催されたSXSWテックフェスティバルの会場外でAFPに語った。</p>
@@ -115,35 +124,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The primacy &quot;of the person, of the individual&quot;</td><td class='chunk-role'>主語</td><td>個人の優先性</td><td>primacy は「最優先・至上」。同格の of 句を繰り返して強調。</td></tr><tr><td class='chunk-en'>was at the heart of the internet</td><td class='chunk-role'>述語</td><td>インターネットの核心にあった</td><td>at the heart of = 〜の中心・本質。比喩的表現。</td></tr><tr><td class='chunk-en'>and should apply to AI too</td><td class='chunk-role'>述語（並列）</td><td>AIにも当てはまるべきだ</td><td>apply to は「〜に適用される」。too で前文との接続。</td></tr><tr><td class='chunk-en'>he told AFP</td><td class='chunk-role'>付加説明（話者・媒体）</td><td>彼はAFPに語った</td><td>主語 he は Berners-Lee。末尾に置く倒置的な報道文体。</td></tr><tr><td class='chunk-en'>on the sidelines of the SXSW tech festival in London</td><td class='chunk-role'>場所の修飾</td><td>ロンドンのSXSWテックフェスティバルの会場外で</td><td>on the sidelines of は本来スポーツ用語から転じた「本番以外の場・周辺」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The primacy &quot;of the person, of the individual&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="The primacy &quot;of the person, of the individual&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>個人の優先性</td><td>primacy は「最優先・至上」。同格の of 句を繰り返して強調。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was at the heart of the internet<button type="button" class="speak-btn speak-btn--inline" data-text="was at the heart of the internet" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>インターネットの核心にあった</td><td>at the heart of = 〜の中心・本質。比喩的表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and should apply to AI too<button type="button" class="speak-btn speak-btn--inline" data-text="and should apply to AI too" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（並列）</td><td>AIにも当てはまるべきだ</td><td>apply to は「〜に適用される」。too で前文との接続。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he told AFP<button type="button" class="speak-btn speak-btn--inline" data-text="he told AFP" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加説明（話者・媒体）</td><td>彼はAFPに語った</td><td>主語 he は Berners-Lee。末尾に置く倒置的な報道文体。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on the sidelines of the SXSW tech festival in London<button type="button" class="speak-btn speak-btn--inline" data-text="on the sidelines of the SXSW tech festival in London" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の修飾</td><td>ロンドンのSXSWテックフェスティバルの会場外で</td><td>on the sidelines of は本来スポーツ用語から転じた「本番以外の場・周辺」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The primacy &quot;of the person, of the individual&quot;</div>
+              <div class="chunk-en speak-line">The primacy &quot;of the person, of the individual&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="The primacy &quot;of the person, of the individual&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 個人の優先性</div>
               <div>primacy は「最優先・至上」。同格の of 句を繰り返して強調。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was at the heart of the internet</div>
+              <div class="chunk-en speak-line">was at the heart of the internet<button type="button" class="speak-btn speak-btn--inline" data-text="was at the heart of the internet" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · インターネットの核心にあった</div>
               <div>at the heart of = 〜の中心・本質。比喩的表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and should apply to AI too</div>
+              <div class="chunk-en speak-line">and should apply to AI too<button type="button" class="speak-btn speak-btn--inline" data-text="and should apply to AI too" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（並列） · AIにも当てはまるべきだ</div>
               <div>apply to は「〜に適用される」。too で前文との接続。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he told AFP</div>
+              <div class="chunk-en speak-line">he told AFP<button type="button" class="speak-btn speak-btn--inline" data-text="he told AFP" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加説明（話者・媒体） · 彼はAFPに語った</div>
               <div>主語 he は Berners-Lee。末尾に置く倒置的な報道文体。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on the sidelines of the SXSW tech festival in London</div>
+              <div class="chunk-en speak-line">on the sidelines of the SXSW tech festival in London<button type="button" class="speak-btn speak-btn--inline" data-text="on the sidelines of the SXSW tech festival in London" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の修飾 · ロンドンのSXSWテックフェスティバルの会場外で</div>
               <div>on the sidelines of は本来スポーツ用語から転じた「本番以外の場・周辺」。</div>
             </div>
@@ -156,8 +165,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The British physicist-turned-computer scientist conceived the web in 1989 while working at CERN, the European particle physics lab in Switzerland."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The British physicist-turned-computer scientist conceived the web in 1989 while working at CERN, the European particle physics lab in Switzerland." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The British physicist-turned-computer scientist conceived the web in 1989 while working at CERN, the European particle physics lab in Switzerland.</p>
       <p class="translation">イギリス人の物理学者からコンピュータ科学者に転身した彼は、スイスの欧州粒子物理学研究所CERNで働いていた1989年にウェブを考案した。</p>
@@ -170,29 +178,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The British physicist-turned-computer scientist</td><td class='chunk-role'>主語</td><td>イギリス人の物理学者から転身したコンピュータ科学者</td><td>A-turned-B で「AからBに転じた」という経歴を簡潔に示す。</td></tr><tr><td class='chunk-en'>conceived the web in 1989</td><td class='chunk-role'>述語</td><td>1989年にウェブを考案した</td><td>conceive は invent より「構想・着想した」ニュアンス。</td></tr><tr><td class='chunk-en'>while working at CERN</td><td class='chunk-role'>時の状況</td><td>CERNで働きながら</td><td>while + 現在分詞で「〜している最中に／その時」。</td></tr><tr><td class='chunk-en'>the European particle physics lab in Switzerland</td><td class='chunk-role'>同格説明</td><td>スイスの欧州粒子物理学研究所</td><td>カンマ後の同格で CERN の正式説明。particle physics は「素粒子物理学」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The British physicist-turned-computer scientist<button type="button" class="speak-btn speak-btn--inline" data-text="The British physicist-turned-computer scientist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>イギリス人の物理学者から転身したコンピュータ科学者</td><td>A-turned-B で「AからBに転じた」という経歴を簡潔に示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>conceived the web in 1989<button type="button" class="speak-btn speak-btn--inline" data-text="conceived the web in 1989" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>1989年にウェブを考案した</td><td>conceive は invent より「構想・着想した」ニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>while working at CERN<button type="button" class="speak-btn speak-btn--inline" data-text="while working at CERN" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の状況</td><td>CERNで働きながら</td><td>while + 現在分詞で「〜している最中に／その時」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the European particle physics lab in Switzerland<button type="button" class="speak-btn speak-btn--inline" data-text="the European particle physics lab in Switzerland" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格説明</td><td>スイスの欧州粒子物理学研究所</td><td>カンマ後の同格で CERN の正式説明。particle physics は「素粒子物理学」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The British physicist-turned-computer scientist</div>
+              <div class="chunk-en speak-line">The British physicist-turned-computer scientist<button type="button" class="speak-btn speak-btn--inline" data-text="The British physicist-turned-computer scientist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · イギリス人の物理学者から転身したコンピュータ科学者</div>
               <div>A-turned-B で「AからBに転じた」という経歴を簡潔に示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">conceived the web in 1989</div>
+              <div class="chunk-en speak-line">conceived the web in 1989<button type="button" class="speak-btn speak-btn--inline" data-text="conceived the web in 1989" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 1989年にウェブを考案した</div>
               <div>conceive は invent より「構想・着想した」ニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">while working at CERN</div>
+              <div class="chunk-en speak-line">while working at CERN<button type="button" class="speak-btn speak-btn--inline" data-text="while working at CERN" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の状況 · CERNで働きながら</div>
               <div>while + 現在分詞で「〜している最中に／その時」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the European particle physics lab in Switzerland</div>
+              <div class="chunk-en speak-line">the European particle physics lab in Switzerland<button type="button" class="speak-btn speak-btn--inline" data-text="the European particle physics lab in Switzerland" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格説明 · スイスの欧州粒子物理学研究所</div>
               <div>カンマ後の同格で CERN の正式説明。particle physics は「素粒子物理学」。</div>
             </div>
@@ -205,8 +213,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Berners-Lee hailed AI as an &quot;exciting&quot; development -- but one that would benefit from being regulated."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Berners-Lee hailed AI as an &quot;exciting&quot; development -- but one that would benefit from being regulated." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Berners-Lee hailed AI as an &quot;exciting&quot; development -- but one that would benefit from being regulated.</p>
       <p class="translation">バーナーズ＝リーはAIを「刺激的な」進歩として称賛したが、規制されることで益を得る分野でもあると述べた。</p>
@@ -219,23 +226,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Berners-Lee hailed AI as an &quot;exciting&quot; development</td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはAIを刺激的な発展として称賛した</td><td>hail は formal な「称賛する」。as で評価・分類を示す。</td></tr><tr><td class='chunk-en'>but one</td><td class='chunk-role'>対比の主語</td><td>しかしそれは</td><td>one = development。代名詞で前文を受ける。</td></tr><tr><td class='chunk-en'>that would benefit from being regulated</td><td class='chunk-role'>関係節</td><td>規制されることから恩恵を受けるだろう</td><td>benefit from + 動名詞。being regulated は受動の動名詞。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Berners-Lee hailed AI as an &quot;exciting&quot; development<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee hailed AI as an &quot;exciting&quot; development" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはAIを刺激的な発展として称賛した</td><td>hail は formal な「称賛する」。as で評価・分類を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but one<button type="button" class="speak-btn speak-btn--inline" data-text="but one" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>対比の主語</td><td>しかしそれは</td><td>one = development。代名詞で前文を受ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that would benefit from being regulated<button type="button" class="speak-btn speak-btn--inline" data-text="that would benefit from being regulated" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>規制されることから恩恵を受けるだろう</td><td>benefit from + 動名詞。being regulated は受動の動名詞。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Berners-Lee hailed AI as an &quot;exciting&quot; development</div>
+              <div class="chunk-en speak-line">Berners-Lee hailed AI as an &quot;exciting&quot; development<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee hailed AI as an &quot;exciting&quot; development" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · バーナーズ＝リーはAIを刺激的な発展として称賛した</div>
               <div>hail は formal な「称賛する」。as で評価・分類を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but one</div>
+              <div class="chunk-en speak-line">but one<button type="button" class="speak-btn speak-btn--inline" data-text="but one" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">対比の主語 · しかしそれは</div>
               <div>one = development。代名詞で前文を受ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that would benefit from being regulated</div>
+              <div class="chunk-en speak-line">that would benefit from being regulated<button type="button" class="speak-btn speak-btn--inline" data-text="that would benefit from being regulated" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 規制されることから恩恵を受けるだろう</div>
               <div>benefit from + 動名詞。being regulated は受動の動名詞。</div>
             </div>
@@ -248,8 +255,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="AI models &quot;use the fact that the web has got so much data on it to be trained&quot;, he said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="AI models &quot;use the fact that the web has got so much data on it to be trained&quot;, he said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">AI models &quot;use the fact that the web has got so much data on it to be trained&quot;, he said.</p>
       <p class="translation">「AIモデルは、ウェブに膨大なデータがあるという事実を、学習に利用している」と彼は語った。</p>
@@ -262,29 +268,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>AI models</td><td class='chunk-role'>主語</td><td>AIモデルは</td><td>model はここで学習済みAIシステム全体を指す。</td></tr><tr><td class='chunk-en'>use the fact that the web has got so much data on it</td><td class='chunk-role'>述語＋目的語</td><td>ウェブに多くのデータがあるという事実を利用する</td><td>the fact that 節で内容を具体化。has got ... on it は「それ（ウェブ）上に〜がある」。</td></tr><tr><td class='chunk-en'>to be trained</td><td class='chunk-role'>目的</td><td>学習されるために</td><td>受動の不定詞。モデルが訓練される目的を示す。</td></tr><tr><td class='chunk-en'>he said</td><td class='chunk-role'>発言帰属</td><td>彼は語った</td><td>引用末尾の短い帰属句。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>AI models<button type="button" class="speak-btn speak-btn--inline" data-text="AI models" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>AIモデルは</td><td>model はここで学習済みAIシステム全体を指す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>use the fact that the web has got so much data on it<button type="button" class="speak-btn speak-btn--inline" data-text="use the fact that the web has got so much data on it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語</td><td>ウェブに多くのデータがあるという事実を利用する</td><td>the fact that 節で内容を具体化。has got ... on it は「それ（ウェブ）上に〜がある」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to be trained<button type="button" class="speak-btn speak-btn--inline" data-text="to be trained" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的</td><td>学習されるために</td><td>受動の不定詞。モデルが訓練される目的を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he said<button type="button" class="speak-btn speak-btn--inline" data-text="he said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>発言帰属</td><td>彼は語った</td><td>引用末尾の短い帰属句。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">AI models</div>
+              <div class="chunk-en speak-line">AI models<button type="button" class="speak-btn speak-btn--inline" data-text="AI models" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · AIモデルは</div>
               <div>model はここで学習済みAIシステム全体を指す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">use the fact that the web has got so much data on it</div>
+              <div class="chunk-en speak-line">use the fact that the web has got so much data on it<button type="button" class="speak-btn speak-btn--inline" data-text="use the fact that the web has got so much data on it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語 · ウェブに多くのデータがあるという事実を利用する</div>
               <div>the fact that 節で内容を具体化。has got ... on it は「それ（ウェブ）上に〜がある」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to be trained</div>
+              <div class="chunk-en speak-line">to be trained<button type="button" class="speak-btn speak-btn--inline" data-text="to be trained" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的 · 学習されるために</div>
               <div>受動の不定詞。モデルが訓練される目的を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he said</div>
+              <div class="chunk-en speak-line">he said<button type="button" class="speak-btn speak-btn--inline" data-text="he said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">発言帰属 · 彼は語った</div>
               <div>引用末尾の短い帰属句。</div>
             </div>
@@ -297,8 +303,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said.</p>
       <p class="translation">「人々がこの技術を使い、顧客や市民が自分自身のデータを管理できるようにすることが重要だ」と彼は述べた。</p>
@@ -311,29 +316,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It&#x27;s important that people use this technology</td><td class='chunk-role'>主節</td><td>人々がこの技術を使うことは重要だ</td><td>important that 節では米語でも仮定法現在（use）が使われることがある。</td></tr><tr><td class='chunk-en'>to make sure that</td><td class='chunk-role'>目的</td><td>〜であることを確実にするために</td><td>make sure (that) は口語的だがニュースでも頻出。</td></tr><tr><td class='chunk-en'>their customers, their citizens</td><td class='chunk-role'>目的語節の主語</td><td>顧客、市民</td><td>企業の顧客と国家の市民を並べ、利用者全体をカバー。</td></tr><tr><td class='chunk-en'>have got control over their own data</td><td class='chunk-role'>目的語節の述語</td><td>自分のデータを管理している</td><td>have control over = 〜を管理・支配する。own で所有を強調。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It&#x27;s important that people use this technology<button type="button" class="speak-btn speak-btn--inline" data-text="It&#x27;s important that people use this technology" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>人々がこの技術を使うことは重要だ</td><td>important that 節では米語でも仮定法現在（use）が使われることがある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to make sure that<button type="button" class="speak-btn speak-btn--inline" data-text="to make sure that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的</td><td>〜であることを確実にするために</td><td>make sure (that) は口語的だがニュースでも頻出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>their customers, their citizens<button type="button" class="speak-btn speak-btn--inline" data-text="their customers, their citizens" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語節の主語</td><td>顧客、市民</td><td>企業の顧客と国家の市民を並べ、利用者全体をカバー。</td></tr><tr><td class='chunk-en'><span class='speak-line'>have got control over their own data<button type="button" class="speak-btn speak-btn--inline" data-text="have got control over their own data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語節の述語</td><td>自分のデータを管理している</td><td>have control over = 〜を管理・支配する。own で所有を強調。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It&#x27;s important that people use this technology</div>
+              <div class="chunk-en speak-line">It&#x27;s important that people use this technology<button type="button" class="speak-btn speak-btn--inline" data-text="It&#x27;s important that people use this technology" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 人々がこの技術を使うことは重要だ</div>
               <div>important that 節では米語でも仮定法現在（use）が使われることがある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to make sure that</div>
+              <div class="chunk-en speak-line">to make sure that<button type="button" class="speak-btn speak-btn--inline" data-text="to make sure that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的 · 〜であることを確実にするために</div>
               <div>make sure (that) は口語的だがニュースでも頻出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">their customers, their citizens</div>
+              <div class="chunk-en speak-line">their customers, their citizens<button type="button" class="speak-btn speak-btn--inline" data-text="their customers, their citizens" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語節の主語 · 顧客、市民</div>
               <div>企業の顧客と国家の市民を並べ、利用者全体をカバー。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">have got control over their own data</div>
+              <div class="chunk-en speak-line">have got control over their own data<button type="button" class="speak-btn speak-btn--inline" data-text="have got control over their own data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語節の述語 · 自分のデータを管理している</div>
               <div>have control over = 〜を管理・支配する。own で所有を強調。</div>
             </div>
@@ -346,8 +351,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Berners-Lee said that AI does not have anything like the World Wide Web Consortium, the international internet standards organization he founded."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Berners-Lee said that AI does not have anything like the World Wide Web Consortium, the international internet standards organization he founded." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Berners-Lee said that AI does not have anything like the World Wide Web Consortium, the international internet standards organization he founded.</p>
       <p class="translation">バーナーズ＝リーは、AIには自分が設立した国際的なインターネット標準化団体であるワールドワイドウェブコンソーシアム（W3C）のようなものは存在しないと述べた。</p>
@@ -360,29 +364,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Berners-Lee said that</td><td class='chunk-role'>主節</td><td>バーナーズ＝リーは〜と述べた</td><td>said that で間接話法。</td></tr><tr><td class='chunk-en'>AI does not have anything like the World Wide Web Consortium</td><td class='chunk-role'>that節</td><td>AIにはW3Cのようなものはない</td><td>anything like = 〜に匹敵するもの。否定文で「同等の枠組みがない」。</td></tr><tr><td class='chunk-en'>the international internet standards organization</td><td class='chunk-role'>同格説明</td><td>国際的なインターネット標準化団体</td><td>standards organization = 標準を策定する団体。</td></tr><tr><td class='chunk-en'>he founded</td><td class='chunk-role'>関係節</td><td>彼が設立した</td><td>関係代名詞 that/which 省略。organization を修飾。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Berners-Lee said that<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee said that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>バーナーズ＝リーは〜と述べた</td><td>said that で間接話法。</td></tr><tr><td class='chunk-en'><span class='speak-line'>AI does not have anything like the World Wide Web Consortium<button type="button" class="speak-btn speak-btn--inline" data-text="AI does not have anything like the World Wide Web Consortium" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that節</td><td>AIにはW3Cのようなものはない</td><td>anything like = 〜に匹敵するもの。否定文で「同等の枠組みがない」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the international internet standards organization<button type="button" class="speak-btn speak-btn--inline" data-text="the international internet standards organization" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格説明</td><td>国際的なインターネット標準化団体</td><td>standards organization = 標準を策定する団体。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he founded<button type="button" class="speak-btn speak-btn--inline" data-text="he founded" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>彼が設立した</td><td>関係代名詞 that/which 省略。organization を修飾。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Berners-Lee said that</div>
+              <div class="chunk-en speak-line">Berners-Lee said that<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee said that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · バーナーズ＝リーは〜と述べた</div>
               <div>said that で間接話法。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">AI does not have anything like the World Wide Web Consortium</div>
+              <div class="chunk-en speak-line">AI does not have anything like the World Wide Web Consortium<button type="button" class="speak-btn speak-btn--inline" data-text="AI does not have anything like the World Wide Web Consortium" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that節 · AIにはW3Cのようなものはない</div>
               <div>anything like = 〜に匹敵するもの。否定文で「同等の枠組みがない」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the international internet standards organization</div>
+              <div class="chunk-en speak-line">the international internet standards organization<button type="button" class="speak-btn speak-btn--inline" data-text="the international internet standards organization" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格説明 · 国際的なインターネット標準化団体</div>
               <div>standards organization = 標準を策定する団体。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he founded</div>
+              <div class="chunk-en speak-line">he founded<button type="button" class="speak-btn speak-btn--inline" data-text="he founded" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 彼が設立した</div>
               <div>関係代名詞 that/which 省略。organization を修飾。</div>
             </div>
@@ -395,8 +399,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="As a result, AI pioneers have not been able to &quot;benefit from the collaboration that they would get if they did have something like that&quot;."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="As a result, AI pioneers have not been able to &quot;benefit from the collaboration that they would get if they did have something like that&quot;." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">As a result, AI pioneers have not been able to &quot;benefit from the collaboration that they would get if they did have something like that&quot;.</p>
       <p class="translation">その結果、AIの先駆者たちは、もしそのような組織があれば得られるはずの協力の恩恵を受けられていない。</p>
@@ -409,29 +412,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>As a result</td><td class='chunk-role'>接続副詞句</td><td>その結果</td><td>前文の欠如がもたらす結果を導入。</td></tr><tr><td class='chunk-en'>AI pioneers have not been able to</td><td class='chunk-role'>主述</td><td>AIの先駆者たちは〜できていない</td><td>be able to の否定で「機会・能力がなかった」。</td></tr><tr><td class='chunk-en'>benefit from the collaboration</td><td class='chunk-role'>不定詞の目的語</td><td>協力から恩恵を受ける</td><td>benefit from = 〜から利益を得る。</td></tr><tr><td class='chunk-en'>that they would get if they did have something like that</td><td class='chunk-role'>関係節</td><td>もしそのようなものがあれば得られる協力</td><td>did have は仮想の「実際にはないがあれば」という意味を強める。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>As a result<button type="button" class="speak-btn speak-btn--inline" data-text="As a result" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>接続副詞句</td><td>その結果</td><td>前文の欠如がもたらす結果を導入。</td></tr><tr><td class='chunk-en'><span class='speak-line'>AI pioneers have not been able to<button type="button" class="speak-btn speak-btn--inline" data-text="AI pioneers have not been able to" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主述</td><td>AIの先駆者たちは〜できていない</td><td>be able to の否定で「機会・能力がなかった」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>benefit from the collaboration<button type="button" class="speak-btn speak-btn--inline" data-text="benefit from the collaboration" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞の目的語</td><td>協力から恩恵を受ける</td><td>benefit from = 〜から利益を得る。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that they would get if they did have something like that<button type="button" class="speak-btn speak-btn--inline" data-text="that they would get if they did have something like that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>もしそのようなものがあれば得られる協力</td><td>did have は仮想の「実際にはないがあれば」という意味を強める。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">As a result</div>
+              <div class="chunk-en speak-line">As a result<button type="button" class="speak-btn speak-btn--inline" data-text="As a result" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">接続副詞句 · その結果</div>
               <div>前文の欠如がもたらす結果を導入。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">AI pioneers have not been able to</div>
+              <div class="chunk-en speak-line">AI pioneers have not been able to<button type="button" class="speak-btn speak-btn--inline" data-text="AI pioneers have not been able to" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主述 · AIの先駆者たちは〜できていない</div>
               <div>be able to の否定で「機会・能力がなかった」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">benefit from the collaboration</div>
+              <div class="chunk-en speak-line">benefit from the collaboration<button type="button" class="speak-btn speak-btn--inline" data-text="benefit from the collaboration" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞の目的語 · 協力から恩恵を受ける</div>
               <div>benefit from = 〜から利益を得る。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that they would get if they did have something like that</div>
+              <div class="chunk-en speak-line">that they would get if they did have something like that<button type="button" class="speak-btn speak-btn--inline" data-text="that they would get if they did have something like that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · もしそのようなものがあれば得られる協力</div>
               <div>did have は仮想の「実際にはないがあれば」という意味を強める。</div>
             </div>
@@ -444,8 +447,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Berners-Lee originally proposed his world-changing invention as a way for scientists around the world to share information about their research."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Berners-Lee originally proposed his world-changing invention as a way for scientists around the world to share information about their research." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Berners-Lee originally proposed his world-changing invention as a way for scientists around the world to share information about their research.</p>
       <p class="translation">バーナーズ＝リーはもともと、世界中の科学者が研究について情報を共有する手段として、この世界を変える発明を提案した。</p>
@@ -458,23 +460,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Berners-Lee originally proposed his world-changing invention</td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはもともと世界を変える発明を提案した</td><td>originally で当初の意図を強調。world-changing は「世界を変える」。</td></tr><tr><td class='chunk-en'>as a way for scientists around the world</td><td class='chunk-role'>補語</td><td>世界中の科学者のための方法として</td><td>propose ... as ... で目的・位置づけを説明。</td></tr><tr><td class='chunk-en'>to share information about their research</td><td class='chunk-role'>不定詞（目的）</td><td>研究に関する情報を共有するために</td><td>a way for ... to do の定番構文。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Berners-Lee originally proposed his world-changing invention<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee originally proposed his world-changing invention" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはもともと世界を変える発明を提案した</td><td>originally で当初の意図を強調。world-changing は「世界を変える」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as a way for scientists around the world<button type="button" class="speak-btn speak-btn--inline" data-text="as a way for scientists around the world" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補語</td><td>世界中の科学者のための方法として</td><td>propose ... as ... で目的・位置づけを説明。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to share information about their research<button type="button" class="speak-btn speak-btn--inline" data-text="to share information about their research" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>研究に関する情報を共有するために</td><td>a way for ... to do の定番構文。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Berners-Lee originally proposed his world-changing invention</div>
+              <div class="chunk-en speak-line">Berners-Lee originally proposed his world-changing invention<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee originally proposed his world-changing invention" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · バーナーズ＝リーはもともと世界を変える発明を提案した</div>
               <div>originally で当初の意図を強調。world-changing は「世界を変える」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as a way for scientists around the world</div>
+              <div class="chunk-en speak-line">as a way for scientists around the world<button type="button" class="speak-btn speak-btn--inline" data-text="as a way for scientists around the world" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補語 · 世界中の科学者のための方法として</div>
               <div>propose ... as ... で目的・位置づけを説明。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to share information about their research</div>
+              <div class="chunk-en speak-line">to share information about their research<button type="button" class="speak-btn speak-btn--inline" data-text="to share information about their research" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 研究に関する情報を共有するために</div>
               <div>a way for ... to do の定番構文。</div>
             </div>
@@ -487,8 +489,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="He named this new network the World Wide Web (WWW), joining forces with Belgian Robert Cailliau in 1990 to develop it."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="He named this new network the World Wide Web (WWW), joining forces with Belgian Robert Cailliau in 1990 to develop it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">He named this new network the World Wide Web (WWW), joining forces with Belgian Robert Cailliau in 1990 to develop it.</p>
       <p class="translation">彼はこの新しいネットワークをワールドワイドウェブ（WWW）と名付け、1990年にベルギー人のロベール・カイヤーらと協力して開発した。</p>
@@ -501,23 +502,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>He named this new network the World Wide Web (WWW)</td><td class='chunk-role'>主部</td><td>彼はこの新ネットワークをWWWと名付けた</td><td>name + 目的語 + 補語（呼び名）。</td></tr><tr><td class='chunk-en'>joining forces with Belgian Robert Cailliau in 1990</td><td class='chunk-role'>付帯状況</td><td>1990年にベルギー人ロベール・カイヤーと協力して</td><td>join forces with = 協力する。分詞で同時の行動。</td></tr><tr><td class='chunk-en'>to develop it</td><td class='chunk-role'>目的</td><td>それを開発するために</td><td>it は network / WWW を指す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>He named this new network the World Wide Web (WWW)<button type="button" class="speak-btn speak-btn--inline" data-text="He named this new network the World Wide Web (WWW)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>彼はこの新ネットワークをWWWと名付けた</td><td>name + 目的語 + 補語（呼び名）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>joining forces with Belgian Robert Cailliau in 1990<button type="button" class="speak-btn speak-btn--inline" data-text="joining forces with Belgian Robert Cailliau in 1990" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>1990年にベルギー人ロベール・カイヤーと協力して</td><td>join forces with = 協力する。分詞で同時の行動。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to develop it<button type="button" class="speak-btn speak-btn--inline" data-text="to develop it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的</td><td>それを開発するために</td><td>it は network / WWW を指す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">He named this new network the World Wide Web (WWW)</div>
+              <div class="chunk-en speak-line">He named this new network the World Wide Web (WWW)<button type="button" class="speak-btn speak-btn--inline" data-text="He named this new network the World Wide Web (WWW)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 彼はこの新ネットワークをWWWと名付けた</div>
               <div>name + 目的語 + 補語（呼び名）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">joining forces with Belgian Robert Cailliau in 1990</div>
+              <div class="chunk-en speak-line">joining forces with Belgian Robert Cailliau in 1990<button type="button" class="speak-btn speak-btn--inline" data-text="joining forces with Belgian Robert Cailliau in 1990" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · 1990年にベルギー人ロベール・カイヤーと協力して</div>
               <div>join forces with = 協力する。分詞で同時の行動。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to develop it</div>
+              <div class="chunk-en speak-line">to develop it<button type="button" class="speak-btn speak-btn--inline" data-text="to develop it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的 · それを開発するために</div>
               <div>it は network / WWW を指す。</div>
             </div>
@@ -530,8 +531,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The web was based on two pillars: the HTML language that allows the creation of a website, and the HTTP hypertext system that lets the user request and then receive a web page."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The web was based on two pillars: the HTML language that allows the creation of a website, and the HTTP hypertext system that lets the user request and then receive a web page." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The web was based on two pillars: the HTML language that allows the creation of a website, and the HTTP hypertext system that lets the user request and then receive a web page.</p>
       <p class="translation">ウェブは二つの柱に基づいていた。ひとつはウェブサイト作成を可能にするHTML言語、もうひとつはユーザーがウェブページを要求して受け取れるHTTPハイパーテキストシステムだ。</p>
@@ -544,29 +544,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The web was based on two pillars</td><td class='chunk-role'>主部</td><td>ウェブは二つの柱に基づいていた</td><td>pillar は比喩的に「基盤・要」。</td></tr><tr><td class='chunk-en'>the HTML language that allows the creation of a website</td><td class='chunk-role'>同格（第一の柱）</td><td>ウェブサイト作成を可能にするHTML言語</td><td>allow the creation of = 〜の作成を可能にする。</td></tr><tr><td class='chunk-en'>the HTTP hypertext system</td><td class='chunk-role'>同格（第二の柱）</td><td>HTTPハイパーテキストシステム</td><td>hypertext = リンクでつながるテキスト。</td></tr><tr><td class='chunk-en'>that lets the user request and then receive a web page</td><td class='chunk-role'>関係節</td><td>ユーザーがページを要求し受け取れるようにする</td><td>let + O + 原形。request → receive の順序を then で明示。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The web was based on two pillars<button type="button" class="speak-btn speak-btn--inline" data-text="The web was based on two pillars" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>ウェブは二つの柱に基づいていた</td><td>pillar は比喩的に「基盤・要」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the HTML language that allows the creation of a website<button type="button" class="speak-btn speak-btn--inline" data-text="the HTML language that allows the creation of a website" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格（第一の柱）</td><td>ウェブサイト作成を可能にするHTML言語</td><td>allow the creation of = 〜の作成を可能にする。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the HTTP hypertext system<button type="button" class="speak-btn speak-btn--inline" data-text="the HTTP hypertext system" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格（第二の柱）</td><td>HTTPハイパーテキストシステム</td><td>hypertext = リンクでつながるテキスト。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that lets the user request and then receive a web page<button type="button" class="speak-btn speak-btn--inline" data-text="that lets the user request and then receive a web page" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>ユーザーがページを要求し受け取れるようにする</td><td>let + O + 原形。request → receive の順序を then で明示。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The web was based on two pillars</div>
+              <div class="chunk-en speak-line">The web was based on two pillars<button type="button" class="speak-btn speak-btn--inline" data-text="The web was based on two pillars" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · ウェブは二つの柱に基づいていた</div>
               <div>pillar は比喩的に「基盤・要」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the HTML language that allows the creation of a website</div>
+              <div class="chunk-en speak-line">the HTML language that allows the creation of a website<button type="button" class="speak-btn speak-btn--inline" data-text="the HTML language that allows the creation of a website" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格（第一の柱） · ウェブサイト作成を可能にするHTML言語</div>
               <div>allow the creation of = 〜の作成を可能にする。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the HTTP hypertext system</div>
+              <div class="chunk-en speak-line">the HTTP hypertext system<button type="button" class="speak-btn speak-btn--inline" data-text="the HTTP hypertext system" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格（第二の柱） · HTTPハイパーテキストシステム</div>
               <div>hypertext = リンクでつながるテキスト。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that lets the user request and then receive a web page</div>
+              <div class="chunk-en speak-line">that lets the user request and then receive a web page<button type="button" class="speak-btn speak-btn--inline" data-text="that lets the user request and then receive a web page" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · ユーザーがページを要求し受け取れるようにする</div>
               <div>let + O + 原形。request → receive の順序を then で明示。</div>
             </div>
@@ -579,8 +579,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Determined to make the web freely available to everyone, he did not patent his program, ensuring it took off and spread rapidly."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Determined to make the web freely available to everyone, he did not patent his program, ensuring it took off and spread rapidly." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Determined to make the web freely available to everyone, he did not patent his program, ensuring it took off and spread rapidly.</p>
       <p class="translation">ウェブを誰でも自由に使えるようにしようと決意し、彼はプログラムを特許申請せず、それが急速に普及したようにした。</p>
@@ -593,23 +592,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Determined to make the web freely available to everyone</td><td class='chunk-role'>理由・態度</td><td>ウェブを誰にでも自由に利用可能にしようと決意して</td><td>過去分詞で主語の心理状態・動機を表す。</td></tr><tr><td class='chunk-en'>he did not patent his program</td><td class='chunk-role'>主部</td><td>彼はプログラムを特許申請しなかった</td><td>patent を動詞で「特許を取る」。</td></tr><tr><td class='chunk-en'>ensuring it took off and spread rapidly</td><td class='chunk-role'>結果</td><td>それが急激に普及するようにして</td><td>take off = 飛躍的に広まる。ensuring で意図的な結果を示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Determined to make the web freely available to everyone<button type="button" class="speak-btn speak-btn--inline" data-text="Determined to make the web freely available to everyone" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由・態度</td><td>ウェブを誰にでも自由に利用可能にしようと決意して</td><td>過去分詞で主語の心理状態・動機を表す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he did not patent his program<button type="button" class="speak-btn speak-btn--inline" data-text="he did not patent his program" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>彼はプログラムを特許申請しなかった</td><td>patent を動詞で「特許を取る」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>ensuring it took off and spread rapidly<button type="button" class="speak-btn speak-btn--inline" data-text="ensuring it took off and spread rapidly" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>結果</td><td>それが急激に普及するようにして</td><td>take off = 飛躍的に広まる。ensuring で意図的な結果を示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Determined to make the web freely available to everyone</div>
+              <div class="chunk-en speak-line">Determined to make the web freely available to everyone<button type="button" class="speak-btn speak-btn--inline" data-text="Determined to make the web freely available to everyone" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由・態度 · ウェブを誰にでも自由に利用可能にしようと決意して</div>
               <div>過去分詞で主語の心理状態・動機を表す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he did not patent his program</div>
+              <div class="chunk-en speak-line">he did not patent his program<button type="button" class="speak-btn speak-btn--inline" data-text="he did not patent his program" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 彼はプログラムを特許申請しなかった</div>
               <div>patent を動詞で「特許を取る」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">ensuring it took off and spread rapidly</div>
+              <div class="chunk-en speak-line">ensuring it took off and spread rapidly<button type="button" class="speak-btn speak-btn--inline" data-text="ensuring it took off and spread rapidly" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">結果 · それが急激に普及するようにして</div>
               <div>take off = 飛躍的に広まる。ensuring で意図的な結果を示す。</div>
             </div>
@@ -622,8 +621,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="With the use of personal data by AI models preoccupying authorities, particularly in Europe, Berners-Lee has made data protection his main cause in recent years, notably through the startup Inrupt."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="With the use of personal data by AI models preoccupying authorities, particularly in Europe, Berners-Lee has made data protection his main cause in recent years, notably through the startup Inrupt." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">With the use of personal data by AI models preoccupying authorities, particularly in Europe, Berners-Lee has made data protection his main cause in recent years, notably through the startup Inrupt.</p>
       <p class="translation">AIモデルによる個人データの利用が当局、とりわけヨーロッパで大きな関心事となっている中、バーナーズ＝リーは近年、スタートアップInruptを通じてデータ保護を自身の主要な活動テーマにしている。</p>
@@ -636,29 +634,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>With the use of personal data by AI models preoccupying authorities</td><td class='chunk-role'>背景・理由</td><td>AIによる個人データ利用が当局を悩ませている状況で</td><td>with + 名詞 + 分詞 で背景状況。preoccupy = 強く気にさせる。</td></tr><tr><td class='chunk-en'>particularly in Europe</td><td class='chunk-role'>修飾</td><td>特にヨーロッパで</td><td>authorities を地域限定で補足。</td></tr><tr><td class='chunk-en'>Berners-Lee has made data protection his main cause</td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはデータ保護を主たる活動にしてきた</td><td>make A B = AをBにする。cause は「大義・運動」。</td></tr><tr><td class='chunk-en'>in recent years, notably through the startup Inrupt</td><td class='chunk-role'>時・手段</td><td>近年、とりわけスタートアップInruptを通じて</td><td>notably = 特に目立って。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>With the use of personal data by AI models preoccupying authorities<button type="button" class="speak-btn speak-btn--inline" data-text="With the use of personal data by AI models preoccupying authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>背景・理由</td><td>AIによる個人データ利用が当局を悩ませている状況で</td><td>with + 名詞 + 分詞 で背景状況。preoccupy = 強く気にさせる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>particularly in Europe<button type="button" class="speak-btn speak-btn--inline" data-text="particularly in Europe" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>修飾</td><td>特にヨーロッパで</td><td>authorities を地域限定で補足。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Berners-Lee has made data protection his main cause<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee has made data protection his main cause" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>バーナーズ＝リーはデータ保護を主たる活動にしてきた</td><td>make A B = AをBにする。cause は「大義・運動」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in recent years, notably through the startup Inrupt<button type="button" class="speak-btn speak-btn--inline" data-text="in recent years, notably through the startup Inrupt" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・手段</td><td>近年、とりわけスタートアップInruptを通じて</td><td>notably = 特に目立って。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">With the use of personal data by AI models preoccupying authorities</div>
+              <div class="chunk-en speak-line">With the use of personal data by AI models preoccupying authorities<button type="button" class="speak-btn speak-btn--inline" data-text="With the use of personal data by AI models preoccupying authorities" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">背景・理由 · AIによる個人データ利用が当局を悩ませている状況で</div>
               <div>with + 名詞 + 分詞 で背景状況。preoccupy = 強く気にさせる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">particularly in Europe</div>
+              <div class="chunk-en speak-line">particularly in Europe<button type="button" class="speak-btn speak-btn--inline" data-text="particularly in Europe" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">修飾 · 特にヨーロッパで</div>
               <div>authorities を地域限定で補足。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Berners-Lee has made data protection his main cause</div>
+              <div class="chunk-en speak-line">Berners-Lee has made data protection his main cause<button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee has made data protection his main cause" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · バーナーズ＝リーはデータ保護を主たる活動にしてきた</div>
               <div>make A B = AをBにする。cause は「大義・運動」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in recent years, notably through the startup Inrupt</div>
+              <div class="chunk-en speak-line">in recent years, notably through the startup Inrupt<button type="button" class="speak-btn speak-btn--inline" data-text="in recent years, notably through the startup Inrupt" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・手段 · 近年、とりわけスタートアップInruptを通じて</div>
               <div>notably = 特に目立って。</div>
             </div>
@@ -671,8 +669,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;Without data, (AI models) can&#x27;t exist."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;Without data, (AI models) can&#x27;t exist." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;Without data, (AI models) can&#x27;t exist.</p>
       <p class="translation">「データがなければ（AIモデルは）存在できない。」</p>
@@ -685,17 +682,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Without data</td><td class='chunk-role'>条件</td><td>データなしでは</td><td>without + 名詞 で「〜がなければ」。</td></tr><tr><td class='chunk-en'>(AI models) can&#x27;t exist</td><td class='chunk-role'>主述</td><td>AIモデルは存在できない</td><td>口語的な短い警告文。次文と一続きの引用。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Without data<button type="button" class="speak-btn speak-btn--inline" data-text="Without data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>条件</td><td>データなしでは</td><td>without + 名詞 で「〜がなければ」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>(AI models) can&#x27;t exist<button type="button" class="speak-btn speak-btn--inline" data-text="(AI models) can&#x27;t exist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主述</td><td>AIモデルは存在できない</td><td>口語的な短い警告文。次文と一続きの引用。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Without data</div>
+              <div class="chunk-en speak-line">Without data<button type="button" class="speak-btn speak-btn--inline" data-text="Without data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">条件 · データなしでは</div>
               <div>without + 名詞 で「〜がなければ」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">(AI models) can&#x27;t exist</div>
+              <div class="chunk-en speak-line">(AI models) can&#x27;t exist<button type="button" class="speak-btn speak-btn--inline" data-text="(AI models) can&#x27;t exist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主述 · AIモデルは存在できない</div>
               <div>口語的な短い警告文。次文と一続きの引用。</div>
             </div>
@@ -708,8 +705,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="And they&#x27;ve had unfettered access to everybody&#x27;s data now, and if we don&#x27;t watch it, we&#x27;re going to get to a really bad spot,&quot; warned the company&#x27;s co-founder John Bruce."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="And they&#x27;ve had unfettered access to everybody&#x27;s data now, and if we don&#x27;t watch it, we&#x27;re going to get to a really bad spot,&quot; warned the company&#x27;s co-founder John Bruce." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">And they&#x27;ve had unfettered access to everybody&#x27;s data now, and if we don&#x27;t watch it, we&#x27;re going to get to a really bad spot,&quot; warned the company&#x27;s co-founder John Bruce.</p>
       <p class="translation">「そして今や誰のデータにも無制限にアクセスしてきた。注意しなければ、本当にまずい状況に陥る」と、同社共同創業者のジョン・ブルースは警告した。</p>
@@ -722,29 +718,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>they&#x27;ve had unfettered access to everybody&#x27;s data now</td><td class='chunk-role'>主部</td><td>彼らは今や誰のデータにも無制限にアクセスしてきた</td><td>unfettered = 束縛されない・無制限の。現在完了で今までの状態。</td></tr><tr><td class='chunk-en'>if we don&#x27;t watch it</td><td class='chunk-role'>条件節</td><td>注意しなければ</td><td>watch it は口語で「気をつける・見張る」。</td></tr><tr><td class='chunk-en'>we&#x27;re going to get to a really bad spot</td><td class='chunk-role'>主節</td><td>本当にまずい状況に陥る</td><td>get to a spot = ある状態に達する。bad spot は危機的状況。</td></tr><tr><td class='chunk-en'>warned the company&#x27;s co-founder John Bruce</td><td class='chunk-role'>発言帰属</td><td>同社共同創業者ジョン・ブルースが警告した</td><td>co-founder = 共同創業者。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>they&#x27;ve had unfettered access to everybody&#x27;s data now<button type="button" class="speak-btn speak-btn--inline" data-text="they&#x27;ve had unfettered access to everybody&#x27;s data now" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>彼らは今や誰のデータにも無制限にアクセスしてきた</td><td>unfettered = 束縛されない・無制限の。現在完了で今までの状態。</td></tr><tr><td class='chunk-en'><span class='speak-line'>if we don&#x27;t watch it<button type="button" class="speak-btn speak-btn--inline" data-text="if we don&#x27;t watch it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>条件節</td><td>注意しなければ</td><td>watch it は口語で「気をつける・見張る」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>we&#x27;re going to get to a really bad spot<button type="button" class="speak-btn speak-btn--inline" data-text="we&#x27;re going to get to a really bad spot" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>本当にまずい状況に陥る</td><td>get to a spot = ある状態に達する。bad spot は危機的状況。</td></tr><tr><td class='chunk-en'><span class='speak-line'>warned the company&#x27;s co-founder John Bruce<button type="button" class="speak-btn speak-btn--inline" data-text="warned the company&#x27;s co-founder John Bruce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>発言帰属</td><td>同社共同創業者ジョン・ブルースが警告した</td><td>co-founder = 共同創業者。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">they&#x27;ve had unfettered access to everybody&#x27;s data now</div>
+              <div class="chunk-en speak-line">they&#x27;ve had unfettered access to everybody&#x27;s data now<button type="button" class="speak-btn speak-btn--inline" data-text="they&#x27;ve had unfettered access to everybody&#x27;s data now" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 彼らは今や誰のデータにも無制限にアクセスしてきた</div>
               <div>unfettered = 束縛されない・無制限の。現在完了で今までの状態。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">if we don&#x27;t watch it</div>
+              <div class="chunk-en speak-line">if we don&#x27;t watch it<button type="button" class="speak-btn speak-btn--inline" data-text="if we don&#x27;t watch it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">条件節 · 注意しなければ</div>
               <div>watch it は口語で「気をつける・見張る」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">we&#x27;re going to get to a really bad spot</div>
+              <div class="chunk-en speak-line">we&#x27;re going to get to a really bad spot<button type="button" class="speak-btn speak-btn--inline" data-text="we&#x27;re going to get to a really bad spot" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 本当にまずい状況に陥る</div>
               <div>get to a spot = ある状態に達する。bad spot は危機的状況。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">warned the company&#x27;s co-founder John Bruce</div>
+              <div class="chunk-en speak-line">warned the company&#x27;s co-founder John Bruce<button type="button" class="speak-btn speak-btn--inline" data-text="warned the company&#x27;s co-founder John Bruce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">発言帰属 · 同社共同創業者ジョン・ブルースが警告した</div>
               <div>co-founder = 共同創業者。</div>
             </div>
@@ -757,8 +753,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Launched in 2018, Inrupt relies on secure data wallets that remain in the hands of users."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Launched in 2018, Inrupt relies on secure data wallets that remain in the hands of users." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Launched in 2018, Inrupt relies on secure data wallets that remain in the hands of users.</p>
       <p class="translation">2018年に立ち上げられたInruptは、ユーザー自身が管理する安全なデータウォレットに依存している。</p>
@@ -771,23 +766,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Launched in 2018</td><td class='chunk-role'>付帯状況</td><td>2018年に立ち上げられて</td><td>会社名の前に置く分詞構文で設立年を示す。</td></tr><tr><td class='chunk-en'>Inrupt relies on secure data wallets</td><td class='chunk-role'>主部</td><td>Inruptは安全なデータウォレットに依存している</td><td>rely on = 〜を基盤として使う。wallet は暗号資産用語から転じたデータ保管庫。</td></tr><tr><td class='chunk-en'>that remain in the hands of users</td><td class='chunk-role'>関係節</td><td>ユーザーの手元に留まる</td><td>in the hands of = 〜が管理・保有している。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Launched in 2018<button type="button" class="speak-btn speak-btn--inline" data-text="Launched in 2018" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>2018年に立ち上げられて</td><td>会社名の前に置く分詞構文で設立年を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Inrupt relies on secure data wallets<button type="button" class="speak-btn speak-btn--inline" data-text="Inrupt relies on secure data wallets" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>Inruptは安全なデータウォレットに依存している</td><td>rely on = 〜を基盤として使う。wallet は暗号資産用語から転じたデータ保管庫。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that remain in the hands of users<button type="button" class="speak-btn speak-btn--inline" data-text="that remain in the hands of users" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>ユーザーの手元に留まる</td><td>in the hands of = 〜が管理・保有している。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Launched in 2018</div>
+              <div class="chunk-en speak-line">Launched in 2018<button type="button" class="speak-btn speak-btn--inline" data-text="Launched in 2018" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · 2018年に立ち上げられて</div>
               <div>会社名の前に置く分詞構文で設立年を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Inrupt relies on secure data wallets</div>
+              <div class="chunk-en speak-line">Inrupt relies on secure data wallets<button type="button" class="speak-btn speak-btn--inline" data-text="Inrupt relies on secure data wallets" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · Inruptは安全なデータウォレットに依存している</div>
               <div>rely on = 〜を基盤として使う。wallet は暗号資産用語から転じたデータ保管庫。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that remain in the hands of users</div>
+              <div class="chunk-en speak-line">that remain in the hands of users<button type="button" class="speak-btn speak-btn--inline" data-text="that remain in the hands of users" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · ユーザーの手元に留まる</div>
               <div>in the hands of = 〜が管理・保有している。</div>
             </div>
@@ -800,8 +795,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="It is also working to create an AI assistant called Charlie that will be able to filter users&#x27; requests to tools such as ChatGPT or Claude."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="It is also working to create an AI assistant called Charlie that will be able to filter users&#x27; requests to tools such as ChatGPT or Claude." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">It is also working to create an AI assistant called Charlie that will be able to filter users&#x27; requests to tools such as ChatGPT or Claude.</p>
       <p class="translation">同社はまた、ChatGPTやClaudeなどのツールへのユーザーのリクエストを選別できるAIアシスタント「Charlie」の開発にも取り組んでいる。</p>
@@ -814,23 +808,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It is also working to create an AI assistant called Charlie</td><td class='chunk-role'>主部</td><td>CharlieというAIアシスタントを作るために取り組んでいる</td><td>work to do = 〜するために働く・開発中である。</td></tr><tr><td class='chunk-en'>that will be able to filter users&#x27; requests</td><td class='chunk-role'>関係節</td><td>ユーザーのリクエストを選別できる</td><td>filter は送る情報を制限・選別する。</td></tr><tr><td class='chunk-en'>to tools such as ChatGPT or Claude</td><td class='chunk-role'>修飾</td><td>ChatGPTやClaudeなどのツールへの</td><td>requests to tools = ツールに向けた要求。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It is also working to create an AI assistant called Charlie<button type="button" class="speak-btn speak-btn--inline" data-text="It is also working to create an AI assistant called Charlie" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>CharlieというAIアシスタントを作るために取り組んでいる</td><td>work to do = 〜するために働く・開発中である。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that will be able to filter users&#x27; requests<button type="button" class="speak-btn speak-btn--inline" data-text="that will be able to filter users&#x27; requests" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>ユーザーのリクエストを選別できる</td><td>filter は送る情報を制限・選別する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to tools such as ChatGPT or Claude<button type="button" class="speak-btn speak-btn--inline" data-text="to tools such as ChatGPT or Claude" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>修飾</td><td>ChatGPTやClaudeなどのツールへの</td><td>requests to tools = ツールに向けた要求。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It is also working to create an AI assistant called Charlie</div>
+              <div class="chunk-en speak-line">It is also working to create an AI assistant called Charlie<button type="button" class="speak-btn speak-btn--inline" data-text="It is also working to create an AI assistant called Charlie" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · CharlieというAIアシスタントを作るために取り組んでいる</div>
               <div>work to do = 〜するために働く・開発中である。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that will be able to filter users&#x27; requests</div>
+              <div class="chunk-en speak-line">that will be able to filter users&#x27; requests<button type="button" class="speak-btn speak-btn--inline" data-text="that will be able to filter users&#x27; requests" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · ユーザーのリクエストを選別できる</div>
               <div>filter は送る情報を制限・選別する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to tools such as ChatGPT or Claude</div>
+              <div class="chunk-en speak-line">to tools such as ChatGPT or Claude<button type="button" class="speak-btn speak-btn--inline" data-text="to tools such as ChatGPT or Claude" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">修飾 · ChatGPTやClaudeなどのツールへの</div>
               <div>requests to tools = ツールに向けた要求。</div>
             </div>
@@ -843,8 +837,7 @@
     <article class="sentence-block" id="s018">
       <div class="sentence-head">
         <div class="sentence-num">18</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;When you ask a question... it looks at what the question is... and decides which information to send&quot; to the AI tool, Berners-Lee said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;When you ask a question... it looks at what the question is... and decides which information to send&quot; to the AI tool, Berners-Lee said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;When you ask a question... it looks at what the question is... and decides which information to send&quot; to the AI tool, Berners-Lee said.</p>
       <p class="translation">「質問をすると…それが質問の内容を見て…どの情報を送るか決める」とバーナーズ＝リーは説明した。</p>
@@ -857,29 +850,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>When you ask a question</td><td class='chunk-role'>時の状況</td><td>質問をするとき</td><td>口語的な説明調。</td></tr><tr><td class='chunk-en'>it looks at what the question is</td><td class='chunk-role'>述語1</td><td>それは質問が何かを見る</td><td>what the question is = 質問の内容。</td></tr><tr><td class='chunk-en'>and decides which information to send</td><td class='chunk-role'>述語2</td><td>どの情報を送るか決める</td><td>which ... to send = 送る情報の選択。</td></tr><tr><td class='chunk-en'>to the AI tool</td><td class='chunk-role'>方向</td><td>AIツールへ</td><td>引用の外に置かれた付加説明。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>When you ask a question<button type="button" class="speak-btn speak-btn--inline" data-text="When you ask a question" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の状況</td><td>質問をするとき</td><td>口語的な説明調。</td></tr><tr><td class='chunk-en'><span class='speak-line'>it looks at what the question is<button type="button" class="speak-btn speak-btn--inline" data-text="it looks at what the question is" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語1</td><td>それは質問が何かを見る</td><td>what the question is = 質問の内容。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and decides which information to send<button type="button" class="speak-btn speak-btn--inline" data-text="and decides which information to send" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語2</td><td>どの情報を送るか決める</td><td>which ... to send = 送る情報の選択。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to the AI tool<button type="button" class="speak-btn speak-btn--inline" data-text="to the AI tool" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>方向</td><td>AIツールへ</td><td>引用の外に置かれた付加説明。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">When you ask a question</div>
+              <div class="chunk-en speak-line">When you ask a question<button type="button" class="speak-btn speak-btn--inline" data-text="When you ask a question" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の状況 · 質問をするとき</div>
               <div>口語的な説明調。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">it looks at what the question is</div>
+              <div class="chunk-en speak-line">it looks at what the question is<button type="button" class="speak-btn speak-btn--inline" data-text="it looks at what the question is" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語1 · それは質問が何かを見る</div>
               <div>what the question is = 質問の内容。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and decides which information to send</div>
+              <div class="chunk-en speak-line">and decides which information to send<button type="button" class="speak-btn speak-btn--inline" data-text="and decides which information to send" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語2 · どの情報を送るか決める</div>
               <div>which ... to send = 送る情報の選択。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to the AI tool</div>
+              <div class="chunk-en speak-line">to the AI tool<button type="button" class="speak-btn speak-btn--inline" data-text="to the AI tool" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">方向 · AIツールへ</div>
               <div>引用の外に置かれた付加説明。</div>
             </div>
@@ -892,8 +885,7 @@
     <article class="sentence-block" id="s019">
       <div class="sentence-head">
         <div class="sentence-num">19</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="If there is personal information in there, Charlie will &quot;tweak it&quot; so the AI tool &quot;gets a picture... but then it can&#x27;t really use that to identify you&quot;."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="If there is personal information in there, Charlie will &quot;tweak it&quot; so the AI tool &quot;gets a picture... but then it can&#x27;t really use that to identify you&quot;." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">If there is personal information in there, Charlie will &quot;tweak it&quot; so the AI tool &quot;gets a picture... but then it can&#x27;t really use that to identify you&quot;.</p>
       <p class="translation">個人情報が含まれていれば、Charlieはそれを「微調整」し、AIツールが概要は把握できるものの、それを使って本人を特定することはできないようにする。</p>
@@ -906,29 +898,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>If there is personal information in there</td><td class='chunk-role'>条件節</td><td>そこに個人情報があれば</td><td>in there = リクエストの中に。</td></tr><tr><td class='chunk-en'>Charlie will &quot;tweak it&quot;</td><td class='chunk-role'>主節</td><td>Charlieはそれを微調整する</td><td>tweak = 軽く修正する。匿名化のニュアンス。</td></tr><tr><td class='chunk-en'>so the AI tool &quot;gets a picture&quot;</td><td class='chunk-role'>目的節</td><td>AIツールが概要を把握するように</td><td>get a picture = 全体像・おおまかな理解を得る。</td></tr><tr><td class='chunk-en'>but then it can&#x27;t really use that to identify you</td><td class='chunk-role'>対比</td><td>しかしそれで本人を特定することはできない</td><td>identify = 個人を特定する。プライバシー保護の核心。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>If there is personal information in there<button type="button" class="speak-btn speak-btn--inline" data-text="If there is personal information in there" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>条件節</td><td>そこに個人情報があれば</td><td>in there = リクエストの中に。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Charlie will &quot;tweak it&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Charlie will &quot;tweak it&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>Charlieはそれを微調整する</td><td>tweak = 軽く修正する。匿名化のニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>so the AI tool &quot;gets a picture&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="so the AI tool &quot;gets a picture&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的節</td><td>AIツールが概要を把握するように</td><td>get a picture = 全体像・おおまかな理解を得る。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but then it can&#x27;t really use that to identify you<button type="button" class="speak-btn speak-btn--inline" data-text="but then it can&#x27;t really use that to identify you" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>対比</td><td>しかしそれで本人を特定することはできない</td><td>identify = 個人を特定する。プライバシー保護の核心。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">If there is personal information in there</div>
+              <div class="chunk-en speak-line">If there is personal information in there<button type="button" class="speak-btn speak-btn--inline" data-text="If there is personal information in there" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">条件節 · そこに個人情報があれば</div>
               <div>in there = リクエストの中に。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Charlie will &quot;tweak it&quot;</div>
+              <div class="chunk-en speak-line">Charlie will &quot;tweak it&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Charlie will &quot;tweak it&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · Charlieはそれを微調整する</div>
               <div>tweak = 軽く修正する。匿名化のニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">so the AI tool &quot;gets a picture&quot;</div>
+              <div class="chunk-en speak-line">so the AI tool &quot;gets a picture&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="so the AI tool &quot;gets a picture&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的節 · AIツールが概要を把握するように</div>
               <div>get a picture = 全体像・おおまかな理解を得る。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but then it can&#x27;t really use that to identify you</div>
+              <div class="chunk-en speak-line">but then it can&#x27;t really use that to identify you<button type="button" class="speak-btn speak-btn--inline" data-text="but then it can&#x27;t really use that to identify you" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">対比 · しかしそれで本人を特定することはできない</div>
               <div>identify = 個人を特定する。プライバシー保護の核心。</div>
             </div>
@@ -941,8 +933,7 @@
     <article class="sentence-block" id="s020">
       <div class="sentence-head">
         <div class="sentence-num">20</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;Charlie is about preserving the original values of the web,&quot; he added."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;Charlie is about preserving the original values of the web,&quot; he added." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;Charlie is about preserving the original values of the web,&quot; he added.</p>
       <p class="translation">「Charlieはウェブの本来の価値を守ることにある」と彼は付け加えた。</p>
@@ -955,17 +946,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Charlie is about preserving the original values of the web</td><td class='chunk-role'>主節</td><td>Charlieはウェブの本来の価値を守ることについてのものだ</td><td>be about doing = 〜を目的とする・本質とする。</td></tr><tr><td class='chunk-en'>he added</td><td class='chunk-role'>発言帰属</td><td>彼は付け加えた</td><td>add は said より「補足した」ニュアンス。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Charlie is about preserving the original values of the web<button type="button" class="speak-btn speak-btn--inline" data-text="Charlie is about preserving the original values of the web" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>Charlieはウェブの本来の価値を守ることについてのものだ</td><td>be about doing = 〜を目的とする・本質とする。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he added<button type="button" class="speak-btn speak-btn--inline" data-text="he added" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>発言帰属</td><td>彼は付け加えた</td><td>add は said より「補足した」ニュアンス。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Charlie is about preserving the original values of the web</div>
+              <div class="chunk-en speak-line">Charlie is about preserving the original values of the web<button type="button" class="speak-btn speak-btn--inline" data-text="Charlie is about preserving the original values of the web" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · Charlieはウェブの本来の価値を守ることについてのものだ</div>
               <div>be about doing = 〜を目的とする・本質とする。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he added</div>
+              <div class="chunk-en speak-line">he added<button type="button" class="speak-btn speak-btn--inline" data-text="he added" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">発言帰属 · 彼は付け加えた</div>
               <div>add は said より「補足した」ニュアンス。</div>
             </div>
@@ -978,134 +969,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>pioneer</h3>
-                <button type="button" class="speak-btn" data-text="pioneer"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="pioneer" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˌpaɪəˈnɪər/</div>
               <p>先駆者、開拓者</p>
-              <p class="example-en"><em>World Wide Web pioneer Tim Berners-Lee</em></p>
+              <p class="example-en speak-line"><em>World Wide Web pioneer Tim Berners-Lee</em><button type="button" class="speak-btn speak-btn--inline" data-text="World Wide Web pioneer Tim Berners-Lee" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ワールドワイドウェブの開拓者ティム・バーナーズ＝リー</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>primacy</h3>
-                <button type="button" class="speak-btn" data-text="primacy"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="primacy" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈpraɪməsi/</div>
               <p>最優先、至上</p>
-              <p class="example-en"><em>The primacy of the person was at the heart of the internet.</em></p>
+              <p class="example-en speak-line"><em>The primacy of the person was at the heart of the internet.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The primacy of the person was at the heart of the internet." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">個人の優先性がインターネットの核心にあった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>conceive</h3>
-                <button type="button" class="speak-btn" data-text="conceive"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="conceive" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/kənˈsiːv/</div>
               <p>考案する、構想する</p>
-              <p class="example-en"><em>He conceived the web in 1989.</em></p>
+              <p class="example-en speak-line"><em>He conceived the web in 1989.</em><button type="button" class="speak-btn speak-btn--inline" data-text="He conceived the web in 1989." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">彼は1989年にウェブを考案した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>unfettered</h3>
-                <button type="button" class="speak-btn" data-text="unfettered"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="unfettered" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ʌnˈfetərd/</div>
               <p>無制限の、束縛されない</p>
-              <p class="example-en"><em>They&#x27;ve had unfettered access to everybody&#x27;s data.</em></p>
+              <p class="example-en speak-line"><em>They&#x27;ve had unfettered access to everybody&#x27;s data.</em><button type="button" class="speak-btn speak-btn--inline" data-text="They&#x27;ve had unfettered access to everybody&#x27;s data." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">彼らは誰のデータにも無制限にアクセスしてきた。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>preoccupy</h3>
-                <button type="button" class="speak-btn" data-text="preoccupy"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="preoccupy" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/priˈɒkjəpaɪ/</div>
               <p>強く心を占める、悩ませる</p>
-              <p class="example-en"><em>The use of personal data is preoccupying authorities.</em></p>
+              <p class="example-en speak-line"><em>The use of personal data is preoccupying authorities.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The use of personal data is preoccupying authorities." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">個人データの利用が当局の大きな関心事となっている。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>tweak</h3>
-                <button type="button" class="speak-btn" data-text="tweak"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="tweak" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/twiːk/</div>
               <p>微調整する、少し変える</p>
-              <p class="example-en"><em>Charlie will tweak personal information before sending it.</em></p>
+              <p class="example-en speak-line"><em>Charlie will tweak personal information before sending it.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Charlie will tweak personal information before sending it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">Charlieは送る前に個人情報を微調整する。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>hail</h3>
-                <button type="button" class="speak-btn" data-text="hail"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="hail" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/heɪl/</div>
               <p>称賛する、歓迎する</p>
-              <p class="example-en"><em>Berners-Lee hailed AI as an exciting development.</em></p>
+              <p class="example-en speak-line"><em>Berners-Lee hailed AI as an exciting development.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Berners-Lee hailed AI as an exciting development." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">バーナーズ＝リーはAIを刺激的な進歩として称賛した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>take off</h3>
-                <button type="button" class="speak-btn" data-text="take off"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="take off" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/teɪk ɒf/</div>
               <p>急激に普及する、飛躍的に成長する</p>
-              <p class="example-en"><em>Ensuring the web took off and spread rapidly.</em></p>
+              <p class="example-en speak-line"><em>Ensuring the web took off and spread rapidly.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Ensuring the web took off and spread rapidly." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ウェブが急速に普及するようにした。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>End-position reporting clauses</h3>
-              <p>Place &#x27;he said/told/warned/added&#x27; at the end of a sentence after a quote or reported content.</p>
-              <p class="example-en"><em>&quot;Charlie is about preserving the original values of the web,&quot; he added.</em></p>
+              <div class="grammar-head">
+                <h3>End-position reporting clauses</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="End-position reporting clauses" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Place &#x27;he said/told/warned/added&#x27; at the end of a sentence after a quote or reported content.<button type="button" class="speak-btn speak-btn--inline" data-text="Place &#x27;he said/told/warned/added&#x27; at the end of a sentence after a quote or reported content." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>&quot;Charlie is about preserving the original values of the web,&quot; he added.</em><button type="button" class="speak-btn speak-btn--inline" data-text="&quot;Charlie is about preserving the original values of the web,&quot; he added." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>英語ニュースでは発言内容を先に述べ、文末に he said / he told AFP / he added などを置いて話者を示す構文が非常に多い。日本語の「〜と述べた」に相当する。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>benefit from + gerund</h3>
-              <p>Use &#x27;benefit from&#x27; followed by a gerund (-ing) to show gaining advantage from an action.</p>
-              <p class="example-en"><em>AI would benefit from being regulated.</em></p>
+              <div class="grammar-head">
+                <h3>benefit from + gerund</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="benefit from + gerund" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;benefit from&#x27; followed by a gerund (-ing) to show gaining advantage from an action.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;benefit from&#x27; followed by a gerund (-ing) to show gaining advantage from an action." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>AI would benefit from being regulated.</em><button type="button" class="speak-btn speak-btn--inline" data-text="AI would benefit from being regulated." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>benefit from の後ろは動名詞を取る。「〜することから利益を得る」。being regulated のように受動の動名詞も可能。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Participial phrases for background</h3>
-              <p>Use past participles or -ing phrases at the start of a sentence to give background, reason, or simultaneous context.</p>
-              <p class="example-en"><em>Determined to make the web freely available, he did not patent his program.</em></p>
+              <div class="grammar-head">
+                <h3>Participial phrases for background</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Participial phrases for background" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use past participles or -ing phrases at the start of a sentence to give background, reason, or simultaneous context.<button type="button" class="speak-btn speak-btn--inline" data-text="Use past participles or -ing phrases at the start of a sentence to give background, reason, or simultaneous context." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Determined to make the web freely available, he did not patent his program.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Determined to make the web freely available, he did not patent his program." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>文頭の分詞構文（Determined to ... / Launched in 2018 / With ... preoccupying ...）で背景・理由・同時状況を簡潔に追加する。ニュース記事で頻出する高度な構文。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>With + object + present participle</h3>
-              <p>Use &#x27;with + noun + -ing&#x27; to describe a situation where something is happening.</p>
-              <p class="example-en"><em>With the use of personal data preoccupying authorities, Berners-Lee has made data protection his main cause.</em></p>
+              <div class="grammar-head">
+                <h3>With + object + present participle</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="With + object + present participle" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;with + noun + -ing&#x27; to describe a situation where something is happening.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;with + noun + -ing&#x27; to describe a situation where something is happening." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>With the use of personal data preoccupying authorities, Berners-Lee has made data protection his main cause.</em><button type="button" class="speak-btn speak-btn--inline" data-text="With the use of personal data preoccupying authorities, Berners-Lee has made data protection his main cause." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>with + 名詞 + 現在分詞 で「〜が…している状況で」という複雑な背景を一文で表す。原因や文脈設定に使われる。</p>
             </div>
             </div>
@@ -1114,23 +1109,23 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 4）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 4）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 4" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · lostrune2
                 · score 2</div>
-              <p class="comment-raw">Sir Timothy John Berners-Lee&#x27;s greatest regret is not putting built-in safeguards in the WWW but rather relied on the &quot;goodness of mankind&quot; instead Never ever rely on the &quot;goodness of mankind&quot; if ya know enough about mankind, lol</p>
+              <p class="comment-raw speak-line">Sir Timothy John Berners-Lee&#x27;s greatest regret is not putting built-in safeguards in the WWW but rather relied on the &quot;goodness of mankind&quot; instead Never ever rely on the &quot;goodness of mankind&quot; if ya know enough about mankind, lol<button type="button" class="speak-btn" data-text="Sir Timothy John Berners-Lee&#x27;s greatest regret is not putting built-in safeguards in the WWW but rather relied on the &quot;goodness of mankind&quot; instead Never ever rely on the &quot;goodness of mankind&quot; if ya know enough about mankind, lol" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">サー・ティモシー・ジョン・バーナーズ＝リーの最大の後悔は、WWWに組み込みの安全策を入れなかったことではなく、代わりに「人間の善良さ」に頼ったことだ。人間について十分知っているなら、「人間の善良さ」なんて絶対に頼るなよ（笑）</p>
               <ul class='comment-notes'><li>「but rather relied」は主語が抜けており、厳密には but rather he relied の形</li><li>「ya」は you のくだけた言い方、「lol」はネット上の笑いの表現</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Sir Timothy John Berners-Lee&#x27;s greatest regret is not that he failed to put built-in safeguards in the WWW, but rather that he relied on the &quot;goodness of mankind&quot; instead. Never ever rely on the &quot;goodness of mankind&quot; if you know enough about mankind.</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>lol</strong> — ネットスラングで「笑」の意。くだけた書き言葉</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Sir Timothy John Berners-Lee&#x27;s greatest regret is not that he failed to put built-in safeguards in the WWW, but rather that he relied on the &quot;goodness of mankind&quot; instead. Never ever rely on the &quot;goodness of mankind&quot; if you know enough about mankind.<button type="button" class="speak-btn speak-btn--inline" data-text="Sir Timothy John Berners-Lee&#x27;s greatest regret is not that he failed to put built-in safeguards in the WWW, but rather that he relied on the &quot;goodness of mankind&quot; instead. Never ever rely on the &quot;goodness of mankind&quot; if you know enough about mankind." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>lol</strong><button type="button" class="speak-btn speak-btn--inline" data-text="lol" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — ネットスラングで「笑」の意。くだけた書き言葉</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · jeffy
                 · score 1</div>
-              <p class="comment-raw">&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said. Yes TimBL, which is why I run AI locally on my personal computer. But listen to the most recent comments from Jenson of NVIDIA. He, like others in technology, see a future in which the &quot;personal computer&quot; is dead and instead everyone uses an AI terminal to access centrally controlled information on the cloud, with all software being a subscription, with even hardware, the GPU, being a service. I am afraid that the internet you remember is quite dead. They are working hard to maximize profit while minimizing free thought.</p>
+              <p class="comment-raw speak-line">&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said. Yes TimBL, which is why I run AI locally on my personal computer. But listen to the most recent comments from Jenson of NVIDIA. He, like others in technology, see a future in which the &quot;personal computer&quot; is dead and instead everyone uses an AI terminal to access centrally controlled information on the cloud, with all software being a subscription, with even hardware, the GPU, being a service. I am afraid that the internet you remember is quite dead. They are working hard to maximize profit while minimizing free thought.<button type="button" class="speak-btn" data-text="&quot;It&#x27;s important that people use this technology to make sure that their customers, their citizens, have got control over their own data,&quot; he said. Yes TimBL, which is why I run AI locally on my personal computer. But listen to the most recent comments from Jenson of NVIDIA. He, like others in technology, see a future in which the &quot;personal computer&quot; is dead and instead everyone uses an AI terminal to access centrally controlled information on the cloud, with all software being a subscription, with even hardware, the GPU, being a service. I am afraid that the internet you remember is quite dead. They are working hard to maximize profit while minimizing free thought." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">「人々がこの技術を使って、顧客や市民が自分のデータを自分でコントロールできるようにすることが重要だ」と彼は言った。そうだねティム、だから俺は個人PCでAIをローカル実行している。でもNVIDIAのジェンソンの最近の発言を聞いてみろ。彼も他のテック業界の人たちも、将来は「パソコン」が死に、代わりに誰もがAI端末でクラウド上の中央管理された情報にアクセスし、ソフトは全部サブスク、GPUですらハードウェアもサービス化される未来を見ている。君が覚えているインターネットはもうかなり死んでいるよ。彼らは自由な思考を最小化しながら利益を最大化しようと必死に動いている。</p>
               <ul class='comment-notes'><li>「TimBL」はティム・バーナーズ＝リーの業界での略称</li><li>「Jenson」はJensen Huang（ジェンセン・フアン）の綴りミスの可能性が高い</li></ul>
               
@@ -1140,7 +1135,7 @@
             <article class="comment-card">
               <div class="comment-meta">#3 · jeffy
                 · score 0</div>
-              <p class="comment-raw">Sorry TimBL, but there is nothing left to &quot;preserve&quot;. 50% of web traffic is now bots and the other half is highly moderated and under constant surveillance. It is no longer the wild west of organic free expression it once was. Half of everything is content designed to control our perceptions.</p>
+              <p class="comment-raw speak-line">Sorry TimBL, but there is nothing left to &quot;preserve&quot;. 50% of web traffic is now bots and the other half is highly moderated and under constant surveillance. It is no longer the wild west of organic free expression it once was. Half of everything is content designed to control our perceptions.<button type="button" class="speak-btn" data-text="Sorry TimBL, but there is nothing left to &quot;preserve&quot;. 50% of web traffic is now bots and the other half is highly moderated and under constant surveillance. It is no longer the wild west of organic free expression it once was. Half of everything is content designed to control our perceptions." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">ごめんティム、もう「保存」するものなんて何も残っていない。今のWebトラフィックの50%はボットで、残りの半分は厳しくモデレートされ常に監視下にある。かつてのような有機的な自由表現のワイルド・ウェストではもうない。世の中の半分は俺たちの認識を操作するために設計されたコンテンツだ。</p>
               <ul class='comment-notes'><li>「wild west」は西部開拓時代を連想させる慣用句で、無法地帯・規制のない自由な空間の比喩</li><li>「TimBL」はティム・バーナーズ＝リーの略称</li></ul>
               
@@ -1150,10 +1145,10 @@
             <article class="comment-card">
               <div class="comment-meta">#4 · TaiwanIsNotChina
                 · score -1</div>
-              <p class="comment-raw">The original values of the web were anonymity and no regulation. We fell off of that path long before AI.</p>
+              <p class="comment-raw speak-line">The original values of the web were anonymity and no regulation. We fell off of that path long before AI.<button type="button" class="speak-btn" data-text="The original values of the web were anonymity and no regulation. We fell off of that path long before AI." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">Webの本来の価値とは匿名性と規制なしだった。AIが出るずっと前から、もうその道から外れていた。</p>
               <ul class='comment-notes'><li>「fell off of that path」は口語的で「（方針・道筋から）外れる」の意</li><li>「no regulation」を価値と位置づける批判的な主張</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> The original values of the web were anonymity and the absence of regulation. We strayed from that path long before AI.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> The original values of the web were anonymity and the absence of regulation. We strayed from that path long before AI.<button type="button" class="speak-btn speak-btn--inline" data-text="The original values of the web were anonymity and the absence of regulation. We strayed from that path long before AI." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
@@ -1161,7 +1156,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-05</footer>
+    <footer class="speak-line">English News Digest · 2026-06-05
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

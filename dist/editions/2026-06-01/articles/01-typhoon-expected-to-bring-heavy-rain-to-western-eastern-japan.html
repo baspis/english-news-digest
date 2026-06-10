@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-01</a>
       <span class="sep">/</span>
       <span>Typhoon expected to bring heavy rain to weste...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Typhoon expected to bring heavy rain to weste..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge national">national</span>
-      <h1>Typhoon expected to bring heavy rain to western, eastern Japan</h1>
-      <div class="meta">Japan Today National · 2026-06-01</div>
+      <div class="title-head">
+        <span class="badge national">national</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="national" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Typhoon expected to bring heavy rain to western, eastern Japan</h1>
+        <button type="button" class="speak-btn" data-text="Typhoon expected to bring heavy rain to western, eastern Japan" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today National<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today National" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-01</p>
       <div class="summary-ja">台風6号ジャンミは今週、太平洋側の西日本・東日本に大雨をもたらす見込みで、気象庁が日曜に発表した。沖縄から関東にかけて警報級の大雨や強風、高潮、土砂災害などに警戒が必要だ。航空会社はすでに沖縄便の欠航を相次いで発表している。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/national/typhoon-jangmi-expected-to-bring-heavy-rain-to-western-eastern-japan" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Typhoon Jangmi is forecast to bring heavy rain to western and eastern Japan along the Pacific coast this week, the Japan Meteorological Agency said Sunday, with airlines already cancelling flights."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Typhoon Jangmi is forecast to bring heavy rain to western and eastern Japan along the Pacific coast this week, the Japan Meteorological Agency said Sunday, with airlines already cancelling flights." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Typhoon Jangmi is forecast to bring heavy rain to western and eastern Japan along the Pacific coast this week, the Japan Meteorological Agency said Sunday, with airlines already cancelling flights.</p>
       <p class="translation">気象庁は日曜、台風6号ジャンミが今週、太平洋側の西日本と東日本に大雨をもたらす見込みだと発表した。航空会社はすでに便の欠航を始めている。</p>
@@ -60,41 +70,41 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Typhoon Jangmi</td><td class='chunk-role'>主語</td><td>台風ジャンミが</td><td>台風名は固有名詞として大文字。日本語では「台風○号」と番号で呼ぶことも多い。</td></tr><tr><td class='chunk-en'>is forecast to bring heavy rain</td><td class='chunk-role'>述語（見通し）</td><td>大雨をもたらすと予報されている</td><td>forecast は名詞・動詞どちらも使える。be forecast to は気象・経済ニュースで頻出。</td></tr><tr><td class='chunk-en'>to western and eastern Japan along the Pacific coast</td><td class='chunk-role'>場所の補語</td><td>太平洋側の西日本・東日本に</td><td>along the Pacific coast は「太平洋側に沿って」。地理の範囲を示す前置詞句。</td></tr><tr><td class='chunk-en'>this week</td><td class='chunk-role'>時を表す副詞句</td><td>今週</td><td>予報の時間枠を簡潔に示す。</td></tr><tr><td class='chunk-en'>the Japan Meteorological Agency said Sunday</td><td class='chunk-role'>引用・出典の挿入句</td><td>気象庁は日曜に述べた</td><td>英語ニュースでは発表元を文中・文末に置く。日本語は冒頭に置くことが多い。</td></tr><tr><td class='chunk-en'>with airlines already cancelling flights</td><td class='chunk-role'>付帯状況（with + 分詞）</td><td>航空会社がすでに欠航しているという状況で</td><td>with + O + V-ing で背景情報を添える。already は「すでに」という先行事象を強調。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Typhoon Jangmi<button type="button" class="speak-btn speak-btn--inline" data-text="Typhoon Jangmi" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>台風ジャンミが</td><td>台風名は固有名詞として大文字。日本語では「台風○号」と番号で呼ぶことも多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>is forecast to bring heavy rain<button type="button" class="speak-btn speak-btn--inline" data-text="is forecast to bring heavy rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（見通し）</td><td>大雨をもたらすと予報されている</td><td>forecast は名詞・動詞どちらも使える。be forecast to は気象・経済ニュースで頻出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to western and eastern Japan along the Pacific coast<button type="button" class="speak-btn speak-btn--inline" data-text="to western and eastern Japan along the Pacific coast" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の補語</td><td>太平洋側の西日本・東日本に</td><td>along the Pacific coast は「太平洋側に沿って」。地理の範囲を示す前置詞句。</td></tr><tr><td class='chunk-en'><span class='speak-line'>this week<button type="button" class="speak-btn speak-btn--inline" data-text="this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>今週</td><td>予報の時間枠を簡潔に示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the Japan Meteorological Agency said Sunday<button type="button" class="speak-btn speak-btn--inline" data-text="the Japan Meteorological Agency said Sunday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用・出典の挿入句</td><td>気象庁は日曜に述べた</td><td>英語ニュースでは発表元を文中・文末に置く。日本語は冒頭に置くことが多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with airlines already cancelling flights<button type="button" class="speak-btn speak-btn--inline" data-text="with airlines already cancelling flights" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況（with + 分詞）</td><td>航空会社がすでに欠航しているという状況で</td><td>with + O + V-ing で背景情報を添える。already は「すでに」という先行事象を強調。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Typhoon Jangmi</div>
+              <div class="chunk-en speak-line">Typhoon Jangmi<button type="button" class="speak-btn speak-btn--inline" data-text="Typhoon Jangmi" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 台風ジャンミが</div>
               <div>台風名は固有名詞として大文字。日本語では「台風○号」と番号で呼ぶことも多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">is forecast to bring heavy rain</div>
+              <div class="chunk-en speak-line">is forecast to bring heavy rain<button type="button" class="speak-btn speak-btn--inline" data-text="is forecast to bring heavy rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（見通し） · 大雨をもたらすと予報されている</div>
               <div>forecast は名詞・動詞どちらも使える。be forecast to は気象・経済ニュースで頻出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to western and eastern Japan along the Pacific coast</div>
+              <div class="chunk-en speak-line">to western and eastern Japan along the Pacific coast<button type="button" class="speak-btn speak-btn--inline" data-text="to western and eastern Japan along the Pacific coast" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の補語 · 太平洋側の西日本・東日本に</div>
               <div>along the Pacific coast は「太平洋側に沿って」。地理の範囲を示す前置詞句。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">this week</div>
+              <div class="chunk-en speak-line">this week<button type="button" class="speak-btn speak-btn--inline" data-text="this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 今週</div>
               <div>予報の時間枠を簡潔に示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the Japan Meteorological Agency said Sunday</div>
+              <div class="chunk-en speak-line">the Japan Meteorological Agency said Sunday<button type="button" class="speak-btn speak-btn--inline" data-text="the Japan Meteorological Agency said Sunday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用・出典の挿入句 · 気象庁は日曜に述べた</div>
               <div>英語ニュースでは発表元を文中・文末に置く。日本語は冒頭に置くことが多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with airlines already cancelling flights</div>
+              <div class="chunk-en speak-line">with airlines already cancelling flights<button type="button" class="speak-btn speak-btn--inline" data-text="with airlines already cancelling flights" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況（with + 分詞） · 航空会社がすでに欠航しているという状況で</div>
               <div>with + O + V-ing で背景情報を添える。already は「すでに」という先行事象を強調。</div>
             </div>
@@ -107,8 +117,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The agency said warning-level heavy rain may fall from the southwestern island of Kyushu to the Kanto region, which includes Tokyo, along the Pacific coast through Wednesday."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The agency said warning-level heavy rain may fall from the southwestern island of Kyushu to the Kanto region, which includes Tokyo, along the Pacific coast through Wednesday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The agency said warning-level heavy rain may fall from the southwestern island of Kyushu to the Kanto region, which includes Tokyo, along the Pacific coast through Wednesday.</p>
       <p class="translation">同庁は、水曜までの間、太平洋側で九州の南西から東京を含む関東地方にかけて、警報級の大雨が降る可能性があると述べた。</p>
@@ -121,41 +130,41 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The agency said</td><td class='chunk-role'>主節</td><td>同庁は述べた</td><td>前の文の Japan Meteorological Agency を the agency で受ける。</td></tr><tr><td class='chunk-en'>warning-level heavy rain</td><td class='chunk-role'>主語（that節内）</td><td>警報級の大雨が</td><td>level を形容詞化した複合語。日本の気象用語「警報級」を英語で表現。</td></tr><tr><td class='chunk-en'>may fall</td><td class='chunk-role'>述語</td><td>降る可能性がある</td><td>may は推量・可能性。気象予報では will より控えめな may が好まれることがある。</td></tr><tr><td class='chunk-en'>from the southwestern island of Kyushu to the Kanto region</td><td class='chunk-role'>範囲を表す前置詞句</td><td>九州の南西の島から関東地方まで</td><td>from A to B で地理的範囲。the southwestern island of Kyushu は九州南端のニュアンス。</td></tr><tr><td class='chunk-en'>which includes Tokyo</td><td class='chunk-role'>関係詞節（補足）</td><td>東京を含む</td><td>カンマ + which は追加情報。日本の読者向けに関東＝東京圏と補足している。</td></tr><tr><td class='chunk-en'>along the Pacific coast through Wednesday</td><td class='chunk-role'>場所・期間の修飾</td><td>太平洋側で水曜まで</td><td>through + 曜日は「その日を含めてまで」。until より inclusive な含意。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The agency said<button type="button" class="speak-btn speak-btn--inline" data-text="The agency said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>同庁は述べた</td><td>前の文の Japan Meteorological Agency を the agency で受ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>warning-level heavy rain<button type="button" class="speak-btn speak-btn--inline" data-text="warning-level heavy rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（that節内）</td><td>警報級の大雨が</td><td>level を形容詞化した複合語。日本の気象用語「警報級」を英語で表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>may fall<button type="button" class="speak-btn speak-btn--inline" data-text="may fall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>降る可能性がある</td><td>may は推量・可能性。気象予報では will より控えめな may が好まれることがある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>from the southwestern island of Kyushu to the Kanto region<button type="button" class="speak-btn speak-btn--inline" data-text="from the southwestern island of Kyushu to the Kanto region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>範囲を表す前置詞句</td><td>九州の南西の島から関東地方まで</td><td>from A to B で地理的範囲。the southwestern island of Kyushu は九州南端のニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>which includes Tokyo<button type="button" class="speak-btn speak-btn--inline" data-text="which includes Tokyo" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係詞節（補足）</td><td>東京を含む</td><td>カンマ + which は追加情報。日本の読者向けに関東＝東京圏と補足している。</td></tr><tr><td class='chunk-en'><span class='speak-line'>along the Pacific coast through Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="along the Pacific coast through Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所・期間の修飾</td><td>太平洋側で水曜まで</td><td>through + 曜日は「その日を含めてまで」。until より inclusive な含意。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The agency said</div>
+              <div class="chunk-en speak-line">The agency said<button type="button" class="speak-btn speak-btn--inline" data-text="The agency said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 同庁は述べた</div>
               <div>前の文の Japan Meteorological Agency を the agency で受ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">warning-level heavy rain</div>
+              <div class="chunk-en speak-line">warning-level heavy rain<button type="button" class="speak-btn speak-btn--inline" data-text="warning-level heavy rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（that節内） · 警報級の大雨が</div>
               <div>level を形容詞化した複合語。日本の気象用語「警報級」を英語で表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">may fall</div>
+              <div class="chunk-en speak-line">may fall<button type="button" class="speak-btn speak-btn--inline" data-text="may fall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 降る可能性がある</div>
               <div>may は推量・可能性。気象予報では will より控えめな may が好まれることがある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">from the southwestern island of Kyushu to the Kanto region</div>
+              <div class="chunk-en speak-line">from the southwestern island of Kyushu to the Kanto region<button type="button" class="speak-btn speak-btn--inline" data-text="from the southwestern island of Kyushu to the Kanto region" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">範囲を表す前置詞句 · 九州の南西の島から関東地方まで</div>
               <div>from A to B で地理的範囲。the southwestern island of Kyushu は九州南端のニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">which includes Tokyo</div>
+              <div class="chunk-en speak-line">which includes Tokyo<button type="button" class="speak-btn speak-btn--inline" data-text="which includes Tokyo" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係詞節（補足） · 東京を含む</div>
               <div>カンマ + which は追加情報。日本の読者向けに関東＝東京圏と補足している。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">along the Pacific coast through Wednesday</div>
+              <div class="chunk-en speak-line">along the Pacific coast through Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="along the Pacific coast through Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所・期間の修飾 · 太平洋側で水曜まで</div>
               <div>through + 曜日は「その日を含めてまで」。until より inclusive な含意。</div>
             </div>
@@ -168,8 +177,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="It also urged caution for violent winds, storm surges, landslides and flooded rivers."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="It also urged caution for violent winds, storm surges, landslides and flooded rivers." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">It also urged caution for violent winds, storm surges, landslides and flooded rivers.</p>
       <p class="translation">同庁はまた、猛烈な風、高潮、土砂災害、河川の増水にも警戒するよう呼びかけた。</p>
@@ -182,17 +190,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It also urged caution</td><td class='chunk-role'>主節</td><td>それもまた警戒を呼びかけた</td><td>urge は公的機関の呼びかけに多い。ask より強いが order ほど強くない。</td></tr><tr><td class='chunk-en'>for violent winds, storm surges, landslides and flooded rivers</td><td class='chunk-role'>対象（for の補語）</td><td>猛烈な風、高潮、土砂災害、増水した河川に対して</td><td>storm surge は「高潮」。flooded rivers は「河川の増水・氾濫」ではなく増水した状態を指す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It also urged caution<button type="button" class="speak-btn speak-btn--inline" data-text="It also urged caution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>それもまた警戒を呼びかけた</td><td>urge は公的機関の呼びかけに多い。ask より強いが order ほど強くない。</td></tr><tr><td class='chunk-en'><span class='speak-line'>for violent winds, storm surges, landslides and flooded rivers<button type="button" class="speak-btn speak-btn--inline" data-text="for violent winds, storm surges, landslides and flooded rivers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>対象（for の補語）</td><td>猛烈な風、高潮、土砂災害、増水した河川に対して</td><td>storm surge は「高潮」。flooded rivers は「河川の増水・氾濫」ではなく増水した状態を指す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It also urged caution</div>
+              <div class="chunk-en speak-line">It also urged caution<button type="button" class="speak-btn speak-btn--inline" data-text="It also urged caution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · それもまた警戒を呼びかけた</div>
               <div>urge は公的機関の呼びかけに多い。ask より強いが order ほど強くない。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for violent winds, storm surges, landslides and flooded rivers</div>
+              <div class="chunk-en speak-line">for violent winds, storm surges, landslides and flooded rivers<button type="button" class="speak-btn speak-btn--inline" data-text="for violent winds, storm surges, landslides and flooded rivers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">対象（for の補語） · 猛烈な風、高潮、土砂災害、増水した河川に対して</div>
               <div>storm surge は「高潮」。flooded rivers は「河川の増水・氾濫」ではなく増水した状態を指す。</div>
             </div>
@@ -205,8 +213,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The typhoon, the sixth of the season, is expected to approach the southern island of Okinawa and the Amami Islands on Monday and Tuesday, before it is set to shift course eastward and travel to western and eastern Japan on Wednesday, weakening slightly, the agency said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The typhoon, the sixth of the season, is expected to approach the southern island of Okinawa and the Amami Islands on Monday and Tuesday, before it is set to shift course eastward and travel to western and eastern Japan on Wednesday, weakening slightly, the agency said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The typhoon, the sixth of the season, is expected to approach the southern island of Okinawa and the Amami Islands on Monday and Tuesday, before it is set to shift course eastward and travel to western and eastern Japan on Wednesday, weakening slightly, the agency said.</p>
       <p class="translation">第6号とされる台風は、月・火曜に沖縄本島南部と奄美諸島に接近する見込みで、その後進路を東に変えて水曜に西日本・東日本へ進み、やや勢力を弱めながら移動すると、同庁は述べた。</p>
@@ -219,41 +226,41 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The typhoon, the sixth of the season,</td><td class='chunk-role'>主語（同格語付き）</td><td>今シーズン6号目の台風は</td><td>カンマで挟んだ同格が番号情報。日本では「台風6号」と呼ぶ。</td></tr><tr><td class='chunk-en'>is expected to approach the southern island of Okinawa and the Amami Islands</td><td class='chunk-role'>述語（第1段階）</td><td>沖縄の南の島と奄美諸島に接近すると見込まれる</td><td>approach は「接近する」、hit より手前の段階。</td></tr><tr><td class='chunk-en'>on Monday and Tuesday</td><td class='chunk-role'>時を表す副詞句</td><td>月曜と火曜に</td><td>曜日は on を使う。</td></tr><tr><td class='chunk-en'>before it is set to shift course eastward and travel to western and eastern Japan</td><td class='chunk-role'>時系列の従属節</td><td>それが進路を東へ変え西日本・東日本へ進む予定になる前に／その後</td><td>before はここでは「その前に」より「その後まず…してから」の流れで次行動へ。be set to は予定・見込みが固まったニュアンス。</td></tr><tr><td class='chunk-en'>on Wednesday, weakening slightly</td><td class='chunk-role'>時・付帯状況</td><td>水曜に、やや弱まりながら</td><td>分詞構文で台風本体の付随動作。slightly は勢力低下の程度が小さいことを示す。</td></tr><tr><td class='chunk-en'>the agency said</td><td class='chunk-role'>引用句</td><td>気象庁は述べた</td><td>長文の末尾に発表元を置く典型構造。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The typhoon, the sixth of the season,<button type="button" class="speak-btn speak-btn--inline" data-text="The typhoon, the sixth of the season," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（同格語付き）</td><td>今シーズン6号目の台風は</td><td>カンマで挟んだ同格が番号情報。日本では「台風6号」と呼ぶ。</td></tr><tr><td class='chunk-en'><span class='speak-line'>is expected to approach the southern island of Okinawa and the Amami Islands<button type="button" class="speak-btn speak-btn--inline" data-text="is expected to approach the southern island of Okinawa and the Amami Islands" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（第1段階）</td><td>沖縄の南の島と奄美諸島に接近すると見込まれる</td><td>approach は「接近する」、hit より手前の段階。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on Monday and Tuesday<button type="button" class="speak-btn speak-btn--inline" data-text="on Monday and Tuesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>月曜と火曜に</td><td>曜日は on を使う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>before it is set to shift course eastward and travel to western and eastern Japan<button type="button" class="speak-btn speak-btn--inline" data-text="before it is set to shift course eastward and travel to western and eastern Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時系列の従属節</td><td>それが進路を東へ変え西日本・東日本へ進む予定になる前に／その後</td><td>before はここでは「その前に」より「その後まず…してから」の流れで次行動へ。be set to は予定・見込みが固まったニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on Wednesday, weakening slightly<button type="button" class="speak-btn speak-btn--inline" data-text="on Wednesday, weakening slightly" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・付帯状況</td><td>水曜に、やや弱まりながら</td><td>分詞構文で台風本体の付随動作。slightly は勢力低下の程度が小さいことを示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the agency said<button type="button" class="speak-btn speak-btn--inline" data-text="the agency said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用句</td><td>気象庁は述べた</td><td>長文の末尾に発表元を置く典型構造。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The typhoon, the sixth of the season,</div>
+              <div class="chunk-en speak-line">The typhoon, the sixth of the season,<button type="button" class="speak-btn speak-btn--inline" data-text="The typhoon, the sixth of the season," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（同格語付き） · 今シーズン6号目の台風は</div>
               <div>カンマで挟んだ同格が番号情報。日本では「台風6号」と呼ぶ。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">is expected to approach the southern island of Okinawa and the Amami Islands</div>
+              <div class="chunk-en speak-line">is expected to approach the southern island of Okinawa and the Amami Islands<button type="button" class="speak-btn speak-btn--inline" data-text="is expected to approach the southern island of Okinawa and the Amami Islands" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（第1段階） · 沖縄の南の島と奄美諸島に接近すると見込まれる</div>
               <div>approach は「接近する」、hit より手前の段階。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on Monday and Tuesday</div>
+              <div class="chunk-en speak-line">on Monday and Tuesday<button type="button" class="speak-btn speak-btn--inline" data-text="on Monday and Tuesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 月曜と火曜に</div>
               <div>曜日は on を使う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">before it is set to shift course eastward and travel to western and eastern Japan</div>
+              <div class="chunk-en speak-line">before it is set to shift course eastward and travel to western and eastern Japan<button type="button" class="speak-btn speak-btn--inline" data-text="before it is set to shift course eastward and travel to western and eastern Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時系列の従属節 · それが進路を東へ変え西日本・東日本へ進む予定になる前に／その後</div>
               <div>before はここでは「その前に」より「その後まず…してから」の流れで次行動へ。be set to は予定・見込みが固まったニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on Wednesday, weakening slightly</div>
+              <div class="chunk-en speak-line">on Wednesday, weakening slightly<button type="button" class="speak-btn speak-btn--inline" data-text="on Wednesday, weakening slightly" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・付帯状況 · 水曜に、やや弱まりながら</div>
               <div>分詞構文で台風本体の付随動作。slightly は勢力低下の程度が小さいことを示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the agency said</div>
+              <div class="chunk-en speak-line">the agency said<button type="button" class="speak-btn speak-btn--inline" data-text="the agency said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用句 · 気象庁は述べた</div>
               <div>長文の末尾に発表元を置く典型構造。</div>
             </div>
@@ -266,8 +273,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Due to a front stalled north of the typhoon, rain may fall in some areas even before the typhoon hits."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Due to a front stalled north of the typhoon, rain may fall in some areas even before the typhoon hits." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Due to a front stalled north of the typhoon, rain may fall in some areas even before the typhoon hits.</p>
       <p class="translation">台風の北で停滞している前線の影響で、台風が直撃する前から一部の地域で雨が降る可能性がある。</p>
@@ -280,23 +286,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Due to a front stalled north of the typhoon</td><td class='chunk-role'>原因（前置詞句）</td><td>台風の北で停滞している前線のために</td><td>front は気象用語の「前線」。stalled north of は北側で動かない状態。</td></tr><tr><td class='chunk-en'>rain may fall in some areas</td><td class='chunk-role'>主節</td><td>一部の地域で雨が降るかもしれない</td><td>may fall で可能性。some areas は特定せず広く。</td></tr><tr><td class='chunk-en'>even before the typhoon hits</td><td class='chunk-role'>時の従属節</td><td>台風が襲うより前にさえ</td><td>even は意外性・早さの強調。hit は台風・嵐の「直撃」に使う動詞。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Due to a front stalled north of the typhoon<button type="button" class="speak-btn speak-btn--inline" data-text="Due to a front stalled north of the typhoon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>原因（前置詞句）</td><td>台風の北で停滞している前線のために</td><td>front は気象用語の「前線」。stalled north of は北側で動かない状態。</td></tr><tr><td class='chunk-en'><span class='speak-line'>rain may fall in some areas<button type="button" class="speak-btn speak-btn--inline" data-text="rain may fall in some areas" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>一部の地域で雨が降るかもしれない</td><td>may fall で可能性。some areas は特定せず広く。</td></tr><tr><td class='chunk-en'><span class='speak-line'>even before the typhoon hits<button type="button" class="speak-btn speak-btn--inline" data-text="even before the typhoon hits" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の従属節</td><td>台風が襲うより前にさえ</td><td>even は意外性・早さの強調。hit は台風・嵐の「直撃」に使う動詞。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Due to a front stalled north of the typhoon</div>
+              <div class="chunk-en speak-line">Due to a front stalled north of the typhoon<button type="button" class="speak-btn speak-btn--inline" data-text="Due to a front stalled north of the typhoon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">原因（前置詞句） · 台風の北で停滞している前線のために</div>
               <div>front は気象用語の「前線」。stalled north of は北側で動かない状態。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">rain may fall in some areas</div>
+              <div class="chunk-en speak-line">rain may fall in some areas<button type="button" class="speak-btn speak-btn--inline" data-text="rain may fall in some areas" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 一部の地域で雨が降るかもしれない</div>
               <div>may fall で可能性。some areas は特定せず広く。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">even before the typhoon hits</div>
+              <div class="chunk-en speak-line">even before the typhoon hits<button type="button" class="speak-btn speak-btn--inline" data-text="even before the typhoon hits" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の従属節 · 台風が襲うより前にさえ</div>
               <div>even は意外性・早さの強調。hit は台風・嵐の「直撃」に使う動詞。</div>
             </div>
@@ -309,8 +315,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The agency noted that the duration of rainfall could be prolonged, resulting in high total rainfall."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The agency noted that the duration of rainfall could be prolonged, resulting in high total rainfall." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The agency noted that the duration of rainfall could be prolonged, resulting in high total rainfall.</p>
       <p class="translation">同庁は、降雨が長時間にわたる可能性があり、結果として総雨量が多くなる恐れがあると指摘した。</p>
@@ -323,23 +328,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The agency noted that</td><td class='chunk-role'>主節</td><td>同庁は～と指摘した</td><td>note は said より「分析・着目」を含む動詞。</td></tr><tr><td class='chunk-en'>the duration of rainfall could be prolonged</td><td class='chunk-role'>that 節（内容1）</td><td>降雨の継続時間が長引く可能性がある</td><td>duration は期間。prolong は「延長する」、ここでは受動態。</td></tr><tr><td class='chunk-en'>resulting in high total rainfall</td><td class='chunk-role'>結果を表す分詞構文</td><td>高い総雨量という結果をもたらして</td><td>result in A は「Aという結果になる」。total rainfall は気象の専門語。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The agency noted that<button type="button" class="speak-btn speak-btn--inline" data-text="The agency noted that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>同庁は～と指摘した</td><td>note は said より「分析・着目」を含む動詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the duration of rainfall could be prolonged<button type="button" class="speak-btn speak-btn--inline" data-text="the duration of rainfall could be prolonged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that 節（内容1）</td><td>降雨の継続時間が長引く可能性がある</td><td>duration は期間。prolong は「延長する」、ここでは受動態。</td></tr><tr><td class='chunk-en'><span class='speak-line'>resulting in high total rainfall<button type="button" class="speak-btn speak-btn--inline" data-text="resulting in high total rainfall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>結果を表す分詞構文</td><td>高い総雨量という結果をもたらして</td><td>result in A は「Aという結果になる」。total rainfall は気象の専門語。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The agency noted that</div>
+              <div class="chunk-en speak-line">The agency noted that<button type="button" class="speak-btn speak-btn--inline" data-text="The agency noted that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 同庁は～と指摘した</div>
               <div>note は said より「分析・着目」を含む動詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the duration of rainfall could be prolonged</div>
+              <div class="chunk-en speak-line">the duration of rainfall could be prolonged<button type="button" class="speak-btn speak-btn--inline" data-text="the duration of rainfall could be prolonged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that 節（内容1） · 降雨の継続時間が長引く可能性がある</div>
               <div>duration は期間。prolong は「延長する」、ここでは受動態。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">resulting in high total rainfall</div>
+              <div class="chunk-en speak-line">resulting in high total rainfall<button type="button" class="speak-btn speak-btn--inline" data-text="resulting in high total rainfall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">結果を表す分詞構文 · 高い総雨量という結果をもたらして</div>
               <div>result in A は「Aという結果になる」。total rainfall は気象の専門語。</div>
             </div>
@@ -352,8 +357,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Some areas are expected to see more than 200 to 300 millimeters of rain."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Some areas are expected to see more than 200 to 300 millimeters of rain." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Some areas are expected to see more than 200 to 300 millimeters of rain.</p>
       <p class="translation">一部の地域では、雨量が200〜300ミリリットルを超える見込みだ。</p>
@@ -366,17 +370,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Some areas are expected to see</td><td class='chunk-role'>主節</td><td>一部の地域では～が見込まれる</td><td>see は視覚だけでなく「（値が）出る・達する」にも使う。get や receive より報道で好まれる。</td></tr><tr><td class='chunk-en'>more than 200 to 300 millimeters of rain</td><td class='chunk-role'>目的語</td><td>200から300ミリを超える雨量を</td><td>mm = millimeters。more than A to B は「A〜B程度を上回る」の概ねの幅。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Some areas are expected to see<button type="button" class="speak-btn speak-btn--inline" data-text="Some areas are expected to see" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>一部の地域では～が見込まれる</td><td>see は視覚だけでなく「（値が）出る・達する」にも使う。get や receive より報道で好まれる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>more than 200 to 300 millimeters of rain<button type="button" class="speak-btn speak-btn--inline" data-text="more than 200 to 300 millimeters of rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語</td><td>200から300ミリを超える雨量を</td><td>mm = millimeters。more than A to B は「A〜B程度を上回る」の概ねの幅。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Some areas are expected to see</div>
+              <div class="chunk-en speak-line">Some areas are expected to see<button type="button" class="speak-btn speak-btn--inline" data-text="Some areas are expected to see" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 一部の地域では～が見込まれる</div>
               <div>see は視覚だけでなく「（値が）出る・達する」にも使う。get や receive より報道で好まれる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">more than 200 to 300 millimeters of rain</div>
+              <div class="chunk-en speak-line">more than 200 to 300 millimeters of rain<button type="button" class="speak-btn speak-btn--inline" data-text="more than 200 to 300 millimeters of rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語 · 200から300ミリを超える雨量を</div>
               <div>mm = millimeters。more than A to B は「A〜B程度を上回る」の概ねの幅。</div>
             </div>
@@ -389,8 +393,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japan Airlines and All Nippon Airways have reported a series of cancellations for flights to and from Okinawa."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japan Airlines and All Nippon Airways have reported a series of cancellations for flights to and from Okinawa." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japan Airlines and All Nippon Airways have reported a series of cancellations for flights to and from Okinawa.</p>
       <p class="translation">日本航空と全日本空輸は、沖縄発着便の相次ぐ欠航を発表した。</p>
@@ -403,23 +406,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japan Airlines and All Nippon Airways</td><td class='chunk-role'>主語</td><td>日本航空と全日本空輸は</td><td>略称 JAL / ANA は本文では正式名称。</td></tr><tr><td class='chunk-en'>have reported a series of cancellations</td><td class='chunk-role'>述語・目的語</td><td>相次ぐ欠航を報告した</td><td>a series of は単発ではなく複数回・複数便のニュアンス。</td></tr><tr><td class='chunk-en'>for flights to and from Okinawa</td><td class='chunk-role'>修飾語</td><td>沖縄行き・沖縄発の便について</td><td>to and from は往復・双方向の発着をまとめて表す便利な表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japan Airlines and All Nippon Airways<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Airlines and All Nippon Airways" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本航空と全日本空輸は</td><td>略称 JAL / ANA は本文では正式名称。</td></tr><tr><td class='chunk-en'><span class='speak-line'>have reported a series of cancellations<button type="button" class="speak-btn speak-btn--inline" data-text="have reported a series of cancellations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語・目的語</td><td>相次ぐ欠航を報告した</td><td>a series of は単発ではなく複数回・複数便のニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>for flights to and from Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="for flights to and from Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>修飾語</td><td>沖縄行き・沖縄発の便について</td><td>to and from は往復・双方向の発着をまとめて表す便利な表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japan Airlines and All Nippon Airways</div>
+              <div class="chunk-en speak-line">Japan Airlines and All Nippon Airways<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Airlines and All Nippon Airways" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本航空と全日本空輸は</div>
               <div>略称 JAL / ANA は本文では正式名称。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">have reported a series of cancellations</div>
+              <div class="chunk-en speak-line">have reported a series of cancellations<button type="button" class="speak-btn speak-btn--inline" data-text="have reported a series of cancellations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語・目的語 · 相次ぐ欠航を報告した</div>
               <div>a series of は単発ではなく複数回・複数便のニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for flights to and from Okinawa</div>
+              <div class="chunk-en speak-line">for flights to and from Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="for flights to and from Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">修飾語 · 沖縄行き・沖縄発の便について</div>
               <div>to and from は往復・双方向の発着をまとめて表す便利な表現。</div>
             </div>
@@ -432,8 +435,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The 24-hour rainfall forecast through noon on Monday is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The 24-hour rainfall forecast through noon on Monday is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The 24-hour rainfall forecast through noon on Monday is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu.</p>
       <p class="translation">月曜正午までの24時間予想雨量は、沖縄で100ミリ、奄美と南九州で80ミリだ。</p>
@@ -446,17 +448,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The 24-hour rainfall forecast through noon on Monday</td><td class='chunk-role'>主語</td><td>月曜正午までの24時間の降雨予想</td><td>forecast を名詞として主語化。through noon は期限。</td></tr><tr><td class='chunk-en'>is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu</td><td class='chunk-role'>述語</td><td>沖縄では100ミリ、奄美と南九州では80ミリである</td><td>数値予報は is + 量 + in + 地域 の型が定型。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The 24-hour rainfall forecast through noon on Monday<button type="button" class="speak-btn speak-btn--inline" data-text="The 24-hour rainfall forecast through noon on Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>月曜正午までの24時間の降雨予想</td><td>forecast を名詞として主語化。through noon は期限。</td></tr><tr><td class='chunk-en'><span class='speak-line'>is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu<button type="button" class="speak-btn speak-btn--inline" data-text="is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>沖縄では100ミリ、奄美と南九州では80ミリである</td><td>数値予報は is + 量 + in + 地域 の型が定型。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The 24-hour rainfall forecast through noon on Monday</div>
+              <div class="chunk-en speak-line">The 24-hour rainfall forecast through noon on Monday<button type="button" class="speak-btn speak-btn--inline" data-text="The 24-hour rainfall forecast through noon on Monday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 月曜正午までの24時間の降雨予想</div>
               <div>forecast を名詞として主語化。through noon は期限。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu</div>
+              <div class="chunk-en speak-line">is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu<button type="button" class="speak-btn speak-btn--inline" data-text="is 100 mm in Okinawa and 80 mm in Amami and southern Kyushu" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 沖縄では100ミリ、奄美と南九州では80ミリである</div>
               <div>数値予報は is + 量 + in + 地域 の型が定型。</div>
             </div>
@@ -469,8 +471,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="By noon Tuesday, 300 mm is expected to fall in Okinawa, Amami, and southern Kyushu."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="By noon Tuesday, 300 mm is expected to fall in Okinawa, Amami, and southern Kyushu." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">By noon Tuesday, 300 mm is expected to fall in Okinawa, Amami, and southern Kyushu.</p>
       <p class="translation">火曜正午までに、沖縄・奄美・南九州では300ミリの降雨が予想される。</p>
@@ -483,23 +484,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>By noon Tuesday</td><td class='chunk-role'>時を表す副詞句</td><td>火曜正午までに</td><td>by は「その時点までに」。on を省略する簡潔な曜日表現も報道であり。</td></tr><tr><td class='chunk-en'>300 mm is expected to fall</td><td class='chunk-role'>述語</td><td>300ミリが降ると予想される</td><td>雨量は fall と動詞を組み合わせる。rainfall が主語の文もある。</td></tr><tr><td class='chunk-en'>in Okinawa, Amami, and southern Kyushu</td><td class='chunk-role'>場所の補語</td><td>沖縄、奄美、南九州で</td><td>牛津コンマ（最後の and 前のコンマ）あり。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>By noon Tuesday<button type="button" class="speak-btn speak-btn--inline" data-text="By noon Tuesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>火曜正午までに</td><td>by は「その時点までに」。on を省略する簡潔な曜日表現も報道であり。</td></tr><tr><td class='chunk-en'><span class='speak-line'>300 mm is expected to fall<button type="button" class="speak-btn speak-btn--inline" data-text="300 mm is expected to fall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>300ミリが降ると予想される</td><td>雨量は fall と動詞を組み合わせる。rainfall が主語の文もある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in Okinawa, Amami, and southern Kyushu<button type="button" class="speak-btn speak-btn--inline" data-text="in Okinawa, Amami, and southern Kyushu" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の補語</td><td>沖縄、奄美、南九州で</td><td>牛津コンマ（最後の and 前のコンマ）あり。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">By noon Tuesday</div>
+              <div class="chunk-en speak-line">By noon Tuesday<button type="button" class="speak-btn speak-btn--inline" data-text="By noon Tuesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 火曜正午までに</div>
               <div>by は「その時点までに」。on を省略する簡潔な曜日表現も報道であり。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">300 mm is expected to fall</div>
+              <div class="chunk-en speak-line">300 mm is expected to fall<button type="button" class="speak-btn speak-btn--inline" data-text="300 mm is expected to fall" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 300ミリが降ると予想される</div>
               <div>雨量は fall と動詞を組み合わせる。rainfall が主語の文もある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in Okinawa, Amami, and southern Kyushu</div>
+              <div class="chunk-en speak-line">in Okinawa, Amami, and southern Kyushu<button type="button" class="speak-btn speak-btn--inline" data-text="in Okinawa, Amami, and southern Kyushu" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の補語 · 沖縄、奄美、南九州で</div>
               <div>牛津コンマ（最後の and 前のコンマ）あり。</div>
             </div>
@@ -512,8 +513,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="By noon Wednesday, 300 mm is expected to fall in Shikoku and the Kansai region of western Japan, and 200 mm in regions such as Tokai in central Japan and Kanto."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="By noon Wednesday, 300 mm is expected to fall in Shikoku and the Kansai region of western Japan, and 200 mm in regions such as Tokai in central Japan and Kanto." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">By noon Wednesday, 300 mm is expected to fall in Shikoku and the Kansai region of western Japan, and 200 mm in regions such as Tokai in central Japan and Kanto.</p>
       <p class="translation">水曜正午までに、四国と西日本の関西では300ミリ、中部の東海や関東などの地域では200ミリの降雨が予想される。</p>
@@ -526,23 +526,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>By noon Wednesday</td><td class='chunk-role'>時を表す副詞句</td><td>水曜正午までに</td><td>前の文と同型で時系列を積み上げる。</td></tr><tr><td class='chunk-en'>300 mm is expected to fall in Shikoku and the Kansai region of western Japan</td><td class='chunk-role'>述語（第1地域群）</td><td>四国と西日本の関西で300ミリが降る見込み</td><td>the Kansai region of western Japan で関西＝西日本の一部と明示。</td></tr><tr><td class='chunk-en'>and 200 mm in regions such as Tokai in central Japan and Kanto</td><td class='chunk-role'>述語（第2地域群・省略構文）</td><td>そして中部日本の東海や関東などの地域で200ミリ</td><td>is expected to fall が省略され、200 mm から始まる並列。such as は「など」を含む例示。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>By noon Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="By noon Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>水曜正午までに</td><td>前の文と同型で時系列を積み上げる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>300 mm is expected to fall in Shikoku and the Kansai region of western Japan<button type="button" class="speak-btn speak-btn--inline" data-text="300 mm is expected to fall in Shikoku and the Kansai region of western Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（第1地域群）</td><td>四国と西日本の関西で300ミリが降る見込み</td><td>the Kansai region of western Japan で関西＝西日本の一部と明示。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and 200 mm in regions such as Tokai in central Japan and Kanto<button type="button" class="speak-btn speak-btn--inline" data-text="and 200 mm in regions such as Tokai in central Japan and Kanto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（第2地域群・省略構文）</td><td>そして中部日本の東海や関東などの地域で200ミリ</td><td>is expected to fall が省略され、200 mm から始まる並列。such as は「など」を含む例示。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">By noon Wednesday</div>
+              <div class="chunk-en speak-line">By noon Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="By noon Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 水曜正午までに</div>
               <div>前の文と同型で時系列を積み上げる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">300 mm is expected to fall in Shikoku and the Kansai region of western Japan</div>
+              <div class="chunk-en speak-line">300 mm is expected to fall in Shikoku and the Kansai region of western Japan<button type="button" class="speak-btn speak-btn--inline" data-text="300 mm is expected to fall in Shikoku and the Kansai region of western Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（第1地域群） · 四国と西日本の関西で300ミリが降る見込み</div>
               <div>the Kansai region of western Japan で関西＝西日本の一部と明示。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and 200 mm in regions such as Tokai in central Japan and Kanto</div>
+              <div class="chunk-en speak-line">and 200 mm in regions such as Tokai in central Japan and Kanto<button type="button" class="speak-btn speak-btn--inline" data-text="and 200 mm in regions such as Tokai in central Japan and Kanto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（第2地域群・省略構文） · そして中部日本の東海や関東などの地域で200ミリ</div>
               <div>is expected to fall が省略され、200 mm から始まる並列。such as は「など」を含む例示。</div>
             </div>
@@ -555,8 +555,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="As of Sunday night, the typhoon was moving north at 20 kilometers per hour south of Okinawa."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="As of Sunday night, the typhoon was moving north at 20 kilometers per hour south of Okinawa." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">As of Sunday night, the typhoon was moving north at 20 kilometers per hour south of Okinawa.</p>
       <p class="translation">日曜夜時点で、台風は沖縄の南を時速20キロで北へ進んでいた。</p>
@@ -569,29 +568,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>As of Sunday night</td><td class='chunk-role'>時点の副詞句</td><td>日曜夜時点で</td><td>as of は「～時点のところ」。株価・気象のスナップショットに多い。</td></tr><tr><td class='chunk-en'>the typhoon was moving north</td><td class='chunk-role'>主節</td><td>台風は北へ移動していた</td><td>move north の north は副詞。was moving はその瞬間の進行。</td></tr><tr><td class='chunk-en'>at 20 kilometers per hour</td><td class='chunk-role'>速度の副詞句</td><td>時速20キロで</td><td>per hour で単位。kph は kilometers per hour の略。</td></tr><tr><td class='chunk-en'>south of Okinawa</td><td class='chunk-role'>場所の副詞句</td><td>沖縄の南で</td><td>of Okinawa で沖縄を基準にした相対位置。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>As of Sunday night<button type="button" class="speak-btn speak-btn--inline" data-text="As of Sunday night" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時点の副詞句</td><td>日曜夜時点で</td><td>as of は「～時点のところ」。株価・気象のスナップショットに多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the typhoon was moving north<button type="button" class="speak-btn speak-btn--inline" data-text="the typhoon was moving north" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>台風は北へ移動していた</td><td>move north の north は副詞。was moving はその瞬間の進行。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at 20 kilometers per hour<button type="button" class="speak-btn speak-btn--inline" data-text="at 20 kilometers per hour" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>速度の副詞句</td><td>時速20キロで</td><td>per hour で単位。kph は kilometers per hour の略。</td></tr><tr><td class='chunk-en'><span class='speak-line'>south of Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="south of Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の副詞句</td><td>沖縄の南で</td><td>of Okinawa で沖縄を基準にした相対位置。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">As of Sunday night</div>
+              <div class="chunk-en speak-line">As of Sunday night<button type="button" class="speak-btn speak-btn--inline" data-text="As of Sunday night" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時点の副詞句 · 日曜夜時点で</div>
               <div>as of は「～時点のところ」。株価・気象のスナップショットに多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the typhoon was moving north</div>
+              <div class="chunk-en speak-line">the typhoon was moving north<button type="button" class="speak-btn speak-btn--inline" data-text="the typhoon was moving north" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 台風は北へ移動していた</div>
               <div>move north の north は副詞。was moving はその瞬間の進行。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at 20 kilometers per hour</div>
+              <div class="chunk-en speak-line">at 20 kilometers per hour<button type="button" class="speak-btn speak-btn--inline" data-text="at 20 kilometers per hour" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">速度の副詞句 · 時速20キロで</div>
               <div>per hour で単位。kph は kilometers per hour の略。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">south of Okinawa</div>
+              <div class="chunk-en speak-line">south of Okinawa<button type="button" class="speak-btn speak-btn--inline" data-text="south of Okinawa" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の副詞句 · 沖縄の南で</div>
               <div>of Okinawa で沖縄を基準にした相対位置。</div>
             </div>
@@ -604,8 +603,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Its central pressure was 975 hectopascals, with a maximum wind speed of 108 kph and a maximum instantaneous wind speed of 162 kph."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Its central pressure was 975 hectopascals, with a maximum wind speed of 108 kph and a maximum instantaneous wind speed of 162 kph." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Its central pressure was 975 hectopascals, with a maximum wind speed of 108 kph and a maximum instantaneous wind speed of 162 kph.</p>
       <p class="translation">中心気圧は975ヘクトパスカルで、最大風速は時速108キロ、最大瞬間風速は時速162キロだった。</p>
@@ -618,23 +616,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Its central pressure was 975 hectopascals</td><td class='chunk-role'>主節</td><td>その中心気圧は975ヘクトパスカルだった</td><td>central pressure は台風の強さの基本指標。hectopascals (hPa)。</td></tr><tr><td class='chunk-en'>with a maximum wind speed of 108 kph</td><td class='chunk-role'>付加情報</td><td>最大風速108キロとともに</td><td>with で付帯データを追加する簡潔な列挙法。</td></tr><tr><td class='chunk-en'>and a maximum instantaneous wind speed of 162 kph</td><td class='chunk-role'>付加情報（並列）</td><td>そして最大瞬間風速162キロ</td><td>instantaneous は「瞬間の」。突風のピークを示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Its central pressure was 975 hectopascals<button type="button" class="speak-btn speak-btn--inline" data-text="Its central pressure was 975 hectopascals" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>その中心気圧は975ヘクトパスカルだった</td><td>central pressure は台風の強さの基本指標。hectopascals (hPa)。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with a maximum wind speed of 108 kph<button type="button" class="speak-btn speak-btn--inline" data-text="with a maximum wind speed of 108 kph" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報</td><td>最大風速108キロとともに</td><td>with で付帯データを追加する簡潔な列挙法。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and a maximum instantaneous wind speed of 162 kph<button type="button" class="speak-btn speak-btn--inline" data-text="and a maximum instantaneous wind speed of 162 kph" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（並列）</td><td>そして最大瞬間風速162キロ</td><td>instantaneous は「瞬間の」。突風のピークを示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Its central pressure was 975 hectopascals</div>
+              <div class="chunk-en speak-line">Its central pressure was 975 hectopascals<button type="button" class="speak-btn speak-btn--inline" data-text="Its central pressure was 975 hectopascals" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · その中心気圧は975ヘクトパスカルだった</div>
               <div>central pressure は台風の強さの基本指標。hectopascals (hPa)。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with a maximum wind speed of 108 kph</div>
+              <div class="chunk-en speak-line">with a maximum wind speed of 108 kph<button type="button" class="speak-btn speak-btn--inline" data-text="with a maximum wind speed of 108 kph" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報 · 最大風速108キロとともに</div>
               <div>with で付帯データを追加する簡潔な列挙法。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and a maximum instantaneous wind speed of 162 kph</div>
+              <div class="chunk-en speak-line">and a maximum instantaneous wind speed of 162 kph<button type="button" class="speak-btn speak-btn--inline" data-text="and a maximum instantaneous wind speed of 162 kph" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（並列） · そして最大瞬間風速162キロ</div>
               <div>instantaneous は「瞬間の」。突風のピークを示す。</div>
             </div>
@@ -647,134 +645,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>forecast</h3>
-                <button type="button" class="speak-btn" data-text="forecast"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="forecast" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈfɔːrkæst/</div>
               <p>予報する、見通し</p>
-              <p class="example-en"><em>Typhoon Jangmi is forecast to bring heavy rain.</em></p>
+              <p class="example-en speak-line"><em>Typhoon Jangmi is forecast to bring heavy rain.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Typhoon Jangmi is forecast to bring heavy rain." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">台風ジャンミは大雨をもたらすと予報されている。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>warning-level</h3>
-                <button type="button" class="speak-btn" data-text="warning-level"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="warning-level" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈwɔːrnɪŋ ˌlevəl/</div>
               <p>警報級の</p>
-              <p class="example-en"><em>Warning-level heavy rain may fall along the Pacific coast.</em></p>
+              <p class="example-en speak-line"><em>Warning-level heavy rain may fall along the Pacific coast.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Warning-level heavy rain may fall along the Pacific coast." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">太平洋側で警報級の大雨が降る可能性がある。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>storm surge</h3>
-                <button type="button" class="speak-btn" data-text="storm surge"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="storm surge" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/stɔːrm sɜːrdʒ/</div>
               <p>高潮（台風・暴風で海水が押し上げる現象）</p>
-              <p class="example-en"><em>The agency urged caution for storm surges.</em></p>
+              <p class="example-en speak-line"><em>The agency urged caution for storm surges.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The agency urged caution for storm surges." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">気象庁は高潮に警戒するよう呼びかけた。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>shift course</h3>
-                <button type="button" class="speak-btn" data-text="shift course"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="shift course" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ʃɪft kɔːrs/</div>
               <p>進路を変える</p>
-              <p class="example-en"><em>The typhoon is set to shift course eastward.</em></p>
+              <p class="example-en speak-line"><em>The typhoon is set to shift course eastward.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The typhoon is set to shift course eastward." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">台風は進路を東に変える見込みだ。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>stalled</h3>
-                <button type="button" class="speak-btn" data-text="stalled"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="stalled" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/stɔːld/</div>
               <p>停滞した、動かなくなった</p>
-              <p class="example-en"><em>Due to a front stalled north of the typhoon.</em></p>
+              <p class="example-en speak-line"><em>Due to a front stalled north of the typhoon.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Due to a front stalled north of the typhoon." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">台風の北で停滞している前線のために。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>prolonged</h3>
-                <button type="button" class="speak-btn" data-text="prolonged"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="prolonged" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/prəˈlɔːŋd/</div>
               <p>長期にわたる、長引いた</p>
-              <p class="example-en"><em>The duration of rainfall could be prolonged.</em></p>
+              <p class="example-en speak-line"><em>The duration of rainfall could be prolonged.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The duration of rainfall could be prolonged." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">降雨が長時間にわたる可能性がある。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>cancellation</h3>
-                <button type="button" class="speak-btn" data-text="cancellation"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="cancellation" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˌkænsəˈleɪʃən/</div>
               <p>欠航、中止、キャンセル</p>
-              <p class="example-en"><em>Airlines reported a series of cancellations for flights.</em></p>
+              <p class="example-en speak-line"><em>Airlines reported a series of cancellations for flights.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Airlines reported a series of cancellations for flights." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">航空会社は便の相次ぐ欠航を発表した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>central pressure</h3>
-                <button type="button" class="speak-btn" data-text="central pressure"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="central pressure" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈsentrəl ˈpreʃər/</div>
               <p>中心気圧（台風の強さの指標）</p>
-              <p class="example-en"><em>Its central pressure was 975 hectopascals.</em></p>
+              <p class="example-en speak-line"><em>Its central pressure was 975 hectopascals.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Its central pressure was 975 hectopascals." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">中心気圧は975ヘクトパスカルだった。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>be forecast / be expected to + 動詞</h3>
-              <p>Use passive + to-infinitive to report forecasts and expectations in news.</p>
-              <p class="example-en"><em>The typhoon is expected to approach Okinawa on Monday.</em></p>
+              <div class="grammar-head">
+                <h3>be forecast / be expected to + 動詞</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="be forecast / be expected to + 動詞" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use passive + to-infinitive to report forecasts and expectations in news.<button type="button" class="speak-btn speak-btn--inline" data-text="Use passive + to-infinitive to report forecasts and expectations in news." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The typhoon is expected to approach Okinawa on Monday.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The typhoon is expected to approach Okinawa on Monday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>予報・見通しを客観的に伝える定型。forecast は気象、expected はより一般的。日本語の「～見込みだ」「～と予報されている」に対応。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>with + 名詞 + 現在分詞</h3>
-              <p>Adds background or accompanying circumstances to the main clause.</p>
-              <p class="example-en"><em>..., with airlines already cancelling flights.</em></p>
+              <div class="grammar-head">
+                <h3>with + 名詞 + 現在分詞</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="with + 名詞 + 現在分詞" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Adds background or accompanying circumstances to the main clause.<button type="button" class="speak-btn speak-btn--inline" data-text="Adds background or accompanying circumstances to the main clause." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>..., with airlines already cancelling flights.</em><button type="button" class="speak-btn speak-btn--inline" data-text="..., with airlines already cancelling flights." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>主文に付帯状況を添える構文。「～という状況で」「～も起きており」などと訳す。気象記事でも風速データの列挙に with が使われる。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Due to + 名詞</h3>
-              <p>Introduces a cause; often starts a sentence in news writing.</p>
-              <p class="example-en"><em>Due to a front stalled north of the typhoon, rain may fall.</em></p>
+              <div class="grammar-head">
+                <h3>Due to + 名詞</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Due to + 名詞" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Introduces a cause; often starts a sentence in news writing.<button type="button" class="speak-btn speak-btn--inline" data-text="Introduces a cause; often starts a sentence in news writing." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Due to a front stalled north of the typhoon, rain may fall.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Due to a front stalled north of the typhoon, rain may fall." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>原因を示す。because of よりやや格式ばった報道調。後ろに名詞句が続く。過去分詞の形容詞用法（stalled）と組み合わさることが多い。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>through / by + 時点</h3>
-              <p>through + day = including that day; by + time = no later than that time.</p>
-              <p class="example-en"><em>through Wednesday; By noon Tuesday, 300 mm is expected to fall.</em></p>
+              <div class="grammar-head">
+                <h3>through / by + 時点</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="through / by + 時点" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">through + day = including that day; by + time = no later than that time.<button type="button" class="speak-btn speak-btn--inline" data-text="through + day = including that day; by + time = no later than that time." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>through Wednesday; By noon Tuesday, 300 mm is expected to fall.</em><button type="button" class="speak-btn speak-btn--inline" data-text="through Wednesday; By noon Tuesday, 300 mm is expected to fall." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>through Wednesday は水曜を含む期間の終わりまで。by noon Tuesday は火曜正午までに（その時点までに）。予報の時間軸を読み取るのに重要。</p>
             </div>
             </div>
@@ -783,23 +785,23 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Speed
                 · score 13</div>
-              <p class="comment-raw">Typhoon Jangmi. It would be nice if JT would also note the Japanese number name since we&#x27;re here in Japan and is referred to by the number by all those around us.</p>
+              <p class="comment-raw speak-line">Typhoon Jangmi. It would be nice if JT would also note the Japanese number name since we&#x27;re here in Japan and is referred to by the number by all those around us.<button type="button" class="speak-btn" data-text="Typhoon Jangmi. It would be nice if JT would also note the Japanese number name since we&#x27;re here in Japan and is referred to by the number by all those around us." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">台風ジャンミ。日本に住んでいる私たちは周囲では番号で呼ばれているので、Japan Todayにも日本の番号名を載せてくれるとありがたい。</p>
               <ul class='comment-notes'><li>「is referred to」の主語が台風なのに「we&#x27;re here in Japan」が挟まり、文法的にやや不自然。口語ではよくある。</li><li>「all those around us」＝周りの人たち、という意味。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Typhoon Jangmi. It would be nice if JT would also note the Japanese number name, since we&#x27;re here in Japan and it is referred to by its number by everyone around us.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Typhoon Jangmi. It would be nice if JT would also note the Japanese number name, since we&#x27;re here in Japan and it is referred to by its number by everyone around us.<button type="button" class="speak-btn speak-btn--inline" data-text="Typhoon Jangmi. It would be nice if JT would also note the Japanese number name, since we&#x27;re here in Japan and it is referred to by its number by everyone around us." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · wallace
                 · score 8</div>
-              <p class="comment-raw">Severe Tropical Storm Jangmi (Typhoon No.6)</p>
+              <p class="comment-raw speak-line">Severe Tropical Storm Jangmi (Typhoon No.6)<button type="button" class="speak-btn" data-text="Severe Tropical Storm Jangmi (Typhoon No.6)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">強い熱帯低気圧ジャンミ（6号台風）</p>
               <ul class='comment-notes'><li>動詞のない見出し調の一文。補足情報として番号を付けている。</li></ul>
               
@@ -809,7 +811,7 @@
             <article class="comment-card">
               <div class="comment-meta">#3 · wallace
                 · score 7</div>
-              <p class="comment-raw">Tracker https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&amp;elem=root&amp;typhoon=all&amp;contents=typhoon&amp;lang=en</p>
+              <p class="comment-raw speak-line">Tracker https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&amp;elem=root&amp;typhoon=all&amp;contents=typhoon&amp;lang=en<button type="button" class="speak-btn" data-text="Tracker https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&amp;elem=root&amp;typhoon=all&amp;contents=typhoon&amp;lang=en" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">追跡サイト https://www.jma.go.jp/bosai/map.html#5/30.145/137.395/&amp;elem=root&amp;typhoon=all&amp;contents=typhoon&amp;lang=en</p>
               <ul class='comment-notes'><li>単語＋URLだけの超短文。SNSや掲示板でよくある共有形式。</li></ul>
               
@@ -819,20 +821,20 @@
             <article class="comment-card">
               <div class="comment-meta">#4 · masterblaster
                 · score 5</div>
-              <p class="comment-raw">@Speed It&#x27;s in the article: The typhoon, the sixth of the season, Thus, typhoon 6</p>
+              <p class="comment-raw speak-line">@Speed It&#x27;s in the article: The typhoon, the sixth of the season, Thus, typhoon 6<button type="button" class="speak-btn" data-text="@Speed It&#x27;s in the article: The typhoon, the sixth of the season, Thus, typhoon 6" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">＠Speed 記事に書いてあるよ。『今シーズン6個目の台風』って。つまり6号台風だ。</p>
               <ul class='comment-notes'><li>引用のあと「Thus, typhoon 6」と述語を省いた断片文。カンマ直後の大文字は口語的。</li><li>やや突っ込んだ・訂正する口調。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> @Speed It&#x27;s in the article: &#x27;The typhoon, the sixth of the season.&#x27; Thus, it&#x27;s typhoon 6.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> @Speed It&#x27;s in the article: &#x27;The typhoon, the sixth of the season.&#x27; Thus, it&#x27;s typhoon 6.<button type="button" class="speak-btn speak-btn--inline" data-text="@Speed It&#x27;s in the article: &#x27;The typhoon, the sixth of the season.&#x27; Thus, it&#x27;s typhoon 6." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · wallace
                 · score 2</div>
-              <p class="comment-raw">Kansai Tuesday night and Wednesday, heavy rains expected.</p>
+              <p class="comment-raw speak-line">Kansai Tuesday night and Wednesday, heavy rains expected.<button type="button" class="speak-btn" data-text="Kansai Tuesday night and Wednesday, heavy rains expected." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">関西は火曜の夜から水曜にかけて、大雨の見込み。</p>
               <ul class='comment-notes'><li>主語・助動詞を省いたニュース見出し調（telegraphic style）。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Heavy rains are expected in Kansai on Tuesday night and Wednesday.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Heavy rains are expected in Kansai on Tuesday night and Wednesday.<button type="button" class="speak-btn speak-btn--inline" data-text="Heavy rains are expected in Kansai on Tuesday night and Wednesday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
@@ -840,7 +842,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-01</footer>
+    <footer class="speak-line">English News Digest · 2026-06-01
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

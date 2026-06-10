@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-08</a>
       <span class="sep">/</span>
       <span>Trump storms out of tense, rain-plagued NBC i...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Trump storms out of tense, rain-plagued NBC i..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge world">world</span>
-      <h1>Trump storms out of tense, rain-plagued NBC interview</h1>
-      <div class="meta">Japan Today World · 2026-06-08</div>
+      <div class="title-head">
+        <span class="badge world">world</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="world" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Trump storms out of tense, rain-plagued NBC interview</h1>
+        <button type="button" class="speak-btn" data-text="Trump storms out of tense, rain-plagued NBC interview" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today World<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today World" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-08</p>
       <div class="summary-ja">トランプ大統領はNBCのインタビューでイラン戦略や悪天候に耐えながら答えたが、選挙不正の根拠のない主張を問われると激怒して退席した。大雨と音声トラブルで何度も中断された取材は、記者との応酬の末、証拠を示せと求める質問で決裂に至った。日曜に放送された後、司会者は土曜にトランプと話し、再インタビューに応じることになったと伝えた。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/world/trump-storms-out-of-tense-rain-plagued-nbc-interview" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with U.S. broadcaster NBC -- but angrily stormed out when confronted over his unfounded claims of election fraud."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with U.S. broadcaster NBC -- but angrily stormed out when confronted over his unfounded claims of election fraud." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with U.S. broadcaster NBC -- but angrily stormed out when confronted over his unfounded claims of election fraud.</p>
       <p class="translation">ドナルド・トランプ大統領は、米国の放送局NBCとのインタビューで、イラン戦争戦略や度重なる天候の乱れについて鋭い質問に耐えたが、根拠のない選挙不正の主張を突きつけられると怒って退席した。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>President Donald Trump</td><td class='chunk-role'>主語</td><td>ドナルド・トランプ大統領は</td><td>ニュース記事では肩書き＋氏名が主語になる定型表現。</td></tr><tr><td class='chunk-en'>lasted through probing questions about his Iran war strategy and repeated weather disruptions</td><td class='chunk-role'>述語（前半）</td><td>イラン戦争戦略や度重なる天候の乱れについての鋭い質問を耐え抜いた</td><td>last through = 困難な状況を最後まで耐える。probing questions = 核心を突く質問。</td></tr><tr><td class='chunk-en'>during an interview with U.S. broadcaster NBC</td><td class='chunk-role'>時・場所の修飾</td><td>米国の放送局NBCとのインタビューの間に</td><td>during + 名詞で「〜の間に」。broadcaster = 放送局。</td></tr><tr><td class='chunk-en'>but angrily stormed out</td><td class='chunk-role'>述語（後半・対比）</td><td>しかし怒って立ち去った</td><td>storm out は怒りを伴う退席を表すコロケーション。副詞 angrily が感情を明示。</td></tr><tr><td class='chunk-en'>when confronted over his unfounded claims of election fraud</td><td class='chunk-role'>時を表す副詞節</td><td>根拠のない選挙不正の主張について問われたとき</td><td>be confronted over = 〜について追及される。unfounded claims = 根拠のない主張（記者の評価）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>ドナルド・トランプ大統領は</td><td>ニュース記事では肩書き＋氏名が主語になる定型表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>lasted through probing questions about his Iran war strategy and repeated weather disruptions<button type="button" class="speak-btn speak-btn--inline" data-text="lasted through probing questions about his Iran war strategy and repeated weather disruptions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（前半）</td><td>イラン戦争戦略や度重なる天候の乱れについての鋭い質問を耐え抜いた</td><td>last through = 困難な状況を最後まで耐える。probing questions = 核心を突く質問。</td></tr><tr><td class='chunk-en'><span class='speak-line'>during an interview with U.S. broadcaster NBC<button type="button" class="speak-btn speak-btn--inline" data-text="during an interview with U.S. broadcaster NBC" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・場所の修飾</td><td>米国の放送局NBCとのインタビューの間に</td><td>during + 名詞で「〜の間に」。broadcaster = 放送局。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but angrily stormed out<button type="button" class="speak-btn speak-btn--inline" data-text="but angrily stormed out" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（後半・対比）</td><td>しかし怒って立ち去った</td><td>storm out は怒りを伴う退席を表すコロケーション。副詞 angrily が感情を明示。</td></tr><tr><td class='chunk-en'><span class='speak-line'>when confronted over his unfounded claims of election fraud<button type="button" class="speak-btn speak-btn--inline" data-text="when confronted over his unfounded claims of election fraud" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>根拠のない選挙不正の主張について問われたとき</td><td>be confronted over = 〜について追及される。unfounded claims = 根拠のない主張（記者の評価）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">President Donald Trump</div>
+              <div class="chunk-en speak-line">President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · ドナルド・トランプ大統領は</div>
               <div>ニュース記事では肩書き＋氏名が主語になる定型表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">lasted through probing questions about his Iran war strategy and repeated weather disruptions</div>
+              <div class="chunk-en speak-line">lasted through probing questions about his Iran war strategy and repeated weather disruptions<button type="button" class="speak-btn speak-btn--inline" data-text="lasted through probing questions about his Iran war strategy and repeated weather disruptions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（前半） · イラン戦争戦略や度重なる天候の乱れについての鋭い質問を耐え抜いた</div>
               <div>last through = 困難な状況を最後まで耐える。probing questions = 核心を突く質問。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">during an interview with U.S. broadcaster NBC</div>
+              <div class="chunk-en speak-line">during an interview with U.S. broadcaster NBC<button type="button" class="speak-btn speak-btn--inline" data-text="during an interview with U.S. broadcaster NBC" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・場所の修飾 · 米国の放送局NBCとのインタビューの間に</div>
               <div>during + 名詞で「〜の間に」。broadcaster = 放送局。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but angrily stormed out</div>
+              <div class="chunk-en speak-line">but angrily stormed out<button type="button" class="speak-btn speak-btn--inline" data-text="but angrily stormed out" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（後半・対比） · しかし怒って立ち去った</div>
               <div>storm out は怒りを伴う退席を表すコロケーション。副詞 angrily が感情を明示。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">when confronted over his unfounded claims of election fraud</div>
+              <div class="chunk-en speak-line">when confronted over his unfounded claims of election fraud<button type="button" class="speak-btn speak-btn--inline" data-text="when confronted over his unfounded claims of election fraud" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 根拠のない選挙不正の主張について問われたとき</div>
               <div>be confronted over = 〜について追及される。unfounded claims = 根拠のない主張（記者の評価）。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;You&#x27;re a one-sided, crooked network."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;You&#x27;re a one-sided, crooked network." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;You&#x27;re a one-sided, crooked network.</p>
       <p class="translation">「お前らは一方的で、不正な放送局だ。」</p>
@@ -115,17 +124,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>You&#x27;re</td><td class='chunk-role'>主語＋述語</td><td>お前らは〜だ</td><td>直接の非難口調。ニュース引用では攻撃的な言葉がそのまま載る。</td></tr><tr><td class='chunk-en'>a one-sided, crooked network</td><td class='chunk-role'>補語（名詞句）</td><td>一方的で不正な放送局</td><td>one-sided = 偏った見方しかしない。crook は「詐欺師」、crooked は「不正な」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>You&#x27;re<button type="button" class="speak-btn speak-btn--inline" data-text="You&#x27;re" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>お前らは〜だ</td><td>直接の非難口調。ニュース引用では攻撃的な言葉がそのまま載る。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a one-sided, crooked network<button type="button" class="speak-btn speak-btn--inline" data-text="a one-sided, crooked network" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補語（名詞句）</td><td>一方的で不正な放送局</td><td>one-sided = 偏った見方しかしない。crook は「詐欺師」、crooked は「不正な」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">You&#x27;re</div>
+              <div class="chunk-en speak-line">You&#x27;re<button type="button" class="speak-btn speak-btn--inline" data-text="You&#x27;re" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · お前らは〜だ</div>
               <div>直接の非難口調。ニュース引用では攻撃的な言葉がそのまま載る。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a one-sided, crooked network</div>
+              <div class="chunk-en speak-line">a one-sided, crooked network<button type="button" class="speak-btn speak-btn--inline" data-text="a one-sided, crooked network" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補語（名詞句） · 一方的で不正な放送局</div>
               <div>one-sided = 偏った見方しかしない。crook は「詐欺師」、crooked は「不正な」。</div>
             </div>
@@ -138,8 +147,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Let&#x27;s call it quits because I&#x27;ve had enough."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Let&#x27;s call it quits because I&#x27;ve had enough." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Let&#x27;s call it quits because I&#x27;ve had enough.</p>
       <p class="translation">「もうやめにしよう。もううんざりだ。」</p>
@@ -152,17 +160,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Let&#x27;s call it quits</td><td class='chunk-role'>述語</td><td>打ち切りにしよう</td><td>call it quits = 仕事・会話・関係などを終わらせる決まり文句。</td></tr><tr><td class='chunk-en'>because I&#x27;ve had enough</td><td class='chunk-role'>理由の副詞節</td><td>もううんざりしたから</td><td>have had enough of ... なら「〜にうんざり」だが、ここは単独で「もう限界」の意味。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Let&#x27;s call it quits<button type="button" class="speak-btn speak-btn--inline" data-text="Let&#x27;s call it quits" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>打ち切りにしよう</td><td>call it quits = 仕事・会話・関係などを終わらせる決まり文句。</td></tr><tr><td class='chunk-en'><span class='speak-line'>because I&#x27;ve had enough<button type="button" class="speak-btn speak-btn--inline" data-text="because I&#x27;ve had enough" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由の副詞節</td><td>もううんざりしたから</td><td>have had enough of ... なら「〜にうんざり」だが、ここは単独で「もう限界」の意味。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Let&#x27;s call it quits</div>
+              <div class="chunk-en speak-line">Let&#x27;s call it quits<button type="button" class="speak-btn speak-btn--inline" data-text="Let&#x27;s call it quits" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 打ち切りにしよう</div>
               <div>call it quits = 仕事・会話・関係などを終わらせる決まり文句。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">because I&#x27;ve had enough</div>
+              <div class="chunk-en speak-line">because I&#x27;ve had enough<button type="button" class="speak-btn speak-btn--inline" data-text="because I&#x27;ve had enough" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由の副詞節 · もううんざりしたから</div>
               <div>have had enough of ... なら「〜にうんざり」だが、ここは単独で「もう限界」の意味。</div>
             </div>
@@ -175,8 +183,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Have a good time,&quot; Trump told &quot;Meet the Press&quot; host Kristen Welker before standing up and walking out of the interview that aired Sunday."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Have a good time,&quot; Trump told &quot;Meet the Press&quot; host Kristen Welker before standing up and walking out of the interview that aired Sunday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Have a good time,&quot; Trump told &quot;Meet the Press&quot; host Kristen Welker before standing up and walking out of the interview that aired Sunday.</p>
       <p class="translation">「楽しんでね」とトランプは、日曜に放送されたインタビューから立ち上がって去る前に、番組『ミート・ザ・プレス』の司会クリステン・ウェルカーに言った。</p>
@@ -189,29 +196,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Have a good time</td><td class='chunk-role'>直接話法（引用）</td><td>楽しんで</td><td>皮肉・あざけりの可能性がある定型の別れの挨拶。</td></tr><tr><td class='chunk-en'>Trump told &quot;Meet the Press&quot; host Kristen Welker</td><td class='chunk-role'>主部</td><td>トランプは〜のウェルカーに言った</td><td>tell + 人 + 内容。番組名は引用符で固有名詞として示す。</td></tr><tr><td class='chunk-en'>before standing up and walking out of the interview</td><td class='chunk-role'>時を表す副詞句</td><td>立ち上がりインタビューから去る前に</td><td>walk out of = 途中で立ち去る。storm out と同系の動き。</td></tr><tr><td class='chunk-en'>that aired Sunday</td><td class='chunk-role'>関係節（後置修飾）</td><td>日曜に放送された</td><td>関係代名詞 that の省略なし。air = 放送する。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Have a good time<button type="button" class="speak-btn speak-btn--inline" data-text="Have a good time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法（引用）</td><td>楽しんで</td><td>皮肉・あざけりの可能性がある定型の別れの挨拶。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Trump told &quot;Meet the Press&quot; host Kristen Welker<button type="button" class="speak-btn speak-btn--inline" data-text="Trump told &quot;Meet the Press&quot; host Kristen Welker" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>トランプは〜のウェルカーに言った</td><td>tell + 人 + 内容。番組名は引用符で固有名詞として示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>before standing up and walking out of the interview<button type="button" class="speak-btn speak-btn--inline" data-text="before standing up and walking out of the interview" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>立ち上がりインタビューから去る前に</td><td>walk out of = 途中で立ち去る。storm out と同系の動き。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that aired Sunday<button type="button" class="speak-btn speak-btn--inline" data-text="that aired Sunday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節（後置修飾）</td><td>日曜に放送された</td><td>関係代名詞 that の省略なし。air = 放送する。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Have a good time</div>
+              <div class="chunk-en speak-line">Have a good time<button type="button" class="speak-btn speak-btn--inline" data-text="Have a good time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法（引用） · 楽しんで</div>
               <div>皮肉・あざけりの可能性がある定型の別れの挨拶。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Trump told &quot;Meet the Press&quot; host Kristen Welker</div>
+              <div class="chunk-en speak-line">Trump told &quot;Meet the Press&quot; host Kristen Welker<button type="button" class="speak-btn speak-btn--inline" data-text="Trump told &quot;Meet the Press&quot; host Kristen Welker" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · トランプは〜のウェルカーに言った</div>
               <div>tell + 人 + 内容。番組名は引用符で固有名詞として示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">before standing up and walking out of the interview</div>
+              <div class="chunk-en speak-line">before standing up and walking out of the interview<button type="button" class="speak-btn speak-btn--inline" data-text="before standing up and walking out of the interview" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 立ち上がりインタビューから去る前に</div>
               <div>walk out of = 途中で立ち去る。storm out と同系の動き。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that aired Sunday</div>
+              <div class="chunk-en speak-line">that aired Sunday<button type="button" class="speak-btn speak-btn--inline" data-text="that aired Sunday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節（後置修飾） · 日曜に放送された</div>
               <div>関係代名詞 that の省略なし。air = 放送する。</div>
             </div>
@@ -224,8 +231,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The interview, filmed Friday, was conducted on a farm in Wisconsin, where Trump was addressing farmers."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The interview, filmed Friday, was conducted on a farm in Wisconsin, where Trump was addressing farmers." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The interview, filmed Friday, was conducted on a farm in Wisconsin, where Trump was addressing farmers.</p>
       <p class="translation">金曜に撮影されたインタビューは、トランプが農家の人々に向けて演説していたウィスコンシン州の農場で行われた。</p>
@@ -238,23 +244,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The interview, filmed Friday,</td><td class='chunk-role'>主語（挿入句付き）</td><td>金曜に撮影されたインタビューは</td><td>名詞の前後にカンマで挿入する過去分詞句はニュースで頻出。</td></tr><tr><td class='chunk-en'>was conducted on a farm in Wisconsin</td><td class='chunk-role'>述語</td><td>ウィスコンシン州の農場で行われた</td><td>conduct an interview = インタビューを行う（受動態）。</td></tr><tr><td class='chunk-en'>where Trump was addressing farmers</td><td class='chunk-role'>関係副詞節</td><td>トランプが農家に向けて話していた（場所）</td><td>where = on a farm を受ける。address は「演説する・向かって話す」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The interview, filmed Friday,<button type="button" class="speak-btn speak-btn--inline" data-text="The interview, filmed Friday," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（挿入句付き）</td><td>金曜に撮影されたインタビューは</td><td>名詞の前後にカンマで挿入する過去分詞句はニュースで頻出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was conducted on a farm in Wisconsin<button type="button" class="speak-btn speak-btn--inline" data-text="was conducted on a farm in Wisconsin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>ウィスコンシン州の農場で行われた</td><td>conduct an interview = インタビューを行う（受動態）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>where Trump was addressing farmers<button type="button" class="speak-btn speak-btn--inline" data-text="where Trump was addressing farmers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係副詞節</td><td>トランプが農家に向けて話していた（場所）</td><td>where = on a farm を受ける。address は「演説する・向かって話す」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The interview, filmed Friday,</div>
+              <div class="chunk-en speak-line">The interview, filmed Friday,<button type="button" class="speak-btn speak-btn--inline" data-text="The interview, filmed Friday," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（挿入句付き） · 金曜に撮影されたインタビューは</div>
               <div>名詞の前後にカンマで挿入する過去分詞句はニュースで頻出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was conducted on a farm in Wisconsin</div>
+              <div class="chunk-en speak-line">was conducted on a farm in Wisconsin<button type="button" class="speak-btn speak-btn--inline" data-text="was conducted on a farm in Wisconsin" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ウィスコンシン州の農場で行われた</div>
               <div>conduct an interview = インタビューを行う（受動態）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">where Trump was addressing farmers</div>
+              <div class="chunk-en speak-line">where Trump was addressing farmers<button type="button" class="speak-btn speak-btn--inline" data-text="where Trump was addressing farmers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係副詞節 · トランプが農家に向けて話していた（場所）</div>
               <div>where = on a farm を受ける。address は「演説する・向かって話す」。</div>
             </div>
@@ -267,8 +273,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="A tractor and hay bales served as a backdrop."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="A tractor and hay bales served as a backdrop." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">A tractor and hay bales served as a backdrop.</p>
       <p class="translation">トラクターと干し草の俵が背景として使われた。</p>
@@ -281,17 +286,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>A tractor and hay bales</td><td class='chunk-role'>主語</td><td>トラクターと干し草の俵は</td><td>複数主語なので動詞は複数形 served。</td></tr><tr><td class='chunk-en'>served as a backdrop</td><td class='chunk-role'>述語</td><td>背景として使われた</td><td>serve as = act as と同様「〜の役割を果たす」。backdrop = 舞台背景・演出上の背景。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>A tractor and hay bales<button type="button" class="speak-btn speak-btn--inline" data-text="A tractor and hay bales" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>トラクターと干し草の俵は</td><td>複数主語なので動詞は複数形 served。</td></tr><tr><td class='chunk-en'><span class='speak-line'>served as a backdrop<button type="button" class="speak-btn speak-btn--inline" data-text="served as a backdrop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>背景として使われた</td><td>serve as = act as と同様「〜の役割を果たす」。backdrop = 舞台背景・演出上の背景。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">A tractor and hay bales</div>
+              <div class="chunk-en speak-line">A tractor and hay bales<button type="button" class="speak-btn speak-btn--inline" data-text="A tractor and hay bales" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · トラクターと干し草の俵は</div>
               <div>複数主語なので動詞は複数形 served。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">served as a backdrop</div>
+              <div class="chunk-en speak-line">served as a backdrop<button type="button" class="speak-btn speak-btn--inline" data-text="served as a backdrop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 背景として使われた</div>
               <div>serve as = act as と同様「〜の役割を果たす」。backdrop = 舞台背景・演出上の背景。</div>
             </div>
@@ -304,8 +309,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The interview was interrupted several times by weather and audio issues as torrential rain pounded the roof, making it difficult to continue the conversation."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The interview was interrupted several times by weather and audio issues as torrential rain pounded the roof, making it difficult to continue the conversation." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The interview was interrupted several times by weather and audio issues as torrential rain pounded the roof, making it difficult to continue the conversation.</p>
       <p class="translation">激しい雨が屋根を叩く中、天候と音声の問題でインタビューは何度も中断され、会話を続けるのが難しくなった。</p>
@@ -318,23 +322,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The interview was interrupted several times by weather and audio issues</td><td class='chunk-role'>主部（受動態）</td><td>インタビューは天候と音声の問題で何度も中断された</td><td>several times = 何度も。by は原因・手段。</td></tr><tr><td class='chunk-en'>as torrential rain pounded the roof</td><td class='chunk-role'>時を表す副詞節</td><td>激しい雨が屋根を叩きながら</td><td>torrential = 豪雨の。pound = 激しく打ち付ける。</td></tr><tr><td class='chunk-en'>making it difficult to continue the conversation</td><td class='chunk-role'>結果を表す分詞構文</td><td>会話を続けるのを難しくして</td><td>make it + 形容詞 + to不定詞 = 「〜することを…にする」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The interview was interrupted several times by weather and audio issues<button type="button" class="speak-btn speak-btn--inline" data-text="The interview was interrupted several times by weather and audio issues" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部（受動態）</td><td>インタビューは天候と音声の問題で何度も中断された</td><td>several times = 何度も。by は原因・手段。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as torrential rain pounded the roof<button type="button" class="speak-btn speak-btn--inline" data-text="as torrential rain pounded the roof" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>激しい雨が屋根を叩きながら</td><td>torrential = 豪雨の。pound = 激しく打ち付ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>making it difficult to continue the conversation<button type="button" class="speak-btn speak-btn--inline" data-text="making it difficult to continue the conversation" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>結果を表す分詞構文</td><td>会話を続けるのを難しくして</td><td>make it + 形容詞 + to不定詞 = 「〜することを…にする」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The interview was interrupted several times by weather and audio issues</div>
+              <div class="chunk-en speak-line">The interview was interrupted several times by weather and audio issues<button type="button" class="speak-btn speak-btn--inline" data-text="The interview was interrupted several times by weather and audio issues" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部（受動態） · インタビューは天候と音声の問題で何度も中断された</div>
               <div>several times = 何度も。by は原因・手段。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as torrential rain pounded the roof</div>
+              <div class="chunk-en speak-line">as torrential rain pounded the roof<button type="button" class="speak-btn speak-btn--inline" data-text="as torrential rain pounded the roof" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 激しい雨が屋根を叩きながら</div>
               <div>torrential = 豪雨の。pound = 激しく打ち付ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">making it difficult to continue the conversation</div>
+              <div class="chunk-en speak-line">making it difficult to continue the conversation<button type="button" class="speak-btn speak-btn--inline" data-text="making it difficult to continue the conversation" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">結果を表す分詞構文 · 会話を続けるのを難しくして</div>
               <div>make it + 形容詞 + to不定詞 = 「〜することを…にする」。</div>
             </div>
@@ -347,8 +351,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;Hear that sound?&quot; he said later."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;Hear that sound?&quot; he said later." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;Hear that sound?&quot; he said later.</p>
       <p class="translation">「あの音が聞こえるか？」と彼は後で言った。</p>
@@ -361,17 +364,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Hear that sound?</td><td class='chunk-role'>直接話法</td><td>あの音を聞け（聞こえるか）</td><td>Do you hear ...? の省略形に近い口語。聴衆・相手の注意を引く。</td></tr><tr><td class='chunk-en'>he said later</td><td class='chunk-role'>叙述部</td><td>彼は後で言った</td><td>later が引用の前後関係を補足。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Hear that sound?<button type="button" class="speak-btn speak-btn--inline" data-text="Hear that sound?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法</td><td>あの音を聞け（聞こえるか）</td><td>Do you hear ...? の省略形に近い口語。聴衆・相手の注意を引く。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he said later<button type="button" class="speak-btn speak-btn--inline" data-text="he said later" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>彼は後で言った</td><td>later が引用の前後関係を補足。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Hear that sound?</div>
+              <div class="chunk-en speak-line">Hear that sound?<button type="button" class="speak-btn speak-btn--inline" data-text="Hear that sound?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法 · あの音を聞け（聞こえるか）</div>
               <div>Do you hear ...? の省略形に近い口語。聴衆・相手の注意を引く。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he said later</div>
+              <div class="chunk-en speak-line">he said later<button type="button" class="speak-btn speak-btn--inline" data-text="he said later" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · 彼は後で言った</div>
               <div>later が引用の前後関係を補足。</div>
             </div>
@@ -384,8 +387,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;That sound of thunder, lightning, rain&quot;"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;That sound of thunder, lightning, rain&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;That sound of thunder, lightning, rain&quot;</p>
       <p class="translation">「雷と稲妻と雨の音だ」</p>
@@ -398,17 +400,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>That sound</td><td class='chunk-role'>主語相当</td><td>あの音は</td><td>前文の Hear that sound? への応答。</td></tr><tr><td class='chunk-en'>of thunder, lightning, rain</td><td class='chunk-role'>後置修飾</td><td>雷と稲妻と雨の</td><td>並列名詞。動詞なしの断片引用は会話の臨場感を出す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>That sound<button type="button" class="speak-btn speak-btn--inline" data-text="That sound" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語相当</td><td>あの音は</td><td>前文の Hear that sound? への応答。</td></tr><tr><td class='chunk-en'><span class='speak-line'>of thunder, lightning, rain<button type="button" class="speak-btn speak-btn--inline" data-text="of thunder, lightning, rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>後置修飾</td><td>雷と稲妻と雨の</td><td>並列名詞。動詞なしの断片引用は会話の臨場感を出す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">That sound</div>
+              <div class="chunk-en speak-line">That sound<button type="button" class="speak-btn speak-btn--inline" data-text="That sound" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語相当 · あの音は</div>
               <div>前文の Hear that sound? への応答。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">of thunder, lightning, rain</div>
+              <div class="chunk-en speak-line">of thunder, lightning, rain<button type="button" class="speak-btn speak-btn--inline" data-text="of thunder, lightning, rain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">後置修飾 · 雷と稲妻と雨の</div>
               <div>並列名詞。動詞なしの断片引用は会話の臨場感を出す。</div>
             </div>
@@ -421,8 +423,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Welker asked her technical crew if they should stop."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Welker asked her technical crew if they should stop." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Welker asked her technical crew if they should stop.</p>
       <p class="translation">ウェルカーは技術スタッフに、中断すべきか尋ねた。</p>
@@ -435,17 +436,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Welker asked her technical crew</td><td class='chunk-role'>主部</td><td>ウェルカーは技術スタッフに尋ねた</td><td>ask は内容を if/whether 節で続ける。</td></tr><tr><td class='chunk-en'>if they should stop</td><td class='chunk-role'>間接疑問の名詞節</td><td>中断すべきかどうか</td><td>should stop = 中断した方がよいか（義務・判断の should）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Welker asked her technical crew<button type="button" class="speak-btn speak-btn--inline" data-text="Welker asked her technical crew" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>ウェルカーは技術スタッフに尋ねた</td><td>ask は内容を if/whether 節で続ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>if they should stop<button type="button" class="speak-btn speak-btn--inline" data-text="if they should stop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>間接疑問の名詞節</td><td>中断すべきかどうか</td><td>should stop = 中断した方がよいか（義務・判断の should）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Welker asked her technical crew</div>
+              <div class="chunk-en speak-line">Welker asked her technical crew<button type="button" class="speak-btn speak-btn--inline" data-text="Welker asked her technical crew" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · ウェルカーは技術スタッフに尋ねた</div>
               <div>ask は内容を if/whether 節で続ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">if they should stop</div>
+              <div class="chunk-en speak-line">if they should stop<button type="button" class="speak-btn speak-btn--inline" data-text="if they should stop" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">間接疑問の名詞節 · 中断すべきかどうか</div>
               <div>should stop = 中断した方がよいか（義務・判断の should）。</div>
             </div>
@@ -458,8 +459,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="People will understand -- we&#x27;re on a farm,&quot; the president replied."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="People will understand -- we&#x27;re on a farm,&quot; the president replied." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">People will understand -- we&#x27;re on a farm,&quot; the president replied.</p>
       <p class="translation">「人々はわかってくれる。農場にいるんだから」と大統領は答えた。</p>
@@ -472,23 +472,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>People will understand</td><td class='chunk-role'>述語（引用前半）</td><td>人々は理解するだろう</td><td>視聴者が天候による乱れを許容する、という含意。</td></tr><tr><td class='chunk-en'>we&#x27;re on a farm</td><td class='chunk-role'>理由（引用後半）</td><td>我々は農場にいる</td><td>屋外取材だから仕方ない、という言い訳のニュアンス。</td></tr><tr><td class='chunk-en'>the president replied</td><td class='chunk-role'>叙述部</td><td>大統領は答えた</td><td>reply は応答全般。counter より中立。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>People will understand<button type="button" class="speak-btn speak-btn--inline" data-text="People will understand" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（引用前半）</td><td>人々は理解するだろう</td><td>視聴者が天候による乱れを許容する、という含意。</td></tr><tr><td class='chunk-en'><span class='speak-line'>we&#x27;re on a farm<button type="button" class="speak-btn speak-btn--inline" data-text="we&#x27;re on a farm" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由（引用後半）</td><td>我々は農場にいる</td><td>屋外取材だから仕方ない、という言い訳のニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the president replied<button type="button" class="speak-btn speak-btn--inline" data-text="the president replied" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>大統領は答えた</td><td>reply は応答全般。counter より中立。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">People will understand</div>
+              <div class="chunk-en speak-line">People will understand<button type="button" class="speak-btn speak-btn--inline" data-text="People will understand" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（引用前半） · 人々は理解するだろう</div>
               <div>視聴者が天候による乱れを許容する、という含意。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">we&#x27;re on a farm</div>
+              <div class="chunk-en speak-line">we&#x27;re on a farm<button type="button" class="speak-btn speak-btn--inline" data-text="we&#x27;re on a farm" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由（引用後半） · 我々は農場にいる</div>
               <div>屋外取材だから仕方ない、という言い訳のニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the president replied</div>
+              <div class="chunk-en speak-line">the president replied<button type="button" class="speak-btn speak-btn--inline" data-text="the president replied" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · 大統領は答えた</div>
               <div>reply は応答全般。counter より中立。</div>
             </div>
@@ -501,8 +501,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Several questions followed about Iran and nuclear weapons, after which Trump accused Welker of being &quot;a big liberal, a big progressive.&quot;"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Several questions followed about Iran and nuclear weapons, after which Trump accused Welker of being &quot;a big liberal, a big progressive.&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Several questions followed about Iran and nuclear weapons, after which Trump accused Welker of being &quot;a big liberal, a big progressive.&quot;</p>
       <p class="translation">イランと核兵器に関する質問がいくつか続き、その後トランプはウェルカーを「大きなリベラル、大きな進歩派だ」と非難した。</p>
@@ -515,23 +514,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Several questions followed about Iran and nuclear weapons</td><td class='chunk-role'>主部</td><td>イランと核兵器についての質問がいくつか続いた</td><td>follow = 続く・後に来る。質問が主語の擬人化。</td></tr><tr><td class='chunk-en'>after which</td><td class='chunk-role'>関係副詞句</td><td>その後</td><td>前文全体を受ける which。フォーマルなニュース文体。</td></tr><tr><td class='chunk-en'>Trump accused Welker of being &quot;a big liberal, a big progressive&quot;</td><td class='chunk-role'>主部（後半）</td><td>トランプはウェルカーを大リベラル・大進歩派だと非難した</td><td>accuse ... of -ing/being = 〜だと決めつける。big は「かなりの」の口語的強調。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Several questions followed about Iran and nuclear weapons<button type="button" class="speak-btn speak-btn--inline" data-text="Several questions followed about Iran and nuclear weapons" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>イランと核兵器についての質問がいくつか続いた</td><td>follow = 続く・後に来る。質問が主語の擬人化。</td></tr><tr><td class='chunk-en'><span class='speak-line'>after which<button type="button" class="speak-btn speak-btn--inline" data-text="after which" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係副詞句</td><td>その後</td><td>前文全体を受ける which。フォーマルなニュース文体。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Trump accused Welker of being &quot;a big liberal, a big progressive&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Trump accused Welker of being &quot;a big liberal, a big progressive&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部（後半）</td><td>トランプはウェルカーを大リベラル・大進歩派だと非難した</td><td>accuse ... of -ing/being = 〜だと決めつける。big は「かなりの」の口語的強調。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Several questions followed about Iran and nuclear weapons</div>
+              <div class="chunk-en speak-line">Several questions followed about Iran and nuclear weapons<button type="button" class="speak-btn speak-btn--inline" data-text="Several questions followed about Iran and nuclear weapons" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · イランと核兵器についての質問がいくつか続いた</div>
               <div>follow = 続く・後に来る。質問が主語の擬人化。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after which</div>
+              <div class="chunk-en speak-line">after which<button type="button" class="speak-btn speak-btn--inline" data-text="after which" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係副詞句 · その後</div>
               <div>前文全体を受ける which。フォーマルなニュース文体。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Trump accused Welker of being &quot;a big liberal, a big progressive&quot;</div>
+              <div class="chunk-en speak-line">Trump accused Welker of being &quot;a big liberal, a big progressive&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Trump accused Welker of being &quot;a big liberal, a big progressive&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部（後半） · トランプはウェルカーを大リベラル・大進歩派だと非難した</div>
               <div>accuse ... of -ing/being = 〜だと決めつける。big は「かなりの」の口語的強調。</div>
             </div>
@@ -544,8 +543,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;No, I&#x27;m just a journalist,&quot; she countered."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;No, I&#x27;m just a journalist,&quot; she countered." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;No, I&#x27;m just a journalist,&quot; she countered.</p>
       <p class="translation">「いいえ、私はただのジャーナリストです」と彼女は反論した。</p>
@@ -558,17 +556,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>No, I&#x27;m just a journalist</td><td class='chunk-role'>直接話法</td><td>いいえ、私はただのジャーナリストだ</td><td>政治的レッテルではなく職業としての立場を示す。</td></tr><tr><td class='chunk-en'>she countered</td><td class='chunk-role'>叙述部</td><td>彼女は反論した</td><td>counter は said より「反論・応戦」のニュアンスが強い。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>No, I&#x27;m just a journalist<button type="button" class="speak-btn speak-btn--inline" data-text="No, I&#x27;m just a journalist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法</td><td>いいえ、私はただのジャーナリストだ</td><td>政治的レッテルではなく職業としての立場を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>she countered<button type="button" class="speak-btn speak-btn--inline" data-text="she countered" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>彼女は反論した</td><td>counter は said より「反論・応戦」のニュアンスが強い。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">No, I&#x27;m just a journalist</div>
+              <div class="chunk-en speak-line">No, I&#x27;m just a journalist<button type="button" class="speak-btn speak-btn--inline" data-text="No, I&#x27;m just a journalist" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法 · いいえ、私はただのジャーナリストだ</div>
               <div>政治的レッテルではなく職業としての立場を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">she countered</div>
+              <div class="chunk-en speak-line">she countered<button type="button" class="speak-btn speak-btn--inline" data-text="she countered" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · 彼女は反論した</div>
               <div>counter は said より「反論・応戦」のニュアンスが強い。</div>
             </div>
@@ -581,8 +579,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The tone escalated again as the discussion turned to Trump&#x27;s proposed taxpayer-funded program to compensate people he believes were victims of partisan prosecution under his predecessor, Joe Biden."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The tone escalated again as the discussion turned to Trump&#x27;s proposed taxpayer-funded program to compensate people he believes were victims of partisan prosecution under his predecessor, Joe Biden." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The tone escalated again as the discussion turned to Trump&#x27;s proposed taxpayer-funded program to compensate people he believes were victims of partisan prosecution under his predecessor, Joe Biden.</p>
       <p class="translation">議論がトランプが提案する、納税者負担の補償プログラム―前任のジョー・バイデン政権下での党派色の強い訴追の被害者だと彼が信じる人々への―に移ると、再び雰囲気は険しくなった。</p>
@@ -595,29 +592,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The tone escalated again</td><td class='chunk-role'>主部</td><td>雰囲気は再び険しくなった</td><td>escalate は争い・緊張が段階的に激化する。</td></tr><tr><td class='chunk-en'>as the discussion turned to Trump&#x27;s proposed taxpayer-funded program</td><td class='chunk-role'>時を表す副詞節</td><td>議論がトランプの提案した納税者負担のプログラムに移ると</td><td>turn to = 話題が〜に移る。hyphen 繋ぎ taxpayer-funded = 税金で賄う。</td></tr><tr><td class='chunk-en'>to compensate people he believes were victims of partisan prosecution</td><td class='chunk-role'>目的の不定詞句</td><td>党派色の強い訴追の被害者だと彼が信じる人々に補償するために</td><td>compensate = 補償する。partisan prosecution = 党派性のある法的追及。</td></tr><tr><td class='chunk-en'>under his predecessor, Joe Biden</td><td class='chunk-role'>前置詞句</td><td>前任者ジョー・バイデンの下で</td><td>predecessor = 前任者（大統領）。同格 Joe Biden。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The tone escalated again<button type="button" class="speak-btn speak-btn--inline" data-text="The tone escalated again" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>雰囲気は再び険しくなった</td><td>escalate は争い・緊張が段階的に激化する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as the discussion turned to Trump&#x27;s proposed taxpayer-funded program<button type="button" class="speak-btn speak-btn--inline" data-text="as the discussion turned to Trump&#x27;s proposed taxpayer-funded program" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>議論がトランプの提案した納税者負担のプログラムに移ると</td><td>turn to = 話題が〜に移る。hyphen 繋ぎ taxpayer-funded = 税金で賄う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to compensate people he believes were victims of partisan prosecution<button type="button" class="speak-btn speak-btn--inline" data-text="to compensate people he believes were victims of partisan prosecution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的の不定詞句</td><td>党派色の強い訴追の被害者だと彼が信じる人々に補償するために</td><td>compensate = 補償する。partisan prosecution = 党派性のある法的追及。</td></tr><tr><td class='chunk-en'><span class='speak-line'>under his predecessor, Joe Biden<button type="button" class="speak-btn speak-btn--inline" data-text="under his predecessor, Joe Biden" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>前任者ジョー・バイデンの下で</td><td>predecessor = 前任者（大統領）。同格 Joe Biden。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The tone escalated again</div>
+              <div class="chunk-en speak-line">The tone escalated again<button type="button" class="speak-btn speak-btn--inline" data-text="The tone escalated again" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 雰囲気は再び険しくなった</div>
               <div>escalate は争い・緊張が段階的に激化する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as the discussion turned to Trump&#x27;s proposed taxpayer-funded program</div>
+              <div class="chunk-en speak-line">as the discussion turned to Trump&#x27;s proposed taxpayer-funded program<button type="button" class="speak-btn speak-btn--inline" data-text="as the discussion turned to Trump&#x27;s proposed taxpayer-funded program" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 議論がトランプの提案した納税者負担のプログラムに移ると</div>
               <div>turn to = 話題が〜に移る。hyphen 繋ぎ taxpayer-funded = 税金で賄う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to compensate people he believes were victims of partisan prosecution</div>
+              <div class="chunk-en speak-line">to compensate people he believes were victims of partisan prosecution<button type="button" class="speak-btn speak-btn--inline" data-text="to compensate people he believes were victims of partisan prosecution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的の不定詞句 · 党派色の強い訴追の被害者だと彼が信じる人々に補償するために</div>
               <div>compensate = 補償する。partisan prosecution = 党派性のある法的追及。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">under his predecessor, Joe Biden</div>
+              <div class="chunk-en speak-line">under his predecessor, Joe Biden<button type="button" class="speak-btn speak-btn--inline" data-text="under his predecessor, Joe Biden" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 前任者ジョー・バイデンの下で</div>
               <div>predecessor = 前任者（大統領）。同格 Joe Biden。</div>
             </div>
@@ -630,8 +627,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;I don&#x27;t know what&#x27;s going to happen with the weaponization fund,&quot; he said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;I don&#x27;t know what&#x27;s going to happen with the weaponization fund,&quot; he said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;I don&#x27;t know what&#x27;s going to happen with the weaponization fund,&quot; he said.</p>
       <p class="translation">「武器化基金がどうなるかはわからない」と彼は言った。</p>
@@ -644,17 +640,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>I don&#x27;t know what&#x27;s going to happen with the weaponization fund</td><td class='chunk-role'>直接話法（間接疑問含む）</td><td>武器化基金がどうなるかわからない</td><td>weaponization = 武器化。ここでは司法・行政の「政治利用」を指す批判的ラベル。</td></tr><tr><td class='chunk-en'>he said</td><td class='chunk-role'>叙述部</td><td>彼は言った</td><td>内容が不確かであることを示す発言。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>I don&#x27;t know what&#x27;s going to happen with the weaponization fund<button type="button" class="speak-btn speak-btn--inline" data-text="I don&#x27;t know what&#x27;s going to happen with the weaponization fund" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法（間接疑問含む）</td><td>武器化基金がどうなるかわからない</td><td>weaponization = 武器化。ここでは司法・行政の「政治利用」を指す批判的ラベル。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he said<button type="button" class="speak-btn speak-btn--inline" data-text="he said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>彼は言った</td><td>内容が不確かであることを示す発言。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">I don&#x27;t know what&#x27;s going to happen with the weaponization fund</div>
+              <div class="chunk-en speak-line">I don&#x27;t know what&#x27;s going to happen with the weaponization fund<button type="button" class="speak-btn speak-btn--inline" data-text="I don&#x27;t know what&#x27;s going to happen with the weaponization fund" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法（間接疑問含む） · 武器化基金がどうなるかわからない</div>
               <div>weaponization = 武器化。ここでは司法・行政の「政治利用」を指す批判的ラベル。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he said</div>
+              <div class="chunk-en speak-line">he said<button type="button" class="speak-btn speak-btn--inline" data-text="he said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · 彼は言った</div>
               <div>内容が不確かであることを示す発言。</div>
             </div>
@@ -667,8 +663,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;I love the idea because people like you, the fake dirty press, the crooked press, people like stupid Biden ... they destroyed people."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;I love the idea because people like you, the fake dirty press, the crooked press, people like stupid Biden ... they destroyed people." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;I love the idea because people like you, the fake dirty press, the crooked press, people like stupid Biden ... they destroyed people.</p>
       <p class="translation">「その考えは気に入っている。お前のような連中や、偽物の汚いマスコミ、不正なマスコミ、バカなバイデンのような連中が…人々を破滅させたんだ。」</p>
@@ -681,23 +676,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>I love the idea because</td><td class='chunk-role'>主節＋理由接続</td><td>その考えが好きだ、なぜなら</td><td>love the idea = 提案を支持する。</td></tr><tr><td class='chunk-en'>people like you, the fake dirty press, the crooked press, people like stupid Biden</td><td class='chunk-role'>主語（並列）</td><td>お前のような人々、偽の汚い報道機関、不正な報道機関、バイデンのような人々</td><td>like = 「〜のような」。press は報道機関（集合的）。</td></tr><tr><td class='chunk-en'>they destroyed people</td><td class='chunk-role'>述語</td><td>彼らは人々を破滅させた</td><td>destroy = 人生・ careers を台無しにした、という含意。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>I love the idea because<button type="button" class="speak-btn speak-btn--inline" data-text="I love the idea because" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節＋理由接続</td><td>その考えが好きだ、なぜなら</td><td>love the idea = 提案を支持する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>people like you, the fake dirty press, the crooked press, people like stupid Biden<button type="button" class="speak-btn speak-btn--inline" data-text="people like you, the fake dirty press, the crooked press, people like stupid Biden" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（並列）</td><td>お前のような人々、偽の汚い報道機関、不正な報道機関、バイデンのような人々</td><td>like = 「〜のような」。press は報道機関（集合的）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>they destroyed people<button type="button" class="speak-btn speak-btn--inline" data-text="they destroyed people" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>彼らは人々を破滅させた</td><td>destroy = 人生・ careers を台無しにした、という含意。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">I love the idea because</div>
+              <div class="chunk-en speak-line">I love the idea because<button type="button" class="speak-btn speak-btn--inline" data-text="I love the idea because" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節＋理由接続 · その考えが好きだ、なぜなら</div>
               <div>love the idea = 提案を支持する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">people like you, the fake dirty press, the crooked press, people like stupid Biden</div>
+              <div class="chunk-en speak-line">people like you, the fake dirty press, the crooked press, people like stupid Biden<button type="button" class="speak-btn speak-btn--inline" data-text="people like you, the fake dirty press, the crooked press, people like stupid Biden" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（並列） · お前のような人々、偽の汚い報道機関、不正な報道機関、バイデンのような人々</div>
               <div>like = 「〜のような」。press は報道機関（集合的）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">they destroyed people</div>
+              <div class="chunk-en speak-line">they destroyed people<button type="button" class="speak-btn speak-btn--inline" data-text="they destroyed people" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 彼らは人々を破滅させた</div>
               <div>destroy = 人生・ careers を台無しにした、という含意。</div>
             </div>
@@ -710,8 +705,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="They sent people to jail who did nothing wrong.&quot;"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="They sent people to jail who did nothing wrong.&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">They sent people to jail who did nothing wrong.&quot;</p>
       <p class="translation">「何も悪いことをしていない人々を投獄した。」</p>
@@ -724,17 +718,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>They sent people to jail</td><td class='chunk-role'>主部</td><td>彼らは人々を投獄した</td><td>send to jail は put in jail と同義のコロケーション。</td></tr><tr><td class='chunk-en'>who did nothing wrong</td><td class='chunk-role'>関係節</td><td>何も悪いことをしなかった</td><td>do wrong = 悪いことをする。nothing wrong = 無実。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>They sent people to jail<button type="button" class="speak-btn speak-btn--inline" data-text="They sent people to jail" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>彼らは人々を投獄した</td><td>send to jail は put in jail と同義のコロケーション。</td></tr><tr><td class='chunk-en'><span class='speak-line'>who did nothing wrong<button type="button" class="speak-btn speak-btn--inline" data-text="who did nothing wrong" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>何も悪いことをしなかった</td><td>do wrong = 悪いことをする。nothing wrong = 無実。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">They sent people to jail</div>
+              <div class="chunk-en speak-line">They sent people to jail<button type="button" class="speak-btn speak-btn--inline" data-text="They sent people to jail" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 彼らは人々を投獄した</div>
               <div>send to jail は put in jail と同義のコロケーション。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">who did nothing wrong</div>
+              <div class="chunk-en speak-line">who did nothing wrong<button type="button" class="speak-btn speak-btn--inline" data-text="who did nothing wrong" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 何も悪いことをしなかった</div>
               <div>do wrong = 悪いことをする。nothing wrong = 無実。</div>
             </div>
@@ -747,8 +741,7 @@
     <article class="sentence-block" id="s018">
       <div class="sentence-head">
         <div class="sentence-num">18</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;There is no evidence for what you&#x27;re saying,&quot; Welker said."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;There is no evidence for what you&#x27;re saying,&quot; Welker said." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;There is no evidence for what you&#x27;re saying,&quot; Welker said.</p>
       <p class="translation">「あなたの言っていることには根拠がありません」とウェルカーは言った。</p>
@@ -761,17 +754,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>There is no evidence for what you&#x27;re saying</td><td class='chunk-role'>直接話法</td><td>あなたの言っていることに対する証拠はない</td><td>事実確認を求める記者の定型反論。evidence for = 〜を裏付ける証拠。</td></tr><tr><td class='chunk-en'>Welker said</td><td class='chunk-role'>叙述部</td><td>ウェルカーは言った</td><td>冷静な事実指摘のトーン。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>There is no evidence for what you&#x27;re saying<button type="button" class="speak-btn speak-btn--inline" data-text="There is no evidence for what you&#x27;re saying" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法</td><td>あなたの言っていることに対する証拠はない</td><td>事実確認を求める記者の定型反論。evidence for = 〜を裏付ける証拠。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Welker said<button type="button" class="speak-btn speak-btn--inline" data-text="Welker said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>ウェルカーは言った</td><td>冷静な事実指摘のトーン。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">There is no evidence for what you&#x27;re saying</div>
+              <div class="chunk-en speak-line">There is no evidence for what you&#x27;re saying<button type="button" class="speak-btn speak-btn--inline" data-text="There is no evidence for what you&#x27;re saying" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法 · あなたの言っていることに対する証拠はない</div>
               <div>事実確認を求める記者の定型反論。evidence for = 〜を裏付ける証拠。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Welker said</div>
+              <div class="chunk-en speak-line">Welker said<button type="button" class="speak-btn speak-btn--inline" data-text="Welker said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · ウェルカーは言った</div>
               <div>冷静な事実指摘のトーン。</div>
             </div>
@@ -784,8 +777,7 @@
     <article class="sentence-block" id="s019">
       <div class="sentence-head">
         <div class="sentence-num">19</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Trump reiterated past false claims that the 2020 election was &quot;rigged&quot; and said last week&#x27;s primary in California was, too."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Trump reiterated past false claims that the 2020 election was &quot;rigged&quot; and said last week&#x27;s primary in California was, too." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Trump reiterated past false claims that the 2020 election was &quot;rigged&quot; and said last week&#x27;s primary in California was, too.</p>
       <p class="translation">トランプは2020年の選挙が「不正だった」という過去の虚偽の主張を繰り返し、カリフォルニア州の先週の予備選挙もそうだったと述べた。</p>
@@ -798,17 +790,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;</td><td class='chunk-role'>主部（前半）</td><td>トランプは2020年選挙が不正だったという虚偽の主張を繰り返した</td><td>rigged = 不正操作された。reiterate = say again。</td></tr><tr><td class='chunk-en'>and said last week&#x27;s primary in California was, too</td><td class='chunk-role'>述語（後半・並列）</td><td>そしてカリフォルニアの先週の予備選挙もそうだったと言った</td><td>too 前の was rigged の省略。primary = 予備選挙。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部（前半）</td><td>トランプは2020年選挙が不正だったという虚偽の主張を繰り返した</td><td>rigged = 不正操作された。reiterate = say again。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and said last week&#x27;s primary in California was, too<button type="button" class="speak-btn speak-btn--inline" data-text="and said last week&#x27;s primary in California was, too" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（後半・並列）</td><td>そしてカリフォルニアの先週の予備選挙もそうだったと言った</td><td>too 前の was rigged の省略。primary = 予備選挙。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;</div>
+              <div class="chunk-en speak-line">Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;<button type="button" class="speak-btn speak-btn--inline" data-text="Trump reiterated past false claims that the 2020 election was &quot;rigged&quot;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部（前半） · トランプは2020年選挙が不正だったという虚偽の主張を繰り返した</div>
               <div>rigged = 不正操作された。reiterate = say again。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and said last week&#x27;s primary in California was, too</div>
+              <div class="chunk-en speak-line">and said last week&#x27;s primary in California was, too<button type="button" class="speak-btn speak-btn--inline" data-text="and said last week&#x27;s primary in California was, too" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（後半・並列） · そしてカリフォルニアの先週の予備選挙もそうだったと言った</div>
               <div>too 前の was rigged の省略。primary = 予備選挙。</div>
             </div>
@@ -821,8 +813,7 @@
     <article class="sentence-block" id="s020">
       <div class="sentence-head">
         <div class="sentence-num">20</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Welker held her ground, asking the president to present evidence."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Welker held her ground, asking the president to present evidence." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Welker held her ground, asking the president to present evidence.</p>
       <p class="translation">ウェルカーは譲らず、大統領に証拠を示すよう求めた。</p>
@@ -835,17 +826,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Welker held her ground</td><td class='chunk-role'>主部</td><td>ウェルカーは自分の立場を守った</td><td>hold one&#x27;s ground = 圧力にも屈しない。</td></tr><tr><td class='chunk-en'>asking the president to present evidence</td><td class='chunk-role'>付帯状況の分詞構文</td><td>大統領に証拠を示すよう求めながら</td><td>ask someone to do = 〜に…するよう求める。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Welker held her ground<button type="button" class="speak-btn speak-btn--inline" data-text="Welker held her ground" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>ウェルカーは自分の立場を守った</td><td>hold one&#x27;s ground = 圧力にも屈しない。</td></tr><tr><td class='chunk-en'><span class='speak-line'>asking the president to present evidence<button type="button" class="speak-btn speak-btn--inline" data-text="asking the president to present evidence" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況の分詞構文</td><td>大統領に証拠を示すよう求めながら</td><td>ask someone to do = 〜に…するよう求める。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Welker held her ground</div>
+              <div class="chunk-en speak-line">Welker held her ground<button type="button" class="speak-btn speak-btn--inline" data-text="Welker held her ground" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · ウェルカーは自分の立場を守った</div>
               <div>hold one&#x27;s ground = 圧力にも屈しない。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">asking the president to present evidence</div>
+              <div class="chunk-en speak-line">asking the president to present evidence<button type="button" class="speak-btn speak-btn--inline" data-text="asking the president to present evidence" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況の分詞構文 · 大統領に証拠を示すよう求めながら</div>
               <div>ask someone to do = 〜に…するよう求める。</div>
             </div>
@@ -858,8 +849,7 @@
     <article class="sentence-block" id="s021">
       <div class="sentence-head">
         <div class="sentence-num">21</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="&quot;You are either crooked or you&#x27;re stupid,&quot; Trump finally shot back before leaving the camera&#x27;s view while Welker attempted to keep him engaged."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="&quot;You are either crooked or you&#x27;re stupid,&quot; Trump finally shot back before leaving the camera&#x27;s view while Welker attempted to keep him engaged." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">&quot;You are either crooked or you&#x27;re stupid,&quot; Trump finally shot back before leaving the camera&#x27;s view while Welker attempted to keep him engaged.</p>
       <p class="translation">「お前は不正か、さもなければバカかのどちらかだ」とトランプはついに言い返し、ウェルカーが話を続けようとしている間にカメラの外へ去った。</p>
@@ -872,29 +862,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>You are either crooked or you&#x27;re stupid</td><td class='chunk-role'>直接話法</td><td>あなたは不正かバカかだ</td><td>either or で二者択一の侮辱。shot back の内容。</td></tr><tr><td class='chunk-en'>Trump finally shot back</td><td class='chunk-role'>叙述部</td><td>トランプはついに言い返した</td><td>shot back = sharply replied。finally は「ついに／いよいよ」。</td></tr><tr><td class='chunk-en'>before leaving the camera&#x27;s view</td><td class='chunk-role'>時を表す副詞句</td><td>カメラの画角から去る前に</td><td>leave one&#x27;s view = 視界から消える。</td></tr><tr><td class='chunk-en'>while Welker attempted to keep him engaged</td><td class='chunk-role'>時を表す副詞節</td><td>ウェルカーが彼の関心を引き留めようとしている間に</td><td>keep someone engaged = 会話・取材を続けさせる。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>You are either crooked or you&#x27;re stupid<button type="button" class="speak-btn speak-btn--inline" data-text="You are either crooked or you&#x27;re stupid" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法</td><td>あなたは不正かバカかだ</td><td>either or で二者択一の侮辱。shot back の内容。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Trump finally shot back<button type="button" class="speak-btn speak-btn--inline" data-text="Trump finally shot back" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>トランプはついに言い返した</td><td>shot back = sharply replied。finally は「ついに／いよいよ」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>before leaving the camera&#x27;s view<button type="button" class="speak-btn speak-btn--inline" data-text="before leaving the camera&#x27;s view" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>カメラの画角から去る前に</td><td>leave one&#x27;s view = 視界から消える。</td></tr><tr><td class='chunk-en'><span class='speak-line'>while Welker attempted to keep him engaged<button type="button" class="speak-btn speak-btn--inline" data-text="while Welker attempted to keep him engaged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>ウェルカーが彼の関心を引き留めようとしている間に</td><td>keep someone engaged = 会話・取材を続けさせる。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">You are either crooked or you&#x27;re stupid</div>
+              <div class="chunk-en speak-line">You are either crooked or you&#x27;re stupid<button type="button" class="speak-btn speak-btn--inline" data-text="You are either crooked or you&#x27;re stupid" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法 · あなたは不正かバカかだ</div>
               <div>either or で二者択一の侮辱。shot back の内容。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Trump finally shot back</div>
+              <div class="chunk-en speak-line">Trump finally shot back<button type="button" class="speak-btn speak-btn--inline" data-text="Trump finally shot back" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · トランプはついに言い返した</div>
               <div>shot back = sharply replied。finally は「ついに／いよいよ」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">before leaving the camera&#x27;s view</div>
+              <div class="chunk-en speak-line">before leaving the camera&#x27;s view<button type="button" class="speak-btn speak-btn--inline" data-text="before leaving the camera&#x27;s view" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · カメラの画角から去る前に</div>
               <div>leave one&#x27;s view = 視界から消える。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">while Welker attempted to keep him engaged</div>
+              <div class="chunk-en speak-line">while Welker attempted to keep him engaged<button type="button" class="speak-btn speak-btn--inline" data-text="while Welker attempted to keep him engaged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · ウェルカーが彼の関心を引き留めようとしている間に</div>
               <div>keep someone engaged = 会話・取材を続けさせる。</div>
             </div>
@@ -907,8 +897,7 @@
     <article class="sentence-block" id="s022">
       <div class="sentence-head">
         <div class="sentence-num">22</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="On Sunday, Welker told viewers that she had spoken with Trump on Saturday about the weather disruptions and that he had agreed to give her another interview."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="On Sunday, Welker told viewers that she had spoken with Trump on Saturday about the weather disruptions and that he had agreed to give her another interview." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">On Sunday, Welker told viewers that she had spoken with Trump on Saturday about the weather disruptions and that he had agreed to give her another interview.</p>
       <p class="translation">日曜日、ウェルカーは視聴者に、土曜にトランプと天候による中断について話し、彼が再インタビューに応じることに同意したと伝えた。</p>
@@ -921,23 +910,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>On Sunday, Welker told viewers</td><td class='chunk-role'>主部</td><td>日曜にウェルカーは視聴者に伝えた</td><td>tell viewers that ... = 視聴者に〜と伝える。</td></tr><tr><td class='chunk-en'>that she had spoken with Trump on Saturday about the weather disruptions</td><td class='chunk-role'>間接話法のthat節1</td><td>土曜にトランプと天候の乱れについて話したと</td><td>過去完了は「伝えた時点より前」の出来事。</td></tr><tr><td class='chunk-en'>and that he had agreed to give her another interview</td><td class='chunk-role'>間接話法のthat節2</td><td>そして彼が再インタビューを与えることに同意したと</td><td>agree to do = 〜することに同意する。another interview で再取材の予定。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>On Sunday, Welker told viewers<button type="button" class="speak-btn speak-btn--inline" data-text="On Sunday, Welker told viewers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>日曜にウェルカーは視聴者に伝えた</td><td>tell viewers that ... = 視聴者に〜と伝える。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that she had spoken with Trump on Saturday about the weather disruptions<button type="button" class="speak-btn speak-btn--inline" data-text="that she had spoken with Trump on Saturday about the weather disruptions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>間接話法のthat節1</td><td>土曜にトランプと天候の乱れについて話したと</td><td>過去完了は「伝えた時点より前」の出来事。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and that he had agreed to give her another interview<button type="button" class="speak-btn speak-btn--inline" data-text="and that he had agreed to give her another interview" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>間接話法のthat節2</td><td>そして彼が再インタビューを与えることに同意したと</td><td>agree to do = 〜することに同意する。another interview で再取材の予定。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">On Sunday, Welker told viewers</div>
+              <div class="chunk-en speak-line">On Sunday, Welker told viewers<button type="button" class="speak-btn speak-btn--inline" data-text="On Sunday, Welker told viewers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 日曜にウェルカーは視聴者に伝えた</div>
               <div>tell viewers that ... = 視聴者に〜と伝える。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that she had spoken with Trump on Saturday about the weather disruptions</div>
+              <div class="chunk-en speak-line">that she had spoken with Trump on Saturday about the weather disruptions<button type="button" class="speak-btn speak-btn--inline" data-text="that she had spoken with Trump on Saturday about the weather disruptions" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">間接話法のthat節1 · 土曜にトランプと天候の乱れについて話したと</div>
               <div>過去完了は「伝えた時点より前」の出来事。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and that he had agreed to give her another interview</div>
+              <div class="chunk-en speak-line">and that he had agreed to give her another interview<button type="button" class="speak-btn speak-btn--inline" data-text="and that he had agreed to give her another interview" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">間接話法のthat節2 · そして彼が再インタビューを与えることに同意したと</div>
               <div>agree to do = 〜することに同意する。another interview で再取材の予定。</div>
             </div>
@@ -950,134 +939,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>storm out</h3>
-                <button type="button" class="speak-btn" data-text="storm out"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="storm out" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/stɔːrm aʊt/</div>
               <p>怒って立ち去る、憤然として退席する</p>
-              <p class="example-en"><em>He angrily stormed out of the interview.</em></p>
+              <p class="example-en speak-line"><em>He angrily stormed out of the interview.</em><button type="button" class="speak-btn speak-btn--inline" data-text="He angrily stormed out of the interview." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">彼は怒ってインタビューから立ち去った。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>unfounded</h3>
-                <button type="button" class="speak-btn" data-text="unfounded"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="unfounded" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ʌnˈfaʊndɪd/</div>
               <p>根拠のない、事実に基づかない</p>
-              <p class="example-en"><em>unfounded claims of election fraud</em></p>
+              <p class="example-en speak-line"><em>unfounded claims of election fraud</em><button type="button" class="speak-btn speak-btn--inline" data-text="unfounded claims of election fraud" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">根拠のない選挙不正の主張</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>torrential</h3>
-                <button type="button" class="speak-btn" data-text="torrential"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="torrential" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/təˈrɛnʃəl/</div>
               <p>（雨が）激しい、豪雨の</p>
-              <p class="example-en"><em>torrential rain pounded the roof</em></p>
+              <p class="example-en speak-line"><em>torrential rain pounded the roof</em><button type="button" class="speak-btn speak-btn--inline" data-text="torrential rain pounded the roof" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">激しい雨が屋根を叩いた</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>counter</h3>
-                <button type="button" class="speak-btn" data-text="counter"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="counter" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈkaʊntər/</div>
               <p>反論する、言い返す</p>
-              <p class="example-en"><em>&quot;No, I&#x27;m just a journalist,&quot; she countered.</em></p>
+              <p class="example-en speak-line"><em>&quot;No, I&#x27;m just a journalist,&quot; she countered.</em><button type="button" class="speak-btn speak-btn--inline" data-text="&quot;No, I&#x27;m just a journalist,&quot; she countered." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">「いいえ、私はただのジャーナリストです」と彼女は反論した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>escalate</h3>
-                <button type="button" class="speak-btn" data-text="escalate"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="escalate" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈɛskəleɪt/</div>
               <p>エスカレートする、激化する</p>
-              <p class="example-en"><em>The tone escalated again.</em></p>
+              <p class="example-en speak-line"><em>The tone escalated again.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The tone escalated again." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">再び雰囲気が険しくなった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>hold one&#x27;s ground</h3>
-                <button type="button" class="speak-btn" data-text="hold one&#x27;s ground"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="hold one&#x27;s ground" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/hoʊld wʌnz ɡraʊnd/</div>
               <p>譲らない、立場を守る</p>
-              <p class="example-en"><em>Welker held her ground, asking the president to present evidence.</em></p>
+              <p class="example-en speak-line"><em>Welker held her ground, asking the president to present evidence.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Welker held her ground, asking the president to present evidence." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ウェルカーは譲らず、大統領に証拠を示すよう求めた。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>reiterate</h3>
-                <button type="button" class="speak-btn" data-text="reiterate"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="reiterate" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/riˈɪtəreɪt/</div>
               <p>繰り返し述べる、再度言う</p>
-              <p class="example-en"><em>Trump reiterated past false claims.</em></p>
+              <p class="example-en speak-line"><em>Trump reiterated past false claims.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Trump reiterated past false claims." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">トランプは過去の虚偽の主張を繰り返した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>rigged</h3>
-                <button type="button" class="speak-btn" data-text="rigged"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="rigged" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/rɪɡd/</div>
               <p>不正操作された、ごまかされた</p>
-              <p class="example-en"><em>claims that the election was rigged</em></p>
+              <p class="example-en speak-line"><em>claims that the election was rigged</em><button type="button" class="speak-btn speak-btn--inline" data-text="claims that the election was rigged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">選挙が不正だったという主張</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Reported speech with said / told / countered</h3>
-              <p>Use &#x27;told + person&#x27; for direct recipients; &#x27;said&#x27; or &#x27;countered&#x27; often follow the quote. Narration verbs vary in tone (counter = rebut, shot back = sharp reply).</p>
-              <p class="example-en"><em>&quot;No, I&#x27;m just a journalist,&quot; she countered.</em></p>
+              <div class="grammar-head">
+                <h3>Reported speech with said / told / countered</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reported speech with said / told / countered" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;told + person&#x27; for direct recipients; &#x27;said&#x27; or &#x27;countered&#x27; often follow the quote. Narration verbs vary in tone (counter = rebut, shot back = sharp reply).<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;told + person&#x27; for direct recipients; &#x27;said&#x27; or &#x27;countered&#x27; often follow the quote. Narration verbs vary in tone (counter = rebut, shot back = sharp reply)." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>&quot;No, I&#x27;m just a journalist,&quot; she countered.</em><button type="button" class="speak-btn speak-btn--inline" data-text="&quot;No, I&#x27;m just a journalist,&quot; she countered." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>引用の後（または前）に叙述動詞を置き、誰がどんなトーンで話したかを示す。counter は反論、shot back は鋭い言い返し、told は特定の相手への発言を示す。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Participial clauses showing result or manner</h3>
-              <p>Present participle (-ing) after a comma can show a resulting situation or simultaneous action: &#x27;..., making it difficult to ...&#x27; / &#x27;..., asking the president to ...&#x27;</p>
-              <p class="example-en"><em>torrential rain pounded the roof, making it difficult to continue the conversation.</em></p>
+              <div class="grammar-head">
+                <h3>Participial clauses showing result or manner</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Participial clauses showing result or manner" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Present participle (-ing) after a comma can show a resulting situation or simultaneous action: &#x27;..., making it difficult to ...&#x27; / &#x27;..., asking the president to ...&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="Present participle (-ing) after a comma can show a resulting situation or simultaneous action: &#x27;..., making it difficult to ...&#x27; / &#x27;..., asking the president to ...&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>torrential rain pounded the roof, making it difficult to continue the conversation.</em><button type="button" class="speak-btn speak-btn--inline" data-text="torrential rain pounded the roof, making it difficult to continue the conversation." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>主節の結果や付随する動作を分詞構文でつなぐ。making it + 形容詞 + to不定詞 は「〜することを…にする」という結果の構文。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Reduced repetition with &#x27;too&#x27; and post-modifying relatives</h3>
-              <p>After &#x27;too&#x27;, repeat only the auxiliary/verb if needed: &#x27;was rigged ... was, too.&#x27; Relative clauses can follow the noun: &#x27;people who did nothing wrong.&#x27;</p>
-              <p class="example-en"><em>said last week&#x27;s primary in California was, too.</em></p>
+              <div class="grammar-head">
+                <h3>Reduced repetition with &#x27;too&#x27; and post-modifying relatives</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reduced repetition with &#x27;too&#x27; and post-modifying relatives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">After &#x27;too&#x27;, repeat only the auxiliary/verb if needed: &#x27;was rigged ... was, too.&#x27; Relative clauses can follow the noun: &#x27;people who did nothing wrong.&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="After &#x27;too&#x27;, repeat only the auxiliary/verb if needed: &#x27;was rigged ... was, too.&#x27; Relative clauses can follow the noun: &#x27;people who did nothing wrong.&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>said last week&#x27;s primary in California was, too.</em><button type="button" class="speak-btn speak-btn--inline" data-text="said last week&#x27;s primary in California was, too." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>too の前で述語を省略し、前文を受ける（was rigged が省略）。関係節 who did nothing wrong は people を後ろから修飾する。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Past perfect for earlier past events</h3>
-              <p>Use &#x27;had + past participle&#x27; when describing events that happened before another past time (e.g., before Sunday&#x27;s broadcast).</p>
-              <p class="example-en"><em>she had spoken with Trump on Saturday ... he had agreed to give her another interview.</em></p>
+              <div class="grammar-head">
+                <h3>Past perfect for earlier past events</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Past perfect for earlier past events" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;had + past participle&#x27; when describing events that happened before another past time (e.g., before Sunday&#x27;s broadcast).<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;had + past participle&#x27; when describing events that happened before another past time (e.g., before Sunday&#x27;s broadcast)." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>she had spoken with Trump on Saturday ... he had agreed to give her another interview.</em><button type="button" class="speak-btn speak-btn--inline" data-text="she had spoken with Trump on Saturday ... he had agreed to give her another interview." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>過去のある時点（日曜に伝えた）より前の出来事（土曜の会話・同意）を過去完了形で表す。時系列を明確にするニュース文末のよくあるパターン。</p>
             </div>
             </div>
@@ -1085,7 +1078,8 @@
 
     
 
-    <footer>English News Digest · 2026-06-08</footer>
+    <footer class="speak-line">English News Digest · 2026-06-08
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

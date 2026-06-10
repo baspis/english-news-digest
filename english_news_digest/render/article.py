@@ -7,6 +7,7 @@ import html
 from ..comments import load_comments, render_community_appendix
 from ..schemas import ArticleRecord, Edition
 from .assets import page_shell
+from .speech import speak_button
 
 
 def render_chunks_table(chunks: list[dict]) -> str:
@@ -15,9 +16,12 @@ def render_chunks_table(chunks: list[dict]) -> str:
     rows = []
     stack = []
     for ch in chunks:
+        chunk_text = ch.get("text", "")
+        chunk_btn = speak_button(chunk_text, compact=True)
         rows.append(
             f"<tr>"
-            f"<td class='chunk-en'>{html.escape(ch.get('text', ''))}</td>"
+            f"<td class='chunk-en'><span class='speak-line'>{html.escape(chunk_text)}"
+            f"{chunk_btn}</span></td>"
             f"<td class='chunk-role'>{html.escape(ch.get('role_ja', ''))}</td>"
             f"<td>{html.escape(ch.get('literal_ja', ''))}</td>"
             f"<td>{html.escape(ch.get('note_ja', ''))}</td>"
@@ -26,7 +30,7 @@ def render_chunks_table(chunks: list[dict]) -> str:
         stack.append(
             f"""
             <div class="chunk-card">
-              <div class="chunk-en">{html.escape(ch.get('text', ''))}</div>
+              <div class="chunk-en speak-line">{html.escape(chunk_text)}{chunk_btn}</div>
               <div class="chunk-meta">{html.escape(ch.get('role_ja', ''))} · {html.escape(ch.get('literal_ja', ''))}</div>
               <div>{html.escape(ch.get('note_ja', ''))}</div>
             </div>
@@ -66,8 +70,7 @@ def render_sentence_block(idx: int, sent: dict) -> str:
     <article class="sentence-block" id="{html.escape(sid)}">
       <div class="sentence-head">
         <div class="sentence-num">{idx:02d}</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="{html.escape(text, quote=True)}"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        {speak_button(text, aria_label="英文を読み上げ")}
       </div>
       <p class="sentence-en">{html.escape(text)}</p>
       <p class="translation">{html.escape(sent.get('translation_ja', ''))}</p>
@@ -89,17 +92,17 @@ def render_article_page(
     vocab_html = []
     for vocab in analysis.get("vocabulary", []):
         word = vocab.get("word", "")
+        example = vocab.get("example", "")
         vocab_html.append(
             f"""
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>{html.escape(word)}</h3>
-                <button type="button" class="speak-btn" data-text="{html.escape(word, quote=True)}"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                {speak_button(word, aria_label="発音を再生")}
               </div>
               <div class="pron">{html.escape(vocab.get('pronunciation', ''))}</div>
               <p>{html.escape(vocab.get('meaning_ja', ''))}</p>
-              <p class="example-en"><em>{html.escape(vocab.get('example', ''))}</em></p>
+              <p class="example-en speak-line"><em>{html.escape(example)}</em>{speak_button(example, compact=True)}</p>
               <p class="example-ja">{html.escape(vocab.get('example_ja', ''))}</p>
             </div>
             """
@@ -107,12 +110,18 @@ def render_article_page(
 
     grammar_html = []
     for gp in analysis.get("grammar_points", []):
+        title = gp.get("title", "")
+        rule = gp.get("rule", "")
+        example = gp.get("example", "")
         grammar_html.append(
             f"""
             <div class="grammar-card">
-              <h3>{html.escape(gp.get('title', ''))}</h3>
-              <p>{html.escape(gp.get('rule', ''))}</p>
-              <p class="example-en"><em>{html.escape(gp.get('example', ''))}</em></p>
+              <div class="grammar-head">
+                <h3>{html.escape(title)}</h3>
+                {speak_button(title, compact=True)}
+              </div>
+              <p class="speak-line">{html.escape(rule)}{speak_button(rule, compact=True)}</p>
+              <p class="example-en speak-line"><em>{html.escape(example)}</em>{speak_button(example, compact=True)}</p>
               <p>{html.escape(gp.get('meaning_ja', ''))}</p>
             </div>
             """
@@ -122,45 +131,57 @@ def render_article_page(
     short_title = record.title if len(record.title) < 48 else record.title[:45] + "..."
 
     body = f"""
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      {speak_button("Calendar", compact=True)}
       <span class="sep">/</span>
       <a href="{edition_url}">{html.escape(edition.edition_date)}</a>
       <span class="sep">/</span>
       <span>{html.escape(short_title)}</span>
+      {speak_button(short_title, compact=True)}
     </nav>
     <header class="panel page-header">
-      <span class="badge {html.escape(record.category)}">{html.escape(record.category)}</span>
-      <h1>{html.escape(record.title)}</h1>
-      <div class="meta">{html.escape(record.source)} · {html.escape(record.source_published_date_jst)}</div>
+      <div class="title-head">
+        <span class="badge {html.escape(record.category)}">{html.escape(record.category)}</span>
+        {speak_button(record.category, aria_label="カテゴリを読み上げ", compact=True)}
+      </div>
+      <div class="title-head">
+        <h1>{html.escape(record.title)}</h1>
+        {speak_button(record.title, aria_label="タイトルを読み上げ")}
+      </div>
+      <p class="meta speak-line">{html.escape(record.source)}{speak_button(record.source, compact=True)}
+        · {html.escape(record.source_published_date_jst)}</p>
       <div class="summary-ja">{html.escape(analysis.get('summary_ja', ''))}</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="{html.escape(record.source_url, quote=True)}" target="_blank" rel="noopener">Original ↗</a>
+        {speak_button("Original", compact=True)}
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        {speak_button("Collapse all deep dives", compact=True)}
       </div>
       {''.join(sentences_html)}
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary{speak_button("Vocabulary", compact=True)}</h2>
       <div class="vocab-grid">{''.join(vocab_html)}</div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus{speak_button("Grammar focus", compact=True)}</h2>
       <div class="grammar-grid">{''.join(grammar_html)}</div>
     </section>
 
     {render_community_appendix(load_comments(record.article_id))}
 
-    <footer>English News Digest · {html.escape(edition.edition_date)}</footer>
+    <footer class="speak-line">English News Digest · {html.escape(edition.edition_date)}
+      {speak_button("English News Digest", compact=True)}</footer>
     """
     return page_shell(
         record.title,

@@ -8,6 +8,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from .assets import page_shell
+from .speech import speak_button
 
 JST = ZoneInfo("Asia/Tokyo")
 
@@ -65,10 +66,14 @@ def render_calendar_page(calendar_index: dict, focus_day: str) -> str:
             else:
                 cells.append(f'<div class="{" ".join(classes)}">{day_num}</div>')
 
+    lede = (
+        "Choose a daily edition. Each date is the Japan Today publication day (JST), "
+        "not the day the digest was built."
+    )
     body = f"""
     <header class="panel page-header">
-      <h1>English News Digest</h1>
-      <p class="lede">Choose a daily edition.</p>
+      <h1 class="speak-line">English News Digest{speak_button("English News Digest")}</h1>
+      <p class="lede speak-line">{html.escape(lede)}{speak_button(lede)}</p>
     </header>
     <section class="panel">
       <div class="cal-header">
@@ -76,6 +81,6 @@ def render_calendar_page(calendar_index: dict, focus_day: str) -> str:
       </div>
       <div class="cal-grid">{''.join(cells)}</div>
     </section>
-    <footer>English News Digest</footer>
+    <footer class="speak-line">English News Digest{speak_button("English News Digest", compact=True)}</footer>
     """
     return page_shell("English News Digest", body, assets_prefix="assets")

@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-04</a>
       <span class="sep">/</span>
       <span>House defies Trump and approves war powers re...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="House defies Trump and approves war powers re..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge world">world</span>
-      <h1>House defies Trump and approves war powers resolution to halt military action against Iran</h1>
-      <div class="meta">Japan Today World · 2026-06-04</div>
+      <div class="title-head">
+        <span class="badge world">world</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="world" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>House defies Trump and approves war powers resolution to halt military action against Iran</h1>
+        <button type="button" class="speak-btn" data-text="House defies Trump and approves war powers resolution to halt military action against Iran" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today World<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today World" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-04</p>
       <div class="summary-ja">米国下院は水曜日、イランへの軍事行動を停止させる戦争権限決議を可決し、トランプ大統領に逆らう形で少数の共和党員が民主党とともに3か月続く戦争の終結を求めた。決議は即時に戦争を止めるものではないが、さらなる軍事行動への象徴的な制約となり得る。一方、政権は停戦宣言を根拠に戦争権限法の適用を否定する姿勢を示している。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/world/house-again-considers-war-powers-resolution-to-halt-military-action-against-iran" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The House approved a war powers resolution Wednesday that would halt the U.S. military action against Iran, defying President Donald Trump as a handful of Republicans joined with Democrats to end the three-month-long war that has reordered politics at home and abroad."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The House approved a war powers resolution Wednesday that would halt the U.S. military action against Iran, defying President Donald Trump as a handful of Republicans joined with Democrats to end the three-month-long war that has reordered politics at home and abroad." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The House approved a war powers resolution Wednesday that would halt the U.S. military action against Iran, defying President Donald Trump as a handful of Republicans joined with Democrats to end the three-month-long war that has reordered politics at home and abroad.</p>
       <p class="translation">下院は水曜日、イランに対する米軍の軍事行動を停止させる戦争権限決議を可決した。少数の共和党員が民主党とともに3か月続く戦争の終結に加わり、ドナルド・トランプ大統領に逆らう形となった。この戦争は国内外の政治の様相を大きく変えてきた。</p>
@@ -60,47 +70,47 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The House</td><td class='chunk-role'>主語</td><td>下院は</td><td>the House = 米国下院（House of Representatives）。単独で「下院」と訳すのがニュース慣例。</td></tr><tr><td class='chunk-en'>approved a war powers resolution</td><td class='chunk-role'>述語＋目的語</td><td>戦争権限決議を可決した</td><td>war powers resolutionは議会が大統領の軍事行動を制限する決議。approveは法案・決議の「可決」。</td></tr><tr><td class='chunk-en'>that would halt the U.S. military action against Iran</td><td class='chunk-role'>関係節（決議を修飾）</td><td>イランに対する米軍の軍事行動を停止させる</td><td>wouldは仮定・将来の効果。halt = stop（公式・報道向け）。</td></tr><tr><td class='chunk-en'>defying President Donald Trump</td><td class='chunk-role'>分詞構文（付帯状況）</td><td>トランプ大統領に逆らって</td><td>defy = 権威に立ち向かう。分詞で「そのような形で」というニュアンス。</td></tr><tr><td class='chunk-en'>a handful of Republicans joined with Democrats</td><td class='chunk-role'>副詞節の主部</td><td>少数の共和党員が民主党と加わり</td><td>a handful of = ごく少数。join withは協力・同調の意味。</td></tr><tr><td class='chunk-en'>to end the three-month-long war</td><td class='chunk-role'>不定詞（目的）</td><td>3か月続く戦争を終わらせるために</td><td>three-month-longはハイフンでつなぐ複合形容詞。</td></tr><tr><td class='chunk-en'>that has reordered politics at home and abroad</td><td class='chunk-role'>関係節（戦争を修飾）</td><td>国内外の政治の様相を変えてきた</td><td>at home and abroad = 国内外。reorderは比喩的に政治地図を組み替えた意。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The House<button type="button" class="speak-btn speak-btn--inline" data-text="The House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>下院は</td><td>the House = 米国下院（House of Representatives）。単独で「下院」と訳すのがニュース慣例。</td></tr><tr><td class='chunk-en'><span class='speak-line'>approved a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="approved a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語</td><td>戦争権限決議を可決した</td><td>war powers resolutionは議会が大統領の軍事行動を制限する決議。approveは法案・決議の「可決」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that would halt the U.S. military action against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="that would halt the U.S. military action against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節（決議を修飾）</td><td>イランに対する米軍の軍事行動を停止させる</td><td>wouldは仮定・将来の効果。halt = stop（公式・報道向け）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>defying President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="defying President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（付帯状況）</td><td>トランプ大統領に逆らって</td><td>defy = 権威に立ち向かう。分詞で「そのような形で」というニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a handful of Republicans joined with Democrats<button type="button" class="speak-btn speak-btn--inline" data-text="a handful of Republicans joined with Democrats" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節の主部</td><td>少数の共和党員が民主党と加わり</td><td>a handful of = ごく少数。join withは協力・同調の意味。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to end the three-month-long war<button type="button" class="speak-btn speak-btn--inline" data-text="to end the three-month-long war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>3か月続く戦争を終わらせるために</td><td>three-month-longはハイフンでつなぐ複合形容詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that has reordered politics at home and abroad<button type="button" class="speak-btn speak-btn--inline" data-text="that has reordered politics at home and abroad" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節（戦争を修飾）</td><td>国内外の政治の様相を変えてきた</td><td>at home and abroad = 国内外。reorderは比喩的に政治地図を組み替えた意。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The House</div>
+              <div class="chunk-en speak-line">The House<button type="button" class="speak-btn speak-btn--inline" data-text="The House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 下院は</div>
               <div>the House = 米国下院（House of Representatives）。単独で「下院」と訳すのがニュース慣例。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">approved a war powers resolution</div>
+              <div class="chunk-en speak-line">approved a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="approved a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語 · 戦争権限決議を可決した</div>
               <div>war powers resolutionは議会が大統領の軍事行動を制限する決議。approveは法案・決議の「可決」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that would halt the U.S. military action against Iran</div>
+              <div class="chunk-en speak-line">that would halt the U.S. military action against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="that would halt the U.S. military action against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節（決議を修飾） · イランに対する米軍の軍事行動を停止させる</div>
               <div>wouldは仮定・将来の効果。halt = stop（公式・報道向け）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">defying President Donald Trump</div>
+              <div class="chunk-en speak-line">defying President Donald Trump<button type="button" class="speak-btn speak-btn--inline" data-text="defying President Donald Trump" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（付帯状況） · トランプ大統領に逆らって</div>
               <div>defy = 権威に立ち向かう。分詞で「そのような形で」というニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a handful of Republicans joined with Democrats</div>
+              <div class="chunk-en speak-line">a handful of Republicans joined with Democrats<button type="button" class="speak-btn speak-btn--inline" data-text="a handful of Republicans joined with Democrats" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節の主部 · 少数の共和党員が民主党と加わり</div>
               <div>a handful of = ごく少数。join withは協力・同調の意味。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to end the three-month-long war</div>
+              <div class="chunk-en speak-line">to end the three-month-long war<button type="button" class="speak-btn speak-btn--inline" data-text="to end the three-month-long war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 3か月続く戦争を終わらせるために</div>
               <div>three-month-longはハイフンでつなぐ複合形容詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that has reordered politics at home and abroad</div>
+              <div class="chunk-en speak-line">that has reordered politics at home and abroad<button type="button" class="speak-btn speak-btn--inline" data-text="that has reordered politics at home and abroad" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節（戦争を修飾） · 国内外の政治の様相を変えてきた</div>
               <div>at home and abroad = 国内外。reorderは比喩的に政治地図を組み替えた意。</div>
             </div>
@@ -113,8 +123,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="House Speaker Mike Johnson had tried to prevent an outcome that would show the mounting opposition to the war, abruptly shutting down floor action two weeks ago when the war powers resolution was on the verge of approval."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="House Speaker Mike Johnson had tried to prevent an outcome that would show the mounting opposition to the war, abruptly shutting down floor action two weeks ago when the war powers resolution was on the verge of approval." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">House Speaker Mike Johnson had tried to prevent an outcome that would show the mounting opposition to the war, abruptly shutting down floor action two weeks ago when the war powers resolution was on the verge of approval.</p>
       <p class="translation">下院議長のマイク・ジョンソンは、戦争への反対が高まっていることを示す結果を防ごうとしていた。2週間前、戦争権限決議が可決目前となった際、議会の本会議進行を突然打ち切った。</p>
@@ -127,35 +136,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>House Speaker Mike Johnson</td><td class='chunk-role'>主語</td><td>下院議長マイク・ジョンソンは</td><td>Speaker = 下院議長。役職＋氏名の順。</td></tr><tr><td class='chunk-en'>had tried to prevent an outcome</td><td class='chunk-role'>述語</td><td>ある結果を防ごうとしていた</td><td>had triedはその時点より前の試み。outcome = 結果・帰結。</td></tr><tr><td class='chunk-en'>that would show the mounting opposition to the war</td><td class='chunk-role'>関係節</td><td>戦争への高まる反対を示す</td><td>mounting = 増大している。opposition to = ～への反対。</td></tr><tr><td class='chunk-en'>abruptly shutting down floor action</td><td class='chunk-role'>分詞構文</td><td>本会議の進行を突然停止して</td><td>floor action = 議会本会議での審議・採決。shut down = 中断する。</td></tr><tr><td class='chunk-en'>when the war powers resolution was on the verge of approval</td><td class='chunk-role'>時を表す副詞節</td><td>戦争権限決議が可決目前だったとき</td><td>on the verge of = まさに～の瀬戸際。approval = 可決。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>House Speaker Mike Johnson<button type="button" class="speak-btn speak-btn--inline" data-text="House Speaker Mike Johnson" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>下院議長マイク・ジョンソンは</td><td>Speaker = 下院議長。役職＋氏名の順。</td></tr><tr><td class='chunk-en'><span class='speak-line'>had tried to prevent an outcome<button type="button" class="speak-btn speak-btn--inline" data-text="had tried to prevent an outcome" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>ある結果を防ごうとしていた</td><td>had triedはその時点より前の試み。outcome = 結果・帰結。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that would show the mounting opposition to the war<button type="button" class="speak-btn speak-btn--inline" data-text="that would show the mounting opposition to the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>戦争への高まる反対を示す</td><td>mounting = 増大している。opposition to = ～への反対。</td></tr><tr><td class='chunk-en'><span class='speak-line'>abruptly shutting down floor action<button type="button" class="speak-btn speak-btn--inline" data-text="abruptly shutting down floor action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>本会議の進行を突然停止して</td><td>floor action = 議会本会議での審議・採決。shut down = 中断する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>when the war powers resolution was on the verge of approval<button type="button" class="speak-btn speak-btn--inline" data-text="when the war powers resolution was on the verge of approval" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>戦争権限決議が可決目前だったとき</td><td>on the verge of = まさに～の瀬戸際。approval = 可決。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">House Speaker Mike Johnson</div>
+              <div class="chunk-en speak-line">House Speaker Mike Johnson<button type="button" class="speak-btn speak-btn--inline" data-text="House Speaker Mike Johnson" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 下院議長マイク・ジョンソンは</div>
               <div>Speaker = 下院議長。役職＋氏名の順。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">had tried to prevent an outcome</div>
+              <div class="chunk-en speak-line">had tried to prevent an outcome<button type="button" class="speak-btn speak-btn--inline" data-text="had tried to prevent an outcome" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ある結果を防ごうとしていた</div>
               <div>had triedはその時点より前の試み。outcome = 結果・帰結。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that would show the mounting opposition to the war</div>
+              <div class="chunk-en speak-line">that would show the mounting opposition to the war<button type="button" class="speak-btn speak-btn--inline" data-text="that would show the mounting opposition to the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 戦争への高まる反対を示す</div>
               <div>mounting = 増大している。opposition to = ～への反対。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">abruptly shutting down floor action</div>
+              <div class="chunk-en speak-line">abruptly shutting down floor action<button type="button" class="speak-btn speak-btn--inline" data-text="abruptly shutting down floor action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 本会議の進行を突然停止して</div>
               <div>floor action = 議会本会議での審議・採決。shut down = 中断する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">when the war powers resolution was on the verge of approval</div>
+              <div class="chunk-en speak-line">when the war powers resolution was on the verge of approval<button type="button" class="speak-btn speak-btn--inline" data-text="when the war powers resolution was on the verge of approval" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 戦争権限決議が可決目前だったとき</div>
               <div>on the verge of = まさに～の瀬戸際。approval = 可決。</div>
             </div>
@@ -168,8 +177,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="But displeasure has only grown as the conflict drags on and as Trump struggles to negotiate a quick resolution."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="But displeasure has only grown as the conflict drags on and as Trump struggles to negotiate a quick resolution." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">But displeasure has only grown as the conflict drags on and as Trump struggles to negotiate a quick resolution.</p>
       <p class="translation">しかし紛争が長引くにつれ、またトランプが早期解決の交渉に苦戦するなか、不満はむしろ高まる一方だ。</p>
@@ -182,23 +190,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>displeasure has only grown</td><td class='chunk-role'>主語＋述語</td><td>不満はますます高まった</td><td>onlyはここで「かえって・ますます」の強調。</td></tr><tr><td class='chunk-en'>as the conflict drags on</td><td class='chunk-role'>理由・背景の副詞節</td><td>紛争が長引くにつれ</td><td>drag on = だらだら続く（ネガティブ）。</td></tr><tr><td class='chunk-en'>as Trump struggles to negotiate a quick resolution</td><td class='chunk-role'>理由・背景の副詞節</td><td>トランプが迅速な解決を交渉するのに苦戦するなか</td><td>struggle to = ～しようとして苦労する。resolution = 解決。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>displeasure has only grown<button type="button" class="speak-btn speak-btn--inline" data-text="displeasure has only grown" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>不満はますます高まった</td><td>onlyはここで「かえって・ますます」の強調。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as the conflict drags on<button type="button" class="speak-btn speak-btn--inline" data-text="as the conflict drags on" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由・背景の副詞節</td><td>紛争が長引くにつれ</td><td>drag on = だらだら続く（ネガティブ）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as Trump struggles to negotiate a quick resolution<button type="button" class="speak-btn speak-btn--inline" data-text="as Trump struggles to negotiate a quick resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由・背景の副詞節</td><td>トランプが迅速な解決を交渉するのに苦戦するなか</td><td>struggle to = ～しようとして苦労する。resolution = 解決。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">displeasure has only grown</div>
+              <div class="chunk-en speak-line">displeasure has only grown<button type="button" class="speak-btn speak-btn--inline" data-text="displeasure has only grown" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · 不満はますます高まった</div>
               <div>onlyはここで「かえって・ますます」の強調。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as the conflict drags on</div>
+              <div class="chunk-en speak-line">as the conflict drags on<button type="button" class="speak-btn speak-btn--inline" data-text="as the conflict drags on" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由・背景の副詞節 · 紛争が長引くにつれ</div>
               <div>drag on = だらだら続く（ネガティブ）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as Trump struggles to negotiate a quick resolution</div>
+              <div class="chunk-en speak-line">as Trump struggles to negotiate a quick resolution<button type="button" class="speak-btn speak-btn--inline" data-text="as Trump struggles to negotiate a quick resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由・背景の副詞節 · トランプが迅速な解決を交渉するのに苦戦するなか</div>
               <div>struggle to = ～しようとして苦労する。resolution = 解決。</div>
             </div>
@@ -211,8 +219,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The roll call Wednesday was 215-208, and cheers erupted in the House chamber."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The roll call Wednesday was 215-208, and cheers erupted in the House chamber." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The roll call Wednesday was 215-208, and cheers erupted in the House chamber.</p>
       <p class="translation">水曜日の記名投票の結果は215対208で、下院本会議場では歓声が上がった。</p>
@@ -225,23 +232,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The roll call Wednesday</td><td class='chunk-role'>主語</td><td>水曜日の記名投票は</td><td>roll call = 議会での記名投票・唱名。</td></tr><tr><td class='chunk-en'>was 215-208</td><td class='chunk-role'>述語</td><td>215対208だった</td><td>賛成-反対の票差表記。</td></tr><tr><td class='chunk-en'>cheers erupted in the House chamber</td><td class='chunk-role'>主節（並列）</td><td>下院本会議場で歓声が噴き上がった</td><td>erupt = 突然起こる。chamber = chamber of the House。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The roll call Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="The roll call Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>水曜日の記名投票は</td><td>roll call = 議会での記名投票・唱名。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was 215-208<button type="button" class="speak-btn speak-btn--inline" data-text="was 215-208" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>215対208だった</td><td>賛成-反対の票差表記。</td></tr><tr><td class='chunk-en'><span class='speak-line'>cheers erupted in the House chamber<button type="button" class="speak-btn speak-btn--inline" data-text="cheers erupted in the House chamber" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（並列）</td><td>下院本会議場で歓声が噴き上がった</td><td>erupt = 突然起こる。chamber = chamber of the House。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The roll call Wednesday</div>
+              <div class="chunk-en speak-line">The roll call Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="The roll call Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 水曜日の記名投票は</div>
               <div>roll call = 議会での記名投票・唱名。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was 215-208</div>
+              <div class="chunk-en speak-line">was 215-208<button type="button" class="speak-btn speak-btn--inline" data-text="was 215-208" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 215対208だった</div>
               <div>賛成-反対の票差表記。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">cheers erupted in the House chamber</div>
+              <div class="chunk-en speak-line">cheers erupted in the House chamber<button type="button" class="speak-btn speak-btn--inline" data-text="cheers erupted in the House chamber" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（並列） · 下院本会議場で歓声が噴き上がった</div>
               <div>erupt = 突然起こる。chamber = chamber of the House。</div>
             </div>
@@ -254,8 +261,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“This reckless and costly war of choice needs to end today,” House Democratic Leader Hakeem Jeffries of New York said earlier in the week."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“This reckless and costly war of choice needs to end today,” House Democratic Leader Hakeem Jeffries of New York said earlier in the week." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“This reckless and costly war of choice needs to end today,” House Democratic Leader Hakeem Jeffries of New York said earlier in the week.</p>
       <p class="translation">「この無謀で費用のかかる選択戦争は今日中に終わらせる必要がある」と、ニューヨーク州出身の下院民主党院内総務ハキーム・ジェフリーズは今週初めに述べた。</p>
@@ -268,29 +274,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>This reckless and costly war of choice</td><td class='chunk-role'>主語</td><td>この無謀で費用のかかる選択戦争は</td><td>reckless = 無謀な。war of choice = 必要性より選択で始めた戦争。</td></tr><tr><td class='chunk-en'>needs to end today</td><td class='chunk-role'>述語</td><td>今日終わる必要がある</td><td>need to + 動詞原形。todayは「今日中に」。</td></tr><tr><td class='chunk-en'>House Democratic Leader Hakeem Jeffries of New York</td><td class='chunk-role'>主語（発言者）</td><td>下院民主党院内総務ハキーム・ジェフリーズ（ニューヨーク州）は</td><td>of New York = 選挙区・出身州の表記。</td></tr><tr><td class='chunk-en'>said earlier in the week</td><td class='chunk-role'>述語</td><td>今週初めに述べた</td><td>earlier in the week = 今週のうちの早い時点。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>This reckless and costly war of choice<button type="button" class="speak-btn speak-btn--inline" data-text="This reckless and costly war of choice" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>この無謀で費用のかかる選択戦争は</td><td>reckless = 無謀な。war of choice = 必要性より選択で始めた戦争。</td></tr><tr><td class='chunk-en'><span class='speak-line'>needs to end today<button type="button" class="speak-btn speak-btn--inline" data-text="needs to end today" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>今日終わる必要がある</td><td>need to + 動詞原形。todayは「今日中に」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>House Democratic Leader Hakeem Jeffries of New York<button type="button" class="speak-btn speak-btn--inline" data-text="House Democratic Leader Hakeem Jeffries of New York" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（発言者）</td><td>下院民主党院内総務ハキーム・ジェフリーズ（ニューヨーク州）は</td><td>of New York = 選挙区・出身州の表記。</td></tr><tr><td class='chunk-en'><span class='speak-line'>said earlier in the week<button type="button" class="speak-btn speak-btn--inline" data-text="said earlier in the week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>今週初めに述べた</td><td>earlier in the week = 今週のうちの早い時点。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">This reckless and costly war of choice</div>
+              <div class="chunk-en speak-line">This reckless and costly war of choice<button type="button" class="speak-btn speak-btn--inline" data-text="This reckless and costly war of choice" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · この無謀で費用のかかる選択戦争は</div>
               <div>reckless = 無謀な。war of choice = 必要性より選択で始めた戦争。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">needs to end today</div>
+              <div class="chunk-en speak-line">needs to end today<button type="button" class="speak-btn speak-btn--inline" data-text="needs to end today" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 今日終わる必要がある</div>
               <div>need to + 動詞原形。todayは「今日中に」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">House Democratic Leader Hakeem Jeffries of New York</div>
+              <div class="chunk-en speak-line">House Democratic Leader Hakeem Jeffries of New York<button type="button" class="speak-btn speak-btn--inline" data-text="House Democratic Leader Hakeem Jeffries of New York" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（発言者） · 下院民主党院内総務ハキーム・ジェフリーズ（ニューヨーク州）は</div>
               <div>of New York = 選挙区・出身州の表記。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said earlier in the week</div>
+              <div class="chunk-en speak-line">said earlier in the week<button type="button" class="speak-btn speak-btn--inline" data-text="said earlier in the week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 今週初めに述べた</div>
               <div>earlier in the week = 今週のうちの早い時点。</div>
             </div>
@@ -303,8 +309,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“All we need are a handful of Republicans to join us and we can end this reckless and costly war of choice — a war that has cost the American taxpayer over $100 billion — that’s extraordinary — and left our country in a weaker position relative to Iran.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“All we need are a handful of Republicans to join us and we can end this reckless and costly war of choice — a war that has cost the American taxpayer over $100 billion — that’s extraordinary — and left our country in a weaker position relative to Iran.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“All we need are a handful of Republicans to join us and we can end this reckless and costly war of choice — a war that has cost the American taxpayer over $100 billion — that’s extraordinary — and left our country in a weaker position relative to Iran.”</p>
       <p class="translation">「必要なのは少数の共和党員が私たちに加わることだけだ。そうすればこの無謀で費用のかかる選択戦争を終わらせられる。米国の納税者に1000億ドル以上の負担を強いた戦争だ。信じられないことだ。そして国をイランに対してより弱い立場にした。」</p>
@@ -317,35 +322,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>All we need are a handful of Republicans to join us</td><td class='chunk-role'>主節</td><td>必要なのは少数の共和党員が私たちに加わることだけだ</td><td>All we need is/are構文。needの後ろは名詞句。</td></tr><tr><td class='chunk-en'>we can end this reckless and costly war of choice</td><td class='chunk-role'>主節（並列）</td><td>私たちはこの選択戦争を終わらせられる</td><td>canは可能性・能力。</td></tr><tr><td class='chunk-en'>a war that has cost the American taxpayer over $100 billion</td><td class='chunk-role'>同格の挿入</td><td>米国の納税者に1000億ドル超の費用をかけた戦争</td><td>cost + 人 + 金額 = ～に費用を負わせる。</td></tr><tr><td class='chunk-en'>that’s extraordinary</td><td class='chunk-role'>挿入の評価</td><td>それは信じられない</td><td>発言の強調。口語的な感嘆。</td></tr><tr><td class='chunk-en'>left our country in a weaker position relative to Iran</td><td class='chunk-role'>並列述語</td><td>国をイランに比べ弱い立場にした</td><td>leave O in C = OをCの状態にする。relative to = ～と比較して。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>All we need are a handful of Republicans to join us<button type="button" class="speak-btn speak-btn--inline" data-text="All we need are a handful of Republicans to join us" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>必要なのは少数の共和党員が私たちに加わることだけだ</td><td>All we need is/are構文。needの後ろは名詞句。</td></tr><tr><td class='chunk-en'><span class='speak-line'>we can end this reckless and costly war of choice<button type="button" class="speak-btn speak-btn--inline" data-text="we can end this reckless and costly war of choice" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（並列）</td><td>私たちはこの選択戦争を終わらせられる</td><td>canは可能性・能力。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a war that has cost the American taxpayer over $100 billion<button type="button" class="speak-btn speak-btn--inline" data-text="a war that has cost the American taxpayer over $100 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格の挿入</td><td>米国の納税者に1000億ドル超の費用をかけた戦争</td><td>cost + 人 + 金額 = ～に費用を負わせる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that’s extraordinary<button type="button" class="speak-btn speak-btn--inline" data-text="that’s extraordinary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入の評価</td><td>それは信じられない</td><td>発言の強調。口語的な感嘆。</td></tr><tr><td class='chunk-en'><span class='speak-line'>left our country in a weaker position relative to Iran<button type="button" class="speak-btn speak-btn--inline" data-text="left our country in a weaker position relative to Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列述語</td><td>国をイランに比べ弱い立場にした</td><td>leave O in C = OをCの状態にする。relative to = ～と比較して。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">All we need are a handful of Republicans to join us</div>
+              <div class="chunk-en speak-line">All we need are a handful of Republicans to join us<button type="button" class="speak-btn speak-btn--inline" data-text="All we need are a handful of Republicans to join us" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 必要なのは少数の共和党員が私たちに加わることだけだ</div>
               <div>All we need is/are構文。needの後ろは名詞句。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">we can end this reckless and costly war of choice</div>
+              <div class="chunk-en speak-line">we can end this reckless and costly war of choice<button type="button" class="speak-btn speak-btn--inline" data-text="we can end this reckless and costly war of choice" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（並列） · 私たちはこの選択戦争を終わらせられる</div>
               <div>canは可能性・能力。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a war that has cost the American taxpayer over $100 billion</div>
+              <div class="chunk-en speak-line">a war that has cost the American taxpayer over $100 billion<button type="button" class="speak-btn speak-btn--inline" data-text="a war that has cost the American taxpayer over $100 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格の挿入 · 米国の納税者に1000億ドル超の費用をかけた戦争</div>
               <div>cost + 人 + 金額 = ～に費用を負わせる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that’s extraordinary</div>
+              <div class="chunk-en speak-line">that’s extraordinary<button type="button" class="speak-btn speak-btn--inline" data-text="that’s extraordinary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入の評価 · それは信じられない</div>
               <div>発言の強調。口語的な感嘆。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">left our country in a weaker position relative to Iran</div>
+              <div class="chunk-en speak-line">left our country in a weaker position relative to Iran<button type="button" class="speak-btn speak-btn--inline" data-text="left our country in a weaker position relative to Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列述語 · 国をイランに比べ弱い立場にした</div>
               <div>leave O in C = OをCの状態にする。relative to = ～と比較して。</div>
             </div>
@@ -358,8 +363,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="It’s the fourth time the House has tried to curb the U.S. war against Iran, and the first time the House was able to pass the measure."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="It’s the fourth time the House has tried to curb the U.S. war against Iran, and the first time the House was able to pass the measure." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">It’s the fourth time the House has tried to curb the U.S. war against Iran, and the first time the House was able to pass the measure.</p>
       <p class="translation">下院がイランへの米国の戦争を抑制しようとしたのは4回目で、今回が初めてその法案を可決できた回となった。</p>
@@ -372,17 +376,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It’s the fourth time the House has tried to curb the U.S. war against Iran</td><td class='chunk-role'>主節</td><td>下院がイランへの米国の戦争を抑制しようとしたのは4回目だ</td><td>the Nth timeの後は現在完了が多い。</td></tr><tr><td class='chunk-en'>the first time the House was able to pass the measure</td><td class='chunk-role'>主節（並列）</td><td>下院がその法案を可決できたのは初めてだ</td><td>measure = 法案・決議。was able toは成功を含む。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It’s the fourth time the House has tried to curb the U.S. war against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="It’s the fourth time the House has tried to curb the U.S. war against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>下院がイランへの米国の戦争を抑制しようとしたのは4回目だ</td><td>the Nth timeの後は現在完了が多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the first time the House was able to pass the measure<button type="button" class="speak-btn speak-btn--inline" data-text="the first time the House was able to pass the measure" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（並列）</td><td>下院がその法案を可決できたのは初めてだ</td><td>measure = 法案・決議。was able toは成功を含む。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It’s the fourth time the House has tried to curb the U.S. war against Iran</div>
+              <div class="chunk-en speak-line">It’s the fourth time the House has tried to curb the U.S. war against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="It’s the fourth time the House has tried to curb the U.S. war against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 下院がイランへの米国の戦争を抑制しようとしたのは4回目だ</div>
               <div>the Nth timeの後は現在完了が多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the first time the House was able to pass the measure</div>
+              <div class="chunk-en speak-line">the first time the House was able to pass the measure<button type="button" class="speak-btn speak-btn--inline" data-text="the first time the House was able to pass the measure" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（並列） · 下院がその法案を可決できたのは初めてだ</div>
               <div>measure = 法案・決議。was able toは成功を含む。</div>
             </div>
@@ -395,8 +399,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Senate advanced its own war powers resolution last month when a handful of GOP senators broke ranks with the Republican president in a rare show of political pushback from his party."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Senate advanced its own war powers resolution last month when a handful of GOP senators broke ranks with the Republican president in a rare show of political pushback from his party." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Senate advanced its own war powers resolution last month when a handful of GOP senators broke ranks with the Republican president in a rare show of political pushback from his party.</p>
       <p class="translation">上院は先月、独自の戦争権限決議を前進させた。少数の共和党上院議員が共和党大統領と決裂し、党内から政治的な反発を示す珍しい動きとなった。</p>
@@ -409,23 +412,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The Senate advanced its own war powers resolution</td><td class='chunk-role'>主節</td><td>上院は独自の戦争権限決議を進めた</td><td>advance = 審議を前進させる（可決ではない）。</td></tr><tr><td class='chunk-en'>when a handful of GOP senators broke ranks with the Republican president</td><td class='chunk-role'>時を表す副詞節</td><td>少数の共和党上院議員が共和党大統領と決裂したとき</td><td>break ranks = 一列を乱す→党に反する。</td></tr><tr><td class='chunk-en'>in a rare show of political pushback from his party</td><td class='chunk-role'>副詞句</td><td>党内からの政治的反発という珍しい姿を示して</td><td>a show of = ～を示すこと。pushback = 押し返し・反発。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The Senate advanced its own war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="The Senate advanced its own war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>上院は独自の戦争権限決議を進めた</td><td>advance = 審議を前進させる（可決ではない）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>when a handful of GOP senators broke ranks with the Republican president<button type="button" class="speak-btn speak-btn--inline" data-text="when a handful of GOP senators broke ranks with the Republican president" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>少数の共和党上院議員が共和党大統領と決裂したとき</td><td>break ranks = 一列を乱す→党に反する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in a rare show of political pushback from his party<button type="button" class="speak-btn speak-btn--inline" data-text="in a rare show of political pushback from his party" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>党内からの政治的反発という珍しい姿を示して</td><td>a show of = ～を示すこと。pushback = 押し返し・反発。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The Senate advanced its own war powers resolution</div>
+              <div class="chunk-en speak-line">The Senate advanced its own war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="The Senate advanced its own war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 上院は独自の戦争権限決議を進めた</div>
               <div>advance = 審議を前進させる（可決ではない）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">when a handful of GOP senators broke ranks with the Republican president</div>
+              <div class="chunk-en speak-line">when a handful of GOP senators broke ranks with the Republican president<button type="button" class="speak-btn speak-btn--inline" data-text="when a handful of GOP senators broke ranks with the Republican president" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 少数の共和党上院議員が共和党大統領と決裂したとき</div>
               <div>break ranks = 一列を乱す→党に反する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in a rare show of political pushback from his party</div>
+              <div class="chunk-en speak-line">in a rare show of political pushback from his party<button type="button" class="speak-btn speak-btn--inline" data-text="in a rare show of political pushback from his party" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 党内からの政治的反発という珍しい姿を示して</div>
               <div>a show of = ～を示すこと。pushback = 押し返し・反発。</div>
             </div>
@@ -438,8 +441,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Each time Democrats have pushed forward the war powers resolution, the vote tallies have inched higher as political unease with the U.S. war swells."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Each time Democrats have pushed forward the war powers resolution, the vote tallies have inched higher as political unease with the U.S. war swells." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Each time Democrats have pushed forward the war powers resolution, the vote tallies have inched higher as political unease with the U.S. war swells.</p>
       <p class="translation">民主党が戦争権限決議を推し進めるたびに、米国の戦争への政治的な不安が高まるにつれ、得票数は少しずつ増えてきた。</p>
@@ -452,23 +454,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Each time Democrats have pushed forward the war powers resolution</td><td class='chunk-role'>副詞節</td><td>民主党が戦争権限決議を推し進めるたびに</td><td>each time = ～するたびに。push forward = 推進する。</td></tr><tr><td class='chunk-en'>the vote tallies have inched higher</td><td class='chunk-role'>主節</td><td>得票数はわずかに上がってきた</td><td>tally = 集計・得票。inch = ごく少し動く。</td></tr><tr><td class='chunk-en'>as political unease with the U.S. war swells</td><td class='chunk-role'>理由の副詞節</td><td>米国の戦争への政治的な不安が膨らむにつれ</td><td>swell = 増大する。unease with = ～に対する不安。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Each time Democrats have pushed forward the war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="Each time Democrats have pushed forward the war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節</td><td>民主党が戦争権限決議を推し進めるたびに</td><td>each time = ～するたびに。push forward = 推進する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the vote tallies have inched higher<button type="button" class="speak-btn speak-btn--inline" data-text="the vote tallies have inched higher" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>得票数はわずかに上がってきた</td><td>tally = 集計・得票。inch = ごく少し動く。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as political unease with the U.S. war swells<button type="button" class="speak-btn speak-btn--inline" data-text="as political unease with the U.S. war swells" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由の副詞節</td><td>米国の戦争への政治的な不安が膨らむにつれ</td><td>swell = 増大する。unease with = ～に対する不安。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Each time Democrats have pushed forward the war powers resolution</div>
+              <div class="chunk-en speak-line">Each time Democrats have pushed forward the war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="Each time Democrats have pushed forward the war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節 · 民主党が戦争権限決議を推し進めるたびに</div>
               <div>each time = ～するたびに。push forward = 推進する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the vote tallies have inched higher</div>
+              <div class="chunk-en speak-line">the vote tallies have inched higher<button type="button" class="speak-btn speak-btn--inline" data-text="the vote tallies have inched higher" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 得票数はわずかに上がってきた</div>
               <div>tally = 集計・得票。inch = ごく少し動く。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as political unease with the U.S. war swells</div>
+              <div class="chunk-en speak-line">as political unease with the U.S. war swells<button type="button" class="speak-btn speak-btn--inline" data-text="as political unease with the U.S. war swells" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由の副詞節 · 米国の戦争への政治的な不安が膨らむにつれ</div>
               <div>swell = 増大する。unease with = ～に対する不安。</div>
             </div>
@@ -481,8 +483,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Trump had campaigned for the White House on a promise to end U.S. entanglements abroad and focus more on domestic issues, but the war has shifted attention back to the Middle East."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Trump had campaigned for the White House on a promise to end U.S. entanglements abroad and focus more on domestic issues, but the war has shifted attention back to the Middle East." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Trump had campaigned for the White House on a promise to end U.S. entanglements abroad and focus more on domestic issues, but the war has shifted attention back to the Middle East.</p>
       <p class="translation">トランプは大統領選で、海外での米国の関与を終わらせ国内問題に注力する公約で選挙戦を行っていた。しかし戦争によって注目は再び中東へと移った。</p>
@@ -495,29 +496,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Trump had campaigned for the White House</td><td class='chunk-role'>主節（前半）</td><td>トランプは大統領選で選挙戦をしていた</td><td>campaign for the White House = 大統領選挙。</td></tr><tr><td class='chunk-en'>on a promise to end U.S. entanglements abroad</td><td class='chunk-role'>副詞句</td><td>海外での米国の関与を終わらせるという公約で</td><td>entanglement = 絡み合い・関与（しばしば否定的）。</td></tr><tr><td class='chunk-en'>focus more on domestic issues</td><td class='chunk-role'>不定詞（並列）</td><td>国内問題にもっと注力する</td><td>domestic issues = 国内問題。</td></tr><tr><td class='chunk-en'>the war has shifted attention back to the Middle East</td><td class='chunk-role'>主節（後半）</td><td>戦争は注目を中東に戻した</td><td>shift attention to = 注目を移す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Trump had campaigned for the White House<button type="button" class="speak-btn speak-btn--inline" data-text="Trump had campaigned for the White House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（前半）</td><td>トランプは大統領選で選挙戦をしていた</td><td>campaign for the White House = 大統領選挙。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on a promise to end U.S. entanglements abroad<button type="button" class="speak-btn speak-btn--inline" data-text="on a promise to end U.S. entanglements abroad" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>海外での米国の関与を終わらせるという公約で</td><td>entanglement = 絡み合い・関与（しばしば否定的）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>focus more on domestic issues<button type="button" class="speak-btn speak-btn--inline" data-text="focus more on domestic issues" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（並列）</td><td>国内問題にもっと注力する</td><td>domestic issues = 国内問題。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the war has shifted attention back to the Middle East<button type="button" class="speak-btn speak-btn--inline" data-text="the war has shifted attention back to the Middle East" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（後半）</td><td>戦争は注目を中東に戻した</td><td>shift attention to = 注目を移す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Trump had campaigned for the White House</div>
+              <div class="chunk-en speak-line">Trump had campaigned for the White House<button type="button" class="speak-btn speak-btn--inline" data-text="Trump had campaigned for the White House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（前半） · トランプは大統領選で選挙戦をしていた</div>
               <div>campaign for the White House = 大統領選挙。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on a promise to end U.S. entanglements abroad</div>
+              <div class="chunk-en speak-line">on a promise to end U.S. entanglements abroad<button type="button" class="speak-btn speak-btn--inline" data-text="on a promise to end U.S. entanglements abroad" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 海外での米国の関与を終わらせるという公約で</div>
               <div>entanglement = 絡み合い・関与（しばしば否定的）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">focus more on domestic issues</div>
+              <div class="chunk-en speak-line">focus more on domestic issues<button type="button" class="speak-btn speak-btn--inline" data-text="focus more on domestic issues" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（並列） · 国内問題にもっと注力する</div>
               <div>domestic issues = 国内問題。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the war has shifted attention back to the Middle East</div>
+              <div class="chunk-en speak-line">the war has shifted attention back to the Middle East<button type="button" class="speak-btn speak-btn--inline" data-text="the war has shifted attention back to the Middle East" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（後半） · 戦争は注目を中東に戻した</div>
               <div>shift attention to = 注目を移す。</div>
             </div>
@@ -530,8 +531,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Johnson insisted Trump is “laser focused” on the domestic front, particularly ahead of the midterm elections that will determine control of Congress."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Johnson insisted Trump is “laser focused” on the domestic front, particularly ahead of the midterm elections that will determine control of Congress." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Johnson insisted Trump is “laser focused” on the domestic front, particularly ahead of the midterm elections that will determine control of Congress.</p>
       <p class="translation">ジョンソンは、トランプが国内問題に「レーザーのように集中している」と主張した。特に議会の支配権を決める中間選挙を前にしてだ。</p>
@@ -544,23 +544,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Johnson insisted Trump is “laser focused” on the domestic front</td><td class='chunk-role'>主節</td><td>ジョンソンはトランプが国内面にレーザーのように集中していると主張した</td><td>laser focused = 一点集中している（比喩）。</td></tr><tr><td class='chunk-en'>particularly ahead of the midterm elections</td><td class='chunk-role'>副詞句</td><td>特に中間選挙を前にして</td><td>midterm elections = 中間選挙（大統領選の2年ごと）。</td></tr><tr><td class='chunk-en'>that will determine control of Congress</td><td class='chunk-role'>関係節</td><td>議会の支配権を決める</td><td>control of Congress = 上下院の多数派掌握。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Johnson insisted Trump is “laser focused” on the domestic front<button type="button" class="speak-btn speak-btn--inline" data-text="Johnson insisted Trump is “laser focused” on the domestic front" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ジョンソンはトランプが国内面にレーザーのように集中していると主張した</td><td>laser focused = 一点集中している（比喩）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>particularly ahead of the midterm elections<button type="button" class="speak-btn speak-btn--inline" data-text="particularly ahead of the midterm elections" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>特に中間選挙を前にして</td><td>midterm elections = 中間選挙（大統領選の2年ごと）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that will determine control of Congress<button type="button" class="speak-btn speak-btn--inline" data-text="that will determine control of Congress" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>議会の支配権を決める</td><td>control of Congress = 上下院の多数派掌握。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Johnson insisted Trump is “laser focused” on the domestic front</div>
+              <div class="chunk-en speak-line">Johnson insisted Trump is “laser focused” on the domestic front<button type="button" class="speak-btn speak-btn--inline" data-text="Johnson insisted Trump is “laser focused” on the domestic front" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ジョンソンはトランプが国内面にレーザーのように集中していると主張した</div>
               <div>laser focused = 一点集中している（比喩）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">particularly ahead of the midterm elections</div>
+              <div class="chunk-en speak-line">particularly ahead of the midterm elections<button type="button" class="speak-btn speak-btn--inline" data-text="particularly ahead of the midterm elections" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 特に中間選挙を前にして</div>
               <div>midterm elections = 中間選挙（大統領選の2年ごと）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that will determine control of Congress</div>
+              <div class="chunk-en speak-line">that will determine control of Congress<button type="button" class="speak-btn speak-btn--inline" data-text="that will determine control of Congress" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · 議会の支配権を決める</div>
               <div>control of Congress = 上下院の多数派掌握。</div>
             </div>
@@ -573,8 +573,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The speaker said he spent three hours at the White House with the president this week as Trump is calling on allies to help reopen the Strait of Hormuz for commerce, especially the flow of oil."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The speaker said he spent three hours at the White House with the president this week as Trump is calling on allies to help reopen the Strait of Hormuz for commerce, especially the flow of oil." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The speaker said he spent three hours at the White House with the president this week as Trump is calling on allies to help reopen the Strait of Hormuz for commerce, especially the flow of oil.</p>
       <p class="translation">議長は今週、大統領とともにホワイトハウスで3時間過ごしたと述べた。トランプは同盟国に対し、特に石油の流通のためにホルムズ海峡の商業通航再開を支援するよう求めている。</p>
@@ -587,29 +586,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The speaker said he spent three hours at the White House with the president</td><td class='chunk-role'>主節</td><td>議長は今週大統領とホワイトハウスで3時間過ごしたと言った</td><td>spend + 時間 + with = ～と時間を過ごす。</td></tr><tr><td class='chunk-en'>as Trump is calling on allies</td><td class='chunk-role'>副詞節</td><td>トランプが同盟国に要請している一方で</td><td>call on = 要請する・呼びかける。</td></tr><tr><td class='chunk-en'>to help reopen the Strait of Hormuz for commerce</td><td class='chunk-role'>不定詞（目的）</td><td>商業のためにホルムズ海峡の再開を支援するよう</td><td>the Strait of Hormuz = ホルムズ海峡。</td></tr><tr><td class='chunk-en'>especially the flow of oil</td><td class='chunk-role'>同格・補足</td><td>特に石油の流通</td><td>flow of oil = 石油の流れ・供給。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The speaker said he spent three hours at the White House with the president<button type="button" class="speak-btn speak-btn--inline" data-text="The speaker said he spent three hours at the White House with the president" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>議長は今週大統領とホワイトハウスで3時間過ごしたと言った</td><td>spend + 時間 + with = ～と時間を過ごす。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as Trump is calling on allies<button type="button" class="speak-btn speak-btn--inline" data-text="as Trump is calling on allies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節</td><td>トランプが同盟国に要請している一方で</td><td>call on = 要請する・呼びかける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to help reopen the Strait of Hormuz for commerce<button type="button" class="speak-btn speak-btn--inline" data-text="to help reopen the Strait of Hormuz for commerce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>商業のためにホルムズ海峡の再開を支援するよう</td><td>the Strait of Hormuz = ホルムズ海峡。</td></tr><tr><td class='chunk-en'><span class='speak-line'>especially the flow of oil<button type="button" class="speak-btn speak-btn--inline" data-text="especially the flow of oil" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格・補足</td><td>特に石油の流通</td><td>flow of oil = 石油の流れ・供給。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The speaker said he spent three hours at the White House with the president</div>
+              <div class="chunk-en speak-line">The speaker said he spent three hours at the White House with the president<button type="button" class="speak-btn speak-btn--inline" data-text="The speaker said he spent three hours at the White House with the president" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 議長は今週大統領とホワイトハウスで3時間過ごしたと言った</div>
               <div>spend + 時間 + with = ～と時間を過ごす。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as Trump is calling on allies</div>
+              <div class="chunk-en speak-line">as Trump is calling on allies<button type="button" class="speak-btn speak-btn--inline" data-text="as Trump is calling on allies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節 · トランプが同盟国に要請している一方で</div>
               <div>call on = 要請する・呼びかける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to help reopen the Strait of Hormuz for commerce</div>
+              <div class="chunk-en speak-line">to help reopen the Strait of Hormuz for commerce<button type="button" class="speak-btn speak-btn--inline" data-text="to help reopen the Strait of Hormuz for commerce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 商業のためにホルムズ海峡の再開を支援するよう</div>
               <div>the Strait of Hormuz = ホルムズ海峡。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">especially the flow of oil</div>
+              <div class="chunk-en speak-line">especially the flow of oil<button type="button" class="speak-btn speak-btn--inline" data-text="especially the flow of oil" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格・補足 · 特に石油の流通</div>
               <div>flow of oil = 石油の流れ・供給。</div>
             </div>
@@ -622,8 +621,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran, Americans have seen gas prices spike at the pumps, adding to inflationary pressure on consumer spending."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran, Americans have seen gas prices spike at the pumps, adding to inflationary pressure on consumer spending." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran, Americans have seen gas prices spike at the pumps, adding to inflationary pressure on consumer spending.</p>
       <p class="translation">米国がイスラエルとともに2月28日のイラン攻撃を開始して以来、アメリカ人はガソリンスタンドで価格が急騰するのを目にしており、それが消費支出へのインフレ圧力をさらに強めている。</p>
@@ -636,23 +634,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran</td><td class='chunk-role'>時を表す副詞節</td><td>米国がイスラエルとともに2月28日のイラン攻撃を開始して以来</td><td>join in -ing = 共同で行動する。</td></tr><tr><td class='chunk-en'>Americans have seen gas prices spike at the pumps</td><td class='chunk-role'>主節</td><td>アメリカ人はスタンドでガソリン価格が急騰するのを見てきた</td><td>see O do = Oが～するのを見る。at the pumps = 給油所で。</td></tr><tr><td class='chunk-en'>adding to inflationary pressure on consumer spending</td><td class='chunk-role'>分詞構文</td><td>消費支出へのインフレ圧力を増やして</td><td>add to = ～を増す。consumer spending = 個人消費。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran<button type="button" class="speak-btn speak-btn--inline" data-text="Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>米国がイスラエルとともに2月28日のイラン攻撃を開始して以来</td><td>join in -ing = 共同で行動する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Americans have seen gas prices spike at the pumps<button type="button" class="speak-btn speak-btn--inline" data-text="Americans have seen gas prices spike at the pumps" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>アメリカ人はスタンドでガソリン価格が急騰するのを見てきた</td><td>see O do = Oが～するのを見る。at the pumps = 給油所で。</td></tr><tr><td class='chunk-en'><span class='speak-line'>adding to inflationary pressure on consumer spending<button type="button" class="speak-btn speak-btn--inline" data-text="adding to inflationary pressure on consumer spending" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>消費支出へのインフレ圧力を増やして</td><td>add to = ～を増す。consumer spending = 個人消費。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran</div>
+              <div class="chunk-en speak-line">Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran<button type="button" class="speak-btn speak-btn--inline" data-text="Since the U.S. joined Israel in launching the Feb. 28 strikes on Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 米国がイスラエルとともに2月28日のイラン攻撃を開始して以来</div>
               <div>join in -ing = 共同で行動する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Americans have seen gas prices spike at the pumps</div>
+              <div class="chunk-en speak-line">Americans have seen gas prices spike at the pumps<button type="button" class="speak-btn speak-btn--inline" data-text="Americans have seen gas prices spike at the pumps" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · アメリカ人はスタンドでガソリン価格が急騰するのを見てきた</div>
               <div>see O do = Oが～するのを見る。at the pumps = 給油所で。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">adding to inflationary pressure on consumer spending</div>
+              <div class="chunk-en speak-line">adding to inflationary pressure on consumer spending<button type="button" class="speak-btn speak-btn--inline" data-text="adding to inflationary pressure on consumer spending" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 消費支出へのインフレ圧力を増やして</div>
               <div>add to = ～を増す。consumer spending = 個人消費。</div>
             </div>
@@ -665,8 +663,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Iran has been able to interrupt shipping through the Strait of Hormuz, a vital channel for a large segment of the world’s oil, natural gas and related products such as fertilizer."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Iran has been able to interrupt shipping through the Strait of Hormuz, a vital channel for a large segment of the world’s oil, natural gas and related products such as fertilizer." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Iran has been able to interrupt shipping through the Strait of Hormuz, a vital channel for a large segment of the world’s oil, natural gas and related products such as fertilizer.</p>
       <p class="translation">イランはホルムズ海峡を通る船舶運航を妨害できている。この海峡は世界の石油・天然ガス、さらに肥料など関連製品の大きな部分にとって極めて重要な水路だ。</p>
@@ -679,29 +676,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Iran has been able to interrupt shipping through the Strait of Hormuz</td><td class='chunk-role'>主節</td><td>イランはホルムズ海峡の船舶運航を妨害できてきた</td><td>interrupt shipping = 海運を妨害する。</td></tr><tr><td class='chunk-en'>a vital channel</td><td class='chunk-role'>同格</td><td>極めて重要な水路</td><td>vital = 不可欠な。channel = 水路・海峡。</td></tr><tr><td class='chunk-en'>for a large segment of the world’s oil, natural gas and related products</td><td class='chunk-role'>前置詞句</td><td>世界の石油・天然ガスと関連製品の大部分にとって</td><td>segment = 部分・区分。</td></tr><tr><td class='chunk-en'>such as fertilizer</td><td class='chunk-role'>例示</td><td>肥料など</td><td>related products = 関連製品（石油化学由来など）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Iran has been able to interrupt shipping through the Strait of Hormuz<button type="button" class="speak-btn speak-btn--inline" data-text="Iran has been able to interrupt shipping through the Strait of Hormuz" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>イランはホルムズ海峡の船舶運航を妨害できてきた</td><td>interrupt shipping = 海運を妨害する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a vital channel<button type="button" class="speak-btn speak-btn--inline" data-text="a vital channel" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格</td><td>極めて重要な水路</td><td>vital = 不可欠な。channel = 水路・海峡。</td></tr><tr><td class='chunk-en'><span class='speak-line'>for a large segment of the world’s oil, natural gas and related products<button type="button" class="speak-btn speak-btn--inline" data-text="for a large segment of the world’s oil, natural gas and related products" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>世界の石油・天然ガスと関連製品の大部分にとって</td><td>segment = 部分・区分。</td></tr><tr><td class='chunk-en'><span class='speak-line'>such as fertilizer<button type="button" class="speak-btn speak-btn--inline" data-text="such as fertilizer" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>例示</td><td>肥料など</td><td>related products = 関連製品（石油化学由来など）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Iran has been able to interrupt shipping through the Strait of Hormuz</div>
+              <div class="chunk-en speak-line">Iran has been able to interrupt shipping through the Strait of Hormuz<button type="button" class="speak-btn speak-btn--inline" data-text="Iran has been able to interrupt shipping through the Strait of Hormuz" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · イランはホルムズ海峡の船舶運航を妨害できてきた</div>
               <div>interrupt shipping = 海運を妨害する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a vital channel</div>
+              <div class="chunk-en speak-line">a vital channel<button type="button" class="speak-btn speak-btn--inline" data-text="a vital channel" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格 · 極めて重要な水路</div>
               <div>vital = 不可欠な。channel = 水路・海峡。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for a large segment of the world’s oil, natural gas and related products</div>
+              <div class="chunk-en speak-line">for a large segment of the world’s oil, natural gas and related products<button type="button" class="speak-btn speak-btn--inline" data-text="for a large segment of the world’s oil, natural gas and related products" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 世界の石油・天然ガスと関連製品の大部分にとって</div>
               <div>segment = 部分・区分。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">such as fertilizer</div>
+              <div class="chunk-en speak-line">such as fertilizer<button type="button" class="speak-btn speak-btn--inline" data-text="such as fertilizer" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">例示 · 肥料など</div>
               <div>related products = 関連製品（石油化学由来など）。</div>
             </div>
@@ -714,8 +711,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“We’re working on that final piece,” said Johnson, R-La. “The entire world has an interest in the Strait of Hormuz being reopen for commerce."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“We’re working on that final piece,” said Johnson, R-La. “The entire world has an interest in the Strait of Hormuz being reopen for commerce." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“We’re working on that final piece,” said Johnson, R-La. “The entire world has an interest in the Strait of Hormuz being reopen for commerce.</p>
       <p class="translation">「最後のピースに取り組んでいる」とルイジアナ州のジョンソンは述べた。「ホルムズ海峡が商業のために再開されることは、世界全体の利益になる。」</p>
@@ -728,29 +724,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>We’re working on that final piece</td><td class='chunk-role'>直接話法</td><td>私たちは最後のピースに取り組んでいる</td><td>final piece = 最後の課題・仕上げ。</td></tr><tr><td class='chunk-en'>said Johnson, R-La.</td><td class='chunk-role'>叙述部</td><td>ルイジアナ州のジョンソンは述べた</td><td>R-La. = 共和党・ルイジアナ州（議員表記）。</td></tr><tr><td class='chunk-en'>The entire world has an interest in</td><td class='chunk-role'>主節</td><td>世界全体は～に関心・利益を持つ</td><td>have an interest in = ～に利害関係がある。</td></tr><tr><td class='chunk-en'>the Strait of Hormuz being reopen for commerce</td><td class='chunk-role'>動名詞句</td><td>ホルムズ海峡が商業のために再開されること</td><td>原文はbeing reopenだが、正しくはbeing reopened。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>We’re working on that final piece<button type="button" class="speak-btn speak-btn--inline" data-text="We’re working on that final piece" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接話法</td><td>私たちは最後のピースに取り組んでいる</td><td>final piece = 最後の課題・仕上げ。</td></tr><tr><td class='chunk-en'><span class='speak-line'>said Johnson, R-La.<button type="button" class="speak-btn speak-btn--inline" data-text="said Johnson, R-La." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>叙述部</td><td>ルイジアナ州のジョンソンは述べた</td><td>R-La. = 共和党・ルイジアナ州（議員表記）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>The entire world has an interest in<button type="button" class="speak-btn speak-btn--inline" data-text="The entire world has an interest in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>世界全体は～に関心・利益を持つ</td><td>have an interest in = ～に利害関係がある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the Strait of Hormuz being reopen for commerce<button type="button" class="speak-btn speak-btn--inline" data-text="the Strait of Hormuz being reopen for commerce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>動名詞句</td><td>ホルムズ海峡が商業のために再開されること</td><td>原文はbeing reopenだが、正しくはbeing reopened。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">We’re working on that final piece</div>
+              <div class="chunk-en speak-line">We’re working on that final piece<button type="button" class="speak-btn speak-btn--inline" data-text="We’re working on that final piece" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接話法 · 私たちは最後のピースに取り組んでいる</div>
               <div>final piece = 最後の課題・仕上げ。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said Johnson, R-La.</div>
+              <div class="chunk-en speak-line">said Johnson, R-La.<button type="button" class="speak-btn speak-btn--inline" data-text="said Johnson, R-La." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">叙述部 · ルイジアナ州のジョンソンは述べた</div>
               <div>R-La. = 共和党・ルイジアナ州（議員表記）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">The entire world has an interest in</div>
+              <div class="chunk-en speak-line">The entire world has an interest in<button type="button" class="speak-btn speak-btn--inline" data-text="The entire world has an interest in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 世界全体は～に関心・利益を持つ</div>
               <div>have an interest in = ～に利害関係がある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the Strait of Hormuz being reopen for commerce</div>
+              <div class="chunk-en speak-line">the Strait of Hormuz being reopen for commerce<button type="button" class="speak-btn speak-btn--inline" data-text="the Strait of Hormuz being reopen for commerce" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">動名詞句 · ホルムズ海峡が商業のために再開されること</div>
               <div>原文はbeing reopenだが、正しくはbeing reopened。</div>
             </div>
@@ -763,8 +759,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="That what he’s working on.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="That what he’s working on.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">That what he’s working on.”</p>
       <p class="translation">「それが彼が取り組んでいることだ。」</p>
@@ -777,17 +772,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>That</td><td class='chunk-role'>主語</td><td>それが</td><td>前文を受ける指示語。</td></tr><tr><td class='chunk-en'>what he’s working on</td><td class='chunk-role'>補語（名詞節）</td><td>彼が取り組んでいること</td><td>what節 = ～すること。口語ではThat’s what...が完全形。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>That<button type="button" class="speak-btn speak-btn--inline" data-text="That" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>それが</td><td>前文を受ける指示語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>what he’s working on<button type="button" class="speak-btn speak-btn--inline" data-text="what he’s working on" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補語（名詞節）</td><td>彼が取り組んでいること</td><td>what節 = ～すること。口語ではThat’s what...が完全形。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">That</div>
+              <div class="chunk-en speak-line">That<button type="button" class="speak-btn speak-btn--inline" data-text="That" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · それが</div>
               <div>前文を受ける指示語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">what he’s working on</div>
+              <div class="chunk-en speak-line">what he’s working on<button type="button" class="speak-btn speak-btn--inline" data-text="what he’s working on" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補語（名詞節） · 彼が取り組んでいること</div>
               <div>what節 = ～すること。口語ではThat’s what...が完全形。</div>
             </div>
@@ -800,8 +795,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="While a ceasefire in the conflict was declared in April, it remains uneasy and uncertain."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="While a ceasefire in the conflict was declared in April, it remains uneasy and uncertain." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">While a ceasefire in the conflict was declared in April, it remains uneasy and uncertain.</p>
       <p class="translation">紛争における停戦は4月に宣言されたが、依然として不安定で見通しは不透明だ。</p>
@@ -814,17 +808,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>While a ceasefire in the conflict was declared in April</td><td class='chunk-role'>譲歩の副詞節</td><td>紛争の停戦が4月に宣言されたが</td><td>ceasefire = 停戦。declare a ceasefire = 停戦を宣言する。</td></tr><tr><td class='chunk-en'>it remains uneasy and uncertain</td><td class='chunk-role'>主節</td><td>それは不安定で不確かなままだ</td><td>remainは状態継続。uneasy = 落ち着かない・不安定。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>While a ceasefire in the conflict was declared in April<button type="button" class="speak-btn speak-btn--inline" data-text="While a ceasefire in the conflict was declared in April" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>譲歩の副詞節</td><td>紛争の停戦が4月に宣言されたが</td><td>ceasefire = 停戦。declare a ceasefire = 停戦を宣言する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>it remains uneasy and uncertain<button type="button" class="speak-btn speak-btn--inline" data-text="it remains uneasy and uncertain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>それは不安定で不確かなままだ</td><td>remainは状態継続。uneasy = 落ち着かない・不安定。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">While a ceasefire in the conflict was declared in April</div>
+              <div class="chunk-en speak-line">While a ceasefire in the conflict was declared in April<button type="button" class="speak-btn speak-btn--inline" data-text="While a ceasefire in the conflict was declared in April" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">譲歩の副詞節 · 紛争の停戦が4月に宣言されたが</div>
               <div>ceasefire = 停戦。declare a ceasefire = 停戦を宣言する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">it remains uneasy and uncertain</div>
+              <div class="chunk-en speak-line">it remains uneasy and uncertain<button type="button" class="speak-btn speak-btn--inline" data-text="it remains uneasy and uncertain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · それは不安定で不確かなままだ</div>
               <div>remainは状態継続。uneasy = 落ち着かない・不安定。</div>
             </div>
@@ -837,8 +831,7 @@
     <article class="sentence-block" id="s018">
       <div class="sentence-head">
         <div class="sentence-num">18</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Talks for a more durable end to the fighting have dragged, increasingly complicated by Israel’s broadening war with Iran-backed Hezbollah militants in Lebanon."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Talks for a more durable end to the fighting have dragged, increasingly complicated by Israel’s broadening war with Iran-backed Hezbollah militants in Lebanon." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Talks for a more durable end to the fighting have dragged, increasingly complicated by Israel’s broadening war with Iran-backed Hezbollah militants in Lebanon.</p>
       <p class="translation">戦闘のより持続的な終結を目指す交渉は長引いており、レバノンでのイラン支援ヒズボラ戦士との戦争がイスラエル側で拡大するにつれ、ますます複雑になっている。</p>
@@ -851,29 +844,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Talks for a more durable end to the fighting</td><td class='chunk-role'>主語</td><td>戦闘のより持続的な終結のための交渉は</td><td>durable = 持続的な。end to the fighting = 戦闘の終結。</td></tr><tr><td class='chunk-en'>have dragged</td><td class='chunk-role'>述語</td><td>長引いてきた</td><td>drag = だらだら続く（交渉など）。</td></tr><tr><td class='chunk-en'>increasingly complicated by Israel’s broadening war</td><td class='chunk-role'>過去分詞構文</td><td>イスラエルの拡大する戦争によってますます複雑にされ</td><td>broadening = 拡大している。</td></tr><tr><td class='chunk-en'>with Iran-backed Hezbollah militants in Lebanon</td><td class='chunk-role'>前置詞句</td><td>レバノンのイラン支援ヒズボラ戦士との</td><td>Iran-backed = イランが支援する。militants = 戦闘員。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Talks for a more durable end to the fighting<button type="button" class="speak-btn speak-btn--inline" data-text="Talks for a more durable end to the fighting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>戦闘のより持続的な終結のための交渉は</td><td>durable = 持続的な。end to the fighting = 戦闘の終結。</td></tr><tr><td class='chunk-en'><span class='speak-line'>have dragged<button type="button" class="speak-btn speak-btn--inline" data-text="have dragged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>長引いてきた</td><td>drag = だらだら続く（交渉など）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>increasingly complicated by Israel’s broadening war<button type="button" class="speak-btn speak-btn--inline" data-text="increasingly complicated by Israel’s broadening war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>過去分詞構文</td><td>イスラエルの拡大する戦争によってますます複雑にされ</td><td>broadening = 拡大している。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with Iran-backed Hezbollah militants in Lebanon<button type="button" class="speak-btn speak-btn--inline" data-text="with Iran-backed Hezbollah militants in Lebanon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>レバノンのイラン支援ヒズボラ戦士との</td><td>Iran-backed = イランが支援する。militants = 戦闘員。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Talks for a more durable end to the fighting</div>
+              <div class="chunk-en speak-line">Talks for a more durable end to the fighting<button type="button" class="speak-btn speak-btn--inline" data-text="Talks for a more durable end to the fighting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 戦闘のより持続的な終結のための交渉は</div>
               <div>durable = 持続的な。end to the fighting = 戦闘の終結。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">have dragged</div>
+              <div class="chunk-en speak-line">have dragged<button type="button" class="speak-btn speak-btn--inline" data-text="have dragged" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 長引いてきた</div>
               <div>drag = だらだら続く（交渉など）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">increasingly complicated by Israel’s broadening war</div>
+              <div class="chunk-en speak-line">increasingly complicated by Israel’s broadening war<button type="button" class="speak-btn speak-btn--inline" data-text="increasingly complicated by Israel’s broadening war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">過去分詞構文 · イスラエルの拡大する戦争によってますます複雑にされ</div>
               <div>broadening = 拡大している。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with Iran-backed Hezbollah militants in Lebanon</div>
+              <div class="chunk-en speak-line">with Iran-backed Hezbollah militants in Lebanon<button type="button" class="speak-btn speak-btn--inline" data-text="with Iran-backed Hezbollah militants in Lebanon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · レバノンのイラン支援ヒズボラ戦士との</div>
               <div>Iran-backed = イランが支援する。militants = 戦闘員。</div>
             </div>
@@ -886,8 +879,7 @@
     <article class="sentence-block" id="s019">
       <div class="sentence-head">
         <div class="sentence-num">19</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Meanwhile, military strikes between the U.S and Iran continue to flare."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Meanwhile, military strikes between the U.S and Iran continue to flare." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Meanwhile, military strikes between the U.S and Iran continue to flare.</p>
       <p class="translation">その間も、米国とイランの間では軍事攻撃が断続的に再燃し続けている。</p>
@@ -900,23 +892,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Meanwhile</td><td class='chunk-role'>接続副詞</td><td>その間</td><td>前段とは別の同時進行の事態を導入。</td></tr><tr><td class='chunk-en'>military strikes between the U.S and Iran</td><td class='chunk-role'>主語</td><td>米国とイランの間の軍事攻撃は</td><td>between A and B = AとBの間の。</td></tr><tr><td class='chunk-en'>continue to flare</td><td class='chunk-role'>述語</td><td>再燃し続ける</td><td>flare up/flare = 突然燃え上がる→再発する。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Meanwhile<button type="button" class="speak-btn speak-btn--inline" data-text="Meanwhile" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>接続副詞</td><td>その間</td><td>前段とは別の同時進行の事態を導入。</td></tr><tr><td class='chunk-en'><span class='speak-line'>military strikes between the U.S and Iran<button type="button" class="speak-btn speak-btn--inline" data-text="military strikes between the U.S and Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>米国とイランの間の軍事攻撃は</td><td>between A and B = AとBの間の。</td></tr><tr><td class='chunk-en'><span class='speak-line'>continue to flare<button type="button" class="speak-btn speak-btn--inline" data-text="continue to flare" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>再燃し続ける</td><td>flare up/flare = 突然燃え上がる→再発する。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Meanwhile</div>
+              <div class="chunk-en speak-line">Meanwhile<button type="button" class="speak-btn speak-btn--inline" data-text="Meanwhile" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">接続副詞 · その間</div>
               <div>前段とは別の同時進行の事態を導入。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">military strikes between the U.S and Iran</div>
+              <div class="chunk-en speak-line">military strikes between the U.S and Iran<button type="button" class="speak-btn speak-btn--inline" data-text="military strikes between the U.S and Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 米国とイランの間の軍事攻撃は</div>
               <div>between A and B = AとBの間の。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">continue to flare</div>
+              <div class="chunk-en speak-line">continue to flare<button type="button" class="speak-btn speak-btn--inline" data-text="continue to flare" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 再燃し続ける</div>
               <div>flare up/flare = 突然燃え上がる→再発する。</div>
             </div>
@@ -929,8 +921,7 @@
     <article class="sentence-block" id="s020">
       <div class="sentence-head">
         <div class="sentence-num">20</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The war powers resolution from the House would not immediately stop the war, but it would provide a symbolic if not legal step against further military action."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The war powers resolution from the House would not immediately stop the war, but it would provide a symbolic if not legal step against further military action." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The war powers resolution from the House would not immediately stop the war, but it would provide a symbolic if not legal step against further military action.</p>
       <p class="translation">下院の戦争権限決議は即座に戦争を止めるものではないが、さらなる軍事行動に対する、法的効力はともかく象徴的な一歩となるだろう。</p>
@@ -943,29 +934,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The war powers resolution from the House</td><td class='chunk-role'>主語</td><td>下院の戦争権限決議は</td><td>from the House = 下院発の。</td></tr><tr><td class='chunk-en'>would not immediately stop the war</td><td class='chunk-role'>述語</td><td>即座に戦争を止めないだろう</td><td>immediately = 直ちに。</td></tr><tr><td class='chunk-en'>would provide a symbolic if not legal step</td><td class='chunk-role'>述語（並列）</td><td>法的でないにせよ象徴的な一歩を提供するだろう</td><td>if not = 少なくとも～ではないが、という婉曲強調。</td></tr><tr><td class='chunk-en'>against further military action</td><td class='chunk-role'>前置詞句</td><td>さらなる軍事行動に対して</td><td>a step against = 対抗措置。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The war powers resolution from the House<button type="button" class="speak-btn speak-btn--inline" data-text="The war powers resolution from the House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>下院の戦争権限決議は</td><td>from the House = 下院発の。</td></tr><tr><td class='chunk-en'><span class='speak-line'>would not immediately stop the war<button type="button" class="speak-btn speak-btn--inline" data-text="would not immediately stop the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>即座に戦争を止めないだろう</td><td>immediately = 直ちに。</td></tr><tr><td class='chunk-en'><span class='speak-line'>would provide a symbolic if not legal step<button type="button" class="speak-btn speak-btn--inline" data-text="would provide a symbolic if not legal step" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（並列）</td><td>法的でないにせよ象徴的な一歩を提供するだろう</td><td>if not = 少なくとも～ではないが、という婉曲強調。</td></tr><tr><td class='chunk-en'><span class='speak-line'>against further military action<button type="button" class="speak-btn speak-btn--inline" data-text="against further military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>さらなる軍事行動に対して</td><td>a step against = 対抗措置。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The war powers resolution from the House</div>
+              <div class="chunk-en speak-line">The war powers resolution from the House<button type="button" class="speak-btn speak-btn--inline" data-text="The war powers resolution from the House" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 下院の戦争権限決議は</div>
               <div>from the House = 下院発の。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">would not immediately stop the war</div>
+              <div class="chunk-en speak-line">would not immediately stop the war<button type="button" class="speak-btn speak-btn--inline" data-text="would not immediately stop the war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 即座に戦争を止めないだろう</div>
               <div>immediately = 直ちに。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">would provide a symbolic if not legal step</div>
+              <div class="chunk-en speak-line">would provide a symbolic if not legal step<button type="button" class="speak-btn speak-btn--inline" data-text="would provide a symbolic if not legal step" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（並列） · 法的でないにせよ象徴的な一歩を提供するだろう</div>
               <div>if not = 少なくとも～ではないが、という婉曲強調。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">against further military action</div>
+              <div class="chunk-en speak-line">against further military action<button type="button" class="speak-btn speak-btn--inline" data-text="against further military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · さらなる軍事行動に対して</div>
               <div>a step against = 対抗措置。</div>
             </div>
@@ -978,8 +969,7 @@
     <article class="sentence-block" id="s021">
       <div class="sentence-head">
         <div class="sentence-num">21</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="If approved, it would then go to the Senate, where four Republican senators last month joined Democrats in advancing a similar measure to curtail the U.S. campaign against Iran."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="If approved, it would then go to the Senate, where four Republican senators last month joined Democrats in advancing a similar measure to curtail the U.S. campaign against Iran." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">If approved, it would then go to the Senate, where four Republican senators last month joined Democrats in advancing a similar measure to curtail the U.S. campaign against Iran.</p>
       <p class="translation">可決されれば、次は上院に送られる。上院では先月、4人の共和党上院議員が民主党とともに、イランへの米国の軍事作戦を抑制する類似法案の審議前進に加わった。</p>
@@ -992,29 +982,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>If approved, it would then go to the Senate</td><td class='chunk-role'>条件節＋主節</td><td>可決されれば、それは上院に送られる</td><td>分詞による条件の省略は法案文脈で頻出。</td></tr><tr><td class='chunk-en'>where four Republican senators last month joined Democrats</td><td class='chunk-role'>関係副詞節</td><td>そこで4人の共和党上院議員が先月民主党と加わった</td><td>where = 上院では。</td></tr><tr><td class='chunk-en'>in advancing a similar measure</td><td class='chunk-role'>前置詞句</td><td>類似法案を前進させることに</td><td>advance a measure = 法案を進める。</td></tr><tr><td class='chunk-en'>to curtail the U.S. campaign against Iran</td><td class='chunk-role'>不定詞（目的）</td><td>イランへの米国の軍事作戦を抑制するために</td><td>campaign = 軍事作戦・キャンペーン。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>If approved, it would then go to the Senate<button type="button" class="speak-btn speak-btn--inline" data-text="If approved, it would then go to the Senate" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>条件節＋主節</td><td>可決されれば、それは上院に送られる</td><td>分詞による条件の省略は法案文脈で頻出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>where four Republican senators last month joined Democrats<button type="button" class="speak-btn speak-btn--inline" data-text="where four Republican senators last month joined Democrats" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係副詞節</td><td>そこで4人の共和党上院議員が先月民主党と加わった</td><td>where = 上院では。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in advancing a similar measure<button type="button" class="speak-btn speak-btn--inline" data-text="in advancing a similar measure" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>類似法案を前進させることに</td><td>advance a measure = 法案を進める。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to curtail the U.S. campaign against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="to curtail the U.S. campaign against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>イランへの米国の軍事作戦を抑制するために</td><td>campaign = 軍事作戦・キャンペーン。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">If approved, it would then go to the Senate</div>
+              <div class="chunk-en speak-line">If approved, it would then go to the Senate<button type="button" class="speak-btn speak-btn--inline" data-text="If approved, it would then go to the Senate" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">条件節＋主節 · 可決されれば、それは上院に送られる</div>
               <div>分詞による条件の省略は法案文脈で頻出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">where four Republican senators last month joined Democrats</div>
+              <div class="chunk-en speak-line">where four Republican senators last month joined Democrats<button type="button" class="speak-btn speak-btn--inline" data-text="where four Republican senators last month joined Democrats" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係副詞節 · そこで4人の共和党上院議員が先月民主党と加わった</div>
               <div>where = 上院では。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in advancing a similar measure</div>
+              <div class="chunk-en speak-line">in advancing a similar measure<button type="button" class="speak-btn speak-btn--inline" data-text="in advancing a similar measure" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 類似法案を前進させることに</div>
               <div>advance a measure = 法案を進める。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to curtail the U.S. campaign against Iran</div>
+              <div class="chunk-en speak-line">to curtail the U.S. campaign against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="to curtail the U.S. campaign against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · イランへの米国の軍事作戦を抑制するために</div>
               <div>campaign = 軍事作戦・キャンペーン。</div>
             </div>
@@ -1027,8 +1017,7 @@
     <article class="sentence-block" id="s022">
       <div class="sentence-head">
         <div class="sentence-num">22</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Senate has yet to take a final vote to approve or reject its own war powers resolution."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Senate has yet to take a final vote to approve or reject its own war powers resolution." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Senate has yet to take a final vote to approve or reject its own war powers resolution.</p>
       <p class="translation">上院は独自の戦争権限決議を承認するか否認するかの最終投票をまだ行っていない。</p>
@@ -1041,17 +1030,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The Senate has yet to take a final vote</td><td class='chunk-role'>主節</td><td>上院はまだ最終投票を行っていない</td><td>has yet to do = いまだに～していない。</td></tr><tr><td class='chunk-en'>to approve or reject its own war powers resolution</td><td class='chunk-role'>不定詞（修飾）</td><td>独自の戦争権限決議を承認または否認する</td><td>reject = 否認・拒否。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The Senate has yet to take a final vote<button type="button" class="speak-btn speak-btn--inline" data-text="The Senate has yet to take a final vote" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>上院はまだ最終投票を行っていない</td><td>has yet to do = いまだに～していない。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to approve or reject its own war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="to approve or reject its own war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（修飾）</td><td>独自の戦争権限決議を承認または否認する</td><td>reject = 否認・拒否。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The Senate has yet to take a final vote</div>
+              <div class="chunk-en speak-line">The Senate has yet to take a final vote<button type="button" class="speak-btn speak-btn--inline" data-text="The Senate has yet to take a final vote" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 上院はまだ最終投票を行っていない</div>
               <div>has yet to do = いまだに～していない。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to approve or reject its own war powers resolution</div>
+              <div class="chunk-en speak-line">to approve or reject its own war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="to approve or reject its own war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（修飾） · 独自の戦争権限決議を承認または否認する</div>
               <div>reject = 否認・拒否。</div>
             </div>
@@ -1064,8 +1053,7 @@
     <article class="sentence-block" id="s023">
       <div class="sentence-head">
         <div class="sentence-num">23</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Secretary of State Marco Rubio warned Wednesday testifying at a House Foreign Affairs Committee hearing that the Iranians would think that the administration&#x27;s “hands are going to be tied” if Congress approved a war powers resolution."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Secretary of State Marco Rubio warned Wednesday testifying at a House Foreign Affairs Committee hearing that the Iranians would think that the administration&#x27;s “hands are going to be tied” if Congress approved a war powers resolution." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Secretary of State Marco Rubio warned Wednesday testifying at a House Foreign Affairs Committee hearing that the Iranians would think that the administration&#x27;s “hands are going to be tied” if Congress approved a war powers resolution.</p>
       <p class="translation">マルコ・ルビオ国務長官は水曜日、下院外交委員会の公聴会で証言し、議会が戦争権限決議を可決すれば、イラン側は政権の「手が縛られる」と考えるだろうと警告した。</p>
@@ -1078,29 +1066,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Secretary of State Marco Rubio warned Wednesday</td><td class='chunk-role'>主節</td><td>国務長官マルコ・ルビオは水曜日警告した</td><td>Secretary of State = 国務長官。</td></tr><tr><td class='chunk-en'>testifying at a House Foreign Affairs Committee hearing</td><td class='chunk-role'>分詞構文</td><td>下院外交委員会の公聴会で証言しながら</td><td>testify at a hearing = 公聴会で証言する。</td></tr><tr><td class='chunk-en'>that the Iranians would think that the administration&#x27;s “hands are going to be tied”</td><td class='chunk-role'>間接話法の内容</td><td>イラン側は政権の手が縛られると考えるだろうと</td><td>hands are tied = 行動の自由がなくなる慣用句。</td></tr><tr><td class='chunk-en'>if Congress approved a war powers resolution</td><td class='chunk-role'>条件節</td><td>議会が戦争権限決議を可決すれば</td><td>仮定を過去形で表す間接話法の条件。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Secretary of State Marco Rubio warned Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="Secretary of State Marco Rubio warned Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>国務長官マルコ・ルビオは水曜日警告した</td><td>Secretary of State = 国務長官。</td></tr><tr><td class='chunk-en'><span class='speak-line'>testifying at a House Foreign Affairs Committee hearing<button type="button" class="speak-btn speak-btn--inline" data-text="testifying at a House Foreign Affairs Committee hearing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>下院外交委員会の公聴会で証言しながら</td><td>testify at a hearing = 公聴会で証言する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that the Iranians would think that the administration&#x27;s “hands are going to be tied”<button type="button" class="speak-btn speak-btn--inline" data-text="that the Iranians would think that the administration&#x27;s “hands are going to be tied”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>間接話法の内容</td><td>イラン側は政権の手が縛られると考えるだろうと</td><td>hands are tied = 行動の自由がなくなる慣用句。</td></tr><tr><td class='chunk-en'><span class='speak-line'>if Congress approved a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="if Congress approved a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>条件節</td><td>議会が戦争権限決議を可決すれば</td><td>仮定を過去形で表す間接話法の条件。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Secretary of State Marco Rubio warned Wednesday</div>
+              <div class="chunk-en speak-line">Secretary of State Marco Rubio warned Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="Secretary of State Marco Rubio warned Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 国務長官マルコ・ルビオは水曜日警告した</div>
               <div>Secretary of State = 国務長官。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">testifying at a House Foreign Affairs Committee hearing</div>
+              <div class="chunk-en speak-line">testifying at a House Foreign Affairs Committee hearing<button type="button" class="speak-btn speak-btn--inline" data-text="testifying at a House Foreign Affairs Committee hearing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 下院外交委員会の公聴会で証言しながら</div>
               <div>testify at a hearing = 公聴会で証言する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that the Iranians would think that the administration&#x27;s “hands are going to be tied”</div>
+              <div class="chunk-en speak-line">that the Iranians would think that the administration&#x27;s “hands are going to be tied”<button type="button" class="speak-btn speak-btn--inline" data-text="that the Iranians would think that the administration&#x27;s “hands are going to be tied”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">間接話法の内容 · イラン側は政権の手が縛られると考えるだろうと</div>
               <div>hands are tied = 行動の自由がなくなる慣用句。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">if Congress approved a war powers resolution</div>
+              <div class="chunk-en speak-line">if Congress approved a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="if Congress approved a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">条件節 · 議会が戦争権限決議を可決すれば</div>
               <div>仮定を過去形で表す間接話法の条件。</div>
             </div>
@@ -1113,8 +1101,7 @@
     <article class="sentence-block" id="s024">
       <div class="sentence-head">
         <div class="sentence-num">24</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="He said they would think ”we won’t be able to do anything to them, so why make a deal?”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="He said they would think ”we won’t be able to do anything to them, so why make a deal?”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">He said they would think ”we won’t be able to do anything to them, so why make a deal?”</p>
       <p class="translation">彼は、イラン側は「彼らに何もできなくなるのだから、なぜ合意する必要があるのか」と考えるだろうと述べた。</p>
@@ -1127,23 +1114,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>He said they would think</td><td class='chunk-role'>主節</td><td>彼は彼らが考えるだろうと言った</td><td>would thinkは相手の推測を伝える。</td></tr><tr><td class='chunk-en'>we won’t be able to do anything to them</td><td class='chunk-role'>引用文</td><td>私たちは彼らに何もできなくなる</td><td>be able to = 能力・可能性。do anything to them = 彼らに何か手を打つ。</td></tr><tr><td class='chunk-en'>so why make a deal?</td><td class='chunk-role'>引用文（結論）</td><td>だからなぜ合意するのか</td><td>why + 動詞原形 = 修辞的疑問。make a deal = 合意する。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>He said they would think<button type="button" class="speak-btn speak-btn--inline" data-text="He said they would think" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>彼は彼らが考えるだろうと言った</td><td>would thinkは相手の推測を伝える。</td></tr><tr><td class='chunk-en'><span class='speak-line'>we won’t be able to do anything to them<button type="button" class="speak-btn speak-btn--inline" data-text="we won’t be able to do anything to them" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用文</td><td>私たちは彼らに何もできなくなる</td><td>be able to = 能力・可能性。do anything to them = 彼らに何か手を打つ。</td></tr><tr><td class='chunk-en'><span class='speak-line'>so why make a deal?<button type="button" class="speak-btn speak-btn--inline" data-text="so why make a deal?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>引用文（結論）</td><td>だからなぜ合意するのか</td><td>why + 動詞原形 = 修辞的疑問。make a deal = 合意する。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">He said they would think</div>
+              <div class="chunk-en speak-line">He said they would think<button type="button" class="speak-btn speak-btn--inline" data-text="He said they would think" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 彼は彼らが考えるだろうと言った</div>
               <div>would thinkは相手の推測を伝える。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">we won’t be able to do anything to them</div>
+              <div class="chunk-en speak-line">we won’t be able to do anything to them<button type="button" class="speak-btn speak-btn--inline" data-text="we won’t be able to do anything to them" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用文 · 私たちは彼らに何もできなくなる</div>
               <div>be able to = 能力・可能性。do anything to them = 彼らに何か手を打つ。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">so why make a deal?</div>
+              <div class="chunk-en speak-line">so why make a deal?<button type="button" class="speak-btn speak-btn--inline" data-text="so why make a deal?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">引用文（結論） · だからなぜ合意するのか</div>
               <div>why + 動詞原形 = 修辞的疑問。make a deal = 合意する。</div>
             </div>
@@ -1156,8 +1143,7 @@
     <article class="sentence-block" id="s025">
       <div class="sentence-head">
         <div class="sentence-num">25</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="It&#x27;s not the only action Congress is taking in the national security arena as Democrats, in the minority, work to peel off Republican support for measures beyond the war against Iran."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="It&#x27;s not the only action Congress is taking in the national security arena as Democrats, in the minority, work to peel off Republican support for measures beyond the war against Iran." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">It&#x27;s not the only action Congress is taking in the national security arena as Democrats, in the minority, work to peel off Republican support for measures beyond the war against Iran.</p>
       <p class="translation">議会が国家安全保障の分野で取っている行動はこれだけではない。少数派の民主党は、イランへの戦争を超えた法案について、共和党の支持をくじくよう働きかけている。</p>
@@ -1170,23 +1156,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>It&#x27;s not the only action Congress is taking in the national security arena</td><td class='chunk-role'>主節</td><td>議会が国家安全保障分野で取っている行動はこれだけではない</td><td>arena = 分野・舞台。national security = 国家安全保障。</td></tr><tr><td class='chunk-en'>as Democrats, in the minority, work to peel off Republican support</td><td class='chunk-role'>副詞節</td><td>少数派の民主党が共和党の支持を引き剥がそうと働く一方で</td><td>in the minority = 議会で少数派。peel off support = 支持を一部奪う。</td></tr><tr><td class='chunk-en'>for measures beyond the war against Iran</td><td class='chunk-role'>前置詞句</td><td>イランへの戦争を超えた法案について</td><td>beyond = ～以外にも・超えて。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>It&#x27;s not the only action Congress is taking in the national security arena<button type="button" class="speak-btn speak-btn--inline" data-text="It&#x27;s not the only action Congress is taking in the national security arena" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>議会が国家安全保障分野で取っている行動はこれだけではない</td><td>arena = 分野・舞台。national security = 国家安全保障。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as Democrats, in the minority, work to peel off Republican support<button type="button" class="speak-btn speak-btn--inline" data-text="as Democrats, in the minority, work to peel off Republican support" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節</td><td>少数派の民主党が共和党の支持を引き剥がそうと働く一方で</td><td>in the minority = 議会で少数派。peel off support = 支持を一部奪う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>for measures beyond the war against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="for measures beyond the war against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>イランへの戦争を超えた法案について</td><td>beyond = ～以外にも・超えて。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">It&#x27;s not the only action Congress is taking in the national security arena</div>
+              <div class="chunk-en speak-line">It&#x27;s not the only action Congress is taking in the national security arena<button type="button" class="speak-btn speak-btn--inline" data-text="It&#x27;s not the only action Congress is taking in the national security arena" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 議会が国家安全保障分野で取っている行動はこれだけではない</div>
               <div>arena = 分野・舞台。national security = 国家安全保障。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as Democrats, in the minority, work to peel off Republican support</div>
+              <div class="chunk-en speak-line">as Democrats, in the minority, work to peel off Republican support<button type="button" class="speak-btn speak-btn--inline" data-text="as Democrats, in the minority, work to peel off Republican support" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節 · 少数派の民主党が共和党の支持を引き剥がそうと働く一方で</div>
               <div>in the minority = 議会で少数派。peel off support = 支持を一部奪う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">for measures beyond the war against Iran</div>
+              <div class="chunk-en speak-line">for measures beyond the war against Iran<button type="button" class="speak-btn speak-btn--inline" data-text="for measures beyond the war against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · イランへの戦争を超えた法案について</div>
               <div>beyond = ～以外にも・超えて。</div>
             </div>
@@ -1199,8 +1185,7 @@
     <article class="sentence-block" id="s026">
       <div class="sentence-head">
         <div class="sentence-num">26</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The House is also voting Wednesday on another Democratic-led effort that would authorize U.S. support for Ukraine&#x27;s military operations as it battles Russia and to help reconstruct the war-torn country."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The House is also voting Wednesday on another Democratic-led effort that would authorize U.S. support for Ukraine&#x27;s military operations as it battles Russia and to help reconstruct the war-torn country." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The House is also voting Wednesday on another Democratic-led effort that would authorize U.S. support for Ukraine&#x27;s military operations as it battles Russia and to help reconstruct the war-torn country.</p>
       <p class="translation">下院は水曜日、民主党主導の別の法案についても採決している。これはロシアと戦うウクライナの軍事作戦への米国支援を認可し、戦争で荒廃した国の再建を支援する内容だ。</p>
@@ -1213,29 +1198,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The House is also voting Wednesday on another Democratic-led effort</td><td class='chunk-role'>主節</td><td>下院は水曜日、別の民主党主導の試みについても採決している</td><td>vote on = ～を採決する。effort = 法案・取り組み。</td></tr><tr><td class='chunk-en'>that would authorize U.S. support for Ukraine&#x27;s military operations</td><td class='chunk-role'>関係節</td><td>ウクライナの軍事作戦への米国支援を認可する</td><td>authorize = 正式に認可する。</td></tr><tr><td class='chunk-en'>as it battles Russia</td><td class='chunk-role'>副詞節</td><td>ロシアと戦うなかで</td><td>it = Ukraine。</td></tr><tr><td class='chunk-en'>to help reconstruct the war-torn country</td><td class='chunk-role'>不定詞（並列）</td><td>戦争で荒廃した国の再建を支援するために</td><td>war-torn = 戦禍に見舞われた。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The House is also voting Wednesday on another Democratic-led effort<button type="button" class="speak-btn speak-btn--inline" data-text="The House is also voting Wednesday on another Democratic-led effort" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>下院は水曜日、別の民主党主導の試みについても採決している</td><td>vote on = ～を採決する。effort = 法案・取り組み。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that would authorize U.S. support for Ukraine&#x27;s military operations<button type="button" class="speak-btn speak-btn--inline" data-text="that would authorize U.S. support for Ukraine&#x27;s military operations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>ウクライナの軍事作戦への米国支援を認可する</td><td>authorize = 正式に認可する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as it battles Russia<button type="button" class="speak-btn speak-btn--inline" data-text="as it battles Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節</td><td>ロシアと戦うなかで</td><td>it = Ukraine。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to help reconstruct the war-torn country<button type="button" class="speak-btn speak-btn--inline" data-text="to help reconstruct the war-torn country" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（並列）</td><td>戦争で荒廃した国の再建を支援するために</td><td>war-torn = 戦禍に見舞われた。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The House is also voting Wednesday on another Democratic-led effort</div>
+              <div class="chunk-en speak-line">The House is also voting Wednesday on another Democratic-led effort<button type="button" class="speak-btn speak-btn--inline" data-text="The House is also voting Wednesday on another Democratic-led effort" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 下院は水曜日、別の民主党主導の試みについても採決している</div>
               <div>vote on = ～を採決する。effort = 法案・取り組み。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that would authorize U.S. support for Ukraine&#x27;s military operations</div>
+              <div class="chunk-en speak-line">that would authorize U.S. support for Ukraine&#x27;s military operations<button type="button" class="speak-btn speak-btn--inline" data-text="that would authorize U.S. support for Ukraine&#x27;s military operations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · ウクライナの軍事作戦への米国支援を認可する</div>
               <div>authorize = 正式に認可する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as it battles Russia</div>
+              <div class="chunk-en speak-line">as it battles Russia<button type="button" class="speak-btn speak-btn--inline" data-text="as it battles Russia" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節 · ロシアと戦うなかで</div>
               <div>it = Ukraine。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to help reconstruct the war-torn country</div>
+              <div class="chunk-en speak-line">to help reconstruct the war-torn country<button type="button" class="speak-btn speak-btn--inline" data-text="to help reconstruct the war-torn country" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（並列） · 戦争で荒廃した国の再建を支援するために</div>
               <div>war-torn = 戦禍に見舞われた。</div>
             </div>
@@ -1248,8 +1233,7 @@
     <article class="sentence-block" id="s027">
       <div class="sentence-head">
         <div class="sentence-num">27</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The House this week is also expected to consider a war powers resolution to block U.S. action in Lebanon."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The House this week is also expected to consider a war powers resolution to block U.S. action in Lebanon." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The House this week is also expected to consider a war powers resolution to block U.S. action in Lebanon.</p>
       <p class="translation">下院は今週、レバノンでの米国の軍事行動を阻止する戦争権限決議も審議する見込みだ。</p>
@@ -1262,23 +1246,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The House this week is also expected to consider</td><td class='chunk-role'>主節</td><td>下院は今週、審議する見込みでもある</td><td>be expected to = 予定・見込み。</td></tr><tr><td class='chunk-en'>a war powers resolution</td><td class='chunk-role'>目的語</td><td>戦争権限決議を</td><td>記事内で繰り返されるキーフレーズ。</td></tr><tr><td class='chunk-en'>to block U.S. action in Lebanon</td><td class='chunk-role'>不定詞（目的）</td><td>レバノンでの米国の行動を阻止するために</td><td>block = 阻止する。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The House this week is also expected to consider<button type="button" class="speak-btn speak-btn--inline" data-text="The House this week is also expected to consider" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>下院は今週、審議する見込みでもある</td><td>be expected to = 予定・見込み。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語</td><td>戦争権限決議を</td><td>記事内で繰り返されるキーフレーズ。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to block U.S. action in Lebanon<button type="button" class="speak-btn speak-btn--inline" data-text="to block U.S. action in Lebanon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>レバノンでの米国の行動を阻止するために</td><td>block = 阻止する。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The House this week is also expected to consider</div>
+              <div class="chunk-en speak-line">The House this week is also expected to consider<button type="button" class="speak-btn speak-btn--inline" data-text="The House this week is also expected to consider" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 下院は今週、審議する見込みでもある</div>
               <div>be expected to = 予定・見込み。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a war powers resolution</div>
+              <div class="chunk-en speak-line">a war powers resolution<button type="button" class="speak-btn speak-btn--inline" data-text="a war powers resolution" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語 · 戦争権限決議を</div>
               <div>記事内で繰り返されるキーフレーズ。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to block U.S. action in Lebanon</div>
+              <div class="chunk-en speak-line">to block U.S. action in Lebanon<button type="button" class="speak-btn speak-btn--inline" data-text="to block U.S. action in Lebanon" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · レバノンでの米国の行動を阻止するために</div>
               <div>block = 阻止する。</div>
             </div>
@@ -1291,8 +1275,7 @@
     <article class="sentence-block" id="s028">
       <div class="sentence-head">
         <div class="sentence-num">28</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="While Congress has the authority under the Constitution to declare war, the president also has power as the commander in chief to engage in military action, creating a legal dispute over which branch of government has ultimate say in matters of war and peace."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="While Congress has the authority under the Constitution to declare war, the president also has power as the commander in chief to engage in military action, creating a legal dispute over which branch of government has ultimate say in matters of war and peace." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">While Congress has the authority under the Constitution to declare war, the president also has power as the commander in chief to engage in military action, creating a legal dispute over which branch of government has ultimate say in matters of war and peace.</p>
       <p class="translation">憲法の下で議会には宣戦権がある一方、大統領も最高司令官として軍事行動を取る権限を持つ。このため、戦争と平和について最終的な決定権をどちらの政府部門が持つかをめぐる法的争いが生じている。</p>
@@ -1305,29 +1288,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Congress has the authority under the Constitution to declare war</td><td class='chunk-role'>副詞節</td><td>議会は憲法の下で宣戦する権限を持つ</td><td>declare war = 宣戦する。authority to = ～する権限。</td></tr><tr><td class='chunk-en'>the president also has power as the commander in chief to engage in military action</td><td class='chunk-role'>主節</td><td>大統領も最高司令官として軍事行動をとる権限を持つ</td><td>engage in = 従事する・行う。</td></tr><tr><td class='chunk-en'>creating a legal dispute</td><td class='chunk-role'>分詞構文</td><td>法的争いを生み出して</td><td>結果として生じる状況。</td></tr><tr><td class='chunk-en'>over which branch of government has ultimate say in matters of war and peace</td><td class='chunk-role'>前置詞句</td><td>政府のどの部門が戦争と平和の問題で最終決定権を持つかについて</td><td>branch of government = 三権の各部門。ultimate say = 最終発言権。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Congress has the authority under the Constitution to declare war<button type="button" class="speak-btn speak-btn--inline" data-text="Congress has the authority under the Constitution to declare war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞節</td><td>議会は憲法の下で宣戦する権限を持つ</td><td>declare war = 宣戦する。authority to = ～する権限。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the president also has power as the commander in chief to engage in military action<button type="button" class="speak-btn speak-btn--inline" data-text="the president also has power as the commander in chief to engage in military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>大統領も最高司令官として軍事行動をとる権限を持つ</td><td>engage in = 従事する・行う。</td></tr><tr><td class='chunk-en'><span class='speak-line'>creating a legal dispute<button type="button" class="speak-btn speak-btn--inline" data-text="creating a legal dispute" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>法的争いを生み出して</td><td>結果として生じる状況。</td></tr><tr><td class='chunk-en'><span class='speak-line'>over which branch of government has ultimate say in matters of war and peace<button type="button" class="speak-btn speak-btn--inline" data-text="over which branch of government has ultimate say in matters of war and peace" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>政府のどの部門が戦争と平和の問題で最終決定権を持つかについて</td><td>branch of government = 三権の各部門。ultimate say = 最終発言権。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Congress has the authority under the Constitution to declare war</div>
+              <div class="chunk-en speak-line">Congress has the authority under the Constitution to declare war<button type="button" class="speak-btn speak-btn--inline" data-text="Congress has the authority under the Constitution to declare war" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞節 · 議会は憲法の下で宣戦する権限を持つ</div>
               <div>declare war = 宣戦する。authority to = ～する権限。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the president also has power as the commander in chief to engage in military action</div>
+              <div class="chunk-en speak-line">the president also has power as the commander in chief to engage in military action<button type="button" class="speak-btn speak-btn--inline" data-text="the president also has power as the commander in chief to engage in military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 大統領も最高司令官として軍事行動をとる権限を持つ</div>
               <div>engage in = 従事する・行う。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">creating a legal dispute</div>
+              <div class="chunk-en speak-line">creating a legal dispute<button type="button" class="speak-btn speak-btn--inline" data-text="creating a legal dispute" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 法的争いを生み出して</div>
               <div>結果として生じる状況。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">over which branch of government has ultimate say in matters of war and peace</div>
+              <div class="chunk-en speak-line">over which branch of government has ultimate say in matters of war and peace<button type="button" class="speak-btn speak-btn--inline" data-text="over which branch of government has ultimate say in matters of war and peace" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 政府のどの部門が戦争と平和の問題で最終決定権を持つかについて</div>
               <div>branch of government = 三権の各部門。ultimate say = 最終発言権。</div>
             </div>
@@ -1340,8 +1323,7 @@
     <article class="sentence-block" id="s029">
       <div class="sentence-head">
         <div class="sentence-num">29</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Under the war powers act, the White House has a 60-day window to seek approval from Congress for military action."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Under the war powers act, the White House has a 60-day window to seek approval from Congress for military action." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Under the war powers act, the White House has a 60-day window to seek approval from Congress for military action.</p>
       <p class="translation">戦争権限法の下では、ホワイトハウスは軍事行動について議会の承認を求めるための60日間の猶予がある。</p>
@@ -1354,23 +1336,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Under the war powers act</td><td class='chunk-role'>副詞句</td><td>戦争権限法の下では</td><td>War Powers Act = 1973年の戦争権限法。</td></tr><tr><td class='chunk-en'>the White House has a 60-day window</td><td class='chunk-role'>主節</td><td>ホワイトハウスには60日間の猶予がある</td><td>window = 時間的な枠・猶予期間。</td></tr><tr><td class='chunk-en'>to seek approval from Congress for military action</td><td class='chunk-role'>不定詞</td><td>軍事行動について議会の承認を求めるために</td><td>seek approval from = ～に承認を求める。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Under the war powers act<button type="button" class="speak-btn speak-btn--inline" data-text="Under the war powers act" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>戦争権限法の下では</td><td>War Powers Act = 1973年の戦争権限法。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the White House has a 60-day window<button type="button" class="speak-btn speak-btn--inline" data-text="the White House has a 60-day window" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ホワイトハウスには60日間の猶予がある</td><td>window = 時間的な枠・猶予期間。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to seek approval from Congress for military action<button type="button" class="speak-btn speak-btn--inline" data-text="to seek approval from Congress for military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞</td><td>軍事行動について議会の承認を求めるために</td><td>seek approval from = ～に承認を求める。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Under the war powers act</div>
+              <div class="chunk-en speak-line">Under the war powers act<button type="button" class="speak-btn speak-btn--inline" data-text="Under the war powers act" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 戦争権限法の下では</div>
               <div>War Powers Act = 1973年の戦争権限法。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the White House has a 60-day window</div>
+              <div class="chunk-en speak-line">the White House has a 60-day window<button type="button" class="speak-btn speak-btn--inline" data-text="the White House has a 60-day window" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ホワイトハウスには60日間の猶予がある</div>
               <div>window = 時間的な枠・猶予期間。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to seek approval from Congress for military action</div>
+              <div class="chunk-en speak-line">to seek approval from Congress for military action<button type="button" class="speak-btn speak-btn--inline" data-text="to seek approval from Congress for military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞 · 軍事行動について議会の承認を求めるために</div>
               <div>seek approval from = ～に承認を求める。</div>
             </div>
@@ -1383,8 +1365,7 @@
     <article class="sentence-block" id="s030">
       <div class="sentence-head">
         <div class="sentence-num">30</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The administration, however, has indicated that because a ceasefire has been declared in the current conflict in Iran, the hostilities have ceased."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The administration, however, has indicated that because a ceasefire has been declared in the current conflict in Iran, the hostilities have ceased." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The administration, however, has indicated that because a ceasefire has been declared in the current conflict in Iran, the hostilities have ceased.</p>
       <p class="translation">しかし政権は、イランでの現在の紛争において停戦が宣言されたため、敵対行為は終わったと示している。</p>
@@ -1397,23 +1378,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The administration, however, has indicated that</td><td class='chunk-role'>主節</td><td>しかし政権は～と示している</td><td>indicate = 示す・表明する。</td></tr><tr><td class='chunk-en'>because a ceasefire has been declared in the current conflict in Iran</td><td class='chunk-role'>理由節</td><td>イランの現在の紛争で停戦が宣言されたので</td><td>current conflict = 現在進行中の紛争。</td></tr><tr><td class='chunk-en'>the hostilities have ceased</td><td class='chunk-role'>内容節</td><td>敵対行為は終わった</td><td>hostilities = 敵対行為・戦闘行為。cease = 停止する（格式ばった語）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The administration, however, has indicated that<button type="button" class="speak-btn speak-btn--inline" data-text="The administration, however, has indicated that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>しかし政権は～と示している</td><td>indicate = 示す・表明する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>because a ceasefire has been declared in the current conflict in Iran<button type="button" class="speak-btn speak-btn--inline" data-text="because a ceasefire has been declared in the current conflict in Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由節</td><td>イランの現在の紛争で停戦が宣言されたので</td><td>current conflict = 現在進行中の紛争。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the hostilities have ceased<button type="button" class="speak-btn speak-btn--inline" data-text="the hostilities have ceased" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節</td><td>敵対行為は終わった</td><td>hostilities = 敵対行為・戦闘行為。cease = 停止する（格式ばった語）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The administration, however, has indicated that</div>
+              <div class="chunk-en speak-line">The administration, however, has indicated that<button type="button" class="speak-btn speak-btn--inline" data-text="The administration, however, has indicated that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · しかし政権は～と示している</div>
               <div>indicate = 示す・表明する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">because a ceasefire has been declared in the current conflict in Iran</div>
+              <div class="chunk-en speak-line">because a ceasefire has been declared in the current conflict in Iran<button type="button" class="speak-btn speak-btn--inline" data-text="because a ceasefire has been declared in the current conflict in Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由節 · イランの現在の紛争で停戦が宣言されたので</div>
               <div>current conflict = 現在進行中の紛争。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the hostilities have ceased</div>
+              <div class="chunk-en speak-line">the hostilities have ceased<button type="button" class="speak-btn speak-btn--inline" data-text="the hostilities have ceased" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節 · 敵対行為は終わった</div>
               <div>hostilities = 敵対行為・戦闘行為。cease = 停止する（格式ばった語）。</div>
             </div>
@@ -1426,134 +1407,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>war powers resolution</h3>
-                <button type="button" class="speak-btn" data-text="war powers resolution"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="war powers resolution" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/wɔːr ˈpaʊərz ˌrɛzəˈluːʃən/</div>
               <p>戦争権限決議（大統領の軍事行動を制限する議会決議）</p>
-              <p class="example-en"><em>The House approved a war powers resolution Wednesday.</em></p>
+              <p class="example-en speak-line"><em>The House approved a war powers resolution Wednesday.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The House approved a war powers resolution Wednesday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">下院は水曜日、戦争権限決議を可決した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>defy</h3>
-                <button type="button" class="speak-btn" data-text="defy"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="defy" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/dɪˈfaɪ/</div>
               <p>（権威に）逆らう、公然と拒む</p>
-              <p class="example-en"><em>A handful of Republicans joined Democrats, defying President Trump.</em></p>
+              <p class="example-en speak-line"><em>A handful of Republicans joined Democrats, defying President Trump.</em><button type="button" class="speak-btn speak-btn--inline" data-text="A handful of Republicans joined Democrats, defying President Trump." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">少数の共和党員が民主党とともにトランプ大統領に逆らった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>on the verge of</h3>
-                <button type="button" class="speak-btn" data-text="on the verge of"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="on the verge of" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɒn ðə vɜːrdʒ əv/</div>
               <p>まさに～しそうな、～の瀬戸際で</p>
-              <p class="example-en"><em>The resolution was on the verge of approval.</em></p>
+              <p class="example-en speak-line"><em>The resolution was on the verge of approval.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The resolution was on the verge of approval." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">その決議は可決目前だった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>war of choice</h3>
-                <button type="button" class="speak-btn" data-text="war of choice"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="war of choice" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/wɔːr əv tʃɔɪs/</div>
               <p>選択戦争（必要性より政治的判断で始めた戦争）</p>
-              <p class="example-en"><em>This reckless and costly war of choice needs to end today.</em></p>
+              <p class="example-en speak-line"><em>This reckless and costly war of choice needs to end today.</em><button type="button" class="speak-btn speak-btn--inline" data-text="This reckless and costly war of choice needs to end today." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">この無謀で費用のかかる選択戦争は今日中に終わらせる必要がある。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>break ranks</h3>
-                <button type="button" class="speak-btn" data-text="break ranks"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="break ranks" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/breɪk ræŋks/</div>
               <p>（党・組織の）一列を乱す、党に反する</p>
-              <p class="example-en"><em>GOP senators broke ranks with the Republican president.</em></p>
+              <p class="example-en speak-line"><em>GOP senators broke ranks with the Republican president.</em><button type="button" class="speak-btn speak-btn--inline" data-text="GOP senators broke ranks with the Republican president." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">共和党上院議員が共和党大統領と決裂した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>curb</h3>
-                <button type="button" class="speak-btn" data-text="curb"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="curb" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/kɜːrb/</div>
               <p>抑制する、食い止める</p>
-              <p class="example-en"><em>The House has tried to curb the U.S. war against Iran.</em></p>
+              <p class="example-en speak-line"><em>The House has tried to curb the U.S. war against Iran.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The House has tried to curb the U.S. war against Iran." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">下院はイランへの米国の戦争を抑制しようとしてきた。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>peel off</h3>
-                <button type="button" class="speak-btn" data-text="peel off"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="peel off" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/piːl ɒf/</div>
               <p>（支持などを）一部ずつ引き離す</p>
-              <p class="example-en"><em>Democrats work to peel off Republican support.</em></p>
+              <p class="example-en speak-line"><em>Democrats work to peel off Republican support.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Democrats work to peel off Republican support." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">民主党は共和党の支持を一部引き離そうとしている。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>hands are tied</h3>
-                <button type="button" class="speak-btn" data-text="hands are tied"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="hands are tied" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/hændz ɑːr taɪd/</div>
               <p>手が縛られている（何もできない状態）</p>
-              <p class="example-en"><em>The Iranians would think the administration&#x27;s hands are going to be tied.</em></p>
+              <p class="example-en speak-line"><em>The Iranians would think the administration&#x27;s hands are going to be tied.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The Iranians would think the administration&#x27;s hands are going to be tied." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">イラン側は政権の手が縛られると考えるだろう。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Reduced adverbial clauses (participles)</h3>
-              <p>When the subject is the same, clauses like &#x27;If it is approved&#x27; or &#x27;while he was testifying&#x27; can shorten to &#x27;If approved&#x27; or &#x27;testifying&#x27;.</p>
-              <p class="example-en"><em>If approved, it would then go to the Senate, testifying at a House Foreign Affairs Committee hearing.</em></p>
+              <div class="grammar-head">
+                <h3>Reduced adverbial clauses (participles)</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reduced adverbial clauses (participles)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">When the subject is the same, clauses like &#x27;If it is approved&#x27; or &#x27;while he was testifying&#x27; can shorten to &#x27;If approved&#x27; or &#x27;testifying&#x27;.<button type="button" class="speak-btn speak-btn--inline" data-text="When the subject is the same, clauses like &#x27;If it is approved&#x27; or &#x27;while he was testifying&#x27; can shorten to &#x27;If approved&#x27; or &#x27;testifying&#x27;." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>If approved, it would then go to the Senate, testifying at a House Foreign Affairs Committee hearing.</em><button type="button" class="speak-btn speak-btn--inline" data-text="If approved, it would then go to the Senate, testifying at a House Foreign Affairs Committee hearing." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>主語が同じとき、条件や付帯状況の節を分詞で短くできる。政治・法律記事で頻出なので、&#x27;If it is approved&#x27;と読み替える練習が有効。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Relative clauses (that/which) in news writing</h3>
-              <p>Long news sentences often stack multiple &#x27;that&#x27; clauses to add facts: &#x27;a resolution that would halt action... a war that has reordered politics&#x27;.</p>
-              <p class="example-en"><em>a war powers resolution that would halt the U.S. military action against Iran</em></p>
+              <div class="grammar-head">
+                <h3>Relative clauses (that/which) in news writing</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Relative clauses (that/which) in news writing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Long news sentences often stack multiple &#x27;that&#x27; clauses to add facts: &#x27;a resolution that would halt action... a war that has reordered politics&#x27;.<button type="button" class="speak-btn speak-btn--inline" data-text="Long news sentences often stack multiple &#x27;that&#x27; clauses to add facts: &#x27;a resolution that would halt action... a war that has reordered politics&#x27;." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>a war powers resolution that would halt the U.S. military action against Iran</em><button type="button" class="speak-btn speak-btn--inline" data-text="a war powers resolution that would halt the U.S. military action against Iran" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>関係代名詞thatで情報を次々追加するのがニュース英語の特徴。一文を節ごとに切ってから全体をつなぐと読みやすい。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>has yet to + verb</h3>
-              <p>&#x27;has yet to do&#x27; means something has not happened so far, often implying it is expected or overdue.</p>
-              <p class="example-en"><em>The Senate has yet to take a final vote to approve or reject its own war powers resolution.</em></p>
+              <div class="grammar-head">
+                <h3>has yet to + verb</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="has yet to + verb" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">&#x27;has yet to do&#x27; means something has not happened so far, often implying it is expected or overdue.<button type="button" class="speak-btn speak-btn--inline" data-text="&#x27;has yet to do&#x27; means something has not happened so far, often implying it is expected or overdue." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The Senate has yet to take a final vote to approve or reject its own war powers resolution.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The Senate has yet to take a final vote to approve or reject its own war powers resolution." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「まだ～していない」だが、単なる否定より「これから必要・予定されている」ニュアンスが乗ることが多い。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>if not (understatement/contrast)</h3>
-              <p>&#x27;A if not B&#x27; suggests A is true, and B may also be true or is being downplayed: &#x27;a symbolic if not legal step&#x27;.</p>
-              <p class="example-en"><em>a symbolic if not legal step against further military action</em></p>
+              <div class="grammar-head">
+                <h3>if not (understatement/contrast)</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="if not (understatement/contrast)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">&#x27;A if not B&#x27; suggests A is true, and B may also be true or is being downplayed: &#x27;a symbolic if not legal step&#x27;.<button type="button" class="speak-btn speak-btn--inline" data-text="&#x27;A if not B&#x27; suggests A is true, and B may also be true or is being downplayed: &#x27;a symbolic if not legal step&#x27;." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>a symbolic if not legal step against further military action</em><button type="button" class="speak-btn speak-btn--inline" data-text="a symbolic if not legal step against further military action" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「少なくともAであり、BかもしれないがAである」という婉曲的対比。法的効力は限定的でも政治的意味は大きい、という含み。</p>
             </div>
             </div>
@@ -1562,23 +1547,23 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Ah_so
                 · score 26</div>
-              <p class="comment-raw">Trump can&#x27;t control Iran. Trump can&#x27;t control Israel. Trump can&#x27;t control a Republican majority Congress. This war will be Trump&#x27;s downfall. Too proud to pull out in defeat, but with no way of winning.</p>
+              <p class="comment-raw speak-line">Trump can&#x27;t control Iran. Trump can&#x27;t control Israel. Trump can&#x27;t control a Republican majority Congress. This war will be Trump&#x27;s downfall. Too proud to pull out in defeat, but with no way of winning.<button type="button" class="speak-btn" data-text="Trump can&#x27;t control Iran. Trump can&#x27;t control Israel. Trump can&#x27;t control a Republican majority Congress. This war will be Trump&#x27;s downfall. Too proud to pull out in defeat, but with no way of winning." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">トランプはイランをコントロールできない。イスラエルもコントロールできない。共和党多数派の議会すらコントロールできない。この戦争がトランプの没落になるだろう。敗北を認めて撤退するにはプライドが高すぎるのに、勝ち目がない。</p>
               <ul class='comment-notes'><li>「Trump can&#x27;t control…」の反復は、列挙による強調の修辞。</li><li>最後の「Too proud to…」は主語省略の断片文。pull out はここでは戦争からの撤退。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> He is too proud to withdraw in defeat, but he has no way of winning.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> He is too proud to withdraw in defeat, but he has no way of winning.<button type="button" class="speak-btn speak-btn--inline" data-text="He is too proud to withdraw in defeat, but he has no way of winning." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · Underworld
                 · score 23</div>
-              <p class="comment-raw">This is good. Trump and Hegseth are out of their depth.</p>
+              <p class="comment-raw speak-line">This is good. Trump and Hegseth are out of their depth.<button type="button" class="speak-btn" data-text="This is good. Trump and Hegseth are out of their depth." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">これは良いことだ。トランプもヘグセスも、手に負えない状況にいる。</p>
               <ul class='comment-notes'><li>out of their depth は慣用句で「能力・立場を超えて手に負えない」。</li></ul>
               
@@ -1588,30 +1573,30 @@
             <article class="comment-card">
               <div class="comment-meta">#3 · TaiwanIsNotChina
                 · score 22</div>
-              <p class="comment-raw">Even MAGA cult members are breaking with Trump.</p>
+              <p class="comment-raw speak-line">Even MAGA cult members are breaking with Trump.<button type="button" class="speak-btn" data-text="Even MAGA cult members are breaking with Trump." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">MAGAカルトの信者すら、トランプと決裂し始めている。</p>
               <ul class='comment-notes'><li>breaking with は「（支持・同盟から）決別する」。</li><li>Even … は「そういう人たちまでも」という驚き・強調。</li></ul>
               
-              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>cult</strong> — 宗教団体を侮蔑的に呼ぶ語。政治文脈でも敵対的・扇動的に聞こえる。</li></ul>
+              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>cult</strong><button type="button" class="speak-btn speak-btn--inline" data-text="cult" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 宗教団体を侮蔑的に呼ぶ語。政治文脈でも敵対的・扇動的に聞こえる。</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · nishikat
                 · score 22</div>
-              <p class="comment-raw">Trump killed a bunch of schoolgirls with a tomohaw missile. Does he know what he&#x27;s doing? Is Hegseth drunk again?</p>
+              <p class="comment-raw speak-line">Trump killed a bunch of schoolgirls with a tomohaw missile. Does he know what he&#x27;s doing? Is Hegseth drunk again?<button type="button" class="speak-btn" data-text="Trump killed a bunch of schoolgirls with a tomohaw missile. Does he know what he&#x27;s doing? Is Hegseth drunk again?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">トランプはトマホークミサイルで女子学生を何人も殺した。彼は自分が何をしているのか分かっているのか？ヘグセスはまた酔っ払っているのか？</p>
               <ul class='comment-notes'><li>tomohaw は Tomahawk（巡航ミサイル名）のスペルミス。</li><li>a bunch of は口語で「たくさんの」。drunk again は「また酔っているのか」という皮肉・非難。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Trump killed many schoolgirls with a Tomahawk missile. Does he know what he is doing? Is Hegseth drunk again?</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>drunk</strong> — 酔っている、の口語。公式・丁寧な場では言い換えた方がよい。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Trump killed many schoolgirls with a Tomahawk missile. Does he know what he is doing? Is Hegseth drunk again?<button type="button" class="speak-btn speak-btn--inline" data-text="Trump killed many schoolgirls with a Tomahawk missile. Does he know what he is doing? Is Hegseth drunk again?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>drunk</strong><button type="button" class="speak-btn speak-btn--inline" data-text="drunk" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 酔っている、の口語。公式・丁寧な場では言い換えた方がよい。</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · nishikat
                 · score 22</div>
-              <p class="comment-raw">Should have stayed with the Obama deal. Will FOX take back Hegseth? He killed a bunch of schoolgirls.</p>
+              <p class="comment-raw speak-line">Should have stayed with the Obama deal. Will FOX take back Hegseth? He killed a bunch of schoolgirls.<button type="button" class="speak-btn" data-text="Should have stayed with the Obama deal. Will FOX take back Hegseth? He killed a bunch of schoolgirls." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">オバマ政権の合意を維持すべきだった。FOXはヘグセスをまた起用するのか？彼は女子学生を何人も殺したのに。</p>
               <ul class='comment-notes'><li>Should have stayed… は主語省略（They/We should have…）。</li><li>take back はここではテレビ局が再放送・再雇用する、という意味。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> They should have stayed with the Obama deal. Will FOX take Hegseth back?</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> They should have stayed with the Obama deal. Will FOX take Hegseth back?<button type="button" class="speak-btn speak-btn--inline" data-text="They should have stayed with the Obama deal. Will FOX take Hegseth back?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
@@ -1619,7 +1604,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-04</footer>
+    <footer class="speak-line">English News Digest · 2026-06-04
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

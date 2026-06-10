@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-04</a>
       <span class="sep">/</span>
       <span>SpaceX&#x27;s IPO is set to be biggest ever and co...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX&#x27;s IPO is set to be biggest ever and co..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge business">business</span>
-      <h1>SpaceX&#x27;s IPO is set to be biggest ever and could make Elon Musk a trillionaire</h1>
-      <div class="meta">Japan Today Business · 2026-06-04</div>
+      <div class="title-head">
+        <span class="badge business">business</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="business" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>SpaceX&#x27;s IPO is set to be biggest ever and could make Elon Musk a trillionaire</h1>
+        <button type="button" class="speak-btn" data-text="SpaceX&#x27;s IPO is set to be biggest ever and could make Elon Musk a trillionaire" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today Business<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today Business" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-04</p>
       <div class="summary-ja">スペースXは今月の上場で最大750億ドルを調達し、史上最大の株式市場デビューとなる見込みで、イーロン・マスクが世界初の兆万長者になる可能性がある。公開書類ではマスクの議決権が約82.4%に達することが示され、調達額は2019年のサウジアラムコを上回る規模となる。IPO文書は火星植民地など壮大な計画を描き、投資家はスペースXに加えAnthropicやOpenAIの上場も待ち構えている。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/business/spacex&#x27;s-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world&#x27;s first trillionaire."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world&#x27;s first trillionaire." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world&#x27;s first trillionaire.</p>
       <p class="translation">スペースXは今月株式公開（IPO）を行う際、最大750億ドルの資金調達を計画していると発表した。これは史上最大規模の株式市場デビューの舞台を整え、イーロン・マスクを世界初の兆万長者（資産1兆ドル超）への道に乗せることになる。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>SpaceX says</td><td class='chunk-role'>主語＋述語</td><td>スペースXは言う</td><td>ニュースでは says it plans to ... のように間接話法で企業の発表内容を伝える。</td></tr><tr><td class='chunk-en'>it plans to raise up to $75 billion</td><td class='chunk-role'>目的語節</td><td>それは最大750億ドルを調達する計画だ</td><td>raise money = 資金を調達する。up to は「最大で」。</td></tr><tr><td class='chunk-en'>when it goes public this month</td><td class='chunk-role'>時を表す副詞節</td><td>今月それが株式公開されるとき</td><td>go public = IPOする。this month は近い未来の予定。</td></tr><tr><td class='chunk-en'>setting the stage for the largest-ever stock market debut</td><td class='chunk-role'>分詞構文（結果）</td><td>史上最大の株式市場デビューの舞台を整えながら</td><td>set the stage for = 〜の土台・条件を整える。largest-ever はハイフンで形容詞化。</td></tr><tr><td class='chunk-en'>putting Elon Musk on course to becoming the world&#x27;s first trillionaire</td><td class='chunk-role'>分詞構文（結果）</td><td>イーロン・マスクを世界初の兆万長者への道に乗せながら</td><td>on course to = 〜に向かっている。trillionaire は trillion（兆）+ millionaire の造語。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>SpaceX says<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX says" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>スペースXは言う</td><td>ニュースでは says it plans to ... のように間接話法で企業の発表内容を伝える。</td></tr><tr><td class='chunk-en'><span class='speak-line'>it plans to raise up to $75 billion<button type="button" class="speak-btn speak-btn--inline" data-text="it plans to raise up to $75 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語節</td><td>それは最大750億ドルを調達する計画だ</td><td>raise money = 資金を調達する。up to は「最大で」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>when it goes public this month<button type="button" class="speak-btn speak-btn--inline" data-text="when it goes public this month" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>今月それが株式公開されるとき</td><td>go public = IPOする。this month は近い未来の予定。</td></tr><tr><td class='chunk-en'><span class='speak-line'>setting the stage for the largest-ever stock market debut<button type="button" class="speak-btn speak-btn--inline" data-text="setting the stage for the largest-ever stock market debut" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（結果）</td><td>史上最大の株式市場デビューの舞台を整えながら</td><td>set the stage for = 〜の土台・条件を整える。largest-ever はハイフンで形容詞化。</td></tr><tr><td class='chunk-en'><span class='speak-line'>putting Elon Musk on course to becoming the world&#x27;s first trillionaire<button type="button" class="speak-btn speak-btn--inline" data-text="putting Elon Musk on course to becoming the world&#x27;s first trillionaire" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（結果）</td><td>イーロン・マスクを世界初の兆万長者への道に乗せながら</td><td>on course to = 〜に向かっている。trillionaire は trillion（兆）+ millionaire の造語。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">SpaceX says</div>
+              <div class="chunk-en speak-line">SpaceX says<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX says" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · スペースXは言う</div>
               <div>ニュースでは says it plans to ... のように間接話法で企業の発表内容を伝える。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">it plans to raise up to $75 billion</div>
+              <div class="chunk-en speak-line">it plans to raise up to $75 billion<button type="button" class="speak-btn speak-btn--inline" data-text="it plans to raise up to $75 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語節 · それは最大750億ドルを調達する計画だ</div>
               <div>raise money = 資金を調達する。up to は「最大で」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">when it goes public this month</div>
+              <div class="chunk-en speak-line">when it goes public this month<button type="button" class="speak-btn speak-btn--inline" data-text="when it goes public this month" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 今月それが株式公開されるとき</div>
               <div>go public = IPOする。this month は近い未来の予定。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">setting the stage for the largest-ever stock market debut</div>
+              <div class="chunk-en speak-line">setting the stage for the largest-ever stock market debut<button type="button" class="speak-btn speak-btn--inline" data-text="setting the stage for the largest-ever stock market debut" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（結果） · 史上最大の株式市場デビューの舞台を整えながら</div>
               <div>set the stage for = 〜の土台・条件を整える。largest-ever はハイフンで形容詞化。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">putting Elon Musk on course to becoming the world&#x27;s first trillionaire</div>
+              <div class="chunk-en speak-line">putting Elon Musk on course to becoming the world&#x27;s first trillionaire<button type="button" class="speak-btn speak-btn--inline" data-text="putting Elon Musk on course to becoming the world&#x27;s first trillionaire" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（結果） · イーロン・マスクを世界初の兆万長者への道に乗せながら</div>
               <div>on course to = 〜に向かっている。trillionaire は trillion（兆）+ millionaire の造語。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The company, formally known as Space Exploration Technologies Corp., said Wednesday it will sell 555.6 million shares at $135 a piece."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The company, formally known as Space Exploration Technologies Corp., said Wednesday it will sell 555.6 million shares at $135 a piece." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The company, formally known as Space Exploration Technologies Corp., said Wednesday it will sell 555.6 million shares at $135 a piece.</p>
       <p class="translation">正式名称スペース・エクスプロレーション・テクノロジーズ社は水曜日、1株135ドルで5億5560万株を売り出すと発表した。</p>
@@ -115,35 +124,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The company</td><td class='chunk-role'>主語</td><td>その会社は</td><td>前段の SpaceX を受ける。</td></tr><tr><td class='chunk-en'>formally known as Space Exploration Technologies Corp.</td><td class='chunk-role'>挿入句（同格）</td><td>正式にはスペース・エクスプロレーション・テクノロジーズ社として知られる</td><td>formally known as = 正式名称は〜。カンマで挟む。</td></tr><tr><td class='chunk-en'>said Wednesday</td><td class='chunk-role'>述語</td><td>水曜日に言った</td><td>said on Wednesday より簡潔な報道用法。</td></tr><tr><td class='chunk-en'>it will sell 555.6 million shares</td><td class='chunk-role'>目的語節</td><td>それは5億5560万株を売るだろう</td><td>million shares = 百万株単位。</td></tr><tr><td class='chunk-en'>at $135 a piece</td><td class='chunk-role'>前置詞句（価格）</td><td>1個あたり135ドルで</td><td>a piece = 1個・1株あたり。per share とも言える。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The company<button type="button" class="speak-btn speak-btn--inline" data-text="The company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>その会社は</td><td>前段の SpaceX を受ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>formally known as Space Exploration Technologies Corp.<button type="button" class="speak-btn speak-btn--inline" data-text="formally known as Space Exploration Technologies Corp." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>挿入句（同格）</td><td>正式にはスペース・エクスプロレーション・テクノロジーズ社として知られる</td><td>formally known as = 正式名称は〜。カンマで挟む。</td></tr><tr><td class='chunk-en'><span class='speak-line'>said Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="said Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>水曜日に言った</td><td>said on Wednesday より簡潔な報道用法。</td></tr><tr><td class='chunk-en'><span class='speak-line'>it will sell 555.6 million shares<button type="button" class="speak-btn speak-btn--inline" data-text="it will sell 555.6 million shares" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語節</td><td>それは5億5560万株を売るだろう</td><td>million shares = 百万株単位。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at $135 a piece<button type="button" class="speak-btn speak-btn--inline" data-text="at $135 a piece" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句（価格）</td><td>1個あたり135ドルで</td><td>a piece = 1個・1株あたり。per share とも言える。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The company</div>
+              <div class="chunk-en speak-line">The company<button type="button" class="speak-btn speak-btn--inline" data-text="The company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · その会社は</div>
               <div>前段の SpaceX を受ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">formally known as Space Exploration Technologies Corp.</div>
+              <div class="chunk-en speak-line">formally known as Space Exploration Technologies Corp.<button type="button" class="speak-btn speak-btn--inline" data-text="formally known as Space Exploration Technologies Corp." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">挿入句（同格） · 正式にはスペース・エクスプロレーション・テクノロジーズ社として知られる</div>
               <div>formally known as = 正式名称は〜。カンマで挟む。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">said Wednesday</div>
+              <div class="chunk-en speak-line">said Wednesday<button type="button" class="speak-btn speak-btn--inline" data-text="said Wednesday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 水曜日に言った</div>
               <div>said on Wednesday より簡潔な報道用法。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">it will sell 555.6 million shares</div>
+              <div class="chunk-en speak-line">it will sell 555.6 million shares<button type="button" class="speak-btn speak-btn--inline" data-text="it will sell 555.6 million shares" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語節 · それは5億5560万株を売るだろう</div>
               <div>million shares = 百万株単位。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at $135 a piece</div>
+              <div class="chunk-en speak-line">at $135 a piece<button type="button" class="speak-btn speak-btn--inline" data-text="at $135 a piece" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句（価格） · 1個あたり135ドルで</div>
               <div>a piece = 1個・1株あたり。per share とも言える。</div>
             </div>
@@ -156,8 +165,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The offering would give SpaceX a market value of $1.77 trillion."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The offering would give SpaceX a market value of $1.77 trillion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The offering would give SpaceX a market value of $1.77 trillion.</p>
       <p class="translation">この公募により、スペースXの時価総額は1兆7700億ドルになる見込みだ。</p>
@@ -170,23 +178,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The offering</td><td class='chunk-role'>主語</td><td>その公募は</td><td>offering = 新株公開・株式売出し。</td></tr><tr><td class='chunk-en'>would give SpaceX</td><td class='chunk-role'>述語＋間接目的語</td><td>スペースXに与えるだろう</td><td>would は推定・条件付きの丁寧な未来。</td></tr><tr><td class='chunk-en'>a market value of $1.77 trillion</td><td class='chunk-role'>直接目的語</td><td>1兆7700億ドルの時価総額を</td><td>market value / market capitalization は同義でよく使われる。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The offering<button type="button" class="speak-btn speak-btn--inline" data-text="The offering" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>その公募は</td><td>offering = 新株公開・株式売出し。</td></tr><tr><td class='chunk-en'><span class='speak-line'>would give SpaceX<button type="button" class="speak-btn speak-btn--inline" data-text="would give SpaceX" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋間接目的語</td><td>スペースXに与えるだろう</td><td>would は推定・条件付きの丁寧な未来。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a market value of $1.77 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="a market value of $1.77 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接目的語</td><td>1兆7700億ドルの時価総額を</td><td>market value / market capitalization は同義でよく使われる。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The offering</div>
+              <div class="chunk-en speak-line">The offering<button type="button" class="speak-btn speak-btn--inline" data-text="The offering" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · その公募は</div>
               <div>offering = 新株公開・株式売出し。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">would give SpaceX</div>
+              <div class="chunk-en speak-line">would give SpaceX<button type="button" class="speak-btn speak-btn--inline" data-text="would give SpaceX" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋間接目的語 · スペースXに与えるだろう</div>
               <div>would は推定・条件付きの丁寧な未来。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a market value of $1.77 trillion</div>
+              <div class="chunk-en speak-line">a market value of $1.77 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="a market value of $1.77 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接目的語 · 1兆7700億ドルの時価総額を</div>
               <div>market value / market capitalization は同義でよく使われる。</div>
             </div>
@@ -199,8 +207,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Only six companies in the S&amp;P 500 are currently worth more, with Nvidia tops at $5.2 trillion."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Only six companies in the S&amp;P 500 are currently worth more, with Nvidia tops at $5.2 trillion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Only six companies in the S&amp;P 500 are currently worth more, with Nvidia tops at $5.2 trillion.</p>
       <p class="translation">S&amp;P500指数に含まれる企業のうち、現在それより時価総額が大きいのはわずか6社だけで、首位はエヌビディアの5兆2000億ドルだ。</p>
@@ -213,23 +220,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Only six companies in the S&amp;P 500</td><td class='chunk-role'>主語</td><td>S&amp;P500の企業のうちわずか6社だけが</td><td>Only を文頭に置くと「たった〜だけ」という限定が強まる。</td></tr><tr><td class='chunk-en'>are currently worth more</td><td class='chunk-role'>述語</td><td>現在より価値がある</td><td>worth more = より価値が高い。比較対象は前の時価総額。</td></tr><tr><td class='chunk-en'>with Nvidia tops at $5.2 trillion</td><td class='chunk-role'>付帯状況</td><td>エヌビディアが5兆2000億ドルでトップで</td><td>正しくは with Nvidia topping at ... または and Nvidia tops ...。読解では意味は取れる。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Only six companies in the S&amp;P 500<button type="button" class="speak-btn speak-btn--inline" data-text="Only six companies in the S&amp;P 500" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>S&amp;P500の企業のうちわずか6社だけが</td><td>Only を文頭に置くと「たった〜だけ」という限定が強まる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>are currently worth more<button type="button" class="speak-btn speak-btn--inline" data-text="are currently worth more" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>現在より価値がある</td><td>worth more = より価値が高い。比較対象は前の時価総額。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with Nvidia tops at $5.2 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="with Nvidia tops at $5.2 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>エヌビディアが5兆2000億ドルでトップで</td><td>正しくは with Nvidia topping at ... または and Nvidia tops ...。読解では意味は取れる。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Only six companies in the S&amp;P 500</div>
+              <div class="chunk-en speak-line">Only six companies in the S&amp;P 500<button type="button" class="speak-btn speak-btn--inline" data-text="Only six companies in the S&amp;P 500" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · S&amp;P500の企業のうちわずか6社だけが</div>
               <div>Only を文頭に置くと「たった〜だけ」という限定が強まる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">are currently worth more</div>
+              <div class="chunk-en speak-line">are currently worth more<button type="button" class="speak-btn speak-btn--inline" data-text="are currently worth more" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 現在より価値がある</div>
               <div>worth more = より価値が高い。比較対象は前の時価総額。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with Nvidia tops at $5.2 trillion</div>
+              <div class="chunk-en speak-line">with Nvidia tops at $5.2 trillion<button type="button" class="speak-btn speak-btn--inline" data-text="with Nvidia tops at $5.2 trillion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · エヌビディアが5兆2000億ドルでトップで</div>
               <div>正しくは with Nvidia topping at ... または and Nvidia tops ...。読解では意味は取れる。</div>
             </div>
@@ -242,8 +249,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Besides the size of the offering and the expected proceeds, SpaceX’s amended prospectus updates details about how much control of the company Musk will have."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Besides the size of the offering and the expected proceeds, SpaceX’s amended prospectus updates details about how much control of the company Musk will have." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Besides the size of the offering and the expected proceeds, SpaceX’s amended prospectus updates details about how much control of the company Musk will have.</p>
       <p class="translation">公募規模や見込まれる調達額に加え、スペースXが改訂した目論見書は、マスクが同社をどれだけ支配できるかについての詳細を更新した。</p>
@@ -256,29 +262,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Besides the size of the offering and the expected proceeds</td><td class='chunk-role'>前置詞句</td><td>公募の規模と見込まれる調達額に加えて</td><td>proceeds = 調達額・収益。expected proceeds は見込み額。</td></tr><tr><td class='chunk-en'>SpaceX’s amended prospectus</td><td class='chunk-role'>主語</td><td>スペースXの改訂目論見書は</td><td>prospectus = 投資家向けの公式説明書（目論見書）。</td></tr><tr><td class='chunk-en'>updates details</td><td class='chunk-role'>述語＋目的語</td><td>詳細を更新する</td><td>update details about ... = 〜についての詳細を更新する。</td></tr><tr><td class='chunk-en'>about how much control of the company Musk will have</td><td class='chunk-role'>前置詞句＋名詞節</td><td>マスクが会社をどれだけ支配するかについて</td><td>how much control = どれだけの支配力。語順は疑問文だが従属節なので平叙文語順。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Besides the size of the offering and the expected proceeds<button type="button" class="speak-btn speak-btn--inline" data-text="Besides the size of the offering and the expected proceeds" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>公募の規模と見込まれる調達額に加えて</td><td>proceeds = 調達額・収益。expected proceeds は見込み額。</td></tr><tr><td class='chunk-en'><span class='speak-line'>SpaceX’s amended prospectus<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX’s amended prospectus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>スペースXの改訂目論見書は</td><td>prospectus = 投資家向けの公式説明書（目論見書）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>updates details<button type="button" class="speak-btn speak-btn--inline" data-text="updates details" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語</td><td>詳細を更新する</td><td>update details about ... = 〜についての詳細を更新する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>about how much control of the company Musk will have<button type="button" class="speak-btn speak-btn--inline" data-text="about how much control of the company Musk will have" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句＋名詞節</td><td>マスクが会社をどれだけ支配するかについて</td><td>how much control = どれだけの支配力。語順は疑問文だが従属節なので平叙文語順。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Besides the size of the offering and the expected proceeds</div>
+              <div class="chunk-en speak-line">Besides the size of the offering and the expected proceeds<button type="button" class="speak-btn speak-btn--inline" data-text="Besides the size of the offering and the expected proceeds" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 公募の規模と見込まれる調達額に加えて</div>
               <div>proceeds = 調達額・収益。expected proceeds は見込み額。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">SpaceX’s amended prospectus</div>
+              <div class="chunk-en speak-line">SpaceX’s amended prospectus<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX’s amended prospectus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · スペースXの改訂目論見書は</div>
               <div>prospectus = 投資家向けの公式説明書（目論見書）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">updates details</div>
+              <div class="chunk-en speak-line">updates details<button type="button" class="speak-btn speak-btn--inline" data-text="updates details" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語 · 詳細を更新する</div>
               <div>update details about ... = 〜についての詳細を更新する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">about how much control of the company Musk will have</div>
+              <div class="chunk-en speak-line">about how much control of the company Musk will have<button type="button" class="speak-btn speak-btn--inline" data-text="about how much control of the company Musk will have" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句＋名詞節 · マスクが会社をどれだけ支配するかについて</div>
               <div>how much control = どれだけの支配力。語順は疑問文だが従属節なので平叙文語順。</div>
             </div>
@@ -291,8 +297,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="As SpaceX’s CEO, chief technical officer and chairman, Musk’s voting power will come primarily through his ownership of 5.22 billion Class B shares, which give the holder 10 votes for every share held."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="As SpaceX’s CEO, chief technical officer and chairman, Musk’s voting power will come primarily through his ownership of 5.22 billion Class B shares, which give the holder 10 votes for every share held." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">As SpaceX’s CEO, chief technical officer and chairman, Musk’s voting power will come primarily through his ownership of 5.22 billion Class B shares, which give the holder 10 votes for every share held.</p>
       <p class="translation">スペースXのCEO兼最高技術責任者兼会長として、マスクの議決権は主に52億2000万株のクラスB株の保有を通じて得られる。これらの株は保有者に1株あたり10票の議決権を与える。</p>
@@ -305,29 +310,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>As SpaceX’s CEO, chief technical officer and chairman</td><td class='chunk-role'>前置詞句（身分）</td><td>スペースXのCEO、CTO、会長として</td><td>複数の役職をカンマで並列。</td></tr><tr><td class='chunk-en'>Musk’s voting power</td><td class='chunk-role'>主語</td><td>マスクの議決権は</td><td>voting power = 株主総会での投票力。</td></tr><tr><td class='chunk-en'>will come primarily through his ownership of 5.22 billion Class B shares</td><td class='chunk-role'>述語＋手段</td><td>主に52億2000万株のクラスB株の保有を通じて来るだろう</td><td>come through = 〜経由で生じる。Class A/B は議決権の違う株式クラス。</td></tr><tr><td class='chunk-en'>which give the holder 10 votes for every share held</td><td class='chunk-role'>関係代名詞節</td><td>それは保有者に保有株ごとに10票を与える</td><td>give + 人 + 物 の SVOO。for every ... held = 保有されている各株に対して。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>As SpaceX’s CEO, chief technical officer and chairman<button type="button" class="speak-btn speak-btn--inline" data-text="As SpaceX’s CEO, chief technical officer and chairman" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句（身分）</td><td>スペースXのCEO、CTO、会長として</td><td>複数の役職をカンマで並列。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Musk’s voting power<button type="button" class="speak-btn speak-btn--inline" data-text="Musk’s voting power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>マスクの議決権は</td><td>voting power = 株主総会での投票力。</td></tr><tr><td class='chunk-en'><span class='speak-line'>will come primarily through his ownership of 5.22 billion Class B shares<button type="button" class="speak-btn speak-btn--inline" data-text="will come primarily through his ownership of 5.22 billion Class B shares" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋手段</td><td>主に52億2000万株のクラスB株の保有を通じて来るだろう</td><td>come through = 〜経由で生じる。Class A/B は議決権の違う株式クラス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>which give the holder 10 votes for every share held<button type="button" class="speak-btn speak-btn--inline" data-text="which give the holder 10 votes for every share held" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節</td><td>それは保有者に保有株ごとに10票を与える</td><td>give + 人 + 物 の SVOO。for every ... held = 保有されている各株に対して。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">As SpaceX’s CEO, chief technical officer and chairman</div>
+              <div class="chunk-en speak-line">As SpaceX’s CEO, chief technical officer and chairman<button type="button" class="speak-btn speak-btn--inline" data-text="As SpaceX’s CEO, chief technical officer and chairman" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句（身分） · スペースXのCEO、CTO、会長として</div>
               <div>複数の役職をカンマで並列。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Musk’s voting power</div>
+              <div class="chunk-en speak-line">Musk’s voting power<button type="button" class="speak-btn speak-btn--inline" data-text="Musk’s voting power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · マスクの議決権は</div>
               <div>voting power = 株主総会での投票力。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">will come primarily through his ownership of 5.22 billion Class B shares</div>
+              <div class="chunk-en speak-line">will come primarily through his ownership of 5.22 billion Class B shares<button type="button" class="speak-btn speak-btn--inline" data-text="will come primarily through his ownership of 5.22 billion Class B shares" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋手段 · 主に52億2000万株のクラスB株の保有を通じて来るだろう</div>
               <div>come through = 〜経由で生じる。Class A/B は議決権の違う株式クラス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">which give the holder 10 votes for every share held</div>
+              <div class="chunk-en speak-line">which give the holder 10 votes for every share held<button type="button" class="speak-btn speak-btn--inline" data-text="which give the holder 10 votes for every share held" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節 · それは保有者に保有株ごとに10票を与える</div>
               <div>give + 人 + 物 の SVOO。for every ... held = 保有されている各株に対して。</div>
             </div>
@@ -340,8 +345,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="According to the filing, Musk would have 82.4% of the voting power in the company."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="According to the filing, Musk would have 82.4% of the voting power in the company." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">According to the filing, Musk would have 82.4% of the voting power in the company.</p>
       <p class="translation">提出書類によると、マスクは同社の議決権の82.4%を握ることになる。</p>
@@ -354,23 +358,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>According to the filing</td><td class='chunk-role'>副詞句</td><td>提出書類によれば</td><td>filing = SECなどへの公式提出書類。</td></tr><tr><td class='chunk-en'>Musk would have 82.4% of the voting power</td><td class='chunk-role'>主語＋述語</td><td>マスクは議決権の82.4%を持つだろう</td><td>would have は事実の断定より推定・予定に近い。</td></tr><tr><td class='chunk-en'>in the company</td><td class='chunk-role'>前置詞句</td><td>会社において</td><td>of the voting power in the company で範囲を限定。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>According to the filing<button type="button" class="speak-btn speak-btn--inline" data-text="According to the filing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句</td><td>提出書類によれば</td><td>filing = SECなどへの公式提出書類。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Musk would have 82.4% of the voting power<button type="button" class="speak-btn speak-btn--inline" data-text="Musk would have 82.4% of the voting power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>マスクは議決権の82.4%を持つだろう</td><td>would have は事実の断定より推定・予定に近い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the company<button type="button" class="speak-btn speak-btn--inline" data-text="in the company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句</td><td>会社において</td><td>of the voting power in the company で範囲を限定。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">According to the filing</div>
+              <div class="chunk-en speak-line">According to the filing<button type="button" class="speak-btn speak-btn--inline" data-text="According to the filing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句 · 提出書類によれば</div>
               <div>filing = SECなどへの公式提出書類。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Musk would have 82.4% of the voting power</div>
+              <div class="chunk-en speak-line">Musk would have 82.4% of the voting power<button type="button" class="speak-btn speak-btn--inline" data-text="Musk would have 82.4% of the voting power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · マスクは議決権の82.4%を持つだろう</div>
               <div>would have は事実の断定より推定・予定に近い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the company</div>
+              <div class="chunk-en speak-line">in the company<button type="button" class="speak-btn speak-btn--inline" data-text="in the company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句 · 会社において</div>
               <div>of the voting power in the company で範囲を限定。</div>
             </div>
@@ -383,8 +387,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Forbes currently values Musk&#x27;s net worth at $826 billion and his stake in SpaceX at $542 billion."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Forbes currently values Musk&#x27;s net worth at $826 billion and his stake in SpaceX at $542 billion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Forbes currently values Musk&#x27;s net worth at $826 billion and his stake in SpaceX at $542 billion.</p>
       <p class="translation">フォーブス誌は現在、マスクの純資産を8260億ドル、スペースX持分を5420億ドルと評価している。</p>
@@ -397,17 +400,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Forbes currently values Musk&#x27;s net worth at $826 billion</td><td class='chunk-role'>主語＋述語＋補語</td><td>フォーブスは現在マスクの純資産を8260億ドルと評価する</td><td>value ... at ... は資産評価の定型表現。</td></tr><tr><td class='chunk-en'>and his stake in SpaceX at $542 billion</td><td class='chunk-role'>並列の述語部分</td><td>そしてスペースXにおける彼の持分を5420億ドルと</td><td>stake in SpaceX = スペースX株の保有価値。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Forbes currently values Musk&#x27;s net worth at $826 billion<button type="button" class="speak-btn speak-btn--inline" data-text="Forbes currently values Musk&#x27;s net worth at $826 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語＋補語</td><td>フォーブスは現在マスクの純資産を8260億ドルと評価する</td><td>value ... at ... は資産評価の定型表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and his stake in SpaceX at $542 billion<button type="button" class="speak-btn speak-btn--inline" data-text="and his stake in SpaceX at $542 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列の述語部分</td><td>そしてスペースXにおける彼の持分を5420億ドルと</td><td>stake in SpaceX = スペースX株の保有価値。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Forbes currently values Musk&#x27;s net worth at $826 billion</div>
+              <div class="chunk-en speak-line">Forbes currently values Musk&#x27;s net worth at $826 billion<button type="button" class="speak-btn speak-btn--inline" data-text="Forbes currently values Musk&#x27;s net worth at $826 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語＋補語 · フォーブスは現在マスクの純資産を8260億ドルと評価する</div>
               <div>value ... at ... は資産評価の定型表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and his stake in SpaceX at $542 billion</div>
+              <div class="chunk-en speak-line">and his stake in SpaceX at $542 billion<button type="button" class="speak-btn speak-btn--inline" data-text="and his stake in SpaceX at $542 billion" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列の述語部分 · そしてスペースXにおける彼の持分を5420億ドルと</div>
               <div>stake in SpaceX = スペースX株の保有価値。</div>
             </div>
@@ -420,8 +423,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The estimated proceeds from the SpaceX IPO would easily top the $26 billion raised by oil giant Saudi Aramco in 2019."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The estimated proceeds from the SpaceX IPO would easily top the $26 billion raised by oil giant Saudi Aramco in 2019." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The estimated proceeds from the SpaceX IPO would easily top the $26 billion raised by oil giant Saudi Aramco in 2019.</p>
       <p class="translation">スペースXのIPOによる見込み調達額は、2019年に石油大手サウジアラムコが調達した260億ドルを楽に上回るだろう。</p>
@@ -434,23 +436,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The estimated proceeds from the SpaceX IPO</td><td class='chunk-role'>主語</td><td>スペースXのIPOからの見込み調達額は</td><td>proceeds from ... = 〜から得られる資金。</td></tr><tr><td class='chunk-en'>would easily top</td><td class='chunk-role'>述語</td><td>楽に上回るだろう</td><td>top を動詞で「〜を上回る」。easily は程度の副詞。</td></tr><tr><td class='chunk-en'>the $26 billion raised by oil giant Saudi Aramco in 2019</td><td class='chunk-role'>目的語</td><td>2019年に石油大手サウジアラムコによって調達された260億ドルを</td><td>raised by ... = 〜によって調達された。比較対象として過去の記録IPOを引用。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The estimated proceeds from the SpaceX IPO<button type="button" class="speak-btn speak-btn--inline" data-text="The estimated proceeds from the SpaceX IPO" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>スペースXのIPOからの見込み調達額は</td><td>proceeds from ... = 〜から得られる資金。</td></tr><tr><td class='chunk-en'><span class='speak-line'>would easily top<button type="button" class="speak-btn speak-btn--inline" data-text="would easily top" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>楽に上回るだろう</td><td>top を動詞で「〜を上回る」。easily は程度の副詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the $26 billion raised by oil giant Saudi Aramco in 2019<button type="button" class="speak-btn speak-btn--inline" data-text="the $26 billion raised by oil giant Saudi Aramco in 2019" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語</td><td>2019年に石油大手サウジアラムコによって調達された260億ドルを</td><td>raised by ... = 〜によって調達された。比較対象として過去の記録IPOを引用。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The estimated proceeds from the SpaceX IPO</div>
+              <div class="chunk-en speak-line">The estimated proceeds from the SpaceX IPO<button type="button" class="speak-btn speak-btn--inline" data-text="The estimated proceeds from the SpaceX IPO" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · スペースXのIPOからの見込み調達額は</div>
               <div>proceeds from ... = 〜から得られる資金。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">would easily top</div>
+              <div class="chunk-en speak-line">would easily top<button type="button" class="speak-btn speak-btn--inline" data-text="would easily top" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 楽に上回るだろう</div>
               <div>top を動詞で「〜を上回る」。easily は程度の副詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the $26 billion raised by oil giant Saudi Aramco in 2019</div>
+              <div class="chunk-en speak-line">the $26 billion raised by oil giant Saudi Aramco in 2019<button type="button" class="speak-btn speak-btn--inline" data-text="the $26 billion raised by oil giant Saudi Aramco in 2019" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語 · 2019年に石油大手サウジアラムコによって調達された260億ドルを</div>
               <div>raised by ... = 〜によって調達された。比較対象として過去の記録IPOを引用。</div>
             </div>
@@ -463,8 +465,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Time will tell how SpaceX fares on the market."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Time will tell how SpaceX fares on the market." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Time will tell how SpaceX fares on the market.</p>
       <p class="translation">スペースXが市場でどう成績を残すかは、時間が経てばわかるだろう。</p>
@@ -477,17 +478,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Time will tell</td><td class='chunk-role'>主部</td><td>時間が物語るだろう</td><td>定番の慣用表現。結果はまだ不明という含み。</td></tr><tr><td class='chunk-en'>how SpaceX fares on the market</td><td class='chunk-role'>名詞節（内容）</td><td>スペースXが市場でどう成績を出すか</td><td>fare は「運賃」以外に「うまくやる」意。on the market = 株式市場で。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Time will tell<button type="button" class="speak-btn speak-btn--inline" data-text="Time will tell" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>時間が物語るだろう</td><td>定番の慣用表現。結果はまだ不明という含み。</td></tr><tr><td class='chunk-en'><span class='speak-line'>how SpaceX fares on the market<button type="button" class="speak-btn speak-btn--inline" data-text="how SpaceX fares on the market" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>名詞節（内容）</td><td>スペースXが市場でどう成績を出すか</td><td>fare は「運賃」以外に「うまくやる」意。on the market = 株式市場で。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Time will tell</div>
+              <div class="chunk-en speak-line">Time will tell<button type="button" class="speak-btn speak-btn--inline" data-text="Time will tell" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · 時間が物語るだろう</div>
               <div>定番の慣用表現。結果はまだ不明という含み。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">how SpaceX fares on the market</div>
+              <div class="chunk-en speak-line">how SpaceX fares on the market<button type="button" class="speak-btn speak-btn--inline" data-text="how SpaceX fares on the market" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">名詞節（内容） · スペースXが市場でどう成績を出すか</div>
               <div>fare は「運賃」以外に「うまくやる」意。on the market = 株式市場で。</div>
             </div>
@@ -500,8 +501,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Musk’s plans for the company are as fantastical as the money he hopes raise in the sale."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Musk’s plans for the company are as fantastical as the money he hopes raise in the sale." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Musk’s plans for the company are as fantastical as the money he hopes raise in the sale.</p>
       <p class="translation">同社に対するマスクの計画は、今回の売出しで調達しようとしている金額と同じくらい空想の域を出ている。</p>
@@ -514,23 +514,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Musk’s plans for the company</td><td class='chunk-role'>主語</td><td>会社に対するマスクの計画は</td><td>plans for the company = 会社の将来計画。</td></tr><tr><td class='chunk-en'>are as fantastical as</td><td class='chunk-role'>述語（比較）</td><td>〜と同じくらい空想の域を出ている</td><td>as A as B で「Bと同程度にA」。</td></tr><tr><td class='chunk-en'>the money he hopes raise in the sale</td><td class='chunk-role'>比較対象</td><td>彼が売出しで調達することを望む金額</td><td>正しくは hopes to raise。in the sale = 株式売出しにおいて。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Musk’s plans for the company<button type="button" class="speak-btn speak-btn--inline" data-text="Musk’s plans for the company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>会社に対するマスクの計画は</td><td>plans for the company = 会社の将来計画。</td></tr><tr><td class='chunk-en'><span class='speak-line'>are as fantastical as<button type="button" class="speak-btn speak-btn--inline" data-text="are as fantastical as" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（比較）</td><td>〜と同じくらい空想の域を出ている</td><td>as A as B で「Bと同程度にA」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the money he hopes raise in the sale<button type="button" class="speak-btn speak-btn--inline" data-text="the money he hopes raise in the sale" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>比較対象</td><td>彼が売出しで調達することを望む金額</td><td>正しくは hopes to raise。in the sale = 株式売出しにおいて。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Musk’s plans for the company</div>
+              <div class="chunk-en speak-line">Musk’s plans for the company<button type="button" class="speak-btn speak-btn--inline" data-text="Musk’s plans for the company" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 会社に対するマスクの計画は</div>
               <div>plans for the company = 会社の将来計画。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">are as fantastical as</div>
+              <div class="chunk-en speak-line">are as fantastical as<button type="button" class="speak-btn speak-btn--inline" data-text="are as fantastical as" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（比較） · 〜と同じくらい空想の域を出ている</div>
               <div>as A as B で「Bと同程度にA」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the money he hopes raise in the sale</div>
+              <div class="chunk-en speak-line">the money he hopes raise in the sale<button type="button" class="speak-btn speak-btn--inline" data-text="the money he hopes raise in the sale" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">比較対象 · 彼が売出しで調達することを望む金額</div>
               <div>正しくは hopes to raise。in the sale = 株式売出しにおいて。</div>
             </div>
@@ -543,8 +543,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Colorful, even frightening in parts, the IPO document strikes a contrast with the typically dry, technical prose in IPO documents, detailing plans to use proceeds from the sale to help put men on the moon again and perhaps even Mars."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Colorful, even frightening in parts, the IPO document strikes a contrast with the typically dry, technical prose in IPO documents, detailing plans to use proceeds from the sale to help put men on the moon again and perhaps even Mars." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Colorful, even frightening in parts, the IPO document strikes a contrast with the typically dry, technical prose in IPO documents, detailing plans to use proceeds from the sale to help put men on the moon again and perhaps even Mars.</p>
       <p class="translation">部分的には華美で、ときに恐ろしいほどの内容のこのIPO文書は、目論見書にありがちな乾いた専門的な文体との対比を際立たせ、売出しで得た資金を使って再び人類を月に送り、おそらく火星にも送り込む計画を詳述している。</p>
@@ -557,29 +556,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Colorful, even frightening in parts</td><td class='chunk-role'>形容詞句（付帯）</td><td>華美で、部分的には恐ろしいほど</td><td>in parts = 部分的には。評価を先に置く修辞。</td></tr><tr><td class='chunk-en'>the IPO document strikes a contrast with the typically dry, technical prose in IPO documents</td><td class='chunk-role'>主部</td><td>IPO文書はIPO文書に典型的な乾いた専門文体との対比を際立たせる</td><td>strike a contrast with = 〜と対照的だ。dry prose = 味気ない文章。</td></tr><tr><td class='chunk-en'>detailing plans to use proceeds from the sale</td><td class='chunk-role'>分詞構文</td><td>売出しの資金を使う計画を詳述しながら</td><td>detail = 詳しく述べる。proceeds from the sale = 売出し収益。</td></tr><tr><td class='chunk-en'>to help put men on the moon again and perhaps even Mars</td><td class='chunk-role'>不定詞（目的）</td><td>再び人類を月に、おそらく火星にも乗せるのを助けるために</td><td>put men on the moon はアポロ時代の定番表現。perhaps even Mars は moon を省略した並列。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Colorful, even frightening in parts<button type="button" class="speak-btn speak-btn--inline" data-text="Colorful, even frightening in parts" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>形容詞句（付帯）</td><td>華美で、部分的には恐ろしいほど</td><td>in parts = 部分的には。評価を先に置く修辞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the IPO document strikes a contrast with the typically dry, technical prose in IPO documents<button type="button" class="speak-btn speak-btn--inline" data-text="the IPO document strikes a contrast with the typically dry, technical prose in IPO documents" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>IPO文書はIPO文書に典型的な乾いた専門文体との対比を際立たせる</td><td>strike a contrast with = 〜と対照的だ。dry prose = 味気ない文章。</td></tr><tr><td class='chunk-en'><span class='speak-line'>detailing plans to use proceeds from the sale<button type="button" class="speak-btn speak-btn--inline" data-text="detailing plans to use proceeds from the sale" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>売出しの資金を使う計画を詳述しながら</td><td>detail = 詳しく述べる。proceeds from the sale = 売出し収益。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to help put men on the moon again and perhaps even Mars<button type="button" class="speak-btn speak-btn--inline" data-text="to help put men on the moon again and perhaps even Mars" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>不定詞（目的）</td><td>再び人類を月に、おそらく火星にも乗せるのを助けるために</td><td>put men on the moon はアポロ時代の定番表現。perhaps even Mars は moon を省略した並列。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Colorful, even frightening in parts</div>
+              <div class="chunk-en speak-line">Colorful, even frightening in parts<button type="button" class="speak-btn speak-btn--inline" data-text="Colorful, even frightening in parts" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">形容詞句（付帯） · 華美で、部分的には恐ろしいほど</div>
               <div>in parts = 部分的には。評価を先に置く修辞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the IPO document strikes a contrast with the typically dry, technical prose in IPO documents</div>
+              <div class="chunk-en speak-line">the IPO document strikes a contrast with the typically dry, technical prose in IPO documents<button type="button" class="speak-btn speak-btn--inline" data-text="the IPO document strikes a contrast with the typically dry, technical prose in IPO documents" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · IPO文書はIPO文書に典型的な乾いた専門文体との対比を際立たせる</div>
               <div>strike a contrast with = 〜と対照的だ。dry prose = 味気ない文章。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">detailing plans to use proceeds from the sale</div>
+              <div class="chunk-en speak-line">detailing plans to use proceeds from the sale<button type="button" class="speak-btn speak-btn--inline" data-text="detailing plans to use proceeds from the sale" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 売出しの資金を使う計画を詳述しながら</div>
               <div>detail = 詳しく述べる。proceeds from the sale = 売出し収益。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to help put men on the moon again and perhaps even Mars</div>
+              <div class="chunk-en speak-line">to help put men on the moon again and perhaps even Mars<button type="button" class="speak-btn speak-btn--inline" data-text="to help put men on the moon again and perhaps even Mars" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">不定詞（目的） · 再び人類を月に、おそらく火星にも乗せるのを助けるために</div>
               <div>put men on the moon はアポロ時代の定番表現。perhaps even Mars は moon を省略した並列。</div>
             </div>
@@ -592,8 +591,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="In one section, it talks of a need to build “a permanent human colony” on the red planet with “at least one million inhabitants” as existential threats loom that could consign man to “the same fate as the dinosaurs.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="In one section, it talks of a need to build “a permanent human colony” on the red planet with “at least one million inhabitants” as existential threats loom that could consign man to “the same fate as the dinosaurs.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">In one section, it talks of a need to build “a permanent human colony” on the red planet with “at least one million inhabitants” as existential threats loom that could consign man to “the same fate as the dinosaurs.”</p>
       <p class="translation">ある章では、火星に「少なくとも100万人の住民がいる恒久的な人類植民地」を建設する必要性に触れている。それは、人類を「恐竜と同じ運命」に追い込みかねない実存的脅威が迫っているとしてである。</p>
@@ -606,29 +604,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>In one section, it talks of a need to build “a permanent human colony”</td><td class='chunk-role'>主部</td><td>ある章で、それは恒久的な人類植民地を建設する必要性について語る</td><td>talk of / talk about = 〜について述べる。a need to build = 建設の必要。</td></tr><tr><td class='chunk-en'>on the red planet with “at least one million inhabitants”</td><td class='chunk-role'>場所＋付帯</td><td>赤い惑星に、少なくとも100万人の住民を伴って</td><td>the red planet = 火星の詩的呼び方。at least = 少なくとも。</td></tr><tr><td class='chunk-en'>as existential threats loom</td><td class='chunk-role'>時・理由を表す as 節</td><td>実存的脅威が迫る中で</td><td>loom = （不吉に）迫る。existential threats = 人類存続の危機。</td></tr><tr><td class='chunk-en'>that could consign man to “the same fate as the dinosaurs.”</td><td class='chunk-role'>関係代名詞節</td><td>それは人類を恐竜と同じ運命に追いやすしかねない</td><td>consign ... to ... = 〜を〜の状態にする。the same fate as = 〜と同じ運命。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>In one section, it talks of a need to build “a permanent human colony”<button type="button" class="speak-btn speak-btn--inline" data-text="In one section, it talks of a need to build “a permanent human colony”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>ある章で、それは恒久的な人類植民地を建設する必要性について語る</td><td>talk of / talk about = 〜について述べる。a need to build = 建設の必要。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on the red planet with “at least one million inhabitants”<button type="button" class="speak-btn speak-btn--inline" data-text="on the red planet with “at least one million inhabitants”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所＋付帯</td><td>赤い惑星に、少なくとも100万人の住民を伴って</td><td>the red planet = 火星の詩的呼び方。at least = 少なくとも。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as existential threats loom<button type="button" class="speak-btn speak-btn--inline" data-text="as existential threats loom" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・理由を表す as 節</td><td>実存的脅威が迫る中で</td><td>loom = （不吉に）迫る。existential threats = 人類存続の危機。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that could consign man to “the same fate as the dinosaurs.”<button type="button" class="speak-btn speak-btn--inline" data-text="that could consign man to “the same fate as the dinosaurs.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節</td><td>それは人類を恐竜と同じ運命に追いやすしかねない</td><td>consign ... to ... = 〜を〜の状態にする。the same fate as = 〜と同じ運命。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">In one section, it talks of a need to build “a permanent human colony”</div>
+              <div class="chunk-en speak-line">In one section, it talks of a need to build “a permanent human colony”<button type="button" class="speak-btn speak-btn--inline" data-text="In one section, it talks of a need to build “a permanent human colony”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · ある章で、それは恒久的な人類植民地を建設する必要性について語る</div>
               <div>talk of / talk about = 〜について述べる。a need to build = 建設の必要。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on the red planet with “at least one million inhabitants”</div>
+              <div class="chunk-en speak-line">on the red planet with “at least one million inhabitants”<button type="button" class="speak-btn speak-btn--inline" data-text="on the red planet with “at least one million inhabitants”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所＋付帯 · 赤い惑星に、少なくとも100万人の住民を伴って</div>
               <div>the red planet = 火星の詩的呼び方。at least = 少なくとも。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as existential threats loom</div>
+              <div class="chunk-en speak-line">as existential threats loom<button type="button" class="speak-btn speak-btn--inline" data-text="as existential threats loom" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・理由を表す as 節 · 実存的脅威が迫る中で</div>
               <div>loom = （不吉に）迫る。existential threats = 人類存続の危機。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that could consign man to “the same fate as the dinosaurs.”</div>
+              <div class="chunk-en speak-line">that could consign man to “the same fate as the dinosaurs.”<button type="button" class="speak-btn speak-btn--inline" data-text="that could consign man to “the same fate as the dinosaurs.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節 · それは人類を恐竜と同じ運命に追いやすしかねない</div>
               <div>consign ... to ... = 〜を〜の状態にする。the same fate as = 〜と同じ運命。</div>
             </div>
@@ -641,8 +639,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="And SpaceX isn’t the only colossal market debut investors are now bracing for."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="And SpaceX isn’t the only colossal market debut investors are now bracing for." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">And SpaceX isn’t the only colossal market debut investors are now bracing for.</p>
       <p class="translation">そして、投資家が今まさに身構えている巨大な市場デビューは、スペースXだけではない。</p>
@@ -655,17 +652,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>SpaceX isn’t the only colossal market debut</td><td class='chunk-role'>主部</td><td>スペースXは唯一の巨大な市場デビューではない</td><td>not the only ... = 唯一の〜ではない（他にもある）。</td></tr><tr><td class='chunk-en'>investors are now bracing for</td><td class='chunk-role'>関係詞節</td><td>投資家が今備えている</td><td>brace for / brace oneself for = 〜に備える。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>SpaceX isn’t the only colossal market debut<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX isn’t the only colossal market debut" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>スペースXは唯一の巨大な市場デビューではない</td><td>not the only ... = 唯一の〜ではない（他にもある）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>investors are now bracing for<button type="button" class="speak-btn speak-btn--inline" data-text="investors are now bracing for" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係詞節</td><td>投資家が今備えている</td><td>brace for / brace oneself for = 〜に備える。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">SpaceX isn’t the only colossal market debut</div>
+              <div class="chunk-en speak-line">SpaceX isn’t the only colossal market debut<button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX isn’t the only colossal market debut" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · スペースXは唯一の巨大な市場デビューではない</div>
               <div>not the only ... = 唯一の〜ではない（他にもある）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">investors are now bracing for</div>
+              <div class="chunk-en speak-line">investors are now bracing for<button type="button" class="speak-btn speak-btn--inline" data-text="investors are now bracing for" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係詞節 · 投資家が今備えている</div>
               <div>brace for / brace oneself for = 〜に備える。</div>
             </div>
@@ -678,8 +675,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Earlier this week, Anthropic submitted a confidential filing with the U.S."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Earlier this week, Anthropic submitted a confidential filing with the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Earlier this week, Anthropic submitted a confidential filing with the U.S.</p>
       <p class="translation">今週初め、Anthropicは米国の当局に秘密の提出書類を提出した。</p>
@@ -692,23 +688,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Earlier this week</td><td class='chunk-role'>時の副詞句</td><td>今週初めに</td><td>earlier this week = 今週の早い時点で。</td></tr><tr><td class='chunk-en'>Anthropic submitted a confidential filing</td><td class='chunk-role'>主部</td><td>Anthropicは秘密の提出を行った</td><td>confidential filing = 内容非公開のIPO準備届出。</td></tr><tr><td class='chunk-en'>with the U.S.</td><td class='chunk-role'>前置詞句（未完）</td><td>米国の〜に</td><td>次の文と合わせて with the U.S. Securities and Exchange Commission となる。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Earlier this week<button type="button" class="speak-btn speak-btn--inline" data-text="Earlier this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の副詞句</td><td>今週初めに</td><td>earlier this week = 今週の早い時点で。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Anthropic submitted a confidential filing<button type="button" class="speak-btn speak-btn--inline" data-text="Anthropic submitted a confidential filing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主部</td><td>Anthropicは秘密の提出を行った</td><td>confidential filing = 内容非公開のIPO準備届出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with the U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="with the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞句（未完）</td><td>米国の〜に</td><td>次の文と合わせて with the U.S. Securities and Exchange Commission となる。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Earlier this week</div>
+              <div class="chunk-en speak-line">Earlier this week<button type="button" class="speak-btn speak-btn--inline" data-text="Earlier this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の副詞句 · 今週初めに</div>
               <div>earlier this week = 今週の早い時点で。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Anthropic submitted a confidential filing</div>
+              <div class="chunk-en speak-line">Anthropic submitted a confidential filing<button type="button" class="speak-btn speak-btn--inline" data-text="Anthropic submitted a confidential filing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主部 · Anthropicは秘密の提出を行った</div>
               <div>confidential filing = 内容非公開のIPO準備届出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with the U.S.</div>
+              <div class="chunk-en speak-line">with the U.S.<button type="button" class="speak-btn speak-btn--inline" data-text="with the U.S." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞句（未完） · 米国の〜に</div>
               <div>次の文と合わせて with the U.S. Securities and Exchange Commission となる。</div>
             </div>
@@ -721,8 +717,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Securities and Exchange Commission to officially start its own IPO clock."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Securities and Exchange Commission to officially start its own IPO clock." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Securities and Exchange Commission to officially start its own IPO clock.</p>
       <p class="translation">証券取引委員会に対し、正式に自社のIPO手続きのカウントダウンを始めた。</p>
@@ -735,17 +730,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Securities and Exchange Commission</td><td class='chunk-role'>前置詞の目的語（前句から）</td><td>証券取引委員会に</td><td>略称 SEC。米国の金融規制当局。</td></tr><tr><td class='chunk-en'>to officially start its own IPO clock</td><td class='chunk-role'>目的の不定詞</td><td>正式に自社のIPOの時計を始めるために</td><td>start the IPO clock = 上場プロセスを始動させる比喩表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Securities and Exchange Commission<button type="button" class="speak-btn speak-btn--inline" data-text="Securities and Exchange Commission" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>前置詞の目的語（前句から）</td><td>証券取引委員会に</td><td>略称 SEC。米国の金融規制当局。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to officially start its own IPO clock<button type="button" class="speak-btn speak-btn--inline" data-text="to officially start its own IPO clock" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的の不定詞</td><td>正式に自社のIPOの時計を始めるために</td><td>start the IPO clock = 上場プロセスを始動させる比喩表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Securities and Exchange Commission</div>
+              <div class="chunk-en speak-line">Securities and Exchange Commission<button type="button" class="speak-btn speak-btn--inline" data-text="Securities and Exchange Commission" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">前置詞の目的語（前句から） · 証券取引委員会に</div>
               <div>略称 SEC。米国の金融規制当局。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to officially start its own IPO clock</div>
+              <div class="chunk-en speak-line">to officially start its own IPO clock<button type="button" class="speak-btn speak-btn--inline" data-text="to officially start its own IPO clock" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的の不定詞 · 正式に自社のIPOの時計を始めるために</div>
               <div>start the IPO clock = 上場プロセスを始動させる比喩表現。</div>
             </div>
@@ -758,8 +753,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="OpenAI has not yet reported filing the initial SEC paperwork, but an IPO from the ChatGPT maker is widely expected."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="OpenAI has not yet reported filing the initial SEC paperwork, but an IPO from the ChatGPT maker is widely expected." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">OpenAI has not yet reported filing the initial SEC paperwork, but an IPO from the ChatGPT maker is widely expected.</p>
       <p class="translation">OpenAIはまだSECへの最初の書類提出を報告していないが、ChatGPTの開発元によるIPOは広く期待されている。</p>
@@ -772,23 +766,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>OpenAI has not yet reported filing the initial SEC paperwork</td><td class='chunk-role'>主節</td><td>OpenAIはまだ最初のSEC書類の提出を報告していない</td><td>report filing = 提出したと公表する。paperwork = 事務手続き書類。</td></tr><tr><td class='chunk-en'>but an IPO from the ChatGPT maker</td><td class='chunk-role'>逆接の主語</td><td>しかしChatGPTメーカーによるIPOは</td><td>the ChatGPT maker = 同社の別称。from は「〜による」。</td></tr><tr><td class='chunk-en'>is widely expected</td><td class='chunk-role'>述語（受動）</td><td>広く期待されている</td><td>It is widely expected that ... の省略形に近い用法。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>OpenAI has not yet reported filing the initial SEC paperwork<button type="button" class="speak-btn speak-btn--inline" data-text="OpenAI has not yet reported filing the initial SEC paperwork" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>OpenAIはまだ最初のSEC書類の提出を報告していない</td><td>report filing = 提出したと公表する。paperwork = 事務手続き書類。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but an IPO from the ChatGPT maker<button type="button" class="speak-btn speak-btn--inline" data-text="but an IPO from the ChatGPT maker" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>逆接の主語</td><td>しかしChatGPTメーカーによるIPOは</td><td>the ChatGPT maker = 同社の別称。from は「〜による」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>is widely expected<button type="button" class="speak-btn speak-btn--inline" data-text="is widely expected" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（受動）</td><td>広く期待されている</td><td>It is widely expected that ... の省略形に近い用法。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">OpenAI has not yet reported filing the initial SEC paperwork</div>
+              <div class="chunk-en speak-line">OpenAI has not yet reported filing the initial SEC paperwork<button type="button" class="speak-btn speak-btn--inline" data-text="OpenAI has not yet reported filing the initial SEC paperwork" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · OpenAIはまだ最初のSEC書類の提出を報告していない</div>
               <div>report filing = 提出したと公表する。paperwork = 事務手続き書類。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but an IPO from the ChatGPT maker</div>
+              <div class="chunk-en speak-line">but an IPO from the ChatGPT maker<button type="button" class="speak-btn speak-btn--inline" data-text="but an IPO from the ChatGPT maker" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">逆接の主語 · しかしChatGPTメーカーによるIPOは</div>
               <div>the ChatGPT maker = 同社の別称。from は「〜による」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">is widely expected</div>
+              <div class="chunk-en speak-line">is widely expected<button type="button" class="speak-btn speak-btn--inline" data-text="is widely expected" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（受動） · 広く期待されている</div>
               <div>It is widely expected that ... の省略形に近い用法。</div>
             </div>
@@ -801,134 +795,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>go public</h3>
-                <button type="button" class="speak-btn" data-text="go public"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="go public" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɡoʊ ˈpʌblɪk/</div>
               <p>株式公開する（IPOする）</p>
-              <p class="example-en"><em>SpaceX plans to go public this month.</em></p>
+              <p class="example-en speak-line"><em>SpaceX plans to go public this month.</em><button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX plans to go public this month." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">スペースXは今月株式公開する予定だ。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>prospectus</h3>
-                <button type="button" class="speak-btn" data-text="prospectus"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="prospectus" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/prəˈspɛktəs/</div>
               <p>目論見書（投資家向けの公式説明書）</p>
-              <p class="example-en"><em>SpaceX&#x27;s amended prospectus updates details about Musk&#x27;s control.</em></p>
+              <p class="example-en speak-line"><em>SpaceX&#x27;s amended prospectus updates details about Musk&#x27;s control.</em><button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX&#x27;s amended prospectus updates details about Musk&#x27;s control." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">スペースXの改訂目論見書は、マスクの支配力に関する詳細を更新した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>voting power</h3>
-                <button type="button" class="speak-btn" data-text="voting power"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="voting power" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈvoʊtɪŋ ˈpaʊər/</div>
               <p>議決権、投票権の力</p>
-              <p class="example-en"><em>Musk would have 82.4% of the voting power.</em></p>
+              <p class="example-en speak-line"><em>Musk would have 82.4% of the voting power.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Musk would have 82.4% of the voting power." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">マスクは議決権の82.4%を握ることになる。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>proceeds</h3>
-                <button type="button" class="speak-btn" data-text="proceeds"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="proceeds" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈproʊsiːdz/</div>
               <p>（株式売出しなどの）調達額、収益</p>
-              <p class="example-en"><em>The estimated proceeds would top $26 billion.</em></p>
+              <p class="example-en speak-line"><em>The estimated proceeds would top $26 billion.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The estimated proceeds would top $26 billion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">見込み調達額は260億ドルを上回るだろう。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>net worth</h3>
-                <button type="button" class="speak-btn" data-text="net worth"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="net worth" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/nɛt wɜːrθ/</div>
               <p>純資産、純資産価値</p>
-              <p class="example-en"><em>Forbes values Musk&#x27;s net worth at $826 billion.</em></p>
+              <p class="example-en speak-line"><em>Forbes values Musk&#x27;s net worth at $826 billion.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Forbes values Musk&#x27;s net worth at $826 billion." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">フォーブスはマスクの純資産を8260億ドルと評価している。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>brace for</h3>
-                <button type="button" class="speak-btn" data-text="brace for"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="brace for" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/breɪs fɔːr/</div>
               <p>〜に備える、身構える</p>
-              <p class="example-en"><em>Investors are bracing for colossal market debuts.</em></p>
+              <p class="example-en speak-line"><em>Investors are bracing for colossal market debuts.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Investors are bracing for colossal market debuts." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">投資家は巨大な市場デビューに備えている。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>confidential filing</h3>
-                <button type="button" class="speak-btn" data-text="confidential filing"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="confidential filing" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˌkɒnfɪˈdɛnʃəl ˈfaɪlɪŋ/</div>
               <p>秘密提出（内容非公開の公式届出）</p>
-              <p class="example-en"><em>Anthropic submitted a confidential filing with the SEC.</em></p>
+              <p class="example-en speak-line"><em>Anthropic submitted a confidential filing with the SEC.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Anthropic submitted a confidential filing with the SEC." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">AnthropicはSECに秘密の提出書類を提出した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>existential</h3>
-                <button type="button" class="speak-btn" data-text="existential"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="existential" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˌɛɡzɪˈstɛnʃəl/</div>
               <p>実存的な、（人類の）存続に関わる</p>
-              <p class="example-en"><em>Existential threats could consign man to the same fate as the dinosaurs.</em></p>
+              <p class="example-en speak-line"><em>Existential threats could consign man to the same fate as the dinosaurs.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Existential threats could consign man to the same fate as the dinosaurs." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">実存的脅威は人類を恐竜と同じ運命に追いやすしかねない。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Participial phrases for result/background</h3>
-              <p>Use -ing phrases after a main clause to add result or context: &#x27;..., setting the stage for ...&#x27;</p>
-              <p class="example-en"><em>SpaceX plans to raise $75 billion, setting the stage for the largest-ever stock market debut.</em></p>
+              <div class="grammar-head">
+                <h3>Participial phrases for result/background</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Participial phrases for result/background" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use -ing phrases after a main clause to add result or context: &#x27;..., setting the stage for ...&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="Use -ing phrases after a main clause to add result or context: &#x27;..., setting the stage for ...&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>SpaceX plans to raise $75 billion, setting the stage for the largest-ever stock market debut.</em><button type="button" class="speak-btn speak-btn--inline" data-text="SpaceX plans to raise $75 billion, setting the stage for the largest-ever stock market debut." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>主節の後ろに分詞構文を置き、結果や背景情報を簡潔に付け加える。経済ニュースで非常に多い構文。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Reporting verbs with optional &#x27;that&#x27;</h3>
-              <p>After said/reported/announced, &#x27;that&#x27; is often omitted: &#x27;The company said it will sell ...&#x27;</p>
-              <p class="example-en"><em>The company said Wednesday it will sell 555.6 million shares.</em></p>
+              <div class="grammar-head">
+                <h3>Reporting verbs with optional &#x27;that&#x27;</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reporting verbs with optional &#x27;that&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">After said/reported/announced, &#x27;that&#x27; is often omitted: &#x27;The company said it will sell ...&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="After said/reported/announced, &#x27;that&#x27; is often omitted: &#x27;The company said it will sell ...&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The company said Wednesday it will sell 555.6 million shares.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The company said Wednesday it will sell 555.6 million shares." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>said/reported の後の that 省略は報道英語の特徴。間接話法として読む。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>As ... as ... (equative comparison)</h3>
-              <p>Use &#x27;as + adjective + as&#x27; to show two things are equal in degree.</p>
-              <p class="example-en"><em>Musk&#x27;s plans are as fantastical as the money he hopes to raise.</em></p>
+              <div class="grammar-head">
+                <h3>As ... as ... (equative comparison)</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="As ... as ... (equative comparison)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use &#x27;as + adjective + as&#x27; to show two things are equal in degree.<button type="button" class="speak-btn speak-btn--inline" data-text="Use &#x27;as + adjective + as&#x27; to show two things are equal in degree." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Musk&#x27;s plans are as fantastical as the money he hopes to raise.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Musk&#x27;s plans are as fantastical as the money he hopes to raise." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「AはBと同じくらい〜だ」の同等比較。記事では計画の非現実性を金額の巨大さと並べている。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Reduced relative clauses</h3>
-              <p>Past participles can shorten relative clauses: &#x27;the $26 billion (that was) raised by Saudi Aramco&#x27;</p>
-              <p class="example-en"><em>The proceeds would top the $26 billion raised by Saudi Aramco in 2019.</em></p>
+              <div class="grammar-head">
+                <h3>Reduced relative clauses</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reduced relative clauses" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Past participles can shorten relative clauses: &#x27;the $26 billion (that was) raised by Saudi Aramco&#x27;<button type="button" class="speak-btn speak-btn--inline" data-text="Past participles can shorten relative clauses: &#x27;the $26 billion (that was) raised by Saudi Aramco&#x27;" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The proceeds would top the $26 billion raised by Saudi Aramco in 2019.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The proceeds would top the $26 billion raised by Saudi Aramco in 2019." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>関係代名詞＋受動態を過去分詞だけに省略し、名詞を後ろから修飾する。ニュースでは省きすぎて難しくなることもある。</p>
             </div>
             </div>
@@ -937,43 +935,43 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · runner3
                 · score 10</div>
-              <p class="comment-raw">That&#x27;s obscene that one person can have that much money. If he gave money away to charity&#x27;s that would be a good thing.</p>
+              <p class="comment-raw speak-line">That&#x27;s obscene that one person can have that much money. If he gave money away to charity&#x27;s that would be a good thing.<button type="button" class="speak-btn" data-text="That&#x27;s obscene that one person can have that much money. If he gave money away to charity&#x27;s that would be a good thing." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">一人がそんなに莫大な金を持てるなんて、ありえない話だ。もし彼が慈善団体に寄付するなら、それは良いことだろう。</p>
               <ul class='comment-notes'><li>「charity&#x27;s」は所有格の形だが、ここでは複数形の charities の誤りと思われる。</li><li>「If he gave...」は現実と違う仮定なので、仮定法過去（would be）とセットでよく使われる。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> If he gave money away to charities, that would be a good thing.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> If he gave money away to charities, that would be a good thing.<button type="button" class="speak-btn speak-btn--inline" data-text="If he gave money away to charities, that would be a good thing." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · Derek Grebe
                 · score 10</div>
-              <p class="comment-raw">And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Ive been waiting for the effects of trickle down economics to show themselves for nearly 50 years now. Nothing is trickling down. Tax the ultra-rich.</p>
+              <p class="comment-raw speak-line">And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Ive been waiting for the effects of trickle down economics to show themselves for nearly 50 years now. Nothing is trickling down. Tax the ultra-rich.<button type="button" class="speak-btn" data-text="And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Ive been waiting for the effects of trickle down economics to show themselves for nearly 50 years now. Nothing is trickling down. Tax the ultra-rich." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">たとえ兆長者になっても、彼は正当な分の税金を払わない理由を見つけ出すだろう。トリクルダウン経済の効果が現れるのを、もうほぼ50年待ち続けている。何も下に流れ落ちてこない。超富裕層に課税しろ。</p>
               <ul class='comment-notes'><li>「Ive」は口語的な省略で、正式には I&#x27;ve（I have）と書く。</li><li>最後の「Tax the ultra-rich.」は主語・動詞のない命令文で、SNSやコメント欄でよく見る断片的な文体。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> I&#x27;ve been waiting for the effects of trickle-down economics to show themselves for nearly 50 years now.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> I&#x27;ve been waiting for the effects of trickle-down economics to show themselves for nearly 50 years now.<button type="button" class="speak-btn speak-btn--inline" data-text="I&#x27;ve been waiting for the effects of trickle-down economics to show themselves for nearly 50 years now." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#3 · Namorada
                 · score 8</div>
-              <p class="comment-raw">Musk is making the world worse. He merely piggybacks off the ideas of greater minds and he’s got the world’s biggest customer funding him. Perhaps if Musk and others paid taxes at the rate they should, the government wouldn’t have to issue bonds to those same wealthy gluttons and pay them interest for loaning the government money they wouldn’t pay into the government.</p>
+              <p class="comment-raw speak-line">Musk is making the world worse. He merely piggybacks off the ideas of greater minds and he’s got the world’s biggest customer funding him. Perhaps if Musk and others paid taxes at the rate they should, the government wouldn’t have to issue bonds to those same wealthy gluttons and pay them interest for loaning the government money they wouldn’t pay into the government.<button type="button" class="speak-btn" data-text="Musk is making the world worse. He merely piggybacks off the ideas of greater minds and he’s got the world’s biggest customer funding him. Perhaps if Musk and others paid taxes at the rate they should, the government wouldn’t have to issue bonds to those same wealthy gluttons and pay them interest for loaning the government money they wouldn’t pay into the government." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">マスクは世界を悪くしている。優れた頭脳のアイデアにただ便乗しているだけで、世界最大の顧客に資金を出してもらっている。もしマスクたちが本来払うべき税率で税金を払っていたら、政府は同じ富裕な強欲な連中に国債を発行して、政府に払わなかったお金を貸し付けた見返りに利子を払う必要もなかったかもしれない。</p>
               <ul class='comment-notes'><li>「piggyback off」は「～の成果に便乗する」という口語的な表現。</li><li>長い一文だが、perhaps if ～ wouldn&#x27;t have to の仮定法と、those same wealthy gluttons への言及が論点の中心。</li></ul>
               
-              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>gluttons</strong> — 「大食漢・強欲な人」を罵る言葉。議論では使われても、丁寧な会話では避けた方がよい。</li></ul>
+              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>gluttons</strong><button type="button" class="speak-btn speak-btn--inline" data-text="gluttons" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 「大食漢・強欲な人」を罵る言葉。議論では使われても、丁寧な会話では避けた方がよい。</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · Would I lie to you?
                 · score 6</div>
-              <p class="comment-raw">And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Derek, Elon Musk paid an estimated $11 billion in federal income taxes for 2021. This massive single-year bill is widely considered the largest ever paid by an individual in U.S. history.</p>
+              <p class="comment-raw speak-line">And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Derek, Elon Musk paid an estimated $11 billion in federal income taxes for 2021. This massive single-year bill is widely considered the largest ever paid by an individual in U.S. history.<button type="button" class="speak-btn" data-text="And even when he’s a trillionaire he’s going to find a justification for not paying his fair share of taxes. Derek, Elon Musk paid an estimated $11 billion in federal income taxes for 2021. This massive single-year bill is widely considered the largest ever paid by an individual in U.S. history." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">たとえ兆長者になっても、彼は正当な分の税金を払わない理由を見つけ出すだろう。デレック、イーロン・マスクは2021年に連邦所得税として推定110億ドルを支払った。この巨額の単年分の税額は、米国史上個人が払った最大額と広く見なされている。</p>
               <ul class='comment-notes'><li>冒頭は Derek のコメントへの反論として、同じ文を繰り返してから事実を提示している。</li><li>「Derek,」のように名前を呼んで直接話しかける、コメント欄特有の書き方。</li></ul>
               
@@ -983,10 +981,10 @@
             <article class="comment-card">
               <div class="comment-meta">#5 · BertieWooster
                 · score 3</div>
-              <p class="comment-raw">How come he gets away with little or no tax and the people who make his money for him get taxed up to the hilt?</p>
+              <p class="comment-raw speak-line">How come he gets away with little or no tax and the people who make his money for him get taxed up to the hilt?<button type="button" class="speak-btn" data-text="How come he gets away with little or no tax and the people who make his money for him get taxed up to the hilt?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">どうして彼はほとんど税金を払わずに済ませられるのに、彼の金を稼いでいる人たちは税金を徹底的に搾り取られるのか？</p>
               <ul class='comment-notes'><li>「How come」は口語の「どうして～なのか」。</li><li>「get away with」は「（悪いこと・不利なことを）うまく逃れる」、「up to the hilt」は「徹底的に・限界まで」という強い口語表現。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> How come he gets away with paying little or no tax, while the people who make his money for him get taxed heavily?</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> How come he gets away with paying little or no tax, while the people who make his money for him get taxed heavily?<button type="button" class="speak-btn speak-btn--inline" data-text="How come he gets away with paying little or no tax, while the people who make his money for him get taxed heavily?" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
@@ -994,7 +992,8 @@
     </section>
     
 
-    <footer>English News Digest · 2026-06-04</footer>
+    <footer class="speak-line">English News Digest · 2026-06-04
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

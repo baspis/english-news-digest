@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-05</a>
       <span class="sep">/</span>
       <span>American college student missing in Kyoto, la...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="American college student missing in Kyoto, la..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge national">national</span>
-      <h1>American college student missing in Kyoto, last seen by family one week ago</h1>
-      <div class="meta">Japan Today National · 2026-06-05</div>
+      <div class="title-head">
+        <span class="badge national">national</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="national" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>American college student missing in Kyoto, last seen by family one week ago</h1>
+        <button type="button" class="speak-btn" data-text="American college student missing in Kyoto, last seen by family one week ago" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today National<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today National" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-05</p>
       <div class="summary-ja">京都で行方不明になった20歳のアメリカ人大学生ウェストン・ヒギンボサムについて、日本の警察とボランティアが捜索を続けている。5月29日夜、単独で観光中に位置情報の共有を切ったのを最後に連絡が途絶え、山岳地帯へ向かう道筋が最後の記録だ。家族は彼が森で迷った可能性に希望を持つ一方、悪天候もあり捜索は難航している。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/national/american-college-student-missing-in-kyoto-last-seen-by-family-one-week-ago" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japanese police and volunteers are searching for an American college student who went missing in Kyoto and hasn’t been seen in a week."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japanese police and volunteers are searching for an American college student who went missing in Kyoto and hasn’t been seen in a week." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japanese police and volunteers are searching for an American college student who went missing in Kyoto and hasn’t been seen in a week.</p>
       <p class="translation">日本の警察とボランティアが、京都で行方不明になったアメリカ人の大学生を捜しており、彼は1週間姿を見せていない。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japanese police and volunteers</td><td class='chunk-role'>主語</td><td>日本の警察とボランティアが</td><td>捜索の主体。volunteer は「有志・ボランティア」。</td></tr><tr><td class='chunk-en'>are searching for</td><td class='chunk-role'>述語</td><td>～を捜している</td><td>search for は「～を探す・捜す」のコロケーション。</td></tr><tr><td class='chunk-en'>an American college student</td><td class='chunk-role'>目的語</td><td>アメリカ人の大学生を</td><td>college student は米国式の「大学生」。</td></tr><tr><td class='chunk-en'>who went missing in Kyoto</td><td class='chunk-role'>関係代名詞節（修飾）</td><td>京都で行方不明になった</td><td>go missing は失踪ニュースで頻出の句動詞。</td></tr><tr><td class='chunk-en'>and hasn’t been seen in a week</td><td class='chunk-role'>追加の関係代名詞節</td><td>そして1週間姿を見せていない</td><td>in a week は「1週間の間」＝直近1週間。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japanese police and volunteers<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese police and volunteers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本の警察とボランティアが</td><td>捜索の主体。volunteer は「有志・ボランティア」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>are searching for<button type="button" class="speak-btn speak-btn--inline" data-text="are searching for" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>～を捜している</td><td>search for は「～を探す・捜す」のコロケーション。</td></tr><tr><td class='chunk-en'><span class='speak-line'>an American college student<button type="button" class="speak-btn speak-btn--inline" data-text="an American college student" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的語</td><td>アメリカ人の大学生を</td><td>college student は米国式の「大学生」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>who went missing in Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="who went missing in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節（修飾）</td><td>京都で行方不明になった</td><td>go missing は失踪ニュースで頻出の句動詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and hasn’t been seen in a week<button type="button" class="speak-btn speak-btn--inline" data-text="and hasn’t been seen in a week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>追加の関係代名詞節</td><td>そして1週間姿を見せていない</td><td>in a week は「1週間の間」＝直近1週間。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japanese police and volunteers</div>
+              <div class="chunk-en speak-line">Japanese police and volunteers<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese police and volunteers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本の警察とボランティアが</div>
               <div>捜索の主体。volunteer は「有志・ボランティア」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">are searching for</div>
+              <div class="chunk-en speak-line">are searching for<button type="button" class="speak-btn speak-btn--inline" data-text="are searching for" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · ～を捜している</div>
               <div>search for は「～を探す・捜す」のコロケーション。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">an American college student</div>
+              <div class="chunk-en speak-line">an American college student<button type="button" class="speak-btn speak-btn--inline" data-text="an American college student" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的語 · アメリカ人の大学生を</div>
               <div>college student は米国式の「大学生」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">who went missing in Kyoto</div>
+              <div class="chunk-en speak-line">who went missing in Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="who went missing in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節（修飾） · 京都で行方不明になった</div>
               <div>go missing は失踪ニュースで頻出の句動詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and hasn’t been seen in a week</div>
+              <div class="chunk-en speak-line">and hasn’t been seen in a week<button type="button" class="speak-btn speak-btn--inline" data-text="and hasn’t been seen in a week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">追加の関係代名詞節 · そして1週間姿を見せていない</div>
               <div>in a week は「1週間の間」＝直近1週間。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Twenty-year-old James “Weston” Higginbotham and his family arrived in Japan from the U.S. on May 25, spending time in Tokyo and elsewhere before reaching Kyoto."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Twenty-year-old James “Weston” Higginbotham and his family arrived in Japan from the U.S. on May 25, spending time in Tokyo and elsewhere before reaching Kyoto." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Twenty-year-old James “Weston” Higginbotham and his family arrived in Japan from the U.S. on May 25, spending time in Tokyo and elsewhere before reaching Kyoto.</p>
       <p class="translation">20歳のジェームズ・「ウェストン」・ヒギンボサムと家族は5月25日にアメリカから日本に到着し、京都に着く前に東京などで時間を過ごした。</p>
@@ -115,29 +124,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Twenty-year-old James “Weston” Higginbotham and his family</td><td class='chunk-role'>主語</td><td>20歳のジェームズ・ウェストン・ヒギンボサムと彼の家族は</td><td>ハイフン付き年齢修飾はニュースの人物紹介でよく使われる。</td></tr><tr><td class='chunk-en'>arrived in Japan from the U.S. on May 25</td><td class='chunk-role'>述語</td><td>5月25日にアメリカから日本に到着した</td><td>arrive in（場所）/ from（出発地）の前置詞。</td></tr><tr><td class='chunk-en'>spending time in Tokyo and elsewhere</td><td class='chunk-role'>分詞構文</td><td>東京などで時間を過ごしながら</td><td>主語と同じ人物が行う付随的行動を簡潔に述べる。</td></tr><tr><td class='chunk-en'>before reaching Kyoto</td><td class='chunk-role'>時を表す副詞節</td><td>京都に着く前に</td><td>before + 動名詞で「～する前に」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Twenty-year-old James “Weston” Higginbotham and his family<button type="button" class="speak-btn speak-btn--inline" data-text="Twenty-year-old James “Weston” Higginbotham and his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>20歳のジェームズ・ウェストン・ヒギンボサムと彼の家族は</td><td>ハイフン付き年齢修飾はニュースの人物紹介でよく使われる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>arrived in Japan from the U.S. on May 25<button type="button" class="speak-btn speak-btn--inline" data-text="arrived in Japan from the U.S. on May 25" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>5月25日にアメリカから日本に到着した</td><td>arrive in（場所）/ from（出発地）の前置詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>spending time in Tokyo and elsewhere<button type="button" class="speak-btn speak-btn--inline" data-text="spending time in Tokyo and elsewhere" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文</td><td>東京などで時間を過ごしながら</td><td>主語と同じ人物が行う付随的行動を簡潔に述べる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>before reaching Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="before reaching Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>京都に着く前に</td><td>before + 動名詞で「～する前に」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Twenty-year-old James “Weston” Higginbotham and his family</div>
+              <div class="chunk-en speak-line">Twenty-year-old James “Weston” Higginbotham and his family<button type="button" class="speak-btn speak-btn--inline" data-text="Twenty-year-old James “Weston” Higginbotham and his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 20歳のジェームズ・ウェストン・ヒギンボサムと彼の家族は</div>
               <div>ハイフン付き年齢修飾はニュースの人物紹介でよく使われる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">arrived in Japan from the U.S. on May 25</div>
+              <div class="chunk-en speak-line">arrived in Japan from the U.S. on May 25<button type="button" class="speak-btn speak-btn--inline" data-text="arrived in Japan from the U.S. on May 25" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 5月25日にアメリカから日本に到着した</div>
               <div>arrive in（場所）/ from（出発地）の前置詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">spending time in Tokyo and elsewhere</div>
+              <div class="chunk-en speak-line">spending time in Tokyo and elsewhere<button type="button" class="speak-btn speak-btn--inline" data-text="spending time in Tokyo and elsewhere" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文 · 東京などで時間を過ごしながら</div>
               <div>主語と同じ人物が行う付随的行動を簡潔に述べる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">before reaching Kyoto</div>
+              <div class="chunk-en speak-line">before reaching Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="before reaching Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 京都に着く前に</div>
               <div>before + 動名詞で「～する前に」。</div>
             </div>
@@ -150,8 +159,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Weston declined to go with his parents and 18-year-old younger brother while they visited a temple on May 29, instead opting to sightsee on his own, while sharing his location through the Life360 phone app."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Weston declined to go with his parents and 18-year-old younger brother while they visited a temple on May 29, instead opting to sightsee on his own, while sharing his location through the Life360 phone app." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Weston declined to go with his parents and 18-year-old younger brother while they visited a temple on May 29, instead opting to sightsee on his own, while sharing his location through the Life360 phone app.</p>
       <p class="translation">ウェストンは5月29日、両親と18歳の弟が寺を訪れる間、一緒に行くのを断り、代わりに一人で観光することを選び、Life360というスマホアプリで位置情報を共有していた。</p>
@@ -164,29 +172,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Weston declined to go with his parents and 18-year-old younger brother</td><td class='chunk-role'>主節</td><td>ウェストンは両親と18歳の弟と一緒に行くのを断った</td><td>decline to + 動詞原形＝丁寧に断る。</td></tr><tr><td class='chunk-en'>while they visited a temple on May 29</td><td class='chunk-role'>時間の副詞節</td><td>彼らが5月29日に寺を訪れている間</td><td>while は同時進行の背景状況。</td></tr><tr><td class='chunk-en'>instead opting to sightsee on his own</td><td class='chunk-role'>分詞構文（対比）</td><td>代わりに一人で観光することを選び</td><td>instead は文全体の対比を補足する。</td></tr><tr><td class='chunk-en'>while sharing his location through the Life360 phone app</td><td class='chunk-role'>分詞構文（同時）</td><td>Life360アプリで位置情報を共有しながら</td><td>through は手段「～を通じて」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Weston declined to go with his parents and 18-year-old younger brother<button type="button" class="speak-btn speak-btn--inline" data-text="Weston declined to go with his parents and 18-year-old younger brother" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ウェストンは両親と18歳の弟と一緒に行くのを断った</td><td>decline to + 動詞原形＝丁寧に断る。</td></tr><tr><td class='chunk-en'><span class='speak-line'>while they visited a temple on May 29<button type="button" class="speak-btn speak-btn--inline" data-text="while they visited a temple on May 29" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時間の副詞節</td><td>彼らが5月29日に寺を訪れている間</td><td>while は同時進行の背景状況。</td></tr><tr><td class='chunk-en'><span class='speak-line'>instead opting to sightsee on his own<button type="button" class="speak-btn speak-btn--inline" data-text="instead opting to sightsee on his own" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（対比）</td><td>代わりに一人で観光することを選び</td><td>instead は文全体の対比を補足する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>while sharing his location through the Life360 phone app<button type="button" class="speak-btn speak-btn--inline" data-text="while sharing his location through the Life360 phone app" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（同時）</td><td>Life360アプリで位置情報を共有しながら</td><td>through は手段「～を通じて」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Weston declined to go with his parents and 18-year-old younger brother</div>
+              <div class="chunk-en speak-line">Weston declined to go with his parents and 18-year-old younger brother<button type="button" class="speak-btn speak-btn--inline" data-text="Weston declined to go with his parents and 18-year-old younger brother" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ウェストンは両親と18歳の弟と一緒に行くのを断った</div>
               <div>decline to + 動詞原形＝丁寧に断る。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">while they visited a temple on May 29</div>
+              <div class="chunk-en speak-line">while they visited a temple on May 29<button type="button" class="speak-btn speak-btn--inline" data-text="while they visited a temple on May 29" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時間の副詞節 · 彼らが5月29日に寺を訪れている間</div>
               <div>while は同時進行の背景状況。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">instead opting to sightsee on his own</div>
+              <div class="chunk-en speak-line">instead opting to sightsee on his own<button type="button" class="speak-btn speak-btn--inline" data-text="instead opting to sightsee on his own" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（対比） · 代わりに一人で観光することを選び</div>
               <div>instead は文全体の対比を補足する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">while sharing his location through the Life360 phone app</div>
+              <div class="chunk-en speak-line">while sharing his location through the Life360 phone app<button type="button" class="speak-btn speak-btn--inline" data-text="while sharing his location through the Life360 phone app" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（同時） · Life360アプリで位置情報を共有しながら</div>
               <div>through は手段「～を通じて」。</div>
             </div>
@@ -199,8 +207,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="▼ James “Weston” Higginbotham, missing since the night of May 29 in Kyoto"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="▼ James “Weston” Higginbotham, missing since the night of May 29 in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">▼ James “Weston” Higginbotham, missing since the night of May 29 in Kyoto</p>
       <p class="translation">▼ ジェームズ・「ウェストン」・ヒギンボサム（5月29日夜以降、京都で行方不明）</p>
@@ -213,17 +220,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>James “Weston” Higginbotham</td><td class='chunk-role'>主題（見出しの核）</td><td>ジェームズ・ウェストン・ヒギンボサム</td><td>▼ は写真キャプション記号。</td></tr><tr><td class='chunk-en'>missing since the night of May 29 in Kyoto</td><td class='chunk-role'>補足説明</td><td>5月29日夜以来京都で行方不明</td><td>missing since は失踪報道の定型表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>James “Weston” Higginbotham<button type="button" class="speak-btn speak-btn--inline" data-text="James “Weston” Higginbotham" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主題（見出しの核）</td><td>ジェームズ・ウェストン・ヒギンボサム</td><td>▼ は写真キャプション記号。</td></tr><tr><td class='chunk-en'><span class='speak-line'>missing since the night of May 29 in Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="missing since the night of May 29 in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補足説明</td><td>5月29日夜以来京都で行方不明</td><td>missing since は失踪報道の定型表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">James “Weston” Higginbotham</div>
+              <div class="chunk-en speak-line">James “Weston” Higginbotham<button type="button" class="speak-btn speak-btn--inline" data-text="James “Weston” Higginbotham" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主題（見出しの核） · ジェームズ・ウェストン・ヒギンボサム</div>
               <div>▼ は写真キャプション記号。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">missing since the night of May 29 in Kyoto</div>
+              <div class="chunk-en speak-line">missing since the night of May 29 in Kyoto<button type="button" class="speak-btn speak-btn--inline" data-text="missing since the night of May 29 in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補足説明 · 5月29日夜以来京都で行方不明</div>
               <div>missing since は失踪報道の定型表現。</div>
             </div>
@@ -236,8 +243,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Based on his location data, Weston left the family’s hotel by himself at around 6 p.m. and later boarded a train at Kyoto Station, a five-minute ride away."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Based on his location data, Weston left the family’s hotel by himself at around 6 p.m. and later boarded a train at Kyoto Station, a five-minute ride away." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Based on his location data, Weston left the family’s hotel by himself at around 6 p.m. and later boarded a train at Kyoto Station, a five-minute ride away.</p>
       <p class="translation">位置情報によると、ウェストンは午後6時ごろ一人で家族のホテルを出て、その後近くの京都駅から電車に乗った。駅までは5分ほどの距離だった。</p>
@@ -250,29 +256,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Based on his location data</td><td class='chunk-role'>根拠を示す前置詞句</td><td>彼の位置情報に基づくと</td><td>Based on は報道で根拠を示す定番。</td></tr><tr><td class='chunk-en'>Weston left the family’s hotel by himself at around 6 p.m.</td><td class='chunk-role'>主節（前半）</td><td>ウェストンは午後6時ごろ一人で家族のホテルを出た</td><td>at around は「およそ～頃」。</td></tr><tr><td class='chunk-en'>and later boarded a train at Kyoto Station</td><td class='chunk-role'>主節（後半）</td><td>そして後に京都駅で電車に乗った</td><td>board a train は「乗車する」のフォーマルな表現。</td></tr><tr><td class='chunk-en'>a five-minute ride away</td><td class='chunk-role'>同格語（補足）</td><td>5分の乗車距離の場所に</td><td>名詞 + away で距離を簡潔に表す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Based on his location data<button type="button" class="speak-btn speak-btn--inline" data-text="Based on his location data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>根拠を示す前置詞句</td><td>彼の位置情報に基づくと</td><td>Based on は報道で根拠を示す定番。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Weston left the family’s hotel by himself at around 6 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="Weston left the family’s hotel by himself at around 6 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（前半）</td><td>ウェストンは午後6時ごろ一人で家族のホテルを出た</td><td>at around は「およそ～頃」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and later boarded a train at Kyoto Station<button type="button" class="speak-btn speak-btn--inline" data-text="and later boarded a train at Kyoto Station" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（後半）</td><td>そして後に京都駅で電車に乗った</td><td>board a train は「乗車する」のフォーマルな表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a five-minute ride away<button type="button" class="speak-btn speak-btn--inline" data-text="a five-minute ride away" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格語（補足）</td><td>5分の乗車距離の場所に</td><td>名詞 + away で距離を簡潔に表す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Based on his location data</div>
+              <div class="chunk-en speak-line">Based on his location data<button type="button" class="speak-btn speak-btn--inline" data-text="Based on his location data" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">根拠を示す前置詞句 · 彼の位置情報に基づくと</div>
               <div>Based on は報道で根拠を示す定番。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Weston left the family’s hotel by himself at around 6 p.m.</div>
+              <div class="chunk-en speak-line">Weston left the family’s hotel by himself at around 6 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="Weston left the family’s hotel by himself at around 6 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（前半） · ウェストンは午後6時ごろ一人で家族のホテルを出た</div>
               <div>at around は「およそ～頃」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and later boarded a train at Kyoto Station</div>
+              <div class="chunk-en speak-line">and later boarded a train at Kyoto Station<button type="button" class="speak-btn speak-btn--inline" data-text="and later boarded a train at Kyoto Station" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（後半） · そして後に京都駅で電車に乗った</div>
               <div>board a train は「乗車する」のフォーマルな表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a five-minute ride away</div>
+              <div class="chunk-en speak-line">a five-minute ride away<button type="button" class="speak-btn speak-btn--inline" data-text="a five-minute ride away" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格語（補足） · 5分の乗車距離の場所に</div>
               <div>名詞 + away で距離を簡潔に表す。</div>
             </div>
@@ -285,8 +291,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="He can be seen on multiple security cameras leaving Yamashina Station and walking in the neighborhood around 8 p.m., wearing a gray T-shirt with “Save the bees” written across it and brown pants, and carrying a shoulder bag."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="He can be seen on multiple security cameras leaving Yamashina Station and walking in the neighborhood around 8 p.m., wearing a gray T-shirt with “Save the bees” written across it and brown pants, and carrying a shoulder bag." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">He can be seen on multiple security cameras leaving Yamashina Station and walking in the neighborhood around 8 p.m., wearing a gray T-shirt with “Save the bees” written across it and brown pants, and carrying a shoulder bag.</p>
       <p class="translation">複数の防犯カメラには、午後8時ごろ山科駅を出て近所を歩く彼の姿が映っており、灰色のTシャツ（胸に「Save the bees」の文字）と茶色のズボンを着用し、ショルダーバッグを持っていた。</p>
@@ -299,29 +304,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>He can be seen on multiple security cameras</td><td class='chunk-role'>主節</td><td>彼は複数の防犯カメラに映っている</td><td>捜査報道で「カメラに映る」定型表現。</td></tr><tr><td class='chunk-en'>leaving Yamashina Station and walking in the neighborhood around 8 p.m.</td><td class='chunk-role'>主語補語（原形不定詞相当の分詞）</td><td>山科駅を出て午後8時ごろ近所を歩く姿として</td><td>see + 目的語 + doing で「～しているのが見える」。</td></tr><tr><td class='chunk-en'>wearing a gray T-shirt with “Save the bees” written across it and brown pants</td><td class='chunk-role'>分詞構文（付帯状況）</td><td>灰色のTシャツと茶色のズボンを着て</td><td>written across it は服のデザイン説明。</td></tr><tr><td class='chunk-en'>and carrying a shoulder bag</td><td class='chunk-role'>分詞構文（並列）</td><td>そしてショルダーバッグを持ち</td><td>shoulder bag は「ショルダーバッグ」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>He can be seen on multiple security cameras<button type="button" class="speak-btn speak-btn--inline" data-text="He can be seen on multiple security cameras" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>彼は複数の防犯カメラに映っている</td><td>捜査報道で「カメラに映る」定型表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>leaving Yamashina Station and walking in the neighborhood around 8 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="leaving Yamashina Station and walking in the neighborhood around 8 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語補語（原形不定詞相当の分詞）</td><td>山科駅を出て午後8時ごろ近所を歩く姿として</td><td>see + 目的語 + doing で「～しているのが見える」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>wearing a gray T-shirt with “Save the bees” written across it and brown pants<button type="button" class="speak-btn speak-btn--inline" data-text="wearing a gray T-shirt with “Save the bees” written across it and brown pants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（付帯状況）</td><td>灰色のTシャツと茶色のズボンを着て</td><td>written across it は服のデザイン説明。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and carrying a shoulder bag<button type="button" class="speak-btn speak-btn--inline" data-text="and carrying a shoulder bag" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（並列）</td><td>そしてショルダーバッグを持ち</td><td>shoulder bag は「ショルダーバッグ」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">He can be seen on multiple security cameras</div>
+              <div class="chunk-en speak-line">He can be seen on multiple security cameras<button type="button" class="speak-btn speak-btn--inline" data-text="He can be seen on multiple security cameras" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 彼は複数の防犯カメラに映っている</div>
               <div>捜査報道で「カメラに映る」定型表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">leaving Yamashina Station and walking in the neighborhood around 8 p.m.</div>
+              <div class="chunk-en speak-line">leaving Yamashina Station and walking in the neighborhood around 8 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="leaving Yamashina Station and walking in the neighborhood around 8 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語補語（原形不定詞相当の分詞） · 山科駅を出て午後8時ごろ近所を歩く姿として</div>
               <div>see + 目的語 + doing で「～しているのが見える」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">wearing a gray T-shirt with “Save the bees” written across it and brown pants</div>
+              <div class="chunk-en speak-line">wearing a gray T-shirt with “Save the bees” written across it and brown pants<button type="button" class="speak-btn speak-btn--inline" data-text="wearing a gray T-shirt with “Save the bees” written across it and brown pants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（付帯状況） · 灰色のTシャツと茶色のズボンを着て</div>
               <div>written across it は服のデザイン説明。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and carrying a shoulder bag</div>
+              <div class="chunk-en speak-line">and carrying a shoulder bag<button type="button" class="speak-btn speak-btn--inline" data-text="and carrying a shoulder bag" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（並列） · そしてショルダーバッグを持ち</div>
               <div>shoulder bag は「ショルダーバッグ」。</div>
             </div>
@@ -334,8 +339,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="His last known location was on a path that leads to a hiking trail that goes into the mountainous forest region to the east of Kyoto City."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="His last known location was on a path that leads to a hiking trail that goes into the mountainous forest region to the east of Kyoto City." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">His last known location was on a path that leads to a hiking trail that goes into the mountainous forest region to the east of Kyoto City.</p>
       <p class="translation">彼が最後に確認された場所は、ハイキングコースへ続く道の上で、そのコースは京都市の東側の山岳森林地帯へ入っていく。</p>
@@ -348,29 +352,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>His last known location</td><td class='chunk-role'>主語</td><td>彼の最後に確認された位置</td><td>last known は行方不明事件のキーワード。</td></tr><tr><td class='chunk-en'>was on a path</td><td class='chunk-role'>述語</td><td>道の上だった</td><td>場所は on a path。</td></tr><tr><td class='chunk-en'>that leads to a hiking trail</td><td class='chunk-role'>関係代名詞節1</td><td>ハイキングコースへ続く</td><td>lead to は「～へ通じる」。</td></tr><tr><td class='chunk-en'>that goes into the mountainous forest region to the east of Kyoto City</td><td class='chunk-role'>関係代名詞節2</td><td>京都市の東の山岳森林地帯へ入っていく</td><td>mountainous forest region は「山岳森林地帯」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>His last known location<button type="button" class="speak-btn speak-btn--inline" data-text="His last known location" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>彼の最後に確認された位置</td><td>last known は行方不明事件のキーワード。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was on a path<button type="button" class="speak-btn speak-btn--inline" data-text="was on a path" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>道の上だった</td><td>場所は on a path。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that leads to a hiking trail<button type="button" class="speak-btn speak-btn--inline" data-text="that leads to a hiking trail" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節1</td><td>ハイキングコースへ続く</td><td>lead to は「～へ通じる」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that goes into the mountainous forest region to the east of Kyoto City<button type="button" class="speak-btn speak-btn--inline" data-text="that goes into the mountainous forest region to the east of Kyoto City" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節2</td><td>京都市の東の山岳森林地帯へ入っていく</td><td>mountainous forest region は「山岳森林地帯」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">His last known location</div>
+              <div class="chunk-en speak-line">His last known location<button type="button" class="speak-btn speak-btn--inline" data-text="His last known location" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 彼の最後に確認された位置</div>
               <div>last known は行方不明事件のキーワード。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was on a path</div>
+              <div class="chunk-en speak-line">was on a path<button type="button" class="speak-btn speak-btn--inline" data-text="was on a path" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 道の上だった</div>
               <div>場所は on a path。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that leads to a hiking trail</div>
+              <div class="chunk-en speak-line">that leads to a hiking trail<button type="button" class="speak-btn speak-btn--inline" data-text="that leads to a hiking trail" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節1 · ハイキングコースへ続く</div>
               <div>lead to は「～へ通じる」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that goes into the mountainous forest region to the east of Kyoto City</div>
+              <div class="chunk-en speak-line">that goes into the mountainous forest region to the east of Kyoto City<button type="button" class="speak-btn speak-btn--inline" data-text="that goes into the mountainous forest region to the east of Kyoto City" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節2 · 京都市の東の山岳森林地帯へ入っていく</div>
               <div>mountainous forest region は「山岳森林地帯」。</div>
             </div>
@@ -383,8 +387,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="At 8:29 p.m., Weston turned off location-sharing on his phone, something his mother said he has never done before in such situations."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="At 8:29 p.m., Weston turned off location-sharing on his phone, something his mother said he has never done before in such situations." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">At 8:29 p.m., Weston turned off location-sharing on his phone, something his mother said he has never done before in such situations.</p>
       <p class="translation">午後8時29分、ウェストンはスマホの位置情報共有をオフにした。母親によると、こうした状況で彼がそれをしたことは今まで一度もないという。</p>
@@ -397,23 +400,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>At 8:29 p.m., Weston turned off location-sharing on his phone</td><td class='chunk-role'>主節</td><td>午後8時29分、ウェストンはスマホの位置情報共有をオフにした</td><td>turn off は電源・機能停止の句動詞。</td></tr><tr><td class='chunk-en'>something his mother said</td><td class='chunk-role'>同格語</td><td>母親が言ったあること</td><td>something が後続節の内容を受ける。</td></tr><tr><td class='chunk-en'>he has never done before in such situations</td><td class='chunk-role'>関係代名詞節（that 省略）</td><td>彼がこうした状況で今まで一度もしたことのない</td><td>never ... before は「今まで一度も～ない」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>At 8:29 p.m., Weston turned off location-sharing on his phone<button type="button" class="speak-btn speak-btn--inline" data-text="At 8:29 p.m., Weston turned off location-sharing on his phone" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>午後8時29分、ウェストンはスマホの位置情報共有をオフにした</td><td>turn off は電源・機能停止の句動詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>something his mother said<button type="button" class="speak-btn speak-btn--inline" data-text="something his mother said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格語</td><td>母親が言ったあること</td><td>something が後続節の内容を受ける。</td></tr><tr><td class='chunk-en'><span class='speak-line'>he has never done before in such situations<button type="button" class="speak-btn speak-btn--inline" data-text="he has never done before in such situations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節（that 省略）</td><td>彼がこうした状況で今まで一度もしたことのない</td><td>never ... before は「今まで一度も～ない」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">At 8:29 p.m., Weston turned off location-sharing on his phone</div>
+              <div class="chunk-en speak-line">At 8:29 p.m., Weston turned off location-sharing on his phone<button type="button" class="speak-btn speak-btn--inline" data-text="At 8:29 p.m., Weston turned off location-sharing on his phone" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 午後8時29分、ウェストンはスマホの位置情報共有をオフにした</div>
               <div>turn off は電源・機能停止の句動詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">something his mother said</div>
+              <div class="chunk-en speak-line">something his mother said<button type="button" class="speak-btn speak-btn--inline" data-text="something his mother said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格語 · 母親が言ったあること</div>
               <div>something が後続節の内容を受ける。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">he has never done before in such situations</div>
+              <div class="chunk-en speak-line">he has never done before in such situations<button type="button" class="speak-btn speak-btn--inline" data-text="he has never done before in such situations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節（that 省略） · 彼がこうした状況で今まで一度もしたことのない</div>
               <div>never ... before は「今まで一度も～ない」。</div>
             </div>
@@ -426,8 +429,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Examination of his location data prior to disconnecting also shows that Weston visited a home supplies store at some point after leaving the hotel."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Examination of his location data prior to disconnecting also shows that Weston visited a home supplies store at some point after leaving the hotel." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Examination of his location data prior to disconnecting also shows that Weston visited a home supplies store at some point after leaving the hotel.</p>
       <p class="translation">切断前の位置情報を調べた結果、ウェストンがホテルを出た後のどこかの時点でホームセンター的な店を訪れていたこともわかった。</p>
@@ -440,29 +442,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Examination of his location data prior to disconnecting</td><td class='chunk-role'>主語</td><td>切断前の彼の位置情報の調査は</td><td>prior to = before のフォーマルな言い換え。</td></tr><tr><td class='chunk-en'>also shows that</td><td class='chunk-role'>述語</td><td>また～ということを示している</td><td>also は追加情報の導入。</td></tr><tr><td class='chunk-en'>Weston visited a home supplies store</td><td class='chunk-role'>that 節の内容</td><td>ウェストンがホームセンターを訪れた</td><td>home supplies store は日用品・DIY店。</td></tr><tr><td class='chunk-en'>at some point after leaving the hotel</td><td class='chunk-role'>時を表す副詞句</td><td>ホテルを出た後のある時点で</td><td>at some point は正確な時刻不明のときに使う。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Examination of his location data prior to disconnecting<button type="button" class="speak-btn speak-btn--inline" data-text="Examination of his location data prior to disconnecting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>切断前の彼の位置情報の調査は</td><td>prior to = before のフォーマルな言い換え。</td></tr><tr><td class='chunk-en'><span class='speak-line'>also shows that<button type="button" class="speak-btn speak-btn--inline" data-text="also shows that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>また～ということを示している</td><td>also は追加情報の導入。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Weston visited a home supplies store<button type="button" class="speak-btn speak-btn--inline" data-text="Weston visited a home supplies store" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that 節の内容</td><td>ウェストンがホームセンターを訪れた</td><td>home supplies store は日用品・DIY店。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at some point after leaving the hotel<button type="button" class="speak-btn speak-btn--inline" data-text="at some point after leaving the hotel" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>ホテルを出た後のある時点で</td><td>at some point は正確な時刻不明のときに使う。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Examination of his location data prior to disconnecting</div>
+              <div class="chunk-en speak-line">Examination of his location data prior to disconnecting<button type="button" class="speak-btn speak-btn--inline" data-text="Examination of his location data prior to disconnecting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 切断前の彼の位置情報の調査は</div>
               <div>prior to = before のフォーマルな言い換え。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">also shows that</div>
+              <div class="chunk-en speak-line">also shows that<button type="button" class="speak-btn speak-btn--inline" data-text="also shows that" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · また～ということを示している</div>
               <div>also は追加情報の導入。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Weston visited a home supplies store</div>
+              <div class="chunk-en speak-line">Weston visited a home supplies store<button type="button" class="speak-btn speak-btn--inline" data-text="Weston visited a home supplies store" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that 節の内容 · ウェストンがホームセンターを訪れた</div>
               <div>home supplies store は日用品・DIY店。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at some point after leaving the hotel</div>
+              <div class="chunk-en speak-line">at some point after leaving the hotel<button type="button" class="speak-btn speak-btn--inline" data-text="at some point after leaving the hotel" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · ホテルを出た後のある時点で</div>
               <div>at some point は正確な時刻不明のときに使う。</div>
             </div>
@@ -475,8 +477,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="By 2 a.m., Weston had not returned to the hotel or contacted his family, so they reported him as missing to the police."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="By 2 a.m., Weston had not returned to the hotel or contacted his family, so they reported him as missing to the police." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">By 2 a.m., Weston had not returned to the hotel or contacted his family, so they reported him as missing to the police.</p>
       <p class="translation">午前2時までにウェストンはホテルに戻らず、家族にも連絡しなかったため、家族は警察に彼の失踪を届け出た。</p>
@@ -489,17 +490,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>By 2 a.m., Weston had not returned to the hotel or contacted his family</td><td class='chunk-role'>主節</td><td>午前2時までにウェストンはホテルに戻っておらず家族にも連絡していなかった</td><td>過去完了は過去のある時点までの状態を表す。</td></tr><tr><td class='chunk-en'>so they reported him as missing to the police</td><td class='chunk-role'>結果節</td><td>そこで彼らは警察に彼を行方不明者として届け出た</td><td>report A as B は公式届出の表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>By 2 a.m., Weston had not returned to the hotel or contacted his family<button type="button" class="speak-btn speak-btn--inline" data-text="By 2 a.m., Weston had not returned to the hotel or contacted his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>午前2時までにウェストンはホテルに戻っておらず家族にも連絡していなかった</td><td>過去完了は過去のある時点までの状態を表す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>so they reported him as missing to the police<button type="button" class="speak-btn speak-btn--inline" data-text="so they reported him as missing to the police" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>結果節</td><td>そこで彼らは警察に彼を行方不明者として届け出た</td><td>report A as B は公式届出の表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">By 2 a.m., Weston had not returned to the hotel or contacted his family</div>
+              <div class="chunk-en speak-line">By 2 a.m., Weston had not returned to the hotel or contacted his family<button type="button" class="speak-btn speak-btn--inline" data-text="By 2 a.m., Weston had not returned to the hotel or contacted his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 午前2時までにウェストンはホテルに戻っておらず家族にも連絡していなかった</div>
               <div>過去完了は過去のある時点までの状態を表す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">so they reported him as missing to the police</div>
+              <div class="chunk-en speak-line">so they reported him as missing to the police<button type="button" class="speak-btn speak-btn--inline" data-text="so they reported him as missing to the police" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">結果節 · そこで彼らは警察に彼を行方不明者として届け出た</div>
               <div>report A as B は公式届出の表現。</div>
             </div>
@@ -512,8 +513,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="According to his family, Weston is an experienced outdoorsman and international traveler, having solo hiked in Europe, and the family often hikes, mountain bikes and river rafts together. “It’s not unusual for Weston to blow off steam going to the woods and just exploring,” his mother, Nancy, said. “That’s his happy place.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="According to his family, Weston is an experienced outdoorsman and international traveler, having solo hiked in Europe, and the family often hikes, mountain bikes and river rafts together. “It’s not unusual for Weston to blow off steam going to the woods and just exploring,” his mother, Nancy, said. “That’s his happy place.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">According to his family, Weston is an experienced outdoorsman and international traveler, having solo hiked in Europe, and the family often hikes, mountain bikes and river rafts together. “It’s not unusual for Weston to blow off steam going to the woods and just exploring,” his mother, Nancy, said. “That’s his happy place.”</p>
       <p class="translation">家族によると、ウェストンは経験豊富なアウトドア愛好家で国際的な旅慣れもあり、ヨーロッパで単独ハイキングをしたこともある。家族はよく一緒にハイキングやマウンテンバイク、川下りを楽しんでいる。母のナンシーは「ウェストンが森に行って探索してストレスを発散するのは珍しいことじゃない。あそこが彼の居心地のいい場所なの」と話した。</p>
@@ -526,35 +526,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>According to his family</td><td class='chunk-role'>根拠の前置詞句</td><td>家族によると</td><td>発言・情報の出所を示す。</td></tr><tr><td class='chunk-en'>Weston is an experienced outdoorsman and international traveler</td><td class='chunk-role'>主節</td><td>ウェストンは経験豊富なアウトドアマンで国際的な旅行者だ</td><td>outdoorsman は「アウトドアに強い人」。</td></tr><tr><td class='chunk-en'>having solo hiked in Europe</td><td class='chunk-role'>分詞構文（付加説明）</td><td>ヨーロッパで単独ハイキングをしたことがあり</td><td>having + 過去分詞で先行経験を簡潔に述べる。</td></tr><tr><td class='chunk-en'>It’s not unusual for Weston to blow off steam going to the woods and just exploring</td><td class='chunk-role'>直接引用（母親の発言）</td><td>ウェストンが森へ行って探索してストレスを発散するのは珍しくない</td><td>blow off steam は「ストレスを発散する」。</td></tr><tr><td class='chunk-en'>That’s his happy place</td><td class='chunk-role'>直接引用（続き）</td><td>そこが彼の居心地のいい場所だ</td><td>happy place は心理的に安心できる場所の口語。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>According to his family<button type="button" class="speak-btn speak-btn--inline" data-text="According to his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>根拠の前置詞句</td><td>家族によると</td><td>発言・情報の出所を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Weston is an experienced outdoorsman and international traveler<button type="button" class="speak-btn speak-btn--inline" data-text="Weston is an experienced outdoorsman and international traveler" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>ウェストンは経験豊富なアウトドアマンで国際的な旅行者だ</td><td>outdoorsman は「アウトドアに強い人」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>having solo hiked in Europe<button type="button" class="speak-btn speak-btn--inline" data-text="having solo hiked in Europe" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（付加説明）</td><td>ヨーロッパで単独ハイキングをしたことがあり</td><td>having + 過去分詞で先行経験を簡潔に述べる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>It’s not unusual for Weston to blow off steam going to the woods and just exploring<button type="button" class="speak-btn speak-btn--inline" data-text="It’s not unusual for Weston to blow off steam going to the woods and just exploring" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接引用（母親の発言）</td><td>ウェストンが森へ行って探索してストレスを発散するのは珍しくない</td><td>blow off steam は「ストレスを発散する」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>That’s his happy place<button type="button" class="speak-btn speak-btn--inline" data-text="That’s his happy place" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>直接引用（続き）</td><td>そこが彼の居心地のいい場所だ</td><td>happy place は心理的に安心できる場所の口語。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">According to his family</div>
+              <div class="chunk-en speak-line">According to his family<button type="button" class="speak-btn speak-btn--inline" data-text="According to his family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">根拠の前置詞句 · 家族によると</div>
               <div>発言・情報の出所を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Weston is an experienced outdoorsman and international traveler</div>
+              <div class="chunk-en speak-line">Weston is an experienced outdoorsman and international traveler<button type="button" class="speak-btn speak-btn--inline" data-text="Weston is an experienced outdoorsman and international traveler" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · ウェストンは経験豊富なアウトドアマンで国際的な旅行者だ</div>
               <div>outdoorsman は「アウトドアに強い人」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">having solo hiked in Europe</div>
+              <div class="chunk-en speak-line">having solo hiked in Europe<button type="button" class="speak-btn speak-btn--inline" data-text="having solo hiked in Europe" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（付加説明） · ヨーロッパで単独ハイキングをしたことがあり</div>
               <div>having + 過去分詞で先行経験を簡潔に述べる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">It’s not unusual for Weston to blow off steam going to the woods and just exploring</div>
+              <div class="chunk-en speak-line">It’s not unusual for Weston to blow off steam going to the woods and just exploring<button type="button" class="speak-btn speak-btn--inline" data-text="It’s not unusual for Weston to blow off steam going to the woods and just exploring" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接引用（母親の発言） · ウェストンが森へ行って探索してストレスを発散するのは珍しくない</div>
               <div>blow off steam は「ストレスを発散する」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">That’s his happy place</div>
+              <div class="chunk-en speak-line">That’s his happy place<button type="button" class="speak-btn speak-btn--inline" data-text="That’s his happy place" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">直接引用（続き） · そこが彼の居心地のいい場所だ</div>
               <div>happy place は心理的に安心できる場所の口語。</div>
             </div>
@@ -567,8 +567,7 @@
     <article class="sentence-block" id="s012">
       <div class="sentence-head">
         <div class="sentence-num">12</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="As such, she remains optimistic that her son has simply gotten lost and can be safely rescued, but a powerful storm that passed through the area earlier this week means conditions were likely more dangerous than usual."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="As such, she remains optimistic that her son has simply gotten lost and can be safely rescued, but a powerful storm that passed through the area earlier this week means conditions were likely more dangerous than usual." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">As such, she remains optimistic that her son has simply gotten lost and can be safely rescued, but a powerful storm that passed through the area earlier this week means conditions were likely more dangerous than usual.</p>
       <p class="translation">そのため母親は、息子が単に道に迷っただけで無事に救助されるだろうと楽観的な姿勢を保っている。ただし今週初めにこの地域を通過した強い嵐のため、状況はいつもより危険だった可能性が高い。</p>
@@ -581,29 +580,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>As such, she remains optimistic</td><td class='chunk-role'>主節（前半）</td><td>そのため彼女は楽観的なままだ</td><td>remain + 形容詞＝状態を維持する。</td></tr><tr><td class='chunk-en'>that her son has simply gotten lost and can be safely rescued</td><td class='chunk-role'>that 節（内容）</td><td>息子が単に迷っただけで安全に救助できると</td><td>simply は「ただ～だけ」と状況を軽く見るニュアンス。</td></tr><tr><td class='chunk-en'>but a powerful storm that passed through the area earlier this week</td><td class='chunk-role'>対比の主語</td><td>しかし今週初めにこの地域を通過した強い嵐は</td><td>pass through は「通過する」。</td></tr><tr><td class='chunk-en'>means conditions were likely more dangerous than usual</td><td class='chunk-role'>述語節</td><td>状況はいつもより危険だった可能性が高いことを意味する</td><td>likely は推量の副詞。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>As such, she remains optimistic<button type="button" class="speak-btn speak-btn--inline" data-text="As such, she remains optimistic" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（前半）</td><td>そのため彼女は楽観的なままだ</td><td>remain + 形容詞＝状態を維持する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that her son has simply gotten lost and can be safely rescued<button type="button" class="speak-btn speak-btn--inline" data-text="that her son has simply gotten lost and can be safely rescued" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>that 節（内容）</td><td>息子が単に迷っただけで安全に救助できると</td><td>simply は「ただ～だけ」と状況を軽く見るニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but a powerful storm that passed through the area earlier this week<button type="button" class="speak-btn speak-btn--inline" data-text="but a powerful storm that passed through the area earlier this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>対比の主語</td><td>しかし今週初めにこの地域を通過した強い嵐は</td><td>pass through は「通過する」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>means conditions were likely more dangerous than usual<button type="button" class="speak-btn speak-btn--inline" data-text="means conditions were likely more dangerous than usual" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語節</td><td>状況はいつもより危険だった可能性が高いことを意味する</td><td>likely は推量の副詞。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">As such, she remains optimistic</div>
+              <div class="chunk-en speak-line">As such, she remains optimistic<button type="button" class="speak-btn speak-btn--inline" data-text="As such, she remains optimistic" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（前半） · そのため彼女は楽観的なままだ</div>
               <div>remain + 形容詞＝状態を維持する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that her son has simply gotten lost and can be safely rescued</div>
+              <div class="chunk-en speak-line">that her son has simply gotten lost and can be safely rescued<button type="button" class="speak-btn speak-btn--inline" data-text="that her son has simply gotten lost and can be safely rescued" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">that 節（内容） · 息子が単に迷っただけで安全に救助できると</div>
               <div>simply は「ただ～だけ」と状況を軽く見るニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but a powerful storm that passed through the area earlier this week</div>
+              <div class="chunk-en speak-line">but a powerful storm that passed through the area earlier this week<button type="button" class="speak-btn speak-btn--inline" data-text="but a powerful storm that passed through the area earlier this week" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">対比の主語 · しかし今週初めにこの地域を通過した強い嵐は</div>
               <div>pass through は「通過する」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">means conditions were likely more dangerous than usual</div>
+              <div class="chunk-en speak-line">means conditions were likely more dangerous than usual<button type="button" class="speak-btn speak-btn--inline" data-text="means conditions were likely more dangerous than usual" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語節 · 状況はいつもより危険だった可能性が高いことを意味する</div>
               <div>likely は推量の副詞。</div>
             </div>
@@ -616,8 +615,7 @@
     <article class="sentence-block" id="s013">
       <div class="sentence-head">
         <div class="sentence-num">13</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japanese online reactions to the family’s plight have included:"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japanese online reactions to the family’s plight have included:" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japanese online reactions to the family’s plight have included:</p>
       <p class="translation">この家族の窮状に対する日本のネット上の反応には、次のようなものがある。</p>
@@ -630,17 +628,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japanese online reactions to the family’s plight</td><td class='chunk-role'>主語</td><td>家族の窮状への日本のネット上の反応は</td><td>plight は困った状況を表すやや硬い語。</td></tr><tr><td class='chunk-en'>have included</td><td class='chunk-role'>述語</td><td>次を含んできた</td><td>コロンで具体例が続く導入句。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japanese online reactions to the family’s plight<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese online reactions to the family’s plight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>家族の窮状への日本のネット上の反応は</td><td>plight は困った状況を表すやや硬い語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>have included<button type="button" class="speak-btn speak-btn--inline" data-text="have included" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>次を含んできた</td><td>コロンで具体例が続く導入句。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japanese online reactions to the family’s plight</div>
+              <div class="chunk-en speak-line">Japanese online reactions to the family’s plight<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese online reactions to the family’s plight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 家族の窮状への日本のネット上の反応は</div>
               <div>plight は困った状況を表すやや硬い語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">have included</div>
+              <div class="chunk-en speak-line">have included<button type="button" class="speak-btn speak-btn--inline" data-text="have included" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 次を含んできた</div>
               <div>コロンで具体例が続く導入句。</div>
             </div>
@@ -653,8 +651,7 @@
     <article class="sentence-block" id="s014">
       <div class="sentence-head">
         <div class="sentence-num">14</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“Please let him have been taken in by some kind countryside family that’s been feeding him good food all this time.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“Please let him have been taken in by some kind countryside family that’s been feeding him good food all this time.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“Please let him have been taken in by some kind countryside family that’s been feeding him good food all this time.”</p>
       <p class="translation">「どこかの田舎のご家族に拾ってもらって、ずっとおいしいものを食べさせてもらっていることになっていてほしい。」</p>
@@ -667,23 +664,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Please let him have been taken in</td><td class='chunk-role'>願望の主節</td><td>彼が拾われていることになっていてほしい</td><td>ネットの祈願的・半ユーモラスな言い方。</td></tr><tr><td class='chunk-en'>by some kind countryside family</td><td class='chunk-role'>行為者</td><td>どこかの田舎の家族に</td><td>some kind of の口語的省略 some kind。</td></tr><tr><td class='chunk-en'>that’s been feeding him good food all this time</td><td class='chunk-role'>関係代名詞節</td><td>ずっと彼においしい食事を与えてきた</td><td>all this time は「ずっとこの間」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Please let him have been taken in<button type="button" class="speak-btn speak-btn--inline" data-text="Please let him have been taken in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>願望の主節</td><td>彼が拾われていることになっていてほしい</td><td>ネットの祈願的・半ユーモラスな言い方。</td></tr><tr><td class='chunk-en'><span class='speak-line'>by some kind countryside family<button type="button" class="speak-btn speak-btn--inline" data-text="by some kind countryside family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>行為者</td><td>どこかの田舎の家族に</td><td>some kind of の口語的省略 some kind。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that’s been feeding him good food all this time<button type="button" class="speak-btn speak-btn--inline" data-text="that’s been feeding him good food all this time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係代名詞節</td><td>ずっと彼においしい食事を与えてきた</td><td>all this time は「ずっとこの間」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Please let him have been taken in</div>
+              <div class="chunk-en speak-line">Please let him have been taken in<button type="button" class="speak-btn speak-btn--inline" data-text="Please let him have been taken in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">願望の主節 · 彼が拾われていることになっていてほしい</div>
               <div>ネットの祈願的・半ユーモラスな言い方。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">by some kind countryside family</div>
+              <div class="chunk-en speak-line">by some kind countryside family<button type="button" class="speak-btn speak-btn--inline" data-text="by some kind countryside family" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">行為者 · どこかの田舎の家族に</div>
               <div>some kind of の口語的省略 some kind。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that’s been feeding him good food all this time</div>
+              <div class="chunk-en speak-line">that’s been feeding him good food all this time<button type="button" class="speak-btn speak-btn--inline" data-text="that’s been feeding him good food all this time" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係代名詞節 · ずっと彼においしい食事を与えてきた</div>
               <div>all this time は「ずっとこの間」。</div>
             </div>
@@ -696,8 +693,7 @@
     <article class="sentence-block" id="s015">
       <div class="sentence-head">
         <div class="sentence-num">15</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“I work as a delivery driver, so I’ll be sure to keep an eye out for him.”"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“I work as a delivery driver, so I’ll be sure to keep an eye out for him.”" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“I work as a delivery driver, so I’ll be sure to keep an eye out for him.”</p>
       <p class="translation">「配達ドライバーをしているので、彼を見かけたら必ず気にかけて見ます。」</p>
@@ -710,17 +706,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>I work as a delivery driver</td><td class='chunk-role'>主節（理由）</td><td>私は配達ドライバーとして働いている</td><td>work as + 職種。</td></tr><tr><td class='chunk-en'>so I’ll be sure to keep an eye out for him</td><td class='chunk-role'>結果節</td><td>だから必ず彼を見張っておく</td><td>keep an eye out for は「～を探して注意する」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>I work as a delivery driver<button type="button" class="speak-btn speak-btn--inline" data-text="I work as a delivery driver" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（理由）</td><td>私は配達ドライバーとして働いている</td><td>work as + 職種。</td></tr><tr><td class='chunk-en'><span class='speak-line'>so I’ll be sure to keep an eye out for him<button type="button" class="speak-btn speak-btn--inline" data-text="so I’ll be sure to keep an eye out for him" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>結果節</td><td>だから必ず彼を見張っておく</td><td>keep an eye out for は「～を探して注意する」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">I work as a delivery driver</div>
+              <div class="chunk-en speak-line">I work as a delivery driver<button type="button" class="speak-btn speak-btn--inline" data-text="I work as a delivery driver" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（理由） · 私は配達ドライバーとして働いている</div>
               <div>work as + 職種。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">so I’ll be sure to keep an eye out for him</div>
+              <div class="chunk-en speak-line">so I’ll be sure to keep an eye out for him<button type="button" class="speak-btn speak-btn--inline" data-text="so I’ll be sure to keep an eye out for him" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">結果節 · だから必ず彼を見張っておく</div>
               <div>keep an eye out for は「～を探して注意する」。</div>
             </div>
@@ -733,8 +729,7 @@
     <article class="sentence-block" id="s016">
       <div class="sentence-head">
         <div class="sentence-num">16</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="“Hoping he makes it back with a simply ‘Sorry!"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="“Hoping he makes it back with a simply ‘Sorry!" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">“Hoping he makes it back with a simply ‘Sorry!</p>
       <p class="translation">「ただ『ごめん、迷っちゃった』と言って無事に戻ってきてくれることを願っています。」（原文は途中で切れている）</p>
@@ -747,17 +742,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Hoping he makes it back</td><td class='chunk-role'>分詞構文（願望・省略）</td><td>彼が無事戻ってくることを願って</td><td>I&#x27;m hoping の省略形として読む。</td></tr><tr><td class='chunk-en'>with a simply ‘Sorry!</td><td class='chunk-role'>付帯状況</td><td>ただ『ごめん』と言って</td><td>原文は引用が未完。完全形は with a simple &#x27;Sorry! Got lost.&#x27; と推定される。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Hoping he makes it back<button type="button" class="speak-btn speak-btn--inline" data-text="Hoping he makes it back" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>分詞構文（願望・省略）</td><td>彼が無事戻ってくることを願って</td><td>I&#x27;m hoping の省略形として読む。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with a simply ‘Sorry!<button type="button" class="speak-btn speak-btn--inline" data-text="with a simply ‘Sorry!" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付帯状況</td><td>ただ『ごめん』と言って</td><td>原文は引用が未完。完全形は with a simple &#x27;Sorry! Got lost.&#x27; と推定される。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Hoping he makes it back</div>
+              <div class="chunk-en speak-line">Hoping he makes it back<button type="button" class="speak-btn speak-btn--inline" data-text="Hoping he makes it back" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">分詞構文（願望・省略） · 彼が無事戻ってくることを願って</div>
               <div>I&#x27;m hoping の省略形として読む。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with a simply ‘Sorry!</div>
+              <div class="chunk-en speak-line">with a simply ‘Sorry!<button type="button" class="speak-btn speak-btn--inline" data-text="with a simply ‘Sorry!" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付帯状況 · ただ『ごめん』と言って</div>
               <div>原文は引用が未完。完全形は with a simple &#x27;Sorry! Got lost.&#x27; と推定される。</div>
             </div>
@@ -770,8 +765,7 @@
     <article class="sentence-block" id="s017">
       <div class="sentence-head">
         <div class="sentence-num">17</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="At the time that he went missing, Weston is believed to have had around 10,000 yen in cash on him, and none of his credit cards have been used since he was last seen."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="At the time that he went missing, Weston is believed to have had around 10,000 yen in cash on him, and none of his credit cards have been used since he was last seen." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">At the time that he went missing, Weston is believed to have had around 10,000 yen in cash on him, and none of his credit cards have been used since he was last seen.</p>
       <p class="translation">行方不明になった当時、ウェストンは現金1万円ほどを持っていたとみられ、最後に目撃されて以降、クレジットカードの利用は一度もない。</p>
@@ -784,29 +778,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>At the time that he went missing</td><td class='chunk-role'>時を表す副詞節</td><td>彼が行方不明になった当時</td><td>at the time that = when の硬い言い換え。</td></tr><tr><td class='chunk-en'>Weston is believed to have had around 10,000 yen in cash on him</td><td class='chunk-role'>主節1</td><td>ウェストンは現金1万円ほどを持っていたと考えられる</td><td>be believed to have + 過去分詞は過去の推定。</td></tr><tr><td class='chunk-en'>and none of his credit cards have been used</td><td class='chunk-role'>主節2</td><td>そして彼のクレカは一切使われていない</td><td>none of + 複数名詞。</td></tr><tr><td class='chunk-en'>since he was last seen</td><td class='chunk-role'>時を表す副詞節</td><td>最後に目撃されて以来</td><td>捜査報道で犯行・事故の有無を示す手がかりとしてよく出る。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>At the time that he went missing<button type="button" class="speak-btn speak-btn--inline" data-text="At the time that he went missing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>彼が行方不明になった当時</td><td>at the time that = when の硬い言い換え。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Weston is believed to have had around 10,000 yen in cash on him<button type="button" class="speak-btn speak-btn--inline" data-text="Weston is believed to have had around 10,000 yen in cash on him" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節1</td><td>ウェストンは現金1万円ほどを持っていたと考えられる</td><td>be believed to have + 過去分詞は過去の推定。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and none of his credit cards have been used<button type="button" class="speak-btn speak-btn--inline" data-text="and none of his credit cards have been used" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節2</td><td>そして彼のクレカは一切使われていない</td><td>none of + 複数名詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>since he was last seen<button type="button" class="speak-btn speak-btn--inline" data-text="since he was last seen" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞節</td><td>最後に目撃されて以来</td><td>捜査報道で犯行・事故の有無を示す手がかりとしてよく出る。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">At the time that he went missing</div>
+              <div class="chunk-en speak-line">At the time that he went missing<button type="button" class="speak-btn speak-btn--inline" data-text="At the time that he went missing" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 彼が行方不明になった当時</div>
               <div>at the time that = when の硬い言い換え。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Weston is believed to have had around 10,000 yen in cash on him</div>
+              <div class="chunk-en speak-line">Weston is believed to have had around 10,000 yen in cash on him<button type="button" class="speak-btn speak-btn--inline" data-text="Weston is believed to have had around 10,000 yen in cash on him" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節1 · ウェストンは現金1万円ほどを持っていたと考えられる</div>
               <div>be believed to have + 過去分詞は過去の推定。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and none of his credit cards have been used</div>
+              <div class="chunk-en speak-line">and none of his credit cards have been used<button type="button" class="speak-btn speak-btn--inline" data-text="and none of his credit cards have been used" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節2 · そして彼のクレカは一切使われていない</div>
               <div>none of + 複数名詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">since he was last seen</div>
+              <div class="chunk-en speak-line">since he was last seen<button type="button" class="speak-btn speak-btn--inline" data-text="since he was last seen" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞節 · 最後に目撃されて以来</div>
               <div>捜査報道で犯行・事故の有無を示す手がかりとしてよく出る。</div>
             </div>
@@ -819,8 +813,7 @@
     <article class="sentence-block" id="s018">
       <div class="sentence-head">
         <div class="sentence-num">18</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="With no signs of foul play, the police are treating the situation as a missing person case, and have deployed helicopters and police dogs in the search, and Japanese volunteer groups have been pitching in as well, but so far, no sign of him has been seen."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="With no signs of foul play, the police are treating the situation as a missing person case, and have deployed helicopters and police dogs in the search, and Japanese volunteer groups have been pitching in as well, but so far, no sign of him has been seen." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">With no signs of foul play, the police are treating the situation as a missing person case, and have deployed helicopters and police dogs in the search, and Japanese volunteer groups have been pitching in as well, but so far, no sign of him has been seen.</p>
       <p class="translation">犯行の形跡はないため、警察はこの事案を行方不明者事件として扱い、捜索にヘリコプターと警察犬を投入している。日本のボランティア団体も協力しているが、今のところ彼の痕跡は見つかっていない。</p>
@@ -833,35 +826,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>With no signs of foul play</td><td class='chunk-role'>理由の前置詞句</td><td>犯行の形跡がないまま</td><td>foul play は「他害・事件性」。</td></tr><tr><td class='chunk-en'>the police are treating the situation as a missing person case</td><td class='chunk-role'>主節1</td><td>警察は状況を行方不明者案件として扱っている</td><td>treat as は公式な位置づけの表現。</td></tr><tr><td class='chunk-en'>and have deployed helicopters and police dogs in the search</td><td class='chunk-role'>主節2</td><td>そして捜索にヘリと警察犬を投入した</td><td>deploy は資源投入の硬い動詞。</td></tr><tr><td class='chunk-en'>Japanese volunteer groups have been pitching in as well</td><td class='chunk-role'>主節3</td><td>日本のボランティア団体も協力している</td><td>pitch in は口語的だが報道でも使われる。</td></tr><tr><td class='chunk-en'>but so far, no sign of him has been seen</td><td class='chunk-role'>対比の主節</td><td>しかし今のところ彼の形跡は見つかっていない</td><td>so far は進行中の状況報告。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>With no signs of foul play<button type="button" class="speak-btn speak-btn--inline" data-text="With no signs of foul play" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由の前置詞句</td><td>犯行の形跡がないまま</td><td>foul play は「他害・事件性」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the police are treating the situation as a missing person case<button type="button" class="speak-btn speak-btn--inline" data-text="the police are treating the situation as a missing person case" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節1</td><td>警察は状況を行方不明者案件として扱っている</td><td>treat as は公式な位置づけの表現。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and have deployed helicopters and police dogs in the search<button type="button" class="speak-btn speak-btn--inline" data-text="and have deployed helicopters and police dogs in the search" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節2</td><td>そして捜索にヘリと警察犬を投入した</td><td>deploy は資源投入の硬い動詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Japanese volunteer groups have been pitching in as well<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese volunteer groups have been pitching in as well" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節3</td><td>日本のボランティア団体も協力している</td><td>pitch in は口語的だが報道でも使われる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>but so far, no sign of him has been seen<button type="button" class="speak-btn speak-btn--inline" data-text="but so far, no sign of him has been seen" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>対比の主節</td><td>しかし今のところ彼の形跡は見つかっていない</td><td>so far は進行中の状況報告。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">With no signs of foul play</div>
+              <div class="chunk-en speak-line">With no signs of foul play<button type="button" class="speak-btn speak-btn--inline" data-text="With no signs of foul play" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由の前置詞句 · 犯行の形跡がないまま</div>
               <div>foul play は「他害・事件性」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the police are treating the situation as a missing person case</div>
+              <div class="chunk-en speak-line">the police are treating the situation as a missing person case<button type="button" class="speak-btn speak-btn--inline" data-text="the police are treating the situation as a missing person case" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節1 · 警察は状況を行方不明者案件として扱っている</div>
               <div>treat as は公式な位置づけの表現。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and have deployed helicopters and police dogs in the search</div>
+              <div class="chunk-en speak-line">and have deployed helicopters and police dogs in the search<button type="button" class="speak-btn speak-btn--inline" data-text="and have deployed helicopters and police dogs in the search" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節2 · そして捜索にヘリと警察犬を投入した</div>
               <div>deploy は資源投入の硬い動詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Japanese volunteer groups have been pitching in as well</div>
+              <div class="chunk-en speak-line">Japanese volunteer groups have been pitching in as well<button type="button" class="speak-btn speak-btn--inline" data-text="Japanese volunteer groups have been pitching in as well" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節3 · 日本のボランティア団体も協力している</div>
               <div>pitch in は口語的だが報道でも使われる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">but so far, no sign of him has been seen</div>
+              <div class="chunk-en speak-line">but so far, no sign of him has been seen<button type="button" class="speak-btn speak-btn--inline" data-text="but so far, no sign of him has been seen" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">対比の主節 · しかし今のところ彼の形跡は見つかっていない</div>
               <div>so far は進行中の状況報告。</div>
             </div>
@@ -874,8 +867,7 @@
     <article class="sentence-block" id="s019">
       <div class="sentence-head">
         <div class="sentence-num">19</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Source: Teleasa News, CNN, CBS, YouTube/ANNnewsCH"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Source: Teleasa News, CNN, CBS, YouTube/ANNnewsCH" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Source: Teleasa News, CNN, CBS, YouTube/ANNnewsCH</p>
       <p class="translation">出典：Teleasa News、CNN、CBS、YouTube/ANNnewsCH</p>
@@ -888,17 +880,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Source:</td><td class='chunk-role'>ラベル</td><td>出典：</td><td>記事末尾の引用元表示。</td></tr><tr><td class='chunk-en'>Teleasa News, CNN, CBS, YouTube/ANNnewsCH</td><td class='chunk-role'>情報源の列挙</td><td>テレ朝ニュース、CNN、CBS、YouTube/ANNnewsCH</td><td>複数メディアの統合報道を示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Source:<button type="button" class="speak-btn speak-btn--inline" data-text="Source:" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>ラベル</td><td>出典：</td><td>記事末尾の引用元表示。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Teleasa News, CNN, CBS, YouTube/ANNnewsCH<button type="button" class="speak-btn speak-btn--inline" data-text="Teleasa News, CNN, CBS, YouTube/ANNnewsCH" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>情報源の列挙</td><td>テレ朝ニュース、CNN、CBS、YouTube/ANNnewsCH</td><td>複数メディアの統合報道を示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Source:</div>
+              <div class="chunk-en speak-line">Source:<button type="button" class="speak-btn speak-btn--inline" data-text="Source:" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">ラベル · 出典：</div>
               <div>記事末尾の引用元表示。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Teleasa News, CNN, CBS, YouTube/ANNnewsCH</div>
+              <div class="chunk-en speak-line">Teleasa News, CNN, CBS, YouTube/ANNnewsCH<button type="button" class="speak-btn speak-btn--inline" data-text="Teleasa News, CNN, CBS, YouTube/ANNnewsCH" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">情報源の列挙 · テレ朝ニュース、CNN、CBS、YouTube/ANNnewsCH</div>
               <div>複数メディアの統合報道を示す。</div>
             </div>
@@ -911,8 +903,7 @@
     <article class="sentence-block" id="s020">
       <div class="sentence-head">
         <div class="sentence-num">20</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="-- Body of missing foreign tourist in Japan found floating off coast of town he was last seen in"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="-- Body of missing foreign tourist in Japan found floating off coast of town he was last seen in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">-- Body of missing foreign tourist in Japan found floating off coast of town he was last seen in</p>
       <p class="translation">― 日本で行方不明だった外国人観光客の遺体が、最後に目撃された町の沖で浮かんでいるのが見つかる</p>
@@ -925,17 +916,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Body of missing foreign tourist in Japan</td><td class='chunk-role'>主語</td><td>日本で行方不明だった外国人観光客の遺体が</td><td>body はここでは「遺体」。</td></tr><tr><td class='chunk-en'>found floating off coast of town he was last seen in</td><td class='chunk-role'>述語（受動）</td><td>最後に目撃された町の沖で浮かんでいるのが見つかった</td><td>関連リンク見出しの圧縮構文。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Body of missing foreign tourist in Japan<button type="button" class="speak-btn speak-btn--inline" data-text="Body of missing foreign tourist in Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本で行方不明だった外国人観光客の遺体が</td><td>body はここでは「遺体」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>found floating off coast of town he was last seen in<button type="button" class="speak-btn speak-btn--inline" data-text="found floating off coast of town he was last seen in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（受動）</td><td>最後に目撃された町の沖で浮かんでいるのが見つかった</td><td>関連リンク見出しの圧縮構文。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Body of missing foreign tourist in Japan</div>
+              <div class="chunk-en speak-line">Body of missing foreign tourist in Japan<button type="button" class="speak-btn speak-btn--inline" data-text="Body of missing foreign tourist in Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本で行方不明だった外国人観光客の遺体が</div>
               <div>body はここでは「遺体」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">found floating off coast of town he was last seen in</div>
+              <div class="chunk-en speak-line">found floating off coast of town he was last seen in<button type="button" class="speak-btn speak-btn--inline" data-text="found floating off coast of town he was last seen in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（受動） · 最後に目撃された町の沖で浮かんでいるのが見つかった</div>
               <div>関連リンク見出しの圧縮構文。</div>
             </div>
@@ -948,8 +939,7 @@
     <article class="sentence-block" id="s021">
       <div class="sentence-head">
         <div class="sentence-num">21</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="-- Kyoto family’s cat, missing for half a year, returns home after Osaka earthquake"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="-- Kyoto family’s cat, missing for half a year, returns home after Osaka earthquake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">-- Kyoto family’s cat, missing for half a year, returns home after Osaka earthquake</p>
       <p class="translation">― 半年間行方不明だった京都の一家の猫が、大阪地震の後に帰宅</p>
@@ -962,17 +952,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Kyoto family’s cat, missing for half a year</td><td class='chunk-role'>主語</td><td>半年間行方不明だった京都の家族の猫が</td><td>カンマ挿入句で背景情報を追加。</td></tr><tr><td class='chunk-en'>returns home after Osaka earthquake</td><td class='chunk-role'>述語</td><td>大阪地震の後に家に戻った</td><td>returns home は動物の帰宅記事でよく使う。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Kyoto family’s cat, missing for half a year<button type="button" class="speak-btn speak-btn--inline" data-text="Kyoto family’s cat, missing for half a year" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>半年間行方不明だった京都の家族の猫が</td><td>カンマ挿入句で背景情報を追加。</td></tr><tr><td class='chunk-en'><span class='speak-line'>returns home after Osaka earthquake<button type="button" class="speak-btn speak-btn--inline" data-text="returns home after Osaka earthquake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>大阪地震の後に家に戻った</td><td>returns home は動物の帰宅記事でよく使う。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Kyoto family’s cat, missing for half a year</div>
+              <div class="chunk-en speak-line">Kyoto family’s cat, missing for half a year<button type="button" class="speak-btn speak-btn--inline" data-text="Kyoto family’s cat, missing for half a year" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 半年間行方不明だった京都の家族の猫が</div>
               <div>カンマ挿入句で背景情報を追加。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">returns home after Osaka earthquake</div>
+              <div class="chunk-en speak-line">returns home after Osaka earthquake<button type="button" class="speak-btn speak-btn--inline" data-text="returns home after Osaka earthquake" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 大阪地震の後に家に戻った</div>
               <div>returns home は動物の帰宅記事でよく使う。</div>
             </div>
@@ -985,8 +975,7 @@
     <article class="sentence-block" id="s022">
       <div class="sentence-head">
         <div class="sentence-num">22</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="-- Names of 10 Kyoto Animation arson victims released, family and friends offer words of remembrance"
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="-- Names of 10 Kyoto Animation arson victims released, family and friends offer words of remembrance" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">-- Names of 10 Kyoto Animation arson victims released, family and friends offer words of remembrance</p>
       <p class="translation">― 京都アニメーション放火事件の犠牲者10人の名前が公開され、家族や友人が追悼の言葉を捧げる</p>
@@ -999,17 +988,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Names of 10 Kyoto Animation arson victims released</td><td class='chunk-role'>主節1（受動）</td><td>京都アニメ放火の犠牲者10人の名前が公開された</td><td>見出しでは be 動詞が省略されることが多い。</td></tr><tr><td class='chunk-en'>family and friends offer words of remembrance</td><td class='chunk-role'>主節2</td><td>家族と友人が追悼の言葉を捧げる</td><td>offer words of ... は公式・報道的な言い回し。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Names of 10 Kyoto Animation arson victims released<button type="button" class="speak-btn speak-btn--inline" data-text="Names of 10 Kyoto Animation arson victims released" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節1（受動）</td><td>京都アニメ放火の犠牲者10人の名前が公開された</td><td>見出しでは be 動詞が省略されることが多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>family and friends offer words of remembrance<button type="button" class="speak-btn speak-btn--inline" data-text="family and friends offer words of remembrance" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節2</td><td>家族と友人が追悼の言葉を捧げる</td><td>offer words of ... は公式・報道的な言い回し。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Names of 10 Kyoto Animation arson victims released</div>
+              <div class="chunk-en speak-line">Names of 10 Kyoto Animation arson victims released<button type="button" class="speak-btn speak-btn--inline" data-text="Names of 10 Kyoto Animation arson victims released" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節1（受動） · 京都アニメ放火の犠牲者10人の名前が公開された</div>
               <div>見出しでは be 動詞が省略されることが多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">family and friends offer words of remembrance</div>
+              <div class="chunk-en speak-line">family and friends offer words of remembrance<button type="button" class="speak-btn speak-btn--inline" data-text="family and friends offer words of remembrance" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節2 · 家族と友人が追悼の言葉を捧げる</div>
               <div>offer words of ... は公式・報道的な言い回し。</div>
             </div>
@@ -1022,134 +1011,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>go missing</h3>
-                <button type="button" class="speak-btn" data-text="go missing"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="go missing" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɡoʊ ˈmɪsɪŋ/</div>
               <p>行方不明になる</p>
-              <p class="example-en"><em>who went missing in Kyoto</em></p>
+              <p class="example-en speak-line"><em>who went missing in Kyoto</em><button type="button" class="speak-btn speak-btn--inline" data-text="who went missing in Kyoto" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">京都で行方不明になった</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>opt to</h3>
-                <button type="button" class="speak-btn" data-text="opt to"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="opt to" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɒpt tuː/</div>
               <p>～することを選ぶ</p>
-              <p class="example-en"><em>instead opting to sightsee on his own</em></p>
+              <p class="example-en speak-line"><em>instead opting to sightsee on his own</em><button type="button" class="speak-btn speak-btn--inline" data-text="instead opting to sightsee on his own" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">代わりに一人で観光することを選び</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>last known location</h3>
-                <button type="button" class="speak-btn" data-text="last known location"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="last known location" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/læst nəʊn ˌloʊˈkeɪʃn/</div>
               <p>最後に確認された場所</p>
-              <p class="example-en"><em>His last known location was on a path</em></p>
+              <p class="example-en speak-line"><em>His last known location was on a path</em><button type="button" class="speak-btn speak-btn--inline" data-text="His last known location was on a path" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">彼が最後に確認された場所は道の上だった</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>blow off steam</h3>
-                <button type="button" class="speak-btn" data-text="blow off steam"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="blow off steam" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/bloʊ ɒf stiːm/</div>
               <p>ストレスを発散する</p>
-              <p class="example-en"><em>Weston to blow off steam going to the woods</em></p>
+              <p class="example-en speak-line"><em>Weston to blow off steam going to the woods</em><button type="button" class="speak-btn speak-btn--inline" data-text="Weston to blow off steam going to the woods" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ウェストンが森に行ってストレスを発散する</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>foul play</h3>
-                <button type="button" class="speak-btn" data-text="foul play"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="foul play" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/faʊl pleɪ/</div>
               <p>犯行・他害の疑い</p>
-              <p class="example-en"><em>With no signs of foul play</em></p>
+              <p class="example-en speak-line"><em>With no signs of foul play</em><button type="button" class="speak-btn speak-btn--inline" data-text="With no signs of foul play" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">犯行の形跡はないが</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>pitch in</h3>
-                <button type="button" class="speak-btn" data-text="pitch in"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="pitch in" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/pɪtʃ ɪn/</div>
               <p>協力する、手を貸す</p>
-              <p class="example-en"><em>volunteer groups have been pitching in</em></p>
+              <p class="example-en speak-line"><em>volunteer groups have been pitching in</em><button type="button" class="speak-btn speak-btn--inline" data-text="volunteer groups have been pitching in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">ボランティア団体が協力している</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>keep an eye out for</h3>
-                <button type="button" class="speak-btn" data-text="keep an eye out for"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="keep an eye out for" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/kiːp ən aɪ aʊt fɔːr/</div>
               <p>～を見かけないか注意する</p>
-              <p class="example-en"><em>I&#x27;ll be sure to keep an eye out for him</em></p>
+              <p class="example-en speak-line"><em>I&#x27;ll be sure to keep an eye out for him</em><button type="button" class="speak-btn speak-btn--inline" data-text="I&#x27;ll be sure to keep an eye out for him" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">彼を見かけたら必ず気にかけます</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>plight</h3>
-                <button type="button" class="speak-btn" data-text="plight"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="plight" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/plaɪt/</div>
               <p>窮状、苦しい状況</p>
-              <p class="example-en"><em>reactions to the family&#x27;s plight</em></p>
+              <p class="example-en speak-line"><em>reactions to the family&#x27;s plight</em><button type="button" class="speak-btn speak-btn--inline" data-text="reactions to the family&#x27;s plight" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">家族の窮状への反応</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Reduced relative clauses with participles</h3>
-              <p>Use -ing or -ed participles after a noun to replace a full relative clause (who/which/that ...).</p>
-              <p class="example-en"><em>He can be seen on security cameras leaving Yamashina Station, wearing a gray T-shirt.</em></p>
+              <div class="grammar-head">
+                <h3>Reduced relative clauses with participles</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Reduced relative clauses with participles" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use -ing or -ed participles after a noun to replace a full relative clause (who/which/that ...).<button type="button" class="speak-btn speak-btn--inline" data-text="Use -ing or -ed participles after a noun to replace a full relative clause (who/which/that ...)." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>He can be seen on security cameras leaving Yamashina Station, wearing a gray T-shirt.</em><button type="button" class="speak-btn speak-btn--inline" data-text="He can be seen on security cameras leaving Yamashina Station, wearing a gray T-shirt." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>関係代名詞節を分詞に短縮し、動作や状態を名詞に付加する用法。ニュースでは人物の行動・服装を一文に圧縮するために頻出。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Passive reporting structures (is believed / is reported / can be seen)</h3>
-              <p>Use passive + reporting verb to present information cautiously or objectively.</p>
-              <p class="example-en"><em>Weston is believed to have had around 10,000 yen in cash on him.</em></p>
+              <div class="grammar-head">
+                <h3>Passive reporting structures (is believed / is reported / can be seen)</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Passive reporting structures (is believed / is reported / can be seen)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use passive + reporting verb to present information cautiously or objectively.<button type="button" class="speak-btn speak-btn--inline" data-text="Use passive + reporting verb to present information cautiously or objectively." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Weston is believed to have had around 10,000 yen in cash on him.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Weston is believed to have had around 10,000 yen in cash on him." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「～とみられる」「～と報じられている」のように、情報源や確実性をやわらげる受動の報道構文。捜査・事件記事で非常に多い。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>Present perfect with since / for / in</h3>
-              <p>Use present perfect to connect a past event to the present, especially with since, for, or in + time period.</p>
-              <p class="example-en"><em>He hasn&#x27;t been seen in a week.</em></p>
+              <div class="grammar-head">
+                <h3>Present perfect with since / for / in</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Present perfect with since / for / in" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use present perfect to connect a past event to the present, especially with since, for, or in + time period.<button type="button" class="speak-btn speak-btn--inline" data-text="Use present perfect to connect a past event to the present, especially with since, for, or in + time period." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>He hasn&#x27;t been seen in a week.</em><button type="button" class="speak-btn speak-btn--inline" data-text="He hasn&#x27;t been seen in a week." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>過去から現在へのつながりを表す現在完了。since（起点）、for（期間）、in a week（ここ1週間）など時間表現との組み合わせが重要。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>With + noun phrase for background reason</h3>
-              <p>With + noun phrase can introduce a reason or circumstance at the start of a sentence.</p>
-              <p class="example-en"><em>With no signs of foul play, the police are treating the situation as a missing person case.</em></p>
+              <div class="grammar-head">
+                <h3>With + noun phrase for background reason</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="With + noun phrase for background reason" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">With + noun phrase can introduce a reason or circumstance at the start of a sentence.<button type="button" class="speak-btn speak-btn--inline" data-text="With + noun phrase can introduce a reason or circumstance at the start of a sentence." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>With no signs of foul play, the police are treating the situation as a missing person case.</em><button type="button" class="speak-btn speak-btn--inline" data-text="With no signs of foul play, the police are treating the situation as a missing person case." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>文頭の With 句で「～という状況で／～なので」という背景理由を示す。Because より簡潔で、報道文の導入に向く。</p>
             </div>
             </div>
@@ -1158,64 +1151,65 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Negative Nancy
                 · score 10</div>
-              <p class="comment-raw">I&#x27;m not going to speculate. Hope all is well.</p>
+              <p class="comment-raw speak-line">I&#x27;m not going to speculate. Hope all is well.<button type="button" class="speak-btn" data-text="I&#x27;m not going to speculate. Hope all is well." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">憶測はしない。無事であることを願う。</p>
               <ul class='comment-notes'><li>2文目 &quot;Hope all is well.&quot; は主語 &quot;I&quot; が省略された願望表現（口語・書き込みでよくある）。</li><li>&quot;speculate&quot; は根拠のない推測をすること。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> I&#x27;m not going to speculate. I hope all is well.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> I&#x27;m not going to speculate. I hope all is well.<button type="button" class="speak-btn speak-btn--inline" data-text="I&#x27;m not going to speculate. I hope all is well." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · IVO
                 · score 10</div>
-              <p class="comment-raw">anything is possible. lets hope guy will be found alive and well.</p>
+              <p class="comment-raw speak-line">anything is possible. lets hope guy will be found alive and well.<button type="button" class="speak-btn" data-text="anything is possible. lets hope guy will be found alive and well." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">何が起きてもおかしくない。彼が無事に見つかることを願おう。</p>
               <ul class='comment-notes'><li>文頭が小文字、&quot;lets&quot; は &quot;let&#x27;s&quot; の省略形（アポストロフィなしのカジュアル表記）。</li><li>&quot;guy&quot; の前の冠詞 &quot;the/a&quot; が省略されている口語用法。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Anything is possible. Let&#x27;s hope the guy will be found alive and well.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Anything is possible. Let&#x27;s hope the guy will be found alive and well.<button type="button" class="speak-btn speak-btn--inline" data-text="Anything is possible. Let&#x27;s hope the guy will be found alive and well." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#3 · Hideyoshi.N
                 · score 7</div>
-              <p class="comment-raw">hope he is fine</p>
+              <p class="comment-raw speak-line">hope he is fine<button type="button" class="speak-btn" data-text="hope he is fine" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">彼が大丈夫だといいな。</p>
               <ul class='comment-notes'><li>主語 &quot;I&quot; を省略した短い願いの文。SNSコメントで非常に一般的。</li><li>句読点なしの一行コメント。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> I hope he is fine.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> I hope he is fine.<button type="button" class="speak-btn speak-btn--inline" data-text="I hope he is fine." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · OssanAmerica
                 · score 7</div>
-              <p class="comment-raw">nickybuttToday 03:55 pm JST He is also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store?? As far as I am aware, neither the police nor Japanese media have publically disclosed what items he purchased.</p>
+              <p class="comment-raw speak-line">nickybuttToday 03:55 pm JST He is also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store?? As far as I am aware, neither the police nor Japanese media have publically disclosed what items he purchased.<button type="button" class="speak-btn" data-text="nickybuttToday 03:55 pm JST He is also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store?? As far as I am aware, neither the police nor Japanese media have publically disclosed what items he purchased." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">nickybuttToday 03:55 pm JST 彼は行方不明になる前に、ホームセンターに行って「心配な品物」をいくつか買ったそうだ。今回の件は良い予感がしない。「心配な品物」とは一体何を買ったのか？？ 私の知る限り、警察も日本のメディアも、彼が購入した品物について公表していない。</p>
               <ul class='comment-notes'><li>&quot;He is also went&quot; は文法的に誤り（正しくは &quot;He also went&quot;）。引用・転記ミスの可能性。</li><li>&quot;publically&quot; は &quot;publicly&quot; のスペルミス。&quot;??&quot; は強調の二重疑問符。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> nickybuttToday 03:55 pm JST He also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store? As far as I am aware, neither the police nor Japanese media have publicly disclosed what items he purchased.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> nickybuttToday 03:55 pm JST He also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store? As far as I am aware, neither the police nor Japanese media have publicly disclosed what items he purchased.<button type="button" class="speak-btn speak-btn--inline" data-text="nickybuttToday 03:55 pm JST He also went to a hardware store and bought some &quot;worrying items&quot; before he went missing. I don&#x27;t have a good feeling about this one. What &quot;worrying items&quot; did he purchase at the hardware store? As far as I am aware, neither the police nor Japanese media have publicly disclosed what items he purchased." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · JeffLee
                 · score 7</div>
-              <p class="comment-raw">My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature, he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone cuz it eats up battery and he&#x27;s in the middle of a forest with no outlets around. He figured with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.</p>
+              <p class="comment-raw speak-line">My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature, he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone cuz it eats up battery and he&#x27;s in the middle of a forest with no outlets around. He figured with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.<button type="button" class="speak-btn" data-text="My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature, he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone cuz it eats up battery and he&#x27;s in the middle of a forest with no outlets around. He figured with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">今のところの最有力説は、家族がAIで旅程を組んだことに腹を立て、自然の中で一人旅することにした、というものだ。彼自身はソロのアドベンチャー旅行の経験がある。ホームセンターで基本的なキャンプ用品を買い、森へ向かったのは確認されている。森の真ん中でコンセントもないのに、位置情報はバッテリーを食うからオフにしたのだろう。今の日本は気温も快適なので、数日ソロキャンプするのは比較的簡単だと考えたのではないか。</p>
               <ul class='comment-notes'><li>2文目は comma splice（コンマで独立した文をつなげている）口語的な書き方。</li><li>&quot;cuz&quot; は &quot;because&quot; のカジュアル省略形。&quot;go solo&quot; &quot;eats up battery&quot; も口語表現。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature; he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone because it eats up battery, and he&#x27;s in the middle of a forest with no outlets around. He figured that with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>cuz</strong> — because の口語・チャット省略形。フォーマルな文章や丁寧な会話では使わない。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature; he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone because it eats up battery, and he&#x27;s in the middle of a forest with no outlets around. He figured that with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do.<button type="button" class="speak-btn speak-btn--inline" data-text="My best theory now is that he got really angry at his family for using AI to plan their itinerary, and decided to go solo amid nature; he himself has a background in solo adventure travel. At the hardware store he bought basic camping equipment and headed into the forest, as has been confirmed. He turned off the location on his phone because it eats up battery, and he&#x27;s in the middle of a forest with no outlets around. He figured that with the current comfortable temperatures in Japan, going for a few days solo camping seemed a relatively easy thing to do." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>cuz</strong><button type="button" class="speak-btn speak-btn--inline" data-text="cuz" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — because の口語・チャット省略形。フォーマルな文章や丁寧な会話では使わない。</li></ul>
             </article>
             
       </details>
     </section>
     
 
-    <footer>English News Digest · 2026-06-05</footer>
+    <footer class="speak-line">English News Digest · 2026-06-05
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

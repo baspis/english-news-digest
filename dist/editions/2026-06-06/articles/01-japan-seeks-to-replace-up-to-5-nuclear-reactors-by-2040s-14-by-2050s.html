@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-06</a>
       <span class="sep">/</span>
       <span>Japan seeks to replace up to 5 nuclear reacto...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Japan seeks to replace up to 5 nuclear reacto..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge national">national</span>
-      <h1>Japan seeks to replace up to 5 nuclear reactors by 2040s, 14 by 2050s</h1>
-      <div class="meta">Japan Today National · 2026-06-06</div>
+      <div class="title-head">
+        <span class="badge national">national</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="national" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Japan seeks to replace up to 5 nuclear reactors by 2040s, 14 by 2050s</h1>
+        <button type="button" class="speak-btn" data-text="Japan seeks to replace up to 5 nuclear reactors by 2040s, 14 by 2050s" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today National<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today National" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-06</p>
       <div class="summary-ja">経済産業省は、老朽化した原子炉を2040年代までに2〜5基、2050年代までに合計11〜14基に置き換える目標を初めて示した。AI普及による電力需要増を背景に、原発依存を高める方針へ転換しているが、建設費高騰で実現は不透明だ。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/national/update1-japan-seeks-to-replace-up-to-5-nuclear-reactors-by-2040s-14-by-2050s" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japan&#x27;s industry ministry on Friday proposed replacing two to five aging nuclear reactors by the 2040s, and a total of 11 to 14 by the 2050s, setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japan&#x27;s industry ministry on Friday proposed replacing two to five aging nuclear reactors by the 2040s, and a total of 11 to 14 by the 2050s, setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japan&#x27;s industry ministry on Friday proposed replacing two to five aging nuclear reactors by the 2040s, and a total of 11 to 14 by the 2050s, setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster.</p>
       <p class="translation">日本の経済産業省は金曜日、老朽化した原子炉を2040年代までに2〜5基、2050年代までに合計11〜14基に置き換える案を示し、2011年の福島原発事故以来初めてこうした数値目標を設定した。</p>
@@ -60,41 +70,41 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japan&#x27;s industry ministry</td><td class='chunk-role'>主語</td><td>日本の経済産業省が</td><td>industry ministry は経済産業省のこと。所有格 &#x27;s で所属を示す。</td></tr><tr><td class='chunk-en'>on Friday</td><td class='chunk-role'>時を表す副詞句</td><td>金曜日に</td><td>ニュースでは具体的な曜日で時制を補うことが多い。</td></tr><tr><td class='chunk-en'>proposed replacing two to five aging nuclear reactors</td><td class='chunk-role'>述語（動詞＋目的語）</td><td>老朽化した原子炉2〜5基の置き換えを提案した</td><td>propose + -ing は「〜することを提案する」の定番構文。aging は「老朽化した」。</td></tr><tr><td class='chunk-en'>by the 2040s</td><td class='chunk-role'>期限を表す副詞句</td><td>2040年代までに</td><td>the 2040s = 2040年代。by + 時期 で期限。</td></tr><tr><td class='chunk-en'>a total of 11 to 14 by the 2050s</td><td class='chunk-role'>並列の目的語句</td><td>2050年代までに合計11〜14基を</td><td>前の replacing の目的語が省略されている（置き換え）。</td></tr><tr><td class='chunk-en'>setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster</td><td class='chunk-role'>付随状況（現在分詞句）</td><td>2011年の福島原発事故以来初めてそのような数値目標を設定して</td><td>for the first time since ... で「〜以来初めて」。such a は「そのような」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japan&#x27;s industry ministry<button type="button" class="speak-btn speak-btn--inline" data-text="Japan&#x27;s industry ministry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本の経済産業省が</td><td>industry ministry は経済産業省のこと。所有格 &#x27;s で所属を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on Friday<button type="button" class="speak-btn speak-btn--inline" data-text="on Friday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>金曜日に</td><td>ニュースでは具体的な曜日で時制を補うことが多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>proposed replacing two to five aging nuclear reactors<button type="button" class="speak-btn speak-btn--inline" data-text="proposed replacing two to five aging nuclear reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（動詞＋目的語）</td><td>老朽化した原子炉2〜5基の置き換えを提案した</td><td>propose + -ing は「〜することを提案する」の定番構文。aging は「老朽化した」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>by the 2040s<button type="button" class="speak-btn speak-btn--inline" data-text="by the 2040s" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>期限を表す副詞句</td><td>2040年代までに</td><td>the 2040s = 2040年代。by + 時期 で期限。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a total of 11 to 14 by the 2050s<button type="button" class="speak-btn speak-btn--inline" data-text="a total of 11 to 14 by the 2050s" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列の目的語句</td><td>2050年代までに合計11〜14基を</td><td>前の replacing の目的語が省略されている（置き換え）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster<button type="button" class="speak-btn speak-btn--inline" data-text="setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付随状況（現在分詞句）</td><td>2011年の福島原発事故以来初めてそのような数値目標を設定して</td><td>for the first time since ... で「〜以来初めて」。such a は「そのような」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japan&#x27;s industry ministry</div>
+              <div class="chunk-en speak-line">Japan&#x27;s industry ministry<button type="button" class="speak-btn speak-btn--inline" data-text="Japan&#x27;s industry ministry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本の経済産業省が</div>
               <div>industry ministry は経済産業省のこと。所有格 &#x27;s で所属を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on Friday</div>
+              <div class="chunk-en speak-line">on Friday<button type="button" class="speak-btn speak-btn--inline" data-text="on Friday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 金曜日に</div>
               <div>ニュースでは具体的な曜日で時制を補うことが多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">proposed replacing two to five aging nuclear reactors</div>
+              <div class="chunk-en speak-line">proposed replacing two to five aging nuclear reactors<button type="button" class="speak-btn speak-btn--inline" data-text="proposed replacing two to five aging nuclear reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（動詞＋目的語） · 老朽化した原子炉2〜5基の置き換えを提案した</div>
               <div>propose + -ing は「〜することを提案する」の定番構文。aging は「老朽化した」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">by the 2040s</div>
+              <div class="chunk-en speak-line">by the 2040s<button type="button" class="speak-btn speak-btn--inline" data-text="by the 2040s" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">期限を表す副詞句 · 2040年代までに</div>
               <div>the 2040s = 2040年代。by + 時期 で期限。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a total of 11 to 14 by the 2050s</div>
+              <div class="chunk-en speak-line">a total of 11 to 14 by the 2050s<button type="button" class="speak-btn speak-btn--inline" data-text="a total of 11 to 14 by the 2050s" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列の目的語句 · 2050年代までに合計11〜14基を</div>
               <div>前の replacing の目的語が省略されている（置き換え）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster</div>
+              <div class="chunk-en speak-line">setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster<button type="button" class="speak-btn speak-btn--inline" data-text="setting such a numerical target for the first time since the 2011 Fukushima nuclear disaster" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付随状況（現在分詞句） · 2011年の福島原発事故以来初めてそのような数値目標を設定して</div>
               <div>for the first time since ... で「〜以来初めて」。such a は「そのような」。</div>
             </div>
@@ -107,8 +117,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The Ministry of Economy, Trade and Industry presented the targets at a ministry panel meeting, aiming to encourage investment and secure personnel in the nuclear industry."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The Ministry of Economy, Trade and Industry presented the targets at a ministry panel meeting, aiming to encourage investment and secure personnel in the nuclear industry." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The Ministry of Economy, Trade and Industry presented the targets at a ministry panel meeting, aiming to encourage investment and secure personnel in the nuclear industry.</p>
       <p class="translation">経済産業省は省の有識者会議でこの目標を示し、原発産業への投資を促し、人材を確保することを目指している。</p>
@@ -121,35 +130,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The Ministry of Economy, Trade and Industry</td><td class='chunk-role'>主語</td><td>経済産業省は</td><td>省名の正式英語表記。略称 METI と呼ばれることもある。</td></tr><tr><td class='chunk-en'>presented the targets</td><td class='chunk-role'>述語</td><td>目標を示した</td><td>present は会議・場で「提示する・発表する」の意味。</td></tr><tr><td class='chunk-en'>at a ministry panel meeting</td><td class='chunk-role'>場所・状況を表す副詞句</td><td>省の有識者会議で</td><td>panel meeting は審議会・有識者会議。</td></tr><tr><td class='chunk-en'>aiming to encourage investment</td><td class='chunk-role'>目的を表す分詞句</td><td>投資を促すことを目指して</td><td>aim to + 動詞原形。主語の意図を補足する。</td></tr><tr><td class='chunk-en'>and secure personnel in the nuclear industry</td><td class='chunk-role'>並列の不定詞句</td><td>原発産業の人材を確保することを</td><td>secure は「安全な」以外に「確保する」のビジネス用法。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The Ministry of Economy, Trade and Industry<button type="button" class="speak-btn speak-btn--inline" data-text="The Ministry of Economy, Trade and Industry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>経済産業省は</td><td>省名の正式英語表記。略称 METI と呼ばれることもある。</td></tr><tr><td class='chunk-en'><span class='speak-line'>presented the targets<button type="button" class="speak-btn speak-btn--inline" data-text="presented the targets" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>目標を示した</td><td>present は会議・場で「提示する・発表する」の意味。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at a ministry panel meeting<button type="button" class="speak-btn speak-btn--inline" data-text="at a ministry panel meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所・状況を表す副詞句</td><td>省の有識者会議で</td><td>panel meeting は審議会・有識者会議。</td></tr><tr><td class='chunk-en'><span class='speak-line'>aiming to encourage investment<button type="button" class="speak-btn speak-btn--inline" data-text="aiming to encourage investment" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的を表す分詞句</td><td>投資を促すことを目指して</td><td>aim to + 動詞原形。主語の意図を補足する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and secure personnel in the nuclear industry<button type="button" class="speak-btn speak-btn--inline" data-text="and secure personnel in the nuclear industry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列の不定詞句</td><td>原発産業の人材を確保することを</td><td>secure は「安全な」以外に「確保する」のビジネス用法。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The Ministry of Economy, Trade and Industry</div>
+              <div class="chunk-en speak-line">The Ministry of Economy, Trade and Industry<button type="button" class="speak-btn speak-btn--inline" data-text="The Ministry of Economy, Trade and Industry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 経済産業省は</div>
               <div>省名の正式英語表記。略称 METI と呼ばれることもある。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">presented the targets</div>
+              <div class="chunk-en speak-line">presented the targets<button type="button" class="speak-btn speak-btn--inline" data-text="presented the targets" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 目標を示した</div>
               <div>present は会議・場で「提示する・発表する」の意味。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at a ministry panel meeting</div>
+              <div class="chunk-en speak-line">at a ministry panel meeting<button type="button" class="speak-btn speak-btn--inline" data-text="at a ministry panel meeting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所・状況を表す副詞句 · 省の有識者会議で</div>
               <div>panel meeting は審議会・有識者会議。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">aiming to encourage investment</div>
+              <div class="chunk-en speak-line">aiming to encourage investment<button type="button" class="speak-btn speak-btn--inline" data-text="aiming to encourage investment" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的を表す分詞句 · 投資を促すことを目指して</div>
               <div>aim to + 動詞原形。主語の意図を補足する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and secure personnel in the nuclear industry</div>
+              <div class="chunk-en speak-line">and secure personnel in the nuclear industry<button type="button" class="speak-btn speak-btn--inline" data-text="and secure personnel in the nuclear industry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列の不定詞句 · 原発産業の人材を確保することを</div>
               <div>secure は「安全な」以外に「確保する」のビジネス用法。</div>
             </div>
@@ -162,8 +171,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The plan comes as Japan expects electricity demand to grow with the spread of artificial intelligence."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The plan comes as Japan expects electricity demand to grow with the spread of artificial intelligence." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The plan comes as Japan expects electricity demand to grow with the spread of artificial intelligence.</p>
       <p class="translation">この計画は、人工知能の普及に伴い電力需要の増加が見込まれる日本の状況を背景に出てきた。</p>
@@ -176,23 +184,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The plan comes</td><td class='chunk-role'>主語＋述語</td><td>この計画は出てくる</td><td>come はここで「生じる・提示される」のニュアンス。</td></tr><tr><td class='chunk-en'>as Japan expects electricity demand to grow</td><td class='chunk-role'>時・状況を表す従属節</td><td>日本が電力需要の増加を予想しているという状況で</td><td>expect + 名詞 + to不定詞。</td></tr><tr><td class='chunk-en'>with the spread of artificial intelligence</td><td class='chunk-role'>原因・背景を表す前置詞句</td><td>人工知能の普及とともに</td><td>the spread of は「〜の普及・拡大」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The plan comes<button type="button" class="speak-btn speak-btn--inline" data-text="The plan comes" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>この計画は出てくる</td><td>come はここで「生じる・提示される」のニュアンス。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as Japan expects electricity demand to grow<button type="button" class="speak-btn speak-btn--inline" data-text="as Japan expects electricity demand to grow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・状況を表す従属節</td><td>日本が電力需要の増加を予想しているという状況で</td><td>expect + 名詞 + to不定詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>with the spread of artificial intelligence<button type="button" class="speak-btn speak-btn--inline" data-text="with the spread of artificial intelligence" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>原因・背景を表す前置詞句</td><td>人工知能の普及とともに</td><td>the spread of は「〜の普及・拡大」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The plan comes</div>
+              <div class="chunk-en speak-line">The plan comes<button type="button" class="speak-btn speak-btn--inline" data-text="The plan comes" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · この計画は出てくる</div>
               <div>come はここで「生じる・提示される」のニュアンス。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as Japan expects electricity demand to grow</div>
+              <div class="chunk-en speak-line">as Japan expects electricity demand to grow<button type="button" class="speak-btn speak-btn--inline" data-text="as Japan expects electricity demand to grow" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・状況を表す従属節 · 日本が電力需要の増加を予想しているという状況で</div>
               <div>expect + 名詞 + to不定詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">with the spread of artificial intelligence</div>
+              <div class="chunk-en speak-line">with the spread of artificial intelligence<button type="button" class="speak-btn speak-btn--inline" data-text="with the spread of artificial intelligence" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">原因・背景を表す前置詞句 · 人工知能の普及とともに</div>
               <div>the spread of は「〜の普及・拡大」。</div>
             </div>
@@ -205,8 +213,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="But with nuclear plant construction costs soaring globally, it remains uncertain whether replacements will proceed as the government hopes."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="But with nuclear plant construction costs soaring globally, it remains uncertain whether replacements will proceed as the government hopes." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">But with nuclear plant construction costs soaring globally, it remains uncertain whether replacements will proceed as the government hopes.</p>
       <p class="translation">しかし原発建設費が世界的に急騰する中、置き換えが政府の期待どおり進むかどうかは依然として不透明だ。</p>
@@ -219,29 +226,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>But with nuclear plant construction costs soaring globally</td><td class='chunk-role'>逆接＋付帯状況</td><td>しかし原発建設費が世界的に急騰する状況で</td><td>with + O + V-ing は背景・原因を簡潔に示す。</td></tr><tr><td class='chunk-en'>it remains uncertain</td><td class='chunk-role'>主語＋述語</td><td>それは依然として不透明である</td><td>remain + 形容詞 で状態の継続。</td></tr><tr><td class='chunk-en'>whether replacements will proceed</td><td class='chunk-role'>名詞節（真偽不明）</td><td>置き換えが進むかどうか</td><td>whether は yes/no の疑問を名詞化。</td></tr><tr><td class='chunk-en'>as the government hopes</td><td class='chunk-role'>様態を表す従属節</td><td>政府が望むように</td><td>as = in the way that。hope はここで自動詞的に「望む」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>But with nuclear plant construction costs soaring globally<button type="button" class="speak-btn speak-btn--inline" data-text="But with nuclear plant construction costs soaring globally" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>逆接＋付帯状況</td><td>しかし原発建設費が世界的に急騰する状況で</td><td>with + O + V-ing は背景・原因を簡潔に示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>it remains uncertain<button type="button" class="speak-btn speak-btn--inline" data-text="it remains uncertain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>それは依然として不透明である</td><td>remain + 形容詞 で状態の継続。</td></tr><tr><td class='chunk-en'><span class='speak-line'>whether replacements will proceed<button type="button" class="speak-btn speak-btn--inline" data-text="whether replacements will proceed" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>名詞節（真偽不明）</td><td>置き換えが進むかどうか</td><td>whether は yes/no の疑問を名詞化。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as the government hopes<button type="button" class="speak-btn speak-btn--inline" data-text="as the government hopes" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>様態を表す従属節</td><td>政府が望むように</td><td>as = in the way that。hope はここで自動詞的に「望む」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">But with nuclear plant construction costs soaring globally</div>
+              <div class="chunk-en speak-line">But with nuclear plant construction costs soaring globally<button type="button" class="speak-btn speak-btn--inline" data-text="But with nuclear plant construction costs soaring globally" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">逆接＋付帯状況 · しかし原発建設費が世界的に急騰する状況で</div>
               <div>with + O + V-ing は背景・原因を簡潔に示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">it remains uncertain</div>
+              <div class="chunk-en speak-line">it remains uncertain<button type="button" class="speak-btn speak-btn--inline" data-text="it remains uncertain" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · それは依然として不透明である</div>
               <div>remain + 形容詞 で状態の継続。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">whether replacements will proceed</div>
+              <div class="chunk-en speak-line">whether replacements will proceed<button type="button" class="speak-btn speak-btn--inline" data-text="whether replacements will proceed" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">名詞節（真偽不明） · 置き換えが進むかどうか</div>
               <div>whether は yes/no の疑問を名詞化。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as the government hopes</div>
+              <div class="chunk-en speak-line">as the government hopes<button type="button" class="speak-btn speak-btn--inline" data-text="as the government hopes" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">様態を表す従属節 · 政府が望むように</div>
               <div>as = in the way that。hope はここで自動詞的に「望む」。</div>
             </div>
@@ -254,8 +261,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Japan&#x27;s nuclear policy has already shifted from reducing reliance on nuclear power in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011 to making maximum use of it."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Japan&#x27;s nuclear policy has already shifted from reducing reliance on nuclear power in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011 to making maximum use of it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Japan&#x27;s nuclear policy has already shifted from reducing reliance on nuclear power in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011 to making maximum use of it.</p>
       <p class="translation">日本の原発政策は、2011年3月の津波が引き起こした福島第一原発事故を受けて原発依存を減らす方針から、最大限活用する方針へとすでに転換している。</p>
@@ -268,35 +274,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Japan&#x27;s nuclear policy</td><td class='chunk-role'>主語</td><td>日本の原発政策は</td><td>reliance on = 〜への依存。</td></tr><tr><td class='chunk-en'>has already shifted</td><td class='chunk-role'>述語（現在完了）</td><td>すでに転換した</td><td>現在完了は過去から現在への変化・結果を示す。</td></tr><tr><td class='chunk-en'>from reducing reliance on nuclear power</td><td class='chunk-role'>起点（from句）</td><td>原発依存を減らすことから</td><td>reduce reliance on は政策用語。</td></tr><tr><td class='chunk-en'>in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011</td><td class='chunk-role'>時間・原因を表す副詞句</td><td>2011年3月の津波が引き起こした福島第一原発事故を受けて</td><td>in the wake of = 〜の余波で・〜を受けて。tsunami-triggered は「津波が引き起こした」。</td></tr><tr><td class='chunk-en'>to making maximum use of it</td><td class='chunk-role'>到達点（to句）</td><td>それを最大限活用することへ</td><td>make use of = 〜を活用する。maximum はここで名詞的用法。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Japan&#x27;s nuclear policy<button type="button" class="speak-btn speak-btn--inline" data-text="Japan&#x27;s nuclear policy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本の原発政策は</td><td>reliance on = 〜への依存。</td></tr><tr><td class='chunk-en'><span class='speak-line'>has already shifted<button type="button" class="speak-btn speak-btn--inline" data-text="has already shifted" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（現在完了）</td><td>すでに転換した</td><td>現在完了は過去から現在への変化・結果を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>from reducing reliance on nuclear power<button type="button" class="speak-btn speak-btn--inline" data-text="from reducing reliance on nuclear power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>起点（from句）</td><td>原発依存を減らすことから</td><td>reduce reliance on は政策用語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011<button type="button" class="speak-btn speak-btn--inline" data-text="in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時間・原因を表す副詞句</td><td>2011年3月の津波が引き起こした福島第一原発事故を受けて</td><td>in the wake of = 〜の余波で・〜を受けて。tsunami-triggered は「津波が引き起こした」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to making maximum use of it<button type="button" class="speak-btn speak-btn--inline" data-text="to making maximum use of it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>到達点（to句）</td><td>それを最大限活用することへ</td><td>make use of = 〜を活用する。maximum はここで名詞的用法。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Japan&#x27;s nuclear policy</div>
+              <div class="chunk-en speak-line">Japan&#x27;s nuclear policy<button type="button" class="speak-btn speak-btn--inline" data-text="Japan&#x27;s nuclear policy" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本の原発政策は</div>
               <div>reliance on = 〜への依存。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">has already shifted</div>
+              <div class="chunk-en speak-line">has already shifted<button type="button" class="speak-btn speak-btn--inline" data-text="has already shifted" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（現在完了） · すでに転換した</div>
               <div>現在完了は過去から現在への変化・結果を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">from reducing reliance on nuclear power</div>
+              <div class="chunk-en speak-line">from reducing reliance on nuclear power<button type="button" class="speak-btn speak-btn--inline" data-text="from reducing reliance on nuclear power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">起点（from句） · 原発依存を減らすことから</div>
               <div>reduce reliance on は政策用語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011</div>
+              <div class="chunk-en speak-line">in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011<button type="button" class="speak-btn speak-btn--inline" data-text="in the wake of the tsunami-triggered Fukushima Daiichi nuclear disaster in March 2011" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時間・原因を表す副詞句 · 2011年3月の津波が引き起こした福島第一原発事故を受けて</div>
               <div>in the wake of = 〜の余波で・〜を受けて。tsunami-triggered は「津波が引き起こした」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to making maximum use of it</div>
+              <div class="chunk-en speak-line">to making maximum use of it<button type="button" class="speak-btn speak-btn--inline" data-text="to making maximum use of it" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">到達点（to句） · それを最大限活用することへ</div>
               <div>make use of = 〜を活用する。maximum はここで名詞的用法。</div>
             </div>
@@ -309,8 +315,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Under the government&#x27;s basic energy plan revised in 2025, Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 to help meet energy needs."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Under the government&#x27;s basic energy plan revised in 2025, Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 to help meet energy needs." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Under the government&#x27;s basic energy plan revised in 2025, Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 to help meet energy needs.</p>
       <p class="translation">2025年に改定された政府の基本エネルギー計画のもと、日本は2040年度までに電力の20％を原発で賄うことを目指しており、エネルギー需要の充足を図っている。</p>
@@ -323,29 +328,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Under the government&#x27;s basic energy plan revised in 2025</td><td class='chunk-role'>状況・根拠を表す前置詞句</td><td>2025年に改定された政府の基本エネルギー計画のもとで</td><td>revised は plan を後ろから修飾。</td></tr><tr><td class='chunk-en'>Japan is aiming to source 20 percent of its electricity from nuclear power</td><td class='chunk-role'>主語＋述語＋不定詞</td><td>日本は電力の20％を原発から調達することを目指している</td><td>source は動詞で「調達する・賄う」。</td></tr><tr><td class='chunk-en'>in fiscal 2040</td><td class='chunk-role'>時期を表す副詞句</td><td>2040年度に</td><td>fiscal year は会計年度。日本は4月始まり。</td></tr><tr><td class='chunk-en'>to help meet energy needs</td><td class='chunk-role'>目的を表す不定詞</td><td>エネルギー需要を満たすのに役立つように</td><td>help (to) meet は help の後に to 省略可。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Under the government&#x27;s basic energy plan revised in 2025<button type="button" class="speak-btn speak-btn--inline" data-text="Under the government&#x27;s basic energy plan revised in 2025" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>状況・根拠を表す前置詞句</td><td>2025年に改定された政府の基本エネルギー計画のもとで</td><td>revised は plan を後ろから修飾。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Japan is aiming to source 20 percent of its electricity from nuclear power<button type="button" class="speak-btn speak-btn--inline" data-text="Japan is aiming to source 20 percent of its electricity from nuclear power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語＋不定詞</td><td>日本は電力の20％を原発から調達することを目指している</td><td>source は動詞で「調達する・賄う」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in fiscal 2040<button type="button" class="speak-btn speak-btn--inline" data-text="in fiscal 2040" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時期を表す副詞句</td><td>2040年度に</td><td>fiscal year は会計年度。日本は4月始まり。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to help meet energy needs<button type="button" class="speak-btn speak-btn--inline" data-text="to help meet energy needs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的を表す不定詞</td><td>エネルギー需要を満たすのに役立つように</td><td>help (to) meet は help の後に to 省略可。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Under the government&#x27;s basic energy plan revised in 2025</div>
+              <div class="chunk-en speak-line">Under the government&#x27;s basic energy plan revised in 2025<button type="button" class="speak-btn speak-btn--inline" data-text="Under the government&#x27;s basic energy plan revised in 2025" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">状況・根拠を表す前置詞句 · 2025年に改定された政府の基本エネルギー計画のもとで</div>
               <div>revised は plan を後ろから修飾。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Japan is aiming to source 20 percent of its electricity from nuclear power</div>
+              <div class="chunk-en speak-line">Japan is aiming to source 20 percent of its electricity from nuclear power<button type="button" class="speak-btn speak-btn--inline" data-text="Japan is aiming to source 20 percent of its electricity from nuclear power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語＋不定詞 · 日本は電力の20％を原発から調達することを目指している</div>
               <div>source は動詞で「調達する・賄う」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in fiscal 2040</div>
+              <div class="chunk-en speak-line">in fiscal 2040<button type="button" class="speak-btn speak-btn--inline" data-text="in fiscal 2040" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時期を表す副詞句 · 2040年度に</div>
               <div>fiscal year は会計年度。日本は4月始まり。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to help meet energy needs</div>
+              <div class="chunk-en speak-line">to help meet energy needs<button type="button" class="speak-btn speak-btn--inline" data-text="to help meet energy needs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的を表す不定詞 · エネルギー需要を満たすのに役立つように</div>
               <div>help (to) meet は help の後に to 省略可。</div>
             </div>
@@ -358,8 +363,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Achieving the goal, however, however, would require replacing existing plants as restarting existing reactors alone would not be enough to meet the target."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Achieving the goal, however, however, would require replacing existing plants as restarting existing reactors alone would not be enough to meet the target." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Achieving the goal, however, however, would require replacing existing plants as restarting existing reactors alone would not be enough to meet the target.</p>
       <p class="translation">しかしこの目標を達成するには、既存の原発を再稼働させるだけでは足りず、既存施設の置き換えが必要になる。</p>
@@ -372,29 +376,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Achieving the goal, however,</td><td class='chunk-role'>主語（動名詞句）＋接続副詞</td><td>しかしその目標を達成することは</td><td>however はカンマで挟むと読みやすい。</td></tr><tr><td class='chunk-en'>would require replacing existing plants</td><td class='chunk-role'>述語</td><td>既存施設の置き換えを必要とするだろう</td><td>would は仮定的・推量の未来。</td></tr><tr><td class='chunk-en'>as restarting existing reactors alone would not be enough</td><td class='chunk-role'>理由を表す従属節</td><td>既存炉の再稼働だけでは十分でないので</td><td>restart reactors = 再稼働させる。alone = 単独では。</td></tr><tr><td class='chunk-en'>to meet the target</td><td class='chunk-role'>目的を表す不定詞</td><td>目標を達成するには</td><td>enough to do で「〜するには十分」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Achieving the goal, however,<button type="button" class="speak-btn speak-btn--inline" data-text="Achieving the goal, however," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語（動名詞句）＋接続副詞</td><td>しかしその目標を達成することは</td><td>however はカンマで挟むと読みやすい。</td></tr><tr><td class='chunk-en'><span class='speak-line'>would require replacing existing plants<button type="button" class="speak-btn speak-btn--inline" data-text="would require replacing existing plants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>既存施設の置き換えを必要とするだろう</td><td>would は仮定的・推量の未来。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as restarting existing reactors alone would not be enough<button type="button" class="speak-btn speak-btn--inline" data-text="as restarting existing reactors alone would not be enough" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>理由を表す従属節</td><td>既存炉の再稼働だけでは十分でないので</td><td>restart reactors = 再稼働させる。alone = 単独では。</td></tr><tr><td class='chunk-en'><span class='speak-line'>to meet the target<button type="button" class="speak-btn speak-btn--inline" data-text="to meet the target" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>目的を表す不定詞</td><td>目標を達成するには</td><td>enough to do で「〜するには十分」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Achieving the goal, however,</div>
+              <div class="chunk-en speak-line">Achieving the goal, however,<button type="button" class="speak-btn speak-btn--inline" data-text="Achieving the goal, however," onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語（動名詞句）＋接続副詞 · しかしその目標を達成することは</div>
               <div>however はカンマで挟むと読みやすい。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">would require replacing existing plants</div>
+              <div class="chunk-en speak-line">would require replacing existing plants<button type="button" class="speak-btn speak-btn--inline" data-text="would require replacing existing plants" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 既存施設の置き換えを必要とするだろう</div>
               <div>would は仮定的・推量の未来。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as restarting existing reactors alone would not be enough</div>
+              <div class="chunk-en speak-line">as restarting existing reactors alone would not be enough<button type="button" class="speak-btn speak-btn--inline" data-text="as restarting existing reactors alone would not be enough" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">理由を表す従属節 · 既存炉の再稼働だけでは十分でないので</div>
               <div>restart reactors = 再稼働させる。alone = 単独では。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">to meet the target</div>
+              <div class="chunk-en speak-line">to meet the target<button type="button" class="speak-btn speak-btn--inline" data-text="to meet the target" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">目的を表す不定詞 · 目標を達成するには</div>
               <div>enough to do で「〜するには十分」。</div>
             </div>
@@ -407,8 +411,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Friday&#x27;s proposed numbers likely reflect electric power industry estimates that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power, roughly equivalent to the amount generated by five reactors."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Friday&#x27;s proposed numbers likely reflect electric power industry estimates that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power, roughly equivalent to the amount generated by five reactors." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Friday&#x27;s proposed numbers likely reflect electric power industry estimates that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power, roughly equivalent to the amount generated by five reactors.</p>
       <p class="translation">金曜日に示された数値は、2040年代までに日本で550万キロワットの電力不足が生じ、おおよそ5基の原子炉の発電量に相当するという電力業界の試算を反映している可能性が高い。</p>
@@ -421,29 +424,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Friday&#x27;s proposed numbers</td><td class='chunk-role'>主語</td><td>金曜日に提案された数値は</td><td>所有格で「金曜の提案」を修飾。</td></tr><tr><td class='chunk-en'>likely reflect electric power industry estimates</td><td class='chunk-role'>述語＋目的語</td><td>電力業界の試算をおそらく反映している</td><td>likely は動詞の前で「おそらく」。</td></tr><tr><td class='chunk-en'>that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power</td><td class='chunk-role'>同格の that 節</td><td>2040年代までに日本が550万キロワットの電力不足を見るという</td><td>see a shortfall = 不足が生じる。kilowatts は電力の単位。</td></tr><tr><td class='chunk-en'>roughly equivalent to the amount generated by five reactors</td><td class='chunk-role'>補足説明</td><td>5基の原子炉が発電する量におよそ相当する</td><td>equivalent to = 〜に相当する。generated by は過去分詞の後置修飾。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Friday&#x27;s proposed numbers<button type="button" class="speak-btn speak-btn--inline" data-text="Friday&#x27;s proposed numbers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>金曜日に提案された数値は</td><td>所有格で「金曜の提案」を修飾。</td></tr><tr><td class='chunk-en'><span class='speak-line'>likely reflect electric power industry estimates<button type="button" class="speak-btn speak-btn--inline" data-text="likely reflect electric power industry estimates" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語＋目的語</td><td>電力業界の試算をおそらく反映している</td><td>likely は動詞の前で「おそらく」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power<button type="button" class="speak-btn speak-btn--inline" data-text="that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>同格の that 節</td><td>2040年代までに日本が550万キロワットの電力不足を見るという</td><td>see a shortfall = 不足が生じる。kilowatts は電力の単位。</td></tr><tr><td class='chunk-en'><span class='speak-line'>roughly equivalent to the amount generated by five reactors<button type="button" class="speak-btn speak-btn--inline" data-text="roughly equivalent to the amount generated by five reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補足説明</td><td>5基の原子炉が発電する量におよそ相当する</td><td>equivalent to = 〜に相当する。generated by は過去分詞の後置修飾。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Friday&#x27;s proposed numbers</div>
+              <div class="chunk-en speak-line">Friday&#x27;s proposed numbers<button type="button" class="speak-btn speak-btn--inline" data-text="Friday&#x27;s proposed numbers" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 金曜日に提案された数値は</div>
               <div>所有格で「金曜の提案」を修飾。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">likely reflect electric power industry estimates</div>
+              <div class="chunk-en speak-line">likely reflect electric power industry estimates<button type="button" class="speak-btn speak-btn--inline" data-text="likely reflect electric power industry estimates" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語＋目的語 · 電力業界の試算をおそらく反映している</div>
               <div>likely は動詞の前で「おそらく」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power</div>
+              <div class="chunk-en speak-line">that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power<button type="button" class="speak-btn speak-btn--inline" data-text="that by the 2040s, Japan will see a shortfall of 5.5 million kilowatts of power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">同格の that 節 · 2040年代までに日本が550万キロワットの電力不足を見るという</div>
               <div>see a shortfall = 不足が生じる。kilowatts は電力の単位。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">roughly equivalent to the amount generated by five reactors</div>
+              <div class="chunk-en speak-line">roughly equivalent to the amount generated by five reactors<button type="button" class="speak-btn speak-btn--inline" data-text="roughly equivalent to the amount generated by five reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補足説明 · 5基の原子炉が発電する量におよそ相当する</div>
               <div>equivalent to = 〜に相当する。generated by は過去分詞の後置修飾。</div>
             </div>
@@ -456,8 +459,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Reactor operating lifespans are capped at 60 years and some plants in Japan have already been running for around 50 years."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Reactor operating lifespans are capped at 60 years and some plants in Japan have already been running for around 50 years." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Reactor operating lifespans are capped at 60 years and some plants in Japan have already been running for around 50 years.</p>
       <p class="translation">原子炉の運転期間は60年が上限とされており、日本の一部の原発はすでに約50年間稼働している。</p>
@@ -470,29 +472,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Reactor operating lifespans</td><td class='chunk-role'>主語</td><td>原子炉の運転期間は</td><td>lifespan = 寿命・使用年数。</td></tr><tr><td class='chunk-en'>are capped at 60 years</td><td class='chunk-role'>述語</td><td>60年が上限とされている</td><td>cap A at B = Aの上限をBに設定する。</td></tr><tr><td class='chunk-en'>some plants in Japan</td><td class='chunk-role'>主語</td><td>日本の一部の原発は</td><td>plant は発電所全体を指す。</td></tr><tr><td class='chunk-en'>have already been running for around 50 years</td><td class='chunk-role'>述語（現在完了進行）</td><td>すでに約50年間稼働してきた</td><td>run は機械・施設が「稼働する」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Reactor operating lifespans<button type="button" class="speak-btn speak-btn--inline" data-text="Reactor operating lifespans" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>原子炉の運転期間は</td><td>lifespan = 寿命・使用年数。</td></tr><tr><td class='chunk-en'><span class='speak-line'>are capped at 60 years<button type="button" class="speak-btn speak-btn--inline" data-text="are capped at 60 years" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>60年が上限とされている</td><td>cap A at B = Aの上限をBに設定する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>some plants in Japan<button type="button" class="speak-btn speak-btn--inline" data-text="some plants in Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>日本の一部の原発は</td><td>plant は発電所全体を指す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>have already been running for around 50 years<button type="button" class="speak-btn speak-btn--inline" data-text="have already been running for around 50 years" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（現在完了進行）</td><td>すでに約50年間稼働してきた</td><td>run は機械・施設が「稼働する」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Reactor operating lifespans</div>
+              <div class="chunk-en speak-line">Reactor operating lifespans<button type="button" class="speak-btn speak-btn--inline" data-text="Reactor operating lifespans" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 原子炉の運転期間は</div>
               <div>lifespan = 寿命・使用年数。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">are capped at 60 years</div>
+              <div class="chunk-en speak-line">are capped at 60 years<button type="button" class="speak-btn speak-btn--inline" data-text="are capped at 60 years" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 60年が上限とされている</div>
               <div>cap A at B = Aの上限をBに設定する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">some plants in Japan</div>
+              <div class="chunk-en speak-line">some plants in Japan<button type="button" class="speak-btn speak-btn--inline" data-text="some plants in Japan" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 日本の一部の原発は</div>
               <div>plant は発電所全体を指す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">have already been running for around 50 years</div>
+              <div class="chunk-en speak-line">have already been running for around 50 years<button type="button" class="speak-btn speak-btn--inline" data-text="have already been running for around 50 years" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（現在完了進行） · すでに約50年間稼働してきた</div>
               <div>run は機械・施設が「稼働する」。</div>
             </div>
@@ -505,8 +507,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="There are now 24 reactors undergoing decommissioning work at 11 nuclear power stations."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="There are now 24 reactors undergoing decommissioning work at 11 nuclear power stations." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">There are now 24 reactors undergoing decommissioning work at 11 nuclear power stations.</p>
       <p class="translation">現在、11の原子力発電所で24基の原子炉が廃炉作業中である。</p>
@@ -519,23 +520,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>There are now 24 reactors</td><td class='chunk-role'>存在構文の主部</td><td>現在24基の原子炉がある</td><td>There is/are で存在・状況を導入。</td></tr><tr><td class='chunk-en'>undergoing decommissioning work</td><td class='chunk-role'>後置修飾（現在分詞）</td><td>廃炉作業を進行中の</td><td>undergo = 〜を受ける・経験する。</td></tr><tr><td class='chunk-en'>at 11 nuclear power stations</td><td class='chunk-role'>場所を表す副詞句</td><td>11の原子力発電所で</td><td>nuclear power station = 原子力発電所。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>There are now 24 reactors<button type="button" class="speak-btn speak-btn--inline" data-text="There are now 24 reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>存在構文の主部</td><td>現在24基の原子炉がある</td><td>There is/are で存在・状況を導入。</td></tr><tr><td class='chunk-en'><span class='speak-line'>undergoing decommissioning work<button type="button" class="speak-btn speak-btn--inline" data-text="undergoing decommissioning work" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>後置修飾（現在分詞）</td><td>廃炉作業を進行中の</td><td>undergo = 〜を受ける・経験する。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at 11 nuclear power stations<button type="button" class="speak-btn speak-btn--inline" data-text="at 11 nuclear power stations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所を表す副詞句</td><td>11の原子力発電所で</td><td>nuclear power station = 原子力発電所。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">There are now 24 reactors</div>
+              <div class="chunk-en speak-line">There are now 24 reactors<button type="button" class="speak-btn speak-btn--inline" data-text="There are now 24 reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">存在構文の主部 · 現在24基の原子炉がある</div>
               <div>There is/are で存在・状況を導入。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">undergoing decommissioning work</div>
+              <div class="chunk-en speak-line">undergoing decommissioning work<button type="button" class="speak-btn speak-btn--inline" data-text="undergoing decommissioning work" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">後置修飾（現在分詞） · 廃炉作業を進行中の</div>
               <div>undergo = 〜を受ける・経験する。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at 11 nuclear power stations</div>
+              <div class="chunk-en speak-line">at 11 nuclear power stations<button type="button" class="speak-btn speak-btn--inline" data-text="at 11 nuclear power stations" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所を表す副詞句 · 11の原子力発電所で</div>
               <div>nuclear power station = 原子力発電所。</div>
             </div>
@@ -548,8 +549,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Some of the replacement reactors could be built at the Mihama power station in Fukui Prefecture and the Sendai complex in Kagoshima Prefecture."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Some of the replacement reactors could be built at the Mihama power station in Fukui Prefecture and the Sendai complex in Kagoshima Prefecture." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Some of the replacement reactors could be built at the Mihama power station in Fukui Prefecture and the Sendai complex in Kagoshima Prefecture.</p>
       <p class="translation">置き換え炉の一部は、福井県の美浜発電所や鹿児島県の川内原子力発電所に建設される可能性がある。</p>
@@ -562,29 +562,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Some of the replacement reactors</td><td class='chunk-role'>主語</td><td>置き換え炉の一部は</td><td>replacement reactors = 新設・更新炉。</td></tr><tr><td class='chunk-en'>could be built</td><td class='chunk-role'>述語（受動・可能）</td><td>建設される可能性がある</td><td>could は不確実性・可能性を示す。</td></tr><tr><td class='chunk-en'>at the Mihama power station in Fukui Prefecture</td><td class='chunk-role'>場所（並列1）</td><td>福井県の美浜発電所に</td><td>Prefecture は日本の「県」。</td></tr><tr><td class='chunk-en'>and the Sendai complex in Kagoshima Prefecture</td><td class='chunk-role'>場所（並列2）</td><td>鹿児島県の川内（複合施設）に</td><td>complex は複数炉を含む施設群。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Some of the replacement reactors<button type="button" class="speak-btn speak-btn--inline" data-text="Some of the replacement reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>置き換え炉の一部は</td><td>replacement reactors = 新設・更新炉。</td></tr><tr><td class='chunk-en'><span class='speak-line'>could be built<button type="button" class="speak-btn speak-btn--inline" data-text="could be built" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（受動・可能）</td><td>建設される可能性がある</td><td>could は不確実性・可能性を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at the Mihama power station in Fukui Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="at the Mihama power station in Fukui Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所（並列1）</td><td>福井県の美浜発電所に</td><td>Prefecture は日本の「県」。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and the Sendai complex in Kagoshima Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="and the Sendai complex in Kagoshima Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所（並列2）</td><td>鹿児島県の川内（複合施設）に</td><td>complex は複数炉を含む施設群。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Some of the replacement reactors</div>
+              <div class="chunk-en speak-line">Some of the replacement reactors<button type="button" class="speak-btn speak-btn--inline" data-text="Some of the replacement reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 置き換え炉の一部は</div>
               <div>replacement reactors = 新設・更新炉。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">could be built</div>
+              <div class="chunk-en speak-line">could be built<button type="button" class="speak-btn speak-btn--inline" data-text="could be built" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（受動・可能） · 建設される可能性がある</div>
               <div>could は不確実性・可能性を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at the Mihama power station in Fukui Prefecture</div>
+              <div class="chunk-en speak-line">at the Mihama power station in Fukui Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="at the Mihama power station in Fukui Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所（並列1） · 福井県の美浜発電所に</div>
               <div>Prefecture は日本の「県」。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and the Sendai complex in Kagoshima Prefecture</div>
+              <div class="chunk-en speak-line">and the Sendai complex in Kagoshima Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="and the Sendai complex in Kagoshima Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所（並列2） · 鹿児島県の川内（複合施設）に</div>
               <div>complex は複数炉を含む施設群。</div>
             </div>
@@ -597,134 +597,138 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>aging</h3>
-                <button type="button" class="speak-btn" data-text="aging"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="aging" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈeɪdʒɪŋ/</div>
               <p>老朽化した、年を取った</p>
-              <p class="example-en"><em>aging nuclear reactors</em></p>
+              <p class="example-en speak-line"><em>aging nuclear reactors</em><button type="button" class="speak-btn speak-btn--inline" data-text="aging nuclear reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">老朽化した原子炉</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>reliance</h3>
-                <button type="button" class="speak-btn" data-text="reliance"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="reliance" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/rɪˈlaɪəns/</div>
               <p>依存、頼り</p>
-              <p class="example-en"><em>reducing reliance on nuclear power</em></p>
+              <p class="example-en speak-line"><em>reducing reliance on nuclear power</em><button type="button" class="speak-btn speak-btn--inline" data-text="reducing reliance on nuclear power" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">原発への依存を減らすこと</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>shortfall</h3>
-                <button type="button" class="speak-btn" data-text="shortfall"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="shortfall" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈʃɔːtfɔːl/</div>
               <p>不足（量）</p>
-              <p class="example-en"><em>a shortfall of 5.5 million kilowatts</em></p>
+              <p class="example-en speak-line"><em>a shortfall of 5.5 million kilowatts</em><button type="button" class="speak-btn speak-btn--inline" data-text="a shortfall of 5.5 million kilowatts" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">550万キロワットの不足</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>decommissioning</h3>
-                <button type="button" class="speak-btn" data-text="decommissioning"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="decommissioning" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˌdiːkəˈmɪʃənɪŋ/</div>
               <p>廃炉、退役</p>
-              <p class="example-en"><em>reactors undergoing decommissioning work</em></p>
+              <p class="example-en speak-line"><em>reactors undergoing decommissioning work</em><button type="button" class="speak-btn speak-btn--inline" data-text="reactors undergoing decommissioning work" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">廃炉作業中の原子炉</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>soaring</h3>
-                <button type="button" class="speak-btn" data-text="soaring"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="soaring" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈsɔːrɪŋ/</div>
               <p>急騰する、急上昇する</p>
-              <p class="example-en"><em>construction costs soaring globally</em></p>
+              <p class="example-en speak-line"><em>construction costs soaring globally</em><button type="button" class="speak-btn speak-btn--inline" data-text="construction costs soaring globally" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">世界的に急騰する建設費</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>proceed</h3>
-                <button type="button" class="speak-btn" data-text="proceed"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="proceed" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/prəˈsiːd/</div>
               <p>進む、（計画が）実行される</p>
-              <p class="example-en"><em>whether replacements will proceed</em></p>
+              <p class="example-en speak-line"><em>whether replacements will proceed</em><button type="button" class="speak-btn speak-btn--inline" data-text="whether replacements will proceed" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">置き換えが進むかどうか</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>equivalent</h3>
-                <button type="button" class="speak-btn" data-text="equivalent"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="equivalent" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɪˈkwɪvələnt/</div>
               <p>相当する、同等の</p>
-              <p class="example-en"><em>roughly equivalent to five reactors</em></p>
+              <p class="example-en speak-line"><em>roughly equivalent to five reactors</em><button type="button" class="speak-btn speak-btn--inline" data-text="roughly equivalent to five reactors" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">5基の原子炉におよそ相当する</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>secure</h3>
-                <button type="button" class="speak-btn" data-text="secure"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="secure" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/sɪˈkjʊr/</div>
               <p>（人材・資源を）確保する</p>
-              <p class="example-en"><em>secure personnel in the nuclear industry</em></p>
+              <p class="example-en speak-line"><em>secure personnel in the nuclear industry</em><button type="button" class="speak-btn speak-btn--inline" data-text="secure personnel in the nuclear industry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">原発産業の人材を確保する</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>propose + gerund (-ing)</h3>
-              <p>Use propose + V-ing to introduce a suggested action.</p>
-              <p class="example-en"><em>The ministry proposed replacing two to five aging nuclear reactors.</em></p>
+              <div class="grammar-head">
+                <h3>propose + gerund (-ing)</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="propose + gerund (-ing)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use propose + V-ing to introduce a suggested action.<button type="button" class="speak-btn speak-btn--inline" data-text="Use propose + V-ing to introduce a suggested action." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The ministry proposed replacing two to five aging nuclear reactors.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The ministry proposed replacing two to five aging nuclear reactors." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>propose の後は to不定詞ではなく動名詞（-ing）を続けるのが一般的。政策・公式提案の文でよく使われる。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>with + noun + present participle</h3>
-              <p>Shows background circumstances while the main clause happens.</p>
-              <p class="example-en"><em>With construction costs soaring globally, it remains uncertain whether replacements will proceed.</em></p>
+              <div class="grammar-head">
+                <h3>with + noun + present participle</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="with + noun + present participle" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Shows background circumstances while the main clause happens.<button type="button" class="speak-btn speak-btn--inline" data-text="Shows background circumstances while the main clause happens." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>With construction costs soaring globally, it remains uncertain whether replacements will proceed.</em><button type="button" class="speak-btn speak-btn--inline" data-text="With construction costs soaring globally, it remains uncertain whether replacements will proceed." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「〜という状況の中で」と背景を簡潔に示す構文。原因や同時進行の状況を表す。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>shift from A to B</h3>
-              <p>Describes a change from one state or policy to another.</p>
-              <p class="example-en"><em>Policy has shifted from reducing reliance on nuclear power to making maximum use of it.</em></p>
+              <div class="grammar-head">
+                <h3>shift from A to B</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="shift from A to B" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Describes a change from one state or policy to another.<button type="button" class="speak-btn speak-btn--inline" data-text="Describes a change from one state or policy to another." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Policy has shifted from reducing reliance on nuclear power to making maximum use of it.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Policy has shifted from reducing reliance on nuclear power to making maximum use of it." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>方針・態度の転換を表す。from と to の後は名詞でも動名詞でもよい。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>it remains + adjective + whether clause</h3>
-              <p>Formal pattern to express ongoing uncertainty about an outcome.</p>
-              <p class="example-en"><em>It remains uncertain whether replacements will proceed as the government hopes.</em></p>
+              <div class="grammar-head">
+                <h3>it remains + adjective + whether clause</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="it remains + adjective + whether clause" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Formal pattern to express ongoing uncertainty about an outcome.<button type="button" class="speak-btn speak-btn--inline" data-text="Formal pattern to express ongoing uncertainty about an outcome." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>It remains uncertain whether replacements will proceed as the government hopes.</em><button type="button" class="speak-btn speak-btn--inline" data-text="It remains uncertain whether replacements will proceed as the government hopes." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>形式主語 it + remain + 形容詞 + whether節で「〜かどうかは依然として〜だ」と不確実性を述べる。ニュースや公式文書で多い。</p>
             </div>
             </div>
@@ -733,13 +737,13 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · wallace
                 · score 7</div>
-              <p class="comment-raw">The current cost of building a nuclear reactor is very high. Building a new large-scale nuclear reactor in Japan is exceptionally expensive, costing roughly $7 billion (approx. ¥1 trillion) for a 1 GW unit. This is three to four times higher than costs in other nations, driven by stringent seismic standards and expensive anti-terror measures.</p>
+              <p class="comment-raw speak-line">The current cost of building a nuclear reactor is very high. Building a new large-scale nuclear reactor in Japan is exceptionally expensive, costing roughly $7 billion (approx. ¥1 trillion) for a 1 GW unit. This is three to four times higher than costs in other nations, driven by stringent seismic standards and expensive anti-terror measures.<button type="button" class="speak-btn" data-text="The current cost of building a nuclear reactor is very high. Building a new large-scale nuclear reactor in Japan is exceptionally expensive, costing roughly $7 billion (approx. ¥1 trillion) for a 1 GW unit. This is three to four times higher than costs in other nations, driven by stringent seismic standards and expensive anti-terror measures." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">現在、原子炉を建設するコストは非常に高い。日本で新しい大規模原子炉を建てるのは特に高く、1ギガワット級でおよそ70億ドル（約1兆円）かかる。これは他国のコストの3〜4倍で、厳しい耐震基準と高額なテロ対策が理由だ。</p>
               <ul class='comment-notes'><li>論調は冷静な事実説明。ニュース記事や解説コメントに近い標準的な英語。</li><li>driven by は「〜によって押し上げられている／起因している」という因果関係の表現。</li></ul>
               
@@ -749,7 +753,7 @@
             <article class="comment-card">
               <div class="comment-meta">#2 · kurisupisu
                 · score 6</div>
-              <p class="comment-raw">High-level radioactive waste is stored underground. Where is that then? In a seismically active country such as Japan there is no adequate safe storage.</p>
+              <p class="comment-raw speak-line">High-level radioactive waste is stored underground. Where is that then? In a seismically active country such as Japan there is no adequate safe storage.<button type="button" class="speak-btn" data-text="High-level radioactive waste is stored underground. Where is that then? In a seismically active country such as Japan there is no adequate safe storage." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">高レベル放射性廃棄物は地下に保管されている、と言う。じゃあそれはどこにあるの？日本のような地震が多い国には、十分に安全な保管場所はない。</p>
               <ul class='comment-notes'><li>Where is that then? は前文を受けた反論の修辞疑問。「then」は「だから／それで」という含み。</li><li>there is no adequate safe storage は口語的だが文法的には問題ない。</li></ul>
               
@@ -759,17 +763,17 @@
             <article class="comment-card">
               <div class="comment-meta">#3 · Abe234
                 · score 6</div>
-              <p class="comment-raw">I still have no idea why Japan hasn’t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations, tons of concrete (Japan loves concrete) jobs, I can’t help but think there is a “I’ll rub your back if you rub my back” going on.</p>
+              <p class="comment-raw speak-line">I still have no idea why Japan hasn’t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations, tons of concrete (Japan loves concrete) jobs, I can’t help but think there is a “I’ll rub your back if you rub my back” going on.<button type="button" class="speak-btn" data-text="I still have no idea why Japan hasn’t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations, tons of concrete (Japan loves concrete) jobs, I can’t help but think there is a “I’ll rub your back if you rub my back” going on." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">なぜ日本はもっと太陽光（日の出の国なのに）や海上の風力発電を増やさないのか、今でもさっぱりわからない。放射性物質を監視したり、埋めたり、保管したり、心配したりする必要もない。長期的には原子力発電所より、太陽光や風力のほうが雇用を支えられるかもしれない。空港のために海上に巨大な人工島を作っているのに、なぜ太陽光・風力ステーションのためにやらないの？大量のコンクリート（日本はコンクリート大好き）と雇用があるのに。どうしても「お互いの背中を流し合う」関係が働いているように思えてならない。</p>
               <ul class='comment-notes'><li>being the land of the rising sun は括弧内の皮肉・皮肉めいた補足。「日の出の国なのに」という含み。</li><li>I can&#x27;t help but think は「どうしても〜と思ってしまう」。文末の going on は「そういう状況が起きている／関係がある」。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> I still have no idea why Japan hasn&#x27;t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations? There would be tons of concrete—and Japan loves concrete—and jobs. I can&#x27;t help but think there is a &quot;I&#x27;ll scratch your back if you scratch mine&quot; situation going on.</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>I&#x27;ll rub your back if you rub my back</strong> — 口語イディオム。正しくは scratch your back が多い。利害の交換・癒着・裏取引をほのめかす表現。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> I still have no idea why Japan hasn&#x27;t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations? There would be tons of concrete—and Japan loves concrete—and jobs. I can&#x27;t help but think there is a &quot;I&#x27;ll scratch your back if you scratch mine&quot; situation going on.<button type="button" class="speak-btn speak-btn--inline" data-text="I still have no idea why Japan hasn&#x27;t built more solar (being the land of the rising sun) and more wind turbines out at sea. There would be no radioactive products to watch, bury, monitor, store, or worry about. Maybe solar or wind could support more jobs over the long term than a nuclear power plant. We build massive islands at sea for airports. Why not do that for solar and wind stations? There would be tons of concrete—and Japan loves concrete—and jobs. I can&#x27;t help but think there is a &quot;I&#x27;ll scratch your back if you scratch mine&quot; situation going on." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>I&#x27;ll rub your back if you rub my back</strong><button type="button" class="speak-btn speak-btn--inline" data-text="I&#x27;ll rub your back if you rub my back" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 口語イディオム。正しくは scratch your back が多い。利害の交換・癒着・裏取引をほのめかす表現。</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · obladi
                 · score 5</div>
-              <p class="comment-raw">Nuclear power is only a good option if it is safe. This means updating the facilities. Let’s hope the contracts go to the right people.</p>
+              <p class="comment-raw speak-line">Nuclear power is only a good option if it is safe. This means updating the facilities. Let’s hope the contracts go to the right people.<button type="button" class="speak-btn" data-text="Nuclear power is only a good option if it is safe. This means updating the facilities. Let’s hope the contracts go to the right people." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">原子力は安全であって初めて良い選択肢だ。つまり施設の更新が必要ということ。契約が適切な人たちに行くことを願おう。</p>
               <ul class='comment-notes'><li>the right people は文字通り「正しい人」だが、ここでは「信頼できる業者／適切な受注先」という含意。</li><li>短く穏やかなコメント。皮肉は弱いが、契約先への不信もうっすら読める。</li></ul>
               
@@ -779,18 +783,19 @@
             <article class="comment-card">
               <div class="comment-meta">#5 · IMadeAnAccountJustForThis
                 · score 5</div>
-              <p class="comment-raw">It surprises me that nuclear power accounts for so little energy production in Japan. It&#x27;s seems a LOT of money and expense for a result of only 20% , Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 The disappointing output we get from it and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the JP govt in directing tbh. Why is there so little effort put into renewable energies in Japan? ( Little brown bags are the most likely answer).</p>
+              <p class="comment-raw speak-line">It surprises me that nuclear power accounts for so little energy production in Japan. It&#x27;s seems a LOT of money and expense for a result of only 20% , Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 The disappointing output we get from it and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the JP govt in directing tbh. Why is there so little effort put into renewable energies in Japan? ( Little brown bags are the most likely answer).<button type="button" class="speak-btn" data-text="It surprises me that nuclear power accounts for so little energy production in Japan. It&#x27;s seems a LOT of money and expense for a result of only 20% , Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040 The disappointing output we get from it and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the JP govt in directing tbh. Why is there so little effort put into renewable energies in Japan? ( Little brown bags are the most likely answer)." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">日本で原子力発電が占める割合がこれほど小さいのは驚く。わずか20%という結果のために、莫大なお金と費用がかかっているように思える。日本は2040年度までに電力の20%を原子力で賄う目標を掲げている。得られる出力はがっかりだし、うまくいかないときは本当にひどいことになる。このことから、日本政府の方針の効率さを疑わずにはいられない、正直に言って。なぜ日本では再生可能エネルギーへの取り組みがこれほど少ないのか？（一番ありそうな答えは、小さな茶色い袋だ）。</p>
               <ul class='comment-notes'><li>It&#x27;s seems は誤りで It&#x27;s / It seems のどちらかが正しい。when it goes bad は「うまくいかないとき／事故ると」という口語。</li><li>tbh = to be honest（正直に言うと）のネットスラング。Little brown bags は賄賂・不正の婉曲表現。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> It surprises me that nuclear power accounts for so little energy production in Japan. It seems like a lot of money and expense for a result of only 20%. Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040. The disappointing output we get from it, and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the Japanese government in directing policy, to be honest. Why is there so little effort put into renewable energies in Japan? (Little brown bags are the most likely answer.)</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>tbh</strong> — to be honest の略。SNS・掲示板でよく使うカジュアルな略語。</li><li><span class='mark-symbol'>◇</span> <strong>Little brown bags</strong> — 茶封筒や紙袋に入れた現金＝賄賂・裏金をほのめかす婉曲表現。政治・建設業界の不正を暗示。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> It surprises me that nuclear power accounts for so little energy production in Japan. It seems like a lot of money and expense for a result of only 20%. Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040. The disappointing output we get from it, and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the Japanese government in directing policy, to be honest. Why is there so little effort put into renewable energies in Japan? (Little brown bags are the most likely answer.)<button type="button" class="speak-btn speak-btn--inline" data-text="It surprises me that nuclear power accounts for so little energy production in Japan. It seems like a lot of money and expense for a result of only 20%. Japan is aiming to source 20 percent of its electricity from nuclear power in fiscal 2040. The disappointing output we get from it, and the fact that when it goes bad, it goes really bad, makes me question the efficiency of the Japanese government in directing policy, to be honest. Why is there so little effort put into renewable energies in Japan? (Little brown bags are the most likely answer.)" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>tbh</strong><button type="button" class="speak-btn speak-btn--inline" data-text="tbh" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — to be honest の略。SNS・掲示板でよく使うカジュアルな略語。</li><li><span class='mark-symbol'>◇</span> <strong>Little brown bags</strong><button type="button" class="speak-btn speak-btn--inline" data-text="Little brown bags" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 茶封筒や紙袋に入れた現金＝賄賂・裏金をほのめかす婉曲表現。政治・建設業界の不正を暗示。</li></ul>
             </article>
             
       </details>
     </section>
     
 
-    <footer>English News Digest · 2026-06-06</footer>
+    <footer class="speak-line">English News Digest · 2026-06-06
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>

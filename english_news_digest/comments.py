@@ -5,15 +5,15 @@ from __future__ import annotations
 import html
 import json
 import re
-import subprocess
+import threading
 import urllib.request
 from datetime import datetime, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from .analyze import load_cursor_env
-from .paths import CURSOR_AGENT, DATA
+from .cursor_agent import UsageCollector, parse_json_payload, run_agent
+from .paths import DATA
 from .schemas import ArticleRecord, Edition
 
 JST = ZoneInfo("Asia/Tokyo")
@@ -23,6 +23,26 @@ MIN_COMMENT_CHARS = 12
 COMMENT_LIMIT = 5
 COMMENT_WAIT_HOURS = 24
 STATUS_FINAL = "final"
+
+_page_cache: dict[str, str] = {}
+_page_cache_lock = threading.Lock()
+
+
+def clear_jt_page_cache() -> None:
+    with _page_cache_lock:
+        _page_cache.clear()
+
+
+def fetch_jt_page(url: str) -> str:
+    """Fetch JT article HTML once per build; reused for comment count and reactions."""
+    with _page_cache_lock:
+        cached = _page_cache.get(url)
+    if cached is not None:
+        return cached
+    page_html = _fetch_url(url)
+    with _page_cache_lock:
+        _page_cache[url] = page_html
+    return page_html
 
 
 class _CommentTextParser(HTMLParser):
@@ -101,6 +121,49 @@ def _fetch_url(url: str, *, xhr: bool = False) -> str:
         return resp.read().decode("utf-8", errors="replace")
 
 
+def _comment_count_from_api(article_id: int) -> int:
+    api_url = f"https://japantoday.com/rest.api/article/{article_id}/comment?order=popular"
+    raw = _fetch_url(api_url, xhr=True)
+    payload = json.loads(raw)
+    if payload.get("success"):
+        return int(payload.get("length", 0))
+    return 0
+
+
+def _comment_count_from_html(page_html: str) -> int | None:
+    header = re.search(
+        r'href="#comments"[^>]*>[\s\S]*?itemprop="commentCount">(\d+)',
+        page_html,
+    )
+    if header:
+        return int(header.group(1))
+    return None
+
+
+def fetch_jt_comment_count(source_url: str, *, retries: int = 2) -> int:
+    """Return JT comment count for ranking article selection."""
+    if "japantoday.com" not in source_url:
+        return 0
+
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            page_html = fetch_jt_page(source_url)
+            article_id = extract_jt_article_id(page_html)
+            if article_id is not None:
+                return _comment_count_from_api(article_id)
+            html_count = _comment_count_from_html(page_html)
+            if html_count is not None:
+                return html_count
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            continue
+
+    if last_error is not None:
+        print(f"  comment count warning {source_url}: {last_error}")
+    return 0
+
+
 def extract_jt_article_id(page_html: str) -> int | None:
     match = re.search(r'id="comments-js"[^>]*data-json="([^"]+)"', page_html)
     if not match:
@@ -121,7 +184,7 @@ def fetch_jt_popular_comments(source_url: str, *, limit: int = COMMENT_LIMIT) ->
     if "japantoday.com" not in source_url:
         raise ValueError("only japantoday.com URLs are supported")
 
-    page_html = _fetch_url(source_url)
+    page_html = fetch_jt_page(source_url)
     article_id = extract_jt_article_id(page_html)
     if article_id is None:
         raise RuntimeError("could not find Japan Today article id in page")
@@ -158,6 +221,8 @@ def annotate_comments_with_ai(
     *,
     article_title: str,
     article_url: str,
+    usage_collector: UsageCollector | None = None,
+    article_id: str = "",
 ) -> list[dict]:
     if not comments:
         return []
@@ -199,23 +264,26 @@ Comments:
 {json.dumps(comments, ensure_ascii=False, indent=2)}
 """.strip()
 
-    env = load_cursor_env()
-    proc = subprocess.run(
-        [str(CURSOR_AGENT), "-p", "--force", "--output-format", "json", prompt],
-        capture_output=True,
-        text=True,
-        timeout=300,
-        env=env,
-    )
-    if proc.returncode != 0:
-        raise RuntimeError(proc.stderr.strip() or proc.stdout.strip() or "cursor-agent failed")
-
-    payload = json.loads(proc.stdout)
-    raw = payload.get("result", "").strip()
-    if raw.startswith("```"):
-        raw = re.sub(r"^```(?:json)?\s*", "", raw)
-        raw = re.sub(r"\s*```$", "", raw)
-    data = json.loads(raw)
+    data: dict | None = None
+    last_error: Exception | None = None
+    for attempt in range(3):
+        raw, usage = run_agent(prompt, timeout=300)
+        if usage_collector is not None:
+            usage_collector.add(
+                kind="reader_reactions",
+                article_id=article_id,
+                title=article_title,
+                usage=usage,
+            )
+        try:
+            data = parse_json_payload(raw)
+            break
+        except json.JSONDecodeError as exc:
+            last_error = exc
+            if attempt < 2:
+                print(f"  reactions JSON retry {attempt + 1}/3 for {article_title[:50]}")
+    if data is None:
+        raise RuntimeError(f"reactions JSON parse failed: {last_error}")
 
     items = data.get("items", [])
     for idx, item in enumerate(items, start=1):
@@ -257,21 +325,25 @@ def fetch_comments_for_record(
     edition: Edition,
     *,
     force: bool = False,
+    refresh: bool = False,
+    usage_collector: UsageCollector | None = None,
+    raw_comments: list[dict] | None = None,
 ) -> dict | None:
     if not is_japan_today(record):
         return None
-    if is_comments_final(record.article_id) and not force:
+    if is_comments_final(record.article_id) and not force and not refresh:
         return load_comments(record.article_id)
-    if not comments_are_due(edition) and not force:
-        return None
 
     eligible = comments_eligible_at(edition)
     try:
-        raw_comments = fetch_jt_popular_comments(record.source_url, limit=COMMENT_LIMIT)
+        if raw_comments is None:
+            raw_comments = fetch_jt_popular_comments(record.source_url, limit=COMMENT_LIMIT)
         items = annotate_comments_with_ai(
             raw_comments,
             article_title=record.title,
             article_url=record.source_url,
+            usage_collector=usage_collector,
+            article_id=record.article_id,
         )
     except Exception as exc:  # noqa: BLE001
         print(f"  comments failed {record.slug}: {exc}")
@@ -355,6 +427,8 @@ def render_community_appendix(appendix: dict | None) -> str:
 
     import html as html_mod
 
+    from .render.speech import speak_button
+
     item_count = len(appendix["items"])
     cards = []
     for item in appendix["items"]:
@@ -367,8 +441,8 @@ def render_community_appendix(appendix: dict | None) -> str:
         standard_html = ""
         if standard:
             standard_html = (
-                f"<p class='comment-standard'><span class='label'>標準形:</span> "
-                f"{html_mod.escape(standard)}</p>"
+                f"<p class='comment-standard speak-line'><span class='label'>標準形:</span> "
+                f"{html_mod.escape(standard)}{speak_button(standard, compact=True)}</p>"
             )
 
         marks = []
@@ -378,7 +452,8 @@ def render_community_appendix(appendix: dict | None) -> str:
             note = mark.get("note_ja", "")
             marks.append(
                 f"<li><span class='mark-symbol'>{html_mod.escape(sym)}</span> "
-                f"<strong>{html_mod.escape(term)}</strong> — {html_mod.escape(note)}</li>"
+                f"<strong>{html_mod.escape(term)}</strong>{speak_button(term, compact=True)} "
+                f"— {html_mod.escape(note)}</li>"
             )
         marks_html = ""
         if marks:
@@ -386,12 +461,13 @@ def render_community_appendix(appendix: dict | None) -> str:
 
         rating = item.get("rating", 0)
         author = item.get("author", "")
+        comment_text = item.get("text_raw", "")
         cards.append(
             f"""
             <article class="comment-card">
               <div class="comment-meta">#{item.get('rank', 0)} · {html_mod.escape(author)}
                 · score {rating}</div>
-              <p class="comment-raw">{html_mod.escape(item.get('text_raw', ''))}</p>
+              <p class="comment-raw speak-line">{html_mod.escape(comment_text)}{speak_button(comment_text)}</p>
               <p class="comment-translation">{html_mod.escape(item.get('translation_ja', ''))}</p>
               {notes_html}
               {standard_html}
@@ -400,10 +476,11 @@ def render_community_appendix(appendix: dict | None) -> str:
             """
         )
 
+    summary_text = f"Reader reactions Popular Top {item_count}"
     return f"""
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top {item_count}）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top {item_count}）{speak_button(summary_text, compact=True)}</summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         {''.join(cards)}
       </details>

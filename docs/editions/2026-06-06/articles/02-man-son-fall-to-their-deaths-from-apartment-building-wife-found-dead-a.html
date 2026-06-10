@@ -19,35 +19,45 @@
   <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="reader-page">
     
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Calendar" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       <span class="sep">/</span>
       <a href="../index.html">2026-06-06</a>
       <span class="sep">/</span>
       <span>Man, son fall to their deaths from apartment ...</span>
+      <button type="button" class="speak-btn speak-btn--inline" data-text="Man, son fall to their deaths from apartment ..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
     </nav>
     <header class="panel page-header">
-      <span class="badge crime">crime</span>
-      <h1>Man, son fall to their deaths from apartment building; wife found dead at home</h1>
-      <div class="meta">Japan Today Crime · 2026-06-06</div>
+      <div class="title-head">
+        <span class="badge crime">crime</span>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="crime" onclick="speakText(this)" aria-label="カテゴリを読み上げ">&#9654;</button>
+      </div>
+      <div class="title-head">
+        <h1>Man, son fall to their deaths from apartment building; wife found dead at home</h1>
+        <button type="button" class="speak-btn" data-text="Man, son fall to their deaths from apartment building; wife found dead at home" onclick="speakText(this)" aria-label="タイトルを読み上げ">&#9654;</button>
+      </div>
+      <p class="meta speak-line">Japan Today Crime<button type="button" class="speak-btn speak-btn--inline" data-text="Japan Today Crime" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        · 2026-06-06</p>
       <div class="summary-ja">大阪府富田林市のアパート敷地で、47歳の男性と10歳の息子の遺体が発見された。自宅では妻が刺されて死亡しており、血のついたナイフが近くにあった。警察は殺人・自殺（殺人後自殺）の可能性を含めて調査している。</div>
-      <p class="meta source-link">
+      <p class="meta source-link speak-line">
         <a href="https://japantoday.com/category/crime/man-son-fall-to-their-deaths-from-apartment-building-woman-found-dead-at-their-home" target="_blank" rel="noopener">Original ↗</a>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Original" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls">
+      <div class="reader-controls speak-line">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
+        <button type="button" class="speak-btn speak-btn--inline" data-text="Collapse all deep dives" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       
     <article class="sentence-block" id="s001">
       <div class="sentence-head">
         <div class="sentence-num">01</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The bodies of a 47-year-old man and his 10-year-old son were found on the grounds of an apartment building in Tondabayashi City, Osaka Prefecture, on Friday."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The bodies of a 47-year-old man and his 10-year-old son were found on the grounds of an apartment building in Tondabayashi City, Osaka Prefecture, on Friday." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The bodies of a 47-year-old man and his 10-year-old son were found on the grounds of an apartment building in Tondabayashi City, Osaka Prefecture, on Friday.</p>
       <p class="translation">金曜日、大阪府富田林市のアパートの敷地内で、47歳の男性とその10歳の息子の遺体が発見された。</p>
@@ -60,35 +70,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The bodies of a 47-year-old man and his 10-year-old son</td><td class='chunk-role'>主語</td><td>47歳の男性とその10歳の息子の遺体</td><td>bodies of ... で「〜の遺体」。his は息子を指す所有格。</td></tr><tr><td class='chunk-en'>were found</td><td class='chunk-role'>述語（受動態）</td><td>発見された</td><td>find の受動態。誰が見つけたかは文脈上は不明でも、報道ではよく使われる。</td></tr><tr><td class='chunk-en'>on the grounds of an apartment building</td><td class='chunk-role'>場所の副詞句</td><td>アパートの敷地内で</td><td>grounds は建物の周囲の土地・敷地。</td></tr><tr><td class='chunk-en'>in Tondabayashi City, Osaka Prefecture</td><td class='chunk-role'>場所の修飾</td><td>大阪府富田林市で</td><td>小さい地名→大きい地名の順。日本の住所表記に近い。</td></tr><tr><td class='chunk-en'>on Friday</td><td class='chunk-role'>時を表す副詞句</td><td>金曜日に</td><td>特定の曜日には on を使う。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The bodies of a 47-year-old man and his 10-year-old son<button type="button" class="speak-btn speak-btn--inline" data-text="The bodies of a 47-year-old man and his 10-year-old son" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>47歳の男性とその10歳の息子の遺体</td><td>bodies of ... で「〜の遺体」。his は息子を指す所有格。</td></tr><tr><td class='chunk-en'><span class='speak-line'>were found<button type="button" class="speak-btn speak-btn--inline" data-text="were found" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（受動態）</td><td>発見された</td><td>find の受動態。誰が見つけたかは文脈上は不明でも、報道ではよく使われる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on the grounds of an apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="on the grounds of an apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の副詞句</td><td>アパートの敷地内で</td><td>grounds は建物の周囲の土地・敷地。</td></tr><tr><td class='chunk-en'><span class='speak-line'>in Tondabayashi City, Osaka Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="in Tondabayashi City, Osaka Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所の修飾</td><td>大阪府富田林市で</td><td>小さい地名→大きい地名の順。日本の住所表記に近い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>on Friday<button type="button" class="speak-btn speak-btn--inline" data-text="on Friday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す副詞句</td><td>金曜日に</td><td>特定の曜日には on を使う。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The bodies of a 47-year-old man and his 10-year-old son</div>
+              <div class="chunk-en speak-line">The bodies of a 47-year-old man and his 10-year-old son<button type="button" class="speak-btn speak-btn--inline" data-text="The bodies of a 47-year-old man and his 10-year-old son" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 47歳の男性とその10歳の息子の遺体</div>
               <div>bodies of ... で「〜の遺体」。his は息子を指す所有格。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">were found</div>
+              <div class="chunk-en speak-line">were found<button type="button" class="speak-btn speak-btn--inline" data-text="were found" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（受動態） · 発見された</div>
               <div>find の受動態。誰が見つけたかは文脈上は不明でも、報道ではよく使われる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on the grounds of an apartment building</div>
+              <div class="chunk-en speak-line">on the grounds of an apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="on the grounds of an apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の副詞句 · アパートの敷地内で</div>
               <div>grounds は建物の周囲の土地・敷地。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">in Tondabayashi City, Osaka Prefecture</div>
+              <div class="chunk-en speak-line">in Tondabayashi City, Osaka Prefecture<button type="button" class="speak-btn speak-btn--inline" data-text="in Tondabayashi City, Osaka Prefecture" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所の修飾 · 大阪府富田林市で</div>
               <div>小さい地名→大きい地名の順。日本の住所表記に近い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">on Friday</div>
+              <div class="chunk-en speak-line">on Friday<button type="button" class="speak-btn speak-btn--inline" data-text="on Friday" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す副詞句 · 金曜日に</div>
               <div>特定の曜日には on を使う。</div>
             </div>
@@ -101,8 +111,7 @@
     <article class="sentence-block" id="s002">
       <div class="sentence-head">
         <div class="sentence-num">02</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Police said they did not live in the apartment building, NTV reported."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Police said they did not live in the apartment building, NTV reported." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Police said they did not live in the apartment building, NTV reported.</p>
       <p class="translation">警察によると、二人はそのアパートには住んでいなかった。日本テレビが報じた。</p>
@@ -115,23 +124,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Police said</td><td class='chunk-role'>主節の述語</td><td>警察は言った</td><td>said の後に that 省略の内容節が続く。</td></tr><tr><td class='chunk-en'>they did not live in the apartment building</td><td class='chunk-role'>内容節（間接話法）</td><td>彼らはそのアパートに住んでいなかった</td><td>they は前の文の男性と息子を指す。did not live は過去形の否定。</td></tr><tr><td class='chunk-en'>NTV reported</td><td class='chunk-role'>付加情報（挿入句）</td><td>日本テレビが報じた</td><td>文末に情報源を置く報道英語の型。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Police said<button type="button" class="speak-btn speak-btn--inline" data-text="Police said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節の述語</td><td>警察は言った</td><td>said の後に that 省略の内容節が続く。</td></tr><tr><td class='chunk-en'><span class='speak-line'>they did not live in the apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="they did not live in the apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節（間接話法）</td><td>彼らはそのアパートに住んでいなかった</td><td>they は前の文の男性と息子を指す。did not live は過去形の否定。</td></tr><tr><td class='chunk-en'><span class='speak-line'>NTV reported<button type="button" class="speak-btn speak-btn--inline" data-text="NTV reported" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>付加情報（挿入句）</td><td>日本テレビが報じた</td><td>文末に情報源を置く報道英語の型。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Police said</div>
+              <div class="chunk-en speak-line">Police said<button type="button" class="speak-btn speak-btn--inline" data-text="Police said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節の述語 · 警察は言った</div>
               <div>said の後に that 省略の内容節が続く。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">they did not live in the apartment building</div>
+              <div class="chunk-en speak-line">they did not live in the apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="they did not live in the apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節（間接話法） · 彼らはそのアパートに住んでいなかった</div>
               <div>they は前の文の男性と息子を指す。did not live は過去形の否定。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">NTV reported</div>
+              <div class="chunk-en speak-line">NTV reported<button type="button" class="speak-btn speak-btn--inline" data-text="NTV reported" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">付加情報（挿入句） · 日本テレビが報じた</div>
               <div>文末に情報源を置く報道英語の型。</div>
             </div>
@@ -144,8 +153,7 @@
     <article class="sentence-block" id="s003">
       <div class="sentence-head">
         <div class="sentence-num">03</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Police identified the bodies as Junji Okuda and his son Ibuki."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Police identified the bodies as Junji Okuda and his son Ibuki." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Police identified the bodies as Junji Okuda and his son Ibuki.</p>
       <p class="translation">警察は遺体の身元を奥田順次とその息子の息吹と確認した。</p>
@@ -158,17 +166,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Police identified the bodies</td><td class='chunk-role'>主語＋述語</td><td>警察は遺体を特定した</td><td>identify は身元確認のニュース語。</td></tr><tr><td class='chunk-en'>as Junji Okuda and his son Ibuki</td><td class='chunk-role'>補語</td><td>奥田順次とその息子息吹として</td><td>identify ... as ... で「〜であると確認する」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Police identified the bodies<button type="button" class="speak-btn speak-btn--inline" data-text="Police identified the bodies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語＋述語</td><td>警察は遺体を特定した</td><td>identify は身元確認のニュース語。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as Junji Okuda and his son Ibuki<button type="button" class="speak-btn speak-btn--inline" data-text="as Junji Okuda and his son Ibuki" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補語</td><td>奥田順次とその息子息吹として</td><td>identify ... as ... で「〜であると確認する」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Police identified the bodies</div>
+              <div class="chunk-en speak-line">Police identified the bodies<button type="button" class="speak-btn speak-btn--inline" data-text="Police identified the bodies" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語＋述語 · 警察は遺体を特定した</div>
               <div>identify は身元確認のニュース語。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as Junji Okuda and his son Ibuki</div>
+              <div class="chunk-en speak-line">as Junji Okuda and his son Ibuki<button type="button" class="speak-btn speak-btn--inline" data-text="as Junji Okuda and his son Ibuki" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補語 · 奥田順次とその息子息吹として</div>
               <div>identify ... as ... で「〜であると確認する」。</div>
             </div>
@@ -181,8 +189,7 @@
     <article class="sentence-block" id="s004">
       <div class="sentence-head">
         <div class="sentence-num">04</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Later, Okuda&#x27;s 47-year-old wife, Aiko, was found dead at their home after having been stabbed."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Later, Okuda&#x27;s 47-year-old wife, Aiko, was found dead at their home after having been stabbed." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Later, Okuda&#x27;s 47-year-old wife, Aiko, was found dead at their home after having been stabbed.</p>
       <p class="translation">その後、奥田の47歳の妻・愛子が、刺された後に自宅で死亡した状態で発見された。</p>
@@ -195,35 +202,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Later</td><td class='chunk-role'>時の副詞</td><td>その後</td><td>事件の時系列を進める接続副詞。</td></tr><tr><td class='chunk-en'>Okuda&#x27;s 47-year-old wife, Aiko</td><td class='chunk-role'>主語</td><td>奥田の47歳の妻・愛子</td><td>カンマで挟んだ Aiko は同格（＝妻の名前）。</td></tr><tr><td class='chunk-en'>was found dead</td><td class='chunk-role'>述語</td><td>死亡した状態で発見された</td><td>found + 形容詞で状態を表す。found dead は報道で頻出。</td></tr><tr><td class='chunk-en'>at their home</td><td class='chunk-role'>場所</td><td>自宅で</td><td>their は奥田夫妻の家。</td></tr><tr><td class='chunk-en'>after having been stabbed</td><td class='chunk-role'>時・理由の従属節</td><td>刺された後に</td><td>having been + 過去分詞で、前に起きた受動作を示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Later<button type="button" class="speak-btn speak-btn--inline" data-text="Later" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の副詞</td><td>その後</td><td>事件の時系列を進める接続副詞。</td></tr><tr><td class='chunk-en'><span class='speak-line'>Okuda&#x27;s 47-year-old wife, Aiko<button type="button" class="speak-btn speak-btn--inline" data-text="Okuda&#x27;s 47-year-old wife, Aiko" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>奥田の47歳の妻・愛子</td><td>カンマで挟んだ Aiko は同格（＝妻の名前）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was found dead<button type="button" class="speak-btn speak-btn--inline" data-text="was found dead" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>死亡した状態で発見された</td><td>found + 形容詞で状態を表す。found dead は報道で頻出。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at their home<button type="button" class="speak-btn speak-btn--inline" data-text="at their home" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>場所</td><td>自宅で</td><td>their は奥田夫妻の家。</td></tr><tr><td class='chunk-en'><span class='speak-line'>after having been stabbed<button type="button" class="speak-btn speak-btn--inline" data-text="after having been stabbed" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時・理由の従属節</td><td>刺された後に</td><td>having been + 過去分詞で、前に起きた受動作を示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Later</div>
+              <div class="chunk-en speak-line">Later<button type="button" class="speak-btn speak-btn--inline" data-text="Later" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の副詞 · その後</div>
               <div>事件の時系列を進める接続副詞。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">Okuda&#x27;s 47-year-old wife, Aiko</div>
+              <div class="chunk-en speak-line">Okuda&#x27;s 47-year-old wife, Aiko<button type="button" class="speak-btn speak-btn--inline" data-text="Okuda&#x27;s 47-year-old wife, Aiko" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 奥田の47歳の妻・愛子</div>
               <div>カンマで挟んだ Aiko は同格（＝妻の名前）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was found dead</div>
+              <div class="chunk-en speak-line">was found dead<button type="button" class="speak-btn speak-btn--inline" data-text="was found dead" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 死亡した状態で発見された</div>
               <div>found + 形容詞で状態を表す。found dead は報道で頻出。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at their home</div>
+              <div class="chunk-en speak-line">at their home<button type="button" class="speak-btn speak-btn--inline" data-text="at their home" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">場所 · 自宅で</div>
               <div>their は奥田夫妻の家。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">after having been stabbed</div>
+              <div class="chunk-en speak-line">after having been stabbed<button type="button" class="speak-btn speak-btn--inline" data-text="after having been stabbed" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時・理由の従属節 · 刺された後に</div>
               <div>having been + 過去分詞で、前に起きた受動作を示す。</div>
             </div>
@@ -236,8 +243,7 @@
     <article class="sentence-block" id="s005">
       <div class="sentence-head">
         <div class="sentence-num">05</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="A blood-stained knife was near her body."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="A blood-stained knife was near her body." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">A blood-stained knife was near her body.</p>
       <p class="translation">血のついたナイフが遺体の近くにあった。</p>
@@ -250,17 +256,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>A blood-stained knife</td><td class='chunk-role'>主語</td><td>血のついたナイフ</td><td>名詞＋過去分詞で形容詞化（stain → stained）。</td></tr><tr><td class='chunk-en'>was near her body</td><td class='chunk-role'>述語</td><td>彼女の遺体の近くにあった</td><td>状態を述べる単純過去。発見された状況の描写。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>A blood-stained knife<button type="button" class="speak-btn speak-btn--inline" data-text="A blood-stained knife" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>血のついたナイフ</td><td>名詞＋過去分詞で形容詞化（stain → stained）。</td></tr><tr><td class='chunk-en'><span class='speak-line'>was near her body<button type="button" class="speak-btn speak-btn--inline" data-text="was near her body" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語</td><td>彼女の遺体の近くにあった</td><td>状態を述べる単純過去。発見された状況の描写。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">A blood-stained knife</div>
+              <div class="chunk-en speak-line">A blood-stained knife<button type="button" class="speak-btn speak-btn--inline" data-text="A blood-stained knife" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · 血のついたナイフ</div>
               <div>名詞＋過去分詞で形容詞化（stain → stained）。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">was near her body</div>
+              <div class="chunk-en speak-line">was near her body<button type="button" class="speak-btn speak-btn--inline" data-text="was near her body" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語 · 彼女の遺体の近くにあった</div>
               <div>状態を述べる単純過去。発見された状況の描写。</div>
             </div>
@@ -273,8 +279,7 @@
     <article class="sentence-block" id="s006">
       <div class="sentence-head">
         <div class="sentence-num">06</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="There were no signs of forced entry or ransacking."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="There were no signs of forced entry or ransacking." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">There were no signs of forced entry or ransacking.</p>
       <p class="translation">侵入の形跡や物色の痕跡はなかった。</p>
@@ -287,23 +292,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>There were no signs</td><td class='chunk-role'>存在構文の骨格</td><td>形跡はなかった</td><td>There is/are の否定形で存在の有無を述べる。</td></tr><tr><td class='chunk-en'>of forced entry</td><td class='chunk-role'>signs の修飾</td><td>侵入の</td><td>forced entry は犯罪報道のコロケーション。</td></tr><tr><td class='chunk-en'>or ransacking</td><td class='chunk-role'>並列</td><td>または物色の</td><td>ransack は「（部屋などを）荒らして物色する」。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>There were no signs<button type="button" class="speak-btn speak-btn--inline" data-text="There were no signs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>存在構文の骨格</td><td>形跡はなかった</td><td>There is/are の否定形で存在の有無を述べる。</td></tr><tr><td class='chunk-en'><span class='speak-line'>of forced entry<button type="button" class="speak-btn speak-btn--inline" data-text="of forced entry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>signs の修飾</td><td>侵入の</td><td>forced entry は犯罪報道のコロケーション。</td></tr><tr><td class='chunk-en'><span class='speak-line'>or ransacking<button type="button" class="speak-btn speak-btn--inline" data-text="or ransacking" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>並列</td><td>または物色の</td><td>ransack は「（部屋などを）荒らして物色する」。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">There were no signs</div>
+              <div class="chunk-en speak-line">There were no signs<button type="button" class="speak-btn speak-btn--inline" data-text="There were no signs" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">存在構文の骨格 · 形跡はなかった</div>
               <div>There is/are の否定形で存在の有無を述べる。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">of forced entry</div>
+              <div class="chunk-en speak-line">of forced entry<button type="button" class="speak-btn speak-btn--inline" data-text="of forced entry" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">signs の修飾 · 侵入の</div>
               <div>forced entry は犯罪報道のコロケーション。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">or ransacking</div>
+              <div class="chunk-en speak-line">or ransacking<button type="button" class="speak-btn speak-btn--inline" data-text="or ransacking" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">並列 · または物色の</div>
               <div>ransack は「（部屋などを）荒らして物色する」。</div>
             </div>
@@ -316,8 +321,7 @@
     <article class="sentence-block" id="s007">
       <div class="sentence-head">
         <div class="sentence-num">07</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="According to police, the apartment building manager called 110 at 4.55 p.m., and said a man and a boy were lying on the ground."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="According to police, the apartment building manager called 110 at 4.55 p.m., and said a man and a boy were lying on the ground." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">According to police, the apartment building manager called 110 at 4.55 p.m., and said a man and a boy were lying on the ground.</p>
       <p class="translation">警察によると、アパートの管理人が午後4時55分に110番に通報し、男性と少年が地面に倒れていると伝えた。</p>
@@ -330,35 +334,35 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>According to police</td><td class='chunk-role'>副詞句（情報源）</td><td>警察によると</td><td>報道の出所を明示する定型句。</td></tr><tr><td class='chunk-en'>the apartment building manager</td><td class='chunk-role'>主語</td><td>アパートの管理人</td><td>manager は建物管理人。</td></tr><tr><td class='chunk-en'>called 110 at 4.55 p.m.</td><td class='chunk-role'>述語（第1節）</td><td>午後4時55分に110番に電話した</td><td>日本では110が警察番号。at + 時刻。</td></tr><tr><td class='chunk-en'>and said</td><td class='chunk-role'>述語（第2節）</td><td>そして言った</td><td>said の後に間接話法の内容節。</td></tr><tr><td class='chunk-en'>a man and a boy were lying on the ground</td><td class='chunk-role'>内容節</td><td>男性と少年が地面に倒れていた</td><td>were lying はその時点での状態。boy は10歳の息子を指す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>According to police<button type="button" class="speak-btn speak-btn--inline" data-text="According to police" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>副詞句（情報源）</td><td>警察によると</td><td>報道の出所を明示する定型句。</td></tr><tr><td class='chunk-en'><span class='speak-line'>the apartment building manager<button type="button" class="speak-btn speak-btn--inline" data-text="the apartment building manager" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主語</td><td>アパートの管理人</td><td>manager は建物管理人。</td></tr><tr><td class='chunk-en'><span class='speak-line'>called 110 at 4.55 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="called 110 at 4.55 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（第1節）</td><td>午後4時55分に110番に電話した</td><td>日本では110が警察番号。at + 時刻。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and said<button type="button" class="speak-btn speak-btn--inline" data-text="and said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>述語（第2節）</td><td>そして言った</td><td>said の後に間接話法の内容節。</td></tr><tr><td class='chunk-en'><span class='speak-line'>a man and a boy were lying on the ground<button type="button" class="speak-btn speak-btn--inline" data-text="a man and a boy were lying on the ground" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節</td><td>男性と少年が地面に倒れていた</td><td>were lying はその時点での状態。boy は10歳の息子を指す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">According to police</div>
+              <div class="chunk-en speak-line">According to police<button type="button" class="speak-btn speak-btn--inline" data-text="According to police" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">副詞句（情報源） · 警察によると</div>
               <div>報道の出所を明示する定型句。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">the apartment building manager</div>
+              <div class="chunk-en speak-line">the apartment building manager<button type="button" class="speak-btn speak-btn--inline" data-text="the apartment building manager" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主語 · アパートの管理人</div>
               <div>manager は建物管理人。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">called 110 at 4.55 p.m.</div>
+              <div class="chunk-en speak-line">called 110 at 4.55 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="called 110 at 4.55 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（第1節） · 午後4時55分に110番に電話した</div>
               <div>日本では110が警察番号。at + 時刻。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and said</div>
+              <div class="chunk-en speak-line">and said<button type="button" class="speak-btn speak-btn--inline" data-text="and said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">述語（第2節） · そして言った</div>
               <div>said の後に間接話法の内容節。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">a man and a boy were lying on the ground</div>
+              <div class="chunk-en speak-line">a man and a boy were lying on the ground<button type="button" class="speak-btn speak-btn--inline" data-text="a man and a boy were lying on the ground" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節 · 男性と少年が地面に倒れていた</div>
               <div>were lying はその時点での状態。boy は10歳の息子を指す。</div>
             </div>
@@ -371,8 +375,7 @@
     <article class="sentence-block" id="s008">
       <div class="sentence-head">
         <div class="sentence-num">08</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="They were taken to hospital where they were pronounced dead."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="They were taken to hospital where they were pronounced dead." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">They were taken to hospital where they were pronounced dead.</p>
       <p class="translation">二人は病院に搬送されたが、そこで死亡が確認された。</p>
@@ -385,17 +388,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>They were taken to hospital</td><td class='chunk-role'>主節</td><td>彼らは病院に運ばれた</td><td>take の受動態。英国英語では hospital に the を付けないことが多い。</td></tr><tr><td class='chunk-en'>where they were pronounced dead</td><td class='chunk-role'>関係節</td><td>そこで彼らは死亡したと宣告された</td><td>pronounce dead は「死亡を確認・宣告する」報道表現。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>They were taken to hospital<button type="button" class="speak-btn speak-btn--inline" data-text="They were taken to hospital" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>彼らは病院に運ばれた</td><td>take の受動態。英国英語では hospital に the を付けないことが多い。</td></tr><tr><td class='chunk-en'><span class='speak-line'>where they were pronounced dead<button type="button" class="speak-btn speak-btn--inline" data-text="where they were pronounced dead" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係節</td><td>そこで彼らは死亡したと宣告された</td><td>pronounce dead は「死亡を確認・宣告する」報道表現。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">They were taken to hospital</div>
+              <div class="chunk-en speak-line">They were taken to hospital<button type="button" class="speak-btn speak-btn--inline" data-text="They were taken to hospital" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 彼らは病院に運ばれた</div>
               <div>take の受動態。英国英語では hospital に the を付けないことが多い。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">where they were pronounced dead</div>
+              <div class="chunk-en speak-line">where they were pronounced dead<button type="button" class="speak-btn speak-btn--inline" data-text="where they were pronounced dead" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係節 · そこで彼らは死亡したと宣告された</div>
               <div>pronounce dead は「死亡を確認・宣告する」報道表現。</div>
             </div>
@@ -408,8 +411,7 @@
     <article class="sentence-block" id="s009">
       <div class="sentence-head">
         <div class="sentence-num">09</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="After learning Okuda&#x27;s address from his ID, police went to his house at around 6:55 p.m. and found his wife."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="After learning Okuda&#x27;s address from his ID, police went to his house at around 6:55 p.m. and found his wife." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">After learning Okuda&#x27;s address from his ID, police went to his house at around 6:55 p.m. and found his wife.</p>
       <p class="translation">身分証明書から奥田の住所を把握した後、警察は午後6時55分ごろに自宅を訪れ、妻を発見した。</p>
@@ -422,29 +424,29 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>After learning Okuda&#x27;s address from his ID</td><td class='chunk-role'>時を表す分詞構文</td><td>身分証から奥田の住所を知った後</td><td>After + 動名詞で時間的前置き。ID は identification の略。</td></tr><tr><td class='chunk-en'>police went to his house</td><td class='chunk-role'>主節（前半）</td><td>警察は彼の家に行った</td><td>go to で移動先を示す。</td></tr><tr><td class='chunk-en'>at around 6:55 p.m.</td><td class='chunk-role'>時の修飾</td><td>午後6時55分ごろに</td><td>around はおおよその時刻。</td></tr><tr><td class='chunk-en'>and found his wife</td><td class='chunk-role'>主節（後半）</td><td>そして彼の妻を発見した</td><td>went と found が and で並列。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>After learning Okuda&#x27;s address from his ID<button type="button" class="speak-btn speak-btn--inline" data-text="After learning Okuda&#x27;s address from his ID" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時を表す分詞構文</td><td>身分証から奥田の住所を知った後</td><td>After + 動名詞で時間的前置き。ID は identification の略。</td></tr><tr><td class='chunk-en'><span class='speak-line'>police went to his house<button type="button" class="speak-btn speak-btn--inline" data-text="police went to his house" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（前半）</td><td>警察は彼の家に行った</td><td>go to で移動先を示す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>at around 6:55 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="at around 6:55 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>時の修飾</td><td>午後6時55分ごろに</td><td>around はおおよその時刻。</td></tr><tr><td class='chunk-en'><span class='speak-line'>and found his wife<button type="button" class="speak-btn speak-btn--inline" data-text="and found his wife" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節（後半）</td><td>そして彼の妻を発見した</td><td>went と found が and で並列。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">After learning Okuda&#x27;s address from his ID</div>
+              <div class="chunk-en speak-line">After learning Okuda&#x27;s address from his ID<button type="button" class="speak-btn speak-btn--inline" data-text="After learning Okuda&#x27;s address from his ID" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時を表す分詞構文 · 身分証から奥田の住所を知った後</div>
               <div>After + 動名詞で時間的前置き。ID は identification の略。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">police went to his house</div>
+              <div class="chunk-en speak-line">police went to his house<button type="button" class="speak-btn speak-btn--inline" data-text="police went to his house" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（前半） · 警察は彼の家に行った</div>
               <div>go to で移動先を示す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">at around 6:55 p.m.</div>
+              <div class="chunk-en speak-line">at around 6:55 p.m.<button type="button" class="speak-btn speak-btn--inline" data-text="at around 6:55 p.m." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">時の修飾 · 午後6時55分ごろに</div>
               <div>around はおおよその時刻。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">and found his wife</div>
+              <div class="chunk-en speak-line">and found his wife<button type="button" class="speak-btn speak-btn--inline" data-text="and found his wife" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節（後半） · そして彼の妻を発見した</div>
               <div>went と found が and で並列。</div>
             </div>
@@ -457,8 +459,7 @@
     <article class="sentence-block" id="s010">
       <div class="sentence-head">
         <div class="sentence-num">10</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="The home is about two kilometers from the apartment building where Okuda and his son were found."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="The home is about two kilometers from the apartment building where Okuda and his son were found." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">The home is about two kilometers from the apartment building where Okuda and his son were found.</p>
       <p class="translation">その自宅は、奥田と息子が発見されたアパートから約2キロ離れている。</p>
@@ -471,17 +472,17 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>The home is about two kilometers from the apartment building</td><td class='chunk-role'>主節</td><td>その家はアパートから約2キロある</td><td>be ... from で距離を表す。</td></tr><tr><td class='chunk-en'>where Okuda and his son were found</td><td class='chunk-role'>関係副詞節</td><td>奥田と息子が発見された（場所）</td><td>where = at which（そのアパートで）。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>The home is about two kilometers from the apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="The home is about two kilometers from the apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>その家はアパートから約2キロある</td><td>be ... from で距離を表す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>where Okuda and his son were found<button type="button" class="speak-btn speak-btn--inline" data-text="where Okuda and his son were found" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>関係副詞節</td><td>奥田と息子が発見された（場所）</td><td>where = at which（そのアパートで）。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">The home is about two kilometers from the apartment building</div>
+              <div class="chunk-en speak-line">The home is about two kilometers from the apartment building<button type="button" class="speak-btn speak-btn--inline" data-text="The home is about two kilometers from the apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · その家はアパートから約2キロある</div>
               <div>be ... from で距離を表す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">where Okuda and his son were found</div>
+              <div class="chunk-en speak-line">where Okuda and his son were found<button type="button" class="speak-btn speak-btn--inline" data-text="where Okuda and his son were found" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">関係副詞節 · 奥田と息子が発見された（場所）</div>
               <div>where = at which（そのアパートで）。</div>
             </div>
@@ -494,8 +495,7 @@
     <article class="sentence-block" id="s011">
       <div class="sentence-head">
         <div class="sentence-num">11</div>
-        <button type="button" class="speak-btn speak-btn--sentence" data-text="Police said they are investigating the deaths as a murder-suicide."
-                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+        <button type="button" class="speak-btn" data-text="Police said they are investigating the deaths as a murder-suicide." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
       </div>
       <p class="sentence-en">Police said they are investigating the deaths as a murder-suicide.</p>
       <p class="translation">警察は、一連の死亡について殺人・自殺（殺人後自殺）の可能性として捜査していると述べた。</p>
@@ -508,23 +508,23 @@
       <thead><tr>
         <th>文節</th><th>役割</th><th>直訳</th><th>解説</th>
       </tr></thead>
-      <tbody><tr><td class='chunk-en'>Police said</td><td class='chunk-role'>主節</td><td>警察は言った</td><td>間接話法の導入。</td></tr><tr><td class='chunk-en'>they are investigating the deaths</td><td class='chunk-role'>内容節</td><td>彼らは死亡事件を捜査している</td><td>the deaths は3人の死亡をまとめて指す。</td></tr><tr><td class='chunk-en'>as a murder-suicide</td><td class='chunk-role'>補語・見方</td><td>殺人・自殺として</td><td>as で捜査の方向性・仮説を示す。</td></tr></tbody>
+      <tbody><tr><td class='chunk-en'><span class='speak-line'>Police said<button type="button" class="speak-btn speak-btn--inline" data-text="Police said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>主節</td><td>警察は言った</td><td>間接話法の導入。</td></tr><tr><td class='chunk-en'><span class='speak-line'>they are investigating the deaths<button type="button" class="speak-btn speak-btn--inline" data-text="they are investigating the deaths" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>内容節</td><td>彼らは死亡事件を捜査している</td><td>the deaths は3人の死亡をまとめて指す。</td></tr><tr><td class='chunk-en'><span class='speak-line'>as a murder-suicide<button type="button" class="speak-btn speak-btn--inline" data-text="as a murder-suicide" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></span></td><td class='chunk-role'>補語・見方</td><td>殺人・自殺として</td><td>as で捜査の方向性・仮説を示す。</td></tr></tbody>
     </table>
     <div class="chunk-stack">
             <div class="chunk-card">
-              <div class="chunk-en">Police said</div>
+              <div class="chunk-en speak-line">Police said<button type="button" class="speak-btn speak-btn--inline" data-text="Police said" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">主節 · 警察は言った</div>
               <div>間接話法の導入。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">they are investigating the deaths</div>
+              <div class="chunk-en speak-line">they are investigating the deaths<button type="button" class="speak-btn speak-btn--inline" data-text="they are investigating the deaths" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">内容節 · 彼らは死亡事件を捜査している</div>
               <div>the deaths は3人の死亡をまとめて指す。</div>
             </div>
             
             <div class="chunk-card">
-              <div class="chunk-en">as a murder-suicide</div>
+              <div class="chunk-en speak-line">as a murder-suicide<button type="button" class="speak-btn speak-btn--inline" data-text="as a murder-suicide" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></div>
               <div class="chunk-meta">補語・見方 · 殺人・自殺として</div>
               <div>as で捜査の方向性・仮説を示す。</div>
             </div>
@@ -537,122 +537,127 @@
     </section>
 
     <section class="panel">
-      <h2>Vocabulary</h2>
+      <h2 class="speak-line">Vocabulary<button type="button" class="speak-btn speak-btn--inline" data-text="Vocabulary" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="vocab-grid">
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>grounds</h3>
-                <button type="button" class="speak-btn" data-text="grounds"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="grounds" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ɡraʊndz/</div>
               <p>（建物の）敷地、庭</p>
-              <p class="example-en"><em>on the grounds of an apartment building</em></p>
+              <p class="example-en speak-line"><em>on the grounds of an apartment building</em><button type="button" class="speak-btn speak-btn--inline" data-text="on the grounds of an apartment building" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">アパートの敷地内で</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>identify</h3>
-                <button type="button" class="speak-btn" data-text="identify"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="identify" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/aɪˈdentɪfaɪ/</div>
               <p>（身元などを）特定する</p>
-              <p class="example-en"><em>Police identified the bodies as Junji Okuda and his son Ibuki.</em></p>
+              <p class="example-en speak-line"><em>Police identified the bodies as Junji Okuda and his son Ibuki.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Police identified the bodies as Junji Okuda and his son Ibuki." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">警察は遺体の身元を奥田順次とその息子息吹と確認した。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>blood-stained</h3>
-                <button type="button" class="speak-btn" data-text="blood-stained"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="blood-stained" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈblʌdsteɪnd/</div>
               <p>血のついた</p>
-              <p class="example-en"><em>A blood-stained knife was near her body.</em></p>
+              <p class="example-en speak-line"><em>A blood-stained knife was near her body.</em><button type="button" class="speak-btn speak-btn--inline" data-text="A blood-stained knife was near her body." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">血のついたナイフが遺体の近くにあった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>forced entry</h3>
-                <button type="button" class="speak-btn" data-text="forced entry"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="forced entry" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/fɔːrst ˈentri/</div>
               <p>侵入、押し入り</p>
-              <p class="example-en"><em>There were no signs of forced entry or ransacking.</em></p>
+              <p class="example-en speak-line"><em>There were no signs of forced entry or ransacking.</em><button type="button" class="speak-btn speak-btn--inline" data-text="There were no signs of forced entry or ransacking." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">侵入の形跡や物色の痕跡はなかった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>ransacking</h3>
-                <button type="button" class="speak-btn" data-text="ransacking"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="ransacking" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈrænsækɪŋ/</div>
               <p>物色、荒らし</p>
-              <p class="example-en"><em>There were no signs of forced entry or ransacking.</em></p>
+              <p class="example-en speak-line"><em>There were no signs of forced entry or ransacking.</em><button type="button" class="speak-btn speak-btn--inline" data-text="There were no signs of forced entry or ransacking." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">侵入の形跡や物色の痕跡はなかった。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>pronounce dead</h3>
-                <button type="button" class="speak-btn" data-text="pronounce dead"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="pronounce dead" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/prəˈnaʊns ded/</div>
               <p>死亡を確認する、死亡を宣告する</p>
-              <p class="example-en"><em>They were taken to hospital where they were pronounced dead.</em></p>
+              <p class="example-en speak-line"><em>They were taken to hospital where they were pronounced dead.</em><button type="button" class="speak-btn speak-btn--inline" data-text="They were taken to hospital where they were pronounced dead." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">二人は病院に搬送されたが、そこで死亡が確認された。</p>
             </div>
             
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>murder-suicide</h3>
-                <button type="button" class="speak-btn" data-text="murder-suicide"
-                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="murder-suicide" onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">/ˈmɜːrdər ˌsuːɪˈsaɪd/</div>
               <p>殺人後自殺、殺人・自殺事件</p>
-              <p class="example-en"><em>Police said they are investigating the deaths as a murder-suicide.</em></p>
+              <p class="example-en speak-line"><em>Police said they are investigating the deaths as a murder-suicide.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Police said they are investigating the deaths as a murder-suicide." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="example-ja">警察は一連の死亡を殺人・自殺の可能性として捜査していると述べた。</p>
             </div>
             </div>
     </section>
 
     <section class="panel">
-      <h2>Grammar focus</h2>
+      <h2 class="speak-line">Grammar focus<button type="button" class="speak-btn speak-btn--inline" data-text="Grammar focus" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></h2>
       <div class="grammar-grid">
             <div class="grammar-card">
-              <h3>Passive voice in crime reporting</h3>
-              <p>Use be + past participle (were found, were taken, were pronounced) to focus on victims and events rather than who performed the action.</p>
-              <p class="example-en"><em>The bodies were found on the grounds of an apartment building.</em></p>
+              <div class="grammar-head">
+                <h3>Passive voice in crime reporting</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="Passive voice in crime reporting" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">Use be + past participle (were found, were taken, were pronounced) to focus on victims and events rather than who performed the action.<button type="button" class="speak-btn speak-btn--inline" data-text="Use be + past participle (were found, were taken, were pronounced) to focus on victims and events rather than who performed the action." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>The bodies were found on the grounds of an apartment building.</em><button type="button" class="speak-btn speak-btn--inline" data-text="The bodies were found on the grounds of an apartment building." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>犯罪・事故報道では受動態で「何が起きたか」に焦点を当て、加害者や発見者を明示しない書き方が多い。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>identify A as B</h3>
-              <p>identify + object + as + noun/name confirms identity.</p>
-              <p class="example-en"><em>Police identified the bodies as Junji Okuda and his son Ibuki.</em></p>
+              <div class="grammar-head">
+                <h3>identify A as B</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="identify A as B" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">identify + object + as + noun/name confirms identity.<button type="button" class="speak-btn speak-btn--inline" data-text="identify + object + as + noun/name confirms identity." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>Police identified the bodies as Junji Okuda and his son Ibuki.</em><button type="button" class="speak-btn speak-btn--inline" data-text="Police identified the bodies as Junji Okuda and his son Ibuki." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「AをBと特定する」という身元確認の定型表現。as の後に名前や役割が来る。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>After + perfect passive gerund</h3>
-              <p>after having been + past participle shows a completed passive action before the main event.</p>
-              <p class="example-en"><em>She was found dead after having been stabbed.</em></p>
+              <div class="grammar-head">
+                <h3>After + perfect passive gerund</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="After + perfect passive gerund" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">after having been + past participle shows a completed passive action before the main event.<button type="button" class="speak-btn speak-btn--inline" data-text="after having been + past participle shows a completed passive action before the main event." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>She was found dead after having been stabbed.</em><button type="button" class="speak-btn speak-btn--inline" data-text="She was found dead after having been stabbed." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>「〜された後に」という完了した受動作を、主な出来事より前に起きたこととして示す。</p>
             </div>
             
             <div class="grammar-card">
-              <h3>investigate ... as ...</h3>
-              <p>investigate + object + as + noun frames how authorities classify a case.</p>
-              <p class="example-en"><em>They are investigating the deaths as a murder-suicide.</em></p>
+              <div class="grammar-head">
+                <h3>investigate ... as ...</h3>
+                <button type="button" class="speak-btn speak-btn--inline" data-text="investigate ... as ..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+              </div>
+              <p class="speak-line">investigate + object + as + noun frames how authorities classify a case.<button type="button" class="speak-btn speak-btn--inline" data-text="investigate + object + as + noun frames how authorities classify a case." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <p class="example-en speak-line"><em>They are investigating the deaths as a murder-suicide.</em><button type="button" class="speak-btn speak-btn--inline" data-text="They are investigating the deaths as a murder-suicide." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p>捜査当局が事件をどの類型として扱っているかを示す。as の後に事件の見方・分類が続く。</p>
             </div>
             </div>
@@ -661,23 +666,23 @@
     
     <section class="panel comment-appendix">
       <details open>
-        <summary>Reader reactions（Popular Top 5）</summary>
+        <summary class="speak-line">Reader reactions（Popular Top 5）<button type="button" class="speak-btn speak-btn--inline" data-text="Reader reactions Popular Top 5" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         
             <article class="comment-card">
               <div class="comment-meta">#1 · Speed
                 · score 11</div>
-              <p class="comment-raw">That poor kid. 100% guaranteed he was scared out of his mind and just wanted to live. RIP to the murdered mom too. This story sucks.</p>
+              <p class="comment-raw speak-line">That poor kid. 100% guaranteed he was scared out of his mind and just wanted to live. RIP to the murdered mom too. This story sucks.<button type="button" class="speak-btn" data-text="That poor kid. 100% guaranteed he was scared out of his mind and just wanted to live. RIP to the murdered mom too. This story sucks." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">かわいそうな子だ。間違いなく怖くてたまらなかったはずだし、ただ生きたかっただけだろう。殺されたお母さんにも安らかに。本当にひどい話だ。</p>
               <ul class='comment-notes'><li>「100% guaranteed」は口語で「間違いなく〜だ」と強く言い切る表現。</li><li>「RIP」は Rest in Peace（安らかに眠れ）の略で、ネットでは故人への哀悼に使われる。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> That poor kid. I am 100% sure he was terrified and just wanted to live. Rest in peace to the murdered mother too. This story is awful.</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>sucks</strong> — くだけた口語。「ひどい／最悪だ」のニュアンス。丁寧な場では使わない。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> That poor kid. I am 100% sure he was terrified and just wanted to live. Rest in peace to the murdered mother too. This story is awful.<button type="button" class="speak-btn speak-btn--inline" data-text="That poor kid. I am 100% sure he was terrified and just wanted to live. Rest in peace to the murdered mother too. This story is awful." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>◇</span> <strong>sucks</strong><button type="button" class="speak-btn speak-btn--inline" data-text="sucks" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — くだけた口語。「ひどい／最悪だ」のニュアンス。丁寧な場では使わない。</li></ul>
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#2 · Zaphod
                 · score 1</div>
-              <p class="comment-raw">I am pretty sure the 10-year old boy did not want to be part of this. Disgusting.</p>
+              <p class="comment-raw speak-line">I am pretty sure the 10-year old boy did not want to be part of this. Disgusting.<button type="button" class="speak-btn" data-text="I am pretty sure the 10-year old boy did not want to be part of this. Disgusting." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">10歳の男の子は、こんなことに巻き込まれたくなかったに違いない。胸が悪くなる。</p>
               <ul class='comment-notes'><li>最後の「Disgusting.」は文が省略された感嘆句で、状況全体への嫌悪を表す。</li><li>「be part of this」は「こういう事態に関わること」という意味。</li></ul>
               
@@ -687,38 +692,39 @@
             <article class="comment-card">
               <div class="comment-meta">#3 · Michael Corleone
                 · score 1</div>
-              <p class="comment-raw">police are investigating the deaths as a murder-suicide ikigai (生きがい), raison d&#x27;etre, call it what you will, but we all need a reason to live...</p>
+              <p class="comment-raw speak-line">police are investigating the deaths as a murder-suicide ikigai (生きがい), raison d&#x27;etre, call it what you will, but we all need a reason to live...<button type="button" class="speak-btn" data-text="police are investigating the deaths as a murder-suicide ikigai (生きがい), raison d&#x27;etre, call it what you will, but we all need a reason to live..." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">警察は死亡を殺人・自殺として調査している。生きがい、存在理由、なんと呼んでもいいが、私たち皆、生きる理由が必要なんだ…</p>
               <ul class='comment-notes'><li>文頭の「police」が小文字なのはネット投稿でよくあるくだけた書き方。</li><li>「call it what you will」は「なんと呼ぼうが（本質は同じだ）」という慣用表現。末尾の「...」は余韻・ため息のニュアンス。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Police are investigating the deaths as a murder-suicide. Ikigai, raison d&#x27;être—call it what you will—but we all need a reason to live.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Police are investigating the deaths as a murder-suicide. Ikigai, raison d&#x27;être—call it what you will—but we all need a reason to live.<button type="button" class="speak-btn speak-btn--inline" data-text="Police are investigating the deaths as a murder-suicide. Ikigai, raison d&#x27;être—call it what you will—but we all need a reason to live." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#4 · dmhondz
                 · score 0</div>
-              <p class="comment-raw">You would think that for a country considered a first world, the government have social nets to help those struggling. Either support for nursing the elderly so much so if the one taking care of the senior parents is also on their senior ages. Or family support if the whole family is struggling with their livelihood or mental and physical support for mothers raising their children alone if all the father does is bring in the money and is too tired or doesn’t care to help in household chores. Poor children, too young to understand the minds of these parents.</p>
+              <p class="comment-raw speak-line">You would think that for a country considered a first world, the government have social nets to help those struggling. Either support for nursing the elderly so much so if the one taking care of the senior parents is also on their senior ages. Or family support if the whole family is struggling with their livelihood or mental and physical support for mothers raising their children alone if all the father does is bring in the money and is too tired or doesn’t care to help in household chores. Poor children, too young to understand the minds of these parents.<button type="button" class="speak-btn" data-text="You would think that for a country considered a first world, the government have social nets to help those struggling. Either support for nursing the elderly so much so if the one taking care of the senior parents is also on their senior ages. Or family support if the whole family is struggling with their livelihood or mental and physical support for mothers raising their children alone if all the father does is bring in the money and is too tired or doesn’t care to help in household chores. Poor children, too young to understand the minds of these parents." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">先進国とされる国なら、困っている人を助ける社会保障があると思うものだ。高齢の親の介護支援——介護する側の人自身も高齢ならなおさら。家族全体が生活に苦しんでいるなら家族支援を。父親が稼ぐだけで家事を手伝わない、あるいは疲れすぎている、気にかけない——そういう状況で一人で子育てする母親への心身の支援も。かわいそうな子どもたち。親の心なんて理解できる年齢じゃないのに。</p>
               <ul class='comment-notes'><li>「the government have」は口語ではよくあるが、教科書的には government has が正しい。</li><li>「Either … Or …」で始まる長い文が続き、接続がやや不自然な箇所がある（書き言葉としては整理した方が読みやすい）。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> You would think that for a country considered first-world, the government would have social safety nets to help those who are struggling: support for nursing the elderly, especially when the caregiver is also elderly; family support when the whole family is struggling with their livelihood; or mental and physical support for mothers raising children alone when the father only brings in money and is too tired or doesn&#x27;t care to help with household chores.</p>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> You would think that for a country considered first-world, the government would have social safety nets to help those who are struggling: support for nursing the elderly, especially when the caregiver is also elderly; family support when the whole family is struggling with their livelihood; or mental and physical support for mothers raising children alone when the father only brings in money and is too tired or doesn&#x27;t care to help with household chores.<button type="button" class="speak-btn speak-btn--inline" data-text="You would think that for a country considered first-world, the government would have social safety nets to help those who are struggling: support for nursing the elderly, especially when the caregiver is also elderly; family support when the whole family is struggling with their livelihood; or mental and physical support for mothers raising children alone when the father only brings in money and is too tired or doesn&#x27;t care to help with household chores." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               
             </article>
             
             <article class="comment-card">
               <div class="comment-meta">#5 · Eugene
                 · score 0</div>
-              <p class="comment-raw">Next time one of these jackasses decide on murder/suicide, do the suicide first.</p>
+              <p class="comment-raw speak-line">Next time one of these jackasses decide on murder/suicide, do the suicide first.<button type="button" class="speak-btn" data-text="Next time one of these jackasses decide on murder/suicide, do the suicide first." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
               <p class="comment-translation">次にこういう馬鹿どもが殺人・自殺を決めたら、先に自殺しろよ。</p>
               <ul class='comment-notes'><li>「decide」は one of these jackasses に合わせて decides が文法的には正しいが、口語では単数扱いに見えることもある。</li><li>暗い皮肉・怒りの表現で、被害者を先に殺すなという非難。</li></ul>
-              <p class='comment-standard'><span class='label'>標準形:</span> Next time one of these jackasses decides on murder-suicide, do the suicide first.</p>
-              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>jackasses</strong> — 強い侮辱語（ばか／クソども）。丁寧な場や公式な文脈では絶対に使わない。</li></ul>
+              <p class='comment-standard speak-line'><span class='label'>標準形:</span> Next time one of these jackasses decides on murder-suicide, do the suicide first.<button type="button" class="speak-btn speak-btn--inline" data-text="Next time one of these jackasses decides on murder-suicide, do the suicide first." onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></p>
+              <ul class='comment-marks'><li><span class='mark-symbol'>※</span> <strong>jackasses</strong><button type="button" class="speak-btn speak-btn--inline" data-text="jackasses" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button> — 強い侮辱語（ばか／クソども）。丁寧な場や公式な文脈では絶対に使わない。</li></ul>
             </article>
             
       </details>
     </section>
     
 
-    <footer>English News Digest · 2026-06-06</footer>
+    <footer class="speak-line">English News Digest · 2026-06-06
+      <button type="button" class="speak-btn speak-btn--inline" data-text="English News Digest" onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button></footer>
     
   </div>
   <script src="../../../assets/reader.js"></script>
