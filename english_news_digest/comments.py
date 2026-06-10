@@ -476,11 +476,10 @@ def render_community_appendix(appendix: dict | None) -> str:
             """
         )
 
-    summary_text = f"Reader reactions Popular Top {item_count}"
     return f"""
     <section class="panel comment-appendix">
       <details open>
-        <summary class="speak-line">Reader reactions（Popular Top {item_count}）{speak_button(summary_text, compact=True)}</summary>
+        <summary>Reader reactions（Popular Top {item_count}）</summary>
         <p class="comment-legend">※ 丁寧な場では避ける語　◇ くだけたスラング</p>
         {''.join(cards)}
       </details>

@@ -131,57 +131,48 @@ def render_article_page(
     short_title = record.title if len(record.title) < 48 else record.title[:45] + "..."
 
     body = f"""
-    <nav class="breadcrumb speak-line" aria-label="Breadcrumb">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="../../../index.html">Calendar</a>
-      {speak_button("Calendar", compact=True)}
       <span class="sep">/</span>
       <a href="{edition_url}">{html.escape(edition.edition_date)}</a>
       <span class="sep">/</span>
       <span>{html.escape(short_title)}</span>
-      {speak_button(short_title, compact=True)}
     </nav>
     <header class="panel page-header">
-      <div class="title-head">
-        <span class="badge {html.escape(record.category)}">{html.escape(record.category)}</span>
-        {speak_button(record.category, aria_label="カテゴリを読み上げ", compact=True)}
-      </div>
+      <span class="badge {html.escape(record.category)}">{html.escape(record.category)}</span>
       <div class="title-head">
         <h1>{html.escape(record.title)}</h1>
         {speak_button(record.title, aria_label="タイトルを読み上げ")}
       </div>
-      <p class="meta speak-line">{html.escape(record.source)}{speak_button(record.source, compact=True)}
-        · {html.escape(record.source_published_date_jst)}</p>
+      <div class="meta">{html.escape(record.source)} · {html.escape(record.source_published_date_jst)}</div>
       <div class="summary-ja">{html.escape(analysis.get('summary_ja', ''))}</div>
-      <p class="meta source-link speak-line">
+      <p class="meta source-link">
         <a href="{html.escape(record.source_url, quote=True)}" target="_blank" rel="noopener">Original ↗</a>
-        {speak_button("Original", compact=True)}
       </p>
     </header>
 
     <section class="panel">
-      <div class="reader-controls speak-line">
+      <div class="reader-controls">
         <button type="button" onclick="collapseAllDeepDives()">
           Collapse all deep dives
         </button>
-        {speak_button("Collapse all deep dives", compact=True)}
       </div>
       {''.join(sentences_html)}
     </section>
 
     <section class="panel">
-      <h2 class="speak-line">Vocabulary{speak_button("Vocabulary", compact=True)}</h2>
+      <h2>Vocabulary</h2>
       <div class="vocab-grid">{''.join(vocab_html)}</div>
     </section>
 
     <section class="panel">
-      <h2 class="speak-line">Grammar focus{speak_button("Grammar focus", compact=True)}</h2>
+      <h2>Grammar focus</h2>
       <div class="grammar-grid">{''.join(grammar_html)}</div>
     </section>
 
     {render_community_appendix(load_comments(record.article_id))}
 
-    <footer class="speak-line">English News Digest · {html.escape(edition.edition_date)}
-      {speak_button("English News Digest", compact=True)}</footer>
+    <footer>English News Digest · {html.escape(edition.edition_date)}</footer>
     """
     return page_shell(
         record.title,
