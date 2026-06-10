@@ -1,6 +1,6 @@
 {
   "edition_date": "2026-06-09",
-  "status": "selected",
+  "status": "complete",
   "target_article_count": 6,
   "actual_article_count": 6,
   "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
