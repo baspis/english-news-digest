@@ -20,5 +20,5 @@ def speak_button(
     return (
         f'<button type="button" class="{classes}" '
         f'data-text="{html.escape(stripped, quote=True)}" '
-        f'onclick="speakText(this)" aria-label="{html.escape(aria_label)}">&#9654;</button>'
+        f'onclick="playTts(this)" aria-label="{html.escape(aria_label)}">&#9654;</button>'
     )

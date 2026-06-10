@@ -4,3 +4,5 @@ __pycache__/
 *.zip
 dist/_staging/
 *.bak
+workers/tts/node_modules/
+workers/tts/.wrangler/

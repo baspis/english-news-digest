@@ -1,3 +1,6 @@
+const TTS_API_URL = 'https://english-news-digest-tts.ryosuke0301.workers.dev/api/tts';
+
+let currentTtsAudio = null;
 let cachedEnglishVoice = null;
 
 function isEnglishVoice(voice) {
@@ -60,7 +63,7 @@ function primeEnglishVoice() {
   });
 }
 
-function speakText(btn) {
+function speakWithWebSpeech(btn) {
   const text = btn.dataset.text || btn.dataset.word;
   if (!text || !window.speechSynthesis) return;
   const u = new SpeechSynthesisUtterance(text);
@@ -76,8 +79,55 @@ function speakText(btn) {
   speechSynthesis.speak(u);
 }
 
+function speakText(btn) {
+  void playTts(btn);
+}
+
 function speakWord(btn) {
   speakText(btn);
+}
+
+async function playTts(btn) {
+  const text = btn.dataset.text || btn.dataset.word;
+  if (!text) return;
+  if (currentTtsAudio) {
+    currentTtsAudio.pause();
+    currentTtsAudio = null;
+  }
+  if (window.speechSynthesis) {
+    speechSynthesis.cancel();
+  }
+  btn.classList.add('is-speaking');
+  try {
+    const response = await fetch(TTS_API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text, lang: 'en' }),
+    });
+    if (!response.ok) {
+      throw new Error('tts request failed');
+    }
+    const blob = await response.blob();
+    const url = URL.createObjectURL(blob);
+    const audio = new Audio(url);
+    currentTtsAudio = audio;
+    audio.onended = () => {
+      URL.revokeObjectURL(url);
+      if (currentTtsAudio === audio) {
+        currentTtsAudio = null;
+      }
+      btn.classList.remove('is-speaking');
+    };
+    audio.onerror = () => {
+      URL.revokeObjectURL(url);
+      btn.classList.remove('is-speaking');
+      speakWithWebSpeech(btn);
+    };
+    await audio.play();
+  } catch (_error) {
+    btn.classList.remove('is-speaking');
+    speakWithWebSpeech(btn);
+  }
 }
 
 primeEnglishVoice();

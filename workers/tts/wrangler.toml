@@ -1,0 +1,16 @@
+name = "english-news-digest-tts"
+account_id = "4e5595bd75f47f12c62e4d68ad6da95f"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[ai]
+binding = "AI"
+
+[[r2_buckets]]
+binding = "TTS_CACHE"
+bucket_name = "english-news-digest-tts"
+
+[vars]
+ALLOWED_ORIGINS = "https://baspis.github.io"
+MAX_TEXT_CHARS = "500"
