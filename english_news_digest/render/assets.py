@@ -361,11 +361,26 @@ h3 {
 
 .sentence-block:last-child { border-bottom: 0; }
 
+.sentence-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-2);
+}
+
 .sentence-num {
   font-size: 12px;
   font-weight: 600;
   color: var(--muted);
-  margin-bottom: var(--space-2);
+  margin-bottom: 0;
+}
+
+.speak-btn--sentence {
+  width: 1.75rem;
+  height: 1.75rem;
+  min-width: 36px;
+  min-height: 36px;
+  font-size: 0.75rem;
 }
 
 .sentence-en {
@@ -784,10 +799,10 @@ function primeEnglishVoice() {
   });
 }
 
-function speakWord(btn) {
-  const word = btn.dataset.word;
-  if (!word || !window.speechSynthesis) return;
-  const u = new SpeechSynthesisUtterance(word);
+function speakText(btn) {
+  const text = btn.dataset.text || btn.dataset.word;
+  if (!text || !window.speechSynthesis) return;
+  const u = new SpeechSynthesisUtterance(text);
   const voice = getBestEnglishVoice();
   if (voice) {
     u.voice = voice;
@@ -798,6 +813,10 @@ function speakWord(btn) {
   u.rate = 0.9;
   speechSynthesis.cancel();
   speechSynthesis.speak(u);
+}
+
+function speakWord(btn) {
+  speakText(btn);
 }
 
 primeEnglishVoice();

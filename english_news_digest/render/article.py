@@ -61,10 +61,15 @@ def render_sentence_block(idx: int, sent: dict) -> str:
         """
 
     sid = sent.get("sentence_id", f"s{idx:03d}")
+    text = sent.get("text", "")
     return f"""
     <article class="sentence-block" id="{html.escape(sid)}">
-      <div class="sentence-num">{idx:02d}</div>
-      <p class="sentence-en">{html.escape(sent.get('text', ''))}</p>
+      <div class="sentence-head">
+        <div class="sentence-num">{idx:02d}</div>
+        <button type="button" class="speak-btn speak-btn--sentence" data-text="{html.escape(text, quote=True)}"
+                onclick="speakText(this)" aria-label="英文を読み上げ">&#9654;</button>
+      </div>
+      <p class="sentence-en">{html.escape(text)}</p>
       <p class="translation">{html.escape(sent.get('translation_ja', ''))}</p>
       <div class="grammar-note"><strong>文法:</strong> {html.escape(sent.get('grammar_ja', ''))}</div>
       {deep_html}
@@ -89,8 +94,8 @@ def render_article_page(
             <div class="vocab-card">
               <div class="vocab-head">
                 <h3>{html.escape(word)}</h3>
-                <button type="button" class="speak-btn" data-word="{html.escape(word, quote=True)}"
-                        onclick="speakWord(this)" aria-label="発音を再生">&#9654;</button>
+                <button type="button" class="speak-btn" data-text="{html.escape(word, quote=True)}"
+                        onclick="speakText(this)" aria-label="発音を再生">&#9654;</button>
               </div>
               <div class="pron">{html.escape(vocab.get('pronunciation', ''))}</div>
               <p>{html.escape(vocab.get('meaning_ja', ''))}</p>

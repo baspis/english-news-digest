@@ -60,10 +60,10 @@ function primeEnglishVoice() {
   });
 }
 
-function speakWord(btn) {
-  const word = btn.dataset.word;
-  if (!word || !window.speechSynthesis) return;
-  const u = new SpeechSynthesisUtterance(word);
+function speakText(btn) {
+  const text = btn.dataset.text || btn.dataset.word;
+  if (!text || !window.speechSynthesis) return;
+  const u = new SpeechSynthesisUtterance(text);
   const voice = getBestEnglishVoice();
   if (voice) {
     u.voice = voice;
@@ -74,6 +74,10 @@ function speakWord(btn) {
   u.rate = 0.9;
   speechSynthesis.cancel();
   speechSynthesis.speak(u);
+}
+
+function speakWord(btn) {
+  speakText(btn);
 }
 
 primeEnglishVoice();
