@@ -14,15 +14,33 @@ STYLES_CSS = """
   --line: #e8e4dc;
   --accent: #b42318;
   --accent-soft: #fdecea;
+  --accent-hover: #8a1c12;
   --world: #1a4d6d;
   --world-soft: #e8f2f8;
   --translation: #2c4a3e;
   --translation-soft: #eef6f1;
+  --translation-border: #c5d9ce;
   --grammar-bg: #f3f1ec;
   --deep-bg: #eef3f8;
   --today: #fff8e6;
   --today-ring: #d4a012;
   --focus: #0f6cbf;
+  --example-en: #3a3632;
+  --comment-raw: #2a2622;
+  --comment-standard: #3a3632;
+  --cal-comments: #8a5a12;
+  --badge-national-bg: #e8f0e8;
+  --badge-national-fg: #2d5a2d;
+  --badge-crime-bg: #f5e8e8;
+  --badge-crime-fg: #8b2e2e;
+  --badge-business-bg: #e8edf5;
+  --badge-business-fg: #2e4a7a;
+  --badge-politics-bg: #f0e8f5;
+  --badge-politics-fg: #5a2d6e;
+  --badge-tech-bg: #e8f2f5;
+  --badge-tech-fg: #2d5a6e;
+  --theme-toggle-bg: var(--surface);
+  --theme-toggle-border: var(--line);
   --space-1: 4px;
   --space-2: 8px;
   --space-3: 12px;
@@ -31,6 +49,45 @@ STYLES_CSS = """
   --space-6: 24px;
   --space-8: 32px;
   --space-10: 40px;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121110;
+  --surface: #1c1b19;
+  --surface-soft: #181715;
+  --ink: #ece9e4;
+  --muted: #a39d95;
+  --line: #35302a;
+  --accent: #f07167;
+  --accent-soft: #3a2220;
+  --accent-hover: #ff8a80;
+  --world: #7eb8d9;
+  --world-soft: #1a2833;
+  --translation: #9ec4b0;
+  --translation-soft: #1a2a22;
+  --translation-border: #3a5248;
+  --grammar-bg: #23211f;
+  --deep-bg: #1a222c;
+  --today: #2a2618;
+  --today-ring: #c9a227;
+  --focus: #6eb0f0;
+  --example-en: #cdc8c2;
+  --comment-raw: #e0dbd4;
+  --comment-standard: #cdc8c2;
+  --cal-comments: #d4a84a;
+  --badge-national-bg: #1e2a1e;
+  --badge-national-fg: #8fbf8f;
+  --badge-crime-bg: #2e1e1e;
+  --badge-crime-fg: #e08a8a;
+  --badge-business-bg: #1a2433;
+  --badge-business-fg: #8aa8d4;
+  --badge-politics-bg: #281a30;
+  --badge-politics-fg: #c49ad4;
+  --badge-tech-bg: #1a2830;
+  --badge-tech-fg: #8ab4c4;
+  --theme-toggle-bg: var(--surface);
+  --theme-toggle-border: var(--line);
 }
 
 * { box-sizing: border-box; }
@@ -50,7 +107,7 @@ a {
   text-underline-offset: 2px;
 }
 
-a:hover { color: #8a1c12; }
+a:hover { color: var(--accent-hover); }
 
 .page {
   width: min(100% - 32px, 960px);
@@ -123,6 +180,11 @@ h1 {
 
 .badge.japan { background: var(--accent-soft); color: var(--accent); }
 .badge.world { background: var(--world-soft); color: var(--world); }
+.badge.national { background: var(--badge-national-bg); color: var(--badge-national-fg); }
+.badge.crime { background: var(--badge-crime-bg); color: var(--badge-crime-fg); }
+.badge.business { background: var(--badge-business-bg); color: var(--badge-business-fg); }
+.badge.politics { background: var(--badge-politics-bg); color: var(--badge-politics-fg); }
+.badge.tech { background: var(--badge-tech-bg); color: var(--badge-tech-fg); }
 
 .summary-ja {
   margin-top: var(--space-4);
@@ -222,7 +284,7 @@ h3 {
   display: block;
   font-size: 10px;
   font-weight: 600;
-  color: #8a5a12;
+  color: var(--cal-comments);
   margin-top: 1px;
   line-height: 1.1;
 }
@@ -317,7 +379,7 @@ h3 {
 .translation {
   margin: 10px 0 0;
   padding-left: var(--space-3);
-  border-left: 2px solid #c5d9ce;
+  border-left: 2px solid var(--translation-border);
   color: var(--translation);
   font-size: 16px;
   line-height: 1.65;
@@ -481,7 +543,7 @@ h3 {
 .example-en {
   margin: var(--space-2) 0 var(--space-1);
   font-size: 14px;
-  color: #3a3632;
+  color: var(--example-en);
 }
 
 .example-ja {
@@ -542,7 +604,7 @@ h3 {
   font-size: 16px;
   line-height: 1.55;
   margin: 0 0 var(--space-2);
-  color: #2a2622;
+  color: var(--comment-raw);
 }
 
 .comment-translation {
@@ -561,7 +623,7 @@ h3 {
 
 .comment-standard {
   font-size: 14px;
-  color: #3a3632;
+  color: var(--comment-standard);
   margin: var(--space-2) 0;
 }
 
@@ -573,6 +635,36 @@ h3 {
 .mark-symbol {
   font-weight: 700;
   margin-right: 4px;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 100;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 8px 12px;
+  border: 1px solid var(--theme-toggle-border);
+  border-radius: 999px;
+  background: var(--theme-toggle-bg);
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .theme-toggle {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
 }
 
 footer {
@@ -621,22 +713,130 @@ footer {
 }
 """
 
+THEME_INIT_JS = """
+(function () {
+  const stored = localStorage.getItem('end-theme');
+  const theme = stored === 'light' || stored === 'dark' ? stored : 'dark';
+  document.documentElement.setAttribute('data-theme', theme);
+})();
+"""
+
 READER_JS = """
+let cachedEnglishVoice = null;
+
+function isEnglishVoice(voice) {
+  return /^en(-|$)/i.test(voice.lang || '');
+}
+
+function englishVoiceScore(voice) {
+  const name = (voice.name || '').toLowerCase();
+  const uri = (voice.voiceURI || '').toLowerCase();
+  const blob = name + ' ' + uri;
+  let score = 0;
+
+  if (/premium/.test(blob)) score += 100;
+  else if (/enhanced/.test(blob)) score += 80;
+
+  const lang = (voice.lang || '').toLowerCase();
+  if (lang === 'en-us') score += 30;
+  else if (lang.startsWith('en')) score += 15;
+
+  const preferred = [
+    'ava', 'allison', 'nathan', 'zoe', 'samantha', 'alex', 'susan', 'karen',
+  ];
+  for (let i = 0; i < preferred.length; i += 1) {
+    if (name.includes(preferred[i])) {
+      score += 50 - i * 3;
+      break;
+    }
+  }
+
+  if (voice.localService) score += 5;
+  if (/apple|com\\.apple/.test(uri)) score += 10;
+  if (/compact|eloquence/.test(blob) && !/premium|enhanced/.test(blob)) score -= 20;
+
+  return score;
+}
+
+function pickBestEnglishVoice(voices) {
+  const english = voices.filter(isEnglishVoice);
+  if (!english.length) return null;
+  return english.reduce((best, voice) => (
+    englishVoiceScore(voice) > englishVoiceScore(best) ? voice : best
+  ));
+}
+
+function getBestEnglishVoice() {
+  if (!window.speechSynthesis) return null;
+  if (cachedEnglishVoice) return cachedEnglishVoice;
+  const voices = speechSynthesis.getVoices();
+  if (!voices.length) return null;
+  cachedEnglishVoice = pickBestEnglishVoice(voices);
+  return cachedEnglishVoice;
+}
+
+function primeEnglishVoice() {
+  if (!window.speechSynthesis) return;
+  getBestEnglishVoice();
+  speechSynthesis.addEventListener('voiceschanged', () => {
+    cachedEnglishVoice = null;
+    getBestEnglishVoice();
+  });
+}
+
 function speakWord(btn) {
   const word = btn.dataset.word;
   if (!word || !window.speechSynthesis) return;
   const u = new SpeechSynthesisUtterance(word);
-  u.lang = 'en-US';
+  const voice = getBestEnglishVoice();
+  if (voice) {
+    u.voice = voice;
+    u.lang = voice.lang;
+  } else {
+    u.lang = 'en-US';
+  }
   u.rate = 0.9;
   speechSynthesis.cancel();
   speechSynthesis.speak(u);
 }
+
+primeEnglishVoice();
 
 function collapseAllDeepDives() {
   document.querySelectorAll('.deep-dive[open]').forEach((el) => {
     el.open = false;
   });
 }
+
+function currentTheme() {
+  return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+}
+
+function updateThemeToggleLabel() {
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+  const dark = currentTheme() === 'dark';
+  btn.textContent = dark ? '☀️ Light' : '🌙 Dark';
+  btn.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  localStorage.setItem('end-theme', theme);
+  updateThemeToggleLabel();
+}
+
+function toggleTheme() {
+  setTheme(currentTheme() === 'dark' ? 'light' : 'dark');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('theme-toggle');
+  if (btn) {
+    btn.addEventListener('click', toggleTheme);
+    updateThemeToggleLabel();
+  }
+});
 """
 
 
@@ -657,26 +857,27 @@ def page_shell(
     import html as html_lib
 
     page_class = "reader-page" if reader_page else "page"
-    script = ""
-    if with_speech:
-        script = f'<script src="{html_lib.escape(assets_prefix)}/reader.js"></script>'
+    assets = html_lib.escape(assets_prefix)
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
   <title>{html_lib.escape(title)}</title>
+  <script>{THEME_INIT_JS.strip()}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{html_lib.escape(assets_prefix)}/styles.css">
+  <link rel="stylesheet" href="{assets}/styles.css">
 </head>
 <body>
+  <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme">🌙 Dark</button>
   <div class="{page_class}">
     {body_html}
   </div>
-  {script}
+  <script src="{assets}/reader.js"></script>
 </body>
 </html>
 """
