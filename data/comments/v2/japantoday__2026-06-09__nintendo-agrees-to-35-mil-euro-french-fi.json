@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-09:nintendo-agrees-to-35-mil-euro-french-fi",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T14:27:23+09:00",
+  "fetched_at": "2026-06-10T14:29:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Good to see them admitting culpability. Even though Nintendo eventually replaced controllers for free, it was a huge problem for gamers.",
+      "translation_ja": "有罪を認めるのを見られてよかった。任天堂は最終的にコントローラーを無料で交換してくれたけど、ゲーマーにとっては大きな問題だった。",
+      "notes_ja": [
+        "「Good to see ～」は会話的な書き出しで、It is good to see の省略形。",
+        "全体として標準的な文法だが、口語的なニュアンスがある。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230796,
+      "author": "isabelle",
+      "rating": 7,
+      "posted_at": "2026-06-09T08:36:09+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Excellent ! Next Epson and HP.",
+      "translation_ja": "素晴らしい！次はエプソンとHPだ。",
+      "notes_ja": [
+        "「Excellent !」は感嘆詞だけの断片文。主語・動詞なしで称賛だけを表す。",
+        "「Next Epson and HP」も省略形で、Next (should be) Epson and HP の意味。"
+      ],
+      "standard_en": "Excellent! Next up: Epson and HP.",
+      "marked_terms": [],
+      "comment_id": 5230771,
+      "author": "diobrando",
+      "rating": 4,
+      "posted_at": "2026-06-09T08:24:23+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "I wish both the Japanese government and the American one would impose similar fines on them as well. After all this time the Switch has been on sale and it still has the same problem. It's obviously on purpose.",
+      "translation_ja": "日本政府も米国政府も、同様の罰金を課してほしい。発売してからこんなに時間が経つのに、スイッチはまだ同じ問題を抱えている。明らかにわざとだ。",
+      "notes_ja": [
+        "「the American one」は the American government の代名詞的省略。",
+        "「After all this time the Switch has been on sale」は that が省略された関係節（after all this time that the Switch has been on sale）。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230867,
+      "author": "Garthgoyle",
+      "rating": 2,
+      "posted_at": "2026-06-09T09:13:15+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "I know my regular controllers will all eventually develop the dreaded \"drift\" so there's always replacement warranties on them. After a couple years, just return the \"drifted\" controller for a new replacement and another warranty............ and after a couple years, do it again........... so the only thing I'm paying for is the replacement warranty, lol The new Hall Effect and TMR controllers though, those won't get the \"drift\". The next-gen systems should be moving to those",
+      "translation_ja": "通常のコントローラーは全部いずれ恐ろしい「ドリフト」が起きると分かっているから、いつも交換保証を付けている。2、3年後にドリフトしたコントローラーを返して新品と新しい保証をもらい……また2、3年後に繰り返す……だから実質払っているのは交換保証代だけ、笑。ただ新しいホールエフェクトやTMRコントローラーはドリフトしない。次世代機はそっちに移行すべきだ。",
+      "notes_ja": [
+        "長い省略記号（............）は話し言葉の間や繰り返しのリズムを表す。",
+        "「The new Hall Effect and TMR controllers though, those won't get」は though が文頭付近に置かれた口語的な倒置。"
+      ],
+      "standard_en": "I know my regular controllers will all eventually develop the dreaded \"drift,\" so I always get replacement warranties on them. After a couple of years, I just return the drifted controller for a new replacement and another warranty—and after a couple more years, I do it again—so the only thing I'm paying for is the replacement warranty. The new Hall Effect and TMR controllers, though, won't get drift. Next-gen systems should be moving to those.",
+      "marked_terms": [
+        {
+          "term": "lol",
+          "symbol": "◇",
+          "note_ja": "ネットスラングの笑い。フォーマルな文章や丁寧な会話では使わない。"
+        }
+      ],
+      "comment_id": 5231633,
+      "author": "lostrune2",
+      "rating": 0,
+      "posted_at": "2026-06-09T22:44:03+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "I play on Playstation, and it too has known stick drift problems. Its just too much hassle to be fishing out receipts and such to get it repaired. I have to admit, I'm likely just to go and buy a replacement.",
+      "translation_ja": "私はプレイステーションで遊んでいるけど、こちらも有名なスティックドリフトの問題がある。レシートを探し出すなどして修理に出すのは面倒すぎる。認めざるを得ないが、たぶん新しいのを買いに行くだろう。",
+      "notes_ja": [
+        "「Its」は It's（it is）の誤り。ネイティブでもよくある混同。",
+        "「fishing out receipts」は探し出す・引っ張り出すという口語イディオム。「and such」で「など」をざっくり付け加えている。"
+      ],
+      "standard_en": "I play on PlayStation, and it too has known stick drift problems. It's just too much hassle to fish out receipts and such to get it repaired. I have to admit, I'm likely just to go and buy a replacement.",
+      "marked_terms": [],
+      "comment_id": 5230997,
+      "author": "Negative Nancy",
+      "rating": -1,
+      "posted_at": "2026-06-09T10:36:44+09:00"
+    }
+  ]
+}

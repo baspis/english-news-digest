@@ -1,0 +1,91 @@
+{
+  "article_id": "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T14:27:23+09:00",
+  "fetched_at": "2026-06-10T14:28:30+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I enjoy visiting castles. In my opinion, almost without exception, the grounds are more interesting than the keeps. I recently visited Nagoya castle and they had done a great deal there to maintain a flow of tourists despite the keep being closed. Think about it- nobody goes into kinkakuji but its still one of the main tourist draws.",
+      "translation_ja": "お城を訪れるのは好きです。私の考えでは、ほぼ例外なく、天守よりも敷地の方が面白いです。最近名古屋城を行きましたが、天守が閉まっていても観光客が途切れないよう、かなりの工夫をしていました。考えてみてください——金閣寺の中に入る人はいないのに、それでも主要な観光名所のひとつですよね。",
+      "notes_ja": [
+        "「Think about it-」のあとにスペースや読点がなく、口語的につなげている",
+        "kinkakuji は固有名詞だが小文字で書かれている。its は it's の誤り"
+      ],
+      "standard_en": "Think about it—nobody goes into Kinkaku-ji, but it's still one of the main tourist draws.",
+      "marked_terms": [],
+      "comment_id": 5230746,
+      "author": "Negative Nancy",
+      "rating": 8,
+      "posted_at": "2026-06-09T08:11:12+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Heritage sites should be preserved. The cost should be shared by government and visitors.",
+      "translation_ja": "文化遺産は保存すべきです。費用は政府と来訪者で分担すべきです。",
+      "notes_ja": [
+        "簡潔で教科書的な英文。省略や口語表現はほぼない"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230973,
+      "author": "MontiePieThong",
+      "rating": 7,
+      "posted_at": "2026-06-09T10:27:01+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "Looking out the window I knew that if there was a major earthquake I was toast. Absolutely. Its not like castle has stood for centuries in one of the most earthquake prone regions in the world.",
+      "translation_ja": "窓の外を見ながら、大きな地震が来たら自分はおしまいだと分かっていました。間違いなく。ここは世界でも有数の地震地帯なのに、お城が何百年もそのまま立ち続けてきたわけではないのですから。",
+      "notes_ja": [
+        "「I was toast」は「命に関わる／完全におしまい」という口語のイディオム",
+        "Its は it's の誤り。the castle の the が省略されている"
+      ],
+      "standard_en": "Looking out the window, I knew that if there was a major earthquake, I was toast. Absolutely. It's not like the castle has stood for centuries in one of the most earthquake-prone regions in the world.",
+      "marked_terms": [
+        {
+          "term": "toast",
+          "symbol": "◇",
+          "note_ja": "口語のイディオムで「おしまい」「大変な目に遭う」という意味。カジュアルな会話向け"
+        }
+      ],
+      "comment_id": 5230832,
+      "author": "BeerDeliveryGuy",
+      "rating": 6,
+      "posted_at": "2026-06-09T08:54:09+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Maintaining historically significant buildings is expensive but also important to keep history and stories alive in a way simple words can not. The experience of seeing and being inside such places has a profound effect on many, and for some children can influence their future to become artisans or historians or something else their imagination gets drawn to. History lost is hard to recover and remain accurate. Sometimes it gets lost for good and the people are the poorer for it. History is legacy, with its knowledge of the past it belongs to all the people. Save these structures in the most efficient and long lasting way that can allow for periodic maintenance as required in the most economical way. These are national treasures, treat them as such.",
+      "translation_ja": "歴史的に重要な建造物を維持するのは費用がかかりますが、言葉だけでは伝えきれない形で歴史と物語を生かし続けるうえでも大切です。そうした場所を見て、中に入る体験は多くの人に深い影響を与え、子どもによっては職人や歴史家など、想像が惹かれた分野への将来につながることもあります。失われた歴史を取り戻して正確さを保つのは難しく、ときには永久に失われ、人々はそれだけ貧しくなります。歴史は遺産であり、過去の知識とともにすべての人のものです。定期的な維持管理が可能で、かつ最も経済的な方法で、効率的かつ長く残せる形でこれらの建造物を守ってください。これらは国宝です。それにふさわしく扱うべきです。",
+      "notes_ja": [
+        "「for some children can influence」のように主語と動詞のつながりがやや不自然（for some children, it can influence が自然）",
+        "「History lost is hard to recover and remain accurate」は文法的にぎこちないが、書き言葉として意味は通じる"
+      ],
+      "standard_en": "For some children, it can influence their future to become artisans or historians, or something else their imagination is drawn to. Lost history is hard to recover and keep accurate.",
+      "marked_terms": [],
+      "comment_id": 5231298,
+      "author": "Peter14",
+      "rating": 4,
+      "posted_at": "2026-06-09T14:54:42+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Perhaps they need to make the castles open for other events and things, not just sightseeing. In my friends hometown in the UK, the castle there is used as a conference/business centre and a venue for weddings. This means the castle remains open and well maintained from that revenue.",
+      "translation_ja": "おそらく、城を観光だけでなく、ほかのイベントなどにも使えるようにする必要があるのではないでしょうか。イギリスでは友人の故郷の城が、会議・ビジネスセンター兼ウェディング会場として使われています。そうした収入で城は開かれたまま、よく維持管理されています。",
+      "notes_ja": [
+        "「my friends hometown」は所有格が必要で my friend's hometown が標準的",
+        "「and things」は口語的な言い足しで、具体例をぼかしている"
+      ],
+      "standard_en": "In my friend's hometown in the UK, the castle there is used as a conference/business centre and a venue for weddings.",
+      "marked_terms": [],
+      "comment_id": 5231166,
+      "author": "Pongo",
+      "rating": 3,
+      "posted_at": "2026-06-09T13:22:52+09:00"
+    }
+  ]
+}

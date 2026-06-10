@@ -1,0 +1,979 @@
+{
+  "summary_ja": "アップルは月曜日の年次開発者会議で、プライバシー重視の姿勢を打ち出しながらSiriを含む新しいAI機能を発表した。GoogleのGeminiを活用した強化版Siriや写真編集ツールの改善が中心で、欧州や中国では規制上の理由から一部提供が遅れる見込みだ。同時にティム・クックCEO最後のWWDCとなり、9月のジョン・ターナス氏への交代が業界のAI激変期と重なることが報じられている。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Apple on Monday unveiled new artificial intelligence advances including upgrades to its Siri assistant, emphasizing a focus on privacy and day-to-day use as the iPhone maker tries to catch up to rivals when it comes to AI.",
+      "translation_ja": "アップルは月曜日、Siriアシスタントの強化を含む新たな人工知能の進歩を発表し、プライバシーと日常利用への注力を強調した。iPhoneメーカーはAI分野で競合に追いつこうとしている。",
+      "grammar_ja": "unveiled（過去形）でニュースの主事件を述べ、including〜で具体例を付加。as節は「〜しながら／〜する中で」の理由・背景。when it comes toは「〜に関しては」の定番表現。",
+      "chunks": [
+        {
+          "text": "Apple on Monday",
+          "role_ja": "主語＋時を示す副詞句",
+          "literal_ja": "アップルは月曜日に",
+          "note_ja": "ニュース記事では日付を文頭近くに置くのが一般的。"
+        },
+        {
+          "text": "unveiled new artificial intelligence advances",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "新たなAIの進歩を発表した",
+          "note_ja": "unveilは製品発表のフォーマルな動詞。advanceは「進歩・進展」。"
+        },
+        {
+          "text": "including upgrades to its Siri assistant",
+          "role_ja": "付加説明",
+          "literal_ja": "Siriアシスタントのアップグレードを含めて",
+          "note_ja": "includingは前文全体を修飾する分詞構文。"
+        },
+        {
+          "text": "emphasizing a focus on privacy and day-to-day use",
+          "role_ja": "付随動作（分詞構文）",
+          "literal_ja": "プライバシーと日常使用への焦点を強調しながら",
+          "note_ja": "emphasize A focus on Bは「Bに焦点を当てることを強調する」。"
+        },
+        {
+          "text": "as the iPhone maker tries to catch up to rivals",
+          "role_ja": "理由・背景を示す従属節",
+          "literal_ja": "iPhoneメーカーが競合に追いつこうとする中で",
+          "note_ja": "catch up toは「遅れを取っている相手に追いつく」。"
+        },
+        {
+          "text": "when it comes to AI",
+          "role_ja": "話題限定の副詞句",
+          "literal_ja": "AIに関しては",
+          "note_ja": "when it comes to + 名詞で「〜の点では」。"
+        }
+      ],
+      "deep_dive_ja": "the iPhone makerはAppleを指す同格表現で、ビジネス記事でよく使われる。catch up to rivalsは競合他社（Google、OpenAIなど）との比較を暗示している。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "Siri AI, which was introduced at the start of Apple's annual World Wide Developers Conference, has been highly anticipated by users and developers.",
+      "translation_ja": "アップルの年次ワールドワイドデベロッパーズカンファレンス（WWDC）の冒頭で紹介されたSiri AIは、ユーザーと開発者から大いに期待されてきた。",
+      "grammar_ja": "関係代名詞whichの非制限用法。has been anticipatedは現在完了受動態で「ずっと期待されてきた」という継続感。",
+      "chunks": [
+        {
+          "text": "Siri AI",
+          "role_ja": "主語",
+          "literal_ja": "Siri AIは",
+          "note_ja": "文の中心となる話題。"
+        },
+        {
+          "text": "which was introduced at the start of Apple's annual World Wide Developers Conference",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "アップルの年次WWDCの開始時に紹介された",
+          "note_ja": "at the start ofで「〜の冒頭で」。annualは「毎年開催される」。"
+        },
+        {
+          "text": "has been highly anticipated",
+          "role_ja": "述語（現在完了・受動態）",
+          "literal_ja": "大いに期待されてきた",
+          "note_ja": "highly anticipatedは「待望の」に近いニュアンス。"
+        },
+        {
+          "text": "by users and developers",
+          "role_ja": "動作主",
+          "literal_ja": "ユーザーと開発者によって",
+          "note_ja": "受動態では行為者をbyで示す。"
+        }
+      ],
+      "deep_dive_ja": "World Wide Developers Conferenceは略してWWDCと呼ばれる。非制限用法の関係節はカンマで区切り、補足情報を加える。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "While Siri was launched in 2011, it fell behind other voice assistants and was derided even by Apple fans.",
+      "translation_ja": "Siriは2011年に登場したものの、他の音声アシスタントに遅れを取り、アップルファンからさえ嘲笑された。",
+      "grammar_ja": "Whileはここで「〜だが」という逆接。fell behindとwas deridedは並列の過去形。even byは「〜でさえ」という強調。",
+      "chunks": [
+        {
+          "text": "While Siri was launched in 2011",
+          "role_ja": "譲歩・対比の従属節",
+          "literal_ja": "Siriが2011年に発売されたとはいうものの",
+          "note_ja": "Whileは時間的「〜している間」だけでなく逆接にもなる。"
+        },
+        {
+          "text": "it fell behind other voice assistants",
+          "role_ja": "主節（述語1）",
+          "literal_ja": "他の音声アシスタントに遅れを取った",
+          "note_ja": "fall behindは競争で後れを取るイディオム。"
+        },
+        {
+          "text": "and was derided",
+          "role_ja": "主節（述語2・受動態）",
+          "literal_ja": "そして嘲笑された",
+          "note_ja": "derideは「あざ笑う」というやや硬い語。"
+        },
+        {
+          "text": "even by Apple fans",
+          "role_ja": "動作主＋強調",
+          "literal_ja": "アップルファンにさえ",
+          "note_ja": "evenは予想外の対象を強調する。"
+        }
+      ],
+      "deep_dive_ja": "voice assistantはAlexa、Google Assistantなどと比較する文脈。deridedはmockedよりフォーマルで批評記事向き。",
+      "difficulty": "medium",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "It is the last WWDC featuring CEO Tim Cook before he turns his post over to John Ternus in September.",
+      "translation_ja": "これはティム・クックCEOが9月に後任のジョン・ターナス氏にポストを譲る前に登場する、最後のWWDCとなる。",
+      "grammar_ja": "featuringは現在分詞でWWDCを後置修飾。turn A over to Bは「AをBに引き継ぐ」の慣用表現。",
+      "chunks": [
+        {
+          "text": "It is the last WWDC",
+          "role_ja": "主語＋述語",
+          "literal_ja": "それは最後のWWDCである",
+          "note_ja": "Itは前後の文脈を受ける。"
+        },
+        {
+          "text": "featuring CEO Tim Cook",
+          "role_ja": "後置修飾",
+          "literal_ja": "ティム・クックCEOを中心とする",
+          "note_ja": "featureは「〜を目玉にする・〜が登場する」。"
+        },
+        {
+          "text": "before he turns his post over to John Ternus",
+          "role_ja": "時を表す従属節",
+          "literal_ja": "彼がポストをジョン・ターナスに譲る前に",
+          "note_ja": "turn overは「引き渡す・譲る」。postは役職。"
+        },
+        {
+          "text": "in September",
+          "role_ja": "時を示す副詞句",
+          "literal_ja": "9月に",
+          "note_ja": "交代の時期を具体的に示す。"
+        }
+      ],
+      "deep_dive_ja": "turn his post over toはCEO交代の定番表現。featuringはイベントに特定人物が登場するニュース用法。",
+      "difficulty": "medium",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Cook received an extended standing ovation and told the audience he is “deeply grateful to have been on this journey with you” and said “the energy around Apple platforms has never been stronger.”",
+      "translation_ja": "クックは長時間のスタンディングオベーションを受け、聴衆に対し「皆さんとこの道のりを歩めたことに深く感謝している」と述べ、「アップルのプラットフォームを取り巻く熱気はかつてないほど強い」とも語った。",
+      "grammar_ja": "receivedとtold/saidが並列。直接話法の引用が2つ。to have been onは完了不定詞で過去の経験への感謝。has never been strongerは最上級的な否定表現。",
+      "chunks": [
+        {
+          "text": "Cook received an extended standing ovation",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "クックは長いスタンディングオベーションを受けた",
+          "note_ja": "standing ovationは立ち上がっての拍手喝采。"
+        },
+        {
+          "text": "and told the audience",
+          "role_ja": "並列述語",
+          "literal_ja": "そして聴衆に伝えた",
+          "note_ja": "tell + 人 + 内容の構文。"
+        },
+        {
+          "text": "he is “deeply grateful to have been on this journey with you”",
+          "role_ja": "間接話法の内容",
+          "literal_ja": "この旅路に皆と共にいられたことに深く感謝している",
+          "note_ja": "journeyは比喩的にキャリアや歴史を指す。"
+        },
+        {
+          "text": "and said “the energy around Apple platforms has never been stronger.”",
+          "role_ja": "並列述語＋直接引用",
+          "literal_ja": "そして「アップル・プラットフォーム周辺のエネルギーはこれまでになく強い」と言った",
+          "note_ja": "never been strongerは「今が最も〜」という強調表現。"
+        }
+      ],
+      "deep_dive_ja": "extended standing ovationは会場の感動の深さを示す。platformsはiOS、macOSなどの総称。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "The conference, which drew developers from some 65 countries to Apple’s Silicon Valley headquarters, focuses on software, in contrast to the fall unveiling of the latest iPhones.",
+      "translation_ja": "アップルのシリコンバレー本社に65か国程度から開発者を集めたこの会議はソフトウェアが中心で、最新iPhoneを発表する秋のイベントとは対照的だ。",
+      "grammar_ja": "非制限的関係節which drew〜。in contrast toは「〜とは対照的に」。some 65 countriesは「おおよそ65か国」。",
+      "chunks": [
+        {
+          "text": "The conference",
+          "role_ja": "主語",
+          "literal_ja": "その会議は",
+          "note_ja": "WWDCを指す。"
+        },
+        {
+          "text": "which drew developers from some 65 countries to Apple’s Silicon Valley headquarters",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "約65か国から開発者をアップルのシリコンバレー本社に引き寄せた",
+          "note_ja": "drawはここで「集める・呼び込む」。someは概数。"
+        },
+        {
+          "text": "focuses on software",
+          "role_ja": "述語",
+          "literal_ja": "ソフトウェアに焦点を当てる",
+          "note_ja": "focus onは「〜に重点を置く」。"
+        },
+        {
+          "text": "in contrast to the fall unveiling of the latest iPhones",
+          "role_ja": "対比を示す前置詞句",
+          "literal_ja": "最新iPhoneの秋の発表とは対照的に",
+          "note_ja": "unveilingは名詞化された「発表会」。"
+        }
+      ],
+      "deep_dive_ja": "Appleは春のWWDCでソフト、秋にハードを発表するサイクルが定番。Silicon Valley headquartersはクパチーノ本社を指す。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Apple has sought to distinguish itself from its peers by stressing a privacy-centered approach and integrating AI across its devices and apps.",
+      "translation_ja": "アップルはプライバシー重視の方針を強調し、デバイスやアプリ全体にAIを統合することで、競合他社との差別化を図ってきた。",
+      "grammar_ja": "has sought toは「ずっと〜しようとしてきた」。distinguish itself fromは再帰代名詞＋前置詞。by + 動名詞で手段を示す。",
+      "chunks": [
+        {
+          "text": "Apple has sought to distinguish itself from its peers",
+          "role_ja": "主語＋述語＋不定詞",
+          "literal_ja": "アップルは競合他社と差別化しようとしてきた",
+          "note_ja": "peersは同業他社。seek to doはフォーマル。"
+        },
+        {
+          "text": "by stressing a privacy-centered approach",
+          "role_ja": "手段（前置詞句）",
+          "literal_ja": "プライバシー中心のアプローチを強調することで",
+          "note_ja": "privacy-centeredは複合形容詞。"
+        },
+        {
+          "text": "and integrating AI across its devices and apps",
+          "role_ja": "手段（並列）",
+          "literal_ja": "そしてデバイスとアプリ全体にAIを統合することで",
+          "note_ja": "acrossは「横断的に・全体にわたって」。"
+        }
+      ],
+      "deep_dive_ja": "distinguish itself from peersは競争戦略の定番表現。privacy-centered approachはアップルのブランド訴求の核心。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    },
+    {
+      "text": "There was no mention of AI superintelligence or companion chatbots.",
+      "translation_ja": "AIの超知能や伴走型チャットボットについては一切触れられなかった。",
+      "grammar_ja": "There was no mention ofは「〜についての言及はなかった」という無生物主語構文。orで並列名詞。",
+      "chunks": [
+        {
+          "text": "There was no mention",
+          "role_ja": "存在構文（否定）",
+          "literal_ja": "言及はなかった",
+          "note_ja": "mentionはここで不可算名詞。"
+        },
+        {
+          "text": "of AI superintelligence or companion chatbots",
+          "role_ja": "対象を示すof句",
+          "literal_ja": "AI超知能や伴侶型チャットボットについて",
+          "note_ja": "companion chatbotは常に一緒にいるAIのイメージ。"
+        }
+      ],
+      "deep_dive_ja": "前の文の対比としてRatherが次文で使われる。superintelligenceはAGI的な概念を暗示。",
+      "difficulty": "easy",
+      "sentence_id": "s008"
+    },
+    {
+      "text": "Rather, Apple sought to demonstrate how its AI tools can make life easier.",
+      "translation_ja": "むしろアップルは、自社のAIツールが日常生活をどう楽にできるかを示そうとした。",
+      "grammar_ja": "Ratherは前文と対比。sought to demonstrateの後にhow節（間接疑問文）。make life easierはmake + O + Cの構文。",
+      "chunks": [
+        {
+          "text": "Rather",
+          "role_ja": "接続副詞",
+          "literal_ja": "むしろ",
+          "note_ja": "前の否定内容と対比する。"
+        },
+        {
+          "text": "Apple sought to demonstrate",
+          "role_ja": "主語＋述語",
+          "literal_ja": "アップルは示そうとした",
+          "note_ja": "demonstrateは「実証する・示す」。"
+        },
+        {
+          "text": "how its AI tools can make life easier",
+          "role_ja": "間接疑問の名詞節",
+          "literal_ja": "自社のAIツールがどのように生活を楽にできるか",
+          "note_ja": "how節は「方法・やり方」を表す。"
+        }
+      ],
+      "deep_dive_ja": "Rather,で文頭に置くと「それどころか／むしろ」の対比が明確になる。make life easierは実用訴求の典型表現。",
+      "difficulty": "easy",
+      "sentence_id": "s009"
+    },
+    {
+      "text": "Apple software chief Craig Federighi took some swipes at AI companies — without naming them — that seem to be “pursuing AI for the sake of AI” without clear regard for the people it is supposed to serve.",
+      "translation_ja": "アップルのソフトウェア責任者クレイグ・フェデリギは、名指しはしなかったものの、AI企業の一部を批判した。それらの企業は「AIのためのAI」を追いかけ、本来仕えるべき人々への配慮が欠けているように見える、と。",
+      "grammar_ja": "take swipes atは「〜を批判する」の口語的イディオム。ダッシュで挿入句。関係代名詞thatはcompaniesを修飾。be supposed to serveは「仕えるべきだ」。",
+      "chunks": [
+        {
+          "text": "Apple software chief Craig Federighi",
+          "role_ja": "主語",
+          "literal_ja": "アップル・ソフトウェア責任者クレイグ・フェデリギは",
+          "note_ja": "役職＋氏名の同格。"
+        },
+        {
+          "text": "took some swipes at AI companies",
+          "role_ja": "述語",
+          "literal_ja": "AI企業をいくらか痛烈に批判した",
+          "note_ja": "take a swipe atは攻撃的な批判。"
+        },
+        {
+          "text": "without naming them",
+          "role_ja": "挿入句",
+          "literal_ja": "名を出すことなく",
+          "note_ja": "ダッシュで補足情報を挟む。"
+        },
+        {
+          "text": "that seem to be “pursuing AI for the sake of AI”",
+          "role_ja": "関係節",
+          "literal_ja": "「AIのためのAI」を追求しているように見える",
+          "note_ja": "for the sake ofは「〜のために」だが皮肉含みも。"
+        },
+        {
+          "text": "without clear regard for the people it is supposed to serve",
+          "role_ja": "関係節内の付加説明",
+          "literal_ja": "仕えるべき人々への明確な配慮なしに",
+          "note_ja": "regard forは「〜への配慮」。"
+        }
+      ],
+      "deep_dive_ja": "take swipes atは攻撃記事でも使われるが、hereは穏やかにsome swipes。for the sake ofは目的が不明確なときの批判フレーズ。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "At Apple, he said, “we believe that truly helpful AI should be centered around you and your needs,” which means integrating AI into the products people use every day, with a focus on privacy.",
+      "translation_ja": "彼はアップルでは「本当に役立つAIはあなたとあなたのニーズを中心に据えるべきだ」と述べ、それは人々が毎日使う製品にAIを組み込み、プライバシーに焦点を当てることを意味する、と語った。",
+      "grammar_ja": "he saidが挿入句。centered aroundは「〜を中心に」。which meansのwhichは前文全体を受ける非制限用法。",
+      "chunks": [
+        {
+          "text": "At Apple, he said",
+          "role_ja": "挿入句",
+          "literal_ja": "アップルでは、彼は言った",
+          "note_ja": "発言者と場所を示す挿入。"
+        },
+        {
+          "text": "we believe that truly helpful AI should be centered around you and your needs",
+          "role_ja": "直接引用（主節＋that節）",
+          "literal_ja": "本当に役立つAIはあなたとあなたのニーズの周りに中心を置くべきだと我々は信じる",
+          "note_ja": "be centered aroundはbe focused onに近い。"
+        },
+        {
+          "text": "which means integrating AI into the products people use every day",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "それは毎日人々が使う製品にAIを統合することを意味する",
+          "note_ja": "mean + 動名詞の構文。"
+        },
+        {
+          "text": "with a focus on privacy",
+          "role_ja": "付加説明",
+          "literal_ja": "プライバシーへの焦点を伴って",
+          "note_ja": "with a focus onは頻出コロケーション。"
+        }
+      ],
+      "deep_dive_ja": "centered around youはユーザー中心設計のスローガン。products people useは関係代名詞省略の形。",
+      "difficulty": "hard",
+      "sentence_id": "s011"
+    },
+    {
+      "text": "The conference unveiled updates to Apple Intelligence, which was first announced in 2024.",
+      "translation_ja": "会議では2024年に初めて発表されたApple Intelligenceのアップデートが披露された。",
+      "grammar_ja": "unveiled updates toは「〜のアップデートを発表」。which was first announcedは非制限的関係節で過去の出来事。",
+      "chunks": [
+        {
+          "text": "The conference unveiled updates to Apple Intelligence",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "会議はApple Intelligenceへのアップデートを発表した",
+          "note_ja": "Apple IntelligenceはアップルのAIブランド名。"
+        },
+        {
+          "text": "which was first announced in 2024",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "それは2024年に初めて発表された",
+          "note_ja": "first announcedで初出を強調。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It now uses Google’s Gemini AI model to help power its features and processes users' requests and interactions on their own device and privately on the cloud, making them inaccessible to anyone else.",
+      "translation_ja": "現在はGoogleのGemini AIモデルを使って機能を支え、ユーザーの要求や操作を端末上およびクラウド上でプライベートに処理するため、他の誰にもアクセスできないようになっている。",
+      "grammar_ja": "uses A to help power Bは「Aを使ってBを動かすのを助ける」。making themは結果を表す分詞構文。inaccessible toは「〜からアクセス不能」。",
+      "chunks": [
+        {
+          "text": "It now uses Google’s Gemini AI model",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "それは今GoogleのGemini AIモデルを使う",
+          "note_ja": "競合Googleの技術利用が注目点。"
+        },
+        {
+          "text": "to help power its features",
+          "role_ja": "目的（不定詞）",
+          "literal_ja": "その機能を動かすのを助けるために",
+          "note_ja": "help powerはhelp (to) powerの形。"
+        },
+        {
+          "text": "and processes users' requests and interactions",
+          "role_ja": "並列述語",
+          "literal_ja": "そしてユーザーの要求と操作を処理する",
+          "note_ja": "requests and interactionsは並列名詞。"
+        },
+        {
+          "text": "on their own device and privately on the cloud",
+          "role_ja": "場所・方法の副詞句",
+          "literal_ja": "自分の端末上で、そしてクラウド上でプライベートに",
+          "note_ja": "on-deviceとcloudの両方を強調。"
+        },
+        {
+          "text": "making them inaccessible to anyone else",
+          "role_ja": "結果を示す分詞構文",
+          "literal_ja": "それらを他の誰にもアクセスできないようにする",
+          "note_ja": "プライバシー訴求の核心部分。"
+        }
+      ],
+      "deep_dive_ja": "on their own deviceはオンデバイス処理を指す。privately on the cloudは暗号化クラウド処理のニュアンス。",
+      "difficulty": "hard",
+      "sentence_id": "s013"
+    },
+    {
+      "text": "At the center of it is the new Siri, which Apple said is now a “much more capable assistant” that can help users find what they need and get things done across various Apple devices.",
+      "translation_ja": "その中心にあるのが新しいSiriで、アップルによると今や「はるかに有能なアシスタント」となり、さまざまなアップル製デバイス上でユーザーが必要なものを見つけ、用事をこなすのを助けられる。",
+      "grammar_ja": "At the center of it isは倒置で主語the new Siriが後置。get things doneは「用事を片づける」の口語表現。across various devicesは「複数端末にわたって」。",
+      "chunks": [
+        {
+          "text": "At the center of it is the new Siri",
+          "role_ja": "倒置構文",
+          "literal_ja": "その中心にあるのは新しいSiriである",
+          "note_ja": "場所の前置詞句を文頭に置く倒置。"
+        },
+        {
+          "text": "which Apple said is now a “much more capable assistant”",
+          "role_ja": "非制限的関係節",
+          "literal_ja": "アップルが言うには今やはるかに有能なアシスタントである",
+          "note_ja": "Apple saidが関係節内に挿入。"
+        },
+        {
+          "text": "that can help users find what they need",
+          "role_ja": "関係節",
+          "literal_ja": "ユーザーが必要なものを見つけるのを助けられる",
+          "note_ja": "help + O + 原形の使役的構文。"
+        },
+        {
+          "text": "and get things done across various Apple devices",
+          "role_ja": "並列不定詞",
+          "literal_ja": "そしてさまざまなアップル端末で用事をこなす",
+          "note_ja": "get things doneは実用的な成果を示す。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "For instance, it can create a menu and gather recipes from the web or from your own text messages for a World Cup viewing party and invite friends from a group chat.",
+      "translation_ja": "たとえば、ワールドカップ観戦パーティー用にメニューを作り、ウェブや自分のテキストメッセージからレシピを集め、グループチャットから友人を招待することもできる。",
+      "grammar_ja": "For instanceで具体例。canの後にcreate, gather, inviteが並列。for a World Cup viewing partyは目的。",
+      "chunks": [
+        {
+          "text": "For instance",
+          "role_ja": "接続副詞句",
+          "literal_ja": "例えば",
+          "note_ja": "前文の機能説明の具体例。"
+        },
+        {
+          "text": "it can create a menu and gather recipes",
+          "role_ja": "述語（並列）",
+          "literal_ja": "それはメニューを作りレシピを集められる",
+          "note_ja": "can + 動詞原形。"
+        },
+        {
+          "text": "from the web or from your own text messages",
+          "role_ja": "出所を示す前置詞句",
+          "literal_ja": "ウェブから、または自分のテキストメッセージから",
+          "note_ja": "orで情報源を並列。"
+        },
+        {
+          "text": "for a World Cup viewing party",
+          "role_ja": "目的",
+          "literal_ja": "ワールドカップ観戦パーティーのために",
+          "note_ja": "viewing partyは「観戦会」。"
+        },
+        {
+          "text": "and invite friends from a group chat",
+          "role_ja": "並列述語",
+          "literal_ja": "そしてグループチャットから友人を招待する",
+          "note_ja": "実生活のタスク連鎖を示す例。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Siri mode on your camera, meanwhile, can tell you what you are looking at and give you relevant information, such as the nutritional details of a plate of food.",
+      "translation_ja": "一方、カメラのSiriモードは、あなたが何を見ているかを教え、たとえば料理の栄養情報といった関連情報を提供できる。",
+      "grammar_ja": "meanwhileは挿入的な「一方で」。what you are looking atは関係節。such asで例示。",
+      "chunks": [
+        {
+          "text": "Siri mode on your camera",
+          "role_ja": "主語",
+          "literal_ja": "カメラ上のSiriモードは",
+          "note_ja": "on your cameraは後置修飾。"
+        },
+        {
+          "text": "meanwhile",
+          "role_ja": "接続副詞（挿入）",
+          "literal_ja": "一方で",
+          "note_ja": "カンマで挟むと話題の切り替えを示す。"
+        },
+        {
+          "text": "can tell you what you are looking at",
+          "role_ja": "述語1",
+          "literal_ja": "あなたが見ているものを教えられる",
+          "note_ja": "視覚認識機能の説明。"
+        },
+        {
+          "text": "and give you relevant information",
+          "role_ja": "述語2",
+          "literal_ja": "そして関連情報を与える",
+          "note_ja": "relevantは「関連した・役立つ」。"
+        },
+        {
+          "text": "such as the nutritional details of a plate of food",
+          "role_ja": "例示",
+          "literal_ja": "例えば一皿の食べ物の栄養詳細のような",
+          "note_ja": "such asは例を挙げる定番表現。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Siri's visual intelligence also works with images on your screen.",
+      "translation_ja": "Siriの視覚インテリジェンスは、画面上の画像にも対応する。",
+      "grammar_ja": "alsoは追加機能を示す。works withは「〜と連動して機能する」。on your screenは場所。",
+      "chunks": [
+        {
+          "text": "Siri's visual intelligence",
+          "role_ja": "主語",
+          "literal_ja": "Siriの視覚インテリジェンスは",
+          "note_ja": "visual intelligenceは画像理解機能の名称。"
+        },
+        {
+          "text": "also works with images on your screen",
+          "role_ja": "述語＋前置詞句",
+          "literal_ja": "画面上の画像ともまた機能する",
+          "note_ja": "work withは「〜と連携する」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "For example, it can tell you whether a backpack you are thinking of getting will work as a carry-on for a flight or whether a pair of bulky hiking boots will fit inside it.",
+      "translation_ja": "たとえば、購入を検討しているリュックが飛行機の機内持ち込み手荷物として使えるか、かさばるハイキングブーツがその中に入るかを教えてくれる。",
+      "grammar_ja": "whether〜or whether〜の間接疑問。you are thinking of gettingは関係節でbackpackを修飾。carry-onは名詞で「機内持ち込み手荷物」。",
+      "chunks": [
+        {
+          "text": "For example",
+          "role_ja": "接続副詞句",
+          "literal_ja": "例えば",
+          "note_ja": "具体的使用例の導入。"
+        },
+        {
+          "text": "it can tell you whether a backpack you are thinking of getting will work as a carry-on for a flight",
+          "role_ja": "述語＋間接疑問節1",
+          "literal_ja": "あなたが買おうと考えているリュックがフライトの機内持ち込みとして使えるか教えられる",
+          "note_ja": "think of gettingは「入手を考える」。"
+        },
+        {
+          "text": "or whether a pair of bulky hiking boots will fit inside it",
+          "role_ja": "間接疑問節2",
+          "literal_ja": "またはかさばるハイキングブーツがその中に入るか",
+          "note_ja": "bulkyは「かさばる・大型の」。"
+        }
+      ],
+      "deep_dive_ja": "carry-onは航空旅行の頻出語。think of -ingは「〜することを考える」でofの後は動名詞。",
+      "difficulty": "hard",
+      "sentence_id": "s018"
+    },
+    {
+      "text": "Apple also announced improvements to its popular AI photo editing tools, including spatial reframing that lets you adjust how a photo is framed after it was taken — as if you had moved the camera to a better position while you were snapping the picture.",
+      "translation_ja": "アップルは人気のAI写真編集ツールの改善も発表した。空間リフレーミング機能では、撮影後に写真の構図を調整でき、まるで撮影中にカメラをより良い位置へ動かしたかのようになる。",
+      "grammar_ja": "including spatial reframingで具体例。that lets you adjustの後にhow節。as if you had movedは過去の仮定を表す仮定法過去完了。",
+      "chunks": [
+        {
+          "text": "Apple also announced improvements to its popular AI photo editing tools",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "アップルは人気のAI写真編集ツールの改善も発表した",
+          "note_ja": "improvements toは「〜への改良」。"
+        },
+        {
+          "text": "including spatial reframing",
+          "role_ja": "付加説明",
+          "literal_ja": "空間リフレーミングを含めて",
+          "note_ja": "spatial reframingは新機能名。"
+        },
+        {
+          "text": "that lets you adjust how a photo is framed after it was taken",
+          "role_ja": "関係節",
+          "literal_ja": "撮影後に写真のフレーミングを調整できるようにする",
+          "note_ja": "let + O + 原形。how節は調整方法。"
+        },
+        {
+          "text": "as if you had moved the camera to a better position while you were snapping the picture",
+          "role_ja": "比喩を示す従属節",
+          "literal_ja": "まるで写真を撮っている間にカメラをより良い位置へ動かしたかのように",
+          "note_ja": "as if + 過去完了は現実と異なる比喩。snap the pictureは口語的。"
+        }
+      ],
+      "deep_dive_ja": "as if you had movedは仮定法過去完了で「実際にはしていないがあたかも〜したかのよう」。spatial reframingはAI画像処理の専門用語。",
+      "difficulty": "hard",
+      "sentence_id": "s019"
+    },
+    {
+      "text": "A standalone Siri AI app will launch later this year, though Apple said it will not initially be available in Europe and it won't be available in China while the company works out regulatory issues.",
+      "translation_ja": "独立したSiri AIアプリは今年後半に登場する予定だが、アップルは当初ヨーロッパでは提供せず、規制上の問題を解決する間は中国でも利用できないと述べた。",
+      "grammar_ja": "thoughは譲歩「だが」。works outは「解決する」。regulatory issuesは規制問題。won'tはwill notの短縮。",
+      "chunks": [
+        {
+          "text": "A standalone Siri AI app will launch later this year",
+          "role_ja": "主節",
+          "literal_ja": "スタンドアロンのSiri AIアプリは今年後半に発売される",
+          "note_ja": "standaloneは「単体の・独立した」。"
+        },
+        {
+          "text": "though Apple said",
+          "role_ja": "譲歩の従属節",
+          "literal_ja": "だがアップルは言った",
+          "note_ja": "thoughは文末でも可だがここは文中。"
+        },
+        {
+          "text": "it will not initially be available in Europe",
+          "role_ja": "間接話法の内容1",
+          "literal_ja": "それは当初ヨーロッパでは利用できないだろう",
+          "note_ja": "initiallyは「最初は」。"
+        },
+        {
+          "text": "and it won't be available in China",
+          "role_ja": "間接話法の内容2",
+          "literal_ja": "そして中国では利用できない",
+          "note_ja": "並列で地域制限を列挙。"
+        },
+        {
+          "text": "while the company works out regulatory issues",
+          "role_ja": "時・理由の従属節",
+          "literal_ja": "同社が規制問題を解決している間",
+          "note_ja": "work outは問題を「解決・整理する」。"
+        }
+      ],
+      "deep_dive_ja": "EUのDMAなど規制が背景。works out regulatory issuesは企業ニュースの定型表現。",
+      "difficulty": "medium",
+      "sentence_id": "s020"
+    },
+    {
+      "text": "Cook announced his retirement in April, ending a 15-year run that saw the company’s market value soar by more than $4 trillion during an iPhone-fueled era of prosperity.",
+      "translation_ja": "クックは4月に引退を発表し、iPhoneが牽引した繁栄の時代に同社の時価総額が4兆ドル以上急騰した15年間の任期に幕を下ろした。",
+      "grammar_ja": "ending a 15-year runは結果を表す分詞構文。that sawは「〜を目撃した」＝「その期間に〜が起きた」。soar byは「〜だけ急上昇」。",
+      "chunks": [
+        {
+          "text": "Cook announced his retirement in April",
+          "role_ja": "主節",
+          "literal_ja": "クックは4月に引退を発表した",
+          "note_ja": "announce retirementは定番表現。"
+        },
+        {
+          "text": "ending a 15-year run",
+          "role_ja": "付随結果（分詞構文）",
+          "literal_ja": "15年間の任期を終えて",
+          "note_ja": "runは「任期・続いた期間」。"
+        },
+        {
+          "text": "that saw the company’s market value soar by more than $4 trillion",
+          "role_ja": "関係節",
+          "literal_ja": "会社の時価総額が4兆ドル以上急騰するのを見た",
+          "note_ja": "see + O + 原形で「Oが〜するのを経験する」。"
+        },
+        {
+          "text": "during an iPhone-fueled era of prosperity",
+          "role_ja": "時を示す前置詞句",
+          "literal_ja": "iPhoneに牽引された繁栄の時代の間に",
+          "note_ja": "iPhone-fueledは複合形容詞。"
+        }
+      ],
+      "deep_dive_ja": "market value soarは株価・企業価値の急伸。15-year runはクックCEO在任期間。",
+      "difficulty": "hard",
+      "sentence_id": "s021"
+    },
+    {
+      "text": "Ternus has been with Apple for the past quarter century, including the past five years overseeing the engineering underlying the iPhone, iPad and Mac — a role that made him a prime candidate to succeed Cook.",
+      "translation_ja": "ターナスは過去25年間アップルに在籍し、そのうち過去5年間はiPhone、iPad、Macの基盤となるエンジニアリングを統括してきた。この役割が彼をクックの後任最有力候補にした。",
+      "grammar_ja": "has been withは「〜に在籍している」。including〜overseeingは付加説明。underlyingは「基盤となる」。prime candidate to succeedは「後任の最有力候補」。",
+      "chunks": [
+        {
+          "text": "Ternus has been with Apple for the past quarter century",
+          "role_ja": "主節",
+          "literal_ja": "ターナスは過去四半世紀にわたりアップルにいる",
+          "note_ja": "quarter centuryは25年の婉曲表現。"
+        },
+        {
+          "text": "including the past five years overseeing the engineering underlying the iPhone, iPad and Mac",
+          "role_ja": "付加説明",
+          "literal_ja": "過去5年間iPhone、iPad、Macの基盤エンジニアリングを監督することを含めて",
+          "note_ja": "overseeingは分詞で期間中の役割。"
+        },
+        {
+          "text": "a role that made him a prime candidate to succeed Cook",
+          "role_ja": "同格語",
+          "literal_ja": "彼をクックの後任最有力候補にした役割",
+          "note_ja": "succeedは「後を継ぐ」。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s022",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Ternus did not take the main stage during Monday’s event.",
+      "translation_ja": "ターナスは月曜日のイベントでメインステージに立たなかった。",
+      "grammar_ja": "take the main stageは「主役として登場する」の比喩。did not takeは単純過去否定。",
+      "chunks": [
+        {
+          "text": "Ternus did not take the main stage",
+          "role_ja": "主語＋述語",
+          "literal_ja": "ターナスはメインステージを取らなかった",
+          "note_ja": "take the stageは演壇に立つ比喩。"
+        },
+        {
+          "text": "during Monday’s event",
+          "role_ja": "時を示す前置詞句",
+          "literal_ja": "月曜日のイベントの間に",
+          "note_ja": "後任なのに表に出なかった点がポイント。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s023",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The transition to a new CEO comes at a pivotal time for Apple.",
+      "translation_ja": "新CEOへの移行は、アップルにとって極めて重要な時期に訪れている。",
+      "grammar_ja": "transition toは「〜への移行」。comes at a pivotal timeは「重要な時期に到来する」。",
+      "chunks": [
+        {
+          "text": "The transition to a new CEO",
+          "role_ja": "主語",
+          "literal_ja": "新しいCEOへの移行は",
+          "note_ja": "transition toは人事交代の定番。"
+        },
+        {
+          "text": "comes at a pivotal time for Apple",
+          "role_ja": "述語",
+          "literal_ja": "アップルにとって極めて重要な時期に来る",
+          "note_ja": "pivotalは「極めて重要な・転換点の」。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s024",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Artificial intelligence has unleashed the most upheaval within the industry since Jobs unveiled the first iPhone in 2007.",
+      "translation_ja": "人工知能は、2007年にジョブズが初代iPhoneを発表して以来、業界内で最大の激変をもたらしている。",
+      "grammar_ja": "has unleashedは現在完了。the most upheaval sinceは「〜以来最大の激変」。within the industryは「業界内で」。",
+      "chunks": [
+        {
+          "text": "Artificial intelligence has unleashed the most upheaval within the industry",
+          "role_ja": "主節",
+          "literal_ja": "人工知能は業界内で最大の激変を解き放った",
+          "note_ja": "unleashは「解き放つ・引き起こす」。"
+        },
+        {
+          "text": "since Jobs unveiled the first iPhone in 2007",
+          "role_ja": "時を示す従属節",
+          "literal_ja": "2007年にジョブズが初代iPhoneを発表して以来",
+          "note_ja": "sinceは「〜以来」で完了形と共に使われる。"
+        }
+      ],
+      "deep_dive_ja": "upheavalは大混乱・大変革。iPhone登場との比較はテック記事の定番フレーム。",
+      "difficulty": "medium",
+      "sentence_id": "s025"
+    },
+    {
+      "text": "Apple has gotten off to a rough start in AI after stumbling in its efforts to deliver new features built on the technology, as promised nearly two years ago.",
+      "translation_ja": "アップルは、約2年前に約束した通り技術を基盤とする新機能を届ける努力でつまずいた後、AI分野で苦しいスタートを切っている。",
+      "grammar_ja": "has gotten off to a rough startは「不調なスタートを切った」。after stumblingは時系列。as promisedは「約束された通りに」の省略構文。",
+      "chunks": [
+        {
+          "text": "Apple has gotten off to a rough start in AI",
+          "role_ja": "主節",
+          "literal_ja": "アップルはAIで苦しいスタートを切った",
+          "note_ja": "get off to a startは「スタートを切る」。"
+        },
+        {
+          "text": "after stumbling in its efforts to deliver new features built on the technology",
+          "role_ja": "時を示す従属節",
+          "literal_ja": "その技術に基づく新機能を届けようとする努力でつまずいた後",
+          "note_ja": "stumble in effortsは「努力が行き詰まる」。"
+        },
+        {
+          "text": "as promised nearly two years ago",
+          "role_ja": "挿入句（省略構文）",
+          "literal_ja": "約2年前に約束された通りに",
+          "note_ja": "as promised = as it was promisedの省略。"
+        }
+      ],
+      "deep_dive_ja": "get off to a rough startはスポーツ由来のビジネス表現。built on the technologyは過去分詞の後置修飾。",
+      "difficulty": "hard",
+      "sentence_id": "s026"
+    },
+    {
+      "text": "Cook called his time at Apple “the honor of a lifetime.",
+      "translation_ja": "クックはアップルでの時間を「生涯最大の栄誉」と呼んだ。",
+      "grammar_ja": "call A Bは「AをBと呼ぶ」の第5文型。the honor of a lifetimeは「生涯最大の栄誉」。引用符が次文で閉じる。",
+      "chunks": [
+        {
+          "text": "Cook called his time at Apple",
+          "role_ja": "主語＋述語＋目的語",
+          "literal_ja": "クックはアップルでの自分の時間を呼んだ",
+          "note_ja": "his time at Appleは在任期間。"
+        },
+        {
+          "text": "“the honor of a lifetime.",
+          "role_ja": "補語（直接引用）",
+          "literal_ja": "「生涯最大の栄誉」",
+          "note_ja": "of a lifetimeは「人生で一度きりの」。"
+        }
+      ],
+      "deep_dive_ja": "入力文では引用が途中で切れているが、ニュースの直接引用をそのまま分析している。",
+      "difficulty": "easy",
+      "sentence_id": "s027"
+    },
+    {
+      "text": "I truly believe the best is still ahead.”",
+      "translation_ja": "「最高の時代はまだこれからだと本当に信じている。」",
+      "grammar_ja": "the best is still aheadは「最良のものはまだ先にある＝これからが一番だ」。truly believeで強調。",
+      "chunks": [
+        {
+          "text": "I truly believe",
+          "role_ja": "主語＋述語",
+          "literal_ja": "私は本当に信じる",
+          "note_ja": "クックの直接引用の続き。"
+        },
+        {
+          "text": "the best is still ahead",
+          "role_ja": "that節（省略）",
+          "literal_ja": "最高はまだ先にある",
+          "note_ja": "aheadは「これから・前方に」という比喩。"
+        }
+      ],
+      "deep_dive_ja": "the best is still aheadは退任スピーチでよく使われる前向きな締めくくり。",
+      "difficulty": "easy",
+      "sentence_id": "s028"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "unveil",
+      "pronunciation": "/ʌnˈveɪl/",
+      "meaning_ja": "（新製品・計画などを）正式に発表する",
+      "example": "Apple on Monday unveiled new artificial intelligence advances.",
+      "example_ja": "アップルは月曜日、新たな人工知能の進歩を発表した。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "catch up to",
+      "pronunciation": "/kætʃ ʌp tuː/",
+      "meaning_ja": "（遅れを取っている相手に）追いつく",
+      "example": "The iPhone maker tries to catch up to rivals when it comes to AI.",
+      "example_ja": "iPhoneメーカーはAI分野で競合に追いつこうとしている。",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "deride",
+      "pronunciation": "/dɪˈraɪd/",
+      "meaning_ja": "あざ笑う、嘲笑する",
+      "example": "Siri was derided even by Apple fans.",
+      "example_ja": "Siriはアップルファンからさえ嘲笑された。",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "standing ovation",
+      "pronunciation": "/ˈstændɪŋ ˌoʊˈveɪʃən/",
+      "meaning_ja": "スタンディングオベーション、立ち上がっての拍手喝采",
+      "example": "Cook received an extended standing ovation.",
+      "example_ja": "クックは長時間のスタンディングオベーションを受けた。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "distinguish oneself from",
+      "pronunciation": "/dɪˈstɪŋɡwɪʃ wʌnˈsɛlf frʌm/",
+      "meaning_ja": "（他と）差別化する、区別する",
+      "example": "Apple has sought to distinguish itself from its peers.",
+      "example_ja": "アップルは競合他社との差別化を図ってきた。",
+      "source_sentence_id": "s007"
+    },
+    {
+      "word": "carry-on",
+      "pronunciation": "/ˈkæri ɒn/",
+      "meaning_ja": "機内持ち込み手荷物",
+      "example": "A backpack will work as a carry-on for a flight.",
+      "example_ja": "リュックが飛行機の機内持ち込み手荷物として使える。",
+      "source_sentence_id": "s018"
+    },
+    {
+      "word": "regulatory issues",
+      "pronunciation": "/ˈrɛɡjələtɔːri ˈɪʃuːz/",
+      "meaning_ja": "規制上の問題、法規制の課題",
+      "example": "The company works out regulatory issues.",
+      "example_ja": "同社は規制上の問題を解決している。",
+      "source_sentence_id": "s020"
+    },
+    {
+      "word": "pivotal",
+      "pronunciation": "/ˈpɪvətl/",
+      "meaning_ja": "極めて重要な、転換点となる",
+      "example": "The transition comes at a pivotal time for Apple.",
+      "example_ja": "移行はアップルにとって極めて重要な時期に訪れている。",
+      "source_sentence_id": "s024"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-adjunct",
+      "title": "Participial phrases as adjuncts",
+      "rule": "Present participles (-ing) can follow a main clause to add result, manner, or extra detail (e.g., emphasizing..., ending..., making...).",
+      "example": "Apple unveiled new AI advances, emphasizing a focus on privacy.",
+      "meaning_ja": "現在分詞句を主節の後に置くと、付随する状況・結果・方法を補足できる。ニュース記事で背景や意図を簡潔に足すときによく使われる。"
+    },
+    {
+      "id": "non-restrictive-relative",
+      "title": "Non-restrictive relative clauses",
+      "rule": "Use commas + which/who to add extra information that is not essential to identify the noun.",
+      "example": "Siri AI, which was introduced at the start of WWDC, has been highly anticipated.",
+      "meaning_ja": "カンマで区切ったwhich/who節は補足説明であり、なくても文の骨格は成立する。固有名やイベントの背景を足すビジネス記事の基本パターン。"
+    },
+    {
+      "id": "contrast-connectors",
+      "title": "Contrast connectors: While, Rather, in contrast to",
+      "rule": "While can show contrast (not just time); Rather contrasts with a previous idea; in contrast to compares two things.",
+      "example": "While Siri was launched in 2011, it fell behind other voice assistants.",
+      "meaning_ja": "Whileは「〜だが」、Ratherは「むしろ」、in contrast toは「〜とは対照的に」。記事では賛否や方針の違いを整理するのに頻出。"
+    },
+    {
+      "id": "reported-speech-quotes",
+      "title": "Direct quotation in news reporting",
+      "rule": "News articles mix reporting verbs (said, told, announced) with direct quotes in quotation marks, sometimes split across sentences.",
+      "example": "Cook told the audience he is “deeply grateful to have been on this journey with you.”",
+      "meaning_ja": "報道文ではsaid/told/announcedと直接引用を組み合わせ、発言者の言葉をそのまま伝える。引用が文をまたぐこともある。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 28,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T14:29:31+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:apple-unveils-upgraded-siri-voice-assist"
+}

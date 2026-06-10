@@ -1,0 +1,115 @@
+{
+  "edition_date": "2026-06-09",
+  "status": "complete",
+  "target_article_count": 6,
+  "actual_article_count": 6,
+  "selection_policy": "japantoday-one-per-category-by-comment-count-jst-date",
+  "source_window": {
+    "primary_date": "2026-06-09",
+    "fallback_days": 0
+  },
+  "category_counts": {
+    "national": 1,
+    "crime": 1,
+    "business": 1,
+    "politics": 1,
+    "world": 1,
+    "tech": 1
+  },
+  "articles": [
+    "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
+    "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+    "japantoday:2026-06-09:nintendo-agrees-to-35-mil-euro-french-fi",
+    "japantoday:2026-06-09:ldp-seeks-defense-funding-boost-citing-3",
+    "japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi",
+    "japantoday:2026-06-09:apple-unveils-upgraded-siri-voice-assist"
+  ],
+  "article_records": [
+    {
+      "article_id": "japantoday:2026-06-09:deteriorating-castles-in-japan-face-high",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today National",
+      "source_url": "https://japantoday.com/category/national/feature-deteriorating-japan-castles-face-high-costs-debates-over-renovation",
+      "title": "Deteriorating castles in Japan face high costs, debates over renovation",
+      "slug": "01-deteriorating-castles-in-japan-face-high-costs-debates-over-renovation",
+      "category": "national",
+      "selection_rank": 1,
+      "selection_reason": "jt_comments_39",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Crime",
+      "source_url": "https://japantoday.com/category/crime/child-comes-into-store-saying-she's-hungry-after-being-left-alone-for-11-hours-by-mother-boyfriend-who-were-out-drinking",
+      "title": "Child comes into store saying she's hungry after being left alone for 11 hours by mother, boyfriend who were out drinking",
+      "slug": "02-child-comes-into-store-saying-she-s-hungry-after-being-left-alone-for-",
+      "category": "crime",
+      "selection_rank": 2,
+      "selection_reason": "jt_comments_30",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:nintendo-agrees-to-35-mil-euro-french-fi",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Business",
+      "source_url": "https://japantoday.com/category/business/nintendo-agrees-to-35-mn-euro-french-fine-over-faulty-switch-controllers",
+      "title": "Nintendo agrees to 35 mil euro French fine over faulty Switch controllers",
+      "slug": "03-nintendo-agrees-to-35-mil-euro-french-fine-over-faulty-switch-controll",
+      "category": "business",
+      "selection_rank": 3,
+      "selection_reason": "jt_comments_5",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:ldp-seeks-defense-funding-boost-citing-3",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Politics",
+      "source_url": "https://japantoday.com/category/politics/LDP-seeks-defense-funding-boost-citing-3.5-GDP-benchmark",
+      "title": "LDP seeks defense funding boost, citing 3.5% GDP benchmark",
+      "slug": "04-ldp-seeks-defense-funding-boost-citing-3-5-gdp-benchmark",
+      "category": "politics",
+      "selection_rank": 4,
+      "selection_reason": "jt_comments_47",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today World",
+      "source_url": "https://japantoday.com/category/world/ukrainian-strikes-hit-oil-sites-in-russia-and-crimea",
+      "title": "Ukrainian strikes hit oil sites in Russia and Crimea",
+      "slug": "05-ukrainian-strikes-hit-oil-sites-in-russia-and-crimea",
+      "category": "world",
+      "selection_rank": 5,
+      "selection_reason": "jt_comments_27",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    },
+    {
+      "article_id": "japantoday:2026-06-09:apple-unveils-upgraded-siri-voice-assist",
+      "edition_date": "2026-06-09",
+      "source_published_date_jst": "2026-06-09",
+      "source": "Japan Today Tech",
+      "source_url": "https://japantoday.com/category/tech/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook",
+      "title": "Apple unveils upgraded Siri voice assistant with new AI features at its annual conference",
+      "slug": "06-apple-unveils-upgraded-siri-voice-assistant-with-new-ai-features-at-it",
+      "category": "tech",
+      "selection_rank": 6,
+      "selection_reason": "jt_comments_7",
+      "body_clean_status": "clean",
+      "analysis_status": "complete"
+    }
+  ],
+  "generated_at": "2026-06-10T14:27:23+09:00",
+  "warnings": []
+}

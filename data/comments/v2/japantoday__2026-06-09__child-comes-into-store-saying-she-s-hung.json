@@ -1,0 +1,98 @@
+{
+  "article_id": "japantoday:2026-06-09:child-comes-into-store-saying-she-s-hung",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T14:27:23+09:00",
+  "fetched_at": "2026-06-10T14:29:13+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "I hope the convenience store guy gave her some food.",
+      "translation_ja": "コンビニの店員さんが彼女に食べ物をくれていたらいいのに。",
+      "notes_ja": [
+        "guy は男性を指すくだけたい言い方で、ここでは店員さんという意味。",
+        "I hope ... gave は「くれていたらいいのに」という願いの表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [
+        {
+          "term": "guy",
+          "symbol": "◇",
+          "note_ja": "くだけた呼び方。丁寧な場では man / store clerk などの方が無難。"
+        }
+      ],
+      "comment_id": 5230619,
+      "author": "JeffLee",
+      "rating": 26,
+      "posted_at": "2026-06-09T06:51:58+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "Stories like this just break my heart. This poor child, being treated worse than a pet. And the truly sad thing is that there are many parents, families who would love to have a child but for whatever reason can't, and these monsters treat their child so terribly! I would love for her to be taken and given to a nice family, but I don't see that happening.",
+      "translation_ja": "こういう話を聞くと本当に胸が痛む。このかわいそうな子が、ペット以下の扱いを受けているなんて。本当に悲しいのは、子どもを欲しがっている親や家族がたくさんいるのに、何らかの理由で叶えられない一方で、こんな化け物どもが自分の子をひどく扱っていることだ！彼女を引き取って、いい家族に預けられたらいいのに、そんなことは起きない気がする。",
+      "notes_ja": [
+        "break my heart は直訳せず「胸が痛む／心が砕ける」と訳す慣用表現。",
+        "This poor child, being treated ... は文の主語・述語が省略された感嘆文。"
+      ],
+      "standard_en": "Stories like this just break my heart. This poor child is being treated worse than a pet. And the truly sad thing is that there are many parents and families who would love to have a child but, for whatever reason, can't, and these monsters treat their child so terribly!",
+      "marked_terms": [
+        {
+          "term": "monsters",
+          "symbol": "※",
+          "note_ja": "人を罵る強い言葉。ここでは比喩だが、相手を直接そう呼ぶのは攻撃的。"
+        }
+      ],
+      "comment_id": 5230669,
+      "author": "MarkX",
+      "rating": 20,
+      "posted_at": "2026-06-09T07:35:02+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "There have always been parents like this. Sometimes the kids thrive in spite of their toxic environment. I hope she's one of those.",
+      "translation_ja": "こういう親は昔からいた。ときどき、子どもはそんな有害な環境にもかかわらず立派に育つこともある。彼女もそういう子の一人であってほしい。",
+      "notes_ja": [
+        "thrive in spite of ... は「～にもかかわらずうまく育つ／立ち向かう」。",
+        "one of those は直前の「そういう子」を受ける省略表現。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230705,
+      "author": "obladi",
+      "rating": 20,
+      "posted_at": "2026-06-09T07:50:47+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "MontyToday 07:20 am JST The girl showed up at a convenience store at around 9:30 a.m. on Sunday. Wow! this girl is awesome. She is a preschool aged girl and walked alone to a convenience store to ask for food. She didn't even disturb her neighbours by knocking at their door and ask them for help. I am wondering how far is that convenience store from her home? I guess that’s one way to look at it. My first thought was how sad that she wasn’t comfortable or familiar enough with any of her neighbors to ask them for help and why none of them noticed, what was unlikely to have been the first time something like this occurred.",
+      "translation_ja": "MontyToday 07:20 am JST 日曜の午前9時30分ごろ、少女はコンビニに現れた。わあ！この子はすごい。まだ就学前の年齢なのに、一人でコンビニまで歩いて行って食べ物を求めた。近所の人のドアをノックして助けを求めて迷惑をかけることさえしなかった。あのコンビニは家からどれくらい離れているんだろう？そう見ることもできるのかもしれない。私の最初の感想は、近所の誰にも助けを求められるほど安心感や親しみがなかったことの悲しさ、そして誰も気づかなかったことの悲しさだった。こういうことは初めてではなかったはずなのに。",
+      "notes_ja": [
+        "knocking ... and ask は文法的に and asking が自然。口語ではよくあるつなぎミス。",
+        "how far is that ... は疑問文だが、ここでは独り言・考えの形（I am wondering の中身）。"
+      ],
+      "standard_en": "She didn't even disturb her neighbours by knocking at their door and asking them for help.",
+      "marked_terms": [],
+      "comment_id": 5230702,
+      "author": "toolonggone",
+      "rating": 17,
+      "posted_at": "2026-06-09T07:50:13+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "If you can't take the heat, stay away from the kitchen. If you can't take good care of a child, don't have one. Sadly, there are lots of incompetent and unwilling parents out there that don't treat their kids right. This is just the only one to reach the news, there might be more out there, unreported and unseen. @MarkX, I second your views. There are couples out there who will be more than happy to take in and treat these children as their own, and will definitely give them a good future.",
+      "translation_ja": "暑さに耐えられないなら、厨房に入るな。子どもをちゃんと世話できないなら、産むな。悲しいことに、世の中には無能でやる気のない親がたくさんいて、子どもをきちんと扱っていない。今回の件は報道に載った唯一の例にすぎない。報道されず、見えないままのケースがもっとあるかもしれない。@MarkX、あなたの意見に賛成です。こういう子どもを引き取って自分の子のように育ててくれる夫婦はたくさんいるし、きっと良い未来を与えてくれるだろう。",
+      "notes_ja": [
+        "If you can't take the heat, stay away from the kitchen は慣用句で、困難に耐えられないなら関わるな、という意味。",
+        "@MarkX はSNS風の返信先表示。I second your views は「賛成する」ややフォーマルな言い方。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230801,
+      "author": "Toshihiro",
+      "rating": 9,
+      "posted_at": "2026-06-09T08:36:24+09:00"
+    }
+  ]
+}

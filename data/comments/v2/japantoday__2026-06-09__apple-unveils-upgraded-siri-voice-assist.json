@@ -1,0 +1,92 @@
+{
+  "article_id": "japantoday:2026-06-09:apple-unveils-upgraded-siri-voice-assist",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T14:27:23+09:00",
+  "fetched_at": "2026-06-10T14:29:52+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "So long, Tim Apple! John Ternus had better focus on making hardware that lasts a decade or more and is fully repairable. The endless disposable iPhone trend has got to stop.",
+      "translation_ja": "さようなら、ティム・アップル！ジョン・ターナスは、10年以上持つ修理可能なハードウェアづくりに全力を注ぐべきだ。使い捨てiPhoneの延々と続く流れはもう止めなければならない。",
+      "notes_ja": [
+        "「Tim Apple」はトランプ大統領がティム・クックをそう呼んだことから生まれたあだ名で、ここではクックへの皮肉・別れのニュアンス。",
+        "「has got to stop」は口語的な強い主張（〜しなければならない／もうたくさんだ）。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230738,
+      "author": "jeffb",
+      "rating": 2,
+      "posted_at": "2026-06-09T08:08:34+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "I have never found Siri that useful.",
+      "translation_ja": "私にとってSiriは、これまで一度もそれほど便利だとは感じたことがない。",
+      "notes_ja": [
+        "「that useful」は「それほど便利」と程度を弱める口語表現。",
+        "文全体はくだけた率直な感想で、怒りより淡い失望のトーン。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5230815,
+      "author": "wallace",
+      "rating": 2,
+      "posted_at": "2026-06-09T08:42:54+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "that seem to be “pursuing AI for the sake of AI” Cough cough Mark Zuckerberg!!",
+      "translation_ja": "まさに「AIのためのAI」を追いかけているようだね。ゴホゴホ、マーク・ザッカーバーグ！！",
+      "notes_ja": [
+        "文頭の主語が省略された断片文（前の話題＝ある企業たちを指していると読む）。",
+        "「that seem」は文法的には “seems” が自然。「Cough cough」は名前をほのめかす皮肉な含み笑い。"
+      ],
+      "standard_en": "They seem to be \"pursuing AI for the sake of AI.\" Cough cough, Mark Zuckerberg!",
+      "marked_terms": [],
+      "comment_id": 5231682,
+      "author": "Garthgoyle",
+      "rating": 1,
+      "posted_at": "2026-06-10T01:11:42+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "I'm looking for a $400 SP before I retire. Go John, go!",
+      "translation_ja": "退職する前に株価400ドルのSPを狙っている。頑張れジョン、頑張れ！",
+      "notes_ja": [
+        "「SP」はここでは株価（stock price）の略と読むのが自然。",
+        "「Go John, go!」は応援の掛け声で、文脈上はジョン・ターナスへの励まし。"
+      ],
+      "standard_en": "",
+      "marked_terms": [],
+      "comment_id": 5231073,
+      "author": "Puke",
+      "rating": 0,
+      "posted_at": "2026-06-09T11:18:11+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "The conference unveiled updates to Apple Intelligence, which was first announced in 2024. It now uses Google’s Gemini AI model to help power its features and processes users' requests and interactions on their own device and privately on the cloud, making them inaccessible to anyone else. It runs on underlying Google Gemini, if ya can trust that Note that much of the new AI are only available on newer iPhones, iPads, and iWatches: \"iOS 27 and Siri AI compatibility explained — confirmed device requirements for Apple's new software updates\" https://www.techradar.com/phones/ios/ios-27-and-siri-ai-compatibility-explained-confirmed-device-requirements-for-apples-new-software-updates So, frustratingly, there are quite a few criteria you'll need to meet if you're hoping to try the best version of Siri AI on your Apple device.",
+      "translation_ja": "会議では、2024年に初発表されたApple Intelligenceのアップデートが発表された。現在はGoogleのGemini AIモデルを使って機能を支え、ユーザーのリクエストや操作を端末上およびクラウド上でプライベートに処理し、他の誰にもアクセスできないようにしている。基盤はGoogle Geminiだが、それを信じられるかは別問題だ。なお、新しいAIの多くは新しいiPhone、iPad、iWatchでのみ利用可能だ：「iOS 27 and Siri AI compatibility explained — confirmed device requirements for Apple's new software updates」 https://www.techradar.com/phones/ios/ios-27-and-siri-ai-compatibility-explirmed-device-requirements-for-apples-new-software-updates なので、残念ながら、Apple端末で最高版のSiri AIを試したいなら、かなりの条件を満たす必要がある。",
+      "notes_ja": [
+        "「if ya can trust that」は “if you can trust that” のくだけた省略。「Note that」の前に句読点がなく、ネット投稿らしい詰め書き。",
+        "「the new AI are」は口語では “is” も可。「iWatches」は非公式な複数形（正式には Apple Watch）。"
+      ],
+      "standard_en": "It runs on underlying Google Gemini, if you can trust that. Note that much of the new AI is only available on newer iPhones, iPads, and Apple Watches.",
+      "marked_terms": [
+        {
+          "term": "ya",
+          "symbol": "◇",
+          "note_ja": "you のくだけた口語。フォーマルな文章や丁寧な会話では避ける"
+        }
+      ],
+      "comment_id": 5231546,
+      "author": "lostrune2",
+      "rating": 0,
+      "posted_at": "2026-06-09T21:29:08+09:00"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "summary_ja": "任天堂は、スイッチのコントローラー不具合をめぐるフランス側の申し立てを解決するため、3500万ユーロ（約4000万ドル）の罰金を支払うと発表しました。消費者団体は「計画的陳腐化」を主張し、ジョイコン・ドリフト問題への情報提供不足が問題視されました。任天堂は2023年に、保証期間外でも無償修理・交換を行うと約束しています。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Nintendo said Monday that it would pay a fine of 35 million euros ($40 million) to settle a French claim over faulty controllers on its Switch consoles.",
+      "translation_ja": "任天堂は月曜日、スイッチ本体の不良コントローラーをめぐるフランス側の申し立てを解決するため、3500万ユーロ（約4000万ドル）の罰金を支払うと発表した。",
+      "grammar_ja": "said Monday that ... would pay は報道文の典型構文。that 節内の would は「発表時点から見た将来の行為」。to settle は目的を表す不定詞。over は「〜に関して」の意味。",
+      "chunks": [
+        {
+          "text": "Nintendo",
+          "role_ja": "主語",
+          "literal_ja": "任天堂が",
+          "note_ja": "会社名は固有名詞としてそのまま使う。"
+        },
+        {
+          "text": "said Monday",
+          "role_ja": "述語（報告動詞＋時点）",
+          "literal_ja": "月曜日に述べた",
+          "note_ja": "ニュースでは on Monday より said Monday がよく使われる。"
+        },
+        {
+          "text": "that it would pay a fine of 35 million euros ($40 million)",
+          "role_ja": "that節（内容）",
+          "literal_ja": "3500万ユーロの罰金を支払うだろうと",
+          "note_ja": "a fine of ... euros は「〜ユーロの罰金」。括弧内はドル換算。"
+        },
+        {
+          "text": "to settle a French claim",
+          "role_ja": "目的の不定詞",
+          "literal_ja": "フランスの申し立てを解決するために",
+          "note_ja": "settle a claim は法律・紛争ニュースの定番コロケーション。"
+        },
+        {
+          "text": "over faulty controllers on its Switch consoles",
+          "role_ja": "前置詞句（論点）",
+          "literal_ja": "スイッチ本体の不良コントローラーに関して",
+          "note_ja": "over = about/regarding。faulty は「欠陥のある・不具合のある」。"
+        }
+      ],
+      "deep_dive_ja": "見出しの agrees to fine と本文の would pay は、合意段階と支払い予定を示すニュース英語の使い分け。learners は pay a fine と pay fine（冠詞なし）を混同しがちだが、ここでは金額が具体化されているので a fine が自然。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "A French consumer advocacy group filed the claim alleging \"planned obsolescence\" in 2020, saying the Japanese giant knew some controllers were failing too quickly.",
+      "translation_ja": "フランスの消費者擁護団体が2020年に申し立てを行い、「計画的陳腐化」を主張した。同団体は、この日本の大手企業が一部のコントローラーが早すぎるスピードで故障していることを知っていたと述べた。",
+      "grammar_ja": "filed ... alleging / saying は分詞構文で理由・内容を追加。knew の後は that 省略の名詞節。were failing は過去進行形で「当時進行中だった故障」を表す。",
+      "chunks": [
+        {
+          "text": "A French consumer advocacy group",
+          "role_ja": "主語",
+          "literal_ja": "フランスの消費者擁護団体が",
+          "note_ja": "advocacy group は「権利擁護・利益代表を行う団体」。"
+        },
+        {
+          "text": "filed the claim",
+          "role_ja": "述語",
+          "literal_ja": "申し立てを提出した",
+          "note_ja": "file a claim は法的手続きの定番表現。"
+        },
+        {
+          "text": "alleging \"planned obsolescence\"",
+          "role_ja": "現在分詞（付帯状況）",
+          "literal_ja": "「計画的陳腐化」を主張して",
+          "note_ja": "allege は「（まだ証明されていないことを）申し立てる」。"
+        },
+        {
+          "text": "in 2020",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "2020年に",
+          "note_ja": "文全体の filed と関係する時点。"
+        },
+        {
+          "text": "saying the Japanese giant knew some controllers were failing too quickly",
+          "role_ja": "現在分詞（追加説明）",
+          "literal_ja": "日本の大手企業がコントローラーの早期故障を知っていたと述べて",
+          "note_ja": "the Japanese giant は任天堂への言い換え。too quickly は「早すぎるほど速く」。"
+        }
+      ],
+      "deep_dive_ja": "planned obsolescence は製品を意図的に短命にするという批判用語で、ビジネス・消費者ニュースで頻出。giant は物理的な巨人ではなく「業界大手」の比喩。",
+      "difficulty": "hard",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "It noted thousands of complaints by customers about \"Joy-Con drift\", with toggles stuck in one direction on the original version of the Switch, even when users were not touching them.",
+      "translation_ja": "同団体は、顧客から寄せられた「ジョイコン・ドリフト」に関する数千件の苦情に言及した。これは、ユーザーが触れていないのに、初代スイッチのスティックが一方向に固定されてしまう現象だ。",
+      "grammar_ja": "It は直前の団体を受ける。with + 過去分詞（stuck）で付帯状況を描写。even when は譲歩。「触れていないのに」という対比を強調。",
+      "chunks": [
+        {
+          "text": "It noted thousands of complaints",
+          "role_ja": "主語＋述語",
+          "literal_ja": "それは数千件の苦情に言及した",
+          "note_ja": "note は say より「事実として記録・指摘する」ニュアンス。"
+        },
+        {
+          "text": "by customers about \"Joy-Con drift\"",
+          "role_ja": "前置詞句（出所・内容）",
+          "literal_ja": "顧客によるジョイコン・ドリフトについての",
+          "note_ja": "complaints about ... の形。専門用語は原文のままカタカナ化しやすい。"
+        },
+        {
+          "text": "with toggles stuck in one direction",
+          "role_ja": "with構文（状況説明）",
+          "literal_ja": "スティックが一方向に固定された状態で",
+          "note_ja": "toggle はここではスティック（アナログスティック）を指す。"
+        },
+        {
+          "text": "on the original version of the Switch",
+          "role_ja": "前置詞句（場所・対象）",
+          "literal_ja": "初代スイッチにおいて",
+          "note_ja": "original version は後継機との対比を暗示。"
+        },
+        {
+          "text": "even when users were not touching them",
+          "role_ja": "譲歩の副詞節",
+          "literal_ja": "ユーザーがそれらに触れていないときでさえ",
+          "note_ja": "them は toggles/controllers を受ける。even when で不具合の深刻さを強調。"
+        }
+      ],
+      "deep_dive_ja": "Joy-Con drift はゲーム用語として定着しつつあり、一般紙でも説明を省く場合がある。stuck in one direction は「一方向に動きっぱなし／固定される」という機械的故障の描写として効果的。",
+      "difficulty": "hard",
+      "sentence_id": "s003"
+    },
+    {
+      "text": "France's consumer protection agency, DGCCRF, determined that Nintendo Europe had not sufficiently informed consumers of the recurring problem despite the console being sold for years since its 2017 launch.",
+      "translation_ja": "フランスの消費者保護当局DGCCRFは、2017年の発売以降、何年もコンソールが販売され続けていたにもかかわらず、任天堂ヨーロッパが繰り返し発生する問題について消費者に十分な情報を提供していなかったと判断した。",
+      "grammar_ja": "同格の DGCCRF で機関名を補足。had not informed は過去完了で、determined より前の失敗を表す。despite + 動名詞（being sold）で「〜にもかかわらず」。",
+      "chunks": [
+        {
+          "text": "France's consumer protection agency, DGCCRF,",
+          "role_ja": "主語（同格付き）",
+          "literal_ja": "フランスの消費者保護当局DGCCRFは",
+          "note_ja": "カンマで挟んだ固有名詞は同格（＝つまり〜）の説明。"
+        },
+        {
+          "text": "determined that Nintendo Europe had not sufficiently informed consumers",
+          "role_ja": "述語＋that節",
+          "literal_ja": "任天堂ヨーロッパが消費者に十分告知していなかったと判断した",
+          "note_ja": "sufficiently は副詞で informed を修飾。「十分に」情報提供できていない。"
+        },
+        {
+          "text": "of the recurring problem",
+          "role_ja": "前置詞句（告知内容）",
+          "literal_ja": "繰り返し起きる問題について",
+          "note_ja": "inform A of B で「AにBを知らせる」。recurring は「再発する」。"
+        },
+        {
+          "text": "despite the console being sold for years",
+          "role_ja": "譲歩の前置詞句",
+          "literal_ja": "コンソールが何年も販売されていたにもかかわらず",
+          "note_ja": "despite の後は名詞または動名詞。being sold は受動の進行。"
+        },
+        {
+          "text": "since its 2017 launch",
+          "role_ja": "時を表す前置詞句",
+          "literal_ja": "2017年の発売以来",
+          "note_ja": "its は Nintendo／console を受ける。launch は製品発売を指す。"
+        }
+      ],
+      "deep_dive_ja": "長い一文だが、主節は agency determined that ... だけ。despite 以下は「販売が続いていたのに告知が不十分だった」という規制当局の論理を示す。",
+      "difficulty": "hard",
+      "sentence_id": "s004"
+    },
+    {
+      "text": "Its report said Nintendo had \"commented only in 2020, and not as soon as it was aware of the malfunctions\", the Commerce Ministry and the court in Nanterre, outside Paris, said in a statement.",
+      "translation_ja": "商務省とパリ郊外ナントールの裁判所は声明で、報告書によれば任天堂は「2020年になって初めてコメントし、不具合を認識した直後には対応しなかった」としていると述べた。",
+      "grammar_ja": "二重の間接話法：report said ... と Ministry ... said。as soon as it was aware of は「認識した次第／直後に」の否定。outside Paris は Nanterre の位置説明。",
+      "chunks": [
+        {
+          "text": "Its report said Nintendo had \"commented only in 2020\"",
+          "role_ja": "主部（引用内容1）",
+          "literal_ja": "その報告書は任天堂が2020年にのみコメントしたと述べた",
+          "note_ja": "had commented は過去完了。only の位置で「2020年だけ」と限定。"
+        },
+        {
+          "text": "and not as soon as it was aware of the malfunctions",
+          "role_ja": "引用内容2（対比）",
+          "literal_ja": "そして不具合を認識した直後には（コメントしなかった）",
+          "note_ja": "as soon as = immediately when。malfunction は機械の故障。"
+        },
+        {
+          "text": "the Commerce Ministry and the court in Nanterre, outside Paris,",
+          "role_ja": "主語（外置）",
+          "literal_ja": "パリ郊外ナントールの商務省と裁判所が",
+          "note_ja": "語順が入れ替わり、発言主体が文末寄りに来る報道文体。"
+        },
+        {
+          "text": "said in a statement",
+          "role_ja": "述語",
+          "literal_ja": "声明の中で述べた",
+          "note_ja": "in a statement は公式発表の出所を示す。"
+        }
+      ],
+      "deep_dive_ja": "英語ニュースでは引用元を文末に置く倒置が多い。日本語訳では「〜と当局が述べた」と主語を先に出すと読みやすい。comment on と comment only の違いに注意。",
+      "difficulty": "hard",
+      "sentence_id": "s005"
+    },
+    {
+      "text": "It added that Nintendo's statements on the problem were \"patchy\", and as a result many customers simply bought new controllers, instead of pursuing a free fix or replacement via customer service.",
+      "translation_ja": "声明はさらに、任天堂の問題に関する説明は「断片的だった」とし、その結果、多くの顧客はカスタマーサービスを通じた無料修理や交換を求める代わりに、新しいコントローラーを買い替えるしかなかったと付け加えた。",
+      "grammar_ja": "It added that ... で前文の続き。as a result で因果。instead of + 動名詞 pursuing で「〜するのではなく」。via customer service は手段。",
+      "chunks": [
+        {
+          "text": "It added that Nintendo's statements on the problem were \"patchy\"",
+          "role_ja": "主節＋that節",
+          "literal_ja": "それは任天堂の問題に関する声明が断片的だったと付け加えた",
+          "note_ja": "patchy は「まばらな・一貫性のない」という比喩的形容詞。"
+        },
+        {
+          "text": "and as a result",
+          "role_ja": "接続＋結果",
+          "literal_ja": "そしてその結果",
+          "note_ja": "因果関係を明示するニュース接続表現。"
+        },
+        {
+          "text": "many customers simply bought new controllers",
+          "role_ja": "主節（結果）",
+          "literal_ja": "多くの顧客は単に新しいコントローラーを購入した",
+          "note_ja": "simply は「ほかに手段がなく／そのまま」という含み。"
+        },
+        {
+          "text": "instead of pursuing a free fix or replacement",
+          "role_ja": "対比の前置詞句",
+          "literal_ja": "無料修理や交換を求める代わりに",
+          "note_ja": "pursue はここで「（手続きを）進める・求める」。"
+        },
+        {
+          "text": "via customer service",
+          "role_ja": "手段の前置詞句",
+          "literal_ja": "カスタマーサービスを通じて",
+          "note_ja": "via = by means of。修理窓口経由の意味。"
+        }
+      ],
+      "deep_dive_ja": "patchy は日常会話でも「ばらばら・中途半端」と使えるが、ここでは企業コミュニケーションの不備を批判する語。instead of の後は原形ではなく動名詞が必要。",
+      "difficulty": "medium",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "Nintendo promised in 2023 that it would repair or replace faulty controllers without cost, even if no longer covered by warranty.",
+      "translation_ja": "任天堂は2023年、保証期間を過ぎていても、不良コントローラーを無償で修理または交換すると約束した。",
+      "grammar_ja": "promised that it would ... は将来の約束を過去形で報じる定番形。without cost = free of charge。even if 節では主語が省略され、controllers が covered の対象。",
+      "chunks": [
+        {
+          "text": "Nintendo promised in 2023",
+          "role_ja": "主語＋述語＋時点",
+          "literal_ja": "任天堂は2023年に約束した",
+          "note_ja": "時点は promised に直接付く。"
+        },
+        {
+          "text": "that it would repair or replace faulty controllers",
+          "role_ja": "that節（約束内容）",
+          "literal_ja": "不良コントローラーを修理または交換するだろうと",
+          "note_ja": "repair or replace は並列。faulty は前文と同語の繰り返し。"
+        },
+        {
+          "text": "without cost",
+          "role_ja": "副詞句（条件）",
+          "literal_ja": "費用をかけずに／無償で",
+          "note_ja": "without charge / free of charge と同義。"
+        },
+        {
+          "text": "even if no longer covered by warranty",
+          "role_ja": "譲歩の副詞節",
+          "literal_ja": "保証の対象でなくなっていても",
+          "note_ja": "省略された they were が controllers を受ける。no longer で状態変化。"
+        }
+      ],
+      "deep_dive_ja": "記事の締めは企業の改善措置を示し、罰金ニュースの「その後」として機能。warranty coverage は製品保証の範囲を指し、B2学習者は guarantee と warranty の違いも押さえるとよい。",
+      "difficulty": "medium",
+      "sentence_id": "s007"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "settle",
+      "pronunciation": "/ˈsetl/",
+      "meaning_ja": "（紛争・申し立てを）解決する、和解する",
+      "example": "to settle a French claim",
+      "example_ja": "フランス側の申し立てを解決するために",
+      "source_sentence_id": "s001"
+    },
+    {
+      "word": "planned obsolescence",
+      "pronunciation": "/plænd ɒbsəˈlesns/",
+      "meaning_ja": "計画的陳腐化（意図的に製品寿命を短くする慣行）",
+      "example": "alleging \"planned obsolescence\"",
+      "example_ja": "「計画的陳腐化」を主張して",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "advocacy group",
+      "pronunciation": "/ˈædvəkəsi ɡruːp/",
+      "meaning_ja": "擁護団体、権利・利益を代表する団体",
+      "example": "A French consumer advocacy group",
+      "example_ja": "フランスの消費者擁護団体",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "drift",
+      "pronunciation": "/drɪft/",
+      "meaning_ja": "（ここでは）意図せず入力がずれ続ける不具合",
+      "example": "complaints about \"Joy-Con drift\"",
+      "example_ja": "「ジョイコン・ドリフト」に関する苦情",
+      "source_sentence_id": "s003"
+    },
+    {
+      "word": "recurring",
+      "pronunciation": "/rɪˈkɜːrɪŋ/",
+      "meaning_ja": "繰り返し起こる、再発する",
+      "example": "the recurring problem",
+      "example_ja": "繰り返し発生する問題",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "malfunction",
+      "pronunciation": "/mælˈfʌŋkʃn/",
+      "meaning_ja": "故障、作動不良",
+      "example": "as soon as it was aware of the malfunctions",
+      "example_ja": "不具合を認識した直後に",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "patchy",
+      "pronunciation": "/ˈpætʃi/",
+      "meaning_ja": "断片的な、まばらな、一貫性のない",
+      "example": "Nintendo's statements on the problem were \"patchy\"",
+      "example_ja": "任天堂の問題に関する説明は断片的だった",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "warranty",
+      "pronunciation": "/ˈwɒrənti/",
+      "meaning_ja": "保証（期間）、メーカー保証",
+      "example": "even if no longer covered by warranty",
+      "example_ja": "保証の対象外であっても",
+      "source_sentence_id": "s007"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "reporting-verb-that-clause",
+      "title": "Reporting verbs + that-clause",
+      "rule": "Use said/reported/determined/promised + that + clause to report statements and findings in news.",
+      "example": "Nintendo said Monday that it would pay a fine.",
+      "meaning_ja": "ニュースでは said that、determined that、promised that などで他者の発言や判断を間接的に伝える。that 節の時制は「発話時点」ではなく「内容の時間関係」で決まる。"
+    },
+    {
+      "id": "participle-addition",
+      "title": "Participial phrases (alleging / saying / with + past participle)",
+      "rule": "Add extra information with -ing or with + past participle instead of starting a new sentence.",
+      "example": "filed the claim alleging \"planned obsolescence\", saying the Japanese giant knew...",
+      "meaning_ja": "分詞構文で理由や追加情報を簡潔に足す。alleging や saying は「〜と主張して／述べて」、with toggles stuck は「〜した状態で」と状況を描写する。"
+    },
+    {
+      "id": "concession-despite-even-if",
+      "title": "Concession: despite / even if / even when",
+      "rule": "despite + noun/gerund and even if/when + clause show contrast between expectation and reality.",
+      "example": "despite the console being sold for years ... even when users were not touching them",
+      "meaning_ja": "despite は名詞・動名詞を伴い「〜にもかかわらず」。even if/when は節を伴い「たとえ〜でも」と譲歩・対比を強調する。"
+    },
+    {
+      "id": "instead-of-gerund",
+      "title": "instead of + -ing",
+      "rule": "After instead of, use a gerund (verb-ing), not an infinitive or bare verb.",
+      "example": "bought new controllers, instead of pursuing a free fix",
+      "meaning_ja": "instead of の後は動名詞が続く。「〜する代わりに」という対比。修理を求めず買い替えた、という消費者行動の対比を表す。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 7,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T14:28:55+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:nintendo-agrees-to-35-mil-euro-french-fi"
+}

@@ -1,0 +1,86 @@
+{
+  "article_id": "japantoday:2026-06-09:ukrainian-strikes-hit-oil-sites-in-russi",
+  "source": "japantoday",
+  "order": "popular",
+  "status": "final",
+  "limit": 5,
+  "eligible_at": "2026-06-11T14:27:23+09:00",
+  "fetched_at": "2026-06-10T14:28:35+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "text_raw": "Kiev cant win over Russia by desperate attacks on civilian trains… it's strategic when Moscow does it, but it's desperate when Kiev (sic) does it.",
+      "translation_ja": "キエフは民間の列車への必死の攻撃でロシアに勝てない…モスクワがやるときは「戦略的」なのに、キエフ（原文表記）がやると「必死」になる、というわけか。",
+      "notes_ja": [
+        "cant は can't の省略形（アポストロフィなしの口語表記）。",
+        "末尾の (sic) は投稿者が Kiev という表記を意図的に残していることを示す注記。"
+      ],
+      "standard_en": "Kyiv can't win over Russia by desperate attacks on civilian trains… it's strategic when Moscow does it, but it's desperate when Kyiv does it.",
+      "marked_terms": [],
+      "comment_id": 5231063,
+      "author": "Cooked",
+      "rating": 9,
+      "posted_at": "2026-06-09T11:14:39+09:00"
+    },
+    {
+      "rank": 2,
+      "text_raw": "\"There are indeed certain problems at the moment,\" Peskov said. Bit of a master of understatement he is.",
+      "translation_ja": "「確かに今、いくつか問題がある」とペスコフは言った。控えめな言い方の達人というわけだ。",
+      "notes_ja": [
+        "後半は語順が入れ替わった口語（Bit of a master of understatement he is = He is a bit of a master of understatement）。",
+        "understatement は深刻な状況をあえて軽く言うこと；ここでは皮肉。"
+      ],
+      "standard_en": "Peskov said, \"There are indeed certain problems at the moment.\" He is a bit of a master of understatement.",
+      "marked_terms": [],
+      "comment_id": 5230914,
+      "author": "Cooked",
+      "rating": 6,
+      "posted_at": "2026-06-09T09:47:35+09:00"
+    },
+    {
+      "rank": 3,
+      "text_raw": "okinawarides Ukrainian drone overnight struck a passenger train ....was that a train full of civilians? You really shouldn be talking about that too much, it will punch holes in the UA is not hitting civilian targets narrative here. Russia targets civilians, Ukraine does not.",
+      "translation_ja": "okinawarides ウクライナのドローンが一晩で旅客列車を攻撃した…民間人でいっぱいの列車だったのか？そんなことあまり言わない方がいいよ。ここで「ウクライナは民間標的を攻撃していない」という話に穴が開くから。ロシアは民間人を標的にする。ウクライナはしない。",
+      "notes_ja": [
+        "okinawarides はユーザー名への返信と思われる（Regarding などの誤記の可能性）。shouldn は shouldn't の省略。",
+        "punch holes in は「（主張などに）穴を開ける」という慣用表現。UA は Ukraine の略。"
+      ],
+      "standard_en": "Regarding the Ukrainian drone that overnight struck a passenger train… was that a train full of civilians? You really shouldn't be talking about that too much; it will punch holes in the \"Ukraine is not hitting civilian targets\" narrative here. Russia targets civilians; Ukraine does not.",
+      "marked_terms": [],
+      "comment_id": 5231096,
+      "author": "Underworld",
+      "rating": 5,
+      "posted_at": "2026-06-09T11:42:13+09:00"
+    },
+    {
+      "rank": 4,
+      "text_raw": "Blacklabel Russia targets civilians, Ukraine does not. yet- not what the article says. Is the article lying? \"a Ukrainian drone overnight struck a passenger train\" ... Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So, we don't really know. If Russia allows an independent investigation, we may get to the truth of the matter.",
+      "translation_ja": "Blacklabel ロシアは民間人を標的にする。ウクライナはしない、と言うが—記事の内容は違う。「記事は嘘をついているのか？」「ウクライナのドローンが一晩で旅客列車を攻撃した」…クレムリン派の地域指導者セルゲイ・アクショノフが月曜早朝に報告した。だから、本当のことはわからない。ロシアが独立した調査を認めれば、真相にたどり着けるかもしれない。",
+      "notes_ja": [
+        "Blacklabel は別ユーザーへの返信。yet- の後は文が途切れたまま続く口語。",
+        "引用のあと ... で情報源の報道を示している。"
+      ],
+      "standard_en": "Blacklabel, you say Russia targets civilians and Ukraine does not—yet that's not what the article says. Is the article lying? It says, \"a Ukrainian drone overnight struck a passenger train\" … as Kremlin-installed regional leader Sergei Aksyonov reported early Monday. So we don't really know. If Russia allows an independent investigation, we may get to the truth of the matter.",
+      "marked_terms": [],
+      "comment_id": 5231112,
+      "author": "Underworld",
+      "rating": 5,
+      "posted_at": "2026-06-09T12:19:11+09:00"
+    },
+    {
+      "rank": 5,
+      "text_raw": "Blacklabel A guy now wants \"investigations\" but only when his side targets civilians over and over despite his incessant denials of fact, No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.",
+      "translation_ja": "Blacklabel ある男が今さら「調査」を求めているが、自分の側が何度も民間人を標的にしているのに、事実をひたすら否定し続けている。まだ事実は確定していない。ウクライナは領内でのロシアのドローン・ミサイルによる民間標的攻撃の調査を認めて事実を明らかにしようとしている。ロシアはそうしない。",
+      "notes_ja": [
+        "investigations の引用符は「本当の調査ではない」という皮肉。",
+        "despite his incessant denials of fact のあとカンマでつながるのはカンマスプライス（口語的なつなぎ）。"
+      ],
+      "standard_en": "Blacklabel, a guy now wants \"investigations,\" but only when his side targets civilians over and over, despite his incessant denials of fact. No facts have been determined. Ukraine allows investigations of civilian strikes by Russian drones and missiles in Ukrainian territory to determine facts. Russia does not.",
+      "marked_terms": [],
+      "comment_id": 5231137,
+      "author": "Underworld",
+      "rating": 5,
+      "posted_at": "2026-06-09T12:33:59+09:00"
+    }
+  ]
+}

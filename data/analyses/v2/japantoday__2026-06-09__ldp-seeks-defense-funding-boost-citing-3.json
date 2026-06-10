@@ -1,0 +1,635 @@
+{
+  "summary_ja": "与党の自民党は、他国が国防費を国内総生産（GDP）の最大3.5％まで引き上げる動きを踏まえ、5年以内に防衛力を抜本的に強化するための財源確保を求めた。具体的な目標数値は示さなかったが、NATO加盟国や韓国、オーストラリアの水準を例に挙げ、自衛への明確な決意を示すよう訴えた。",
+  "reading_level": "B2",
+  "sentences": [
+    {
+      "text": "Japan's ruling Liberal Democratic Party on Tuesday called for securing funding to transform the country's defense capabilities within five years, citing moves by other nations to raise defense spending to as much as 3.5 percent of gross domestic product.",
+      "translation_ja": "与党の自由民主党は火曜日、他国が国防費を国内総生産の最大3.5％まで引き上げる動きを踏まえ、5年以内に日本の防衛力を抜本的に強化するための財源確保を求めた。",
+      "grammar_ja": "called for + 動名詞、citing（理由・根拠の分詞構文）、as much as（最大で）がニュース記事でよく使われる表現。",
+      "chunks": [
+        {
+          "text": "Japan's ruling Liberal Democratic Party",
+          "role_ja": "主語",
+          "literal_ja": "日本の与党・自由民主党が",
+          "note_ja": "ruling party＝与党。LDPは日本の主要政党。"
+        },
+        {
+          "text": "on Tuesday",
+          "role_ja": "時を表す副詞句",
+          "literal_ja": "火曜日に",
+          "note_ja": "ニュースでは具体的な曜日で時系列を示す。"
+        },
+        {
+          "text": "called for securing funding",
+          "role_ja": "述語",
+          "literal_ja": "財源確保を求めた",
+          "note_ja": "call for は公式な要求・提言。secure funding＝財源を確保する。"
+        },
+        {
+          "text": "to transform the country's defense capabilities within five years",
+          "role_ja": "目的を表す不定詞句",
+          "literal_ja": "5年以内に国の防衛力を変革するために",
+          "note_ja": "transform は単なる増強より抜本的な転換のニュアンス。"
+        },
+        {
+          "text": "citing moves by other nations",
+          "role_ja": "理由・根拠の分詞構文",
+          "literal_ja": "他国の動きを根拠として挙げながら",
+          "note_ja": "主節の行為の理由を補足する書き方。"
+        },
+        {
+          "text": "to raise defense spending to as much as 3.5 percent of gross domestic product",
+          "role_ja": "目的を表す不定詞句（citing の内容）",
+          "literal_ja": "国防費を国内総生産の最大3.5％まで引き上げる",
+          "note_ja": "as much as＝最大で。GDP は gross domestic product の略。"
+        }
+      ],
+      "deep_dive_ja": "見出しの benchmark は本文では as much as 3.5 percent と表現され、厳密な数値目標ではなく他国水準の参照点であることが示唆される。",
+      "difficulty": "medium",
+      "sentence_id": "s001"
+    },
+    {
+      "text": "The proposal stopped short of setting a specific spending target for Japan.",
+      "translation_ja": "この提案は、日本に具体的な支出目標を設定するところまでは踏み込まなかった。",
+      "grammar_ja": "stop short of + 動名詞は「～までは及ばない／～しきれない」という慣用表現。",
+      "chunks": [
+        {
+          "text": "The proposal",
+          "role_ja": "主語",
+          "literal_ja": "この提案は",
+          "note_ja": "前の文の LDP の提言を受ける。"
+        },
+        {
+          "text": "stopped short of",
+          "role_ja": "述語（慣用表現）",
+          "literal_ja": "～までは踏み込まなかった",
+          "note_ja": "否定の含意。何かをしようとしたが最後の一歩を踏み出さなかった。"
+        },
+        {
+          "text": "setting a specific spending target for Japan",
+          "role_ja": "動名詞句",
+          "literal_ja": "日本に具体的な支出目標を設定すること",
+          "note_ja": "specific target と前後の 3.5% 言及が対比される。"
+        }
+      ],
+      "deep_dive_ja": "ニュース英語で stop short of は政治的に慎重な姿勢を簡潔に表す定番表現。",
+      "difficulty": "medium",
+      "sentence_id": "s002"
+    },
+    {
+      "text": "Instead, it cited defense spending goals of 3.5 percent of GDP among NATO members and South Korea and 3 percent in Australia, urging Japan to demonstrate a clear commitment to self-defense.",
+      "translation_ja": "代わりに、NATO加盟国と韓国では国防費をGDPの3.5％、オーストラリアでは3％とする目標を例に挙げ、日本に自衛への明確な決意を示すよう訴えた。",
+      "grammar_ja": "Instead で前の文と対比。urging Japan to... は結果・付随行為を示す分詞構文。commitment to は B2 で重要なコロケーション。",
+      "chunks": [
+        {
+          "text": "Instead",
+          "role_ja": "接続副詞",
+          "literal_ja": "その代わりに",
+          "note_ja": "前の「具体目標なし」と対比。"
+        },
+        {
+          "text": "it cited defense spending goals of 3.5 percent of GDP among NATO members and South Korea",
+          "role_ja": "主節",
+          "literal_ja": "NATO加盟国と韓国の間でGDPの3.5％という国防費目標を引用した",
+          "note_ja": "among は複数国の中での水準を示す。"
+        },
+        {
+          "text": "and 3 percent in Australia",
+          "role_ja": "並列の数値表現",
+          "literal_ja": "そしてオーストラリアでは3％",
+          "note_ja": "国ごとに目標が異なることを並列で示す。"
+        },
+        {
+          "text": "urging Japan to demonstrate a clear commitment to self-defense",
+          "role_ja": "付随行為の分詞構文",
+          "literal_ja": "日本に自衛への明確な決意を示すよう促しながら",
+          "note_ja": "demonstrate commitment＝決意を示す。self-defense＝自衛。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s003",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The United States has urged its security partners publicly or behind the scenes to expand defense spending.",
+      "translation_ja": "アメリカは、安保上のパートナー国に対し、公然と、あるいは水面下で国防費の拡大を求めてきた。",
+      "grammar_ja": "has urged（現在完了）は過去から現在に続く圧力を示す。publicly or behind the scenes は対照的な手段の並列。",
+      "chunks": [
+        {
+          "text": "The United States",
+          "role_ja": "主語",
+          "literal_ja": "アメリカは",
+          "note_ja": "日本の安保文脈では重要な行為者。"
+        },
+        {
+          "text": "has urged its security partners",
+          "role_ja": "述語＋目的語",
+          "literal_ja": "安保パートナーに求めてきた",
+          "note_ja": "urge は公式・外交的な「要請」のニュアンス。"
+        },
+        {
+          "text": "publicly or behind the scenes",
+          "role_ja": "方法を表す副詞句",
+          "literal_ja": "公然と、あるいは水面下で",
+          "note_ja": "behind the scenes＝表向きには見えない場で。"
+        },
+        {
+          "text": "to expand defense spending",
+          "role_ja": "目的を表す不定詞",
+          "literal_ja": "国防費を拡大するよう",
+          "note_ja": "expand は increase より広がり・規模拡大の感じ。"
+        }
+      ],
+      "difficulty": "easy",
+      "sentence_id": "s004",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The move comes as Japan accelerates its defense buildup in response to a worsening security environment in East Asia, including China's military assertiveness and North Korea's nuclear and missile programs.",
+      "translation_ja": "この動きは、中国の軍事的な強硬姿勢や北朝鮮の核・ミサイル計画などを含む東アジアの安全保障環境の悪化を受け、日本が防衛力強化を加速している時期に出たものだ。",
+      "grammar_ja": "comes as は「～している時に出る」という時系列表現。in response to、including による具体例の列挙が特徴。",
+      "chunks": [
+        {
+          "text": "The move comes as",
+          "role_ja": "主節",
+          "literal_ja": "この動きは～している時に出る",
+          "note_ja": "comes as はニュースで背景説明に頻出。"
+        },
+        {
+          "text": "Japan accelerates its defense buildup",
+          "role_ja": "従属節",
+          "literal_ja": "日本が防衛力強化を加速している",
+          "note_ja": "buildup＝段階的な増強。"
+        },
+        {
+          "text": "in response to a worsening security environment in East Asia",
+          "role_ja": "理由を表す前置詞句",
+          "literal_ja": "東アジアで悪化する安保環境への対応として",
+          "note_ja": "worsening は進行形のニュアンスを形容詞化。"
+        },
+        {
+          "text": "including China's military assertiveness and North Korea's nuclear and missile programs",
+          "role_ja": "具体例",
+          "literal_ja": "中国の軍事的強硬姿勢と北朝鮮の核・ミサイル計画を含めて",
+          "note_ja": "assertiveness＝積極的・強硬な姿勢。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s005",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The Japanese government in 2022 adopted a national security strategy calling for defense spending to reach 2 percent of GDP and for the acquisition of counterstrike capabilities, in a major policy shift under the pacifist postwar Constitution.",
+      "translation_ja": "日本政府は2022年、戦後の平和主義的憲法の下で大きな政策転換となる国家安全保障戦略を採択し、国防費をGDPの2％に引き上げ、反撃能力の獲得を求めた。",
+      "grammar_ja": "calling for... は strategy を修飾する分詞構文。in a major policy shift は背景を示す付加句。",
+      "chunks": [
+        {
+          "text": "The Japanese government in 2022 adopted a national security strategy",
+          "role_ja": "主節",
+          "literal_ja": "日本政府は2022年に国家安全保障戦略を採択した",
+          "note_ja": "adopt a strategy＝戦略を採択する。"
+        },
+        {
+          "text": "calling for defense spending to reach 2 percent of GDP",
+          "role_ja": "内容を示す分詞構文",
+          "literal_ja": "国防費をGDPの2％にするよう求める",
+          "note_ja": "reach 2 percent＝2％に到達する。"
+        },
+        {
+          "text": "and for the acquisition of counterstrike capabilities",
+          "role_ja": "並列の内容",
+          "literal_ja": "そして反撃能力の獲得を",
+          "note_ja": "counterstrike capabilities＝敵基地攻撃能力。"
+        },
+        {
+          "text": "in a major policy shift under the pacifist postwar Constitution",
+          "role_ja": "背景を表す前置詞句",
+          "literal_ja": "戦後の平和主義憲法の下での大きな政策転換として",
+          "note_ja": "pacifist postwar Constitution は日本の文脈理解に重要。"
+        }
+      ],
+      "deep_dive_ja": "2％目標は前段の3.5％言及との対比で読むと、自民党がさらに踏み込む余地を残していることがわかる。",
+      "difficulty": "hard",
+      "sentence_id": "s006"
+    },
+    {
+      "text": "The LDP's proposal is expected to be submitted to Prime Minister Sanae Takaichi later this month as part of preparations to revise Japan's national security strategy and related defense documents.",
+      "translation_ja": "自民党の提案は、国家安全保障戦略と関連する防衛文書の改定準備の一環として、今月末までに高市早苗首相に提出される見込みだ。",
+      "grammar_ja": "is expected to be submitted（受動の予定表現）。as part of preparations to... は目的・文脈の説明。",
+      "chunks": [
+        {
+          "text": "The LDP's proposal is expected to be submitted",
+          "role_ja": "主節（受動）",
+          "literal_ja": "自民党の提案は提出される見込みだ",
+          "note_ja": "be expected to＝～される見込み。"
+        },
+        {
+          "text": "to Prime Minister Sanae Takaichi later this month",
+          "role_ja": "提出先・時期",
+          "literal_ja": "今月末までに高市早苗首相に",
+          "note_ja": "submit to＝～に提出する。"
+        },
+        {
+          "text": "as part of preparations to revise Japan's national security strategy and related defense documents",
+          "role_ja": "文脈を示す前置詞句",
+          "literal_ja": "国家安全保障戦略と関連防衛文書の改定準備の一環として",
+          "note_ja": "revise documents＝文書を改定する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s007",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The government plans to adopt the updated policies in December, following recommendations from a panel of experts expected this fall.",
+      "translation_ja": "政府は、今秋にまとまる見込みの有識者会議の提言を踏まえ、12月に更新された政策を採択する計画だ。",
+      "grammar_ja": "following recommendations... は時系列・条件の分詞構文。expected this fall は panel か recommendations を修飾する可能性があるが、文脈上は提言の時期と読むのが自然。",
+      "chunks": [
+        {
+          "text": "The government plans to adopt the updated policies in December",
+          "role_ja": "主節",
+          "literal_ja": "政府は12月に更新政策を採択する計画だ",
+          "note_ja": "adopt policies＝政策を採択。"
+        },
+        {
+          "text": "following recommendations from a panel of experts",
+          "role_ja": "付随条件の分詞構文",
+          "literal_ja": "有識者会議からの提言に続いて",
+          "note_ja": "panel of experts＝有識者会議。"
+        },
+        {
+          "text": "expected this fall",
+          "role_ja": "時期を示す過去分詞",
+          "literal_ja": "今秋に（出る）見込みの",
+          "note_ja": "ニュース英語では修飾関係がやや曖昧なこともある。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s008",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The LDP argues that \"there are no countries that will support a nation lacking the resolve to defend itself.\"",
+      "translation_ja": "自民党は「自国を守る決意のない国を支援する国はどこにもない」と主張している。",
+      "grammar_ja": "argues that 節。関係代名詞 that と現在形 will support。lack the resolve to は決意の欠如を表す。",
+      "chunks": [
+        {
+          "text": "The LDP argues that",
+          "role_ja": "主節",
+          "literal_ja": "自民党は～と主張する",
+          "note_ja": "argue that＝～と主張する。"
+        },
+        {
+          "text": "there are no countries",
+          "role_ja": "存在構文",
+          "literal_ja": "国は一つもない",
+          "note_ja": "修辞的な強調表現。"
+        },
+        {
+          "text": "that will support a nation lacking the resolve to defend itself",
+          "role_ja": "関係代名詞節",
+          "literal_ja": "自衛の決意のない国を支援するであろう",
+          "note_ja": "lack the resolve to defend itself＝自衛する決意を欠く。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s009",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The proposal does not mention revising Japan's three non-nuclear principles, despite Takaichi's interest in reviewing them, instead emphasizing the need to \"further ensure the credibility of U.S. extended deterrence.\"",
+      "translation_ja": "提案は、高市氏が見直しに関心を示しているにもかかわらず、日本の三つの非核原則の改定には触れず、代わりに「米国の拡大抑止の信頼性をさらに確保する」必要性を強調している。",
+      "grammar_ja": "despite + 名詞句、instead emphasizing（対比の分詞構文）。extended deterrence は安保用語。",
+      "chunks": [
+        {
+          "text": "The proposal does not mention revising Japan's three non-nuclear principles",
+          "role_ja": "主節",
+          "literal_ja": "提案は日本の三つの非核原則の改定に言及しない",
+          "note_ja": "non-nuclear principles＝非核三原則。"
+        },
+        {
+          "text": "despite Takaichi's interest in reviewing them",
+          "role_ja": "譲歩",
+          "literal_ja": "高市氏がそれらの見直しに関心を持っているにもかかわらず",
+          "note_ja": "despite は in spite of と同義。"
+        },
+        {
+          "text": "instead emphasizing the need to \"further ensure the credibility of U.S. extended deterrence.\"",
+          "role_ja": "対比の分詞構文",
+          "literal_ja": "代わりに米国の拡大抑止の信頼性をさらに確保する必要性を強調して",
+          "note_ja": "extended deterrence＝核による抑止力の提供。"
+        }
+      ],
+      "deep_dive_ja": "despite と instead の組み合わせで、首相の関心と党の慎重姿勢のズレを簡潔に示している。",
+      "difficulty": "hard",
+      "sentence_id": "s010"
+    },
+    {
+      "text": "Takaichi, known for her hawkish national security stances, had raised concerns before taking office in October that the principle of not allowing nuclear weapons to be brought into Japan could undermine the effectiveness of the so-called U.S. nuclear umbrella.",
+      "translation_ja": "国家安全保障で強硬派として知られる高市氏は、10月の就任前に、核兵器の日本持ち込みを認めない原則が、いわゆる米国の核の傘の有効性を損なう可能性があると懸念を示していた。",
+      "grammar_ja": "known for... は挿入の過去分詞。had raised concerns that... は間接話法。could undermine は可能性の弱い助動詞。",
+      "chunks": [
+        {
+          "text": "Takaichi, known for her hawkish national security stances",
+          "role_ja": "主語＋挿入句",
+          "literal_ja": "強硬な国家安全保障姿勢で知られる高市氏は",
+          "note_ja": "hawkish＝強硬・タカ派。"
+        },
+        {
+          "text": "had raised concerns before taking office in October",
+          "role_ja": "述語＋時",
+          "literal_ja": "10月に就任する前に懸念を示していた",
+          "note_ja": "過去完了は就任以前の発言を示す。"
+        },
+        {
+          "text": "that the principle of not allowing nuclear weapons to be brought into Japan",
+          "role_ja": "内容節（主語）",
+          "literal_ja": "核兵器の日本持ち込みを認めないという原則が",
+          "note_ja": "allow ... to be brought into＝持ち込みを認める。"
+        },
+        {
+          "text": "could undermine the effectiveness of the so-called U.S. nuclear umbrella",
+          "role_ja": "述語部",
+          "literal_ja": "いわゆる米国の核の傘の有効性を損なう可能性がある",
+          "note_ja": "nuclear umbrella＝核による保護。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s011",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "First advocated in 1967, the three principles also include prohibiting Japan from possessing and producing nuclear weapons.",
+      "translation_ja": "1967年に初めて提唱された三原則は、日本が核兵器を保有・製造することを禁じる内容も含む。",
+      "grammar_ja": "First advocated in 1967 は主語 the three principles を修飾する分詞構文。prohibit A from doing は重要パターン。",
+      "chunks": [
+        {
+          "text": "First advocated in 1967",
+          "role_ja": "分詞構文（背景）",
+          "literal_ja": "1967年に初めて提唱されて",
+          "note_ja": "主語の歴史的背景を前置。"
+        },
+        {
+          "text": "the three principles also include",
+          "role_ja": "主節",
+          "literal_ja": "三原則はまた含む",
+          "note_ja": "also は他の原則に加えてという意味。"
+        },
+        {
+          "text": "prohibiting Japan from possessing and producing nuclear weapons",
+          "role_ja": "内容（動名詞）",
+          "literal_ja": "日本が核兵器を保有・製造することを禁じること",
+          "note_ja": "prohibit from＝～することを禁じる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s012",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The LDP document also urges consideration of \"next-generation propulsion systems\" for submarines carrying long-range missiles, though it did not mention any specific ideas such as nuclear power.",
+      "translation_ja": "自民党の文書は、長距離ミサイルを搭載する潜水艦向けの「次世代推進システム」の検討も求めているが、原子力など具体的な案には触れていない。",
+      "grammar_ja": "urges consideration of...（consideration を目的語にする）。though 節で譲歩。such as で例示。",
+      "chunks": [
+        {
+          "text": "The LDP document also urges consideration of \"next-generation propulsion systems\"",
+          "role_ja": "主節",
+          "literal_ja": "自民党文書は次世代推進システムの検討を求める",
+          "note_ja": "urge consideration of＝～の検討を促す。"
+        },
+        {
+          "text": "for submarines carrying long-range missiles",
+          "role_ja": "対象を示す前置詞句",
+          "literal_ja": "長距離ミサイルを搭載する潜水艦向けの",
+          "note_ja": "carrying は submarines を修飾。"
+        },
+        {
+          "text": "though it did not mention any specific ideas such as nuclear power",
+          "role_ja": "譲歩節",
+          "literal_ja": "しかし原子力のような具体的案には言及しなかったが",
+          "note_ja": "though＝とはいえ。such as で例を挙げる。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s013",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It calls for stronger counterstrike capabilities and greater use of artificial intelligence and unmanned systems, reflecting what it describes as a new way of warfare.",
+      "translation_ja": "それは反撃能力の強化と、人工知能や無人システムのより積極的な活用を求め、自らが新たな戦争の形態と呼ぶ変化を反映している。",
+      "grammar_ja": "calls for A and B の並列。reflecting... は理由・内容の分詞構文。what it describes as... は関係代名詞節。",
+      "chunks": [
+        {
+          "text": "It calls for stronger counterstrike capabilities",
+          "role_ja": "主節（一部）",
+          "literal_ja": "それはより強い反撃能力を求める",
+          "note_ja": "stronger は比較級。"
+        },
+        {
+          "text": "and greater use of artificial intelligence and unmanned systems",
+          "role_ja": "並列",
+          "literal_ja": "そしてAIと無人システムのより大きな活用を",
+          "note_ja": "greater use of＝より積極的な利用。"
+        },
+        {
+          "text": "reflecting what it describes as a new way of warfare",
+          "role_ja": "分詞構文",
+          "literal_ja": "それが新たな戦争の形態と表現するものを反映して",
+          "note_ja": "describe A as B＝AをBと表現する。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s014",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "The party also urges deploying radar systems and other assets to strengthen monitoring and response capabilities across the Pacific, where China has expanded its presence.",
+      "translation_ja": "与党はまた、中国が存在感を拡大している太平洋全域で監視・対応能力を強化するため、レーダーシステムなどの装備の配備も求めている。",
+      "grammar_ja": "urges deploying...（動名詞）。where 関係副詞節で地域の状況を補足。across the Pacific は広域を示す。",
+      "chunks": [
+        {
+          "text": "The party also urges deploying radar systems and other assets",
+          "role_ja": "主節",
+          "literal_ja": "与党はレーダーなどの配備を求める",
+          "note_ja": "assets＝軍事的資産・装備。"
+        },
+        {
+          "text": "to strengthen monitoring and response capabilities across the Pacific",
+          "role_ja": "目的",
+          "literal_ja": "太平洋全域で監視・対応能力を強化するために",
+          "note_ja": "monitoring and response＝監視と対応。"
+        },
+        {
+          "text": "where China has expanded its presence",
+          "role_ja": "関係副詞節",
+          "literal_ja": "そこで中国が存在感を拡大している",
+          "note_ja": "expand one's presence＝影響力・存在を広げる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s015",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "Drawing lessons from Russia's invasion of Ukraine, now in its fifth year, the proposal stresses the need to sustain military operations for years rather than months.",
+      "translation_ja": "ロシアのウクライナ侵攻から5年目に入る中で得た教訓を踏まえ、提案は軍事作戦を数か月ではなく数年にわたって維持する必要性を強調している。",
+      "grammar_ja": "Drawing lessons from... は分詞構文で理由。rather than months は対比。stress the need to... は公式文書の表現。",
+      "chunks": [
+        {
+          "text": "Drawing lessons from Russia's invasion of Ukraine, now in its fifth year",
+          "role_ja": "分詞構文（背景）",
+          "literal_ja": "ウクライナ侵攻から5年目のロシアの事例から教訓を引きながら",
+          "note_ja": "draw lessons from＝～から教訓を得る。"
+        },
+        {
+          "text": "the proposal stresses the need",
+          "role_ja": "主節",
+          "literal_ja": "提案は必要性を強調する",
+          "note_ja": "stress the need＝必要性を強調。"
+        },
+        {
+          "text": "to sustain military operations for years rather than months",
+          "role_ja": "内容（不定詞）",
+          "literal_ja": "軍事作戦を数か月ではなく数年維持することの",
+          "note_ja": "rather than＝～ではなく。sustain＝持続させる。"
+        }
+      ],
+      "difficulty": "medium",
+      "sentence_id": "s016",
+      "deep_dive_ja": ""
+    },
+    {
+      "text": "It also calls for legal measures to boost production at times of emergency, including a system under which the government would own defense manufacturing facilities while private companies operate them.",
+      "translation_ja": "それはまた、緊急時に生産を増強するための法的措置も求めており、政府が防衛関連の製造施設を所有し民間企業が運営する仕組みなども含まれる。",
+      "grammar_ja": "calls for legal measures to...。under which は関係代名詞。while 節は同時進行・役割分担。",
+      "chunks": [
+        {
+          "text": "It also calls for legal measures to boost production at times of emergency",
+          "role_ja": "主節",
+          "literal_ja": "それは緊急時に生産を増強する法的措置を求める",
+          "note_ja": "at times of emergency＝緊急時に。"
+        },
+        {
+          "text": "including a system under which the government would own defense manufacturing facilities",
+          "role_ja": "具体例",
+          "literal_ja": "政府が防衛製造施設を所有する仕組みを含めて",
+          "note_ja": "under which＝その下で／その仕組みのもとで。"
+        },
+        {
+          "text": "while private companies operate them",
+          "role_ja": "付随節",
+          "literal_ja": "民間企業がそれらを運営する一方で",
+          "note_ja": "while は同時性と対比の両方を示しうる。"
+        }
+      ],
+      "difficulty": "hard",
+      "sentence_id": "s017",
+      "deep_dive_ja": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "stop short of",
+      "pronunciation": "/stɒp ʃɔːt əv/",
+      "meaning_ja": "～までは踏み込まない、～しきれない",
+      "example": "The proposal stopped short of setting a specific spending target.",
+      "example_ja": "提案は具体的な支出目標の設定までは踏み込まなかった。",
+      "source_sentence_id": "s002"
+    },
+    {
+      "word": "behind the scenes",
+      "pronunciation": "/bɪˈhaɪnd ðə siːnz/",
+      "meaning_ja": "水面下で、裏で",
+      "example": "The United States urged partners publicly or behind the scenes.",
+      "example_ja": "アメリカは公然と、あるいは水面下でパートナー国に求めた。",
+      "source_sentence_id": "s004"
+    },
+    {
+      "word": "buildup",
+      "pronunciation": "/ˈbɪldʌp/",
+      "meaning_ja": "（段階的な）強化、増強",
+      "example": "Japan accelerates its defense buildup.",
+      "example_ja": "日本は防衛力強化を加速している。",
+      "source_sentence_id": "s005"
+    },
+    {
+      "word": "counterstrike capabilities",
+      "pronunciation": "/ˈkaʊntəstraɪk ˌkeɪpəˈbɪlətiz/",
+      "meaning_ja": "反撃能力（敵の攻撃拠点への打撃能力）",
+      "example": "The strategy called for the acquisition of counterstrike capabilities.",
+      "example_ja": "戦略は反撃能力の獲得を求めた。",
+      "source_sentence_id": "s006"
+    },
+    {
+      "word": "extended deterrence",
+      "pronunciation": "/ɪkˈstendɪd dɪˈterəns/",
+      "meaning_ja": "拡大抑止（同盟国に核による抑止力を提供すること）",
+      "example": "The proposal emphasizes ensuring the credibility of U.S. extended deterrence.",
+      "example_ja": "提案は米国の拡大抑止の信頼性確保を強調している。",
+      "source_sentence_id": "s010"
+    },
+    {
+      "word": "hawkish",
+      "pronunciation": "/ˈhɔːkɪʃ/",
+      "meaning_ja": "強硬な、タカ派的な",
+      "example": "Takaichi is known for her hawkish national security stances.",
+      "example_ja": "高市氏は国家安全保障で強硬派として知られる。",
+      "source_sentence_id": "s011"
+    },
+    {
+      "word": "propulsion system",
+      "pronunciation": "/prəˈpʌlʃn ˈsɪstəm/",
+      "meaning_ja": "推進システム、動力装置",
+      "example": "The document urges consideration of next-generation propulsion systems.",
+      "example_ja": "文書は次世代推進システムの検討を求めている。",
+      "source_sentence_id": "s013"
+    },
+    {
+      "word": "sustain",
+      "pronunciation": "/səˈsteɪn/",
+      "meaning_ja": "（長期間）維持する、持続させる",
+      "example": "The proposal stresses the need to sustain military operations for years.",
+      "example_ja": "提案は軍事作戦を数年維持する必要性を強調している。",
+      "source_sentence_id": "s016"
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "participial-reason",
+      "title": "Participial phrases for reason/background (citing, drawing, reflecting)",
+      "rule": "A present participle phrase at the start or end of a sentence adds reason, manner, or background without a full clause.",
+      "example": "Citing moves by other nations, the LDP called for securing funding.",
+      "meaning_ja": "分詞構文（citing, drawing, reflecting など）は、主節の理由・背景・付随状況を簡潔に付け加える。ニュース記事で非常に多い。"
+    },
+    {
+      "id": "stop-short-of",
+      "title": "stop short of + gerund",
+      "rule": "Means to almost do something but not go as far as that action.",
+      "example": "The proposal stopped short of setting a specific target.",
+      "meaning_ja": "「～するところまでは踏み込まない」という慣用表現。政治的・外交的な慎重さを表すときに便利。"
+    },
+    {
+      "id": "call-for-gerund",
+      "title": "call for / urge + noun or gerund",
+      "rule": "Official requests often use call for or urge followed by a noun phrase or -ing form.",
+      "example": "The party urges deploying radar systems and calls for legal measures.",
+      "meaning_ja": "公式提言では call for や urge の後に名詞・動名詞を置き、政策要求を表す。日本語の「～を求める」「～を促す」に対応。"
+    },
+    {
+      "id": "comes-as",
+      "title": "comes as + clause",
+      "rule": "Used in news to link an event to a simultaneous broader trend or situation.",
+      "example": "The move comes as Japan accelerates its defense buildup.",
+      "meaning_ja": "「～している時期にこの動きが出た」という時系列・背景のつなぎ。日本語の「～を受けて」「～の中で」に近い。"
+    }
+  ],
+  "schema_version": 2,
+  "analysis_level": "standard_with_deep_chunks",
+  "quality": {
+    "sentence_count": 17,
+    "noise_flags": [],
+    "ai_model": "cursor-agent",
+    "generated_at": "2026-06-10T14:29:08+09:00"
+  },
+  "article_id": "japantoday:2026-06-09:ldp-seeks-defense-funding-boost-citing-3"
+}
