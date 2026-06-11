@@ -118,6 +118,8 @@ Rules:
 - chunks: optional per sentence; include 3-8 chunks when the sentence is non-trivial.
 - deep_dive_ja: optional; 1-3 sentences when useful.
 - vocabulary: 5 to 8 useful words/phrases from the article.
+- vocabulary word: use the clearest headword for learners. Prefer collocations over bare ambiguous words (e.g. "castle keep" not "keep"; "opt for" not "opt"). If a common verb/noun homograph exists, include enough context in word and meaning_ja (e.g. meaning_ja: "（城の）天守閣 ※動詞 keep（保つ）とは別").
+- vocabulary example: must make the target word's part of speech obvious when read alone. Do NOT clip a fragment that looks like a different reading (bad: "the castle keeps long cherished" reads as verb keeps; good: "closed the castle keeps" or "Hiroshima Castle's reconstructed keep"). Include a verb, determiner, or possessive when needed so noun vs verb is unambiguous.
 - grammar_points: 2 to 4 article-level grammar patterns.
 - Use Japanese for summary_ja, translation_ja, grammar_ja, meaning_ja, example_ja, role_ja, literal_ja, note_ja, deep_dive_ja.
 - Do not wrap JSON in markdown.
